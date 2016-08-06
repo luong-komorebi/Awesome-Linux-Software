@@ -1,22 +1,13 @@
 # Awesome Ubuntu/Linux
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/VoLuong/Awesome-Ubuntu-Linux)
 
-![]([img]http://i.imgur.com/SLUDAWm.png[/img])
+![](http://i.imgur.com/wM629XS.jpg)
 
-This repo is a collection of **AWESOME** Mac applications and tools for developers and designers.
-Feel free to **contribute** / **star** / **fork** / **pull request** . Any **recommendations** and **suggestions** are welcomed.
 
-### Guideline to contribute 
+🐧 This repo is a collection of **AWESOME** Ubuntu/Linux applications and tools for **any users/developers**.
+🐧 Feel free to **contribute** / **star** / **fork** / **pull request** . Any **recommendations** and **suggestions** are welcomed.
 
-> Simeply put the name of the **application** in the list.
-> Link to its **homepage** or a **guide** on how to install it.  
-> Also write a **short description** for the application + add **icon**. 
-> Make sure it is put under the **appropriate topic**. 
-> If the application doesnt fit in any **existing topic**, make a **new one** for it.
-> Ensure everything is **alphabetically sorted**.
-
-*Items marked with ![Open-Source Software][OSS Icon] are open-source software and link to the source code. Items marked with ![Freeware][Freeware Icon] are free (as in free beer).*
 
 ## Table of Contents
 
@@ -48,6 +39,7 @@ Feel free to **contribute** / **star** / **fork** / **pull request** . Any **rec
     - [Reddit](#reddit)
 - [Learn Linux](#learn-linux)
 - [Contributors](#contributors)
+- [Guideline to Contribute](#guideline-to-contribute)
 
 
 ## Applications
@@ -265,6 +257,7 @@ Feel free to **contribute** / **star** / **fork** / **pull request** . Any **rec
 
 ### Others
 
+> To be added later
 
 ## Command Line Utilities
 
@@ -322,12 +315,26 @@ Feel free to **contribute** / **star** / **fork** / **pull request** . Any **rec
 ## Contributors
 
 List of contributors
- 1. __Me__ (LuongVo)
+ 1. __Me__ [(LuongVo)](https://github.com/VoLuong)
  2.  ....
 
 **[⬆ back to top](#table-of-contents)**
 
 
+<br>
+
+## Guideline to contribute 
+
+> Simeply put the name of the **application** in the list.
+> Link to its **homepage** or a **guide** on how to install it.  
+> Also write a **short description** for the application + add **icon**. 
+> Make sure it is put under the **appropriate topic**. 
+> If the application doesnt fit in any **existing topic**, make a **new one** for it.
+> Ensure everything is **alphabetically sorted**.
+
+*Items marked with ![Open-Source Software][OSS Icon] are open-source software and link to the source code. Items marked with ![Freeware][Freeware Icon] are free (as in free beer).*
+
+<br>
 ## License
 
 [![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
