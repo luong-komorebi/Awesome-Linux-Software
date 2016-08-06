@@ -14,6 +14,7 @@
 
 - [Applications](#applications)
     - [Audio](#audio)
+    - [Browsers] (#browsers)
     - [Chat Clients](#chat-clients)
     - [Data Recovery](#data-recovery)
     - [Desktop Customization](#desktop-customization)
@@ -55,6 +56,10 @@
 - [Let's make music](https://lmms.io/download/#linux) - Making music on your PC by creating melodies and beats, synthesizing and mixing sounds, arranging samples and much more. ![Freeware][Freeware Icon] 
 - [Mixxx](http://www.mixxx.org/download/) - Free DJ software that gives you everything you need to perform live mixes, veritable alternative to Traktor. [![Open-Source Software][OSS Icon]](https://github.com/mixxxdj/mixxx) ![Freeware][Freeware Icon]
 - [SoundJuicer](http://www.howtogeek.com/howto/20126/rip-audio-cds-with-sound-juicer/) - CD Ripping tool for GNOME ![Freeware][Freeware Icon] 
+
+### Browsers
+
+- [Chromium] (https://www.chromium.org/getting-involved/download-chromium) - Open-source browser behind Google Chrome. [![Open-Source Software][OSS Icon]](https://chromium.googlesource.com/) ![Freeware][Freeware Icon]
 
 ### Chat Clients
 
