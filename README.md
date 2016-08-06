@@ -6,6 +6,7 @@
 
 
 🐧 This repo is a collection of **AWESOME** Ubuntu/Linux applications and tools for **any users/developers**.
+<br>
 🐧 Feel free to **contribute** / **star** / **fork** / **pull request** . Any **recommendations** and **suggestions** are welcomed.
 
 
