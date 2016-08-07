@@ -55,12 +55,15 @@
 - [Audacity](http://www.audacityteam.org/download/linux/) - Free, open source, cross-platform software for recording and editing sounds. [![Open-Source Software][OSS Icon]](https://github.com/audacity/audacity) ![Freeware][Freeware Icon]
 - [Clementine](https://www.clementine-player.org/) - Play numerous lossy and lossless audio formats. ![Freeware][Freeware Icon]
 - [Hydrogen](http://www.hydrogen-music.org/hcms/node/21) - Advanced drum machine for GNU/Linux. ![Freeware][Freeware Icon]
+- [KxStudio](http://kxstudio.linuxaudio.org/) - KXStudio is a collection of applications and plugins for professional audio production.![Freeware][Freeware Icon]'
+- [K3b](http://www.k3b.org/) - K3b - The CD/DVD Kreator for Linux - optimized for KDE.[![Open-Source Software][OSS Icon]](https://github.com/KDE/k3b)![Freeware][Freeware Icon]
 - [Let's make music](https://lmms.io/download/#linux) - Making music on your PC by creating melodies and beats, synthesizing and mixing sounds, arranging samples and much more. ![Freeware][Freeware Icon] 
 - [Mixxx](http://www.mixxx.org/download/) - Free DJ software that gives you everything you need to perform live mixes, veritable alternative to Traktor. [![Open-Source Software][OSS Icon]](https://github.com/mixxxdj/mixxx) ![Freeware][Freeware Icon]
 - [SoundJuicer](http://www.howtogeek.com/howto/20126/rip-audio-cds-with-sound-juicer/) - CD Ripping tool for GNOME ![Freeware][Freeware Icon] 
 
 
 ### Chat Clients
+- [HexChat](https://hexchat.github.io/) - HexChat is an IRC client based on XChat, but unlike XChat it’s completely free for both Windows and Unix-like system.[![Open-Source Software][OSS Icon]](https://github.com/hexchat) ![Freeware][Freeware Icon] 
 - [Messenger for Desktop](https://messengerfordesktop.com/#download) - An app for Facebook messenger. [![Open-Source Software][OSS Icon]](https://github.com/Aluxian/Facebook-Messenger-Desktop) ![Freeware][Freeware Icon]
 - [Pidgin](http://askubuntu.com/questions/307622/update-pidgin-using-apt-get) - A universal chat client. ![Freeware][Freeware Icon]
 - [ScudCloud](https://github.com/raelgc/scudcloud/) - A Slack-client for linux. [![Open-Source Software][OSS Icon]](https://github.com/raelgc/scudcloud/) ![Freeware][Freeware Icon]
@@ -100,7 +103,9 @@
 - [Geany](https://www.geany.org/) - Geany is a text editor using the GTK+ toolkit with basic features of an integrated development environment. It was developed to provide a small and fast IDE, which has only a few dependencies from other packages. [![Open-Source Software][OSS Icon]](https://www.geany.org/Download/Git)![Freeware][Freeware Icon]
 - [Git](https://git-scm.com/) - Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.![Freeware][Freeware Icon]
 - [IntelliJ IDEA](https://www.jetbrains.com/idea/) - Powerful IDE for JAVA ![Freeware][Freeware Icon]
+- [KDevelop](https://www.kdevelop.org/) - It is a free, open source IDE, feature-full, plugin extensible IDE for C/C++ and other programming languages.![Freeware][Freeware Icon]
 - [Lighttable](http://lighttable.com/) - the next generation code editor! Support live coding. ![Freeware][Freeware Icon]
+- [MariaDB](https://mariadb.org/) - One of the most popular database servers. Made by the original developers of MySQL.![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]]( https://mariadb.org/get-involved/getting-started-for-developers/)
 - [Nemiver](https://github.com/GNOME/nemiver) - Nemiver is a project to write a standalone graphical debugger that integrates well in the GNOME desktop environment. [![Open-Source Software][OSS Icon]](https://github.com/GNOME/nemiver) ![Freeware][Freeware Icon]
 - [NodeJS](https://nodejs.org/en/) - Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine. ![Freeware][Freeware Icon]
 - [Oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) A delightful community-driven framework for managing your zsh configuration. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]]( https://github.com/robbyrussell/oh-my-zsh)
@@ -122,6 +127,7 @@
 - [FBReader](https://fbreader.org/content/fbreader-beta-linux-desktop) - One of the most popular eReader apps. ![Freeware][Freeware Icon]
 - [Lucidor](http://www.lucidor.org/lucidor/) - Lucidor is a computer program for reading and handling e-books. Lucidor supports e-books in the EPUB file format, and catalogs in the OPDS format. ![Freeware][Freeware Icon]
 - [Okular](https://okular.kde.org/) - Okular is a universal document viewer based developed by KDE. Okular works on multiple platforms, including but not limited to Linux, Windows, Mac OS X, *BSD, etc.![Freeware][Freeware Icon]
+- [Sigil](https://github.com/Sigil-Ebook/Sigil) - Sigil is a multi-platform EPUB ebook editor.[![Open-Source Software][OSS Icon]](https://github.com/Sigil-Ebook/Sigil) ![Freeware][Freeware Icon]
 
 
 ### Editors
@@ -131,6 +137,7 @@
 - [Emacs](https://www.gnu.org/software/emacs/) - An extensible, customizable, free/libre text editor — and more. [![Open-Source Software][OSS Icon]](https://github.com/emacs-mirror/emacs)![Freeware][Freeware Icon]
 - [Geany](https://www.geany.org/) - Geany is a text editor using the GTK+ toolkit with basic features of an integrated development environment. It was developed to provide a small and fast IDE, which has only a few dependencies from other packages. [![Open-Source Software][OSS Icon]](https://www.geany.org/Download/Git)![Freeware][Freeware Icon]
 - [Gedit](https://wiki.gnome.org/Apps/Gedit) -gedit is the GNOME text editor. While aiming at simplicity and ease of use, gedit is a powerful general purpose text editor.![Freeware][Freeware Icon]
+- [Kate](https://kate-editor.org/get-it/) - Kate is a multi-document editor part of KDE since release 2.2. [![Open-Source Software][OSS Icon]](https://kate-editor.org/build-it/)![Freeware][Freeware Icon]
 - [Lighttable](http://lighttable.com/) -the next generation code editor! Support live coding. ![Freeware][Freeware Icon]
 - [Sublime](https://www.sublimetext.com/) - One of the best text editor of all time. ![Freeware][Freeware Icon]
 - [VSCode](https://code.visualstudio.com) - Visual Studio Code is a lightweight but powerful source code editor which runs on your desktop and is available for Windows, OS X and Linux. It comes with built-in support for JavaScript, TypeScript and Node.js and has a rich ecosystem of extensions for other languages (C++, C#, Python, PHP) and runtimes.![Freeware][Freeware Icon]
@@ -155,6 +162,7 @@
 
 ### Games
 - [Civilization5](http://www.civilization5.com/) - Sid Meier’s Civilization® is recognized as one of the greatest strategy franchises of all-time.
+- [Cockatrice](https://cockatrice.github.io/) - Cockatrice is an open-source multiplatform supported program for playing tabletop card games over a network.[![Open-Source Software][OSS Icon]](https://github.com/Cockatrice) ![Freeware][Freeware Icon]
 - [Minecraft](https://minecraft.net/en/download/?ref=m) - Minecraft is a game about placing blocks and going on adventures. Explore randomly generated worlds and build amazing things from the simplest of homes to the grandest of castles.![Freeware][Freeware Icon]
 - [PlayOnLinux](https://www.playonlinux.com/en/) - Play Windows Game on Linux. [![Open-Source Software][OSS Icon]](https://github.com/PlayOnLinux/POL-POM-4) ![Freeware][Freeware Icon]
 - [Steam](http://store.steampowered.com/) - Awesome Gaming platform, which open the gates to many games.![Freeware][Freeware Icon]
