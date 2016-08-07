@@ -235,8 +235,7 @@
 - [Todoist](https://github.com/kamhix/todoist-linux) - Unofficial client of Todoist, the Cross-platform to-do manager with mobile apps, great UI and has some optional premium features.[![Open-Source Software][OSS Icon]](https://github.com/kamhix/todoist-linux) ![Freeware][Freeware Icon]
 - [Undistract me](https://github.com/jml/undistract-me) - Notifies you when long-running terminal commands complete. [![Open-Source Software][OSS Icon]](https://github.com/jml/undistract-me) ![Freeware][Freeware Icon]
 - [Xmind](http://www.xmind.net/) - Mind Mapping Tool.
-- [Weather](http://ubuntuhandbook.org/index.php/2016/04/weather-indicator-desktop-widget-ubuntu-16-04/) - Weather indicator and widget for ubuntu.![Freeware][Freeware Icon]
-
+- [My Weather Indicator](http://ubuntuhandbook.org/index.php/2016/04/weather-indicator-desktop-widget-ubuntu-16-04/) - Weather indicator and widget for ubuntu.![Freeware][Freeware Icon]
 
 ### Security
 - [ClamAV](https://www.clamav.net/) - Clam Anti Virus ![Freeware][Freeware Icon]
