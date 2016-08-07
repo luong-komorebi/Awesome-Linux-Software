@@ -109,6 +109,7 @@
 - [Git](https://git-scm.com/) - Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.![Freeware][Freeware Icon]
 - [IntelliJ IDEA](https://www.jetbrains.com/idea/) - Powerful IDE for JAVA ![Freeware][Freeware Icon]
 - [KDevelop](https://www.kdevelop.org/) - It is a free, open source IDE, feature-full, plugin extensible IDE for C/C++ and other programming languages.![Freeware][Freeware Icon]
+- [Komodo Edit](http://komodoide.com/komodo-edit/) - Free and open source multilanguage development environment. ![Freeware][Freeware Icon]
 - [Lighttable](http://lighttable.com/) - the next generation code editor! Support live coding. ![Freeware][Freeware Icon]
 - [MariaDB](https://mariadb.org/) - One of the most popular database servers. Made by the original developers of MySQL.![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://mariadb.org/get-involved/getting-started-for-developers/)
 - [MonoDevelop](http://www.monodevelop.com/) - Cross platform IDE for C#, F# and more.![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](http://www.monodevelop.com/developers/)
@@ -234,8 +235,7 @@
 - [Todoist](https://github.com/kamhix/todoist-linux) - Unofficial client of Todoist, the Cross-platform to-do manager with mobile apps, great UI and has some optional premium features.[![Open-Source Software][OSS Icon]](https://github.com/kamhix/todoist-linux) ![Freeware][Freeware Icon]
 - [Undistract me](https://github.com/jml/undistract-me) - Notifies you when long-running terminal commands complete. [![Open-Source Software][OSS Icon]](https://github.com/jml/undistract-me) ![Freeware][Freeware Icon]
 - [Xmind](http://www.xmind.net/) - Mind Mapping Tool.
-- [Weather](http://ubuntuhandbook.org/index.php/2016/04/weather-indicator-desktop-widget-ubuntu-16-04/) - Weather indicator and widget for ubuntu.![Freeware][Freeware Icon]
-
+- [My Weather Indicator](http://ubuntuhandbook.org/index.php/2016/04/weather-indicator-desktop-widget-ubuntu-16-04/) - Weather indicator and widget for ubuntu.![Freeware][Freeware Icon]
 
 ### Security
 - [ClamAV](https://www.clamav.net/) - Clam Anti Virus ![Freeware][Freeware Icon]
