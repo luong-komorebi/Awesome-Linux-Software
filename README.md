@@ -239,7 +239,8 @@
 - [GParted](http://gparted.org/) - Disk Partition utility for ubuntu/linux. ![Freeware][Freeware Icon]
 - [GRadio](https://github.com/haecker-felix/gradio/releases/) - Radio software for ubuntu linux. [![Open-Source Software][OSS Icon]](https://github.com/haecker-felix/gradio/releases/) ![Freeware][Freeware Icon]
 - [Handbrake](https://handbrake.fr/) - Video converter. ![Freeware][Freeware Icon]
-- [KeepPass](https://www.keepassx.org/) - Cross platform password manager.![Freeware][Freeware Icon]
+- [KeePass](https://www.keepass.info/) - Windows focused password manager, with some cross platform support through Mono. ![Freeware][Freeware Icon]
+- [KeePassX](https://www.keepassx.org/) - Cross platform password manager. Port of KeePass. [![Open-Source Software][OSS Icon]](https://github.com/keepassx/keepassx) ![Freeware][Freeware Icon]
 - [ImageMagik](http://www.imagemagick.org/script/index.php) - ImageMagick is a suite of command-line utilities for modifying and working with images. ![Freeware][Freeware Icon]
 - [LastPass](https://lastpass.com/misc_download2.php) - Cross platform password <manager class="" Freeware="" Icon=""></manager>
 - [Powertop](https://01.org/powertop/downloads) - Diagnose issue with powerconsumption.![Freeware][Freeware Icon]
