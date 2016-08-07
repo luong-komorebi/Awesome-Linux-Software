@@ -127,6 +127,7 @@
 - [Atom](https://atom.io/) - Hackable text editor for the 21st century. [![Open-Source Software][OSS Icon]](https://github.com/atom/atom) ![Freeware][Freeware Icon]
 - [Bluefish](http://bluefish.openoffice.nl/index.html) - Bluefish is a powerful editor targeted towards programmers and webdevelopers, with many options to write websites, scripts and programming code.![Freeware][Freeware Icon]
 - [Brackets](http://brackets.io/) - A modern text editor that understands web design. [![Open-Source Software][OSS Icon]](https://github.com/adobe/brackets) ![Freeware][Freeware Icon]
+- [Emacs](https://www.gnu.org/software/emacs/) - An extensible, customizable, free/libre text editor — and more. [![Open-Source Software][OSS Icon]](https://github.com/emacs-mirror/emacs)![Freeware][Freeware Icon]
 - [Geany](https://www.geany.org/) - Geany is a text editor using the GTK+ toolkit with basic features of an integrated development environment. It was developed to provide a small and fast IDE, which has only a few dependencies from other packages. [![Open-Source Software][OSS Icon]](https://www.geany.org/Download/Git)![Freeware][Freeware Icon]
 - [Gedit](https://wiki.gnome.org/Apps/Gedit) -gedit is the GNOME text editor. While aiming at simplicity and ease of use, gedit is a powerful general purpose text editor.![Freeware][Freeware Icon]
 - [Lighttable](http://lighttable.com/) -the next generation code editor! Support live coding. ![Freeware][Freeware Icon]
@@ -181,8 +182,11 @@
 
 
 ### Internet
+- [Brave](https://brave.com/) - Brave is a fast, good desktop browser for macOS, Windows, and Linux.![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/brave/browser-laptop) 
 - [Chrome](https://www.google.com/chrome/browser/desktop/index.html) - A popular Web Browsers with a lot of plugins/apps.![Freeware][Freeware Icon]
 - [Firefox](www.mozilla.org/firefox) - A popular Web Browsers with a lot of plugins/apps.![Freeware][Freeware Icon]
+- [Vivaldi](https://vivaldi.com/?lang=en) - A new and rising browser with a lot of customizations.![Freeware][Freeware Icon]
+
 
 
 ### Productivity
@@ -197,6 +201,7 @@
 - [Go For It](http://manuel-kehl.de/projects/go-for-it/) - Go For It! is a simple and stylish productivity app, featuring a to-do list, merged with a timer that keeps your focus on the current task.![Freeware][Freeware Icon]
 - [Libre Office](https://www.libreoffice.org/) - Best office bundle for linux.![Freeware][Freeware Icon]
 - [Plank](https://launchpad.net/plank) - Plank is meant to be the simplest dock of apps on the planet.
+- [Pomodone App](http://pomodoneapp.com/) - PomoDoneApp is the easiest way to track your workflow using Pomodoro technique®, on top of your current task management service.![Freeware][Freeware Icon]
 - [Recent Noti](https://itsfoss.com/7-best-indicator-applets-for-ubuntu-13-10/) - An indicator for recent notification.![Freeware][Freeware Icon]
 - [Shutter](http://shutter-project.org/) - Shutter is a feature-rich screenshot program for Linux based operating systems such as Ubuntu. ![Freeware][Freeware Icon]
 - [Simplenote](https://simplenote.com/) - Cross platform notetaking app. Evernote competitor.![Freeware][Freeware Icon]
@@ -210,21 +215,23 @@
 
 
 ### Security
-- [ClamAV](https://www.clamav.net/) - Clam Anti Virus
-- [GnuPG](https://www.gnupg.org/) - Gnu Privacy Guard
-- [OpenSSH](http://www.openssh.com/) - OpenSSH Secure Shell Server and Client
-- [Seahorse](https://wiki.gnome.org/Apps/Seahorse) - Gnome frontend for GnuPG
-- [Tcpdump](http://www.tcpdump.org/) - TCP Debugging/Capture Tool
+- [ClamAV](https://www.clamav.net/) - Clam Anti Virus ![Freeware][Freeware Icon]
+- [GnuPG](https://www.gnupg.org/) - Gnu Privacy Guard![Freeware][Freeware Icon]
+- [OpenSSH](http://www.openssh.com/) - OpenSSH Secure Shell Server and Client![Freeware][Freeware Icon]
+- [Seahorse](https://wiki.gnome.org/Apps/Seahorse) - Gnome frontend for GnuPG![Freeware][Freeware Icon]
+- [Tcpdump](http://www.tcpdump.org/) - TCP Debugging/Capture Tool![Freeware][Freeware Icon]
 
 
 ### Sharing Files
-- [D-lan](http://www.d-lan.net/) - A free LAN file sharing software.![Freeware][Freeware Icon]
+- [CrossFTP](http://www.crossftp.com/ftp-client.htm) - CrossFTP makes it extremely simple to manage the FTP related tasks.![Freeware][Freeware Icon] 
+- [D-lan](http://www.d-lan.net/) - A free LAN file sharing software.![Freeware][Freeware Icon] 
+- [Deluge](http://deluge-torrent.org/) - Deluge is a lightweight, Free Software, cross-platform BitTorrent client.[![Open-Source Software][OSS Icon]](http://dev.deluge-torrent.org/wiki/Development#SourceCode)![Freeware][Freeware Icon]
 - [Dropbox](https://www.dropbox.com/install?os=lnx) - Dropbox is a free service that lets you bring your photos, docs, and videos anywhere and share them easily.![Freeware][Freeware Icon]
 - [Meiga](http://meiga.igalia.com/) - a tool that makes possible to share selected local directories via web. [![Open-Source Software][OSS Icon]](http://git.igalia.com/meiga.git) ![Freeware][Freeware Icon]
 - [ownCloud](https://owncloud.com/products/desktop-clients/) - The goal of ownCloud is to give you access to your files wherever you are![Freeware][Freeware Icon]
 - [Quazaa](https://sourceforge.net/projects/quazaa/) - A cross platform multi-network peer-to-peer (P2P) file-sharing client.![Freeware][Freeware Icon]
 - [PushBullet](https://www.pushbullet.com/) - Pushbullet connects your devices, making them feel like one.![Freeware][Freeware Icon]
-- [Resilio](https://www.getsync.com/) - Multi platform sync tool using BitTorrent protocol. ![Freeware][Freeware Icon]
+- [qBittorent](http://www.qbittorrent.org/) - The qBittorrent project aims to provide a Free Software alternative to µTorrent.[![Open-Source Software][OSS Icon]](https://github.com/qbittorrent/qBittorrent) ![Freeware][Freeware Icon]
 - [SpiderOak](https://spideroak.com/) - Real-time collaboration for teams and businesses that care about privacy ![Freeware][Freeware Icon]
 - [Teamviewer](https://www.teamviewer.com/ ) - PC remote control/remote access software, free for personal use.![Freeware][Freeware Icon]
 - [Transmission](https://www.transmissionbt.com/download/) - Simple, lightweight, multi-platform torrent client. [![Open-Source Software][OSS Icon]](https://trac.transmissionbt.com/browser/trunk) ![Freeware][Freeware Icon]
@@ -234,6 +241,7 @@
 - [GnomeTerminal](https://help.gnome.org/users/gnome-terminal/stable/) - A widely preinstalled terminal emulator in linux world ![Freeware][Freeware Icon]
 - [Guake](http://guake.org/) - Guake is a top-down terminal for Gnome![Freeware][Freeware Icon]
 - [Konsole](https://konsole.kde.org/) - Best terminal for KDE dekstop environment.![Freeware][Freeware Icon]
+- [RXVT](http://rxvt.sourceforge.net/) - A terminal emulator for X11, a popular replacement for the standard ‘xterm’.[![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/rxvt/)![Freeware][Freeware Icon]
 - [Terminator](http://gnometerminator.blogspot.com/p/introduction.html) - it’s quite clear that the most powerful terminal emulator on Linux is the feature-filled Terminator.![Freeware][Freeware Icon]
 - [Xterm](http://invisible-island.net/xterm/) - The xterm program is a terminal emulator for the X Window System. It provides DEC VT102 and Tektronix 4014 compatible terminals for programs that can't use the window system directly.![Freeware][Freeware Icon]
 
@@ -257,12 +265,18 @@
 - [Pulse Audio](https://wiki.ubuntu.com/PulseAudio) - Improve Linux Audio with customized Profiles. ![Freeware][Freeware Icon]
 - [Peazip](http://www.peazip.org/) - Utility to unzip any zipped files ![Freeware][Freeware Icon]
 - [Remarkable](https://remarkableapp.github.io/) - Best Markdown editor in Ubuntu/Linux.![Freeware][Freeware Icon]
+- [Remmina](http://www.remmina.org/wp/) - A FEATURE RICH REMOTE DESKTOP APPLICATION FOR LINUX AND OTHER UNIXES.[![Open-Source Software][OSS Icon]](https://github.com/FreeRDP/Remmina) ![Freeware][Freeware Icon]
 - [Systemload](http://www.omgubuntu.co.uk/2014/06/system-monitor-indicator-ubuntu-ppa) - Show systemload in status bar.![Freeware][Freeware Icon]
 - [Synaptic](http://www.nongnu.org/synaptic/) - Synaptic is a graphical package management program for apt.![Freeware][Freeware Icon]
 - [TLP](http://linrunner.de/en/tlp/docs/tlp-linux-advanced-power-management.html) - Optimize Linux battery.![Freeware][Freeware Icon]
+- [Variety](http://peterlevi.com/variety/) - Variety is an open-source wallpaper changer for Linux, packed with great features, yet slim and easy to use. [![Open-Source Software][OSS Icon]](https://github.com/peterlevi/variety-slideshow) ![Freeware][Freeware Icon]
 - [WallpaperChange](https://apps.ubuntu.com/cat/applications/raring/wallch/) - Automatically change your wallpaper.![Freeware][Freeware Icon]
 
 ### Video
+- [Kodi](https://kodi.tv/about/) - An award-winning free and open source (GPL) software media center for playing videos, music, pictures, games, and more.[![Open-Source Software][OSS Icon]](https://github.com/xbmc/xbmc)![Freeware][Freeware Icon]
+- [MPlayer](http://www.mplayerhq.hu/design7/news.html) - MPlayer is a movie player which runs on many systems, play any kind of videos.![Freeware][Freeware Icon]
+- [MPV](https://www.mpv.io) - A free, open source, and cross-platform media player.[![Open-Source Software][OSS Icon]](https://github.com/mpv-player/mpv)![Freeware][Freeware Icon]
+- [SVP](https://www.svp-team.com/w/index.php?title=Main_Page) - SVP allows you to watch any video on your desktop computer using frame interpolation as it is available on high-end TVs and projectors.![Freeware][Freeware Icon]
 - [VLC](http://www.videolan.org/vlc/index.html) - VLC is a free and open source cross-platform multimedia player and framework that plays most multimedia files as well as DVDs, Audio CDs, VCDs, and various streaming protocols. ![Freeware][Freeware Icon]
 
 
@@ -272,13 +286,14 @@
 
 ## Command Line Utilities
 
+- [Fishfry](https://github.com/LubuntuFu/fishfry) - replaces fish history with a history tailored to pentesters for efficency and newbie pentesters for learning.[![Open-Source Software][OSS Icon]](https://github.com/LubuntuFu/fishfry)![Freeware][Freeware Icon]
 - [Top 10 command line tools](http://lifehacker.com/399468/top-10-command-line-tools)
 
 ## Setup
 
 ### Ubuntu
 
-- [What is Linux] (https://www.linux.com/what-is-linux)
+- [What is Linux](https://www.linux.com/what-is-linux)
 - [Basic Linux term](http://www.makeuseof.com/tag/linux-confusing-key-terms-definitions/)
 - [What is Ubuntu](https://en.wikipedia.org/wiki/Ubuntu_(operating_system))
 - [How to install Ubuntu](http://www.ubuntu.com/download/desktop/install-ubuntu-desktop)
@@ -325,9 +340,18 @@
 
 ## Contributors
 
-List of contributors
+[**List of contributors**](https://github.com/VoLuong/Awesome-Ubuntu-Linux/graphs/contributors) :
+
  1. __Me__ [(LuongVo)](https://github.com/VoLuong)
- 2.  ....
+ 2. [anewuser](https://github.com/anewuser)
+ 3. [nathanmusoke](https://github.com/nathanmusoke)
+ 4. [bpearson](https://github.com/bpearson)
+ 5. [orestisf1993](https://github.com/orestisf1993)
+ 6. [lasseborly](lasseborly)
+ 7. *Everyone @ reddit.com/r/linux & reddit.com/r/ubuntu for many suggestions and compliments*
+ ...
+
+ (*The list above is updated on 8th July 2016*)
 
 **[⬆ back to top](#table-of-contents)**
 
