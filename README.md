@@ -207,7 +207,7 @@
 - [Brave](https://brave.com/) - Brave is a fast, good desktop browser for macOS, Windows, and Linux.![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/brave/browser-laptop) 
 - [Chrome](https://www.google.com/chrome/browser/desktop/index.html) - A popular Web Browsers with a lot of plugins/apps.![Freeware][Freeware Icon]
 - [Chromium](http://askubuntu.com/questions/250773/how-do-i-install-chromium-from-the-command-line) - Chromium is an open-source browser project that aims to build a safer, faster, and more stable way for all users to experience the web.![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://www.chromium.org/) 
-- [Firefox](www.mozilla.org/firefox) - A popular Web Browsers with a lot of plugins/apps.![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide) 
+- [Firefox](https://www.mozilla.org/en-US/firefox/new/) - A popular Web Browsers with a lot of plugins/apps.![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide) 
 - [Vivaldi](https://vivaldi.com/?lang=en) - A new and rising browser with a lot of customizations.![Freeware][Freeware Icon]
 
 
