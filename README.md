@@ -61,7 +61,7 @@
 - [Let's make music](https://lmms.io/download/#linux) - Making music on your PC by creating melodies and beats, synthesizing and mixing sounds, arranging samples and much more. ![Freeware][Freeware Icon] 
 - [Mixxx](http://www.mixxx.org/download/) - Free DJ software that gives you everything you need to perform live mixes, veritable alternative to Traktor. [![Open-Source Software][OSS Icon]](https://github.com/mixxxdj/mixxx) ![Freeware][Freeware Icon]
 - [SoundJuicer](http://www.howtogeek.com/howto/20126/rip-audio-cds-with-sound-juicer/) - CD Ripping tool for GNOME ![Freeware][Freeware Icon] 
-
+- [Tomahawk](https://www.tomahawk-player.org/) -A new kind of music player that invites all your streams, downloads, cloud music storage, playlists, radio stations and more. [![Open-Source Software][OSS Icon]](https://github.com/tomahawk-player/tomahawk)![Freeware][Freeware Icon]
 
 ### Chat Clients
 - [GhettoSkype](https://github.com/stanfieldr/ghetto-skype) - open source web wrapper for Skype. [![Open-Source Software][OSS Icon]](https://github.com/stanfieldr/ghetto-skype) ![Freeware][Freeware Icon] 
@@ -92,6 +92,7 @@
 
 
 ### Desktop Environments
+- [Cinammon](http://www.omgubuntu.co.uk/2016/02/how-to-upgrade-cinnamon-2-8-ubuntu-14-04-lts) - The Cinammon desktop environment.[![Open-Source Software][OSS Icon]](http://developer.linuxmint.com/contributing.html) ![Freeware][Freeware Icon]
 - [Gnome](https://www.gnome.org/) - The Gnome desktop environment.![Freeware][Freeware Icon]
 - [KDE](https://www.kde.org/) - KDE Desktop Environment. ![Freeware][Freeware Icon]
 - [Mate](http://mate-desktop.com/) - The MATE Desktop Environment is the continuation of GNOME 2. It provides an intuitive and attractive desktop environment using traditional metaphors for Linux and other Unix-like operating systems.![Freeware][Freeware Icon]
