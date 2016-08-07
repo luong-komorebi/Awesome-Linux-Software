@@ -15,7 +15,7 @@
 - [Applications](#applications)
     - [Audio](#audio)
     - [Chat Clients](#chat-clients)
-    - [Data Recovery](#data-recovery)
+    - [Data Backup and Recovery](#data-backup-and-recovery)
     - [Desktop Customization](#desktop-customization)
     - [Desktop Environments](#desktop-environments)
     - [Development](#development)
@@ -70,7 +70,8 @@
 - [Whatsie](https://github.com/Aluxian/Whatsie) - Whatsapp unofficial client for ubuntu/linux. [![Open-Source Software][OSS Icon]](https://github.com/Aluxian/Whatsie) ![Freeware][Freeware Icon]
 
 
-### Data Recovery
+### Data Backup and Recovery
+- [Borg Backup](https://borgbackup.readthedocs.io/en/stable/) - A nice tool to backup data.[![Open-Source Software][OSS Icon]](https://borgbackup.readthedocs.io/en/stable/development.html) ![Freeware][Freeware Icon]
 - [System Rescue CD](http://www.system-rescue-cd.org/SystemRescueCd_Homepage) - SystemRescueCd is a Linux system rescue disk available as a bootable CD-ROM or USB stick for administrating or repairing your system and data after a crash. ![Freeware][Freeware Icon]
 - [Test Disk](http://www.cgsecurity.org/wiki/TestDisk) - TestDisk is powerful free data recovery software! It was primarily designed to help recover lost partitions and/or make non-booting disks bootable again when these symptoms are caused by faulty software. ![Freeware][Freeware Icon]
 - [Photorec](http://www.cgsecurity.org/wiki/PhotoRec) - PhotoRec is file data recovery software designed to recover lost files including video, documents and archives from hard disks, CD-ROMs, and lost pictures (thus the Photo Recovery name) from digital camera memory. ![Freeware][Freeware Icon]
@@ -145,6 +146,7 @@
 
 ### File Manager
 - [7Zip](http://www.7-zip.org/download.html) - Unzip any zip files![Freeware][Freeware Icon]
+- [AngrySearch](https://github.com/DoTheEvo/ANGRYsearch) - Linux file search, instant results as you type. [![Open-Source Software][OSS Icon]](https://github.com/DoTheEvo/ANGRYsearch) ![Freeware][Freeware Icon]
 - [Double Commander](http://doublecmd.sourceforge.net/) - Double Commander is a cross platform open source file manager with two panels side by side. It is inspired by Total Commander and features some new ideas.![Freeware][Freeware Icon]
 - [Marlin](https://launchpad.net/marlin) - The sexiest fish in the large sea of file managers, Marlin is well-designed with a focus on speed, simplicity, ease of use. ![Freeware][Freeware Icon]
 - [Nautilus](https://wiki.gnome.org/Apps/Nautilus) - Nautilus (Files) is a file manager designed to fit the Gnome desktop design and behaviour, giving the user a simple way to navigate and manage its files.![Freeware][Freeware Icon]
@@ -193,6 +195,7 @@
 - [Ambient Noise](https://itsfoss.com/ambient-noise-music-player-ubuntu/) - Install ambient noise for extra focus on Linux![Freeware][Freeware Icon]
 - [Autokey](https://code.google.com/archive/p/autokey/) - A desktop automation utility for Linux allows you to manage collection of scripts and phrases, and assign abbreviations and hotkeys to these. ![Freeware][Freeware Icon]
 - [Brightness](https://launchpad.net/indicator-brightness) - Brightness indicator for ubuntu. ![Freeware][Freeware Icon]
+- [SpeedCrunch](http://www.speedcrunch.org/) - A nice, opensouce, high-precision scientific calculator. [![Open-Source Software][OSS Icon]](http://www.speedcrunch.org/) ![Freeware][Freeware Icon] 
 - [California](https://wiki.gnome.org/Apps/California) - Complete Calendar app replacement which uses natural language for creating events.![Freeware][Freeware Icon]
 - [Caligra Office](https://www.calligra.org/) - offers a comprehensive set of 8 applications which satisfies the office, graphics and management needs.![Freeware][Freeware Icon]
 - [CopyQ](http://hluk.github.io/CopyQ/) -CopyQ is advanced clipboard manager with editing and scripting features. ![Freeware][Freeware Icon]
@@ -233,6 +236,7 @@
 - [PushBullet](https://www.pushbullet.com/) - Pushbullet connects your devices, making them feel like one.![Freeware][Freeware Icon]
 - [qBittorent](http://www.qbittorrent.org/) - The qBittorrent project aims to provide a Free Software alternative to µTorrent.[![Open-Source Software][OSS Icon]](https://github.com/qbittorrent/qBittorrent) ![Freeware][Freeware Icon]
 - [SpiderOak](https://spideroak.com/) - Real-time collaboration for teams and businesses that care about privacy ![Freeware][Freeware Icon]
+- [Syncthing](https://syncthing.net/) - Syncthing replaces proprietary sync and cloud services with something open, trustworthy and decentralized.[![Open-Source Software][OSS Icon]](https://github.com/syncthing/syncthing) ![Freeware][Freeware Icon]
 - [Teamviewer](https://www.teamviewer.com/ ) - PC remote control/remote access software, free for personal use.![Freeware][Freeware Icon]
 - [Transmission](https://www.transmissionbt.com/download/) - Simple, lightweight, multi-platform torrent client. [![Open-Source Software][OSS Icon]](https://trac.transmissionbt.com/browser/trunk) ![Freeware][Freeware Icon]
 
@@ -251,6 +255,7 @@
 - [Bleach bit](https://www.bleachbit.org/) -BleachBit quickly frees disk space and tirelessly guards your privacy. Free cache, delete cookies, clear Internet history, shred temporary files, delete logs, and more ... ![Freeware][Freeware Icon]
 - [Brasero](https://wiki.gnome.org/Apps/Brasero) - CD/DVD burner.![Freeware][Freeware Icon]
 - [Caffeine](https://launchpad.net/caffeine) - Prevents ubuntu from automatically going to sleep.![Freeware][Freeware Icon]
+- [EasyStroke](https://github.com/thjaeger/easystroke/wiki#download) - Easystroke is a gesture-recognition application for X11.[![Open-Source Software][OSS Icon]](https://github.com/thjaeger/easystroke) ![Freeware][Freeware Icon]
 - [Convertall](https://sourceforge.net/projects/convertall/) - Convert all units.![Freeware][Freeware Icon]
 - [GD map](http://gdmap.sourceforge.net/) - A tool to visualize disk usage. ![Freeware][Freeware Icon]
 - [Gnormalize](http://gnormalize.sourceforge.net/) - Audio converter. ![Freeware][Freeware Icon]
@@ -270,9 +275,11 @@
 - [Synaptic](http://www.nongnu.org/synaptic/) - Synaptic is a graphical package management program for apt.![Freeware][Freeware Icon]
 - [TLP](http://linrunner.de/en/tlp/docs/tlp-linux-advanced-power-management.html) - Optimize Linux battery.![Freeware][Freeware Icon]
 - [Variety](http://peterlevi.com/variety/) - Variety is an open-source wallpaper changer for Linux, packed with great features, yet slim and easy to use. [![Open-Source Software][OSS Icon]](https://github.com/peterlevi/variety-slideshow) ![Freeware][Freeware Icon]
+- [Virtualbox](https://www.virtualbox.org/wiki/Downloads) - VirtualBox is a general-purpose full virtualizer for x86 hardware, targeted at server, desktop and embedded use.[![Open-Source Software][OSS Icon]](https://www.virtualbox.org/wiki/Contributor_information) ![Freeware][Freeware Icon]
 - [WallpaperChange](https://apps.ubuntu.com/cat/applications/raring/wallch/) - Automatically change your wallpaper.![Freeware][Freeware Icon]
 
 ### Video
+- [Bomi Player](https://bomi-player.github.io/) - A powerful and easy-to-use multimedia player.[![Open-Source Software][OSS Icon]](https://github.com/xylosper/bomi)![Freeware][Freeware Icon]
 - [Kodi](https://kodi.tv/about/) - An award-winning free and open source (GPL) software media center for playing videos, music, pictures, games, and more.[![Open-Source Software][OSS Icon]](https://github.com/xbmc/xbmc)![Freeware][Freeware Icon]
 - [MPlayer](http://www.mplayerhq.hu/design7/news.html) - MPlayer is a movie player which runs on many systems, play any kind of videos.![Freeware][Freeware Icon]
 - [MPV](https://www.mpv.io) - A free, open source, and cross-platform media player.[![Open-Source Software][OSS Icon]](https://github.com/mpv-player/mpv)![Freeware][Freeware Icon]
