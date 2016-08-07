@@ -148,7 +148,6 @@
 - [Marlin](https://launchpad.net/marlin) - The sexiest fish in the large sea of file managers, Marlin is well-designed with a focus on speed, simplicity, ease of use. ![Freeware][Freeware Icon]
 - [Nautilus](https://wiki.gnome.org/Apps/Nautilus) - Nautilus (Files) is a file manager designed to fit the Gnome desktop design and behaviour, giving the user a simple way to navigate and manage its files.![Freeware][Freeware Icon]
 - [Synapse](https://launchpad.net/ubuntu/xenial/+source/synapse) - Best application launcher on linux.![Freeware][Freeware Icon]
-- [Double Commander](http://doublecmd.sourceforge.net/) - Double Commander is a cross platform open source file manager with two panels side by side. It is inspired by Total Commander and features some new ideas.![Freeware][Freeware Icon]
 
 
 ### Games
