@@ -94,6 +94,7 @@
 ### Desktop Environments
 - [Gnome](https://www.gnome.org/) - The Gnome desktop environment.![Freeware][Freeware Icon]
 - [KDE](https://www.kde.org/) - KDE Desktop Environment. ![Freeware][Freeware Icon]
+- [Mate](http://mate-desktop.com/) - The MATE Desktop Environment is the continuation of GNOME 2. It provides an intuitive and attractive desktop environment using traditional metaphors for Linux and other Unix-like operating systems.![Freeware][Freeware Icon]
 - [Unity](https://unity.ubuntu.com/) - Unity Desktop Environment. ![Freeware][Freeware Icon]
 - [Xfce](https://www.xfce.org/) - Xfce Desktop Environment. ![Freeware][Freeware Icon]
 
@@ -128,6 +129,7 @@
 
 ### E-Book Utilities
 - [Calibre](http://calibre-ebook.com/) - Incredibly ugly but powerful software for ebook management and conversion. [![Open-Source Software][OSS Icon]](https://github.com/kovidgoyal/calibre) ![Freeware][Freeware Icon]
+- [Evince](https://wiki.gnome.org/Apps/Evince) - Evince is a document viewer for multiple document formats. The goal of evince is to replace the multiple document viewers that exist on the GNOME Desktop with a single simple application.[![Open-Source Software][OSS Icon]](https://wiki.gnome.org/Apps/Evince/GettingEvince) ![Freeware][Freeware Icon]
 - [Foxit](https://www.foxitsoftware.com/products/pdf-reader/) - Foxit Reader 8.0—Award-winning PDF Reader. ![Freeware][Freeware Icon]
 - [FBReader](https://fbreader.org/content/fbreader-beta-linux-desktop) - One of the most popular eReader apps. ![Freeware][Freeware Icon]
 - [Lucidor](http://www.lucidor.org/lucidor/) - Lucidor is a computer program for reading and handling e-books. Lucidor supports e-books in the EPUB file format, and catalogs in the OPDS format. ![Freeware][Freeware Icon]
@@ -163,6 +165,7 @@
 - [Marlin](https://launchpad.net/marlin) - The sexiest fish in the large sea of file managers, Marlin is well-designed with a focus on speed, simplicity, ease of use. ![Freeware][Freeware Icon]
 - [Nautilus](https://wiki.gnome.org/Apps/Nautilus) - Nautilus (Files) is a file manager designed to fit the Gnome desktop design and behaviour, giving the user a simple way to navigate and manage its files.![Freeware][Freeware Icon]
 - [Nemo](http://askubuntu.com/questions/294421/how-do-i-install-nemo-file-manager) - Nemo is the file manager for the Cinnamon desktop environment.[![Open-Source Software][OSS Icon]](https://github.com/linuxmint/nemo) ![Freeware][Freeware Icon]
+- [Ranger](http://ranger.nongnu.org/) - Ranger is a console file manager with VI key bindings.[![Open-Source Software][OSS Icon]](https://github.com/ranger/ranger) ![Freeware][Freeware Icon]
 - [Synapse](https://launchpad.net/ubuntu/xenial/+source/synapse) - Best application launcher on linux.![Freeware][Freeware Icon]
 
 
