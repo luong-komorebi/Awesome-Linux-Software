@@ -205,7 +205,7 @@
 - [Brave](https://brave.com/) - Brave is a fast, good desktop browser for macOS, Windows, and Linux.![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/brave/browser-laptop) 
 - [Chrome](https://www.google.com/chrome/browser/desktop/index.html) - A popular Web Browsers with a lot of plugins/apps.![Freeware][Freeware Icon]
 - [Chromium](http://askubuntu.com/questions/250773/how-do-i-install-chromium-from-the-command-line) - Chromium is an open-source browser project that aims to build a safer, faster, and more stable way for all users to experience the web.![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://www.chromium.org/) 
-- [Firefox](www.mozilla.org/firefox) - A popular Web Browsers with a lot of plugins/apps.![Freeware][Freeware Icon]
+- [Firefox](www.mozilla.org/firefox) - A popular Web Browsers with a lot of plugins/apps.![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide) 
 - [Vivaldi](https://vivaldi.com/?lang=en) - A new and rising browser with a lot of customizations.![Freeware][Freeware Icon]
 
 
@@ -351,6 +351,7 @@
 * [Webupd8](http://www.webupd8.org/)
 * [Noobslab](http://www.noobslab.com/)
 * [Make use of](http://www.makeuseof.com/service/linux/)
+* [TecMint](http://www.tecmint.com/)
 
 ### Reddit
 
@@ -375,8 +376,9 @@
  3. [nathanmusoke](https://github.com/nathanmusoke)
  4. [bpearson](https://github.com/bpearson)
  5. [orestisf1993](https://github.com/orestisf1993)
- 6. [lasseborly](lasseborly)
- 7. *Everyone @ reddit.com/r/linux & reddit.com/r/ubuntu for many suggestions and compliments*
+ 6. [lasseborly](https://github.com/lasseborly)
+ 7. [sebasspf](https://github.com/sebasspf)
+ 8. *Everyone @ reddit.com/r/linux & reddit.com/r/ubuntu for many suggestions and compliments*
  ...
 
  (*The list above is updated on 8th July 2016*)
