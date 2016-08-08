@@ -425,6 +425,8 @@
 * [Noobslab](http://www.noobslab.com/)
 * [Make use of](http://www.makeuseof.com/service/linux/)
 * [TecMint](http://www.tecmint.com/)
+* [AllTop](http://linux.alltop.com/)
+* [Unixmen](https://www.unixmen.com/)
 
 ### Reddit
 
