@@ -88,7 +88,8 @@
 - [Flatabulous Arc Theme](https://github.com/andreisergiu98/arc-flatabulous-theme) - My favourite theme for ubuntu.[![Open-Source Software][OSS Icon]](https://github.com/andreisergiu98/arc-flatabulous-theme)![Freeware][Freeware Icon]
 - [Gnome Extensions](http://extensions.gnome.org/) - Extensions for the Gnome Desktop Environment. ![Freeware][Freeware Icon]
 - [Numix Icon Theme](http://www.noobslab.com/2014/04/install-numix-icon-packs-in-ubuntulinux.html) - One of the best icon theme for ubuntu linux.[![Open-Source Software][OSS Icon]](https://github.com/numixproject/numix-icon-theme) ![Freeware][Freeware Icon]
-- [Numix Theme](https://itsfoss.com/install-numix-ubuntu/) - [![Open-Source Software][OSS Icon]](https://github.com/numixproject/numix-gtk-theme) ![Freeware][Freeware Icon]
+- [Numix Theme](https://itsfoss.com/install-numix-ubuntu/) - A good popular theme. [![Open-Source Software][OSS Icon]](https://github.com/numixproject/numix-gtk-theme) ![Freeware][Freeware Icon]
+- [Papirus Icon Theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme-gtk/) - One of the best icon theme for ubuntu linux.[![Open-Source Software][OSS Icon]](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme-gtk/) ![Freeware][Freeware Icon]
 - [Unity Tweak Tool](https://apps.ubuntu.com/cat/applications/unity-tweak-tool/) - Must-have app for ubuntu unity customization. [![Open-Source Software][OSS Icon]](https://github.com/ianyh/Amethyst) ![Freeware][Freeware Icon]
 
 
@@ -107,23 +108,23 @@
 - [Arduino IDE](https://www.arduino.cc/en/Main/Software) - The open-source Arduino Software (IDE) makes it easy to write code and upload it to the board. ![Freeware][Freeware Icon]
 - [Code::Blocks](http://www.codeblocks.org/) - Code::Blocks is a free C, C++ and Fortran IDE built to meet the most demanding needs of its users. It is designed to be very extensible and fully configurable. ![Freeware][Freeware Icon]
 - [Codelite](http://codelite.org/) - A Free, open source, cross platform C,C++,PHP and Node.js IDE. ![Freeware][Freeware Icon]
-- [Eclipse](https://eclipse.org/ide/) Eclipse is famous for our Java Integrated Development Environment (IDE), but our C/C++ IDE and PHP IDE are pretty cool too![Freeware][Freeware Icon]
+- [Eclipse](https://eclipse.org/ide/) - Eclipse is famous for our Java Integrated Development Environment (IDE), but our C/C++ IDE and PHP IDE are pretty cool too![Freeware][Freeware Icon]
 - [Geany](https://www.geany.org/) - Geany is a text editor using the GTK+ toolkit with basic features of an integrated development environment. It was developed to provide a small and fast IDE, which has only a few dependencies from other packages. [![Open-Source Software][OSS Icon]](https://www.geany.org/Download/Git)![Freeware][Freeware Icon]
 - [Git](https://git-scm.com/) - Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.![Freeware][Freeware Icon]
 - [IntelliJ IDEA](https://www.jetbrains.com/idea/) - Powerful IDE for JAVA ![Freeware][Freeware Icon]
 - [KDevelop](https://www.kdevelop.org/) - It is a free, open source IDE, feature-full, plugin extensible IDE for C/C++ and other programming languages.![Freeware][Freeware Icon]
 - [Komodo Edit](http://komodoide.com/komodo-edit/) - Free and open source multilanguage development environment. ![Freeware][Freeware Icon]
-- [Lighttable](http://lighttable.com/) - the next generation code editor! Support live coding. ![Freeware][Freeware Icon]
+- [Lighttable](http://lighttable.com/) - The next generation code editor! Support live coding. ![Freeware][Freeware Icon]
 - [MariaDB](https://mariadb.org/) - One of the most popular database servers. Made by the original developers of MySQL.![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://mariadb.org/get-involved/getting-started-for-developers/)
 - [MonoDevelop](http://www.monodevelop.com/) - Cross platform IDE for C#, F# and more.![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](http://www.monodevelop.com/developers/)
 - [Nemiver](https://github.com/GNOME/nemiver) - Nemiver is a project to write a standalone graphical debugger that integrates well in the GNOME desktop environment. [![Open-Source Software][OSS Icon]](https://github.com/GNOME/nemiver) ![Freeware][Freeware Icon]
 - [NodeJS](https://nodejs.org/en/) - Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine. ![Freeware][Freeware Icon]
-- [Oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) A delightful community-driven framework for managing your zsh configuration. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]]( https://github.com/robbyrussell/oh-my-zsh)
+- [Oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - A delightful community-driven framework for managing your zsh configuration. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]]( https://github.com/robbyrussell/oh-my-zsh)
 - [PyCharm](https://www.jetbrains.com/pycharm/) - Powerful IDE for Python ![Freeware][Freeware Icon]
 - [Postgresql](https://www.postgresql.org/download/) - PostgreSQL is a powerful, open source object-relational database system. ![Freeware][Freeware Icon]
 - [Postman](https://www.getpostman.com) - Postman, help us test API quickly.![Freeware][Freeware Icon] 
-- [QT Creator](https://www.qt.io/ide/) Fully-stocked cross-platform integrated development environment for easy creation of connected devices, UIs and applications.![Freeware][Freeware Icon]
-- [Rabbit VCS](http://rabbitvcs.org/) RabbitVCS is a set of graphical tools written to provide simple and straightforward access to the version control systems you use. ![Freeware][Freeware Icon]
+- [QT Creator](https://www.qt.io/ide/) - Fully-stocked cross-platform integrated development environment for easy creation of connected devices, UIs and applications.![Freeware][Freeware Icon]
+- [Rabbit VCS](http://rabbitvcs.org/) - RabbitVCS is a set of graphical tools written to provide simple and straightforward access to the version control systems you use. ![Freeware][Freeware Icon]
 - [Sublime](https://www.sublimetext.com/) - One of the best text editor of all time. ![Freeware][Freeware Icon]
 - [Swift](https://swift.org/download/) - Swift is a general-purpose programming language built using a modern approach to safety, performance, and software design patterns. ![Freeware][Freeware Icon]
 - [Ubuntu-SDK](https://developer.ubuntu.com/en/phone/platform/sdk/installing-the-sdk/) - The official Ubuntu SDK. ![Freeware][Freeware Icon]
@@ -176,6 +177,7 @@
 ### Games
 - [Civilization5](http://www.civilization5.com/) - Sid Meier’s Civilization® is recognized as one of the greatest strategy franchises of all-time.
 - [Cockatrice](https://cockatrice.github.io/) - Cockatrice is an open-source multiplatform supported program for playing tabletop card games over a network.[![Open-Source Software][OSS Icon]](https://github.com/Cockatrice) ![Freeware][Freeware Icon]
+- [Desura](http://www.desura.com/about) - Desura is a community driven digital distribution service for gamers, putting the best games, mods and downloadable content from developers at gamers fingertips, ready to buy and play. 
 - [Minecraft](https://minecraft.net/en/download/?ref=m) - Minecraft is a game about placing blocks and going on adventures. Explore randomly generated worlds and build amazing things from the simplest of homes to the grandest of castles.![Freeware][Freeware Icon]
 - [PlayOnLinux](https://www.playonlinux.com/en/) - Play Windows Game on Linux. [![Open-Source Software][OSS Icon]](https://github.com/PlayOnLinux/POL-POM-4) ![Freeware][Freeware Icon]
 - [Steam](http://store.steampowered.com/) - Awesome Gaming platform, which open the gates to many games.![Freeware][Freeware Icon]
@@ -211,7 +213,8 @@
 - [Brave](https://brave.com/) - Brave is a fast, good desktop browser for macOS, Windows, and Linux.![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/brave/browser-laptop) 
 - [Chrome](https://www.google.com/chrome/browser/desktop/index.html) - A popular Web Browsers with a lot of plugins/apps.![Freeware][Freeware Icon]
 - [Chromium](http://askubuntu.com/questions/250773/how-do-i-install-chromium-from-the-command-line) - Chromium is an open-source browser project that aims to build a safer, faster, and more stable way for all users to experience the web.![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://www.chromium.org/) 
-- [Firefox](https://www.mozilla.org/en-US/firefox/new/) - A popular Web Browsers with a lot of plugins/apps.![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide) 
+- [Firefox](https://www.mozilla.org/en-US/firefox/new/) - A popular Web Browsers with a lot of plugins/apps.![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide)
+- [Anatine](https://github.com/sindresorhus/anatine) - A twitter desktop app with many customizations.![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/sindresorhus/anatine)
 - [Vivaldi](https://vivaldi.com/?lang=en) - A new and rising browser with a lot of customizations.![Freeware][Freeware Icon]
 
 
