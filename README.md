@@ -18,7 +18,6 @@
     - [Data Backup and Recovery](#data-backup-and-recovery)
     - [Desktop Customization](#desktop-customization)
     - [Desktop Environments](#desktop-environments)
-    - [Window Managers](#window-managers)
     - [Development](#development)
     - [E-Book Utilities](#e-book-utilities)
     - [Editors](#editors)
@@ -33,6 +32,7 @@
     - [Terminal](#terminal)
     - [Utilities](#utilities)
     - [Video](#video)
+    - [Window Managers](#window-managers)
     - [Others](#others)
 - [Command Line Utilities](#command-line-utilities)
 - [Setup](#setup)
@@ -99,18 +99,6 @@
 - [Mate](http://mate-desktop.com/) - The MATE Desktop Environment is the continuation of GNOME 2. It provides an intuitive and attractive desktop environment using traditional metaphors for Linux and other Unix-like operating systems.![Freeware][Freeware Icon]
 - [Unity](https://unity.ubuntu.com/) - Unity Desktop Environment. ![Freeware][Freeware Icon]
 - [Xfce](https://www.xfce.org/) - Xfce Desktop Environment. ![Freeware][Freeware Icon]
-
-
-### Window Managers
-- [2bwm](https://github.com/venam/2bwm) -  A fast floating window manager. [![Open-Source Software][OSS Icon]](https://github.com/venam/2bwm) ![Freeware][Freeware Icon]
-- [awesome](https://awesome.naquadah.org/) - Highly configurable framework window manager. [![Open-Source Software][OSS Icon]](https://github.com/awesomeWM/awesome) ![Freeware][Freeware Icon]
-- [Bspwm](https://github.com/baskerville/bspwm) - Tiling window manager based on binary space partitioning. [![Open-Source Software][OSS Icon]](https://github.com/baskerville/bspwm) ![Freeware][Freeware Icon]
-- [dwm](http://dwm.suckless.org/) - A dynamic window manager for X. [![Open-Source Software][OSS Icon]](https://github.com/cdown/dwm) ![Freeware][Freeware Icon]
-- [Fluxbox](http://fluxbox.org/) - A lightweight and highly-configurable window manager. [![Open-Source Software][OSS Icon]](https://github.com/fluxbox/fluxbox) ![Freeware][Freeware Icon]
-- [Herbstluftwm](https://herbstluftwm.org/) - Manual tiling window manager for X. [![Open-Source Software][OSS Icon]](https://github.com/herbstluftwm/herbstluftwm) ![Freeware][Freeware Icon]
-- [i3](https://i3wm.org/) - An improved dynamic tiling window manager. [![Open-Source Software][OSS Icon]](https://github.com/i3/i3) ![Freeware][Freeware Icon]
-- [Openbox](http://openbox.org/) - Highly configurable and lightweight X11 window manager. [![Open-Source Software][OSS Icon]](https://github.com/danakj/openbox) ![Freeware][Freeware Icon]
-- [xmonad](http://xmonad.org/) - Lightweight X11 tiled window manager written in Haskell. [![Open-Source Software][OSS Icon]](https://github.com/xmonad/xmonad) ![Freeware][Freeware Icon]
 
 
 ### Development
@@ -208,8 +196,8 @@
 - [Inkscape](https://inkscape.org/en/) - A powerful, free design tool for you , whether you are an illustrator, designer, web designer or just someone who needs to create some vector imagery![Freeware][Freeware Icon]
 - [Krita](https://krita.org/en/) - Open Source Software for Concept Artists, Digital Painters, and Illustrators![Freeware][Freeware Icon]
 - [Luminance HDR](http://qtpfsgui.sourceforge.net/) - Luminance HDR is an open source graphical user interface application that aims to provide a workflow for HDR imaging.![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/LuminanceHDR/LuminanceHDR) 
-- [Ojo](https://github.com/peterlevi/ojo) - A fast and pretty image viewer.[Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/peterlevi/ojo)
-- [OpenShot](http://www.openshot.org/) - OpenShot is a free, simple-to-use, feature-rich video editor for Linux.![Freeware][Freeware Icon]
+- [Ojo](https://github.com/peterlevi/ojo) - A fast and pretty image viewer. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/peterlevi/ojo)
+- [OpenShot](http://www.openshot.org/) - OpenShot is a free, simple-to-use, feature-rich video editor for Linux. ![Freeware][Freeware Icon]
 - [Pinta](https://pinta-project.com/pintaproject/pinta/) - Pinta is a free, open source program for drawing and image editing.![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://pinta-project.com/pintaproject/pinta/contribute)
 - [Pitivi](http://www.pitivi.org/) - A free video editor with a beautiful and intuitive user interface, a clean codebase and a fantastic community.![Freeware][Freeware Icon]
 - [Radiance](http://www.radiance-online.org/) - Radiance - A Validated Lighting Simulation Tool![Freeware][Freeware Icon]
@@ -328,6 +316,18 @@
 - [VLC](http://www.videolan.org/vlc/index.html) - VLC is a free and open source cross-platform multimedia player and framework that plays most multimedia files as well as DVDs, Audio CDs, VCDs, and various streaming protocols. ![Freeware][Freeware Icon]
 
 
+### Window Managers
+- [2bwm](https://github.com/venam/2bwm) -  A fast floating window manager. [![Open-Source Software][OSS Icon]](https://github.com/venam/2bwm) ![Freeware][Freeware Icon]
+- [awesome](https://awesome.naquadah.org/) - Highly configurable framework window manager. [![Open-Source Software][OSS Icon]](https://github.com/awesomeWM/awesome) ![Freeware][Freeware Icon]
+- [Bspwm](https://github.com/baskerville/bspwm) - Tiling window manager based on binary space partitioning. [![Open-Source Software][OSS Icon]](https://github.com/baskerville/bspwm) ![Freeware][Freeware Icon]
+- [dwm](http://dwm.suckless.org/) - A dynamic window manager for X. [![Open-Source Software][OSS Icon]](https://github.com/cdown/dwm) ![Freeware][Freeware Icon]
+- [Fluxbox](http://fluxbox.org/) - A lightweight and highly-configurable window manager. [![Open-Source Software][OSS Icon]](https://github.com/fluxbox/fluxbox) ![Freeware][Freeware Icon]
+- [Herbstluftwm](https://herbstluftwm.org/) - Manual tiling window manager for X. [![Open-Source Software][OSS Icon]](https://github.com/herbstluftwm/herbstluftwm) ![Freeware][Freeware Icon]
+- [i3](https://i3wm.org/) - An improved dynamic tiling window manager. [![Open-Source Software][OSS Icon]](https://github.com/i3/i3) ![Freeware][Freeware Icon]
+- [Openbox](http://openbox.org/) - Highly configurable and lightweight X11 window manager. [![Open-Source Software][OSS Icon]](https://github.com/danakj/openbox) ![Freeware][Freeware Icon]
+- [xmonad](http://xmonad.org/) - Lightweight X11 tiled window manager written in Haskell. [![Open-Source Software][OSS Icon]](https://github.com/xmonad/xmonad) ![Freeware][Freeware Icon]
+
+
 ### Others
 
 > To be added later
@@ -399,7 +399,8 @@
  5. [orestisf1993](https://github.com/orestisf1993)
  6. [lasseborly](https://github.com/lasseborly)
  7. [sebasspf](https://github.com/sebasspf)
- 8. *Everyone @ reddit.com/r/linux & reddit.com/r/ubuntu for many suggestions and compliments*
+ 8. [buivnhai](https://github.com/buivnhai)
+ 9. *Everyone @ reddit.com/r/linux & reddit.com/r/ubuntu & vozforums.com for many suggestions and compliments*
  ...
 
  (*The list above is updated on 8th July 2016*)
