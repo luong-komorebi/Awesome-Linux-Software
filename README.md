@@ -87,7 +87,9 @@
 - [Test Disk](http://www.cgsecurity.org/wiki/TestDisk) - TestDisk is powerful free data recovery software! It was primarily designed to help recover lost partitions and/or make non-booting disks bootable again when these symptoms are caused by faulty software. ![Freeware][Freeware Icon]
 
 ### Desktop customization
+- [Arc Theme](https://github.com/horst3180/arc-theme) - A flat theme with transparent elements ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 - [Compiz Config settings manager](https://apps.ubuntu.com/cat/applications/compizconfig-settings-manager/) - The OpenCompositing Project brings 3D desktop visual effects that improve usability of the X Window System and provide increased productivity.![Freeware][Freeware Icon]
+- [Flatabulous](https://github.com/anmoljagetia/Flatabulous) - This is a Flat theme for Ubuntu and other Gnome based Linux Systems. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 - [Flatabulous Arc Theme](https://github.com/andreisergiu98/arc-flatabulous-theme) - My favourite theme for ubuntu.[![Open-Source Software][OSS Icon]](https://github.com/andreisergiu98/arc-flatabulous-theme)![Freeware][Freeware Icon]
 - [Irradiance Theme](https://github.com/bsundman/Irradiance) - A Unity theme inspired by OSX Yosemite based on Radiance.[![Open-Source Software][OSS Icon]](https://github.com/bsundman/Irradiance)![Freeware][Freeware Icon]
 - [Gnome Extensions](http://extensions.gnome.org/) - Extensions for the Gnome Desktop Environment. ![Freeware][Freeware Icon]
