@@ -75,7 +75,7 @@
 - [Pidgin](http://askubuntu.com/questions/307622/update-pidgin-using-apt-get) - A universal chat client. ![Freeware][Freeware Icon]
 - [ScudCloud](https://github.com/raelgc/scudcloud/) - A Slack-client for linux. [![Open-Source Software][OSS Icon]](https://github.com/raelgc/scudcloud/) ![Freeware][Freeware Icon]
 - [Skype](https://www.skype.com/en/) - Skype keeps the world talking, for free. ![Freeware][Freeware Icon]
-- [Telegram](https://desktop.telegram.org/) - A messaging app with a focus on speed and security, it’s super fast, simple and free. [![Open-Source Software][OSS Icon]](https://github.com/overtake/telegram) ![Freeware][Freeware Icon]
+- [Telegram](https://desktop.telegram.org/) - A messaging app with a focus on speed and security, it’s super fast, simple and free. [![Open-Source Software][OSS Icon]](https://github.com/telegramdesktop/tdesktop) ![Freeware][Freeware Icon]
 - [Viber](https://www.viber.com/en/products/linux) -Viber for Linux lets you send free messages and make free calls to other Viber users on any device and network, in any country ![Freeware][Freeware Icon]
 - [Whatsie](https://github.com/Aluxian/Whatsie) - Whatsapp unofficial client for ubuntu/linux. [![Open-Source Software][OSS Icon]](https://github.com/Aluxian/Whatsie) ![Freeware][Freeware Icon]
 
