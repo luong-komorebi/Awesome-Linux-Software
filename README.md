@@ -18,6 +18,7 @@
     - [Data Backup and Recovery](#data-backup-and-recovery)
     - [Desktop Customization](#desktop-customization)
     - [Desktop Environments](#desktop-environments)
+    - [Window Managers](#window-managers)
     - [Development](#development)
     - [E-Book Utilities](#e-book-utilities)
     - [Editors](#editors)
@@ -98,6 +99,19 @@
 - [Mate](http://mate-desktop.com/) - The MATE Desktop Environment is the continuation of GNOME 2. It provides an intuitive and attractive desktop environment using traditional metaphors for Linux and other Unix-like operating systems.![Freeware][Freeware Icon]
 - [Unity](https://unity.ubuntu.com/) - Unity Desktop Environment. ![Freeware][Freeware Icon]
 - [Xfce](https://www.xfce.org/) - Xfce Desktop Environment. ![Freeware][Freeware Icon]
+
+
+### Window Managers
+- [2bwm](https://github.com/venam/2bwm) -  A fast floating window manager. [![Open-Source Software][OSS Icon]](https://github.com/venam/2bwm) ![Freeware][Freeware Icon]
+- [awesome](https://awesome.naquadah.org/) - Highly configurable framework window manager. [![Open-Source Software][OSS Icon]](https://github.com/awesomeWM/awesome) ![Freeware][Freeware Icon]
+- [Bspwm](https://github.com/baskerville/bspwm) - Tiling window manager based on binary space partitioning. [![Open-Source Software][OSS Icon]](https://github.com/baskerville/bspwm) ![Freeware][Freeware Icon]
+- [dwm](http://dwm.suckless.org/) - A dynamic window manager for X. [![Open-Source Software][OSS Icon]](https://github.com/cdown/dwm) ![Freeware][Freeware Icon]
+- [Fluxbox](http://fluxbox.org/) - A lightweight and highly-configurable window manager. [![Open-Source Software][OSS Icon]](https://github.com/fluxbox/fluxbox) ![Freeware][Freeware Icon]
+- [Herbstluftwm](https://herbstluftwm.org/) - Manual tiling window manager for X. [![Open-Source Software][OSS Icon]](https://github.com/herbstluftwm/herbstluftwm) ![Freeware][Freeware Icon]
+- [i3](https://i3wm.org/) - An improved dynamic tiling window manager. [![Open-Source Software][OSS Icon]](https://github.com/i3/i3) ![Freeware][Freeware Icon]
+- [Openbox](http://openbox.org/) - Highly configurable and lightweight X11 window manager. [![Open-Source Software][OSS Icon]](https://github.com/danakj/openbox) ![Freeware][Freeware Icon]
+- [xmonad](http://xmonad.org/) - Lightweight X11 tiled window manager written in Haskell. [![Open-Source Software][OSS Icon]](https://github.com/xmonad/xmonad) ![Freeware][Freeware Icon]
+
 
 ### Development
 - [Android studio](https://developer.android.com/studio/index.html) -The Official IDE for Android : Android Studio provides the fastest tools for building apps on every type of Android device.![Freeware][Freeware Icon]
