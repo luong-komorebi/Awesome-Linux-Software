@@ -267,6 +267,7 @@
 - [Gnome-dictionary](https://wiki.gnome.org/Apps/Dictionary) - A powerful <dictionary class="" Freeware="" Icon=""></dictionary>
 - [Go For It](http://manuel-kehl.de/projects/go-for-it/) - Go For It! is a simple and stylish productivity app, featuring a to-do list, merged with a timer that keeps your focus on the current task.![Freeware][Freeware Icon]
 - [Libre Office](https://www.libreoffice.org/) - Best office bundle for linux.![Freeware][Freeware Icon]
+- [My Todo](https://github.com/mohamed-aziz/mytodo) - Mytodo is an open source to-do list program that puts you, the user, in command of everything.[![Open-Source Software][OSS Icon]](https://github.com/mohamed-aziz/mytodo) ![Freeware][Freeware Icon] 
 - [My Weather Indicator](http://ubuntuhandbook.org/index.php/2016/04/weather-indicator-desktop-widget-ubuntu-16-04/) - Weather indicator and widget for ubuntu.![Freeware][Freeware Icon]
 - [Notes](http://www.get-notes.com/) - A clean simple note taking app for linux.[![Open-Source Software][OSS Icon]](https://github.com/nuttyartist/notes) ![Freeware][Freeware Icon] 
 - [Plank](https://launchpad.net/plank) - Plank is meant to be the simplest dock of apps on the planet.
@@ -347,6 +348,7 @@
 - [TLP](http://linrunner.de/en/tlp/docs/tlp-linux-advanced-power-management.html) - Optimize Linux battery.![Freeware][Freeware Icon]
 - [Variety](http://peterlevi.com/variety/) - Variety is an open-source wallpaper changer for Linux, packed with great features, yet slim and easy to use. [![Open-Source Software][OSS Icon]](https://github.com/peterlevi/variety-slideshow) ![Freeware][Freeware Icon]
 - [Virtualbox](https://www.virtualbox.org/wiki/Downloads) - VirtualBox is a general-purpose full virtualizer for x86 hardware, targeted at server, desktop and embedded use.[![Open-Source Software][OSS Icon]](https://www.virtualbox.org/wiki/Contributor_information) ![Freeware][Freeware Icon]
+- [Xtreme Download Manager](http://xdman.sourceforge.net/) - A good download manager with fresh UI for linux.[![Open-Source Software][OSS Icon]](https://github.com/KaOS-Community-Packages/xdm) ![Freeware][Freeware Icon]
 - [WallpaperChange](https://apps.ubuntu.com/cat/applications/raring/wallch/) - Automatically change your wallpaper.![Freeware][Freeware Icon]
 
 ### Video
