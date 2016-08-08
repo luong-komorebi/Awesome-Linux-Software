@@ -268,6 +268,7 @@
 - [Go For It](http://manuel-kehl.de/projects/go-for-it/) - Go For It! is a simple and stylish productivity app, featuring a to-do list, merged with a timer that keeps your focus on the current task.![Freeware][Freeware Icon]
 - [Libre Office](https://www.libreoffice.org/) - Best office bundle for linux.![Freeware][Freeware Icon]
 - [My Weather Indicator](http://ubuntuhandbook.org/index.php/2016/04/weather-indicator-desktop-widget-ubuntu-16-04/) - Weather indicator and widget for ubuntu.![Freeware][Freeware Icon]
+- [Notes](http://www.get-notes.com/) - A clean simple note taking app for linux.[![Open-Source Software][OSS Icon]](https://github.com/nuttyartist/notes) ![Freeware][Freeware Icon] 
 - [Plank](https://launchpad.net/plank) - Plank is meant to be the simplest dock of apps on the planet.
 - [Pomodone App](http://pomodoneapp.com/) - PomoDoneApp is the easiest way to track your workflow using Pomodoro technique®, on top of your current task management service.![Freeware][Freeware Icon]
 - [Recent Noti](https://itsfoss.com/7-best-indicator-applets-for-ubuntu-13-10/) - An indicator for recent notification.![Freeware][Freeware Icon]
