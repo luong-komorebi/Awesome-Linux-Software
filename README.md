@@ -451,6 +451,7 @@
 - [Learn Linux Command](http://linuxcommand.org/)
 - [Learn Linux](https://linuxjourney.com/)
 - [Linux Course](https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-0)
+- [Kernel Newbies](https://kernelnewbies.org/)
 
 ## Contributors
 
