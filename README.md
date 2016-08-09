@@ -412,7 +412,7 @@
 ## Display manager
 
 ### Console
-- [Evince](https://github.com/ghost1227/cdm) - Ultra-minimalistic, yet full-featured login manager written in Bash. [![Open-Source Software][OSS Icon]](https://github.com/ghost1227/cdm) ![Freeware][Freeware Icon]
+- [CDM](https://github.com/ghost1227/cdm) - Ultra-minimalistic, yet full-featured login manager written in Bash. [![Open-Source Software][OSS Icon]](https://github.com/ghost1227/cdm) ![Freeware][Freeware Icon]
 - [Console TDM](https://github.com/dopsi/console-tdm) - Extension for xinit written in pure Bash. [![Open-Source Software][OSS Icon]](https://github.com/dopsi/console-tdm) ![Freeware][Freeware Icon]
 - [nodm](https://github.com/spanezz/nodm) - Minimalistic display manager for automatic logins. [![Open-Source Software][OSS Icon]](https://github.com/spanezz/nodm) ![Freeware][Freeware Icon]
 
