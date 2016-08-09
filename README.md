@@ -381,6 +381,7 @@
 
 
 ### Window Managers
+
 #### Stacking window managers
 - [2bwm](https://github.com/venam/2bwm) - Fast floating WM, with the particularity of having 2 borders, written over the XCB library and derived from mcwm. [![Open-Source Software][OSS Icon]](https://github.com/venam/2bwm) ![Freeware][Freeware Icon]
 - [Blackbox](http://blackboxwm.sourceforge.net) - Fast, lightweight window manager for the X Window System, without all those annoying library dependencies. [![Open-Source Software][OSS Icon]](https://github.com/bbidulock/blackboxwm) ![Freeware][Freeware Icon]
@@ -449,7 +450,6 @@
 * [AllTop](http://linux.alltop.com/)
 * [Unixmen](https://www.unixmen.com/)
 * [DistroWatch](http://distrowatch.com/)
-* [Web Upd8](http://www.webupd8.org/)
 * [Phoronix](http://www.phoronix.com/)
 * [Dedoimedo](http://www.dedoimedo.com/)
 * [How-To Geek](http://www.howtogeek.com/t/linux/)
@@ -492,7 +492,8 @@
  14. [MichaelAquilina](https://github.com/MichaelAquilina)
  15. [Elijah Ellis](https://github.com/ElijahEllis)
  16. [Alasin](https://github.com/alasin)
- 17. *Everyone @ reddit.com/r/linux & reddit.com/r/ubuntu & vozforums.com for many suggestions and compliments*
+ 17. [LYF610400210](https://github.com/LYF610400210)
+ 18. *Everyone @ reddit.com/r/linux & reddit.com/r/ubuntu & vozforums.com for many suggestions and compliments*
  ...
 
  (*The list above is updated on 8th July 2016*)
