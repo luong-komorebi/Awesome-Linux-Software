@@ -272,9 +272,9 @@
 
 ### Office
 - [Caligra Office](https://www.calligra.org/) - offers a comprehensive set of 8 applications which satisfies the office, graphics and management needs.![Freeware][Freeware Icon]
-- Gummi [gtk2](https://github.com/alexandervdm/gummi)|[gtk3](https://github.com/aitjcize/Gummi) - Simple latex editor with templates, spell check, and wizards
+- Gummi [gtk2](https://github.com/alexandervdm/gummi)|[gtk3](https://github.com/aitjcize/Gummi) - Simple latex editor with templates, spell check, and wizards.![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/alexandervdm/gummi)
 - [Libre Office](https://www.libreoffice.org/) - Best office bundle for linux.![Freeware][Freeware Icon]
-- [LyX](http://www.lyx.org/) - Mature document editor that renders into LaTeX  
+- [LyX](http://www.lyx.org/) - Mature document editor that renders into LaTeX ..![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/yihui/lyx)
 - [WPS office](http://wps-community.org/) - One of the best office app bundle for linux.![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/wps-community/wps_i18n)
 
 ### Productivity
@@ -305,7 +305,7 @@
 - [Todoist](https://github.com/kamhix/todoist-linux) - Unofficial client of Todoist, the Cross-platform to-do manager with mobile apps, great UI and has some optional premium features.[![Open-Source Software][OSS Icon]](https://github.com/kamhix/todoist-linux) ![Freeware][Freeware Icon]
 - [Undistract me](https://github.com/jml/undistract-me) - Notifies you when long-running terminal commands complete. [![Open-Source Software][OSS Icon]](https://github.com/jml/undistract-me) ![Freeware][Freeware Icon]
 - [Xmind](http://www.xmind.net/) - Mind Mapping Tool.
-- [Zim](http://zim-wiki.org/) - A graphical text editor used to maintain a collection of wiki pages, great for notes and documents. Stored in plain text files for easy version control. [![Open-Source Software]](https://launchpad.net/zim)
+- [Zim](http://zim-wiki.org/) - A graphical text editor used to maintain a collection of wiki pages, great for notes and documents. Stored in plain text files for easy version control.[![Open-Source Software][OSS Icon]](https://launchpad.net/zim) ![Freeware][Freeware Icon]
 
 ### Security
 - [ClamAV](https://www.clamav.net/) - Clam Anti Virus ![Freeware][Freeware Icon]
@@ -395,11 +395,11 @@
 ## Command Line Utilities
 - [Bastet](https://github.com/fph/bastet) - Play Tetris in commandline.[![Open-Source Software][OSS Icon]](https://github.com/fph/bastet)![Freeware][Freeware Icon]
 - [Fishfry](https://github.com/LubuntuFu/fishfry) - replaces fish history with a history tailored to pentesters for efficency and newbie pentesters for learning.[![Open-Source Software][OSS Icon]](https://github.com/LubuntuFu/fishfry)![Freeware][Freeware Icon]
-- [htop](http://hisham.hm/htop/) - top with improved features and user experience [![Open-Source Software][OSS Icon]](https://github.com/hishamhm/htop)
+- [htop](http://hisham.hm/htop/) - top with improved features and user experience [![Open-Source Software][OSS Icon]](https://github.com/hishamhm/htop)![Freeware][Freeware Icon]
 - [Pacman4console](https://launchpad.net/ubuntu/+source/pacman4console) - Play Pacman game in console.[![Open-Source Software][OSS Icon]](https://github.com/alexdantas/pacman4console.debian)![Freeware][Freeware Icon]
 - [Tmux](https://tmux.github.io/) - It lets you switch easily between several programs in one terminal, detach them (they keep running in the background) and reattach them to a different terminal. And do a lot more.[![Open-Source Software][OSS Icon]](https://github.com/tmux/tmux)![Freeware][Freeware Icon]
 - [Top 10 command line tools](http://lifehacker.com/399468/top-10-command-line-tools)
-- [wicd-curses](https://wiki.archlinux.org/index.php/wicd#Running_Wicd_in_Text_Mode) - Command line WiFi connection manager
+- [wicd-curses](https://wiki.archlinux.org/index.php/wicd#Running_Wicd_in_Text_Mode) - Command line WiFi connection manager.
 
 ## Desktop Environments
 - [Cinammon](http://www.omgubuntu.co.uk/2016/02/how-to-upgrade-cinnamon-2-8-ubuntu-14-04-lts) - The Cinammon desktop environment.[![Open-Source Software][OSS Icon]](http://developer.linuxmint.com/contributing.html) ![Freeware][Freeware Icon]
