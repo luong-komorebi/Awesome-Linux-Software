@@ -469,7 +469,8 @@
  12. [grebenschikov](https://github.com/grebenschikov)
  13. [fareez-ahamed](https://github.com/fareezahamed)
  14. [MichaelAquilina](https://github.com/MichaelAquilina)
- 15. *Everyone @ reddit.com/r/linux & reddit.com/r/ubuntu & vozforums.com for many suggestions and compliments*
+ 15. [Elijah Ellis](https://github.com/ElijahEllis)
+ 16. *Everyone @ reddit.com/r/linux & reddit.com/r/ubuntu & vozforums.com for many suggestions and compliments*
  ...
 
  (*The list above is updated on 8th July 2016*)
