@@ -87,7 +87,7 @@
 - [Qt4-fsarchiver](https://sourceforge.net/projects/qt4-fsarchiver/) - qt4-fsarchiver is a GUI for the program fsarchiver to save/restore partitions, folders and MBR/GPT. The programm is for systems based Debian, for Suse and Fedora. [![Open-Source Software][OSS Icon]](https://borgbackup.readthedocs.io/en/stable/) ![Freeware][Freeware Icon]
 - [System Rescue CD](http://www.system-rescue-cd.org/SystemRescueCd_Homepage) - SystemRescueCd is a Linux system rescue disk available as a bootable CD-ROM or USB stick for administrating or repairing your system and data after a crash. ![Freeware][Freeware Icon]
 - [Test Disk](http://www.cgsecurity.org/wiki/TestDisk) - TestDisk is powerful free data recovery software! It was primarily designed to help recover lost partitions and/or make non-booting disks bootable again when these symptoms are caused by faulty software. ![Freeware][Freeware Icon]
-- [Timeshift](https://launchpad.net/timeshift) - TimeShift is a system restore utility which takes incremental snapshots of the system using rsync and hard-links. These snapshots can be restored at a later date to undo all changes that were made to the system after the snapshot was taken. Snapshots can be taken manually or at regular intervals using scheduled jobs.
+- [Timeshift](https://launchpad.net/timeshift) - TimeShift is a system restore utility which takes incremental snapshots of the system using rsync and hard-links. These snapshots can be restored at a later date to undo all changes that were made to the system after the snapshot was taken. Snapshots can be taken manually or at regular intervals using scheduled jobs.![Freeware][Freeware Icon]
 
 ### Desktop customization
 - [Arc Theme](https://github.com/horst3180/arc-theme) - A flat theme with transparent elements ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
@@ -464,7 +464,12 @@
  7. [sebasspf](https://github.com/sebasspf)
  8. [buivnhai](https://github.com/buivnhai)
  9. [ank91](https://github.com/ank91)
- 10. *Everyone @ reddit.com/r/linux & reddit.com/r/ubuntu & vozforums.com for many suggestions and compliments*
+ 10. [mAzurkovic](https://github.com/mAzurkovic)
+ 11. [bocklund](https://github.com/bocklund)
+ 12. [grebenschikov](https://github.com/grebenschikov)
+ 13. [fareez-ahamed](https://github.com/fareezahamed)
+ 14. [MichaelAquilina](https://github.com/MichaelAquilina)
+ 15. *Everyone @ reddit.com/r/linux & reddit.com/r/ubuntu & vozforums.com for many suggestions and compliments*
  ...
 
  (*The list above is updated on 8th July 2016*)
