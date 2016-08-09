@@ -447,6 +447,14 @@
 * [TecMint](http://www.tecmint.com/)
 * [AllTop](http://linux.alltop.com/)
 * [Unixmen](https://www.unixmen.com/)
+* [DistroWatch](http://distrowatch.com/)
+* [Web Upd8](http://www.webupd8.org/)
+* [Phoronix](http://www.phoronix.com/)
+* [Dedoimedo](http://www.dedoimedo.com/)
+* [How-To Geek](http://www.howtogeek.com/t/linux/)
+* [Liliputing](http://liliputing.com/)
+* [FAMILUG](http://www.familug.org/)
+* [Ubuntu Geek](http://www.ubuntugeek.com/)
 
 ### Reddit
 
