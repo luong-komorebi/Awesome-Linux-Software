@@ -486,11 +486,11 @@
 
 ## Guideline to contribute
 
-> Simeply put the name of the **application** in the list.
+> Simply put the name of the **application** in the list.
 > Link to its **homepage** or a **guide** on how to install it.  
 > Also write a **short description** for the application + add **icon**.
 > Make sure it is put under the **appropriate topic**.
-> If the application doesnt fit in any **existing topic**, make a **new one** for it.
+> If the application doesn't fit in any **existing topic**, make a **new one** for it.
 > Ensure everything is **alphabetically sorted**.
 
 *Items marked with ![Open-Source Software][OSS Icon] are open-source software and link to the source code. Items marked with ![Freeware][Freeware Icon] are free (as in free beer).*
