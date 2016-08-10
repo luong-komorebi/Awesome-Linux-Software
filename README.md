@@ -273,7 +273,7 @@
 ### Office
 - [Caligra Office](https://www.calligra.org/) - offers a comprehensive set of 8 applications which satisfies the office, graphics and management needs.![Freeware][Freeware Icon]
 - Gummi [gtk2](https://github.com/alexandervdm/gummi)|[gtk3](https://github.com/aitjcize/Gummi) - Simple latex editor with templates, spell check, and wizards.![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/alexandervdm/gummi)
-- [Libre Office](https://www.libreoffice.org/) - Best office bundle for linux.![Freeware][Freeware Icon]
+- [LibreOffice](https://www.libreoffice.org/) - Best office bundle for linux.![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://www.libreoffice.org/about-us/source-code/)
 - [LyX](http://www.lyx.org/) - Mature document editor that renders into LaTeX ..![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/yihui/lyx)
 - [WPS office](http://wps-community.org/) - One of the best office app bundle for linux.![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/wps-community/wps_i18n)
 
