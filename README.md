@@ -540,7 +540,7 @@
  18. *Everyone @ reddit.com/r/linux & reddit.com/r/ubuntu & vozforums.com for many suggestions and compliments*
  ...
 
- (*The list above is updated on 8th July 2016*)
+ (*The list above is updated on 10th August 2016*)
 
 **[⬆ back to top](#table-of-contents)**
 
