@@ -227,9 +227,12 @@
 - [Desura](http://www.desura.com/about) - Desura is a community driven digital distribution service for gamers, putting the best games, mods and downloadable content from developers at gamers fingertips, ready to buy and play.
 - [GBrainy](https://wiki.gnome.org/action/show/Apps/gbrainy?action=show&redirect=gbrainy) - Gbrainy is a brain teaser game and trainer to have fun and to keep your brain trained. [![Open-Source Software][OSS Icon]](https://wiki.gnome.org/action/show/Apps/gbrainy?action=show&redirect=gbrainy#Source_code) ![Freeware][Freeware Icon]
 - [Minecraft](https://minecraft.net/en/download/?ref=m) - Minecraft is a game about placing blocks and going on adventures. Explore randomly generated worlds and build amazing things from the simplest of homes to the grandest of castles.![Freeware][Freeware Icon]
+- [Minetest](http://www.minetest.net/) -  Open-source Minecraft written is C++ (uses less resources) and includes modding API. [![Open-Source Software][OSS Icon]](https://github.com/minetest) ![Freeware][Freeware Icon]
 - [PlayOnLinux](https://www.playonlinux.com/en/) - Play Windows Game on Linux. [![Open-Source Software][OSS Icon]](https://github.com/PlayOnLinux/POL-POM-4) ![Freeware][Freeware Icon]
 - [Simutrans](https://www.simutrans.com/en/) - Simutrans is a freeware and open-source transportation simulator. [![Open-Source Software][OSS Icon]](https://www.simutrans.com/en/develop/) ![Freeware][Freeware Icon]
 - [Steam](http://store.steampowered.com/) - Awesome Gaming platform, which opens the gates to many games.![Freeware][Freeware Icon]
+- [SuperTuxCar](https://supertuxkart.net/Main_Page) - SuperTuxKart is a 3D open-source arcade racer with a variety characters, tracks, and modes to play.[![Open-Source Software][OSS Icon]](https://github.com/supertuxkart/stk-code) ![Freeware][Freeware Icon]
+- [Warzone2100](https://wz2100.net/) - Open-source real-time strategy/real-time tactics game. [![Open-Source Software][OSS Icon]](http://developer.wz2100.net/) ![Freeware][Freeware Icon]
 - [Wine](https://www.winehq.org/) - Wine (originally an acronym for "Wine Is Not an Emulator") is a compatibility layer capable of running Windows applications on several POSIX-compliant operating systems, such as Linux, Mac OSX, & BSD [![Open-Source Software][OSS Icon]](https://github.com/wine-mirror/wine) ![Freeware][Freeware Icon]
 - [Xonotic](http://xonotic.org/) - Arena shooter inspired by Unreal Tournament and Quake. [![Open-Source Software][OSS Icon]](https://gitlab.com/groups/xonotic) ![Freeware][Freeware Icon]
 
