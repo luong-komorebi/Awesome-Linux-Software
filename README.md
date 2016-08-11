@@ -327,6 +327,7 @@
 - [D-lan](http://www.d-lan.net/) - A free LAN file sharing software.![Freeware][Freeware Icon]
 - [Deluge](http://deluge-torrent.org/) - Deluge is a lightweight, Free Software, cross-platform BitTorrent client.[![Open-Source Software][OSS Icon]](http://dev.deluge-torrent.org/wiki/Development#SourceCode)![Freeware][Freeware Icon]
 - [Dropbox](https://www.dropbox.com/install?os=lnx) - Dropbox is a free service that lets you bring your photos, docs, and videos anywhere and share them easily.![Freeware][Freeware Icon]
+- [Filezilla](https://filezilla-project.org/) - the free FTP solution [![Open-Source Software][OSS Icon]](https://filezilla-project.org/sourcecode.php)![Freeware][Freeware Icon]
 - [Meiga](http://meiga.igalia.com/) - a tool that makes possible to share selected local directories via web. [![Open-Source Software][OSS Icon]](http://git.igalia.com/meiga.git) ![Freeware][Freeware Icon]
 - [ownCloud](https://owncloud.com/products/desktop-clients/) - The goal of ownCloud is to give you access to your files wherever you are![Freeware][Freeware Icon]
 - [Quazaa](https://sourceforge.net/projects/quazaa/) - A cross platform multi-network peer-to-peer (P2P) file-sharing client.![Freeware][Freeware Icon]
