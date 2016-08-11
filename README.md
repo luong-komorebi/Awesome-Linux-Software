@@ -399,6 +399,7 @@
 
 ## Command Line Utilities
 - [Bastet](https://github.com/fph/bastet) - Play Tetris in commandline.[![Open-Source Software][OSS Icon]](https://github.com/fph/bastet)![Freeware][Freeware Icon]
+- [Daily Reddit Wallpaper](https://github.com/ssimunic/Daily-Reddit-Wallpaper) - Change your wallpaper to the most upvoted image of the day from /r/wallpapers or any other subreddit on system startup. [![Open-Source Software][OSS Icon]](https://github.com/ssimunic/Daily-Reddit-Wallpaper)![Freeware][Freeware Icon]
 - [Fishfry](https://github.com/LubuntuFu/fishfry) - replaces fish history with a history tailored to pentesters for efficency and newbie pentesters for learning.[![Open-Source Software][OSS Icon]](https://github.com/LubuntuFu/fishfry)![Freeware][Freeware Icon]
 - [htop](http://hisham.hm/htop/) - top with improved features and user experience [![Open-Source Software][OSS Icon]](https://github.com/hishamhm/htop)![Freeware][Freeware Icon]
 - [Pacman4console](https://launchpad.net/ubuntu/+source/pacman4console) - Play Pacman game in console.[![Open-Source Software][OSS Icon]](https://github.com/alexdantas/pacman4console.debian)![Freeware][Freeware Icon]
