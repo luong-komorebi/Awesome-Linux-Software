@@ -77,9 +77,9 @@
 - [Kid3Qt](https://apps.ubuntu.com/cat/applications/precise/kid3-qt/) - Edit tags of multiple files, e.g. the artist, album, year and genre of all mp3 files of an album.![Freeware][Freeware Icon]
 - [Let's make music](https://lmms.io/download/#linux) - Making music on your PC by creating melodies and beats, synthesizing and mixing sounds, arranging samples and much more. ![Freeware][Freeware Icon]
 - [Mixxx](http://www.mixxx.org/download/) - Free DJ software that gives you everything you need to perform live mixes, veritable alternative to Traktor. [![Open-Source Software][OSS Icon]](https://github.com/mixxxdj/mixxx) ![Freeware][Freeware Icon]
+- [NetEase-MusicBox](https://github.com/darknessomi/musicbox) - An NetEase Cloud Music client for terminal. [![Open-Source Software][OSS Icon]](https://github.com/tomahawk-player/tomahawk)![Freeware][Freeware Icon]
 - [SoundJuicer](http://www.howtogeek.com/howto/20126/rip-audio-cds-with-sound-juicer/) - CD Ripping tool for GNOME ![Freeware][Freeware Icon]
 - [Tomahawk](https://www.tomahawk-player.org/) -A new kind of music player that invites all your streams, downloads, cloud music storage, playlists, radio stations and more. [![Open-Source Software][OSS Icon]](https://github.com/tomahawk-player/tomahawk)![Freeware][Freeware Icon]
-- [NetEase-MusicBox](https://github.com/darknessomi/musicbox) - An NetEase Cloud Music client for terminal. [![Open-Source Software][OSS Icon]](https://github.com/tomahawk-player/tomahawk)![Freeware][Freeware Icon]
 
 ### Chat Clients
 - [GhettoSkype](https://github.com/stanfieldr/ghetto-skype) - open source web wrapper for Skype. [![Open-Source Software][OSS Icon]](https://github.com/stanfieldr/ghetto-skype) ![Freeware][Freeware Icon]
