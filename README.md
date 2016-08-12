@@ -5,7 +5,7 @@
 ![Tux](https://cloud.githubusercontent.com/assets/6733770/17458846/b8cca9ae-5bf7-11e6-85ba-e6f2461e82de.jpg)
 
 
-🐧 This repo is a collection of **AWESOME** Ubuntu/Linux applications and tools for **any users/developers**.
+🐧 This repo is a collection of **AWESOME** Linux applications and tools for **any users/developers**.
 <br>
 🐧 Feel free to **contribute** / **star** / **fork** / **pull request** . Any **recommendations** and **suggestions** are welcomed.
 
