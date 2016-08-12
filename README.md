@@ -514,6 +514,7 @@
 * [Open Source](https://www.reddit.com/r/opensource/)
 * [Unix Porn](https://www.reddit.com/r/unixporn/)
 * [Linux Kernel](https://www.reddit.com/r/kernel/)
+* [Linux Gaming](https://www.reddit.com/r/linux_gaming/)
 
 ## Learn Linux
 
