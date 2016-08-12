@@ -186,6 +186,7 @@
 - [Gcompris](http://gcompris.net/index-en.html) - GCompris is a high quality educational software suite comprising of numerous activities for children aged 2 to 10.[![Open-Source Software][OSS Icon]](http://gcompris.net/wiki/Developer%27s_corner)![Freeware][Freeware Icon]
 - [Geogebra](https://www.geogebra.org/download) - THE GRAPHING CALCULATOR FOR FUNCTIONS, GEOMETRY, ALGEBRA, CALCULUS, STATISTICS AND 3D MATH. ![Freeware][Freeware Icon]
 - [GNUKhata](http://www.gnukhata.in/) - Open source accounting software. [![Open-Source Software][OSS Icon]](https://github.com/kinitrupti/GNUKhata)![Freeware][Freeware Icon]
+- [GNU Typist](https://www.gnu.org/software/gtypist/index.html) - ncurses-based free-software typing instructor [![Open-Source Software][OSS Icon]](http://ftp.gnu.org/gnu/gtypist/)![Freeware][Freeware Icon]
 - [Google Earth](https://itsfoss.com/install-google-earth-ubunu/) - Google Earth is a virtual globe, map and geographical information program.![Freeware][Freeware Icon]
 - [GPeriodic](http://gperiodic.seul.org/) - GPeriodic is a periodic table application for Linux.![Freeware][Freeware Icon]
 - [ITalc](https://github.com/iTALC/italc/releases) - iTALC is a use- and powerful didactical tool for teachers. It lets you view and control other computers in your network in several ways. [![Open-Source Software][OSS Icon]](https://github.com/iTALC/italc)![Freeware][Freeware Icon]
