@@ -55,6 +55,7 @@
     - [Linux News, Apps, and more ....](#linux-news-apps-and-more-)
     - [Reddit](#reddit)
 - [Learn Linux](#learn-linux)
+- [Linux Hacking/Development](#linux-hackingdevelopment)
 - [Contributors](#contributors)
 - [Guideline to Contribute](#guideline-to-contribute)
 
@@ -522,7 +523,16 @@
 - [Learn Linux](https://linuxjourney.com/)
 - [Linux Course](https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-0)
 - [Linus Pocket Guide](http://www.opencore.eesc.usp.br/bruno/livros/Linux_Pocket_Guide.pdf)
+
+## Linux Hacking/Development
+
 - [Kernel Newbies](https://kernelnewbies.org/)
+- [Linux Insides](https://0xax.gitbooks.io/linux-insides/content/index.html)
+- [The Linux Kernel](http://www.tldp.org/LDP/tlk/tlk.html)
+- [Linux Kernel Archives (Official Website)](https://www.kernel.org/)
+- [Linux Kernel Internals (PDF)](http://www.tldp.org/LDP/lki/lki.pdf)
+- [Linux Kernel Mailing List Archive](https://lkml.org/)
+- [Linux Kernel Module Programming Guide (PDF)](http://www.tldp.org/LDP/lkmpg/2.6/lkmpg.pdf)
 
 ## Contributors
 
