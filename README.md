@@ -253,6 +253,7 @@
 - [Hugin](http://hugin.sourceforge.net/) - an easy to use cross-platform panoramic imaging toolchain based on Panorama Tools.![Freeware][Freeware Icon]
 - [Inkscape](https://inkscape.org/en/) - A powerful, free design tool for you , whether you are an illustrator, designer, web designer or just someone who needs to create some vector imagery![Freeware][Freeware Icon]
 - [Krita](https://krita.org/en/) - Open Source Software for Concept Artists, Digital Painters, and Illustrators![Freeware][Freeware Icon]
+- [Lightworks](https://www.lwks.com/) - Professional non-linear video editing program with a free version available
 - [Luminance HDR](http://qtpfsgui.sourceforge.net/) - Luminance HDR is an open source graphical user interface application that aims to provide a workflow for HDR imaging.![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/LuminanceHDR/LuminanceHDR)
 - [Mypaint](http://mypaint.org/about/) - Mypaint is a paint program for use with graphics tablets. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/mypaint/mypaint/releases)
 - [Ojo](https://github.com/peterlevi/ojo) - A fast and pretty image viewer. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/peterlevi/ojo)
