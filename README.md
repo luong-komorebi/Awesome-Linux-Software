@@ -163,6 +163,7 @@
 - [MasterPDF editor](https://code-industry.net/free-pdf-editor/) - Master PDF Editor a convenient and smart PDF editor for Linux.![Freeware][Freeware Icon]
 - [MuPDF](http://mupdf.com/) - a lightweight PDF and XPS viewer. [![Open-Source Software][OSS Icon]](http://git.ghostscript.com/?p=mupdf.git;a=summary) ![Freeware][Freeware Icon]
 - [Okular](https://okular.kde.org/) - Okular is a universal document viewer based developed by KDE. Okular works on multiple platforms, including but not limited to Linux, Windows, Mac OS X, *BSD, etc.![Freeware][Freeware Icon]
+- [qpdf](https://launchpad.net/qpdfview) - qpdfview is a tabbed document viewer. [![Open-Source Software][OSS Icon]](https://launchpad.net/qpdfview) ![Freeware][Freeware Icon]
 - [Sigil](https://github.com/Sigil-Ebook/Sigil) - Sigil is a multi-platform EPUB ebook editor.[![Open-Source Software][OSS Icon]](https://github.com/Sigil-Ebook/Sigil) ![Freeware][Freeware Icon]
 
 
@@ -255,9 +256,11 @@
 - [Inkscape](https://inkscape.org/en/) - A powerful, free design tool for you , whether you are an illustrator, designer, web designer or just someone who needs to create some vector imagery![Freeware][Freeware Icon]
 - [Krita](https://krita.org/en/) - Open Source Software for Concept Artists, Digital Painters, and Illustrators![Freeware][Freeware Icon]
 - [Luminance HDR](http://qtpfsgui.sourceforge.net/) - Luminance HDR is an open source graphical user interface application that aims to provide a workflow for HDR imaging.![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/LuminanceHDR/LuminanceHDR)
+- [Mypaint](http://mypaint.org/about/) - Mypaint is a paint program for use with graphics tablets. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/mypaint/mypaint/releases)
 - [Ojo](https://github.com/peterlevi/ojo) - A fast and pretty image viewer. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/peterlevi/ojo)
 - [OpenShot](http://www.openshot.org/) - OpenShot is a free, simple-to-use, feature-rich video editor for Linux. ![Freeware][Freeware Icon]
-- [Pinta](https://pinta-project.com/pintaproject/pinta/) - Pinta is a free, open source program for drawing and image editing.![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://pinta-project.com/pintaproject/pinta/contribute)
+- [Photonic](https://github.com/oferkv/phototonic) - Phototonic is image viewer and organizer. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/oferkv/phototonic)
+- [Pinta](https://pinta-project.com/pintaproject/pinta/) - Pinta is a free, open source program for drawing and image editing.![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://pinta-project.com/pintaproject/pinta/contribute) 
 - [Pitivi](http://www.pitivi.org/) - A free video editor with a beautiful and intuitive user interface, a clean codebase and a fantastic community.![Freeware][Freeware Icon]
 - [Radiance](http://www.radiance-online.org/) - Radiance - A Validated Lighting Simulation Tool![Freeware][Freeware Icon]
 - [RawTherapee](http://rawtherapee.com/) - A good looking but lesser known photo editing app.![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/Beep6581/RawTherapee)
@@ -271,6 +274,7 @@
 - [Brave](https://brave.com/) - Brave is a fast, good desktop browser for macOS, Windows, and Linux.![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/brave/browser-laptop)
 - [Chrome](https://www.google.com/chrome/browser/desktop/index.html) - A popular Web Browsers with a lot of plugins/apps.![Freeware][Freeware Icon]
 - [Chromium](http://askubuntu.com/questions/250773/how-do-i-install-chromium-from-the-command-line) - Chromium is an open-source browser project that aims to build a safer, faster, and more stable way for all users to experience the web.![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://www.chromium.org/)
+- [Corebird](http://corebird.baedert.org/) - corebird is native gtk+ twitter desktop client. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/baedert/corebird)
 - [Firefox](https://www.mozilla.org/en-US/firefox/new/) - A popular Web Browsers with a lot of plugins/apps.![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide)
 - [Midori](http://midori-browser.org/) - A lightweight free browser that runs well on low spec systems. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://launchpad.net/~midori/+archive/ubuntu/ppa).
 - [Tor](https://www.torproject.org/) - Tor is free software and an open network that helps you defend against traffic analysis, a form of network surveillance that threatens personal freedom and privacy. ![Freeware][Freeware Icon]
@@ -350,6 +354,7 @@
 - [Konsole](https://konsole.kde.org/) - Best terminal for KDE dekstop environment.![Freeware][Freeware Icon]
 - [RXVT](http://rxvt.sourceforge.net/) - A terminal emulator for X11, a popular replacement for the standard ‘xterm’.[![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/rxvt/)![Freeware][Freeware Icon]
 - [RXVT-Unicode](http://software.schmorp.de/pkg/rxvt-unicode.html) - rxvt-unicode is a fork of the well known terminal emulator.[![Open-Source Software][OSS Icon]](rxvt.http://cvs.schmorp.de/rxvt-unicode/)![Freeware][Freeware Icon]
+- [Sakura](https://launchpad.net/sakura) - Simple but powerful libvte based terminal emulator, supporting utf-8 and input methods as provided by gtk+ and pango libraries. [![Open-Source Software][OSS Icon]](https://launchpad.net/sakura)![Freeware][Freeware Icon]
 - [Terminator](http://gnometerminator.blogspot.com/p/introduction.html) - it’s quite clear that the most powerful terminal emulator on Linux is the feature-filled Terminator.![Freeware][Freeware Icon]
 - [Termit](https://github.com/nonstop/termit/wiki) - Simple terminal emulator based on vte library, extensible via Lua.[![Open-Source Software][OSS Icon]](https://github.com/nonstop/termit/wiki)![Freeware][Freeware Icon]
 - [Xterm](http://invisible-island.net/xterm/) - The xterm program is a terminal emulator for the X Window System. It provides DEC VT102 and Tektronix 4014 compatible terminals for programs that can't use the window system directly.![Freeware][Freeware Icon]
@@ -560,7 +565,8 @@
  19. [jakub-olczyk](https://github.com/jakub-olczyk)
  20. [shakib609](https://github.com/shakib609)
  21. [talisk](https://github.com/talisk)
- 22. *Everyone @ reddit.com/r/linux & reddit.com/r/ubuntu & vozforums.com for many suggestions and compliments*
+ 22. [smdrz](https://github.com/smdrz)
+ 23. *Everyone @ reddit.com/r/linux & reddit.com/r/ubuntu & vozforums.com for many suggestions and compliments*
  ...
 
  (*The list above is updated on 10th August 2016*)
