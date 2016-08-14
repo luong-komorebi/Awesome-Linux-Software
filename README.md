@@ -199,6 +199,8 @@
 - [Scratch](https://scratch.mit.edu/) - With Scratch, you can program your own interactive stories, games, and animations — and share your creations with others in the online community.![Freeware][Freeware Icon]
 - [Stellarium](http://www.stellarium.org/) - Stellarium is a free open source planetarium for your computer.[![Open-Source Software][OSS Icon]](https://sourceforge.net/p/stellarium/code/HEAD/tree/)![Freeware][Freeware Icon]
 - [Tux4Kids](http://tux4kids.alioth.debian.org/) - Tux4Kids develops high-quality software for kids, with the goal of combining fun and learning into an irresistable package. [![Open-Source Software][OSS Icon]](http://tux4kids.alioth.debian.org/dev.php)![Freeware][Freeware Icon]
+- [UGENE](http://ugene.net/) - UGENE is free open-source cross-platform integerated GUI-based bioinformatics software.[![Open-Source Software][OSS Icon]](https://github.com/ugeneunipro/ugene)![Freeware][Freeware Icon]
+
 
 ### Email
 - [Evolution](https://wiki.gnome.org/Apps/Evolution/) - Evolution is a personal information management application that provides integrated mail, calendaring and address book functionality. ![Freeware][Freeware Icon]
@@ -272,7 +274,6 @@
 - [Chromium](http://askubuntu.com/questions/250773/how-do-i-install-chromium-from-the-command-line) - Chromium is an open-source browser project that aims to build a safer, faster, and more stable way for all users to experience the web.![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://www.chromium.org/)
 - [Corebird](http://corebird.baedert.org/) - corebird is native gtk+ twitter desktop client. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/baedert/corebird)
 - [Firefox](https://www.mozilla.org/en-US/firefox/new/) - A popular Web Browsers with a lot of plugins/apps.![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide)
-- [GNOME Twitch](https://github.com/vinszent/gnome-twitch) - GNOME Twitch — Watch Twitch on the Desktop.![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/vinszent/gnome-twitch)
 - [Midori](http://midori-browser.org/) - A lightweight free browser that runs well on low spec systems. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://launchpad.net/~midori/+archive/ubuntu/ppa).
 - [Tor](https://www.torproject.org/) - Tor is free software and an open network that helps you defend against traffic analysis, a form of network surveillance that threatens personal freedom and privacy. ![Freeware][Freeware Icon]
 - [Vivaldi](https://vivaldi.com/?lang=en) - A new and rising browser with a lot of customizations.![Freeware][Freeware Icon]
