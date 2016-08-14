@@ -120,7 +120,6 @@
 ### Development
 - [Android studio](https://developer.android.com/studio/index.html) -The Official IDE for Android : Android Studio provides the fastest tools for building apps on every type of Android device.![Freeware][Freeware Icon]
 - [Aptana](http://www.aptana.com/) - Aptana Studio harnesses the flexibility of Eclipse and focuses it into a powerful web development engine.![Freeware][Freeware Icon]
-- [Atom](https://atom.io/) - Hackable text editor for the 21st century. [![Open-Source Software][OSS Icon]](https://github.com/atom/atom) ![Freeware][Freeware Icon]
 - [Arduino IDE](https://www.arduino.cc/en/Main/Software) - The open-source Arduino Software (IDE) makes it easy to write code and upload it to the board. ![Freeware][Freeware Icon]
 - [BlueJ](http://bluej.org/) - A free Java Development Environment designed for beginners, used by millions worldwide.![Freeware][Freeware Icon]
 - [Code::Blocks](http://www.codeblocks.org/) - Code::Blocks is a free C, C++ and Fortran IDE built to meet the most demanding needs of its users. It is designed to be very extensible and fully configurable. ![Freeware][Freeware Icon]
@@ -135,7 +134,6 @@
 - [Jupyter Notebook](https://jupyter.org/) - Open source, interactive data science and scientific computing across over 40 programming languages. [![Open-Source Software][OSS Icon]](https://jupyter.readthedocs.io/en/latest/install.html)![Freeware][Freeware Icon]
 - [KDevelop](https://www.kdevelop.org/) - It is a free, open source IDE, feature-full, plugin extensible IDE for C/C++ and other programming languages.![Freeware][Freeware Icon]
 - [Komodo Edit](http://komodoide.com/komodo-edit/) - Free and open source multilanguage development environment. ![Freeware][Freeware Icon]
-- [Lighttable](http://lighttable.com/) - The next generation code editor! Support live coding. ![Freeware][Freeware Icon]
 - [MariaDB](https://mariadb.org/) - One of the most popular database servers. Made by the original developers of MySQL.![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://mariadb.org/get-involved/getting-started-for-developers/)
 - [MonoDevelop](http://www.monodevelop.com/) - Cross platform IDE for C#, F# and more.![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](http://www.monodevelop.com/developers/)
 - [Nemiver](https://github.com/GNOME/nemiver) - Nemiver is a project to write a standalone graphical debugger that integrates well in the GNOME desktop environment. [![Open-Source Software][OSS Icon]](https://github.com/GNOME/nemiver) ![Freeware][Freeware Icon]
@@ -148,10 +146,8 @@
 - [QT Creator](https://www.qt.io/ide/) - Fully-stocked cross-platform integrated development environment for easy creation of connected devices, UIs and applications.![Freeware][Freeware Icon]
 - [Rabbit VCS](http://rabbitvcs.org/) - RabbitVCS is a set of graphical tools written to provide simple and straightforward access to the version control systems you use. [![Open-Source Software][OSS Icon]](https://github.com/rabbitvcs/rabbitvcs) ![Freeware][Freeware Icon]
 - [Sqlite Browser](http://sqlitebrowser.org/) - Visually create, manage, and view sqlite database files. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/sqlitebrowser/sqlitebrowser)
-- [Sublime](https://www.sublimetext.com/) - One of the best text editor of all time. ![Freeware][Freeware Icon]
 - [Swift](https://swift.org/download/) - Swift is a general-purpose programming language built using a modern approach to safety, performance, and software design patterns. ![Freeware][Freeware Icon]
 - [Ubuntu-SDK](https://developer.ubuntu.com/en/phone/platform/sdk/installing-the-sdk/) - The official Ubuntu SDK. ![Freeware][Freeware Icon]
-- [VSCode](https://code.visualstudio.com) - Visual Studio Code is a lightweight but powerful source code editor which runs on your desktop and is available for Windows, OS X and Linux. It comes with built-in support for JavaScript, TypeScript and Node.js and has a rich ecosystem of extensions for other languages (C++, C#, Python, PHP) and runtimes.![Freeware][Freeware Icon]
 - [Zsh](http://www.zsh.org/) -  A powerful command line shell. [![Open-Source Software][OSS Icon]](http://sourceforge.net/p/zsh/code/ci/master/tree/)
 
 ### E-Book Utilities
@@ -175,7 +171,7 @@
 - [Geany](https://www.geany.org/) - Geany is a text editor using the GTK+ toolkit with basic features of an integrated development environment. It was developed to provide a small and fast IDE, which has only a few dependencies from other packages. [![Open-Source Software][OSS Icon]](https://www.geany.org/Download/Git)![Freeware][Freeware Icon]
 - [Gedit](https://wiki.gnome.org/Apps/Gedit) -gedit is the GNOME text editor. While aiming at simplicity and ease of use, gedit is a powerful general purpose text editor.![Freeware][Freeware Icon]
 - [Kate](https://kate-editor.org/get-it/) - Kate is a multi-document editor part of KDE since release 2.2. [![Open-Source Software][OSS Icon]](https://kate-editor.org/build-it/)![Freeware][Freeware Icon]
-- [Lighttable](http://lighttable.com/) -the next generation code editor! Support live coding. ![Freeware][Freeware Icon]
+- [Lighttable](http://lighttable.com/) - The next generation code editor! Support live coding. ![Freeware][Freeware Icon]
 - [Sublime](https://www.sublimetext.com/) - One of the best text editor of all time. ![Freeware][Freeware Icon]
 - [VSCode](https://code.visualstudio.com) - Visual Studio Code is a lightweight but powerful source code editor which runs on your desktop and is available for Windows, OS X and Linux. It comes with built-in support for JavaScript, TypeScript and Node.js and has a rich ecosystem of extensions for other languages (C++, C#, Python, PHP) and runtimes.![Freeware][Freeware Icon]
 - [Vim](www.vim.org/download.php) -Vim is an advanced text editor that seeks to provide the power of the de-facto Unix editor 'Vi', with a more complete feature set. It's useful whether you're already using vi or using a different editor. [![Open-Source Software][OSS Icon]](https://github.com/vim/vim)![Freeware][Freeware Icon]
