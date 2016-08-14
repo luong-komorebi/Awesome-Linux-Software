@@ -1,80 +1,80 @@
-# Awesome Linux Software
+# 超赞的 Linux 软件
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/VoLuong/Awesome-Ubuntu-Linux)
 
 ![Tux](https://cloud.githubusercontent.com/assets/6733770/17458846/b8cca9ae-5bf7-11e6-85ba-e6f2461e82de.jpg)
 
 
-🐧 This repo is a collection of **AWESOME** Linux applications and tools for **any users/developers**.
+🐧 这个仓库收集了对**任何用户/开发者**都**超赞**的 Linux 应用软件。
 <br>
-🐧 Feel free to **contribute** / **star** / **fork** / **pull request** . Any **recommendations** and **suggestions** are welcomed.
+🐧 请随意 **contribute** / **star** / **fork** / **pull request**。欢迎一切**推荐**和**建议**。
 
-*Update: Recently, I received feedbacks from you about the quality of some applications on this list. I myself tested them out a lot (not all of them, though). If you have any problems with the apps, please: -> head to the dev page (if available) -> make an issue for the dev there -> make an issue here so that I can consider whether I should get the app out of the list. Remember : Everything has its own quality, so there will never be anything like "best app" or "selective list" here, thank you.*
+*更新：最近我收到了一些关于列表中一些应用软件的质量的反馈。我自己测试了其中的大部分应用（但不是全部）。如果你对应用有任何问题：-> 去往开发页面（如果有的话）-> 给开发提个 issue -> 在这里提个 issue 以便我考虑是否将应用移出列表。记住：所有东西都有它自己的质量，所以这里永远不会有“最佳应用”或“选择性的列表”，谢谢。*
 
-## Table of Contents
+## 目录
 
-- [Applications](#applications)
-    - [Audio](#audio)
-    - [Chat Clients](#chat-clients)
-    - [Data Backup and Recovery](#data-backup-and-recovery)
-    - [Desktop Customization](#desktop-customization)
-    - [Development](#development)
-    - [E-Book Utilities](#e-book-utilities)
-    - [Editors](#editors)
-    - [Education](#education)
-    - [Email Utilities](#email)
-    - [File Manager](#file-manager)
-    - [Games](#games)
-    - [Graphics](#graphics)
-    - [Internet](#internet)
-    - [Office](#office)
-    - [Productivity](#productivity)
-    - [Security](#security)
-    - [Sharing Files](#sharing-files)
-    - [Terminal](#terminal)
-    - [Utilities](#utilities)
-    - [Video](#video)
-    - [Others](#others)
-- [Command Line Utilities](#command-line-utilities)
-- [Desktop Environments](#desktop-environments)
-- [Display Managers](#display-manager)
-	- [Console](#console)
-	- [Graphic](#graphic)
-- [Window Managers](#window-managers)
-	- [Stacking window managers](#stacking-windows-managers)
-	- [Tiling window managers](#tiling-window-managers)
-	- [Dynamic window managers](#dynamic-window-managers)
+- [应用](#应用)
+    - [音频](#音频)
+    - [聊天客户端](#聊天客户端)
+    - [数据备份与恢复](#数据备份与恢复)
+    - [桌面个性化](#桌面个性化)
+    - [开发](#开发)
+    - [电子书工具](#电子书工具)
+    - [编辑器](#编辑器)
+    - [教育](#教育)
+    - [电子邮件](#电子邮件)
+    - [文件管理器](#文件管理器)
+    - [游戏](#游戏)
+    - [图形](#图形)
+    - [互联网](#互联网)
+    - [办公](#办公)
+    - [生产力](#生产力)
+    - [安全](#安全)
+    - [文件共享](#文件共享)
+    - [终端](#终端)
+    - [实用工具](#实用工具)
+    - [视频](#视频)
+    - [其它](#其它)
+- [命令行工具](#命令行工具)
+- [桌面环境](#桌面环境)
+- [显示管理](#显示管理)
+	- [控制台](#控制台)
+	- [图形界面](#图形界面)
+- [窗口管理](#窗口管理)
+	- [叠加式窗口管理器](#叠加式窗口管理器)
+	- [平铺式窗口管理器](#平铺式窗口管理器)
+	- [动态窗口管理器](#动态窗口管理器)
 
 ***********
 
-- [Setup](#setup)
-- [Miscellaneous](#miscellaneous)
-- [Discussion Forums](#discussion-forums)
-    - [Ubuntu](#apple)
-    - [IRC channels](#irc-channels)
-    - [Linux News, Apps, and more ....](#linux-news-apps-and-more-)
+- [设置](#设置)
+- [杂项](#杂项)
+- [论坛](#论坛)
+    - [Ubuntu](#ubuntu)
+    - [IRC 频道](#irc-channels)
+    - [Linux 新闻，应用，以及更多...](#linux-news-apps-and-more-)
     - [Reddit](#reddit)
-- [Learn Linux](#learn-linux)
-- [Linux Hacking/Development](#linux-hackingdevelopment)
-- [Contributors](#contributors)
-- [Guideline to Contribute](#guideline-to-contribute)
+- [学习 Linux](#learn-linux)
+- [Linux Hacking/开发](#linux-hackingdevelopment)
+- [贡献者](#贡献者)
+- [贡献指南](#贡献指南)
 
 ***********
 
-## Applications
+## 应用
 
 
-### Audio
-- [Airtime](https://www.sourcefabric.org/en/airtime/download/) - Airtime is the open broadcast software for scheduling and remote station management [![Open-Source Software][OSS Icon]](https://github.com/sourcefabric/Airtime) ![Freeware][Freeware Icon]
-- [Ardour](https://ardour.org/) - Record, Edit, and Mix on Linux ![Freeware][Freeware Icon]
-- [Audacious](http://audacious-media-player.org/) - An open source audio player,  plays your music how you want it, without stealing away your computer’s resources from other tasks.[![Open-Source Software][OSS Icon]](http://audacious-media-player.org/developers) ![Freeware][Freeware Icon]
-- [Audacity](http://www.audacityteam.org/download/linux/) - Free, open source, cross-platform software for recording and editing sounds. [![Open-Source Software][OSS Icon]](https://github.com/audacity/audacity) ![Freeware][Freeware Icon]
-- [Audio Recorder](https://launchpad.net/~audio-recorder/+archive/ubuntu/ppa) - Simple audio recorder available on ubuntu ppa. ![Freeware][Freeware Icon]
-- [Clementine](https://www.clementine-player.org/) - Play numerous lossy and lossless audio formats. [![Open-Source Software][OSS Icon]](https://github.com/clementine-player/Clementine) ![Freeware][Freeware Icon]
-- [Google Play Music](https://www.googleplaymusicdesktopplayer.com/) - Unofficial but beautiful cross platform Desktop Player for Google Play Music.[![Open-Source Software][OSS Icon]](https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-) ![Freeware][Freeware Icon]
-- [Hydrogen](http://www.hydrogen-music.org/hcms/node/21) - Advanced drum machine for GNU/Linux. ![Freeware][Freeware Icon]
-- [KxStudio](http://kxstudio.linuxaudio.org/) - KXStudio is a collection of applications and plugins for professional audio production.![Freeware][Freeware Icon]
-- [K3b](http://www.k3b.org/) - K3b - The CD/DVD Kreator for Linux - optimized for KDE.[![Open-Source Software][OSS Icon]](https://github.com/KDE/k3b)![Freeware][Freeware Icon]
+### 音频
+- [Airtime](https://www.sourcefabric.org/en/airtime/download/) - Airtime 是一款用于调度和远程站点管理的开放广播软件 [![Open-Source Software][OSS Icon]](https://github.com/sourcefabric/Airtime) ![Freeware][Freeware Icon]
+- [Ardour](https://ardour.org/) - 在 Linux 上录音，编辑，和混音 ![Freeware][Freeware Icon]
+- [Audacious](http://audacious-media-player.org/) - 开源音频播放器，按你想要的方式播放你的音乐，不占用你其它任务的电脑资源。[![Open-Source Software][OSS Icon]](http://audacious-media-player.org/developers) ![Freeware][Freeware Icon]
+- [Audacity](http://www.audacityteam.org/download/linux/) - 免费，开源，跨平台的声音录制、编辑软件。 [![Open-Source Software][OSS Icon]](https://github.com/audacity/audacity) ![Freeware][Freeware Icon]
+- [Audio Recorder](https://launchpad.net/~audio-recorder/+archive/ubuntu/ppa) - 简单的声音录制软件，就在 ubuntu ppa。 ![Freeware][Freeware Icon]
+- [Clementine](https://www.clementine-player.org/) - 播放无数的有损和无损音频格式。 [![Open-Source Software][OSS Icon]](https://github.com/clementine-player/Clementine) ![Freeware][Freeware Icon]
+- [Google Play Music](https://www.googleplaymusicdesktopplayer.com/) - 非官方但很漂亮的跨平台 Google Play Music 桌面客户端。[![Open-Source Software][OSS Icon]](https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-) ![Freeware][Freeware Icon]
+- [Hydrogen](http://www.hydrogen-music.org/hcms/node/21) - GNU/Linux 上的高级电子鼓。 ![Freeware][Freeware Icon]
+- [KxStudio](http://kxstudio.linuxaudio.org/) - KXStudio 是专业声音创作应用和插件的集合。![Freeware][Freeware Icon]
+- [K3b](http://www.k3b.org/) - K3b - Linux 上的 CD/DVD 创建工具 - 为 KDE 特别优化。[![Open-Source Software][OSS Icon]](https://github.com/KDE/k3b)![Freeware][Freeware Icon]
 - [Kid3Qt](https://apps.ubuntu.com/cat/applications/precise/kid3-qt/) - Edit tags of multiple files, e.g. the artist, album, year and genre of all mp3 files of an album.![Freeware][Freeware Icon]
 - [Let's make music](https://lmms.io/download/#linux) - Making music on your PC by creating melodies and beats, synthesizing and mixing sounds, arranging samples and much more. ![Freeware][Freeware Icon]
 - [Mixxx](http://www.mixxx.org/download/) - Free DJ software that gives you everything you need to perform live mixes, veritable alternative to Traktor. [![Open-Source Software][OSS Icon]](https://github.com/mixxxdj/mixxx) ![Freeware][Freeware Icon]
@@ -258,7 +258,7 @@
 - [Ojo](https://github.com/peterlevi/ojo) - A fast and pretty image viewer. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/peterlevi/ojo)
 - [OpenShot](http://www.openshot.org/) - OpenShot is a free, simple-to-use, feature-rich video editor for Linux. ![Freeware][Freeware Icon]
 - [Photonic](https://github.com/oferkv/phototonic) - Phototonic is image viewer and organizer. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/oferkv/phototonic)
-- [Pinta](https://pinta-project.com/pintaproject/pinta/) - Pinta is a free, open source program for drawing and image editing.![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://pinta-project.com/pintaproject/pinta/contribute) 
+- [Pinta](https://pinta-project.com/pintaproject/pinta/) - Pinta is a free, open source program for drawing and image editing.![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://pinta-project.com/pintaproject/pinta/contribute)
 - [Pitivi](http://www.pitivi.org/) - A free video editor with a beautiful and intuitive user interface, a clean codebase and a fantastic community.![Freeware][Freeware Icon]
 - [Radiance](http://www.radiance-online.org/) - Radiance - A Validated Lighting Simulation Tool![Freeware][Freeware Icon]
 - [RawTherapee](http://rawtherapee.com/) - A good looking but lesser known photo editing app.![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/Beep6581/RawTherapee)
@@ -581,7 +581,7 @@
 ## Guideline to contribute
 
 > Simply put the name of the **application** in the list.
-> Link to its **homepage** or a **guide** on how to install it.  
+> Link to its **homepage** or a **guide** on how to install it.
 > Also write a **short description** for the application + add **icon**.
 > Make sure it is put under the **appropriate topic**.
 > If the application doesn't fit in any **existing topic**, make a **new one** for it.
