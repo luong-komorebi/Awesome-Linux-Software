@@ -552,7 +552,7 @@
  6. [lasseborly](https://github.com/lasseborly)
  7. [sebasspf](https://github.com/sebasspf)
  8. [buivnhai](https://github.com/buivnhai)
- 9. [ank91](https://github.com/ank91)
+ 9. [ankurk91](https://github.com/ankurk91)
  10. [mAzurkovic](https://github.com/mAzurkovic)
  11. [bocklund](https://github.com/bocklund)
  12. [grebenschikov](https://github.com/grebenschikov)
@@ -566,10 +566,14 @@
  20. [shakib609](https://github.com/shakib609)
  21. [talisk](https://github.com/talisk)
  22. [smdrz](https://github.com/smdrz)
- 23. *Everyone @ reddit.com/r/linux & reddit.com/r/ubuntu & vozforums.com for many suggestions and compliments*
+ 23. [bishoyh](https://github.com/bishoyh)
+ 24. [Voicu](https://github.com/vpop)
+ 25. [ryandaniels](https://github.com/ryandaniels)
+ 26. [mame98](https://github.com/mame98)
+ 27. *Everyone @ reddit.com/r/linux & reddit.com/r/ubuntu & vozforums.com for many suggestions and compliments*
  ...
 
- (*The list above is updated on 10th August 2016*)
+ (*The list above is updated on 14th August 2016*)
 
 **[⬆ back to top](#table-of-contents)**
 
