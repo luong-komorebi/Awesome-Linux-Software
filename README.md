@@ -9,7 +9,7 @@
 <br>
 🐧 Feel free to **contribute** / **star** / **fork** / **pull request** . Any **recommendations** and **suggestions** are welcomed.
 
-*Update: This repo has been published on [Gitbook](https://luongvotranthanh.gitbooks.io/awesome-linux-software/content/). You can share this link to new users since they may find it friendlier to read than github.*
+*Update: This repo has been published on [Gitbook](https://voluong.gitbooks.io/awesome-linux-software/content/). You can share this link to new users since they may find it friendlier to read than github.*
 
 ## Table of Contents
 
