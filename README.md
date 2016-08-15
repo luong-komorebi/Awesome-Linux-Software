@@ -587,10 +587,12 @@
  24. [Voicu](https://github.com/vpop)
  25. [ryandaniels](https://github.com/ryandaniels)
  26. [mame98](https://github.com/mame98)
- 27. *Everyone @ reddit.com/r/linux & reddit.com/r/ubuntu & vozforums.com for many suggestions and compliments*
+ 27. [Kastmeski](https://github.com/kasmetski)
+ 28. [johnjago](https://github.com/johnjago)
+ 29. *Everyone @ reddit.com/r/linux & reddit.com/r/ubuntu & vozforums.com for many suggestions and compliments*
  ...
 
- (*The list above is updated on 14th August 2016*)
+ (*The list above is updated on 15th August 2016*)
 
 **[⬆ back to top](#table-of-contents)**
 
