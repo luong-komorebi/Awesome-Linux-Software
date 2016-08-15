@@ -546,6 +546,7 @@
 - [Learn Linux](https://linuxjourney.com/)
 - [Linux Course](https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-0)
 - [Linus Pocket Guide](http://www.opencore.eesc.usp.br/bruno/livros/Linux_Pocket_Guide.pdf)
+- [Linux Command Line with Bash - Tek Linux](https://www.youtube.com/watch?v=ltjPIpilqow)
 
 ## Linux Hacking/Development
 
