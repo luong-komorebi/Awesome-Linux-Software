@@ -48,6 +48,8 @@
 ***********
 
 - [Setup](#setup)
+	- [Ubuntu](#ubuntu)
+	- [ArchLinux](#arch-linux)
 - [Miscellaneous](#miscellaneous)
 - [Discussion Forums](#discussion-forums)
     - [Ubuntu](#apple)
