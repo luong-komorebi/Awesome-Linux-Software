@@ -479,6 +479,12 @@
 - [How to dual-boot Ubuntu with Windows](http://www.everydaylinuxuser.com/2014/05/install-ubuntu-1404-alongside-windows.html)
 - [What to do after installing ubuntu](http://www.omgubuntu.co.uk/2016/04/10-things-to-do-after-installing-ubuntu-16-04-lts)
 
+### Arch Linux
+- [Beginners' guide](https://wiki.archlinux.org/index.php/Beginners%27_guide)
+- [Installation guide](https://wiki.archlinux.org/index.php/Installation_guide)
+- [General recommendations](https://wiki.archlinux.org/index.php/General_recommendations)
+- [List of applications](https://wiki.archlinux.org/index.php/List_of_applications)
+
 ### Other distros
 
 > To be added later
@@ -489,6 +495,11 @@
 
 * [Ubuntu Forum](https://ubuntuforums.org/)
 * [Ask Ubuntu](askubuntu.com/)
+
+### Arch Linux
+
+* [Arch Linux Forums](https://bbs.archlinux.org/)
+* [Arch Linux ARM Forums](https://archlinuxarm.org/forum/viewforum.php?f=31)
 
 ### IRC channels
 
@@ -516,6 +527,7 @@
 ### Reddit
 
 * [Ubuntu](https://www.reddit.com/r/Ubuntu/)
+* [Arch Linux](https://www.reddit.com/r/archlinux/)
 * [Linux](https://www.reddit.com/r/linux/)
 * [Open Source](https://www.reddit.com/r/opensource/)
 * [Unix Porn](https://www.reddit.com/r/unixporn/)
@@ -525,6 +537,7 @@
 ## Learn Linux
 
 - [Learn Linux Command](http://linuxcommand.org/)
+- [GNU/Linux Command-Line Tools Summary](http://tldp.org/LDP/GNU-Linux-Tools-Summary/html/book1.htm)
 - [Learn Linux](https://linuxjourney.com/)
 - [Linux Course](https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-0)
 - [Linus Pocket Guide](http://www.opencore.eesc.usp.br/bruno/livros/Linux_Pocket_Guide.pdf)
