@@ -590,7 +590,8 @@
  26. [mame98](https://github.com/mame98)
  27. [Kastmeski](https://github.com/kasmetski)
  28. [johnjago](https://github.com/johnjago)
- 29. *Everyone @ reddit.com/r/linux & reddit.com/r/ubuntu & vozforums.com for many suggestions and compliments*
+ 29. [magneticnoodle](https://github.com/magneticnoodle)
+ 30. *Everyone @ reddit.com/r/linux & reddit.com/r/ubuntu & vozforums.com for many suggestions and compliments*
  ...
 
  (*The list above is updated on 15th August 2016*)
