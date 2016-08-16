@@ -477,7 +477,7 @@
 - [xmonad](http://xmonad.org) - Dynamically tiling X11 window manager that is written and configured in Haskell. [![Open-Source Software][OSS Icon]](https://github.com/xmonad/xmonad) ![Freeware][Freeware Icon]
 
 ### Compositors
-- [Compton](https://github.com/chjj/compton) - A compositor for X11. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
+- [Compton](https://github.com/chjj/compton) - Compton is a standalone composite manager, suitable for use with window managers that do not natively provide compositing functionality. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 
 
 ## Setup
