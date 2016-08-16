@@ -41,7 +41,8 @@
 	- [Console](#console)
 	- [Graphic](#graphic)
 - [Window Managers](#window-managers)
-	- [Stacking window managers](#stacking-windows-managers)
+	- [Compositors](#compositors)
+	- [Stacking window managers](#stacking-window-managers)
 	- [Tiling window managers](#tiling-window-managers)
 	- [Dynamic window managers](#dynamic-window-managers)
 
@@ -459,6 +460,10 @@
 
 ## Window Managers
 
+### Compositors
+- [Compton](https://github.com/chjj/compton) - Compton is a standalone composite manager, suitable for use with window managers that do not natively provide compositing functionality. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
+
+
 ### Stacking window managers
 - [2bwm](https://github.com/venam/2bwm) - Fast floating WM, with the particularity of having 2 borders, written over the XCB library and derived from mcwm. [![Open-Source Software][OSS Icon]](https://github.com/venam/2bwm) ![Freeware][Freeware Icon]
 - [Blackbox](http://blackboxwm.sourceforge.net) - Fast, lightweight window manager for the X Window System, without all those annoying library dependencies. [![Open-Source Software][OSS Icon]](https://github.com/bbidulock/blackboxwm) ![Freeware][Freeware Icon]
@@ -476,8 +481,6 @@
 - [spectrwm](https://github.com/conformal/spectrwm/wiki) - Small dynamic tiling window manager for X11, largely inspired by xmonad and dwm. [![Open-Source Software][OSS Icon]](https://github.com/conformal/spectrwm) ![Freeware][Freeware Icon]
 - [xmonad](http://xmonad.org) - Dynamically tiling X11 window manager that is written and configured in Haskell. [![Open-Source Software][OSS Icon]](https://github.com/xmonad/xmonad) ![Freeware][Freeware Icon]
 
-### Compositors
-- [Compton](https://github.com/chjj/compton) - Compton is a standalone composite manager, suitable for use with window managers that do not natively provide compositing functionality. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 
 
 ## Setup
