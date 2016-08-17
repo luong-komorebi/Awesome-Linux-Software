@@ -80,7 +80,9 @@
 - [K3b](http://www.k3b.org/) - K3b - The CD/DVD Kreator for Linux - optimized for KDE.[![Open-Source Software][OSS Icon]](https://github.com/KDE/k3b)![Freeware][Freeware Icon]
 - [Kid3Qt](https://apps.ubuntu.com/cat/applications/precise/kid3-qt/) - Edit tags of multiple files, e.g. the artist, album, year and genre of all mp3 files of an album.![Freeware][Freeware Icon]
 - [Let's make music](https://lmms.io/download/#linux) - Making music on your PC by creating melodies and beats, synthesizing and mixing sounds, arranging samples and much more. ![Freeware][Freeware Icon]
+- [Lollypop](http://gnumdk.github.io/lollypop-web) - Lollypop is a new GNOME music playing application. [![Open-Source Software][OSS Icon]](https://github.com/gnumdk/lollypop) ![Freeware][Freeware Icon]
 - [Mixxx](http://www.mixxx.org/download/) - Free DJ software that gives you everything you need to perform live mixes, veritable alternative to Traktor. [![Open-Source Software][OSS Icon]](https://github.com/mixxxdj/mixxx) ![Freeware][Freeware Icon]
+- [OSD Lyrics](https://aur.archlinux.org/packages/osdlyrics-git/) - Show lyrics with your favorite media player. [![Open-Source Software][OSS Icon]](https://github.com/PedroHLC/osdlyrics) ![Freeware][Freeware Icon]
 - [Rhythmbox](https://wiki.gnome.org/Apps/Rhythmbox) - Music player from GNOME. [![Open-Source Software][OSS Icon]](https://github.com/GNOME/rhythmbox) ![Freeware][Freeware Icon]
 - [SoundJuicer](http://www.howtogeek.com/howto/20126/rip-audio-cds-with-sound-juicer/) - CD Ripping tool for GNOME ![Freeware][Freeware Icon]
 - [Tomahawk](https://www.tomahawk-player.org/) -A new kind of music player that invites all your streams, downloads, cloud music storage, playlists, radio stations and more. [![Open-Source Software][OSS Icon]](https://github.com/tomahawk-player/tomahawk)![Freeware][Freeware Icon]
@@ -214,6 +216,7 @@
 - [Evolution](https://wiki.gnome.org/Apps/Evolution/) - Evolution is a personal information management application that provides integrated mail, calendaring and address book functionality. ![Freeware][Freeware Icon]
 - [Geary](https://wiki.gnome.org/Apps/Geary) - Geary is an email application built for GNOME 3. It allows you to read and send email with a simple, modern interface.![Freeware][Freeware Icon]
 - [Mailnag](https://launchpad.net/~pulb/+archive/ubuntu/mailnag) - Mailnag is a daemon program that checks POP3 and IMAP servers for new mail. [![Open-Source Software][OSS Icon]](https://github.com/pulb/mailnag)![Freeware][Freeware Icon]
+- [N1](https://nylas.com/N1) - An extensible desktop mail app built on the modern web. ![Open-Source Software][OSS Icon](https://github.com/nylas/N1) ![Freeware][Freeware Icon]
 - [Sylpheed](http://sylpheed.sraoss.jp/en/) - Lightweight and user-friendly e-mail client.  [![Open-Source Software][OSS Icon]]
 - [Thunderbird](https://www.mozilla.org/en-US/thunderbird/) - Thunderbird is a free email application that’s easy to set up and customize and it’s loaded with great features. ![Freeware][Freeware Icon]
 - [Wmail](https://github.com/Thomas101/wmail) - Gmail & Google Inbox unofficial desktop client for linux. [![Open-Source Software][OSS Icon]](https://github.com/Thomas101/wmail)![Freeware][Freeware Icon]
@@ -243,6 +246,7 @@
 - [Simutrans](https://www.simutrans.com/en/) - Simutrans is a freeware and open-source transportation simulator. [![Open-Source Software][OSS Icon]](https://www.simutrans.com/en/develop/) ![Freeware][Freeware Icon]
 - [Steam](http://store.steampowered.com/) - Awesome Gaming platform, which opens the gates to many games.![Freeware][Freeware Icon]
 - [SuperTuxCar](https://supertuxkart.net/Main_Page) - SuperTuxKart is a 3D open-source arcade racer with a variety characters, tracks, and modes to play.[![Open-Source Software][OSS Icon]](https://github.com/supertuxkart/stk-code) ![Freeware][Freeware Icon]
+- [The Battle for Wesnoth](http://www.wesnoth.org/) - Free, turn-based strategy game with a high fantasy theme, featuring both singleplayer and online/hotseat multiplayer combat. [![Open-Source Software][OSS Icon]](https://github.com/wesnoth/wesnoth) ![Freeware][Freeware Icon]
 - [Warzone2100](https://wz2100.net/) - Open-source real-time strategy/real-time tactics game. [![Open-Source Software][OSS Icon]](http://developer.wz2100.net/) ![Freeware][Freeware Icon]
 - [Wine](https://www.winehq.org/) - Wine (originally an acronym for "Wine Is Not an Emulator") is a compatibility layer capable of running Windows applications on several POSIX-compliant operating systems, such as Linux, Mac OSX, & BSD [![Open-Source Software][OSS Icon]](https://github.com/wine-mirror/wine) ![Freeware][Freeware Icon]
 - [Xonotic](http://xonotic.org/) - Arena shooter inspired by Unreal Tournament and Quake. [![Open-Source Software][OSS Icon]](https://gitlab.com/groups/xonotic) ![Freeware][Freeware Icon]
@@ -284,6 +288,7 @@
 - [Corebird](http://corebird.baedert.org/) - corebird is native gtk+ twitter desktop client. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/baedert/corebird)
 - [Firefox](https://www.mozilla.org/en-US/firefox/new/) - A popular Web Browsers with a lot of plugins/apps.![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide)
 - [Midori](http://midori-browser.org/) - A lightweight free browser that runs well on low spec systems. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://launchpad.net/~midori/+archive/ubuntu/ppa).
+- [Opera](http://www.opera.com/) - Opera browser is everything you need to do more on the web. ![Freeware][Freeware Icon]
 - [Tor](https://www.torproject.org/) - Tor is free software and an open network that helps you defend against traffic analysis, a form of network surveillance that threatens personal freedom and privacy. ![Freeware][Freeware Icon]
 - [Vivaldi](https://vivaldi.com/?lang=en) - A new and rising browser with a lot of customizations.![Freeware][Freeware Icon]
 - [Yandex](https://browser.yandex.com/desktop/main/) - Fast and convenient browser.![Freeware][Freeware Icon]
@@ -345,6 +350,7 @@
 - [Deluge](http://deluge-torrent.org/) - Deluge is a lightweight, Free Software, cross-platform BitTorrent client.[![Open-Source Software][OSS Icon]](http://dev.deluge-torrent.org/wiki/Development#SourceCode)![Freeware][Freeware Icon]
 - [Dropbox](https://www.dropbox.com/install?os=lnx) - Dropbox is a free service that lets you bring your photos, docs, and videos anywhere and share them easily.![Freeware][Freeware Icon]
 - [Filezilla](https://filezilla-project.org/) - the free FTP solution [![Open-Source Software][OSS Icon]](https://filezilla-project.org/sourcecode.php)![Freeware][Freeware Icon]
+- [Flareget](https://flareget.com/) - Full featured, multi-threaded download manager and accelerator ![Freeware][Freeware Icon]
 - [Meiga](http://meiga.igalia.com/) - a tool that makes possible to share selected local directories via web. [![Open-Source Software][OSS Icon]](http://git.igalia.com/meiga.git) ![Freeware][Freeware Icon]
 - [ownCloud](https://owncloud.com/products/desktop-clients/) - The goal of ownCloud is to give you access to your files wherever you are![Freeware][Freeware Icon]
 - [Quazaa](https://sourceforge.net/projects/quazaa/) - A cross platform multi-network peer-to-peer (P2P) file-sharing client.![Freeware][Freeware Icon]
@@ -355,6 +361,8 @@
 - [Teamviewer](https://www.teamviewer.com/ ) - PC remote control/remote access software, free for personal use.![Freeware][Freeware Icon]
 - [Transmission](https://www.transmissionbt.com/download/) - Simple, lightweight, multi-platform torrent client. [![Open-Source Software][OSS Icon]](https://trac.transmissionbt.com/browser/trunk) ![Freeware][Freeware Icon]
 - [uGet](http://ugetdm.com/) - The best download manager for linux. [![Open-Source Software][OSS Icon]](http://ugetdm.com/contribute/code) ![Freeware][Freeware Icon]
+- [uTorrent](http://www.utorrent.com) - Elegant, efficient torrent downloading. ![Freeware][Freeware Icon]
+- [Vuze](http://www.vuze.com) - Bittorrent Client is an end-to-end software application for all your torrent needs. ![Freeware][Freeware Icon]
 
 
 ### Terminal
@@ -405,6 +413,7 @@
 ### Video
 - [Bomi Player](https://bomi-player.github.io/) - A powerful and easy-to-use multimedia player.[![Open-Source Software][OSS Icon]](https://github.com/xylosper/bomi)![Freeware][Freeware Icon]
 - [Kodi](https://kodi.tv/about/) - An award-winning free and open source (GPL) software media center for playing videos, music, pictures, games, and more.[![Open-Source Software][OSS Icon]](https://github.com/xbmc/xbmc)![Freeware][Freeware Icon]
+- [Miro](http://www.getmiro.com/) - Free, and open video, music and internet TV application; it brings video channels from thousands of sources and has more free HD than any other platform. ![Freeware][Freeware Icon]
 - [MPlayer](http://www.mplayerhq.hu/design7/news.html) - MPlayer is a movie player which runs on many systems, play any kind of videos.![Freeware][Freeware Icon]
 - [MPV](https://www.mpv.io) - A free, open source, and cross-platform media player.[![Open-Source Software][OSS Icon]](https://github.com/mpv-player/mpv)![Freeware][Freeware Icon]
 - [SMPlayer](http://smplayer.sourceforge.net/) - Free Media Player with built-in codecs. Play all audio and video formats.[![Open-Source Software][OSS Icon]](https://sourceforge.net/p/smplayer/code/HEAD/tree/)![Freeware][Freeware Icon]
