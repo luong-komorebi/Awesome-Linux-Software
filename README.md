@@ -611,7 +611,8 @@
  28. [johnjago](https://github.com/johnjago)
  29. [magneticnoodle](https://github.com/magneticnoodle)
  30. [stelariusinfinitek](https://github.com/stelariusinfinitek)
- 31. *Everyone @ reddit.com/r/linux & reddit.com/r/ubuntu & vozforums.com for many suggestions and compliments*
+ 31. [tnga](https://github.com/tnga)
+ 32. *Everyone @ reddit.com/r/linux & reddit.com/r/ubuntu & vozforums.com for many suggestions and compliments*
  ...
 
  (*The list above is updated on 15th August 2016*)
