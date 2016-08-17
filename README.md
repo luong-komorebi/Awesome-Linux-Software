@@ -609,7 +609,7 @@
  26. [mame98](https://github.com/mame98)
  27. [Kastmeski](https://github.com/kasmetski)
  28. [johnjago](https://github.com/johnjago)
- 29. [magneticnoodle](https://github.com/magneticnoodle)
+ 29. [shuliandre](https://github.com/shuliandre)
  30. [stelariusinfinitek](https://github.com/stelariusinfinitek)
  31. [tnga](https://github.com/tnga)
  32. *Everyone @ reddit.com/r/linux & reddit.com/r/ubuntu & vozforums.com for many suggestions and compliments*
