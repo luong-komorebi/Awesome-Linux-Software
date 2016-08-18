@@ -165,41 +165,41 @@
 
 ### 编辑器
 - [Atom](https://atom.io/) - 21 世纪的可 hack 文本编辑器。 [![Open-Source Software][OSS Icon]](https://github.com/atom/atom) ![Freeware][Freeware Icon]
-- [Bluefish](http://bluefish.openoffice.nl/index.html) - Bluefish is a powerful editor targeted towards programmers and webdevelopers, with many options to write websites, scripts and programming code.![Freeware][Freeware Icon]
+- [Bluefish](http://bluefish.openoffice.nl/index.html) - Bluefish 是一款面向程序员和 web 开发者的强大编辑器，带有很多编写网站，脚本和代码的选项。![Freeware][Freeware Icon]
 - [Brackets](http://brackets.io/) - 懂 web 设计的现代文本编辑器。 [![Open-Source Software][OSS Icon]](https://github.com/adobe/brackets) ![Freeware][Freeware Icon]
 - [Emacs](https://www.gnu.org/software/emacs/) - 可扩展，可个性化，免费/自由的文本编辑器——还有更多。 [![Open-Source Software][OSS Icon]](https://github.com/emacs-mirror/emacs)![Freeware][Freeware Icon]
-- [Geany](https://www.geany.org/) - Geany is a text editor using the GTK+ toolkit with basic features of an integrated development environment. It was developed to provide a small and fast IDE, which has only a few dependencies from other packages. [![Open-Source Software][OSS Icon]](https://www.geany.org/Download/Git)![Freeware][Freeware Icon]
+- [Geany](https://www.geany.org/) - Geany 是一款使用了 GTK+ 工具集的文本编辑器，带有基本的集成开发环境功能。它的开发是为了成为一个小型又快速的 IDE，对其它包仅有不多的依赖。 [![Open-Source Software][OSS Icon]](https://www.geany.org/Download/Git)![Freeware][Freeware Icon]
 - [Gedit](https://wiki.gnome.org/Apps/Gedit) - gedit 是 GNOME 文本编辑器。尽管以简单易用为目标，gedit 仍然是个强大的多功能编辑器。![Freeware][Freeware Icon]
 - [Kate](https://kate-editor.org/get-it/) - Kate 是一个多文档编辑器，从 KDE 2.2 开始就是 KDE 的一部分了。 [![Open-Source Software][OSS Icon]](https://kate-editor.org/build-it/)![Freeware][Freeware Icon]
 - [Lighttable](http://lighttable.com/) - 下一代代码编辑器！支持实时编码。 ![Freeware][Freeware Icon]
 - [Sublime](https://www.sublimetext.com/) - 有史以来最好的编辑器之一。 ![Freeware][Freeware Icon]
-- [VSCode](https://code.visualstudio.com) - Visual Studio Code is a lightweight but powerful source code editor which runs on your desktop and is available for Windows, OS X and Linux. It comes with built-in support for JavaScript, TypeScript and Node.js and has a rich ecosystem of extensions for other languages (C++, C#, Python, PHP) and runtimes.![Freeware][Freeware Icon]
-- [Vim](www.vim.org/download.php) -Vim is an advanced text editor that seeks to provide the power of the de-facto Unix editor 'Vi', with a more complete feature set. It's useful whether you're already using vi or using a different editor. [![Open-Source Software][OSS Icon]](https://github.com/vim/vim)![Freeware][Freeware Icon]
+- [VSCode](https://code.visualstudio.com) - Visual Studio Code 是一款轻量但强大的代码编辑器，提供 Windows，OS X 以及 Linux 版本。它内置了 JavaScript，TypeScript 以及 Node.js 支持，并且对其它语言（C++，C#，Python，PHP）还有丰富的插件系统和运行环境。![Freeware][Freeware Icon]
+- [Vim](www.vim.org/download.php) -Vim 是一个高级文本编辑器，寻求以更完整的功能集提供事实上的 Unix 编辑器“Vi”的强大功能。无论你已经在使用 vi 或其它编辑器，它都十分有用。 [![Open-Source Software][OSS Icon]](https://github.com/vim/vim)![Freeware][Freeware Icon]
 
 ### 教育
-- [BibleTime](http://bibletime.info/) - BibleTime is a Bible study application based on the Sword library and Qt toolkit. [![Open-Source Software][OSS Icon]](https://github.com/bibletime/bibletime)![Freeware][Freeware Icon]
-- [Celestia](http://celestiaproject.net/) - The free space simulation that lets you explore our universe in three dimensions.[![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/celestia/files/Celestia-source/1.6.1/celestia-1.6.1.tar.gz/download)![Freeware][Freeware Icon]
-- [Chemtool](http://ruby.chemie.uni-freiburg.de/~martin/chemtool/) - Chemtool is a small program for drawing chemical structures on Linux. [![Open-Source Software][OSS Icon]](https://github.com/opp11/chemtool/blob/master/README.md)![Freeware][Freeware Icon]
-- [Epoptes](http://www.epoptes.org/) - An open source computer lab management and monitoring tool. [![Open-Source Software][OSS Icon]](https://code.launchpad.net/epoptes)![Freeware][Freeware Icon]
-- [Gcompris](http://gcompris.net/index-en.html) - GCompris is a high quality educational software suite comprising of numerous activities for children aged 2 to 10.[![Open-Source Software][OSS Icon]](http://gcompris.net/wiki/Developer%27s_corner)![Freeware][Freeware Icon]
-- [Geogebra](https://www.geogebra.org/download) - THE GRAPHING CALCULATOR FOR FUNCTIONS, GEOMETRY, ALGEBRA, CALCULUS, STATISTICS AND 3D MATH. ![Freeware][Freeware Icon]
-- [GNUKhata](http://www.gnukhata.in/) - Open source accounting software. [![Open-Source Software][OSS Icon]](https://github.com/kinitrupti/GNUKhata)![Freeware][Freeware Icon]
-- [GNU Typist](https://www.gnu.org/software/gtypist/index.html) - ncurses-based free-software typing instructor [![Open-Source Software][OSS Icon]](http://ftp.gnu.org/gnu/gtypist/)![Freeware][Freeware Icon]
-- [Google Earth](https://itsfoss.com/install-google-earth-ubunu/) - Google Earth is a virtual globe, map and geographical information program.![Freeware][Freeware Icon]
-- [GPeriodic](http://gperiodic.seul.org/) - GPeriodic is a periodic table application for Linux.![Freeware][Freeware Icon]
-- [ITalc](https://github.com/iTALC/italc/releases) - iTALC is a use- and powerful didactical tool for teachers. It lets you view and control other computers in your network in several ways. [![Open-Source Software][OSS Icon]](https://github.com/iTALC/italc)![Freeware][Freeware Icon]
-- [KDE Edu Suite](https://edu.kde.org/) - Free Educational Software based on the KDE technologies.![Freeware][Freeware Icon]
-- [MAPLE](http://www.maplesoft.com/products/maple/) - Maple is math software that combines the world's most powerful math engine with an interface that makes it extremely easy to analyze, explore, visualize, and solve mathematical problems.
-- [MATLAB](http://www.mathworks.com/products/matlab/?requestedDomain=www.mathworks.com) - The MATLAB platform is optimized for solving engineering and scientific problems. MATLAB helps you take your ideas beyond the desktop. You can run your analyses on larger data sets and scale up to clusters and clouds.
-- [Maxima](http://maxima.sourceforge.net/) - Maxima is a system for the manipulation of symbolic and numerical expressions, including differentiation, integration, Taylor series, Laplace transforms, ordinary differential equations, systems of linear equations, ....  [![Open-Source Software][OSS Icon]](http://maxima.sourceforge.net/project.html)![Freeware][Freeware Icon]
+- [BibleTime](http://bibletime.info/) - BibleTime 是一款基于 Sword 库和 Qt 工具集的圣经学习应用。 [![Open-Source Software][OSS Icon]](https://github.com/bibletime/bibletime)![Freeware][Freeware Icon]
+- [Celestia](http://celestiaproject.net/) - 免费的空间模拟器，让你在三维空间中探索我们的宇宙。[![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/celestia/files/Celestia-source/1.6.1/celestia-1.6.1.tar.gz/download)![Freeware][Freeware Icon]
+- [Chemtool](http://ruby.chemie.uni-freiburg.de/~martin/chemtool/) - Chemtool 是一款在 Linux 上绘制化学结构的小程序。 [![Open-Source Software][OSS Icon]](https://github.com/opp11/chemtool/blob/master/README.md)![Freeware][Freeware Icon]
+- [Epoptes](http://www.epoptes.org/) - 一款开源的计算机实验室管理和监视工具。 [![Open-Source Software][OSS Icon]](https://code.launchpad.net/epoptes)![Freeware][Freeware Icon]
+- [Gcompris](http://gcompris.net/index-en.html) - GCompris 是一款高质量教育软件，由无数适合 2 到 10 岁儿童的活动组成。[![Open-Source Software][OSS Icon]](http://gcompris.net/wiki/Developer%27s_corner)![Freeware][Freeware Icon]
+- [Geogebra](https://www.geogebra.org/download) - 图形计算器，支持函数，几何，代数，微积分，统计以及 3D 数学。 ![Freeware][Freeware Icon]
+- [GNUKhata](http://www.gnukhata.in/) - 开源会计软件。 [![Open-Source Software][OSS Icon]](https://github.com/kinitrupti/GNUKhata)![Freeware][Freeware Icon]
+- [GNU Typist](https://www.gnu.org/software/gtypist/index.html) - 基于 ncurses 的免费打字教学软件 [![Open-Source Software][OSS Icon]](http://ftp.gnu.org/gnu/gtypist/)![Freeware][Freeware Icon]
+- [Google Earth](https://itsfoss.com/install-google-earth-ubunu/) - Google Earth 是一款虚拟地球，地图以及地理信息程序。![Freeware][Freeware Icon]
+- [GPeriodic](http://gperiodic.seul.org/) - GPeriodic 是一个 Linux 上的元素周期表应用。![Freeware][Freeware Icon]
+- [ITalc](https://github.com/iTALC/italc/releases) - iTALC 是一款为老师准备的实用并且强大的教学工具。它让你有多种方式查看和控制你网络中的其它计算机。 [![Open-Source Software][OSS Icon]](https://github.com/iTALC/italc)![Freeware][Freeware Icon]
+- [KDE Edu Suite](https://edu.kde.org/) - 基于 KDE 技术的免费教育软件。![Freeware][Freeware Icon]
+- [MAPLE](http://www.maplesoft.com/products/maple/) - Maple 是一款数学软件，它结合了世界上最强大的数学引擎以及一个让它十分易于分析，探索，可视化以及解决数学问题的界面。
+- [MATLAB](http://www.mathworks.com/products/matlab/?requestedDomain=www.mathworks.com) - MATLAB 平台专为剞劂工程和科学问题优化。MATLAB 让你的想法不仅仅停留在桌面。你可以在巨大的数据集上进行你的分析并按比例增加你的集群和云。
+- [Maxima](http://maxima.sourceforge.net/) - Maxima 是一个处理符号和数值表达式的系统，包括微分，积分，泰勒级数，拉普拉斯变换，常微分方程，线性方程组....  [![Open-Source Software][OSS Icon]](http://maxima.sourceforge.net/project.html)![Freeware][Freeware Icon]
 - [Moodle](https://download.moodle.org/) - Course management system for online learning.[![Open-Source Software][OSS Icon]](https://github.com/moodle/moodle)![Freeware][Freeware Icon]
-- [OpenEuclid](http://coulon.publi.free.fr/openeuclide/) - OpenEuclide is a 2D geometry software: figures are defined dynamically by describing formal geometrical constraints.![Freeware][Freeware Icon]
-- [OpenSIS](http://www.opensis.com/home) - School management software.
-- [Scipy](https://scipy.org/install.html) - SciPy is a Python-based ecosystem of open-source software for mathematics, science, and engineering.[![Open-Source Software][OSS Icon]](https://scipy.org/stackspec.html#stackspec)![Freeware][Freeware Icon]
-- [Scratch](https://scratch.mit.edu/) - With Scratch, you can program your own interactive stories, games, and animations — and share your creations with others in the online community.![Freeware][Freeware Icon]
-- [Stellarium](http://www.stellarium.org/) - Stellarium is a free open source planetarium for your computer.[![Open-Source Software][OSS Icon]](https://sourceforge.net/p/stellarium/code/HEAD/tree/)![Freeware][Freeware Icon]
-- [Tux4Kids](http://tux4kids.alioth.debian.org/) - Tux4Kids develops high-quality software for kids, with the goal of combining fun and learning into an irresistable package. [![Open-Source Software][OSS Icon]](http://tux4kids.alioth.debian.org/dev.php)![Freeware][Freeware Icon]
-- [UGENE](http://ugene.net/) - UGENE is free open-source cross-platform integerated GUI-based bioinformatics software.[![Open-Source Software][OSS Icon]](https://github.com/ugeneunipro/ugene)![Freeware][Freeware Icon]
+- [OpenEuclid](http://coulon.publi.free.fr/openeuclide/) - OpenEuclide 是一款 2D 几何软件：数据由描述形式化的几何约束动态定义。![Freeware][Freeware Icon]
+- [OpenSIS](http://www.opensis.com/home) - 学校管理软件。
+- [Scipy](https://scipy.org/install.html) - SciPy 是一个基于 Python 的开源软件生态系统，面向数学，科学，以及工程学。[![Open-Source Software][OSS Icon]](https://scipy.org/stackspec.html#stackspec)![Freeware][Freeware Icon]
+- [Scratch](https://scratch.mit.edu/) - 有了 Scratch，你可以编程你自己的互动故事，游戏，以及动画——并且在在线社区和其他人分享你的创造。![Freeware][Freeware Icon]
+- [Stellarium](http://www.stellarium.org/) - Stellarium 是一个为你电脑准备的免费开源天文馆。[![Open-Source Software][OSS Icon]](https://sourceforge.net/p/stellarium/code/HEAD/tree/)![Freeware][Freeware Icon]
+- [Tux4Kids](http://tux4kids.alioth.debian.org/) - Tux4Kids 为孩子们开发高质量软件，目标是将乐趣和学习结合到一起。 [![Open-Source Software][OSS Icon]](http://tux4kids.alioth.debian.org/dev.php)![Freeware][Freeware Icon]
+- [UGENE](http://ugene.net/) - UGENE 是一款免费开源，跨平台，基于图形界面的生物信息学软件。[![Open-Source Software][OSS Icon]](https://github.com/ugeneunipro/ugene)![Freeware][Freeware Icon]
 
 
 ### 电子邮件
