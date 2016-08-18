@@ -262,6 +262,7 @@
 - [Feh](https://feh.finalrewind.org/) - lightweight and fast image viewer.![Freeware][Freeware Icon][![Open-Source Software][OSS Icon]](http://git.finalrewind.org/feh)
 - [Fotoxx](http://www.kornelix.net/fotoxx/fotoxx.html) - Fotoxx is a free open source Linux program for image editing and collection management.![Freeware][Freeware Icon]
 - [GIMP](https://www.gimp.org/downloads/) - GIMP is a freely distributed program for such tasks as photo retouching, image composition and image authoring![Freeware][Freeware Icon][![Open-Source Software][OSS Icon]](https://github.com/GNOME/gimp)
+- [gThumb](https://wiki.gnome.org/Apps/gthumb) - gThumb is an image viewer and browser (it also includes an importer tool for transferring photos from cameras). ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://git.gnome.org/browse/gthumb/)
 - [Hugin](http://hugin.sourceforge.net/) - an easy to use cross-platform panoramic imaging toolchain based on Panorama Tools.![Freeware][Freeware Icon]
 - [Inkscape](https://inkscape.org/en/) - A powerful, free design tool for you , whether you are an illustrator, designer, web designer or just someone who needs to create some vector imagery![Freeware][Freeware Icon]
 - [Krita](https://krita.org/en/) - Open Source Software for Concept Artists, Digital Painters, and Illustrators![Freeware][Freeware Icon]
