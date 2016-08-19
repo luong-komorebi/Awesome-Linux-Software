@@ -478,13 +478,13 @@
 ## Window Managers
 
 ### Compositors
-- [Compton](https://github.com/chjj/compton) - Compton is a standalone composite manager, suitable for use with window managers that do not natively provide compositing functionality. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
-
+- [Compton](https://github.com/chjj/compton/wiki) - Compton is a standalone composite manager, suitable for use with window managers that do not natively provide compositing functionality. [![Open-Source Software][OSS Icon]](https://github.com/chjj/compton) ![Freeware][Freeware Icon]
+- [Xcompmgr](https://cgit.freedesktop.org/xorg/app/xcompmgr) - Xcompmgr is a simple composite manager capable of rendering drop shadows and, with the use of the transset utility, primitive window transparency. [![Open-Source Software][OSS Icon]](https://cgit.freedesktop.org/xorg/app/xcompmgr) ![Freeware][Freeware Icon]
 
 ### Stacking window managers
 - [2bwm](https://github.com/venam/2bwm) - Fast floating WM, with the particularity of having 2 borders, written over the XCB library and derived from mcwm. [![Open-Source Software][OSS Icon]](https://github.com/venam/2bwm) ![Freeware][Freeware Icon]
 - [Blackbox](http://blackboxwm.sourceforge.net) - Fast, lightweight window manager for the X Window System, without all those annoying library dependencies. [![Open-Source Software][OSS Icon]](https://github.com/bbidulock/blackboxwm) ![Freeware][Freeware Icon]
-- [Fluxbox](http://fluxbox.org) -  Window manager for X that was based on the Blackbox 0.61.1 code. [![Open-Source Software][OSS Icon]](https://github.com/fluxbox/fluxbox) ![Freeware][Freeware Icon]
+- [Fluxbox](http://fluxbox.org) - Window manager for X that was based on the Blackbox 0.61.1 code. [![Open-Source Software][OSS Icon]](https://github.com/fluxbox/fluxbox) ![Freeware][Freeware Icon]
 - [Openbox](http://openbox.org) - Highly configurable, next generation window manager with extensive standards support. [![Open-Source Software][OSS Icon]](https://github.com/danakj/openbox) ![Freeware][Freeware Icon]
 
 ### Tiling window managers
