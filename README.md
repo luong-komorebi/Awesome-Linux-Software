@@ -624,7 +624,8 @@
  30. [stelariusinfinitek](https://github.com/stelariusinfinitek)
  31. [tnga](https://github.com/tnga)
  32. [hg8](https://github.com/hg8)
- 33. *Everyone @ reddit.com/r/linux & reddit.com/r/ubuntu & vozforums.com for many suggestions and compliments*
+ 33. [ChrisLeeGit](https://github.com/ChrisLeeGit)
+ 34. *Everyone @ reddit.com/r/linux & reddit.com/r/ubuntu & vozforums.com for many suggestions and compliments*
  ...
 
  (*The list above is updated on 15th August 2016*)
