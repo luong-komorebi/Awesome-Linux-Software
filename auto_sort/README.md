@@ -13,7 +13,7 @@ This script only sorts items in the following topics for now (items between topi
 1. Make sure you've installed python3 environment on your system.
 1. Open a terminal, type `python3 asort.py` to run this script. After that, you'll get a new README file with all the items in the above topics being sorted alphabetically.
 
-[test screenshot](./test.png)
+![test screenshot](./test.png)
 
 # License
 MIT License.
