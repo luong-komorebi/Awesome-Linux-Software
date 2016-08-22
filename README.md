@@ -258,50 +258,50 @@
 - [Ojo](https://github.com/peterlevi/ojo) - 一款快速且漂亮的图像查看器。 ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/peterlevi/ojo)
 - [OpenShot](http://www.openshot.org/) - OpenShot 是一款免费，易用，功能丰富的 Linxu 视频编辑器。 ![Freeware][Freeware Icon]
 - [Photonic](https://github.com/oferkv/phototonic) - Phototonic 是一款图片查看和组织工具。 ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/oferkv/phototonic)
-- [Pinta](https://pinta-project.com/pintaproject/pinta/) - Pinta is a free, open source program for drawing and image editing.![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://pinta-project.com/pintaproject/pinta/contribute)
-- [Pitivi](http://www.pitivi.org/) - A free video editor with a beautiful and intuitive user interface, a clean codebase and a fantastic community.![Freeware][Freeware Icon]
-- [Radiance](http://www.radiance-online.org/) - Radiance - A Validated Lighting Simulation Tool![Freeware][Freeware Icon]
-- [RawTherapee](http://rawtherapee.com/) - A good looking but lesser known photo editing app.![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/Beep6581/RawTherapee)
-- [Shotwell](https://wiki.gnome.org/Apps/Shotwell) - Shotwell is a photo manager for GNOME 3.![Freeware][Freeware Icon]
-- [StopMotion](http://linuxstopmotion.org/) - Linux Stopmotion is a Free Open Source application to create stop-motion animations. It helps you capture and edit the frames of your animation and export them as a single file.![Freeware][Freeware Icon]
-- [Xara Extreme](http://www.xaraxtreme.org/) - Xara Xtreme for Linux is a powerful, general purpose graphics program for Unix platforms including Linux, FreeBSD![Freeware][Freeware Icon]
+- [Pinta](https://pinta-project.com/pintaproject/pinta/) - Pinta 是一款免费，开源的绘画及图片编辑程序。![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://pinta-project.com/pintaproject/pinta/contribute)
+- [Pitivi](http://www.pitivi.org/) - 一款带有漂亮直观的用户界面的免费视频编辑器，有干净的代码库和出色的社区。![Freeware][Freeware Icon]
+- [Radiance](http://www.radiance-online.org/) - Radiance - 一款经过验证的光照模拟工具![Freeware][Freeware Icon]
+- [RawTherapee](http://rawtherapee.com/) - 一款漂亮的但不那么著名的照片编辑应用。![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/Beep6581/RawTherapee)
+- [Shotwell](https://wiki.gnome.org/Apps/Shotwell) - Shotwell 是 GNOME 3 的图片管理器。![Freeware][Freeware Icon]
+- [StopMotion](http://linuxstopmotion.org/) - Linux Stopmotion 是一款免费，开源的定格动画创作应用。它可以帮你捕捉和编辑你动画的帧，并导出为一个单独的文件。![Freeware][Freeware Icon]
+- [Xara Extreme](http://www.xaraxtreme.org/) - Xara Xtreme for Linux 是一款强大，通用，适用于 Unix 平台（包括 Linux， FreeBSD）的图形处理程序。![Freeware][Freeware Icon]
 
 
 ### 互联网
-- [Anatine](https://github.com/sindresorhus/anatine) - A twitter desktop app with many customizations.![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/sindresorhus/anatine)
-- [Brave](https://brave.com/) - Brave is a fast, good desktop browser for macOS, Windows, and Linux.![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/brave/browser-laptop)
-- [Chrome](https://www.google.com/chrome/browser/desktop/index.html) - A popular Web Browsers with a lot of plugins/apps.![Freeware][Freeware Icon]
-- [Chromium](http://askubuntu.com/questions/250773/how-do-i-install-chromium-from-the-command-line) - Chromium is an open-source browser project that aims to build a safer, faster, and more stable way for all users to experience the web.![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://www.chromium.org/)
-- [Corebird](http://corebird.baedert.org/) - corebird is native gtk+ twitter desktop client. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/baedert/corebird)
-- [Firefox](https://www.mozilla.org/en-US/firefox/new/) - A popular Web Browsers with a lot of plugins/apps.![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide)
-- [Midori](http://midori-browser.org/) - A lightweight free browser that runs well on low spec systems. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://launchpad.net/~midori/+archive/ubuntu/ppa).
-- [Tor](https://www.torproject.org/) - Tor is free software and an open network that helps you defend against traffic analysis, a form of network surveillance that threatens personal freedom and privacy. ![Freeware][Freeware Icon]
-- [Vivaldi](https://vivaldi.com/?lang=en) - A new and rising browser with a lot of customizations.![Freeware][Freeware Icon]
-- [Yandex](https://browser.yandex.com/desktop/main/) - Fast and convenient browser.![Freeware][Freeware Icon]
+- [Anatine](https://github.com/sindresorhus/anatine) - 带有众多个性化的 twitter 桌面客户端。![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/sindresorhus/anatine)
+- [Brave](https://brave.com/) - Brave 是 macOS，Windows，Linux 平台上一款快速，优秀的桌面浏览器。![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/brave/browser-laptop)
+- [Chrome](https://www.google.com/chrome/browser/desktop/index.html) - 一款流行的浏览器，有着无数插件和应用。![Freeware][Freeware Icon]
+- [Chromium](http://askubuntu.com/questions/250773/how-do-i-install-chromium-from-the-command-line) - Chromium 是一个开源浏览器项目，专注于为所有用户带来更安全、快速和稳定的 web 体验。![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://www.chromium.org/)
+- [Corebird](http://corebird.baedert.org/) - corebird 是一款原生 gtk+ twitter 桌面客户端。 ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/baedert/corebird)
+- [Firefox](https://www.mozilla.org/en-US/firefox/new/) - 一款流行的浏览器，有着无数插件和应用。![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide)
+- [Midori](http://midori-browser.org/) - 一款轻量级的免费浏览器，在低端机器上可以完美运行。 ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://launchpad.net/~midori/+archive/ubuntu/ppa).
+- [Tor](https://www.torproject.org/) - Tor 是免费软件和一个开放网络，帮助你对抗流量分析（一种网络检测的方式，威胁个人自由与隐私）。 ![Freeware][Freeware Icon]
+- [Vivaldi](https://vivaldi.com/?lang=en) - 一款新兴的浏览器，有着许多的个性化配置。![Freeware][Freeware Icon]
+- [Yandex](https://browser.yandex.com/desktop/main/) - 快速方便的浏览器。![Freeware][Freeware Icon]
 
 ### 办公
-- [Caligra Office](https://www.calligra.org/) - offers a comprehensive set of 8 applications which satisfies the office, graphics and management needs.![Freeware][Freeware Icon]
-- Gummi [gtk2](https://github.com/alexandervdm/gummi)|[gtk3](https://github.com/aitjcize/Gummi) - Simple latex editor with templates, spell check, and wizards.![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/alexandervdm/gummi)
-- [LibreOffice](https://www.libreoffice.org/) - Best office bundle for linux.![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://www.libreoffice.org/about-us/source-code/)
-- [LyX](http://www.lyx.org/) - Mature document editor that renders into LaTeX ..![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/yihui/lyx)
-- [WPS office](http://wps-community.org/) - One of the best office app bundle for linux.![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/wps-community/wps_i18n)
+- [Caligra Office](https://www.calligra.org/) - 提供满足办公，图形以及管理需要的综合应用套件。![Freeware][Freeware Icon]
+- Gummi [gtk2](https://github.com/alexandervdm/gummi)|[gtk3](https://github.com/aitjcize/Gummi) - 带有模板，拼写检查以及向导的简单 latex 编辑器。![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/alexandervdm/gummi)
+- [LibreOffice](https://www.libreoffice.org/) - Linux 上的最佳办公套件。![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://www.libreoffice.org/about-us/source-code/)
+- [LyX](http://www.lyx.org/) - 成熟的 LaTeX 渲染文档编辑器。![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/yihui/lyx)
+- [WPS office](http://wps-community.org/) - Linux 上的最佳办公套件之一。![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/wps-community/wps_i18n)
 
 ### 生产力
-- [Ambient Noise](https://itsfoss.com/ambient-noise-music-player-ubuntu/) - Install ambient noise for extra focus on Linux![Freeware][Freeware Icon]
-- [Autokey](https://code.google.com/archive/p/autokey/) - A desktop automation utility for Linux allows you to manage collection of scripts and phrases, and assign abbreviations and hotkeys to these. ![Freeware][Freeware Icon]
-- [Basket Note Pads](http://basket.kde.org/) - This multi-purpose note-taking application helps you to easily take all sort of notes. [![Open-Source Software][OSS Icon]](http://basket.kde.org/svnaccess.php) ![Freeware][Freeware Icon]
-- [Brightness](https://launchpad.net/indicator-brightness) - Brightness indicator for ubuntu. ![Freeware][Freeware Icon]
-- [SpeedCrunch](http://www.speedcrunch.org/) - A nice, opensouce, high-precision scientific calculator. [![Open-Source Software][OSS Icon]](http://www.speedcrunch.org/) ![Freeware][Freeware Icon]
-- [California](https://wiki.gnome.org/Apps/California) - Complete Calendar app replacement which uses natural language for creating events.![Freeware][Freeware Icon]
-- [CopyQ](http://hluk.github.io/CopyQ/) -CopyQ is advanced clipboard manager with editing and scripting features. ![Freeware][Freeware Icon]
-- [f.lux](https://justgetflux.com/linux.html) - Automatically adjust your computer screen to match lighting. ![Freeware][Freeware Icon]
-- [Gnome-dictionary](https://wiki.gnome.org/Apps/Dictionary) - A powerful dictionary for GNOME <dictionary class="" Freeware="" Icon=""></dictionary>
-- [Go For It](http://manuel-kehl.de/projects/go-for-it/) - Go For It! is a simple and stylish productivity app, featuring a to-do list, merged with a timer that keeps your focus on the current task.![Freeware][Freeware Icon]
-- [My Todo](https://github.com/mohamed-aziz/mytodo) - Mytodo is an open source to-do list program that puts you, the user, in command of everything.[![Open-Source Software][OSS Icon]](https://github.com/mohamed-aziz/mytodo) ![Freeware][Freeware Icon]
-- [My Weather Indicator](http://ubuntuhandbook.org/index.php/2016/04/weather-indicator-desktop-widget-ubuntu-16-04/) - Weather indicator and widget for ubuntu.![Freeware][Freeware Icon]
-- [Notes](http://www.get-notes.com/) - A clean simple note taking app for linux.[![Open-Source Software][OSS Icon]](https://github.com/nuttyartist/notes) ![Freeware][Freeware Icon]
-- [Notepadqq](http://notepadqq.altervista.org/wp/) - Notepadqq is a Notepad++-like editor for the Linux desktop.[![Open-Source Software][OSS Icon]](https://github.com/notepadqq/notepadqq) ![Freeware][Freeware Icon]
-- [Plank](https://launchpad.net/plank) - Plank is meant to be the simplest dock of apps on the planet.
+- [Ambient Noise](https://itsfoss.com/ambient-noise-music-player-ubuntu/) - 在 Linux 上安装环境噪声提高专注。![Freeware][Freeware Icon]
+- [Autokey](https://code.google.com/archive/p/autokey/) - 一款 Linux 桌面自动化工具，让你可以管理你的脚本和短语集合，并给它们分配缩写或者快捷键。 ![Freeware][Freeware Icon]
+- [Basket Note Pads](http://basket.kde.org/) - 这个多用途的笔记应用帮助你记下所有类型的笔记。 [![Open-Source Software][OSS Icon]](http://basket.kde.org/svnaccess.php) ![Freeware][Freeware Icon]
+- [Brightness](https://launchpad.net/indicator-brightness) - Ubuntu 下的一个亮度指示器。 ![Freeware][Freeware Icon]
+- [SpeedCrunch](http://www.speedcrunch.org/) - 一个漂亮，开源，高精度的科学计算器。 [![Open-Source Software][OSS Icon]](http://www.speedcrunch.org/) ![Freeware][Freeware Icon]
+- [California](https://wiki.gnome.org/Apps/California) - Calendar 应用的完整替代方案，可使用自然语言创建事件。![Freeware][Freeware Icon]
+- [CopyQ](http://hluk.github.io/CopyQ/) -CopyQ 是一款高级剪贴板管理器，带有编辑和脚本功能。 ![Freeware][Freeware Icon]
+- [f.lux](https://justgetflux.com/linux.html) - 根据光线自动调节你的电脑屏屏幕显示。 ![Freeware][Freeware Icon]
+- [Gnome-dictionary](https://wiki.gnome.org/Apps/Dictionary) - GNOME 下的一款强大的字典。 <dictionary class="" Freeware="" Icon=""></dictionary>
+- [Go For It](http://manuel-kehl.de/projects/go-for-it/) - Go For It! 是一款简单又时尚的生产力工具，主打待办清单，结合定时器让你专注于当前的任务。![Freeware][Freeware Icon]
+- [My Todo](https://github.com/mohamed-aziz/mytodo) - Mytodo 是一款开源的待办事项程序，让你能够掌控一切。[![Open-Source Software][OSS Icon]](https://github.com/mohamed-aziz/mytodo) ![Freeware][Freeware Icon]
+- [My Weather Indicator](http://ubuntuhandbook.org/index.php/2016/04/weather-indicator-desktop-widget-ubuntu-16-04/) - Ubuntu 下的天气指示器和插件。![Freeware][Freeware Icon]
+- [Notes](http://www.get-notes.com/) - 一款干净又简单的 Linux 笔记应用。[![Open-Source Software][OSS Icon]](https://github.com/nuttyartist/notes) ![Freeware][Freeware Icon]
+- [Notepadqq](http://notepadqq.altervista.org/wp/) - Notepadqq 是 Linux 下一款类 Notepad++ 的编辑器。[![Open-Source Software][OSS Icon]](https://github.com/notepadqq/notepadqq) ![Freeware][Freeware Icon]
+- [Plank](https://launchpad.net/plank) - Plank 注定要成为这个星球上最简洁的应用 dock。
 - [Pomodone App](http://pomodoneapp.com/) - PomoDoneApp is the easiest way to track your workflow using Pomodoro technique®, on top of your current task management service.![Freeware][Freeware Icon]
 - [Papyrus](http://aseman.co/en/products/papyrus/) - Papyrus is a different note manager which is focusing on Security, Better user interface. Papyrus are trying to provide an easy to use and smart user interface for users. [![Open-Source Software][OSS Icon]](https://github.com/Aseman-Land/Papyrus) ![Freeware][Freeware Icon]
 - [Recent Noti](https://itsfoss.com/7-best-indicator-applets-for-ubuntu-13-10/) - An indicator for recent notification.![Freeware][Freeware Icon]
