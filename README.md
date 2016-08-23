@@ -53,7 +53,7 @@
 	- [ArchLinux](#arch-linux)
 - [Miscellaneous](#miscellaneous)
 - [Discussion Forums](#discussion-forums)
-    - [Ubuntu](#apple)
+    - [Ubuntu](#ubuntu-1)
     - [IRC channels](#irc-channels)
     - [Linux News, Apps, and more ....](#linux-news-apps-and-more-)
     - [Reddit](#reddit)
