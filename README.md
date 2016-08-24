@@ -617,7 +617,8 @@ A Chinese version of this list is [here](https://github.com/alim0x/Awesome-Linux
  31. [tnga](https://github.com/tnga)
  32. [hg8](https://github.com/hg8)
  33. [ChrisLeeGit](https://github.com/ChrisLeeGit)
- 34. *Everyone @ reddit.com/r/linux & reddit.com/r/ubuntu & vozforums.com for many suggestions and compliments*
+ 34. [alim0x](https://github.com/alim0x)
+ 35. *Everyone @ reddit.com/r/linux & reddit.com/r/ubuntu & vozforums.com for many suggestions and compliments*
  ...
 
  (*The list above is updated on 15th August 2016*)
