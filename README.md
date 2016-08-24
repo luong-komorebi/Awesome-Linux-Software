@@ -11,6 +11,8 @@
 
 *Update: This repo has been published on [Gitbook](https://voluong.gitbooks.io/awesome-linux-software/content/). You can share this link to new users since they may find it friendlier to read than github. Download as a pdf [here](https://goo.gl/xhiKla).*
 
+A Chinese version of this list is [here](https://github.com/alim0x/Awesome-Linux-Software-zh_CN).
+
 ## Table of Contents
 
 - [Applications](#applications)
