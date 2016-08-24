@@ -406,77 +406,77 @@
 - [Mycroft](https://github.com/MycroftAI/mycroft-core) - 给所有人的 A.I. [![Open-Source Software][OSS Icon]](https://github.com/MycroftAI/mycroft-core) ![Freeware][Freeware Icon]
 
 ## 命令行工具
-- [Bastet](https://github.com/fph/bastet) - Play Tetris in commandline.[![Open-Source Software][OSS Icon]](https://github.com/fph/bastet)![Freeware][Freeware Icon]
-- [Daily Reddit Wallpaper](https://github.com/ssimunic/Daily-Reddit-Wallpaper) - Change your wallpaper to the most upvoted image of the day from /r/wallpapers or any other subreddit on system startup. [![Open-Source Software][OSS Icon]](https://github.com/ssimunic/Daily-Reddit-Wallpaper)![Freeware][Freeware Icon]
-- [Fishfry](https://github.com/LubuntuFu/fishfry) - replaces fish history with a history tailored to pentesters for efficency and newbie pentesters for learning.[![Open-Source Software][OSS Icon]](https://github.com/LubuntuFu/fishfry)![Freeware][Freeware Icon]
-- [htop](http://hisham.hm/htop/) - top with improved features and user experience [![Open-Source Software][OSS Icon]](https://github.com/hishamhm/htop)![Freeware][Freeware Icon]
-- [Pacman4console](https://launchpad.net/ubuntu/+source/pacman4console) - Play Pacman game in console.[![Open-Source Software][OSS Icon]](https://github.com/alexdantas/pacman4console.debian)![Freeware][Freeware Icon]
-- [Tmux](https://tmux.github.io/) - It lets you switch easily between several programs in one terminal, detach them (they keep running in the background) and reattach them to a different terminal. And do a lot more.[![Open-Source Software][OSS Icon]](https://github.com/tmux/tmux)![Freeware][Freeware Icon]
-- [Top 10 command line tools](http://lifehacker.com/399468/top-10-command-line-tools)
-- [wicd-curses](https://wiki.archlinux.org/index.php/wicd#Running_Wicd_in_Text_Mode) - Command line WiFi connection manager.
+- [Bastet](https://github.com/fph/bastet) - 在命令行玩俄罗斯方块。[![Open-Source Software][OSS Icon]](https://github.com/fph/bastet)![Freeware][Freeware Icon]
+- [Daily Reddit Wallpaper](https://github.com/ssimunic/Daily-Reddit-Wallpaper) - 开机时将壁纸更换为 /r/wallpapers 或其它子版块的今日最高票壁纸。 [![Open-Source Software][OSS Icon]](https://github.com/ssimunic/Daily-Reddit-Wallpaper)![Freeware][Freeware Icon]
+- [Fishfry](https://github.com/LubuntuFu/fishfry) - 将 fish 的历史记录替换成为渗透测试人员量身定制的高效版本以及方便新手学习。[![Open-Source Software][OSS Icon]](https://github.com/LubuntuFu/fishfry)![Freeware][Freeware Icon]
+- [htop](http://hisham.hm/htop/) - 带有改进的特性和用户体验的 top。[![Open-Source Software][OSS Icon]](https://github.com/hishamhm/htop)![Freeware][Freeware Icon]
+- [Pacman4console](https://launchpad.net/ubuntu/+source/pacman4console) - 在控制台玩吃豆人。[![Open-Source Software][OSS Icon]](https://github.com/alexdantas/pacman4console.debian)![Freeware][Freeware Icon]
+- [Tmux](https://tmux.github.io/) - 它让你在一个终端中在多个程序间方便地切换，分离他们（保持在后台运行）并另一个终端中重新连接上去。以及还有好多事情可以做。[![Open-Source Software][OSS Icon]](https://github.com/tmux/tmux)![Freeware][Freeware Icon]
+- [十佳命令行工具](http://lifehacker.com/399468/top-10-command-line-tools)
+- [wicd-curses](https://wiki.archlinux.org/index.php/wicd#Running_Wicd_in_Text_Mode) - 命令行 WiFi 连接管理器。
 
 ## 桌面环境
-- [Budgie](https://solus-project.com/budgie/) - Budgie is a desktop environment designed with the modern user in mind, it focuses on simplicity and elegance. [![Open-Source Software][OSS Icon]](https://github.com/solus-project/budgie-desktop) ![Freeware][Freeware Icon]
-- [Cinammon](http://cinnamon.linuxmint.com/) - Cinnamon strives to provide a traditional user experience. Cinnamon is a fork of GNOME 3. [![Open-Source Software][OSS Icon]](https://github.com/linuxmint/Cinnamon) ![Freeware][Freeware Icon]
-- [Gnome](https://www.gnome.org/gnome-3/) - The GNOME desktop environment is an attractive and intuitive desktop with both a modern (GNOME) and a classic (GNOME Classic) session. [![Open-Source Software][OSS Icon]](https://github.com/GNOME/gnome-desktop) ![Freeware][Freeware Icon]
-- [GNOME Flashback](https://wiki.gnome.org/Projects/GnomeFlashback) - GNOME Flashback is a shell for GNOME 3 which was initially called GNOME fallback mode. The desktop layout and the underlying technology is similar to GNOME 2. [![Open-Source Software][OSS Icon]](https://github.com/GNOME/gnome-flashback) ![Freeware][Freeware Icon]
-- [KDE Plasma](https://www.kde.org/workspaces/plasmadesktop/) - The KDE Plasma desktop environment is a familiar working environment. Plasma Desktop offers all the tools required for a modern desktop computing experience so you can be productive right from the start. [![Open-Source Software][OSS Icon]](https://github.com/KDE/plasma-desktop) ![Freeware][Freeware Icon]
-- [LXDE](http://lxde.org/) - The Lightweight X11 Desktop Environment is a fast and energy-saving desktop environment. [![Open-Source Software][OSS Icon]](https://github.com/lxde) ![Freeware][Freeware Icon]
-- [LXQt](http://lxqt.org/) - LXQt is the Qt port and the upcoming version of LXDE, the Lightweight Desktop Environment. [![Open-Source Software][OSS Icon]](https://github.com/lxde/lxqt) ![Freeware][Freeware Icon]
-- [Mate](http://mate-desktop.com/) - Mate provides an intuitive and attractive desktop to Linux users using traditional metaphors. MATE is a fork of GNOME 2. [![Open-Source Software][OSS Icon]](https://github.com/mate-desktop/) ![Freeware][Freeware Icon]
-- [Pantheon](https://elementary.io/) - Pantheon is the default desktop environment originally created for the elementary OS distribution. ![Freeware][Freeware Icon]
-- [Unity](https://unity.ubuntu.com/) - Unity is a shell for GNOME designed by Canonical for Ubuntu. ![Freeware][Freeware Icon]
-- [Xfce](https://www.xfce.org/) - Xfce embodies the traditional UNIX philosophy of modularity and re-usability. [![Open-Source Software][OSS Icon]](https://github.com/xfce-mirror) ![Freeware][Freeware Icon]
+- [Budgie](https://solus-project.com/budgie/) - Budgie 是一个面向现代用户思想设计的桌面环境，专注于简洁与优雅。[![Open-Source Software][OSS Icon]](https://github.com/solus-project/budgie-desktop) ![Freeware][Freeware Icon]
+- [Cinammon](http://cinnamon.linuxmint.com/) - Cinnamon 努力提供一种传统的用户体验。Cinnamon 是一个 GNOME 3 的 fork。[![Open-Source Software][OSS Icon]](https://github.com/linuxmint/Cinnamon) ![Freeware][Freeware Icon]
+- [Gnome](https://www.gnome.org/gnome-3/) - GNOME 桌面环境是一个有吸引力且直观的的桌面，同时有现代（GNOME）和经典（GNOME Classic）会话模式。 [![Open-Source Software][OSS Icon]](https://github.com/GNOME/gnome-desktop) ![Freeware][Freeware Icon]
+- [GNOME Flashback](https://wiki.gnome.org/Projects/GnomeFlashback) - GNOME Flashback 是 GNOME 3 的一个 shell，最初叫 GNOME fallback 模式。桌面的布局和底层技术都与 GNOME 2 相似。[![Open-Source Software][OSS Icon]](https://github.com/GNOME/gnome-flashback) ![Freeware][Freeware Icon]
+- [KDE Plasma](https://www.kde.org/workspaces/plasmadesktop/) - KDE Plasma 桌面环境是一个熟悉的工作环境。Plasma Desktop 提供现代桌面环境体验所需的所有工具，所以你可以从开始就充满生产力。[![Open-Source Software][OSS Icon]](https://github.com/KDE/plasma-desktop) ![Freeware][Freeware Icon]
+- [LXDE](http://lxde.org/) - Lightweight X11 Desktop Environment （轻量化 X11 桌面环境）是一个快速且节能的桌面环境。[![Open-Source Software][OSS Icon]](https://github.com/lxde) ![Freeware][Freeware Icon]
+- [LXQt](http://lxqt.org/) - LXQt 是 LXDE 的 Qt 移植和即将到来的版本，轻量化的桌面环境。[![Open-Source Software][OSS Icon]](https://github.com/lxde/lxqt) ![Freeware][Freeware Icon]
+- [Mate](http://mate-desktop.com/) - Mate 用传统隐喻给 Linux 用户提供一个直观又有吸引力的桌面。MATE 是 GNOME 2 的一个 fork。 [![Open-Source Software][OSS Icon]](https://github.com/mate-desktop/) ![Freeware][Freeware Icon]
+- [Pantheon](https://elementary.io/) - Pantheon 是最初为发行版 elementary OS 创建的桌面环境，同时也是它的默认桌面环境。![Freeware][Freeware Icon]
+- [Unity](https://unity.ubuntu.com/) - Unity 是 GNOME 的一个 shell，由 Canonical 为 Ubuntu 设计。![Freeware][Freeware Icon]
+- [Xfce](https://www.xfce.org/) - Xfce 体现了模块化和可重用的传统 UNIX 哲学。 [![Open-Source Software][OSS Icon]](https://github.com/xfce-mirror) ![Freeware][Freeware Icon]
 
 
 ## 显示管理
 
 ### 控制台
-- [CDM](https://github.com/ghost1227/cdm) - Ultra-minimalistic, yet full-featured login manager written in Bash. [![Open-Source Software][OSS Icon]](https://github.com/ghost1227/cdm) ![Freeware][Freeware Icon]
-- [Console TDM](https://github.com/dopsi/console-tdm) - Extension for xinit written in pure Bash. [![Open-Source Software][OSS Icon]](https://github.com/dopsi/console-tdm) ![Freeware][Freeware Icon]
-- [nodm](https://github.com/spanezz/nodm) - Minimalistic display manager for automatic logins. [![Open-Source Software][OSS Icon]](https://github.com/spanezz/nodm) ![Freeware][Freeware Icon]
+- [CDM](https://github.com/ghost1227/cdm) - 超简化，又功能丰富，用 bash 写就的登陆管理器。 [![Open-Source Software][OSS Icon]](https://github.com/ghost1227/cdm) ![Freeware][Freeware Icon]
+- [Console TDM](https://github.com/dopsi/console-tdm) - 纯 bash 写就的 xinit 扩展。[![Open-Source Software][OSS Icon]](https://github.com/dopsi/console-tdm) ![Freeware][Freeware Icon]
+- [nodm](https://github.com/spanezz/nodm) - 简约的自动登陆显示管理器。[![Open-Source Software][OSS Icon]](https://github.com/spanezz/nodm) ![Freeware][Freeware Icon]
 
 ### 图形界面
-- [Entrance](http://enlightenment.org) - An EFL based display manager, highly experimental. [![Open-Source Software][OSS Icon]](https://github.com/tomas/entrance) ![Freeware][Freeware Icon]
-- [GDM](https://wiki.gnome.org/Projects/GDM) - GNOME display manager. [![Open-Source Software][OSS Icon]](https://github.com/GNOME/gdm) ![Freeware][Freeware Icon]
-- [KDM](http://www.kde.org) - KDE4 display manager (discontinued). ![Freeware][Freeware Icon]
-- [LightDM](http://www.freedesktop.org/wiki/Software/LightDM) - Cross-desktop display manager, can use various front-ends written in any toolkit. [![Open-Source Software][OSS Icon]](https://github.com/davvid/lightdm) ![Freeware][Freeware Icon]
-- [LXDM](http://sourceforge.net/projects/lxdm/) - LXDE display manager. Can be used independent of the LXDE desktop environment. ![Freeware][Freeware Icon]
-- [MDM](https://github.com/linuxmint/mdm) - MDM display manager, used in Linux Mint, a fork of GDM 2. [![Open-Source Software][OSS Icon]](https://github.com/linuxmint/mdm) ![Freeware][Freeware Icon]
-- [SDDM](https://github.com/sddm/sddm) - QML-based display manager and successor to KDE4's kdm; recommended for Plasma 5 and LXQt. [![Open-Source Software][OSS Icon]](https://github.com/sddm/sddm) ![Freeware][Freeware Icon]
-- [SLiM](http://sourceforge.net/projects/slim.berlios/) - Lightweight and elegant graphical login solution. (discontinued) [![Open-Source Software][OSS Icon]](https://github.com/gsingh93/slim-display-manager) ![Freeware][Freeware Icon]
-- [XDM](http://www.x.org/archive/X11R7.5/doc/man/man1/xdm.1.html) - X display manager with support for XDMCP, host chooser. [![Open-Source Software][OSS Icon]](https://github.com/bbidulock/xdm) ![Freeware][Freeware Icon]
+- [Entrance](http://enlightenment.org) - 基于 EFL 的显示管理器，高度实验性质。[![Open-Source Software][OSS Icon]](https://github.com/tomas/entrance) ![Freeware][Freeware Icon]
+- [GDM](https://wiki.gnome.org/Projects/GDM) - GNOME 显示管理器。[![Open-Source Software][OSS Icon]](https://github.com/GNOME/gdm) ![Freeware][Freeware Icon]
+- [KDM](http://www.kde.org) - KDE4 显示管理器（不再继续开发）。 ![Freeware][Freeware Icon]
+- [LightDM](http://www.freedesktop.org/wiki/Software/LightDM) - 跨桌面显示管理器，可以使用任何工具集写就的各种前端。[![Open-Source Software][OSS Icon]](https://github.com/davvid/lightdm) ![Freeware][Freeware Icon]
+- [LXDM](http://sourceforge.net/projects/lxdm/) - LXDE 显示管理器，可以独立于 LXDE 桌面环境使用。![Freeware][Freeware Icon]
+- [MDM](https://github.com/linuxmint/mdm) - MDM 显示管理器，在 Linux Mint 中使用， GDM 2 的一个 fork。 [![Open-Source Software][OSS Icon]](https://github.com/linuxmint/mdm) ![Freeware][Freeware Icon]
+- [SDDM](https://github.com/sddm/sddm) - 基于 QML 的显示管理器，KDE 4 的 kdm 的继任者；Plasma 5 以及 LXQt 推荐。[![Open-Source Software][OSS Icon]](https://github.com/sddm/sddm) ![Freeware][Freeware Icon]
+- [SLiM](http://sourceforge.net/projects/slim.berlios/) - 轻量且优雅的图形化登录解决方案（不再继续开发）。[![Open-Source Software][OSS Icon]](https://github.com/gsingh93/slim-display-manager) ![Freeware][Freeware Icon]
+- [XDM](http://www.x.org/archive/X11R7.5/doc/man/man1/xdm.1.html) - 带有 XDMCP，主机选择支持的 X 显示管理器。[![Open-Source Software][OSS Icon]](https://github.com/bbidulock/xdm) ![Freeware][Freeware Icon]
 
 ## 窗口管理
 
 ### 叠加式窗口管理器
-- [2bwm](https://github.com/venam/2bwm) - Fast floating WM, with the particularity of having 2 borders, written over the XCB library and derived from mcwm. [![Open-Source Software][OSS Icon]](https://github.com/venam/2bwm) ![Freeware][Freeware Icon]
-- [Blackbox](http://blackboxwm.sourceforge.net) - Fast, lightweight window manager for the X Window System, without all those annoying library dependencies. [![Open-Source Software][OSS Icon]](https://github.com/bbidulock/blackboxwm) ![Freeware][Freeware Icon]
-- [Fluxbox](http://fluxbox.org) -  Window manager for X that was based on the Blackbox 0.61.1 code. [![Open-Source Software][OSS Icon]](https://github.com/fluxbox/fluxbox) ![Freeware][Freeware Icon]
-- [Openbox](http://openbox.org) - Highly configurable, next generation window manager with extensive standards support. [![Open-Source Software][OSS Icon]](https://github.com/danakj/openbox) ![Freeware][Freeware Icon]
+- [2bwm](https://github.com/venam/2bwm) - 快速的浮动窗口管理，有两个特殊边界，基于 XCB 库，由 mcwm 衍生。[![Open-Source Software][OSS Icon]](https://github.com/venam/2bwm) ![Freeware][Freeware Icon]
+- [Blackbox](http://blackboxwm.sourceforge.net) - 快速，轻量化的 X 窗口系统窗口管理器，没有那些烦人的库依赖。[![Open-Source Software][OSS Icon]](https://github.com/bbidulock/blackboxwm) ![Freeware][Freeware Icon]
+- [Fluxbox](http://fluxbox.org) -  基于 Blackbox 0.61.1 代码的 X 窗口管理器。[![Open-Source Software][OSS Icon]](https://github.com/fluxbox/fluxbox) ![Freeware][Freeware Icon]
+- [Openbox](http://openbox.org) - 高度可配置，带有可扩展标准支持的下一代窗口管理器。[![Open-Source Software][OSS Icon]](https://github.com/danakj/openbox) ![Freeware][Freeware Icon]
 
 ### 平铺式窗口管理器
-- [Bspwm](https://github.com/baskerville/bspwm/wiki) - bspwm is a tiling window manager that represents windows as the leaves of a full binary tree. [![Open-Source Software][OSS Icon]](https://github.com/baskerville/bspwm) ![Freeware][Freeware Icon]
-- [Herbstluftwm](https://herbstluftwm.org) - Manual tiling window manager for X11 using Xlib and Glib. [![Open-Source Software][OSS Icon]](https://github.com/herbstluftwm/herbstluftwm) ![Freeware][Freeware Icon]
+- [Bspwm](https://github.com/baskerville/bspwm/wiki) - bspwm 是一个平铺式窗口管理器，将窗口以二叉树的叶结点的方式展现。[![Open-Source Software][OSS Icon]](https://github.com/baskerville/bspwm) ![Freeware][Freeware Icon]
+- [Herbstluftwm](https://herbstluftwm.org) - 使用 Xlib 和 Glib 的手工平铺式窗口管理器。[![Open-Source Software][OSS Icon]](https://github.com/herbstluftwm/herbstluftwm) ![Freeware][Freeware Icon]
 
 ### 动态窗口管理器
-- [awesome](https://awesome.naquadah.org) - Highly configurable, next generation framework window manager for X. [![Open-Source Software][OSS Icon]](https://github.com/awesomeWM/awesome) ![Freeware][Freeware Icon]
-- [dwm](http://dwm.suckless.org) - Dynamic window manager for X. It manages windows in tiled, monocle and floating layouts. [![Open-Source Software][OSS Icon]](https://github.com/cdown/dwm) ![Freeware][Freeware Icon]
-- [i3](https://i3wm.org) - Tiling window manager, completely written from scratch. [![Open-Source Software][OSS Icon]](https://github.com/i3/i3) ![Freeware][Freeware Icon]
-- [spectrwm](https://github.com/conformal/spectrwm/wiki) - Small dynamic tiling window manager for X11, largely inspired by xmonad and dwm. [![Open-Source Software][OSS Icon]](https://github.com/conformal/spectrwm) ![Freeware][Freeware Icon]
-- [xmonad](http://xmonad.org) - Dynamically tiling X11 window manager that is written and configured in Haskell. [![Open-Source Software][OSS Icon]](https://github.com/xmonad/xmonad) ![Freeware][Freeware Icon]
+- [awesome](https://awesome.naquadah.org) - 高度可配置，下一代 X 框架窗口管理器。[![Open-Source Software][OSS Icon]](https://github.com/awesomeWM/awesome) ![Freeware][Freeware Icon]
+- [dwm](http://dwm.suckless.org) - X 动态窗口管理器。它以平铺，单片镜以及浮动布局的方式管理窗口。[![Open-Source Software][OSS Icon]](https://github.com/cdown/dwm) ![Freeware][Freeware Icon]
+- [i3](https://i3wm.org) - 完全重写的平铺式窗口管理器。[![Open-Source Software][OSS Icon]](https://github.com/i3/i3) ![Freeware][Freeware Icon]
+- [spectrwm](https://github.com/conformal/spectrwm/wiki) - X11 小型动态窗口管理器，很大程度上受了 xmonad 和 dwm 的启发。[![Open-Source Software][OSS Icon]](https://github.com/conformal/spectrwm) ![Freeware][Freeware Icon]
+- [xmonad](http://xmonad.org) - 动态平铺式 X11 窗口管理器，用 Haskell 写就和配置。[![Open-Source Software][OSS Icon]](https://github.com/xmonad/xmonad) ![Freeware][Freeware Icon]
 
 
 ## 设置
 
 ### Ubuntu
 
-- [What is Linux](https://www.linux.com/what-is-linux)
-- [Basic Linux term](http://www.makeuseof.com/tag/linux-confusing-key-terms-definitions/)
-- [What is Ubuntu](https://en.wikipedia.org/wiki/Ubuntu_(operating_system))
-- [How to install Ubuntu](http://www.ubuntu.com/download/desktop/install-ubuntu-desktop)
-- [How to dual-boot Ubuntu with Windows](http://www.everydaylinuxuser.com/2014/05/install-ubuntu-1404-alongside-windows.html)
-- [What to do after installing ubuntu](http://www.omgubuntu.co.uk/2016/04/10-things-to-do-after-installing-ubuntu-16-04-lts)
+- [什么是 Linux](https://www.linux.com/what-is-linux)
+- [Linux 基础术语](http://www.makeuseof.com/tag/linux-confusing-key-terms-definitions/)
+- [什么是 Ubuntu](https://en.wikipedia.org/wiki/Ubuntu_(operating_system))
+- [如何安装 Ubuntu](http://www.ubuntu.com/download/desktop/install-ubuntu-desktop)
+- [如何安装 Ubuntu 和 Windows 双系统启动](http://www.everydaylinuxuser.com/2014/05/install-ubuntu-1404-alongside-windows.html)
+- [安装 ubuntu 后要做什么](http://www.omgubuntu.co.uk/2016/04/10-things-to-do-after-installing-ubuntu-16-04-lts)
 
 ### 其它发行版
 
@@ -486,7 +486,7 @@
 
 ### Ubuntu
 
-* [Ubuntu Forum](https://ubuntuforums.org/)
+* [Ubuntu 论坛](https://ubuntuforums.org/)
 * [Ask Ubuntu](askubuntu.com/)
 
 ### IRC 频道
@@ -497,7 +497,7 @@
 
 * [OMG!Ubuntu](http://www.omgubuntu.co.uk/)
 * [ITSFOSS](https://itsfoss.com/)
-* [Linux official](https://www.linux.com/)
+* [Linux 官方](https://www.linux.com/)
 * [Webupd8](http://www.webupd8.org/)
 * [Noobslab](http://www.noobslab.com/)
 * [Make use of](http://www.makeuseof.com/service/linux/)
@@ -542,7 +542,7 @@
 
 [**贡献者列表**](https://github.com/VoLuong/Awesome-Ubuntu-Linux/graphs/contributors) :
 
- 1. __Me__ [(LuongVo)](https://github.com/VoLuong)
+ 1. [LuongVo](https://github.com/VoLuong)
  2. [anewuser](https://github.com/anewuser)
  3. [nathanmusoke](https://github.com/nathanmusoke)
  4. [bpearson](https://github.com/bpearson)
@@ -559,7 +559,7 @@
  15. [Wamadahama](https://github.com/wamadahama)
  16. [Alasin](https://github.com/alasin)
  17. [LYF610400210](https://github.com/LYF610400210)
- 18. [willmtemple](https://github.com/willmtemple) for a more correct repo name.
+ 18. [willmtemple](https://github.com/willmtemple) 纠正库名称
  19. [jakub-olczyk](https://github.com/jakub-olczyk)
  20. [shakib609](https://github.com/shakib609)
  21. [talisk](https://github.com/talisk)
@@ -568,10 +568,10 @@
  24. [Voicu](https://github.com/vpop)
  25. [ryandaniels](https://github.com/ryandaniels)
  26. [mame98](https://github.com/mame98)
- 27. *Everyone @ reddit.com/r/linux & reddit.com/r/ubuntu & vozforums.com for many suggestions and compliments*
+ 27. *在 @ reddit.com/r/linux & reddit.com/r/ubuntu & vozforums.com 上每个提出建议和赞赏的人*
  ...
 
- (*The list above is updated on 14th August 2016*)
+ (*以上列表更新于 14th August 2016*)
 
 **[⬆ 返回顶部](#目录)**
 
@@ -580,21 +580,21 @@
 
 ## 贡献指南
 
-> Simply put the name of the **application** in the list.
-> Link to its **homepage** or a **guide** on how to install it.
-> Also write a **short description** for the application + add **icon**.
-> Make sure it is put under the **appropriate topic**.
-> If the application doesn't fit in any **existing topic**, make a **new one** for it.
-> Ensure everything is **alphabetically sorted**.
+> 将**应用**的名称放入列表。
+> 链接到它的**主页**或**安装指南**。
+> 再给应用写一小段**简短的介绍** + 添加**图标**。
+> 确保应用放在了**合适的主题**下。
+> 如果应用不在以上任何一个**已有的主题**内，为它**新建一个**主题。
+> 确保所有项都是按**字母表顺序排序**的。
 
-*Items marked with ![Open-Source Software][OSS Icon] are open-source software and link to the source code. Items marked with ![Freeware][Freeware Icon] are free (as in free beer).*
+*标有 ![Open-Source Software][OSS Icon] 的是开源软件并且链接到源代码。标有 ![Freeware][Freeware Icon] 的意为免费（就如免费的啤酒）。*
 
 <br>
 ## 许可证
 
 [![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
 
-该作品签署 [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/)。
+该作品签署于 [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/)。
 
 [chitchat]: https://github.com/stonesam92/ChitChat
 [OSS Icon]: https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg
