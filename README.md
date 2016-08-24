@@ -9,7 +9,7 @@
 <br>
 🐧 请随意 **contribute** / **star** / **fork** / **pull request**。欢迎一切**推荐**和**建议**。
 
-*更新：原英文库已经在 [Gitbook](https://voluong.gitbooks.io/awesome-linux-software/content/) 上发布。你可以将这个链接分享给新用户，因为在上面阅读相比于在 github 上阅读会更加友好。可以在[这里](https://goo.gl/xhiKla)下载 pdf 版本。*
+*更新：原英文库已经在 [Gitbook](https://voluong.gitbooks.io/awesome-linux-software/content/) 上发布，中文版阅读地址戳[这里](https://alim0x.gitbooks.io/awesome-linux-software-zh_cn/content/)。你可以将这个链接分享给新用户，因为在上面阅读相比于在 github 上阅读会更加友好。可以在[这里](https://goo.gl/xhiKla)下载英文 pdf 版本。*
 
 ## 目录
 
