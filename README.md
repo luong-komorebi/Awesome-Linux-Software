@@ -67,6 +67,7 @@ Two Chinese version of this list are available [here](https://github.com/alim0x/
 ***********
 
 
+
 ## Applications
 
 ### Audio
@@ -158,6 +159,7 @@ Two Chinese version of this list are available [here](https://github.com/alim0x/
 - [PyCharm](https://www.jetbrains.com/pycharm/) - Powerful IDE for Python ![Freeware][Freeware Icon]
 - [QT Creator](https://www.qt.io/ide/) - Fully-stocked cross-platform integrated development environment for easy creation of connected devices, UIs and applications.![Freeware][Freeware Icon]
 - [Rabbit VCS](http://rabbitvcs.org/) - RabbitVCS is a set of graphical tools written to provide simple and straightforward access to the version control systems you use. [![Open-Source Software][OSS Icon]](https://github.com/rabbitvcs/rabbitvcs) ![Freeware][Freeware Icon]
+- [Sloeber IDE](http://eclipse.baeyens.it/) - Sloeber IDE. The Arduino IDE for Eclipse. I love it very much. [![Open-Source Software][OSS Icon]](https://github.com/jantje/arduino-eclipse-plugin) ![Freeware][Freeware Icon]
 - [Sqlite Browser](http://sqlitebrowser.org/) - Visually create, manage, and view sqlite database files. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/sqlitebrowser/sqlitebrowser)
 - [Swift](https://swift.org/download/) - Swift is a general-purpose programming language built using a modern approach to safety, performance, and software design patterns. ![Freeware][Freeware Icon]
 - [Ubuntu-SDK](https://developer.ubuntu.com/en/phone/platform/sdk/installing-the-sdk/) - The official Ubuntu SDK. ![Freeware][Freeware Icon]
@@ -201,6 +203,7 @@ Two Chinese version of this list are available [here](https://github.com/alim0x/
 - [GPeriodic](http://gperiodic.seul.org/) - GPeriodic is a periodic table application for Linux.![Freeware][Freeware Icon]
 - [ITalc](https://github.com/iTALC/italc/releases) - iTALC is a use- and powerful didactical tool for teachers. It lets you view and control other computers in your network in several ways. [![Open-Source Software][OSS Icon]](https://github.com/iTALC/italc)![Freeware][Freeware Icon]
 - [KDE Edu Suite](https://edu.kde.org/) - Free Educational Software based on the KDE technologies.![Freeware][Freeware Icon]
+- [Ktouch](https://github.com/KDE/ktouch) - KTouch is a program to learn and practice touch typing.[![Open-Source Software][OSS Icon]](https://github.com/KDE/ktouch)![Freeware][Freeware Icon]
 - [MAPLE](http://www.maplesoft.com/products/maple/) - Maple is math software that combines the world's most powerful math engine with an interface that makes it extremely easy to analyze, explore, visualize, and solve mathematical problems.
 - [MATLAB](http://www.mathworks.com/products/matlab/?requestedDomain=www.mathworks.com) - The MATLAB platform is optimized for solving engineering and scientific problems. MATLAB helps you take your ideas beyond the desktop. You can run your analyses on larger data sets and scale up to clusters and clouds.
 - [Maxima](http://maxima.sourceforge.net/) - Maxima is a system for the manipulation of symbolic and numerical expressions, including differentiation, integration, Taylor series, Laplace transforms, ordinary differential equations, systems of linear equations, ....  [![Open-Source Software][OSS Icon]](http://maxima.sourceforge.net/project.html)![Freeware][Freeware Icon]
