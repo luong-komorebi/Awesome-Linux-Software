@@ -53,7 +53,7 @@
     - [ArchLinux](#arch-linux)
 - [杂项](#杂项)
 - [论坛](#论坛)
-    - [Ubuntu](#ubuntu)
+    - [Ubuntu](#ubuntu-1)
     - [IRC 频道](#irc-channels)
     - [Linux 新闻，应用，以及更多...](#linux-news-apps-and-more-)
     - [Reddit](#reddit)
