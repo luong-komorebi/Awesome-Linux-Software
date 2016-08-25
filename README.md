@@ -97,6 +97,7 @@ Two Chinese version of this list are available [here](https://github.com/alim0x/
 - [Tomahawk](https://www.tomahawk-player.org/) -A new kind of music player that invites all your streams, downloads, cloud music storage, playlists, radio stations and more. [![Open-Source Software][OSS Icon]](https://github.com/tomahawk-player/tomahawk)![Freeware][Freeware Icon]
 
 ### Chat Clients
+- [Franz](http://meetfranz.com/) - Franz is a free messaging app that combines many chat & messaging services into one application.![Freeware][Freeware Icon] 
 - [GhettoSkype](https://github.com/stanfieldr/ghetto-skype) - open source web wrapper for Skype. [![Open-Source Software][OSS Icon]](https://github.com/stanfieldr/ghetto-skype) ![Freeware][Freeware Icon]
 - [HexChat](https://hexchat.github.io/) - HexChat is an IRC client based on XChat, but unlike XChat it’s completely free for both Windows and Unix-like system.[![Open-Source Software][OSS Icon]](https://github.com/hexchat) ![Freeware][Freeware Icon]
 - [Jitsi](https://jitsi.org/) - Jitsi is a free and open source multiplatform voice, videoconferencing and instant messaging application for Windows, Linux, Mac OS X and Android. [![Open-Source Software][OSS Icon]](https://github.com/jitsi) ![Freeware][Freeware Icon]
