@@ -32,6 +32,7 @@ Two Chinese version of this list are available [here](https://github.com/alim0x/
     - [Office](#office)
     - [Productivity](#productivity)
     - [Security](#security)
+    - [Proxy](#proxy)
     - [Sharing Files](#sharing-files)
     - [Terminal](#terminal)
     - [Utilities](#utilities)
@@ -354,6 +355,10 @@ Two Chinese version of this list are available [here](https://github.com/alim0x/
 - [OpenSSH](http://www.openssh.com/) - OpenSSH Secure Shell Server and Client![Freeware][Freeware Icon]
 - [Seahorse](https://wiki.gnome.org/Apps/Seahorse) - Gnome frontend for GnuPG![Freeware][Freeware Icon]
 - [Tcpdump](http://www.tcpdump.org/) - TCP Debugging/Capture Tool![Freeware][Freeware Icon]
+
+### Proxy
+- [Shadowsocks](https://shadowsocks.org/en/index.html) - A secure socks5 proxy,
+designed to protect your Internet traffic [![Open-Source Software][OSS Icon]](https://github.com/shadowsocks/shadowsocks-qt5/releases) ![Freeware][Freeware Icon]
 
 ### Sharing Files
 - [aria2](https://aria2.github.io/) - aria2 is a lightweight multi-protocol & multi-source command-line download utility. [![Open-Source Software][OSS Icon]](https://github.com/aria2/aria2) ![Freeware][Freeware Icon]
