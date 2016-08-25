@@ -193,6 +193,7 @@ Two Chinese version of this list are available [here](https://github.com/alim0x/
 - [Celestia](http://celestiaproject.net/) - The free space simulation that lets you explore our universe in three dimensions.[![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/celestia/files/Celestia-source/1.6.1/celestia-1.6.1.tar.gz/download)![Freeware][Freeware Icon]
 - [Chemtool](http://ruby.chemie.uni-freiburg.de/~martin/chemtool/) - Chemtool is a small program for drawing chemical structures on Linux. [![Open-Source Software][OSS Icon]](https://github.com/opp11/chemtool/blob/master/README.md)![Freeware][Freeware Icon]
 - [Epoptes](http://www.epoptes.org/) - An open source computer lab management and monitoring tool. [![Open-Source Software][OSS Icon]](https://code.launchpad.net/epoptes)![Freeware][Freeware Icon]
+- [GAP](http://www.gap-system.org/) - A computer algebra system for computational discrete algebra with particular emphasis on computational group theory. [![Open-Source Software][OSS Icon]](https://github.com/gap-system/gap)![Freeware][Freeware Icon]
 - [Gcompris](http://gcompris.net/index-en.html) - GCompris is a high quality educational software suite comprising of numerous activities for children aged 2 to 10.[![Open-Source Software][OSS Icon]](http://gcompris.net/wiki/Developer%27s_corner)![Freeware][Freeware Icon]
 - [Geogebra](https://www.geogebra.org/download) - THE GRAPHING CALCULATOR FOR FUNCTIONS, GEOMETRY, ALGEBRA, CALCULUS, STATISTICS AND 3D MATH. ![Freeware][Freeware Icon]
 - [GNU Typist](https://www.gnu.org/software/gtypist/index.html) - ncurses-based free-software typing instructor [![Open-Source Software][OSS Icon]](http://ftp.gnu.org/gnu/gtypist/)![Freeware][Freeware Icon]
@@ -207,6 +208,8 @@ Two Chinese version of this list are available [here](https://github.com/alim0x/
 - [Moodle](https://download.moodle.org/) - Course management system for online learning.[![Open-Source Software][OSS Icon]](https://github.com/moodle/moodle)![Freeware][Freeware Icon]
 - [OpenEuclid](http://coulon.publi.free.fr/openeuclide/) - OpenEuclide is a 2D geometry software: figures are defined dynamically by describing formal geometrical constraints.![Freeware][Freeware Icon]
 - [OpenSIS](http://www.opensis.com/home) - School management software.
+- [PARI/GP](http://pari.math.u-bordeaux.fr/) - A computer algebra system for fast computations in number theory. [![Open-Source Software][OSS Icon]](http://pari.math.u-bordeaux.fr/cgi-bin/gitweb.cgi?p=pari.git;a=summary)![Freeware][Freeware Icon]
+- [SageMath](http://www.sagemath.org/) - A mathematical software with features covering many aspects of mathematics, including algebra, combinatorics, numerical mathematics, number theory, and calculus. [![Open-Source Software][OSS Icon]](https://git.sagemath.org/sage.git/)![Freeware][Freeware Icon]
 - [Scipy](https://scipy.org/install.html) - SciPy is a Python-based ecosystem of open-source software for mathematics, science, and engineering.[![Open-Source Software][OSS Icon]](https://scipy.org/stackspec.html#stackspec)![Freeware][Freeware Icon]
 - [Scratch](https://scratch.mit.edu/) - With Scratch, you can program your own interactive stories, games, and animations — and share your creations with others in the online community.![Freeware][Freeware Icon]
 - [Stellarium](http://www.stellarium.org/) - Stellarium is a free open source planetarium for your computer.[![Open-Source Software][OSS Icon]](https://sourceforge.net/p/stellarium/code/HEAD/tree/)![Freeware][Freeware Icon]
@@ -299,6 +302,7 @@ Two Chinese version of this list are available [here](https://github.com/alim0x/
 - [KMyMoney](https://kmymoney.org/) - KMyMoney is the personal finance manager by KDE. Its operation is similar to Microsoft Money and Quicken. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/KDE/kmymoney)
 - [LibreOffice](https://www.libreoffice.org/) - Best office bundle for linux.![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://www.libreoffice.org/about-us/source-code/)
 - [LyX](http://www.lyx.org/) - Mature document editor that renders into LaTeX ..![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/yihui/lyx)
+- [TeXmacs](http://www.texmacs.org/) - Free scientific text editor, inspired by TeX and GNU Emacs. WYSIWYG editor and CAS-interface. [![Open-Source Software][OSS Icon]](https://savannah.gnu.org/projects/texmacs)![Freeware][Freeware Icon]
 - [WPS office](http://wps-community.org/) - One of the best office app bundle for linux.![Freeware][Freeware Icon]
 
 ### Productivity

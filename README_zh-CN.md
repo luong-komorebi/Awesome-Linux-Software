@@ -191,6 +191,7 @@
 - [Celestia](http://celestiaproject.net/) - 免费的空间模拟器，让你在三维空间中探索我们的宇宙。[![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/celestia/files/Celestia-source/1.6.1/celestia-1.6.1.tar.gz/download)![Freeware][Freeware Icon]
 - [Chemtool](http://ruby.chemie.uni-freiburg.de/~martin/chemtool/) - Chemtool 是一款在 Linux 上绘制化学结构的小程序。 [![Open-Source Software][OSS Icon]](https://github.com/opp11/chemtool/blob/master/README.md)![Freeware][Freeware Icon]
 - [Epoptes](http://www.epoptes.org/) - 一款开源的计算机实验室管理和监视工具。 [![Open-Source Software][OSS Icon]](https://code.launchpad.net/epoptes)![Freeware][Freeware Icon]
+- [GAP](http://www.gap-system.org/) - 计算离散代数领域内的一个优秀系统,主要专注于计算群论的计算。 [![Open-Source Software][OSS Icon]](https://github.com/gap-system/gap)![Freeware][Freeware Icon]
 - [Gcompris](http://gcompris.net/index-en.html) - GCompris 是一款高质量教育软件，由无数适合 2 到 10 岁儿童的活动组成。[![Open-Source Software][OSS Icon]](http://gcompris.net/wiki/Developer%27s_corner)![Freeware][Freeware Icon]
 - [Geogebra](https://www.geogebra.org/download) - 图形计算器，支持函数，几何，代数，微积分，统计以及 3D 数学。 ![Freeware][Freeware Icon]
 - [GNU Typist](https://www.gnu.org/software/gtypist/index.html) - 基于 ncurses 的免费打字教学软件 [![Open-Source Software][OSS Icon]](http://ftp.gnu.org/gnu/gtypist/)![Freeware][Freeware Icon]
@@ -205,6 +206,8 @@
 - [Moodle](https://download.moodle.org/) - Course management system for online learning.[![Open-Source Software][OSS Icon]](https://github.com/moodle/moodle)![Freeware][Freeware Icon]
 - [OpenEuclid](http://coulon.publi.free.fr/openeuclide/) - OpenEuclide 是一款 2D 几何软件：数据由描述形式化的几何约束动态定义。![Freeware][Freeware Icon]
 - [OpenSIS](http://www.opensis.com/home) - 学校管理软件。
+- [PARI/GP](http://pari.math.u-bordeaux.fr/) - 一种针对数论中的快速计算(大数分解，代数数论，椭圆曲线...) 而设计的广泛应用的计算机代数系统。 [![Open-Source Software][OSS Icon]](http://pari.math.u-bordeaux.fr/cgi-bin/gitweb.cgi?p=pari.git;a=summary)![Freeware][Freeware Icon]
+- [SageMath](http://www.sagemath.org/) - 一个覆盖许多数学功能的应用软件，包括代数、组合数学、计算数学和微积分。 [![Open-Source Software][OSS Icon]](https://git.sagemath.org/sage.git/)![Freeware][Freeware Icon]
 - [Scipy](https://scipy.org/install.html) - SciPy 是一个基于 Python 的开源软件生态系统，面向数学，科学，以及工程学。[![Open-Source Software][OSS Icon]](https://scipy.org/stackspec.html#stackspec)![Freeware][Freeware Icon]
 - [Scratch](https://scratch.mit.edu/) - 有了 Scratch，你可以编程你自己的互动故事，游戏，以及动画——并且在在线社区和其他人分享你的创造。![Freeware][Freeware Icon]
 - [Stellarium](http://www.stellarium.org/) - Stellarium 是一个为你电脑准备的免费开源天文馆。[![Open-Source Software][OSS Icon]](https://sourceforge.net/p/stellarium/code/HEAD/tree/)![Freeware][Freeware Icon]
@@ -297,6 +300,7 @@
 - [KMyMoney](https://kmymoney.org/) - KMyMoney 是 KDE 的一款个人金融管理器。它的操作类似 Microsoft Money 以及 Quicken。![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/KDE/kmymoney)
 - [LibreOffice](https://www.libreoffice.org/) - Linux 上的最佳办公套件。![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://www.libreoffice.org/about-us/source-code/)
 - [LyX](http://www.lyx.org/) - 成熟的 LaTeX 渲染文档编辑器。![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/yihui/lyx)
+- [TeXmacs](http://www.texmacs.org/) - 一款所见即所得的科学文本编辑器，并可用作一系列计算机代数系统的前端 [![Open-Source Software][OSS Icon]](https://savannah.gnu.org/projects/texmacs)![Freeware][Freeware Icon]
 - [WPS office](http://wps-community.org/) - Linux 上的最佳办公套件之一。![Freeware][Freeware Icon]
 
 ### 生产力
