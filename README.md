@@ -31,8 +31,8 @@ Two Chinese version of this list are available [here](https://github.com/alim0x/
     - [Internet](#internet)
     - [Office](#office)
     - [Productivity](#productivity)
-    - [Security](#security)
     - [Proxy](#proxy)
+    - [Security](#security)
     - [Sharing Files](#sharing-files)
     - [Terminal](#terminal)
     - [Utilities](#utilities)
@@ -632,7 +632,8 @@ designed to protect your Internet traffic [![Open-Source Software][OSS Icon]](ht
  32. [hg8](https://github.com/hg8)
  33. [ChrisLeeGit](https://github.com/ChrisLeeGit)
  34. [alim0x](https://github.com/alim0x)
- 35. *Everyone @ reddit.com/r/linux & reddit.com/r/ubuntu & vozforums.com for many suggestions and compliments*
+ 35. [Spacebody](https://github.com/Spacebody)
+ 36. *Everyone @ reddit.com/r/linux & reddit.com/r/ubuntu & vozforums.com for many suggestions and compliments*
  ...
 
  (*The list above is updated on 15th August 2016*)
