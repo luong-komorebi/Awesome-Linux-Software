@@ -92,6 +92,7 @@
 - [Tomahawk](https://www.tomahawk-player.org/) - 一种新的音乐播放器，集合你所有的流媒体，下载，音乐云存储，播放列表，电台等。 [![Open-Source Software][OSS Icon]](https://github.com/tomahawk-player/tomahawk)![Freeware][Freeware Icon]
 
 ### 聊天客户端
+- [Franz](http://meetfranz.com/) - 弗兰茨是一个免费的短信应用程序，结合了许多聊天及短信服务为一体的单个应用程序.![Freeware][Freeware Icon] 
 - [GhettoSkype](https://github.com/stanfieldr/ghetto-skype) - Skype 的开源 web 封装。 [![Open-Source Software][OSS Icon]](https://github.com/stanfieldr/ghetto-skype) ![Freeware][Freeware Icon]
 - [HexChat](https://hexchat.github.io/) - HexChat 是一款基于 XChat 的 IRC 客户端，但和 XChat 不一样的是它对 Windows 和 Unix-like 系统都是完全自由的。[![Open-Source Software][OSS Icon]](https://github.com/hexchat) ![Freeware][Freeware Icon]
 - [Jitsi](https://jitsi.org/) - Jitsi 是一款免费，开源的多平台语音，视频会议以及即时通讯应用，在 Windows, Linux, Mac OS X 和 Android 上可用。[![Open-Source Software][OSS Icon]](https://github.com/jitsi) ![Freeware][Freeware Icon]
