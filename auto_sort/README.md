@@ -2,7 +2,7 @@
 - [中文](#介绍)
 
 # Introduction
-`asort.py` is a very simple python3 script that aims to make sure items in the README file of the repo [awesome-linux-software-cn](https://github.com/ChrisLeeGit/awesome-linux-software-cn) are sorted alphabetically. 
+`asort.py` is a very simple python3 script that aims to make sure items in the README file of the repo [Awesome-Linux-Software](https://github.com/VoLuong/Awesome-Linux-Software) are sorted alphabetically. 
 
 This script only sorts items in the following topics for now (items between topic Applications and topic Setup):
 - Applications
@@ -26,7 +26,7 @@ MIT License.
 
 ---------------------------------------------
 # 介绍
-`asort.py` 是一个非常简单的 python3 脚本，它负责将 [Linux 优秀软件资源大全](https://github.com/ChrisLeeGit/awesome-linux-software-cn) 仓库的 [README.md](https://github.com/ChrisLeeGit/awesome-linux-software-cn/blob/master/README.md) 文件中的条目按照字母表顺序排列，以方便查阅。
+`asort.py` 是一个非常简单的 python3 脚本，它负责将 [Awesome-Linux-Software](https://github.com/VoLuong/Awesome-Linux-Software) 仓库的 README.md 文件中的条目按照字母表顺序排列，以方便查阅。
 
 该脚本只会为如下几个主题中的条目进行排序（实际上就是在主题 *应用程序* 和 *配置* 之间的所有条目）：
 - 应用程序
