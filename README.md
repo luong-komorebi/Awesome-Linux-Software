@@ -55,10 +55,10 @@ Two Chinese version of this list are available [here](https://github.com/alim0x/
  	- [ArchLinux](#arch-linux)
  	- [Opensuse](#opensuse)
 	- [Ubuntu](#ubuntu)
-	
-- [Miscellaneous](#miscellaneous)
 - [Discussion Forums](#discussion-forums)
+    - [ArchLinux](arch-linux-1)
     - [Ubuntu](#ubuntu-1)
+    - [Opensuse](#opensuse-1)
     - [IRC channels](#irc-channels)
     - [Linux News, Apps, and more ....](#linux-news-apps-and-more-)
     - [Reddit](#reddit)
@@ -556,6 +556,10 @@ designed to protect your Internet traffic [![Open-Source Software][OSS Icon]](ht
 
 * [Ubuntu Forum](https://ubuntuforums.org/)
 * [Ask Ubuntu](askubuntu.com/)
+
+### Opensuse
+
+* [Opensuse Forum](https://forums.opensuse.org/forum.php)
 
 
 
