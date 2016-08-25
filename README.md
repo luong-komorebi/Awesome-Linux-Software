@@ -52,8 +52,10 @@ Two Chinese version of this list are available [here](https://github.com/alim0x/
 ***********
 
 - [Setup](#setup)
+ 	- [ArchLinux](#arch-linux)
+ 	- [Opensuse](#opensuse)
 	- [Ubuntu](#ubuntu)
-	- [ArchLinux](#arch-linux)
+	
 - [Miscellaneous](#miscellaneous)
 - [Discussion Forums](#discussion-forums)
     - [Ubuntu](#ubuntu-1)
@@ -511,20 +513,33 @@ designed to protect your Internet traffic [![Open-Source Software][OSS Icon]](ht
 
 ## Setup
 
-### Ubuntu
-
 - [What is Linux](https://www.linux.com/what-is-linux)
 - [Basic Linux term](http://www.makeuseof.com/tag/linux-confusing-key-terms-definitions/)
+ 
+
+### Arch Linux
+
+- [Beginners' guide](https://wiki.archlinux.org/index.php/Beginners%27_guide)
+- [Installation guide](https://wiki.archlinux.org/index.php/Installation_guide)
+- [General recommendations](https://wiki.archlinux.org/index.php/General_recommendations)
+- [List of applications](https://wiki.archlinux.org/index.php/List_of_applications)
+ 
+### Opensuse
+
+- [What is Opensuse](https://www.techopedia.com/definition/28543/opensuse)
+- [Reason to try Opensuse](http://www.pcworld.com/article/222065/5_reasons_to_try_opensuse_114.html)
+- [Beginner's FAQ](https://en.opensuse.org/openSUSE:OpenSUSE_for_beginners)
+- [How to install Opensuse](https://en.opensuse.org/Portal:Installation)
+- [Review](https://www.linux.com/news/opensuse-leap-421-review-most-mature-linux-distribution)
+
+### Ubuntu
+
+
 - [What is Ubuntu](https://en.wikipedia.org/wiki/Ubuntu_(operating_system))
 - [How to install Ubuntu](http://www.ubuntu.com/download/desktop/install-ubuntu-desktop)
 - [How to dual-boot Ubuntu with Windows](http://www.everydaylinuxuser.com/2014/05/install-ubuntu-1404-alongside-windows.html)
 - [What to do after installing ubuntu](http://www.omgubuntu.co.uk/2016/04/10-things-to-do-after-installing-ubuntu-16-04-lts)
 
-### Arch Linux
-- [Beginners' guide](https://wiki.archlinux.org/index.php/Beginners%27_guide)
-- [Installation guide](https://wiki.archlinux.org/index.php/Installation_guide)
-- [General recommendations](https://wiki.archlinux.org/index.php/General_recommendations)
-- [List of applications](https://wiki.archlinux.org/index.php/List_of_applications)
 
 ### Other distros
 
@@ -532,15 +547,17 @@ designed to protect your Internet traffic [![Open-Source Software][OSS Icon]](ht
 
 ## Discussion Forums
 
+### Arch Linux
+
+* [Arch Linux Forums](https://bbs.archlinux.org/)
+* [Arch Linux ARM Forums](https://archlinuxarm.org/forum/viewforum.php?f=31)
+
 ### Ubuntu
 
 * [Ubuntu Forum](https://ubuntuforums.org/)
 * [Ask Ubuntu](askubuntu.com/)
 
-### Arch Linux
 
-* [Arch Linux Forums](https://bbs.archlinux.org/)
-* [Arch Linux ARM Forums](https://archlinuxarm.org/forum/viewforum.php?f=31)
 
 ### IRC channels
 
