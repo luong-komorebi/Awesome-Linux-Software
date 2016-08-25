@@ -29,6 +29,7 @@
     - [互联网](#互联网)
     - [办公](#办公)
     - [生产力](#生产力)
+    - [代理](#代理)
     - [安全](#安全)
     - [文件共享](#文件共享)
     - [终端](#终端)
@@ -49,11 +50,13 @@
 ***********
 
 - [设置](#设置)
-    - [Ubuntu](#ubuntu)
     - [ArchLinux](#arch-linux)
-- [杂项](#杂项)
+    - [openSUSE](#opensuse)
+    - [Ubuntu](#ubuntu)
 - [论坛](#论坛)
+    - [ArchLinux](arch-linux-1)
     - [Ubuntu](#ubuntu-1)
+    - [openSUSE](#opensuse-1)
     - [IRC 频道](#irc-channels)
     - [Linux 新闻，应用，以及更多...](#linux-news-apps-and-more-)
     - [Reddit](#reddit)
@@ -206,7 +209,7 @@
 - [MAPLE](http://www.maplesoft.com/products/maple/) - Maple 是一款数学软件，它结合了世界上最强大的数学引擎以及一个让它十分易于分析，探索，可视化以及解决数学问题的界面。
 - [MATLAB](http://www.mathworks.com/products/matlab/?requestedDomain=www.mathworks.com) - MATLAB 平台专为剞劂工程和科学问题优化。MATLAB 让你的想法不仅仅停留在桌面。你可以在巨大的数据集上进行你的分析并按比例增加你的集群和云。
 - [Maxima](http://maxima.sourceforge.net/) - Maxima 是一个处理符号和数值表达式的系统，包括微分，积分，泰勒级数，拉普拉斯变换，常微分方程，线性方程组....  [![Open-Source Software][OSS Icon]](http://maxima.sourceforge.net/project.html)![Freeware][Freeware Icon]
-- [Moodle](https://download.moodle.org/) - Course management system for online learning.[![Open-Source Software][OSS Icon]](https://github.com/moodle/moodle)![Freeware][Freeware Icon]
+- [Moodle](https://download.moodle.org/) - 在线学习课程管理系统。[![Open-Source Software][OSS Icon]](https://github.com/moodle/moodle)![Freeware][Freeware Icon]
 - [OpenEuclid](http://coulon.publi.free.fr/openeuclide/) - OpenEuclide 是一款 2D 几何软件：数据由描述形式化的几何约束动态定义。![Freeware][Freeware Icon]
 - [OpenSIS](http://www.opensis.com/home) - 学校管理软件。
 - [PARI/GP](http://pari.math.u-bordeaux.fr/) - 一种针对数论中的快速计算(大数分解，代数数论，椭圆曲线...) 而设计的广泛应用的计算机代数系统。 [![Open-Source Software][OSS Icon]](http://pari.math.u-bordeaux.fr/cgi-bin/gitweb.cgi?p=pari.git;a=summary)![Freeware][Freeware Icon]
@@ -351,6 +354,11 @@
 - [OpenSSH](http://www.openssh.com/) - OpenSSH 安全 Shell 服务器以及客户端。![Freeware][Freeware Icon]
 - [Seahorse](https://wiki.gnome.org/Apps/Seahorse) - GnuPG 的 Gnome 前端。![Freeware][Freeware Icon]
 - [Tcpdump](http://www.tcpdump.org/) - TCP 调试/抓包工具。![Freeware][Freeware Icon]
+
+### 代理
+- [Privoxy](https://www.privoxy.org/) - Privoxy 是一款无缓存 web 代理，有高级过滤功能，用以加强隐私，修改 web 页面数据以及 HTTP 头部，访问控制，还有去广告和烦人的网络垃圾的功能。 [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/ijbswa/) ![Freeware][Freeware Icon]
+- [ProxyChains](https://github.com/haad/proxychains) - 强制指定的应用发起的任何 TCP 连接通过像 TOR 或其它 SOCKS4，SOCKS5 或 HTTP(S) 代理进行。 [![Open-Source Software][OSS Icon]](https://github.com/haad/proxychains) ![Freeware][Freeware Icon]
+- [Shadowsocks](https://shadowsocks.org/en/index.html) - 一个 socks5 代理工具，保护你的互联网流量。 [![Open-Source Software][OSS Icon]](https://github.com/shadowsocks/shadowsocks-qt5/releases) ![Freeware][Freeware Icon]
 
 ### 文件共享
 - [aria2](https://aria2.github.io/) - aria2 是一个轻量级的多协议以及多来源命令行下载工具。 [![Open-Source Software][OSS Icon]](https://github.com/aria2/aria2) ![Freeware][Freeware Icon]
@@ -503,14 +511,8 @@
 
 ## 设置
 
-### Ubuntu
-
 - [什么是 Linux](https://www.linux.com/what-is-linux)
 - [Linux 基础术语](http://www.makeuseof.com/tag/linux-confusing-key-terms-definitions/)
-- [什么是 Ubuntu](https://en.wikipedia.org/wiki/Ubuntu_(operating_system))
-- [如何安装 Ubuntu](http://www.ubuntu.com/download/desktop/install-ubuntu-desktop)
-- [如何安装 Ubuntu 和 Windows 双系统启动](http://www.everydaylinuxuser.com/2014/05/install-ubuntu-1404-alongside-windows.html)
-- [安装 ubuntu 后要做什么](http://www.omgubuntu.co.uk/2016/04/10-things-to-do-after-installing-ubuntu-16-04-lts)
 
 ### Arch Linux
 
@@ -519,21 +521,40 @@
 - [通用推荐](https://wiki.archlinux.org/index.php/General_recommendations)
 - [应用列表](https://wiki.archlinux.org/index.php/List_of_applications)
 
+### openSUSE
+
+- [什么是 openSUSE](https://www.techopedia.com/definition/28543/opensuse)
+- [尝试 openSUSE 的理由](http://www.pcworld.com/article/222065/5_reasons_to_try_opensuse_114.html)
+- [新手常见问题解答](https://en.opensuse.org/openSUSE:OpenSUSE_for_beginners)
+- [如何安装 openSUSE](https://en.opensuse.org/Portal:Installation)
+- [评测](https://www.linux.com/news/opensuse-leap-421-review-most-mature-linux-distribution)
+
+### Ubuntu
+
+- [什么是 Ubuntu](https://en.wikipedia.org/wiki/Ubuntu_(operating_system))
+- [如何安装 Ubuntu](http://www.ubuntu.com/download/desktop/install-ubuntu-desktop)
+- [如何安装 Ubuntu 和 Windows 双系统启动](http://www.everydaylinuxuser.com/2014/05/install-ubuntu-1404-alongside-windows.html)
+- [安装 ubuntu 后要做什么](http://www.omgubuntu.co.uk/2016/04/10-things-to-do-after-installing-ubuntu-16-04-lts)
+
 ### 其它发行版
 
 > 待添加
 
 ## 论坛
 
+### Arch Linux
+
+* [Arch Linux 论坛](https://bbs.archlinux.org/)
+* [Arch Linux ARM 论坛](https://archlinuxarm.org/forum/viewforum.php?f=31)
+
 ### Ubuntu
 
 * [Ubuntu 论坛](https://ubuntuforums.org/)
 * [Ask Ubuntu](askubuntu.com/)
 
-### Arch Linux
+### openSUSE
 
-* [Arch Linux 论坛](https://bbs.archlinux.org/)
-* [Arch Linux ARM 论坛](https://archlinuxarm.org/forum/viewforum.php?f=31)
+* [openSUSE 论坛](https://forums.opensuse.org/forum.php)
 
 ### IRC 频道
 
@@ -625,7 +646,8 @@
  32. [hg8](https://github.com/hg8)
  33. [ChrisLeeGit](https://github.com/ChrisLeeGit)
  34. [alim0x](https://github.com/alim0x)
- 35. *在 @ reddit.com/r/linux & reddit.com/r/ubuntu & vozforums.com 上每个提出建议和赞赏的人*
+ 35. [Spacebody](https://github.com/Spacebody)
+ 36. *在 @ reddit.com/r/linux & reddit.com/r/ubuntu & vozforums.com 上每个提出建议和赞赏的人*
  ...
 
  (*以上列表更新于 15th August 2016*)
