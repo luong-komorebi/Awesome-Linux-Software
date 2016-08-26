@@ -53,12 +53,14 @@ Two Chinese version of this list are available [here](https://github.com/alim0x/
 
 - [Setup](#setup)
  	- [ArchLinux](#arch-linux)
+    - [CentOS](#centos)
  	- [openSUSE](#opensuse)
 	- [Ubuntu](#ubuntu)
 - [Discussion Forums](#discussion-forums)
-    - [ArchLinux](arch-linux-1)
-    - [Ubuntu](#ubuntu-1)
-    - [openSUSE](#opensuse-1)
+    - [ArchLinux Forums](#arch-linux-forums)
+    - [CentOS Forums](#centos-forums)
+    - [Ubuntu Forums](#ubuntu-forums)
+    - [openSUSE Forums](#opensuse-forums)
     - [IRC channels](#irc-channels)
     - [Linux News, Apps, and more ....](#linux-news-apps-and-more-)
     - [Reddit](#reddit)
@@ -91,6 +93,7 @@ Two Chinese version of this list are available [here](https://github.com/alim0x/
 - [Let's make music](https://lmms.io/download/#linux) - Making music on your PC by creating melodies and beats, synthesizing and mixing sounds, arranging samples and much more. ![Freeware][Freeware Icon]
 - [Lollypop](http://gnumdk.github.io/lollypop-web) - Lollypop is a new GNOME music playing application. [![Open-Source Software][OSS Icon]](https://github.com/gnumdk/lollypop) ![Freeware][Freeware Icon]
 - [Mixxx](http://www.mixxx.org/download/) - Free DJ software that gives you everything you need to perform live mixes, veritable alternative to Traktor. [![Open-Source Software][OSS Icon]](https://github.com/mixxxdj/mixxx) ![Freeware][Freeware Icon]
+- [Netease Music](http://music.163.com/#/download) -  A music player of Netease ![Freeware][Freeware Icon]
 - [OSD Lyrics](https://aur.archlinux.org/packages/osdlyrics-git/) - Show lyrics with your favorite media player. [![Open-Source Software][OSS Icon]](https://github.com/PedroHLC/osdlyrics) ![Freeware][Freeware Icon]
 - [Rhythmbox](https://wiki.gnome.org/Apps/Rhythmbox) - Music player from GNOME. [![Open-Source Software][OSS Icon]](https://github.com/GNOME/rhythmbox) ![Freeware][Freeware Icon]
 - [SoundJuicer](http://www.howtogeek.com/howto/20126/rip-audio-cds-with-sound-juicer/) - CD Ripping tool for GNOME ![Freeware][Freeware Icon]
@@ -528,6 +531,15 @@ Two Chinese version of this list are available [here](https://github.com/alim0x/
 - [General recommendations](https://wiki.archlinux.org/index.php/General_recommendations)
 - [List of applications](https://wiki.archlinux.org/index.php/List_of_applications)
 
+### CentOS
+
+- [Official website](https://www.centos.org)
+- [About](https://wiki.centos.org/About)
+- [Downloads](https://wiki.centos.org/Download)
+- [Manuals](https://www.centos.org/docs/)
+- [Tips and Tricks](https://wiki.centos.org/TipsAndTricks)
+- [FAQ](https://www.centos.org/forums/faq.php?sid=4e6d260284c7936505dcf75564717272)
+
 ### openSUSE
 
 - [What is openSUSE](https://www.techopedia.com/definition/28543/opensuse)
@@ -551,17 +563,21 @@ Two Chinese version of this list are available [here](https://github.com/alim0x/
 
 ## Discussion Forums
 
-### Arch Linux
+### Arch Linux Forums
 
 * [Arch Linux Forums](https://bbs.archlinux.org/)
 * [Arch Linux ARM Forums](https://archlinuxarm.org/forum/viewforum.php?f=31)
 
-### Ubuntu
+### CentOS Forums
+
+* [CentOS Forum](https://www.centos.org/forums/)
+
+### Ubuntu Forums
 
 * [Ubuntu Forum](https://ubuntuforums.org/)
 * [Ask Ubuntu](askubuntu.com/)
 
-### openSUSE
+### openSUSE Forums
 
 * [openSUSE Forum](https://forums.opensuse.org/forum.php)
 
@@ -592,10 +608,11 @@ Two Chinese version of this list are available [here](https://github.com/alim0x/
 
 ### Reddit
 
-* [Ubuntu](https://www.reddit.com/r/Ubuntu/)
 * [Arch Linux](https://www.reddit.com/r/archlinux/)
+* [CentOS](https://www.reddit.com/r/CentOS/)
 * [Linux](https://www.reddit.com/r/linux/)
 * [Open Source](https://www.reddit.com/r/opensource/)
+* [Ubuntu](https://www.reddit.com/r/Ubuntu/)
 * [Unix Porn](https://www.reddit.com/r/unixporn/)
 * [Linux Kernel](https://www.reddit.com/r/kernel/)
 * [Linux Gaming](https://www.reddit.com/r/linux_gaming/)
@@ -661,7 +678,7 @@ Two Chinese version of this list are available [here](https://github.com/alim0x/
  36. *Everyone @ reddit.com/r/linux & reddit.com/r/ubuntu & vozforums.com for many suggestions and compliments*
  ...
 
- (*The list above is updated on 15th August 2016*)
+ (*The list above is updated on 26th August 2016*)
 
 **[⬆ back to top](#table-of-contents)**
 
