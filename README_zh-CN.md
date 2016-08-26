@@ -96,7 +96,7 @@
 - [Tomahawk](https://www.tomahawk-player.org/) - 一种新的音乐播放器，集合你所有的流媒体，下载，音乐云存储，播放列表，电台等。 [![Open-Source Software][OSS Icon]](https://github.com/tomahawk-player/tomahawk)![Freeware][Freeware Icon]
 
 ### 聊天客户端
-- [Franz](http://meetfranz.com/) - 弗兰茨是一个免费的短信应用程序，结合了许多聊天及短信服务为一体的单个应用程序.![Freeware][Freeware Icon]
+- [Franz](http://meetfranz.com/) - Franz 是一个免费的消息应用，结合了许多聊天及消息服务到单独的一个客户端中。![Freeware][Freeware Icon]
 - [GhettoSkype](https://github.com/stanfieldr/ghetto-skype) - Skype 的开源 web 封装。 [![Open-Source Software][OSS Icon]](https://github.com/stanfieldr/ghetto-skype) ![Freeware][Freeware Icon]
 - [HexChat](https://hexchat.github.io/) - HexChat 是一款基于 XChat 的 IRC 客户端，但和 XChat 不一样的是它对 Windows 和 Unix-like 系统都是完全自由的。[![Open-Source Software][OSS Icon]](https://github.com/hexchat) ![Freeware][Freeware Icon]
 - [Jitsi](https://jitsi.org/) - Jitsi 是一款免费，开源的多平台语音，视频会议以及即时通讯应用，在 Windows, Linux, Mac OS X 和 Android 上可用。[![Open-Source Software][OSS Icon]](https://github.com/jitsi) ![Freeware][Freeware Icon]
@@ -239,7 +239,7 @@
 - [AngrySearch](https://github.com/DoTheEvo/ANGRYsearch) - Linux 文件搜索，结果输入即得。 [![Open-Source Software][OSS Icon]](https://github.com/DoTheEvo/ANGRYsearch) ![Freeware][Freeware Icon]
 - [Double Commander](http://doublecmd.sourceforge.net/) - Double Commander 是一款跨平台的开源双栏文件管理器。它受 Total Commander 启发并有自己的新想法。![Freeware][Freeware Icon]
 - [Marlin](https://launchpad.net/marlin) - 文件管理器界最性感的成员，Marlin 为速度，简单和易用精心设计。 ![Freeware][Freeware Icon]
-- [Midnight Commander](https://www.midnight-commander.org/) - A feature rich full-screen file manager that allows you to copy, move and delete files and whole directory trees. [![Open-Source Software][OSS Icon]](https://github.com/MidnightCommander) ![Freeware][Freeware Icon] 
+- [Midnight Commander](https://www.midnight-commander.org/) - A feature rich full-screen file manager that allows you to copy, move and delete files and whole directory trees. [![Open-Source Software][OSS Icon]](https://github.com/MidnightCommander) ![Freeware][Freeware Icon]
 - [Nautilus](https://wiki.gnome.org/Apps/Nautilus) - Nautilus（Files）鹦鹉螺是为适配 Gnome 桌面设计和行为所设计的文件管理器，给用户一个简单的方式导航和管理文件。![Freeware][Freeware Icon]
 - [Nemo](http://askubuntu.com/questions/294421/how-do-i-install-nemo-file-manager) - Nemo 是一款 Cinnamon 桌面环境下的文件管理器。[![Open-Source Software][OSS Icon]](https://github.com/linuxmint/nemo) ![Freeware][Freeware Icon]
 - [QDirStat](https://github.com/shundhammer/qdirstat#ubuntu) - 基于 Qt 的文件夹统计——不用 KDE 的 KDirStat，来自原 KDirStat 开发者的作品。[![Open-Source Software][OSS Icon]](https://github.com/shundhammer/qdirstat) ![Freeware][Freeware Icon]
@@ -532,14 +532,14 @@
 - [应用列表](https://wiki.archlinux.org/index.php/List_of_applications)
 
 ### CentOS
- 
+
  - [官方网站](https://www.centos.org)
  - [关于](https://wiki.centos.org/About)
  - [下载](https://wiki.centos.org/Download)
  - [指南](https://www.centos.org/docs/)
  - [提示和技巧](https://wiki.centos.org/TipsAndTricks)
  - [常见问题](https://www.centos.org/forums/faq.php?sid=4e6d260284c7936505dcf75564717272)
- 
+
 ### openSUSE
 
 - [什么是 openSUSE](https://www.techopedia.com/definition/28543/opensuse)
@@ -565,9 +565,9 @@
 
 * [Arch Linux 论坛](https://bbs.archlinux.org/)
 * [Arch Linux ARM 论坛](https://archlinuxarm.org/forum/viewforum.php?f=31)
- 
+
 ### CentOS Forums
- 
+
  * [CentOS 论坛](https://www.centos.org/forums/)
 
 ### Ubuntu Forums
