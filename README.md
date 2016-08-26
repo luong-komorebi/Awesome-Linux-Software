@@ -53,7 +53,7 @@ Two Chinese version of this list are available [here](https://github.com/alim0x/
 
 - [Setup](#setup)
  	- [ArchLinux](#arch-linux)
-    - [CentOS](#centos)
+ 	- [CentOS](#centos)
  	- [openSUSE](#opensuse)
 	- [Ubuntu](#ubuntu)
 - [Discussion Forums](#discussion-forums)
