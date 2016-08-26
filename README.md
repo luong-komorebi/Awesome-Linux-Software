@@ -53,12 +53,12 @@ Two Chinese version of this list are available [here](https://github.com/alim0x/
 
 - [Setup](#setup)
  	- [ArchLinux](#arch-linux)
- 	- [Opensuse](#opensuse)
+ 	- [openSUSE](#opensuse)
 	- [Ubuntu](#ubuntu)
 - [Discussion Forums](#discussion-forums)
     - [ArchLinux](arch-linux-1)
     - [Ubuntu](#ubuntu-1)
-    - [Opensuse](#opensuse-1)
+    - [openSUSE](#opensuse-1)
     - [IRC channels](#irc-channels)
     - [Linux News, Apps, and more ....](#linux-news-apps-and-more-)
     - [Reddit](#reddit)
@@ -97,6 +97,7 @@ Two Chinese version of this list are available [here](https://github.com/alim0x/
 - [Tomahawk](https://www.tomahawk-player.org/) -A new kind of music player that invites all your streams, downloads, cloud music storage, playlists, radio stations and more. [![Open-Source Software][OSS Icon]](https://github.com/tomahawk-player/tomahawk)![Freeware][Freeware Icon]
 
 ### Chat Clients
+- [Franz](http://meetfranz.com/) - Franz is a free messaging app that combines many chat & messaging services into one application.![Freeware][Freeware Icon] 
 - [GhettoSkype](https://github.com/stanfieldr/ghetto-skype) - open source web wrapper for Skype. [![Open-Source Software][OSS Icon]](https://github.com/stanfieldr/ghetto-skype) ![Freeware][Freeware Icon]
 - [HexChat](https://hexchat.github.io/) - HexChat is an IRC client based on XChat, but unlike XChat it’s completely free for both Windows and Unix-like system.[![Open-Source Software][OSS Icon]](https://github.com/hexchat) ![Freeware][Freeware Icon]
 - [Jitsi](https://jitsi.org/) - Jitsi is a free and open source multiplatform voice, videoconferencing and instant messaging application for Windows, Linux, Mac OS X and Android. [![Open-Source Software][OSS Icon]](https://github.com/jitsi) ![Freeware][Freeware Icon]
@@ -518,7 +519,7 @@ Two Chinese version of this list are available [here](https://github.com/alim0x/
 
 - [What is Linux](https://www.linux.com/what-is-linux)
 - [Basic Linux term](http://www.makeuseof.com/tag/linux-confusing-key-terms-definitions/)
- 
+
 
 ### Arch Linux
 
@@ -526,13 +527,13 @@ Two Chinese version of this list are available [here](https://github.com/alim0x/
 - [Installation guide](https://wiki.archlinux.org/index.php/Installation_guide)
 - [General recommendations](https://wiki.archlinux.org/index.php/General_recommendations)
 - [List of applications](https://wiki.archlinux.org/index.php/List_of_applications)
- 
-### Opensuse
 
-- [What is Opensuse](https://www.techopedia.com/definition/28543/opensuse)
-- [Reason to try Opensuse](http://www.pcworld.com/article/222065/5_reasons_to_try_opensuse_114.html)
+### openSUSE
+
+- [What is openSUSE](https://www.techopedia.com/definition/28543/opensuse)
+- [Reason to try openSUSE](http://www.pcworld.com/article/222065/5_reasons_to_try_opensuse_114.html)
 - [Beginner's FAQ](https://en.opensuse.org/openSUSE:OpenSUSE_for_beginners)
-- [How to install Opensuse](https://en.opensuse.org/Portal:Installation)
+- [How to install openSUSE](https://en.opensuse.org/Portal:Installation)
 - [Review](https://www.linux.com/news/opensuse-leap-421-review-most-mature-linux-distribution)
 
 ### Ubuntu
@@ -560,9 +561,9 @@ Two Chinese version of this list are available [here](https://github.com/alim0x/
 * [Ubuntu Forum](https://ubuntuforums.org/)
 * [Ask Ubuntu](askubuntu.com/)
 
-### Opensuse
+### openSUSE
 
-* [Opensuse Forum](https://forums.opensuse.org/forum.php)
+* [openSUSE Forum](https://forums.opensuse.org/forum.php)
 
 
 
@@ -670,7 +671,7 @@ Two Chinese version of this list are available [here](https://github.com/alim0x/
 ## Guideline to contribute
 
 > Simply put the name of the **application** in the list.
-> Link to its **homepage** or a **guide** on how to install it.  
+> Link to its **homepage** or a **guide** on how to install it.
 > Also write a **short description** for the application + add **icon**.
 > Make sure it is put under the **appropriate topic**.
 > If the application doesn't fit in any **existing topic**, make a **new one** for it.
