@@ -51,12 +51,14 @@
 
 - [设置](#设置)
     - [ArchLinux](#arch-linux)
+    - [CentOS](#centos)
     - [openSUSE](#opensuse)
     - [Ubuntu](#ubuntu)
 - [论坛](#论坛)
-    - [ArchLinux](arch-linux-1)
-    - [Ubuntu](#ubuntu-1)
-    - [openSUSE](#opensuse-1)
+    - [ArchLinux Forums](#arch-linux-forums)
+    - [CentOS Forums](#centos-forums)
+    - [Ubuntu Forums](#ubuntu-forums)
+    - [openSUSE Forums](#opensuse-forums)
     - [IRC 频道](#irc-channels)
     - [Linux 新闻，应用，以及更多...](#linux-news-apps-and-more-)
     - [Reddit](#reddit)
@@ -86,6 +88,7 @@
 - [Let's make music](https://lmms.io/download/#linux) - 在你的 PC 上制作音乐，创造旋律和节拍，合成，混音，编曲小样以及更多内容。 ![Freeware][Freeware Icon]
 - [Lollypop](http://gnumdk.github.io/lollypop-web) - Lollypop 是一款新的 GNOME 音乐播放应用。 [![Open-Source Software][OSS Icon]](https://github.com/gnumdk/lollypop) ![Freeware][Freeware Icon]
 - [Mixxx](http://www.mixxx.org/download/) - 免费的 DJ 软件，给你一切现场混音所需要的，名副其实的 Traktor 替代品。 [![Open-Source Software][OSS Icon]](https://github.com/mixxxdj/mixxx) ![Freeware][Freeware Icon]
+- [Netease Music](http://music.163.com/#/download) - Netease 音乐播放器 ![Freeware][Freeware Icon]
 - [OSD Lyrics](https://aur.archlinux.org/packages/osdlyrics-git/) - 与你最爱的媒体播放器显示歌词。 [![Open-Source Software][OSS Icon]](https://github.com/PedroHLC/osdlyrics) ![Freeware][Freeware Icon]
 - [Rhythmbox](https://wiki.gnome.org/Apps/Rhythmbox) - 来自 GNOME 的音乐播放器。[![Open-Source Software][OSS Icon]](https://github.com/GNOME/rhythmbox) ![Freeware][Freeware Icon]
 - [SoundJuicer](http://www.howtogeek.com/howto/20126/rip-audio-cds-with-sound-juicer/) - CD 抓取工具，for GNOME ![Freeware][Freeware Icon]
@@ -522,6 +525,15 @@
 - [通用推荐](https://wiki.archlinux.org/index.php/General_recommendations)
 - [应用列表](https://wiki.archlinux.org/index.php/List_of_applications)
 
+### CentOS
+ 
+ - [Official website](https://www.centos.org)
+ - [About](https://wiki.centos.org/About)
+ - [Downloads](https://wiki.centos.org/Download)
+ - [Manuals](https://www.centos.org/docs/)
+ - [Tips and Tricks](https://wiki.centos.org/TipsAndTricks)
+ - [FAQ](https://www.centos.org/forums/faq.php?sid=4e6d260284c7936505dcf75564717272)
+ 
 ### openSUSE
 
 - [什么是 openSUSE](https://www.techopedia.com/definition/28543/opensuse)
@@ -543,17 +555,21 @@
 
 ## 论坛
 
-### Arch Linux
+### Arch Linux Forums
 
 * [Arch Linux 论坛](https://bbs.archlinux.org/)
 * [Arch Linux ARM 论坛](https://archlinuxarm.org/forum/viewforum.php?f=31)
+ 
+### CentOS Forums
+ 
+ * [CentOS Forum](https://www.centos.org/forums/)
 
-### Ubuntu
+### Ubuntu Forums
 
 * [Ubuntu 论坛](https://ubuntuforums.org/)
 * [Ask Ubuntu](askubuntu.com/)
 
-### openSUSE
+### openSUSE Forums
 
 * [openSUSE 论坛](https://forums.opensuse.org/forum.php)
 
@@ -582,10 +598,11 @@
 
 ### Reddit
 
-* [Ubuntu](https://www.reddit.com/r/Ubuntu/)
 * [Arch Linux](https://www.reddit.com/r/archlinux/)
+* [CentOS](https://www.reddit.com/r/CentOS/)
 * [Linux](https://www.reddit.com/r/linux/)
 * [Open Source](https://www.reddit.com/r/opensource/)
+* [Ubuntu](https://www.reddit.com/r/Ubuntu/)
 * [Unix Porn](https://www.reddit.com/r/unixporn/)
 * [Linux Kernel](https://www.reddit.com/r/kernel/)
 * [Linux Gaming](https://www.reddit.com/r/linux_gaming/)
@@ -651,7 +668,7 @@
  36. *在 @ reddit.com/r/linux & reddit.com/r/ubuntu & vozforums.com 上每个提出建议和赞赏的人*
  ...
 
- (*以上列表更新于 15th August 2016*)
+ (*以上列表更新于 26th August 2016*)
 
 **[⬆ 返回顶部](#目录)**
 
