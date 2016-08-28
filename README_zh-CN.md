@@ -285,6 +285,7 @@
 - [Pinta](https://pinta-project.com/pintaproject/pinta/) - Pinta 是一款免费，开源的绘画及图片编辑程序。![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://pinta-project.com/pintaproject/pinta/contribute)
 - [Pitivi](http://www.pitivi.org/) - 一款带有漂亮直观的用户界面的免费视频编辑器，有干净的代码库和出色的社区。![Freeware][Freeware Icon]
 - [Radiance](http://www.radiance-online.org/) - Radiance - 一款经过验证的光照模拟工具![Freeware][Freeware Icon]
+- [Ramme](https://github.com/terkelg/ramme) - Unofficial Instagram Desktop App.![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/terkelg/ramme)
 - [RawTherapee](http://rawtherapee.com/) - 一款漂亮的但不那么著名的照片编辑应用。![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/Beep6581/RawTherapee)
 - [Shotwell](https://wiki.gnome.org/Apps/Shotwell) - Shotwell 是 GNOME 3 的图片管理器。![Freeware][Freeware Icon]
 - [StopMotion](http://linuxstopmotion.org/) - Linux Stopmotion 是一款免费，开源的定格动画创作应用。它可以帮你捕捉和编辑你动画的帧，并导出为一个单独的文件。![Freeware][Freeware Icon]

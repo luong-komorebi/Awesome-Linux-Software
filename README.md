@@ -290,6 +290,7 @@ Two Chinese version of this list are available [here](https://github.com/alim0x/
 - [Pinta](https://pinta-project.com/pintaproject/pinta/) - Pinta is a free, open source program for drawing and image editing.![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://pinta-project.com/pintaproject/pinta/contribute)
 - [Pitivi](http://www.pitivi.org/) - A free video editor with a beautiful and intuitive user interface, a clean codebase and a fantastic community.![Freeware][Freeware Icon]
 - [Radiance](http://www.radiance-online.org/) - Radiance - A Validated Lighting Simulation Tool![Freeware][Freeware Icon]
+- [Ramme](https://github.com/terkelg/ramme) - Unofficial Instagram Desktop App.![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/terkelg/ramme)
 - [RawTherapee](http://rawtherapee.com/) - A good looking but lesser known photo editing app.![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/Beep6581/RawTherapee)
 - [Shotwell](https://wiki.gnome.org/Apps/Shotwell) - Shotwell is a photo manager for GNOME 3.![Freeware][Freeware Icon]
 - [StopMotion](http://linuxstopmotion.org/) - Linux Stopmotion is a Free Open Source application to create stop-motion animations. It helps you capture and edit the frames of your animation and export them as a single file.![Freeware][Freeware Icon]
