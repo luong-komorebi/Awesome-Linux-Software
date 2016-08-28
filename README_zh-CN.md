@@ -408,6 +408,7 @@
 - [Enpass](https://www.enpass.io/) - Enpass 安全地管理你的密码和重要信息，让你的生活更轻松。![Freeware][Freeware Icon]
 - [GD map](http://gdmap.sourceforge.net/) - 可视化磁盘使用量的工具。 ![Freeware][Freeware Icon]
 - [Gloobus-Preview](https://github.com/antonio-malcolm/gloobus-preview) - 它能给你提供文件的快速预览，类似 [Sushi](https://github.com/GNOME/sushi)。 [![Open-Source Software][OSS Icon]](https://github.com/antonio-malcolm/gloobus-preview) ![Freeware][Freeware Icon]
+- [GnomePie](http://simmesimme.github.io/news/2016/08/24/gnome-pie-069) - the circular app launcher for Linux desktops.[![Open-Source Software][OSS Icon]](http://simmesimme.github.io/news/2016/08/24/gnome-pie-069) ![Freeware][Freeware Icon]
 - [Gnormalize](http://gnormalize.sourceforge.net/) - 音频转换工具。 ![Freeware][Freeware Icon]
 - [GParted](http://gparted.org/) - Ubuntu/Linux 磁盘分区工具。 ![Freeware][Freeware Icon]
 - [GRadio](https://github.com/haecker-felix/gradio/releases/) - Ubuntu linux 无线电广播软件。[![Open-Source Software][OSS Icon]](https://github.com/haecker-felix/gradio/releases/) ![Freeware][Freeware Icon]
@@ -455,6 +456,7 @@
 - [Fishfry](https://github.com/LubuntuFu/fishfry) - 将 fish 的历史记录替换成为渗透测试人员量身定制的高效版本以及方便新手学习。[![Open-Source Software][OSS Icon]](https://github.com/LubuntuFu/fishfry)![Freeware][Freeware Icon]
 - [htop](http://hisham.hm/htop/) - 带有改进的特性和用户体验的 top。[![Open-Source Software][OSS Icon]](https://github.com/hishamhm/htop)![Freeware][Freeware Icon]
 - [Pacman4console](https://launchpad.net/ubuntu/+source/pacman4console) - 在控制台玩吃豆人。[![Open-Source Software][OSS Icon]](https://github.com/alexdantas/pacman4console.debian)![Freeware][Freeware Icon]
+- [TheFuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.[![Open-Source Software][OSS Icon]](https://github.com/nvbn/thefuck)![Freeware][Freeware Icon]
 - [Tmux](https://tmux.github.io/) - 它让你在一个终端中在多个程序间方便地切换，分离他们（保持在后台运行）并另一个终端中重新连接上去。以及还有好多事情可以做。[![Open-Source Software][OSS Icon]](https://github.com/tmux/tmux)![Freeware][Freeware Icon]
 - [wicd-curses](https://wiki.archlinux.org/index.php/wicd#Running_Wicd_in_Text_Mode) - 命令行 WiFi 连接管理器。
 - [十佳命令行工具](http://lifehacker.com/399468/top-10-command-line-tools)
