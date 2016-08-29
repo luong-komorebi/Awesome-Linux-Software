@@ -304,7 +304,7 @@
 - [Tor](https://www.torproject.org/) - Tor 是免费软件和一个开放网络，帮助你对抗流量分析（一种网络检测的方式，威胁个人自由与隐私）。 ![Freeware][Freeware Icon]
 - [Vivaldi](https://vivaldi.com/?lang=en) - 一款新兴的浏览器，有着许多的个性化配置。![Freeware][Freeware Icon]
 - [Yandex](https://browser.yandex.com/desktop/main/) - 快速方便的浏览器。![Freeware][Freeware Icon]
-- [youtube-dl](https://github.com/rg3/youtube-dl) - It can download videos from youtube.com or other video platforms. It's really awesome, at least for me. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/rg3/youtube-dl).
+- [youtube-dl](https://github.com/rg3/youtube-dl) -  YouTube 视频下载神器，是一个 Python 编写的命令行视频下载器，同时支持其它一些视频网站或平台。注意：国内用户若要下载 YouTube 视频，需要给它添加 --proxy 参数，指定代理下载。 ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/rg3/youtube-dl).
 
 ### 办公
 - Gummi [gtk2](https://github.com/alexandervdm/gummi)|[gtk3](https://github.com/aitjcize/Gummi) - 带有模板，拼写检查以及向导的简单 latex 编辑器。![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/alexandervdm/gummi)
