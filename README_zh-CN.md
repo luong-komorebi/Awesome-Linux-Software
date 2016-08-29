@@ -239,6 +239,7 @@
 - [AngrySearch](https://github.com/DoTheEvo/ANGRYsearch) - Linux 文件搜索，结果输入即得。 [![Open-Source Software][OSS Icon]](https://github.com/DoTheEvo/ANGRYsearch) ![Freeware][Freeware Icon]
 - [Double Commander](http://doublecmd.sourceforge.net/) - Double Commander 是一款跨平台的开源双栏文件管理器。它受 Total Commander 启发并有自己的新想法。![Freeware][Freeware Icon]
 - [Marlin](https://launchpad.net/marlin) - 文件管理器界最性感的成员，Marlin 为速度，简单和易用精心设计。 ![Freeware][Freeware Icon]
+- [Midnight Commander](https://www.midnight-commander.org/) - A feature rich full-screen file manager that allows you to copy, move and delete files and whole directory trees. [![Open-Source Software][OSS Icon]](https://github.com/MidnightCommander) ![Freeware][Freeware Icon] 
 - [Nautilus](https://wiki.gnome.org/Apps/Nautilus) - Nautilus（Files）鹦鹉螺是为适配 Gnome 桌面设计和行为所设计的文件管理器，给用户一个简单的方式导航和管理文件。![Freeware][Freeware Icon]
 - [Nemo](http://askubuntu.com/questions/294421/how-do-i-install-nemo-file-manager) - Nemo 是一款 Cinnamon 桌面环境下的文件管理器。[![Open-Source Software][OSS Icon]](https://github.com/linuxmint/nemo) ![Freeware][Freeware Icon]
 - [QDirStat](https://github.com/shundhammer/qdirstat#ubuntu) - 基于 Qt 的文件夹统计——不用 KDE 的 KDirStat，来自原 KDirStat 开发者的作品。[![Open-Source Software][OSS Icon]](https://github.com/shundhammer/qdirstat) ![Freeware][Freeware Icon]
