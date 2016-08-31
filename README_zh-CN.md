@@ -239,7 +239,7 @@
 - [AngrySearch](https://github.com/DoTheEvo/ANGRYsearch) - Linux 文件搜索，结果输入即得。 [![Open-Source Software][OSS Icon]](https://github.com/DoTheEvo/ANGRYsearch) ![Freeware][Freeware Icon]
 - [Double Commander](http://doublecmd.sourceforge.net/) - Double Commander 是一款跨平台的开源双栏文件管理器。它受 Total Commander 启发并有自己的新想法。![Freeware][Freeware Icon]
 - [Marlin](https://launchpad.net/marlin) - 文件管理器界最性感的成员，Marlin 为速度，简单和易用精心设计。 ![Freeware][Freeware Icon]
-- [Midnight Commander](https://www.midnight-commander.org/) - A feature rich full-screen file manager that allows you to copy, move and delete files and whole directory trees. [![Open-Source Software][OSS Icon]](https://github.com/MidnightCommander) ![Freeware][Freeware Icon]
+- [Midnight Commander](https://www.midnight-commander.org/) - 一个功能丰富的全屏文件管理器，你可以复制，移动和删除文件以及整个文件夹树。 [![Open-Source Software][OSS Icon]](https://github.com/MidnightCommander) ![Freeware][Freeware Icon]
 - [Nautilus](https://wiki.gnome.org/Apps/Nautilus) - Nautilus（Files）鹦鹉螺是为适配 Gnome 桌面设计和行为所设计的文件管理器，给用户一个简单的方式导航和管理文件。![Freeware][Freeware Icon]
 - [Nemo](http://askubuntu.com/questions/294421/how-do-i-install-nemo-file-manager) - Nemo 是一款 Cinnamon 桌面环境下的文件管理器。[![Open-Source Software][OSS Icon]](https://github.com/linuxmint/nemo) ![Freeware][Freeware Icon]
 - [QDirStat](https://github.com/shundhammer/qdirstat#ubuntu) - 基于 Qt 的文件夹统计——不用 KDE 的 KDirStat，来自原 KDirStat 开发者的作品。[![Open-Source Software][OSS Icon]](https://github.com/shundhammer/qdirstat) ![Freeware][Freeware Icon]
@@ -287,7 +287,7 @@
 - [Pinta](https://pinta-project.com/pintaproject/pinta/) - Pinta 是一款免费，开源的绘画及图片编辑程序。![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://pinta-project.com/pintaproject/pinta/contribute)
 - [Pitivi](http://www.pitivi.org/) - 一款带有漂亮直观的用户界面的免费视频编辑器，有干净的代码库和出色的社区。![Freeware][Freeware Icon]
 - [Radiance](http://www.radiance-online.org/) - Radiance - 一款经过验证的光照模拟工具![Freeware][Freeware Icon]
-- [Ramme](https://github.com/terkelg/ramme) - Unofficial Instagram Desktop App.![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/terkelg/ramme)
+- [Ramme](https://github.com/terkelg/ramme) - 非官方 Instagram 桌面应用。 ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/terkelg/ramme)
 - [RawTherapee](http://rawtherapee.com/) - 一款漂亮的但不那么著名的照片编辑应用。![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/Beep6581/RawTherapee)
 - [Shotwell](https://wiki.gnome.org/Apps/Shotwell) - Shotwell 是 GNOME 3 的图片管理器。![Freeware][Freeware Icon]
 - [StopMotion](http://linuxstopmotion.org/) - Linux Stopmotion 是一款免费，开源的定格动画创作应用。它可以帮你捕捉和编辑你动画的帧，并导出为一个单独的文件。![Freeware][Freeware Icon]
@@ -412,7 +412,7 @@
 - [Enpass](https://www.enpass.io/) - Enpass 安全地管理你的密码和重要信息，让你的生活更轻松。![Freeware][Freeware Icon]
 - [GD map](http://gdmap.sourceforge.net/) - 可视化磁盘使用量的工具。 ![Freeware][Freeware Icon]
 - [Gloobus-Preview](https://github.com/antonio-malcolm/gloobus-preview) - 它能给你提供文件的快速预览，类似 [Sushi](https://github.com/GNOME/sushi)。 [![Open-Source Software][OSS Icon]](https://github.com/antonio-malcolm/gloobus-preview) ![Freeware][Freeware Icon]
-- [GnomePie](http://simmesimme.github.io/news/2016/08/24/gnome-pie-069) - the circular app launcher for Linux desktops.[![Open-Source Software][OSS Icon]](http://simmesimme.github.io/news/2016/08/24/gnome-pie-069) ![Freeware][Freeware Icon]
+- [GnomePie](http://simmesimme.github.io/news/2016/08/24/gnome-pie-069) - Linux 桌面的一个圆形启动器。[![Open-Source Software][OSS Icon]](http://simmesimme.github.io/news/2016/08/24/gnome-pie-069) ![Freeware][Freeware Icon]
 - [Gnormalize](http://gnormalize.sourceforge.net/) - 音频转换工具。 ![Freeware][Freeware Icon]
 - [GParted](http://gparted.org/) - Ubuntu/Linux 磁盘分区工具。 ![Freeware][Freeware Icon]
 - [GRadio](https://github.com/haecker-felix/gradio/releases/) - Ubuntu linux 无线电广播软件。[![Open-Source Software][OSS Icon]](https://github.com/haecker-felix/gradio/releases/) ![Freeware][Freeware Icon]
@@ -460,7 +460,7 @@
 - [Fishfry](https://github.com/LubuntuFu/fishfry) - 将 fish 的历史记录替换成为渗透测试人员量身定制的高效版本以及方便新手学习。[![Open-Source Software][OSS Icon]](https://github.com/LubuntuFu/fishfry)![Freeware][Freeware Icon]
 - [htop](http://hisham.hm/htop/) - 带有改进的特性和用户体验的 top。[![Open-Source Software][OSS Icon]](https://github.com/hishamhm/htop)![Freeware][Freeware Icon]
 - [Pacman4console](https://launchpad.net/ubuntu/+source/pacman4console) - 在控制台玩吃豆人。[![Open-Source Software][OSS Icon]](https://github.com/alexdantas/pacman4console.debian)![Freeware][Freeware Icon]
-- [TheFuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.[![Open-Source Software][OSS Icon]](https://github.com/nvbn/thefuck)![Freeware][Freeware Icon]
+- [TheFuck](https://github.com/nvbn/thefuck) - 杰出的应用，它能纠正你的输入的错误命令。 [![Open-Source Software][OSS Icon]](https://github.com/nvbn/thefuck)![Freeware][Freeware Icon]
 - [Tmux](https://tmux.github.io/) - 它让你在一个终端中在多个程序间方便地切换，分离他们（保持在后台运行）并另一个终端中重新连接上去。以及还有好多事情可以做。[![Open-Source Software][OSS Icon]](https://github.com/tmux/tmux)![Freeware][Freeware Icon]
 - [wicd-curses](https://wiki.archlinux.org/index.php/wicd#Running_Wicd_in_Text_Mode) - 命令行 WiFi 连接管理器。
 - [十佳命令行工具](http://lifehacker.com/399468/top-10-command-line-tools)
