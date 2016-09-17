@@ -87,6 +87,7 @@ Two Chinese version of this list are available [here](https://github.com/alim0x/
 - [Audio Recorder](https://launchpad.net/~audio-recorder/+archive/ubuntu/ppa) - Simple audio recorder available on ubuntu ppa. ![Freeware][Freeware Icon]
 - [Clementine](https://www.clementine-player.org/) - Play numerous lossy and lossless audio formats. [![Open-Source Software][OSS Icon]](https://github.com/clementine-player/Clementine) ![Freeware][Freeware Icon]
 - [Google Play Music](https://www.googleplaymusicdesktopplayer.com/) - Unofficial but beautiful cross platform Desktop Player for Google Play Music.[![Open-Source Software][OSS Icon]](https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-) ![Freeware][Freeware Icon]
+- [Harmony](http://getharmony.xyz) - Music player with sleek interface & cloud compatibility. [![Open-Source Software][OSS Icon]](https://github.com/vincelwt/harmony) ![Freeware][Freeware Icon]
 - [Hydrogen](http://www.hydrogen-music.org/hcms/node/21) - Advanced drum machine for GNU/Linux. ![Freeware][Freeware Icon]
 - [K3b](http://www.k3b.org/) - K3b - The CD/DVD Kreator for Linux - optimized for KDE.[![Open-Source Software][OSS Icon]](https://github.com/KDE/k3b)![Freeware][Freeware Icon]
 - [Kid3Qt](https://apps.ubuntu.com/cat/applications/precise/kid3-qt/) - Edit tags of multiple files, e.g. the artist, album, year and genre of all mp3 files of an album.![Freeware][Freeware Icon]
@@ -94,9 +95,11 @@ Two Chinese version of this list are available [here](https://github.com/alim0x/
 - [Let's make music](https://lmms.io/download/#linux) - Making music on your PC by creating melodies and beats, synthesizing and mixing sounds, arranging samples and much more. ![Freeware][Freeware Icon]
 - [Lollypop](http://gnumdk.github.io/lollypop-web) - Lollypop is a new GNOME music playing application. [![Open-Source Software][OSS Icon]](https://github.com/gnumdk/lollypop) ![Freeware][Freeware Icon]
 - [Mixxx](http://www.mixxx.org/download/) - Free DJ software that gives you everything you need to perform live mixes, veritable alternative to Traktor. [![Open-Source Software][OSS Icon]](https://github.com/mixxxdj/mixxx) ![Freeware][Freeware Icon]
+- [Museek](http://museeks.io/) - A simple, clean and cross-platform music player. [![Open-Source Software][OSS Icon]](https://github.com/KeitIG/museeks) ![Freeware][Freeware Icon]
 - [Netease Music](http://music.163.com/#/download) -  A music player of Netease ![Freeware][Freeware Icon]
 - [OSD Lyrics](https://aur.archlinux.org/packages/osdlyrics-git/) - Show lyrics with your favorite media player. [![Open-Source Software][OSS Icon]](https://github.com/PedroHLC/osdlyrics) ![Freeware][Freeware Icon]
 - [Rhythmbox](https://wiki.gnome.org/Apps/Rhythmbox) - Music player from GNOME. [![Open-Source Software][OSS Icon]](https://github.com/GNOME/rhythmbox) ![Freeware][Freeware Icon]
+- [Sayonara Player](https://sayonara-player.com/downloads.php) - Sayonara is a small, clear and fast audio player for Linux written in C++, supported by the Qt framework.[![Open-Source Software][OSS Icon]](https://sayonara-player.com/downloads.php#Source) ![Freeware][Freeware Icon]
 - [SoundJuicer](http://www.howtogeek.com/howto/20126/rip-audio-cds-with-sound-juicer/) - CD Ripping tool for GNOME ![Freeware][Freeware Icon]
 - [Spotio](https://github.com/devinhalladay/spotio) - a Rdio-inspired light theme for the Spotify desktop app. [![Open-Source Software][OSS Icon]](https://github.com/devinhalladay/spotio) ![Freeware][Freeware Icon] 
 - [Tomahawk](https://www.tomahawk-player.org/) -A new kind of music player that invites all your streams, downloads, cloud music storage, playlists, radio stations and more. [![Open-Source Software][OSS Icon]](https://github.com/tomahawk-player/tomahawk)![Freeware][Freeware Icon]
@@ -105,6 +108,7 @@ Two Chinese version of this list are available [here](https://github.com/alim0x/
 - [Chatty](http://chatty.github.io/) - Chatty is a Twitch chat client for everyone who wants to try something new and different from the webchat, but doesn't want the complexity of an IRC client or miss out on the Twitch specific features.[![Open-Source Software][OSS Icon]](https://github.com/chatty/chatty) ![Freeware][Freeware Icon]
 - [Franz](http://meetfranz.com/) - Franz is a free messaging app that combines many chat & messaging services into one application.![Freeware][Freeware Icon]
 - [GhettoSkype](https://github.com/stanfieldr/ghetto-skype) - open source web wrapper for Skype. [![Open-Source Software][OSS Icon]](https://github.com/stanfieldr/ghetto-skype) ![Freeware][Freeware Icon]
+- [Gitter](https://gitter.im/) - Gitter — Where developers come to talk. Gitter is designed to make community messaging, collaboration and discovery as smooth and simple as possible. [![Open-Source Software][OSS Icon]](https://github.com/gitterHQ/services) ![Freeware][Freeware Icon]
 - [HexChat](https://hexchat.github.io/) - HexChat is an IRC client based on XChat, but unlike XChat it’s completely free for both Windows and Unix-like system.[![Open-Source Software][OSS Icon]](https://github.com/hexchat) ![Freeware][Freeware Icon]
 - [Jitsi](https://jitsi.org/) - Jitsi is a free and open source multiplatform voice, videoconferencing and instant messaging application for Windows, Linux, Mac OS X and Android. [![Open-Source Software][OSS Icon]](https://github.com/jitsi) ![Freeware][Freeware Icon]
 - [Messenger for Desktop](https://messengerfordesktop.com/#download) - An app for Facebook messenger. [![Open-Source Software][OSS Icon]](https://github.com/Aluxian/Facebook-Messenger-Desktop) ![Freeware][Freeware Icon]
@@ -156,6 +160,7 @@ Two Chinese version of this list are available [here](https://github.com/alim0x/
 - [Geany](https://www.geany.org/) - Geany is a text editor using the GTK+ toolkit with basic features of an integrated development environment. It was developed to provide a small and fast IDE, which has only a few dependencies from other packages. [![Open-Source Software][OSS Icon]](https://www.geany.org/Download/Git)![Freeware][Freeware Icon]
 - [Genymotion](https://www.genymotion.com/features/) - Genymotion is a fast third-party emulator that can be used instead of the default Android emulator.![Freeware][Freeware Icon]
 - [Git](https://git-scm.com/) - Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.![Freeware][Freeware Icon]
+- [Insomnia](https://insomnia.rest/) - A simple, beautiful, and free REST API client. ![Freeware][Freeware Icon]
 - [IntelliJ IDEA](https://www.jetbrains.com/idea/) - Powerful IDE for JAVA ![Freeware][Freeware Icon]
 - [Ipython](https://ipython.org/) - Powerful python shell. [![Open-Source Software][OSS Icon]](https://github.com/ipython/ipython)![Freeware][Freeware Icon]
 - [Jupyter Notebook](https://jupyter.org/) - Open source, interactive data science and scientific computing across over 40 programming languages. [![Open-Source Software][OSS Icon]](https://jupyter.readthedocs.io/en/latest/install.html)![Freeware][Freeware Icon]
@@ -167,6 +172,7 @@ Two Chinese version of this list are available [here](https://github.com/alim0x/
 - [Netbeans](https://netbeans.org/downloads/) - NetBeans IDE lets you quickly and easily develop Java desktop, mobile, and web applications, as well as HTML5 applications with HTML, JavaScript, and CSS. ![Freeware][Freeware Icon]
 - [NodeJS](https://nodejs.org/en/) - Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine. ![Freeware][Freeware Icon]
 - [Oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - A delightful community-driven framework for managing your zsh configuration. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]]( https://github.com/robbyrussell/oh-my-zsh)
+- [Pick](http://kryogenix.org/code/pick/) - Simple color picker. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]]( https://github.com/stuartlangridge/ColourPicker)
 - [Postgresql](https://www.postgresql.org/download/) - PostgreSQL is a powerful, open source object-relational database system. ![Freeware][Freeware Icon]
 - [Postman](https://www.getpostman.com) - Postman, help us test API quickly.![Freeware][Freeware Icon]
 - [PyCharm](https://www.jetbrains.com/pycharm/) - Powerful IDE for Python ![Freeware][Freeware Icon]
@@ -176,7 +182,9 @@ Two Chinese version of this list are available [here](https://github.com/alim0x/
 - [Sqlite Browser](http://sqlitebrowser.org/) - Visually create, manage, and view sqlite database files. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/sqlitebrowser/sqlitebrowser)
 - [Swift](https://swift.org/download/) - Swift is a general-purpose programming language built using a modern approach to safety, performance, and software design patterns. ![Freeware][Freeware Icon]
 - [Ubuntu-SDK](https://developer.ubuntu.com/en/phone/platform/sdk/installing-the-sdk/) - The official Ubuntu SDK. ![Freeware][Freeware Icon]
+- [Zeal](https://zealdocs.org/) - Zeal is an offline documentation browser for software developers. [![Open-Source Software][OSS Icon]](https://github.com/zealdocs/zeal)![Freeware][Freeware Icon]
 - [Zsh](http://www.zsh.org/) -  A powerful command line shell. [![Open-Source Software][OSS Icon]](http://sourceforge.net/p/zsh/code/ci/master/tree/)
+- [Wireshark](https://www.wireshark.org/) - Wireshark is the world's foremost network protocol analyzer. It lets you see what's happening on your network at a microscopic level. It is the de facto (and often de jure) standard across many industries and educational institutions.
 
 ### E-Book Utilities
 - [Calibre](http://calibre-ebook.com/) - Incredibly ugly but powerful software for ebook management and conversion. [![Open-Source Software][OSS Icon]](https://github.com/kovidgoyal/calibre) ![Freeware][Freeware Icon]
@@ -308,9 +316,11 @@ Two Chinese version of this list are available [here](https://github.com/alim0x/
 - [Chromium](http://askubuntu.com/questions/250773/how-do-i-install-chromium-from-the-command-line) - Chromium is an open-source browser project that aims to build a safer, faster, and more stable way for all users to experience the web.![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://www.chromium.org/)
 - [Corebird](http://corebird.baedert.org/) - corebird is native gtk+ twitter desktop client. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/baedert/corebird)
 - [Firefox](https://www.mozilla.org/en-US/firefox/new/) - A popular Web Browsers with a lot of plugins/apps.![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide)
+- [Kaku](https://github.com/EragonJ/Kaku/releases) - An opensource youtube music player for Ubuntu. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/EragonJ/Kaku)
 - [Midori](http://midori-browser.org/) - A lightweight free browser that runs well on low spec systems. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://launchpad.net/~midori/+archive/ubuntu/ppa).
 - [Opera](http://www.opera.com/) - Opera browser is everything you need to do more on the web. ![Freeware][Freeware Icon]
 - [Tor](https://www.torproject.org/) - Tor is free software and an open network that helps you defend against traffic analysis, a form of network surveillance that threatens personal freedom and privacy. ![Freeware][Freeware Icon]
+- [GnomeTwitch](http://gnome-twitch.vinszent.com/) - Enjoy Twitch on your GNU/Linux desktop with this Twitch non-Adobe-flash client. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/vinszent/gnome-twitch)
 - [Vivaldi](https://vivaldi.com/?lang=en) - A new and rising browser with a lot of customizations.![Freeware][Freeware Icon]
 - [Yandex](https://browser.yandex.com/desktop/main/) - Fast and convenient browser.![Freeware][Freeware Icon]
 - [youtube-dl](https://github.com/rg3/youtube-dl) - It can download videos from youtube.com or other video platforms. It's really awesome, at least for me. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/rg3/youtube-dl).
@@ -416,6 +426,7 @@ Two Chinese version of this list are available [here](https://github.com/alim0x/
 - [Caffeine](https://launchpad.net/caffeine) - Prevents ubuntu from automatically going to sleep.![Freeware][Freeware Icon]
 - [Clonezilla](http://clonezilla.org/) - Clonezilla is a partition and disk imaging/cloning program similar to True Image® or Norton Ghost®.![Freeware][Freeware Icon][![Open-Source Software][OSS Icon]](http://clonezilla.org/related-links/)
 - [Convertall](https://sourceforge.net/projects/convertall/) - Convert all units.![Freeware][Freeware Icon]
+- [CPU-G](http://www.omgubuntu.co.uk/2016/09/monitor-battery-life-ubuntu-cpu-g) - Easy monitoring the battery life of your Ubuntu laptop. ![Freeware][Freeware Icon][![Open-Source Software][OSS Icon]](https://launchpad.net/cpug)
 - [EasyStroke](https://github.com/thjaeger/easystroke/wiki#download) - Easystroke is a gesture-recognition application for X11.[![Open-Source Software][OSS Icon]](https://github.com/thjaeger/easystroke) ![Freeware][Freeware Icon]
 - [Enpass](https://www.enpass.io/) - Enpass makes your life easy by securely managing your passwords and important information.![Freeware][Freeware Icon]
 - [GD map](http://gdmap.sourceforge.net/) - A tool to visualize disk usage. ![Freeware][Freeware Icon]
@@ -432,6 +443,7 @@ Two Chinese version of this list are available [here](https://github.com/alim0x/
 - [LastPass](https://lastpass.com/misc_download2.php) - Cross platform password <manager class="" Freeware="" Icon=""></manager>
 - [Peazip](http://www.peazip.org/) - Utility to unzip any zipped files ![Freeware][Freeware Icon]
 - [Peek](https://github.com/phw/peek/releases) - A simple tool that allows you to record short animated GIF images from your screen.[![Open-Source Software][OSS Icon]](https://github.com/phw/peek) ![Freeware][Freeware Icon]
+- [PlexyDesk](http://www.omgubuntu.co.uk/2016/09/plexydesk-widgets-linux-desktop-ppa) - Plexydesk supports multiple widget workspaces/desktops on Linux. 
 - [Powertop](https://01.org/powertop/downloads) - Diagnose issue with powerconsumption.![Freeware][Freeware Icon]
 - [Psensor](http://wpitchoune.net/psensor/) - Graphical hardware temperature monitor for Linux.[![Open-Source Software][OSS Icon]](http://git.wpitchoune.net/psensor.git/) ![Freeware][Freeware Icon]
 - [Pulse Audio](https://wiki.ubuntu.com/PulseAudio) - Improve Linux Audio with customized Profiles. ![Freeware][Freeware Icon]
@@ -440,6 +452,7 @@ Two Chinese version of this list are available [here](https://github.com/alim0x/
 - [Sushi](https://github.com/GNOME/sushi) - Sushi is a quick previewer for Nautilus, the GNOME desktop file manager. [![Open-Source Software][OSS Icon]](https://github.com/GNOME/sushi) ![Freeware][Freeware Icon]
 - [Synaptic](http://www.nongnu.org/synaptic/) - Synaptic is a graphical package management program for apt.![Freeware][Freeware Icon]
 - [Systemload](http://www.omgubuntu.co.uk/2014/06/system-monitor-indicator-ubuntu-ppa) - Show systemload in status bar.![Freeware][Freeware Icon]
+- [Trimage](https://trimage.org/) - A cross-platform tool for losslessly optimizing PNG and JPG files.[![Open-Source Software][OSS Icon]](https://github.com/Kilian/Trimage) ![Freeware][Freeware Icon]
 - [TLP](http://linrunner.de/en/tlp/docs/tlp-linux-advanced-power-management.html) - Optimize Linux battery.![Freeware][Freeware Icon]
 - [Variety](http://peterlevi.com/variety/) - Variety is an open-source wallpaper changer for Linux, packed with great features, yet slim and easy to use. [![Open-Source Software][OSS Icon]](https://github.com/peterlevi/variety-slideshow) ![Freeware][Freeware Icon]
 - [Virtualbox](https://www.virtualbox.org/wiki/Downloads) - VirtualBox is a general-purpose full virtualizer for x86 hardware, targeted at server, desktop and embedded use.[![Open-Source Software][OSS Icon]](https://www.virtualbox.org/wiki/Contributor_information) ![Freeware][Freeware Icon]
@@ -467,6 +480,7 @@ Two Chinese version of this list are available [here](https://github.com/alim0x/
 - [Bastet](https://github.com/fph/bastet) - Play Tetris in commandline.[![Open-Source Software][OSS Icon]](https://github.com/fph/bastet)![Freeware][Freeware Icon]
 - [Daily Reddit Wallpaper](https://github.com/ssimunic/Daily-Reddit-Wallpaper) - Change your wallpaper to the most upvoted image of the day from /r/wallpapers or any other subreddit on system startup. [![Open-Source Software][OSS Icon]](https://github.com/ssimunic/Daily-Reddit-Wallpaper)![Freeware][Freeware Icon]
 - [Fishfry](https://github.com/LubuntuFu/fishfry) - replaces fish history with a history tailored to pentesters for efficency and newbie pentesters for learning.[![Open-Source Software][OSS Icon]](https://github.com/LubuntuFu/fishfry)![Freeware][Freeware Icon]
+- [Googler](https://itsfoss.com/review-googler-linux/) - Google any stuff right in the command line.[![Open-Source Software][OSS Icon]](https://github.com/jarun/googler)![Freeware][Freeware Icon]
 - [htop](http://hisham.hm/htop/) - top with improved features and user experience [![Open-Source Software][OSS Icon]](https://github.com/hishamhm/htop)![Freeware][Freeware Icon]
 - [Pacman4console](https://launchpad.net/ubuntu/+source/pacman4console) - Play Pacman game in console.[![Open-Source Software][OSS Icon]](https://github.com/alexdantas/pacman4console.debian)![Freeware][Freeware Icon]
 - [TheFuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.[![Open-Source Software][OSS Icon]](https://github.com/nvbn/thefuck)![Freeware][Freeware Icon]
@@ -475,7 +489,7 @@ Two Chinese version of this list are available [here](https://github.com/alim0x/
 - [wicd-curses](https://wiki.archlinux.org/index.php/wicd#Running_Wicd_in_Text_Mode) - Command line WiFi connection manager.
 
 ## Desktop Environments
-- [Budgie](https://solus-project.com/budgie/) - Budgie is a desktop environment designed with the modern user in mind, it focuses on simplicity and elegance. [![Open-Source Software][OSS Icon]](https://github.com/solus-project/budgie-desktop) ![Freeware][Freeware Icon]
+- [Budgie](http://www.omgubuntu.co.uk/2016/09/install-budgie-desktop-on-ubuntu) - Budgie is a desktop environment designed with the modern user in mind, it focuses on simplicity and elegance. [![Open-Source Software][OSS Icon]](https://github.com/solus-project/budgie-desktop) ![Freeware][Freeware Icon]
 - [Cinammon](http://cinnamon.linuxmint.com/) - Cinnamon strives to provide a traditional user experience. Cinnamon is a fork of GNOME 3. [![Open-Source Software][OSS Icon]](https://github.com/linuxmint/Cinnamon) ![Freeware][Freeware Icon]
 - [GNOME Flashback](https://wiki.gnome.org/Projects/GnomeFlashback) - GNOME Flashback is a shell for GNOME 3 which was initially called GNOME fallback mode. The desktop layout and the underlying technology is similar to GNOME 2. [![Open-Source Software][OSS Icon]](https://github.com/GNOME/gnome-flashback) ![Freeware][Freeware Icon]
 - [Gnome](https://www.gnome.org/gnome-3/) - The GNOME desktop environment is an attractive and intuitive desktop with both a modern (GNOME) and a classic (GNOME Classic) session. [![Open-Source Software][OSS Icon]](https://github.com/GNOME/gnome-desktop) ![Freeware][Freeware Icon]
