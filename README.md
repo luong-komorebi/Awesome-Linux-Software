@@ -440,7 +440,8 @@ Two Chinese version of this list are available [here](https://github.com/alim0x/
 - [ImageMagik](http://www.imagemagick.org/script/index.php) - ImageMagick is a suite of command-line utilities for modifying and working with images. ![Freeware][Freeware Icon]
 - [Indicator-SysMonitor](https://github.com/fossfreedom/indicator-sysmonitor) - An Application Indicator showing cpu temperature, memory, network speed, cpu usage, public IP address and internet connection status. [![Open-Source Software][OSS Icon]](https://github.com/fossfreedom/indicator-sysmonitor) ![Freeware][Freeware Icon]
 - [KeePassX](https://www.keepassx.org/) - Cross platform password manager. Port of KeePass. [![Open-Source Software][OSS Icon]](https://github.com/keepassx/keepassx) ![Freeware][Freeware Icon]
-- [KeePass](https://www.keepass.info/) - Windows focused password manager, with some cross platform support through Mono. ![Freeware][Freeware Icon]
+- [KeePass](https://www.keepass.info/) - Windows focused password manager, with some cross platform support through Mono.  ![Freeware][Freeware Icon]
+- [KVM](http://www.linux-kvm.org/page/Main_Page) - KVM (for Kernel-based Virtual Machine) is a full virtualization solution for Linux on x86 hardware containing virtualization extensions (Intel VT or AMD-V). [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/kvm/files/) ![Freeware][Freeware Icon]
 - [LastPass](https://lastpass.com/misc_download2.php) - Cross platform password <manager class="" Freeware="" Icon=""></manager>
 - [Peazip](http://www.peazip.org/) - Utility to unzip any zipped files ![Freeware][Freeware Icon]
 - [Peek](https://github.com/phw/peek/releases) - A simple tool that allows you to record short animated GIF images from your screen.[![Open-Source Software][OSS Icon]](https://github.com/phw/peek) ![Freeware][Freeware Icon]
