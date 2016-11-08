@@ -161,11 +161,7 @@ Two Chinese version of this list are available [here](https://github.com/alim0x/
 - [Fritzing](http://fritzing.org/) - Fritzing is an open-source hardware initiative that makes electronics accessible as a creative material for anyone.[![Open-Source Software][OSS Icon]](https://github.com/fritzing/fritzing-app)![Freeware][Freeware Icon]
 - [Geany](https://www.geany.org/) - Geany is a text editor using the GTK+ toolkit with basic features of an integrated development environment. It was developed to provide a small and fast IDE, which has only a few dependencies from other packages. [![Open-Source Software][OSS Icon]](https://www.geany.org/Download/Git)![Freeware][Freeware Icon]
 - [Genymotion](https://www.genymotion.com/features/) - Genymotion is a fast third-party emulator that can be used instead of the default Android emulator.![Freeware][Freeware Icon]
-- [Giggle](https://wiki.gnome.org/action/show/Apps/giggle?action=show&redirect=giggle) - Giggle is a graphical frontend for the git content tracker. [![Open-Source Software][OSS Icon]](https://git.gnome.org//browse/giggle/)![Freeware][Freeware Icon]
 - [Git](https://git-scm.com/) - Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.![Freeware][Freeware Icon]
-- [GitCola](http://git-cola.github.io/) - Git Cola is a sleek and powerful graphical Git client. Written in Python and GPL licensed. ![Freeware][Freeware Icon]
-- [Gitg](https://wiki.gnome.org/Apps/Gitg) - gitg is the GNOME GUI client to view git repositories. [![Open-Source Software][OSS Icon]](https://wiki.gnome.org/Apps/Gitg#Development_Resources)![Freeware][Freeware Icon]
-- [GitKraken](https://www.gitkraken.com/) - The downright luxurious Git GUI client,for Windows, Mac & Linux. ![Freeware][Freeware Icon]	
 - [Insomnia](https://insomnia.rest/) - A simple, beautiful, and free REST API client. ![Freeware][Freeware Icon]
 - [IntelliJ IDEA](https://www.jetbrains.com/idea/) - Powerful IDE for JAVA ![Freeware][Freeware Icon]
 - [Ipython](https://ipython.org/) - Powerful python shell. [![Open-Source Software][OSS Icon]](https://github.com/ipython/ipython)![Freeware][Freeware Icon]
@@ -185,7 +181,6 @@ Two Chinese version of this list are available [here](https://github.com/alim0x/
 - [QT Creator](https://www.qt.io/ide/) - Fully-stocked cross-platform integrated development environment for easy creation of connected devices, UIs and applications.![Freeware][Freeware Icon]
 - [Rabbit VCS](http://rabbitvcs.org/) - RabbitVCS is a set of graphical tools written to provide simple and straightforward access to the version control systems you use. [![Open-Source Software][OSS Icon]](https://github.com/rabbitvcs/rabbitvcs) ![Freeware][Freeware Icon]
 - [Sloeber IDE](http://eclipse.baeyens.it/) - Sloeber IDE. The Arduino IDE for Eclipse. I love it very much. [![Open-Source Software][OSS Icon]](https://github.com/jantje/arduino-eclipse-plugin) ![Freeware][Freeware Icon]
-- [SmartGit](http://www.syntevo.com/smartgit/) - SmartGit is a Git client with support for GitHub Pull Requests+Comments and SVN.
 - [Sqlite Browser](http://sqlitebrowser.org/) - Visually create, manage, and view sqlite database files. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/sqlitebrowser/sqlitebrowser)
 - [StarUML](http://staruml.io/) - A sophisticated software modeler.![Freeware][Freeware Icon](http://staruml.io/)
 - [Swift](https://swift.org/download/) - Swift is a general-purpose programming language built using a modern approach to safety, performance, and software design patterns. ![Freeware][Freeware Icon]
@@ -463,7 +458,6 @@ Two Chinese version of this list are available [here](https://github.com/alim0x/
 - [Sushi](https://github.com/GNOME/sushi) - Sushi is a quick previewer for Nautilus, the GNOME desktop file manager. [![Open-Source Software][OSS Icon]](https://github.com/GNOME/sushi) ![Freeware][Freeware Icon]
 - [Synaptic](http://www.nongnu.org/synaptic/) - Synaptic is a graphical package management program for apt.![Freeware][Freeware Icon]
 - [Systemload](http://www.omgubuntu.co.uk/2014/06/system-monitor-indicator-ubuntu-ppa) - Show systemload in status bar.![Freeware][Freeware Icon]
-- [TightVNC](http://www.tightvnc.com/) - Free, Lightweight, Fast and Reliable Remote Control / Remote Desktop Software [![Open-Source Software][OSS Icon]] ![Freeware][Freeware Icon]
 - [Trimage](https://trimage.org/) - A cross-platform tool for losslessly optimizing PNG and JPG files.[![Open-Source Software][OSS Icon]](https://github.com/Kilian/Trimage) ![Freeware][Freeware Icon]
 - [TLP](http://linrunner.de/en/tlp/docs/tlp-linux-advanced-power-management.html) - Optimize Linux battery.![Freeware][Freeware Icon]
 - [Variety](http://peterlevi.com/variety/) - Variety is an open-source wallpaper changer for Linux, packed with great features, yet slim and easy to use. [![Open-Source Software][OSS Icon]](https://github.com/peterlevi/variety-slideshow) ![Freeware][Freeware Icon]
