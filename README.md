@@ -568,7 +568,7 @@ Two Chinese version of this list are available [here](https://github.com/alim0x/
 
 ### Arch Linux
 
-- [Beginners' guide](https://wiki.archlinux.org/index.php/Beginners%27_guide)
+- [Getting and installing Arch](https://wiki.archlinux.org/index.php/Category:Getting_and_installing_Arch)
 - [Installation guide](https://wiki.archlinux.org/index.php/Installation_guide)
 - [General recommendations](https://wiki.archlinux.org/index.php/General_recommendations)
 - [List of applications](https://wiki.archlinux.org/index.php/List_of_applications)
