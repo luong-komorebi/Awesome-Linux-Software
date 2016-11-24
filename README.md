@@ -123,7 +123,6 @@ Two Chinese version of this list are available [here](https://github.com/alim0x/
 - [Telegram](https://desktop.telegram.org/) - A messaging app with a focus on speed and security, it’s super fast, simple and free. [![Open-Source Software][OSS Icon]](https://github.com/telegramdesktop/tdesktop) ![Freeware][Freeware Icon]
 - [Viber](https://www.viber.com/en/products/linux) -Viber for Linux lets you send free messages and make free calls to other Viber users on any device and network, in any country ![Freeware][Freeware Icon]
 - [Weechat](https://weechat.org/) - WeeChat is a fast, light and extensible chat client .[![Open-Source Software][OSS Icon]](https://github.com/weechat) ![Freeware][Freeware Icon]
-- [Whatsie](https://github.com/Aluxian/Whatsie) - Whatsapp unofficial client for ubuntu/linux. [![Open-Source Software][OSS Icon]](https://github.com/Aluxian/Whatsie) ![Freeware][Freeware Icon]
 
 ### Data Backup and Recovery
 - [Borg Backup](https://borgbackup.readthedocs.io/en/stable/) - A nice tool to backup data.[![Open-Source Software][OSS Icon]](https://borgbackup.readthedocs.io/en/stable/development.html) ![Freeware][Freeware Icon]
