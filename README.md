@@ -11,6 +11,8 @@
 
 *Update: This repo has been published on [Gitbook](https://voluong.gitbooks.io/awesome-linux-software/content/). You can share this link to new users since they may find it friendlier to read than github. Download as a pdf [here](https://goo.gl/xhiKla).*
 
+**Acknowledgement:** *Everything written below is from my own experience in college and after reading various materials. I am neither a professional nor expert, but a student who has great passion. Anyone can open a discussion in the issue section, or a pull request in case something should be modified or added. If you consider my work valuable, a [donation](#donation) is much appreciated.* 
+
 Two Chinese version of this list are available [here](https://github.com/alim0x/Awesome-Linux-Software-zh_CN) and [here](https://github.com/ChrisLeeGit/awesome-linux-software-cn).
 
 ## Table of Contents
@@ -747,7 +749,11 @@ Two Chinese version of this list are available [here](https://github.com/alim0x/
 
 [![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
 
-This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). 
+ 
+<div id='donation'/>
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5ZG5Z47L2ZGYC)
+A beer in your country can buy a meal in mine.
 
 [chitchat]: https://github.com/stonesam92/ChitChat
 [OSS Icon]: https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg
