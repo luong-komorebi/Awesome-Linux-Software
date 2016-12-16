@@ -336,6 +336,7 @@
 - [Gpick](http://www.gpick.org/) - Gpick 让你可以从桌面任何地方取色，并且它还提供一些其它的高级特性！ [![Open-Source Software][OSS Icon]](https://github.com/thezbyg/gpick) ![Freeware][Freeware Icon]
 - [My Todo](https://github.com/mohamed-aziz/mytodo) - Mytodo 是一款开源的待办事项程序，让你能够掌控一切。[![Open-Source Software][OSS Icon]](https://github.com/mohamed-aziz/mytodo) ![Freeware][Freeware Icon]
 - [My Weather Indicator](http://ubuntuhandbook.org/index.php/2016/04/weather-indicator-desktop-widget-ubuntu-16-04/) - Ubuntu 下的天气指示器和插件。![Freeware][Freeware Icon]
+- [NixNote](https://sourceforge.net/projects/nevernote/) - EverNote 开源客户端。 [![Open-Source Software][OSS Icon]](https://sourceforge.net/p/nevernote/code/ci/master/tree/) ![Freeware][Freeware Icon]
 - [Notepadqq](http://notepadqq.altervista.org/wp/) - Notepadqq 是 Linux 下一款类 Notepad++ 的编辑器。[![Open-Source Software][OSS Icon]](https://github.com/notepadqq/notepadqq) ![Freeware][Freeware Icon]
 - [Notes](http://www.get-notes.com/) - 一款干净又简单的 Linux 笔记应用。[![Open-Source Software][OSS Icon]](https://github.com/nuttyartist/notes) ![Freeware][Freeware Icon]
 - [Papyrus](http://aseman.co/en/products/papyrus/) - Papyrus 是一款不一样的笔记管理器，它专注于安全和更佳的用户界面。Papyrus 尝试给用户提供一个易用和智能的用户界面。 [![Open-Source Software][OSS Icon]](https://github.com/Aseman-Land/Papyrus) ![Freeware][Freeware Icon]
