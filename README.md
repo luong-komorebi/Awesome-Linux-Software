@@ -377,6 +377,7 @@ Two Chinese version of this list are available [here](https://github.com/alim0x/
 - [Brightness](https://launchpad.net/indicator-brightness) - Brightness indicator for ubuntu. ![Freeware][Freeware Icon]
 - [Cairo-Dock](http://glx-dock.org/) - Cairo-Dock is a desktop interface that takes the shape of docks, desklets, panel, etc. [![Open-Source Software][OSS Icon]](https://github.com/Cairo-Dock) ![Freeware][Freeware Icon]
 - [California](https://wiki.gnome.org/Apps/California) - Complete Calendar app replacement which uses natural language for creating events.![Freeware][Freeware Icon]
+- [Cerebro](https://cerebroapp.com/) - Open-source productivity booster with a brain / MacOS-Spotlight alternative. [![Open-Source Software][OSS Icon]](https://github.com/KELiON/cerebro) ![Freeware][Freeware Icon]
 - [CopyQ](http://hluk.github.io/CopyQ/) -CopyQ is advanced clipboard manager with editing and scripting features. ![Freeware][Freeware Icon]
 - [Docky](www.go-docky.com/) -Docky is a full fledged dock application that makes opening common applications and managing windows easier and quicker. [![Open-Source Software][OSS Icon]](https://launchpad.net/docky/+download) ![Freeware][Freeware Icon]
 - [f.lux](https://justgetflux.com/linux.html) - Automatically adjust your computer screen to match lighting. ![Freeware][Freeware Icon]
@@ -404,6 +405,7 @@ Two Chinese version of this list are available [here](https://github.com/alim0x/
 - [Todoist](https://github.com/kamhix/todoist-linux) - Unofficial client of Todoist, the Cross-platform to-do manager with mobile apps, great UI and has some optional premium features.[![Open-Source Software][OSS Icon]](https://github.com/kamhix/todoist-linux) ![Freeware][Freeware Icon]
 - [Tomboy](https://wiki.gnome.org/Apps/Tomboy) - Tomboy is a desktop note-taking application which is simple and easy to use. [![Open-Source Software][OSS Icon]](https://wiki.gnome.org/Apps/Tomboy) ![Freeware][Freeware Icon]
 - [Undistract me](https://github.com/jml/undistract-me) - Notifies you when long-running terminal commands complete. [![Open-Source Software][OSS Icon]](https://github.com/jml/undistract-me) ![Freeware][Freeware Icon]
+- [Whatever](https://github.com/CellarD0-0r/whatever) - An unofficial Evernote desktop client for Linux.  [![Open-Source Software][OSS Icon]](https://github.com/CellarD0-0r/whatever) ![Freeware][Freeware Icon]
 - [WizNote](https://github.com/wizteam/wizqtclient) - A cross-platform cloud based note-taking client. [![Open-Source Software][OSS Icon]](https://github.com/wizteam/wizqtclient) ![Freeware][Freeware Icon]
 - [Xmind](http://www.xmind.net/) - Mind Mapping Tool.
 - [Zim](http://zim-wiki.org/) - A graphical text editor used to maintain a collection of wiki pages, great for notes and documents. Stored in plain text files for easy version control.[![Open-Source Software][OSS Icon]](https://launchpad.net/zim) ![Freeware][Freeware Icon]
@@ -502,6 +504,7 @@ Two Chinese version of this list are available [here](https://github.com/alim0x/
 - [Trimage](https://trimage.org/) - A cross-platform tool for losslessly optimizing PNG and JPG files.[![Open-Source Software][OSS Icon]](https://github.com/Kilian/Trimage) ![Freeware][Freeware Icon]
 - [TLP](http://linrunner.de/en/tlp/docs/tlp-linux-advanced-power-management.html) - Optimize Linux battery.![Freeware][Freeware Icon]
 - [UbuntuCleaner](https://github.com/gerardpuig/ubuntu-cleaner) - Ubuntu Cleaner is a tool that makes it easy to clean your ubuntu system.[![Open-Source Software][OSS Icon]](https://github.com/gerardpuig/ubuntu-cleaner) ![Freeware][Freeware Icon]
+- [ULauncher](http://ulauncher.io/) - Application launcher for Linux. [![Open-Source Software][OSS Icon]](https://github.com/Ulauncher/Ulauncher/) ![Freeware][Freeware Icon]
 - [Variety](http://peterlevi.com/variety/) - Variety is an open-source wallpaper changer for Linux, packed with great features, yet slim and easy to use. [![Open-Source Software][OSS Icon]](https://github.com/peterlevi/variety-slideshow) ![Freeware][Freeware Icon]
 - [Virtualbox](https://www.virtualbox.org/wiki/Downloads) - VirtualBox is a general-purpose full virtualizer for x86 hardware, targeted at server, desktop and embedded use.[![Open-Source Software][OSS Icon]](https://www.virtualbox.org/wiki/Contributor_information) ![Freeware][Freeware Icon]
 - [WallpaperChange](https://apps.ubuntu.com/cat/applications/raring/wallch/) - Automatically change your wallpaper.![Freeware][Freeware Icon]
