@@ -13,8 +13,7 @@
 
 **Acknowledgement:** *Everything written below is from my own experience in college and after reading various materials. I am neither a professional nor expert, but a student who has great passion. Anyone can open a discussion in the issue section, or a pull request in case something should be modified or added. If you consider my work valuable, a [donation](#donation) is much appreciated.*
 
-Two Chinese version of this list are available [here](https://github.com/alim0x/Awesome-Linux-Software-zh_CN) and [here](https://github.com/ChrisLeeGit/awesome-linux-software-cn).
-
+~~Two Chinese version of this list are available [here](https://github.com/alim0x/Awesome-Linux-Software-zh_CN) and [here](https://github.com/ChrisLeeGit/awesome-linux-software-cn).~~ *They are pretty outdated*
 ## Table of Contents
 
 - [Applications](#applications)
@@ -609,7 +608,7 @@ Two Chinese version of this list are available [here](https://github.com/alim0x/
 
 - [What is Linux](https://www.linux.com/what-is-linux)
 - [Basic Linux term](http://www.makeuseof.com/tag/linux-confusing-key-terms-definitions/)
-
+- [Choosing Distro that Suits You Best](http://i.imgur.com/TV21DgN.jpg)
 
 ### Arch Linux
 
