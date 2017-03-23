@@ -147,7 +147,7 @@
 - [Gnome Look](https://www.gnome-look.org/) - 大量社区创建的图标，shell 主题，字体，以及其他更多的可用来个性化你的 Gnome 桌面环境的资源，都在这一个站点。 [Freeware][Freeware Icon]
 - [Hardcode Tray](https://github.com/bil-elmoussaoui/Hardcode-Tray) - 这个脚本通过在 Linux 中自动探测你默认主题，正确的图标尺寸，硬编码内嵌图标应用，以及正确的状态图标来修正硬编码的托盘图标。 [![Open-Source Software][OSS Icon]](https://github.com/bil-elmoussaoui/Hardcode-Tray) ![Freeware][Freeware Icon]
 - [Irradiance Theme](https://github.com/bsundman/Irradiance) - 一款受 OSX Yosemite 启发的 Unity 主题，基于 Radiance。[![Open-Source Software][OSS Icon]](https://github.com/bsundman/Irradiance)![Freeware][Freeware Icon]
-- [La Capitaine Icon Theme](https://github.com/keeferrourke/la-capitaine-icon-theme) - 一款受 马车OS 和 Material 设计启发的图标主题，目标是适配大部分桌面环境。
+- [La Capitaine Icon Theme](https://github.com/keeferrourke/la-capitaine-icon-theme) - 一款受 macOS 和 Material 设计启发的图标主题，目标是适配大部分桌面环境。
 - [Numix Icon Theme](http://www.noobslab.com/2014/04/install-numix-icon-packs-in-ubuntulinux.html) - Ubuntu 最好的图标主题之一。[![Open-Source Software][OSS Icon]](https://github.com/numixproject/numix-icon-theme) ![Freeware][Freeware Icon]
 - [Numix Theme](https://itsfoss.com/install-numix-ubuntu/) - 一款很流行的主题。 [![Open-Source Software][OSS Icon]](https://github.com/numixproject/numix-gtk-theme) ![Freeware][Freeware Icon]
 - [Paper Icon Theme](https://snwh.org/paper/icons) - Paper 是一款现代 freedesktop 图标主题，它的图表设计注重强烈的色彩和简单的几何形状。 ![Freeware][Freeware Icon]
