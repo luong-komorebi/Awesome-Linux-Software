@@ -299,7 +299,7 @@
 - [GBrainy](https://wiki.gnome.org/action/show/Apps/gbrainy?action=show&redirect=gbrainy) - Gbrainy is a brain teaser game and trainer to have fun and to keep your brain trained. [![Open-Source Software][OSS Icon]](https://wiki.gnome.org/action/show/Apps/gbrainy?action=show&redirect=gbrainy#Source_code) ![Freeware][Freeware Icon]
 - [Minecraft](https://minecraft.net/en/download/?ref=m) - Minecraft is a game about placing blocks and going on adventures. Explore randomly generated worlds and build amazing things from the simplest of homes to the grandest of castles.![Freeware][Freeware Icon]
 - [Minetest](http://www.minetest.net/) -  Open-source Minecraft written in C++ (uses less resources) and includes modding API. [![Open-Source Software][OSS Icon]](https://github.com/minetest) ![Freeware][Freeware Icon]
-- [Mudlet](http://www.mudlet.org/) - MUD client to play text-only MMORPGs.
+- [Mudlet](http://www.mudlet.org/) - A cross-platform, open source, and super fast MUD (text-only MMORPGs) client with scripting in Lua.
 - [OhMyGiraffe](http://www.ohmygiraffe.com/) - A delightful game of survival. A game about a giraffe eating fruit while being chased by lions.
 - [PlayOnLinux](https://www.playonlinux.com/en/) - Play Windows Game on Linux. [![Open-Source Software][OSS Icon]](https://github.com/PlayOnLinux/POL-POM-4) ![Freeware][Freeware Icon]
 - [Simutrans](https://www.simutrans.com/en/) - Simutrans is a freeware and open-source transportation simulator. [![Open-Source Software][OSS Icon]](https://www.simutrans.com/en/develop/) ![Freeware][Freeware Icon]
