@@ -164,6 +164,7 @@ Two Chinese version of this list are available [here](https://github.com/alim0x/
 
 ### Development
 - [Android studio](https://developer.android.com/studio/index.html) - The Official IDE for Android: Android Studio provides the fastest tools for building apps on every type of Android device.![Freeware][Freeware Icon]
+- [AppImage](http://appimage.org/) - A format and tools to distribute Linux desktop applications to users of many distributions. [![Open-Source Software][OSS Icon]](http://appimage.org/) ![Freeware][Freeware Icon]
 - [Aptana](http://www.aptana.com/) - Aptana Studio harnesses the flexibility of Eclipse and focuses it into a powerful web development engine.![Freeware][Freeware Icon]
 - [Arduino IDE](https://www.arduino.cc/en/Main/Software) - The open-source Arduino Software (IDE) makes it easy to write code and upload it to the board. ![Freeware][Freeware Icon]
 - [BlueJ](http://bluej.org/) - A free Java Development Environment designed for beginners, used by millions worldwide.![Freeware][Freeware Icon]
