@@ -228,6 +228,7 @@ Two Chinese version of this list are available [here](https://github.com/alim0x/
 - [Okular](https://okular.kde.org/) - Okular is a universal document viewer based developed by KDE. Okular works on multiple platforms, including but not limited to Linux, Windows, Mac OS X, *BSD, etc.![Freeware][Freeware Icon]
 - [qpdf](https://launchpad.net/qpdfview) - qpdfview is a tabbed document viewer. [![Open-Source Software][OSS Icon]](https://launchpad.net/qpdfview) ![Freeware][Freeware Icon]
 - [Sigil](https://github.com/Sigil-Ebook/Sigil) - Sigil is a multi-platform EPUB ebook editor.[![Open-Source Software][OSS Icon]](https://github.com/Sigil-Ebook/Sigil) ![Freeware][Freeware Icon]
+- [easy-ebook-viewer](https://github.com/michaldaniel/Ebook-Viewer) - easy-ebook-viewer is a stunningly simple ebook view for linux [![Open-Source Software][OSS Icon]]
 
 ### Editors
 - [Atom](https://atom.io/) - Hackable text editor for the 21st century. [![Open-Source Software][OSS Icon]](https://github.com/atom/atom) ![Freeware][Freeware Icon]
