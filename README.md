@@ -354,6 +354,7 @@ Two Chinese version of this list are available [here](https://github.com/alim0x/
 - [Shotwell](https://wiki.gnome.org/Apps/Shotwell) - Shotwell is a photo manager for GNOME 3.![Freeware][Freeware Icon]
 - [StopMotion](http://linuxstopmotion.org/) - Linux Stopmotion is a Free Open Source application to create stop-motion animations. It helps you capture and edit the frames of your animation and export them as a single file.![Freeware][Freeware Icon]
 - [Synfig Studio](http://www.synfig.org/) - Open-source 2D animation software.![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/synfig/synfig)
+- [Vectr](https://vectr.com/) - Vectr is a free graphics software used to create vector graphics easily and intuitively. It's a simple yet powerful web and desktop cross-platform tool to bring your designs into reality.![Freeware]
 - [Vidcutter](http://vidcutter.ozmartians.com/) - Cross-platform Qt5 based app for quick and easy video trimming/splitting and merging/joining for simple quick edits.![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/ozmartian/vidcutter)
 - [Xara Extreme](http://www.xaraxtreme.org/) - Xara Xtreme for Linux is a powerful, general purpose graphics program for Unix platforms including Linux, FreeBSD![Freeware][Freeware Icon]
 
