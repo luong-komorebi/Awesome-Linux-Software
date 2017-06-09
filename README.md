@@ -132,6 +132,7 @@ Two Chinese version of this list are available [here](https://github.com/alim0x/
 - [Telegram](https://desktop.telegram.org/) - A messaging app with a focus on speed and security, it’s super fast, simple and free. [![Open-Source Software][OSS Icon]](https://github.com/telegramdesktop/tdesktop) ![Freeware][Freeware Icon]
 - [Viber](https://www.viber.com/en/products/linux) -Viber for Linux lets you send free messages and make free calls to other Viber users on any device and network, in any country ![Freeware][Freeware Icon]
 - [Weechat](https://weechat.org/) - WeeChat is a fast, light and extensible chat client .[![Open-Source Software][OSS Icon]](https://github.com/weechat) ![Freeware][Freeware Icon]
+- [xuanxuan](http://xuan.im) - Xuanxuan supply a solution for enterprise instant messaging .[![Open-Source Software][OSS Icon]](https://github.com/easysoft/xuanxuan) ![Freeware][Freeware Icon]
 
 ### Data Backup and Recovery
 - [Borg Backup](https://borgbackup.readthedocs.io/en/stable/) - A nice tool to backup data.[![Open-Source Software][OSS Icon]](https://borgbackup.readthedocs.io/en/stable/development.html) ![Freeware][Freeware Icon]
@@ -623,7 +624,7 @@ Two Chinese version of this list are available [here](https://github.com/alim0x/
 - [Herbstluftwm](https://herbstluftwm.org) - Manual tiling window manager for X11 using Xlib and Glib. [![Open-Source Software][OSS Icon]](https://github.com/herbstluftwm/herbstluftwm) ![Freeware][Freeware Icon]
 
 ### Dynamic window managers
-- [awesome](https://awesome.naquadah.org) - Highly configurable, next generation framework window manager for X. [![Open-Source Software][OSS Icon]](https://github.com/awesomeWM/awesome) ![Freeware][Freeware Icon]
+- [awesome](https://awesomewm.org/) - Highly configurable, next generation framework window manager for X. [![Open-Source Software][OSS Icon]](https://github.com/awesomeWM/awesome) ![Freeware][Freeware Icon]
 - [dwm](http://dwm.suckless.org) - Dynamic window manager for X. It manages windows in tiled, monocle and floating layouts. [![Open-Source Software][OSS Icon]](https://github.com/cdown/dwm) ![Freeware][Freeware Icon]
 - [i3](https://i3wm.org) - Tiling window manager, completely written from scratch. [![Open-Source Software][OSS Icon]](https://github.com/i3/i3) ![Freeware][Freeware Icon]
 - [spectrwm](https://github.com/conformal/spectrwm/wiki) - Small dynamic tiling window manager for X11, largely inspired by xmonad and dwm. [![Open-Source Software][OSS Icon]](https://github.com/conformal/spectrwm) ![Freeware][Freeware Icon]
