@@ -114,6 +114,7 @@ Two Chinese version of this list are available [here](https://github.com/alim0x/
 - [Tomahawk](https://www.tomahawk-player.org/) -A new kind of music player that invites all your streams, downloads, cloud music storage, playlists, radio stations and more. [![Open-Source Software][OSS Icon]](https://github.com/tomahawk-player/tomahawk)![Freeware][Freeware Icon]
 
 ### Chat Clients
+- [Caprine](https://sindresorhus.com/caprine) - Elegant Facebook Messenger desktop app. [![Open-Source Software][OSS Icon]](https://github.com/sindresorhus/caprine) ![Freeware][Freeware Icon]
 - [Chatty](http://chatty.github.io/) - Chatty is a Twitch chat client for everyone who wants to try something new and different from the webchat, but doesn't want the complexity of an IRC client or miss out on the Twitch specific features.[![Open-Source Software][OSS Icon]](https://github.com/chatty/chatty) ![Freeware][Freeware Icon]
 - [Cutegram](http://aseman.co/en/products/cutegram/) - Offers more features than the official Telegram app [![Open-Source Software][OSS Icon]](https://github.com/Aseman-Land/Cutegram) ![Freeware][Freeware Icon]
 - [Discord](https://discordapp.com/) - All-in-one voice and text chat for gamers that’s free, secure, and works on both your desktop and phone. ![Freeware][Freeware Icon]
@@ -126,6 +127,7 @@ Two Chinese version of this list are available [here](https://github.com/alim0x/
 - [Pidgin](http://askubuntu.com/questions/307622/update-pidgin-using-apt-get) - A universal chat client. ![Freeware][Freeware Icon]
 - [qTox](https://qtox.github.io/) - A simple distributed, secure messenger with audio and video chat capabilities. [![Open-Source Software][OSS Icon]](https://github.com/qTox/qTox) ![Freeware][Freeware Icon]
 - [Rambox](http://rambox.pro/) - Free, Open Source and Cross Platform messaging and emailing app that combines common web applications into one. [![Open-Source Software][OSS Icon]](https://github.com/saenzramiro/rambox) ![Freeware][Freeware Icon]
+- [Riot](https://riot.im/) - A glossy Matrix collaboration client for the web. [![Open-Source Software][OSS Icon]](https://github.com/vector-im/riot-web) ![Freeware][Freeware Icon]
 - [ScudCloud](https://github.com/raelgc/scudcloud/) - A Slack-client for linux. [![Open-Source Software][OSS Icon]](https://github.com/raelgc/scudcloud/) ![Freeware][Freeware Icon]
 - [Skype](https://www.skype.com/en/) - Skype keeps the world talking, for free. ![Freeware][Freeware Icon]
 - [Slack](https://slack.com/downloads/linux) - real-time messaging, archiving and search for modern teams. ![Freeware][Freeware Icon]
