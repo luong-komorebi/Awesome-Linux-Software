@@ -104,6 +104,7 @@ Two Chinese version of this list are available [here](https://github.com/alim0x/
 - [Netease Music](http://music.163.com/#/download) -  A music player of Netease ![Freeware][Freeware Icon]
 - [Oceanaudio](http://www.ocenaudio.com/whatis) - ocenaudio is a cross-platform, easy to use, fast and functional audio editor. It is the ideal software for people who need to edit and analyze audio files.![Freeware][Freeware Icon]
 - [OSD Lyrics](https://aur.archlinux.org/packages/osdlyrics-git/) - Show lyrics with your favorite media player. [![Open-Source Software][OSS Icon]](https://github.com/PedroHLC/osdlyrics) ![Freeware][Freeware Icon]
+- [Pithos](https://pithos.github.io/) - A native pandora client for Linux  [![Open-Source Software][OSS Icon]](https://github.com/pithos/pithos) ![Freeware][Freeware Icon]
 - [Quod Libet](https://quodlibet.readthedocs.io) - GTK+ music player written with huge libraries in mind. Quod Libet supports search-based dynamic playlists, regular expressions, tagging, Replay Gain, podcasts & Internet radio. [![Open-Source Software][OSS Icon]](https://github.com/quodlibet/quodlibet) ![Freeware][Freeware Icon]
 - [Rhythmbox](https://wiki.gnome.org/Apps/Rhythmbox) - Music player from GNOME. [![Open-Source Software][OSS Icon]](https://github.com/GNOME/rhythmbox) ![Freeware][Freeware Icon]
 - [Sayonara Player](https://sayonara-player.com/downloads.php) - Sayonara is a small, clear and fast audio player for Linux written in C++, supported by the Qt framework.[![Open-Source Software][OSS Icon]](https://sayonara-player.com/downloads.php#Source) ![Freeware][Freeware Icon]
@@ -201,7 +202,8 @@ Two Chinese version of this list are available [here](https://github.com/alim0x/
 - [Netbeans](https://netbeans.org/downloads/) - NetBeans IDE lets you quickly and easily develop Java desktop, mobile, and web applications, as well as HTML5 applications with HTML, JavaScript, and CSS. ![Freeware][Freeware Icon]
 - [NodeJS](https://nodejs.org/en/) - Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine. ![Freeware][Freeware Icon]
 - [Oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - Provides various packages and themes to extend the functionality of your fish shell. [![Open-Source Software][OSS Icon]](https://github.com/oh-my-fish/oh-my-fish) ![Freeware][Freeware Icon]
-- [Oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - A delightful community-driven framework for managing your zsh configuration. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]]( https://github.com/robbyrussell/oh-my-zsh)
+- [Oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - A delightful community-driven framework for managing your zsh configuration. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/robbyrussell/oh-my-zsh)
+- [Pencil](http://pencil.evolus.vn/) - An open-source GUI prototyping tool that's available for ALL platforms. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/evolus/pencil)
 - [Pick](http://kryogenix.org/code/pick/) - Simple color picker. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]]( https://github.com/stuartlangridge/ColourPicker)
 - [Postgresql](https://www.postgresql.org/download/) - PostgreSQL is a powerful, open source object-relational database system. ![Freeware][Freeware Icon]
 - [Postman](https://www.getpostman.com) - Postman, help us test API quickly.![Freeware][Freeware Icon]
@@ -532,6 +534,7 @@ Two Chinese version of this list are available [here](https://github.com/alim0x/
 - [TightVNC](http://www.tightvnc.com/) - Free, Lightweight, Fast and Reliable Remote Control / Remote Desktop Software [![Open-Source Software][OSS Icon]] ![Freeware][Freeware Icon]
 - [TLP](http://linrunner.de/en/tlp/docs/tlp-linux-advanced-power-management.html) - Optimize Linux battery.![Freeware][Freeware Icon]
 - [Trimage](https://trimage.org/) - A cross-platform tool for losslessly optimizing PNG and JPG files.[![Open-Source Software][OSS Icon]](https://github.com/Kilian/Trimage) ![Freeware][Freeware Icon]
+- [Typora](https://typora.io/) - A Minimal markdown editor  ![Freeware][Freeware Icon]
 - [UbuntuCleaner](https://github.com/gerardpuig/ubuntu-cleaner) - Ubuntu Cleaner is a tool that makes it easy to clean your ubuntu system.[![Open-Source Software][OSS Icon]](https://github.com/gerardpuig/ubuntu-cleaner) ![Freeware][Freeware Icon]
 - [Ubuntusys](https://github.com/adgellida/ubunsys) - Configurable app designed for Ubuntu referent to packages, updates and configurations [![Open-Source Software][OSS Icon]](https://github.com/adgellida/ubunsys) ![Freeware][Freeware Icon]
 - [ULauncher](http://ulauncher.io/) - Application launcher for Linux. [![Open-Source Software][OSS Icon]](https://github.com/Ulauncher/Ulauncher/) ![Freeware][Freeware Icon]
