@@ -104,6 +104,7 @@ Two Chinese version of this list are available [here](https://github.com/alim0x/
 - [Netease Music](http://music.163.com/#/download) -  A music player of Netease ![Freeware][Freeware Icon]
 - [Oceanaudio](http://www.ocenaudio.com/whatis) - ocenaudio is a cross-platform, easy to use, fast and functional audio editor. It is the ideal software for people who need to edit and analyze audio files.![Freeware][Freeware Icon]
 - [OSD Lyrics](https://aur.archlinux.org/packages/osdlyrics-git/) - Show lyrics with your favorite media player. [![Open-Source Software][OSS Icon]](https://github.com/PedroHLC/osdlyrics) ![Freeware][Freeware Icon]
+- [Parlatype](http://gkarsay.github.io/parlatype/) - GNOME audio player for transcription.  [![Open-Source Software][OSS Icon]](https://github.com/gkarsay/parlatype) ![Freeware][Freeware Icon]
 - [Pithos](https://pithos.github.io/) - A native pandora client for Linux  [![Open-Source Software][OSS Icon]](https://github.com/pithos/pithos) ![Freeware][Freeware Icon]
 - [PulseEffect](https://github.com/wwmm/pulseeffects) - Limiter, compressor, reverberation, equalizer and auto volume effects for Pulseaudio applications [![Open-Source Software][OSS Icon]](https://github.com/wwmm/pulseeffects) ![Freeware][Freeware Icon]
 - [Quod Libet](https://quodlibet.readthedocs.io) - GTK+ music player written with huge libraries in mind. Quod Libet supports search-based dynamic playlists, regular expressions, tagging, Replay Gain, podcasts & Internet radio. [![Open-Source Software][OSS Icon]](https://github.com/quodlibet/quodlibet) ![Freeware][Freeware Icon]
@@ -500,6 +501,7 @@ Two Chinese version of this list are available [here](https://github.com/alim0x/
 - [Clonezilla](http://clonezilla.org/) - Clonezilla is a partition and disk imaging/cloning program similar to True Image® or Norton Ghost®.![Freeware][Freeware Icon][![Open-Source Software][OSS Icon]](http://clonezilla.org/related-links/)
 - [Convertall](https://sourceforge.net/projects/convertall/) - Convert all units.![Freeware][Freeware Icon]
 - [CPU-G](http://www.omgubuntu.co.uk/2016/09/monitor-battery-life-ubuntu-cpu-g) - Easy monitoring the battery life of your Ubuntu laptop. ![Freeware][Freeware Icon][![Open-Source Software][OSS Icon]](https://launchpad.net/cpug)
+- [Curlew](https://github.com/chamfay/Curlew) - GTK Media Converter for the GNOME desktop ![Freeware][Freeware Icon][![Open-Source Software][OSS Icon]](https://github.com/chamfay/Curlew)
 - [EasyStroke](https://github.com/thjaeger/easystroke/wiki#download) - Easystroke is a gesture-recognition application for X11.[![Open-Source Software][OSS Icon]](https://github.com/thjaeger/easystroke) ![Freeware][Freeware Icon]
 - [Enpass](https://www.enpass.io/) - Enpass makes your life easy by securely managing your passwords and important information.![Freeware][Freeware Icon]
 - [GD map](http://gdmap.sourceforge.net/) - A tool to visualize disk usage. ![Freeware][Freeware Icon]
