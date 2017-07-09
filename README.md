@@ -350,6 +350,7 @@ Two Chinese version of this list are available [here](https://github.com/alim0x/
 - [Open DVD Producer](http://opendvdproducer.jonata.org/) - A modern, open source cross platform software to produce DVD images. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/jonata/opendvdproducer)
 - [OpenShot](http://www.openshot.org/) - OpenShot is a free, simple-to-use, feature-rich video editor for Linux. ![Freeware][Freeware Icon]
 - [Peek](https://github.com/phw/peek) - Simple animated GIF screen recorder with an easy to use interface.[![Open-Source Software][OSS Icon]](https://github.com/phw/peek)![Freeware][Freeware Icon]
+- [Phockup](https://github.com/ivandokov/phockup) - Media sorting tool to organize photos and videos from your camera in folders by year, month and day.[![Open-Source Software][OSS Icon]](https://github.com/ivandokov/phockup) ![Freeware][Freeware Icon]
 - [Photonic](https://github.com/oferkv/phototonic) - Phototonic is image viewer and organizer. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/oferkv/phototonic)
 - [Pinta](https://pinta-project.com/pintaproject/pinta/) - Pinta is a free, open source program for drawing and image editing.![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://pinta-project.com/pintaproject/pinta/contribute)
 - [Pitivi](http://www.pitivi.org/) - A free video editor with a beautiful and intuitive user interface, a clean codebase and a fantastic community.![Freeware][Freeware Icon]
@@ -484,6 +485,7 @@ Two Chinese version of this list are available [here](https://github.com/alim0x/
 - [Sakura](https://launchpad.net/sakura) - Simple but powerful libvte based terminal emulator, supporting utf-8 and input methods as provided by gtk+ and pango libraries. [![Open-Source Software][OSS Icon]](https://launchpad.net/sakura)![Freeware][Freeware Icon]
 - [Terminator](http://gnometerminator.blogspot.com/p/introduction.html) - it’s quite clear that the most powerful terminal emulator on Linux is the feature-filled Terminator.![Freeware][Freeware Icon]
 - [Terminix](https://gnunn1.github.io/terminix-web/#packages) - A tiling terminal emulator for Linux using GTK+3 [![Open-Source Software][OSS Icon]](https://github.com/gnunn1/terminix) ![Freeware][Freeware Icon]
+- [Terminus](https://eugeny.github.io/terminus/) - modern, highly configurable terminal app based on web technologies.  [![Open-Source Software][OSS Icon]](https://github.com/Eugeny/terminus) ![Freeware][Freeware Icon]
 - [Termite](https://github.com/thestinger/termite) - A keyboard-centric VTE-based terminal, aimed at use within a window manager with tiling and/or tabbing support. [![Open-Source Software][OSS Icon]](https://github.com/thestinger/termite)![Freeware][Freeware Icon]
 - [Termit](https://github.com/nonstop/termit/wiki) - Simple terminal emulator based on vte library, extensible via Lua.[![Open-Source Software][OSS Icon]](https://github.com/nonstop/termit/wiki)![Freeware][Freeware Icon]
 - [Termius](https://www.termius.com/) - cross-platform terminal with built-in SSH and Telnet. ![Freeware][Freeware Icon]
@@ -546,6 +548,7 @@ Two Chinese version of this list are available [here](https://github.com/alim0x/
 - [Virtualbox](https://www.virtualbox.org/wiki/Downloads) - VirtualBox is a general-purpose full virtualizer for x86 hardware, targeted at server, desktop and embedded use.[![Open-Source Software][OSS Icon]](https://www.virtualbox.org/wiki/Contributor_information) ![Freeware][Freeware Icon]
 - [WallpaperChange](https://apps.ubuntu.com/cat/applications/raring/wallch/) - Automatically change your wallpaper.![Freeware][Freeware Icon]
 - [Workrave](http://www.workrave.org/) - A program that assists in the recovery and prevention of Repetitive Strain Injury (RSI). [![Open-Source Software][OSS Icon]](https://github.com/rcaelers/workrave) ![Freeware][Freeware Icon]
+- [Wormhole](https://github.com/warner/magic-wormhole) - get arbitrary-sized files and directories (or short pieces of text) from one computer to another safely. [![Open-Source Software][OSS Icon]](https://github.com/warner/magic-wormhole) ![Freeware][Freeware Icon]
 - [Xtreme Download Manager](http://xdman.sourceforge.net/) - A good download manager with fresh UI for linux.[![Open-Source Software][OSS Icon]](https://github.com/KaOS-Community-Packages/xdm) ![Freeware][Freeware Icon]
 
 ### Video
