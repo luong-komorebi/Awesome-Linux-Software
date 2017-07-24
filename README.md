@@ -708,8 +708,13 @@ Two Chinese version of this list are available [here](https://github.com/alim0x/
 
 
 ### IRC channels
-
+* [#linux](http://webchat.freenode.net/?channels=#linux)
 * [#ubuntu](https://webchat.freenode.net/?channels=ubuntu)
+* [#archlinux](http://webchat.freenode.net/?channels=archlinux)
+* [#debian](http://webchat.freenode.net/?channels=debian)
+* [#gentoo](http://webchat.freenode.net/?channels=gentoo)
+* [#docker](http://webchat.freenode.net/?channels=docker)
+* [#bash](http://webchat.freenode.net/?channels=bash)
 
 ### Linux News, Apps, and more ....
 
