@@ -13,7 +13,7 @@
 
 **Acknowledgement:** *Everything written below is from my own experience in college and after reading various materials. I am neither a professional nor expert, but a student who has great passion. Anyone can open a discussion in the issue section, or a pull request in case something should be modified or added. If you consider my work valuable, a [donation](#donation) is much appreciated.*
 
-Two Chinese version of this list are available [here](https://github.com/alim0x/Awesome-Linux-Software-zh_CN) and [already updated lately)](https://github.com/0xE8551CCB/awesome-linux-software-cn).
+Two Chinese version of this list are available [here](https://github.com/alim0x/Awesome-Linux-Software-zh_CN) and [here(already updated lately)](https://github.com/0xE8551CCB/awesome-linux-software-cn).
 ## Table of Contents
 
 - [Applications](#applications)
