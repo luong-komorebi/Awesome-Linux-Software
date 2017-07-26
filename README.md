@@ -13,7 +13,7 @@
 
 **Acknowledgement:** *Everything written below is from my own experience in college and after reading various materials. I am neither a professional nor expert, but a student who has great passion. Anyone can open a discussion in the issue section, or a pull request in case something should be modified or added. If you consider my work valuable, a [donation](#donation) is much appreciated.*
 
-Two Chinese version of this list are available [here](https://github.com/alim0x/Awesome-Linux-Software-zh_CN) and [here](https://github.com/ChrisLeeGit/awesome-linux-software-cn). ~~*They are pretty outdated*~~
+Two Chinese version of this list are available [here](https://github.com/alim0x/Awesome-Linux-Software-zh_CN) and [already updated lately)](https://github.com/0xE8551CCB/awesome-linux-software-cn).
 ## Table of Contents
 
 - [Applications](#applications)
@@ -194,6 +194,7 @@ Two Chinese version of this list are available [here](https://github.com/alim0x/
 - [Gitg](https://wiki.gnome.org/Apps/Gitg) - gitg is the GNOME GUI client to view git repositories. [![Open-Source Software][OSS Icon]](https://wiki.gnome.org/Apps/Gitg#Development_Resources)![Freeware][Freeware Icon]
 - [GitKraken](https://www.gitkraken.com/) - The downright luxurious Git GUI client,for Windows, Mac & Linux. ![Freeware][Freeware Icon]
 - [Git](https://git-scm.com/) - Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.![Freeware][Freeware Icon]
+- [Goland](https://www.jetbrains.com/go/) - Gogland is the codename for a new commercial IDE by JetBrains aimed at providing an ergonomic environment for Go development.
 - [Insomnia](https://insomnia.rest/) - A simple, beautiful, and free REST API client. ![Freeware][Freeware Icon]
 - [IntelliJ IDEA](https://www.jetbrains.com/idea/) - Powerful IDE for JAVA ![Freeware][Freeware Icon]
 - [Ipython](https://ipython.org/) - Powerful python shell. [![Open-Source Software][OSS Icon]](https://github.com/ipython/ipython)![Freeware][Freeware Icon]
@@ -803,7 +804,7 @@ Two Chinese version of this list are available [here](https://github.com/alim0x/
  30. [stelariusinfinitek](https://github.com/stelariusinfinitek)
  31. [tnga](https://github.com/tnga)
  32. [hg8](https://github.com/hg8)
- 33. [ChrisLeeGit](https://github.com/ChrisLeeGit)
+ 33. [0xE8551CCB](https://github.com/0xE8551CCB)
  34. [alim0x](https://github.com/alim0x)
  35. [Spacebody](https://github.com/Spacebody)
  36. [AyoIsaiah](https://github.com/ayoisaiah)
