@@ -226,11 +226,14 @@ Two Chinese version of this list are available [here](https://github.com/alim0x/
 - [Zsh](http://www.zsh.org/) -  A powerful command line shell. [![Open-Source Software][OSS Icon]](http://sourceforge.net/p/zsh/code/ci/master/tree/)
 
 ### E-Book Utilities
+- [Bookworm](https://babluboy.github.io/bookworm/) - A simple, focused eBook reader. [![Open-Source Software][OSS Icon]](https://github.com/babluboy/bookworm) ![Freeware][Freeware Icon]
 - [Buka](https://github.com/oguzhaninan/Buka/releases) - EBook Management [![Open-Source Software][OSS Icon]](https://github.com/oguzhaninan/Buka) ![Freeware][Freeware Icon]
 - [Calibre](http://calibre-ebook.com/) - Incredibly ugly but powerful software for ebook management and conversion. [![Open-Source Software][OSS Icon]](https://github.com/kovidgoyal/calibre) ![Freeware][Freeware Icon]
+- [Easy Ebook Viewer](https://github.com/michaldaniel/Ebook-Viewer) - Modern GTK Python Ebook Reader app to easily read epub files. [![Open-Source Software][OSS Icon]](https://github.com/michaldaniel/Ebook-Viewer) ![Freeware][Freeware Icon] 
 - [Evince](https://wiki.gnome.org/Apps/Evince) - Evince is a document viewer for multiple document formats. The goal of evince is to replace the multiple document viewers that exist on the GNOME Desktop with a single simple application.[![Open-Source Software][OSS Icon]](https://wiki.gnome.org/Apps/Evince/GettingEvince) ![Freeware][Freeware Icon]
 - [FBReader](https://fbreader.org/content/fbreader-beta-linux-desktop) - One of the most popular eReader apps. ![Freeware][Freeware Icon]
 - [Foxit](https://www.foxitsoftware.com/products/pdf-reader/) - Foxit Reader 8.0—Award-winning PDF Reader. ![Freeware][Freeware Icon]
+- [Gnome Books](https://github.com/martamilakovic/gnome-books) - Books is application for listing, searching and reading eBooks. [![Open-Source Software][OSS Icon]](https://github.com/martamilakovic/gnome-books) ![Freeware][Freeware Icon] 
 - [Lucidor](http://www.lucidor.org/lucidor/) - Lucidor is a computer program for reading and handling e-books. Lucidor supports e-books in the EPUB file format, and catalogs in the OPDS format. ![Freeware][Freeware Icon]
 - [MasterPDF editor](https://code-industry.net/free-pdf-editor/) - Master PDF Editor a convenient and smart PDF editor for Linux.![Freeware][Freeware Icon]
 - [MuPDF](http://mupdf.com/) - a lightweight PDF and XPS viewer. [![Open-Source Software][OSS Icon]](http://git.ghostscript.com/?p=mupdf.git;a=summary) ![Freeware][Freeware Icon]
