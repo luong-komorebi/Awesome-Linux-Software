@@ -546,6 +546,7 @@
 - [Tmux](https://tmux.github.io/) - 它让你在一个终端中在多个程序间方便地切换，分离他们（保持在后台运行）并另一个终端中重新连接上去。以及还有好多事情可以做。[![Open-Source Software][OSS Icon]](https://github.com/tmux/tmux)![Freeware][Freeware Icon]
 - [wicd-curses](https://wiki.archlinux.org/index.php/wicd#Running_Wicd_in_Text_Mode) - 命令行 WiFi 连接管理器。
 - [十佳命令行工具](http://lifehacker.com/399468/top-10-command-line-tools)
+- [PathPicker](https://github.com/facebook/PathPicker) - 一个简单的命令行工具，用来处理选择bash 文件输出时的问题
 
 ## 桌面环境
 - [Budgie](https://solus-project.com/budgie/) - Budgie 是一个面向现代用户思想设计的桌面环境，专注于简洁与优雅。[![Open-Source Software][OSS Icon]](https://github.com/solus-project/budgie-desktop) ![Freeware][Freeware Icon]
