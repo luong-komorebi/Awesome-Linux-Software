@@ -90,6 +90,7 @@ Two Chinese version of this list are available [here](https://github.com/alim0x/
 - [Audio Recorder](https://launchpad.net/~audio-recorder/+archive/ubuntu/ppa) - Simple audio recorder available on ubuntu ppa. ![Freeware][Freeware Icon]
 - [Clementine](https://www.clementine-player.org/) - Play numerous lossy and lossless audio formats. [![Open-Source Software][OSS Icon]](https://github.com/clementine-player/Clementine) ![Freeware][Freeware Icon]
 - [Cmus](https://cmus.github.io/) - cmus is a small, fast and powerful console music player for Unix-like operating systems.
+- [Deepin](https://www.deepin.org/en/original/deepin-music/) - An application developed by Deepin Technology Team which focused on local music playing. [![Open-Source Software][OSS Icon]](https://github.com/linuxdeepin/deepin-music) ![Freeware][Freeware Icon]
 - [Google Play Music](https://www.googleplaymusicdesktopplayer.com/) - Unofficial but beautiful cross platform Desktop Player for Google Play Music.[![Open-Source Software][OSS Icon]](https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-) ![Freeware][Freeware Icon]
 - [Harmony](http://getharmony.xyz) - Music player with sleek interface & cloud compatibility. [![Open-Source Software][OSS Icon]](https://github.com/vincelwt/harmony) ![Freeware][Freeware Icon]
 - [Hydrogen](http://www.hydrogen-music.org/hcms/node/21) - Advanced drum machine for GNU/Linux. ![Freeware][Freeware Icon]
@@ -102,12 +103,14 @@ Two Chinese version of this list are available [here](https://github.com/alim0x/
 - [Mixxx](http://www.mixxx.org/download/) - Free DJ software that gives you everything you need to perform live mixes, veritable alternative to Traktor. [![Open-Source Software][OSS Icon]](https://github.com/mixxxdj/mixxx) ![Freeware][Freeware Icon]
 - [Museek](http://museeks.io/) - A simple, clean and cross-platform music player. [![Open-Source Software][OSS Icon]](https://github.com/KeitIG/museeks) ![Freeware][Freeware Icon]
 - [Netease Music](http://music.163.com/#/download) -  A music player of Netease ![Freeware][Freeware Icon]
+- [Nuclear](http://nuclear.gumblert.tech/) - An Electron-based, multiplatform music player app that streams from multiple sources.  [![Open-Source Software][OSS Icon]](https://github.com/nukeop/nuclear) ![Freeware][Freeware Icon]
 - [Oceanaudio](http://www.ocenaudio.com/whatis) - ocenaudio is a cross-platform, easy to use, fast and functional audio editor. It is the ideal software for people who need to edit and analyze audio files.![Freeware][Freeware Icon]
 - [OSD Lyrics](https://aur.archlinux.org/packages/osdlyrics-git/) - Show lyrics with your favorite media player. [![Open-Source Software][OSS Icon]](https://github.com/PedroHLC/osdlyrics) ![Freeware][Freeware Icon]
 - [Parlatype](http://gkarsay.github.io/parlatype/) - GNOME audio player for transcription.  [![Open-Source Software][OSS Icon]](https://github.com/gkarsay/parlatype) ![Freeware][Freeware Icon]
 - [Pithos](https://pithos.github.io/) - A native pandora client for Linux  [![Open-Source Software][OSS Icon]](https://github.com/pithos/pithos) ![Freeware][Freeware Icon]
 - [PulseEffect](https://github.com/wwmm/pulseeffects) - Limiter, compressor, reverberation, equalizer and auto volume effects for Pulseaudio applications [![Open-Source Software][OSS Icon]](https://github.com/wwmm/pulseeffects) ![Freeware][Freeware Icon]
 - [Quod Libet](https://quodlibet.readthedocs.io) - GTK+ music player written with huge libraries in mind. Quod Libet supports search-based dynamic playlists, regular expressions, tagging, Replay Gain, podcasts & Internet radio. [![Open-Source Software][OSS Icon]](https://github.com/quodlibet/quodlibet) ![Freeware][Freeware Icon]
+- [RadioTray-NG](https://github.com/ebruck/radiotray-ng) - An Internet radio player for Linux. [![Open-Source Software][OSS Icon]](https://github.com/ebruck/radiotray-ng) ![Freeware][Freeware Icon]
 - [Rhythmbox](https://wiki.gnome.org/Apps/Rhythmbox) - Music player from GNOME. [![Open-Source Software][OSS Icon]](https://github.com/GNOME/rhythmbox) ![Freeware][Freeware Icon]
 - [Sayonara Player](https://sayonara-player.com/downloads.php) - Sayonara is a small, clear and fast audio player for Linux written in C++, supported by the Qt framework.[![Open-Source Software][OSS Icon]](https://sayonara-player.com/downloads.php#Source) ![Freeware][Freeware Icon]
 - [Soundconverter](http://soundconverter.org/) - leading audio file converter, SoundConverter aims to be simple to use, and very fast.[![Open-Source Software][OSS Icon]](https://launchpad.net/soundconverter/trunk/2.1.6) ![Freeware][Freeware Icon] 
@@ -236,8 +239,10 @@ Two Chinese version of this list are available [here](https://github.com/alim0x/
 - [Gnome Books](https://github.com/martamilakovic/gnome-books) - Books is application for listing, searching and reading eBooks. [![Open-Source Software][OSS Icon]](https://github.com/martamilakovic/gnome-books) ![Freeware][Freeware Icon] 
 - [Lucidor](http://www.lucidor.org/lucidor/) - Lucidor is a computer program for reading and handling e-books. Lucidor supports e-books in the EPUB file format, and catalogs in the OPDS format. ![Freeware][Freeware Icon]
 - [MasterPDF editor](https://code-industry.net/free-pdf-editor/) - Master PDF Editor a convenient and smart PDF editor for Linux.![Freeware][Freeware Icon]
+- [Mcomix](https://sourceforge.net/projects/mcomix/) - GTK+ comic book viewer.[![Open-Source Software][OSS Icon]](https://sourceforge.net/p/mcomix/git/ci/master/tree/) ![Freeware][Freeware Icon]
 - [MuPDF](http://mupdf.com/) - a lightweight PDF and XPS viewer. [![Open-Source Software][OSS Icon]](http://git.ghostscript.com/?p=mupdf.git;a=summary) ![Freeware][Freeware Icon]
-- [Okular](https://okular.kde.org/) - Okular is a universal document viewer based developed by KDE. Okular works on multiple platforms, including but not limited to Linux, Windows, Mac OS X, *BSD, etc.![Freeware][Freeware Icon]
+- [Okular](https://okular.kde.org/) - Okular is a universal document viewer based developed by KDE. Okular works on multiple platforms, including but not limited to Linux, Windows, Mac OS X, BSD, etc.![Freeware][Freeware Icon]
+- [Peruse](https://peruse.kde.org/) - A pleasant way to read comic books.[![Open-Source Software][OSS Icon]](https://download.kde.org/stable/peruse/peruse-1.2.tar.xz.mirrorlist) ![Freeware][Freeware Icon]
 - [qpdf](https://launchpad.net/qpdfview) - qpdfview is a tabbed document viewer. [![Open-Source Software][OSS Icon]](https://launchpad.net/qpdfview) ![Freeware][Freeware Icon]
 - [Sigil](https://github.com/Sigil-Ebook/Sigil) - Sigil is a multi-platform EPUB ebook editor.[![Open-Source Software][OSS Icon]](https://github.com/Sigil-Ebook/Sigil) ![Freeware][Freeware Icon]
 
@@ -293,6 +298,7 @@ Two Chinese version of this list are available [here](https://github.com/alim0x/
 - [N1](https://nylas.com/N1) - An extensible desktop mail app built on the modern web. [![Open-Source Software][OSS Icon]](https://github.com/nylas/N1) ![Freeware][Freeware Icon]
 - [Sylpheed](http://sylpheed.sraoss.jp/en/) - Lightweight and user-friendly e-mail client. [![Open-Source Software][OSS Icon]](http://sylpheed.sraoss.jp/en/download.html#stable)![Freeware][Freeware Icon]
 - [Thunderbird](https://www.mozilla.org/en-US/thunderbird/) - Thunderbird is a free email application that’s easy to set up and customize and it’s loaded with great features. ![Freeware][Freeware Icon]
+- [Trojita](http://trojita.flaska.net/download.html) - A super fast desktop email client for Linux.[![Open-Source Software][OSS Icon]](https://gerrit.vesnicky.cesnet.cz/r/#/dashboard/?)![Freeware][Freeware Icon] title=Trojit%C3%A1&Pending=project:trojita+is:open&Recently+Closed=project:trojita+is:closed
 - [Wmail](https://github.com/Thomas101/wmail) - Gmail & Google Inbox unofficial desktop client for linux. [![Open-Source Software][OSS Icon]](https://github.com/Thomas101/wmail)![Freeware][Freeware Icon]
 
 ### File Manager
@@ -339,6 +345,7 @@ Two Chinese version of this list are available [here](https://github.com/alim0x/
 - [Darktable](http://www.darktable.org/) - darktable is an open source photography workflow application and RAW developer![Freeware][Freeware Icon]
 - [Digikam](http://www.digikam.org/) - digiKam is an advanced digital photo management application for Linux![Freeware][Freeware Icon]
 - [Feh](https://feh.finalrewind.org/) - lightweight and fast image viewer.![Freeware][Freeware Icon][![Open-Source Software][OSS Icon]](http://git.finalrewind.org/feh)
+- [Flowblade](https://github.com/jliljebl/flowblade/releases/tag/1.12.2) - A multitrack non-linear video editor for Linux.![Freeware][Freeware Icon][![Open-Source Software][OSS Icon]](https://github.com/jliljebl/flowblade)
 - [Fotoxx](http://www.kornelix.net/fotoxx/fotoxx.html) - Fotoxx is a free open source Linux program for image editing and collection management.![Freeware][Freeware Icon]
 - [GIMP](https://www.gimp.org/downloads/) - GIMP is a freely distributed program for such tasks as photo retouching, image composition and image authoring![Freeware][Freeware Icon][![Open-Source Software][OSS Icon]](https://github.com/GNOME/gimp)
 - [gThumb](https://wiki.gnome.org/Apps/gthumb) - gThumb is an image viewer and browser (it also includes an importer tool for transferring photos from cameras). ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://git.gnome.org/browse/gthumb/)
@@ -378,6 +385,7 @@ Two Chinese version of this list are available [here](https://github.com/alim0x/
 - [Chromium](http://askubuntu.com/questions/250773/how-do-i-install-chromium-from-the-command-line) - Chromium is an open-source browser project that aims to build a safer, faster, and more stable way for all users to experience the web.![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://www.chromium.org/)
 - [Corebird](http://corebird.baedert.org/) - corebird is native gtk+ twitter desktop client. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/baedert/corebird)
 - [FeedReader](https://github.com/jangernert/FeedReader) -  a modern desktop application designed to complement existing web-based RSS accounts, combines all the advantages of web based services and modern desktop application.  ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/jangernert/FeedReader)
+- [FeedTheMonkey](https://github.com/jeena/FeedTheMonkey/releases) - FeedTheMonkey is a desktop client for TinyTinyRSS. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/jeena/FeedTheMonkey)
 - [Firefox](https://www.mozilla.org/en-US/firefox/new/) - A popular Web Browsers with a lot of plugins/apps.![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide)
 - [GnomeTwitch](http://gnome-twitch.vinszent.com/) - Enjoy Twitch on your GNU/Linux desktop with this Twitch non-Adobe-flash client. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/vinszent/gnome-twitch)
 - [Kaku](https://github.com/EragonJ/Kaku/releases) - An opensource youtube music player for Ubuntu. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/EragonJ/Kaku)
@@ -511,6 +519,7 @@ Two Chinese version of this list are available [here](https://github.com/alim0x/
 - [CPU-G](http://www.omgubuntu.co.uk/2016/09/monitor-battery-life-ubuntu-cpu-g) - Easy monitoring the battery life of your Ubuntu laptop. ![Freeware][Freeware Icon][![Open-Source Software][OSS Icon]](https://launchpad.net/cpug)
 - [Curlew](https://github.com/chamfay/Curlew) - GTK Media Converter for the GNOME desktop ![Freeware][Freeware Icon][![Open-Source Software][OSS Icon]](https://github.com/chamfay/Curlew)
 - [EasyStroke](https://github.com/thjaeger/easystroke/wiki#download) - Easystroke is a gesture-recognition application for X11.[![Open-Source Software][OSS Icon]](https://github.com/thjaeger/easystroke) ![Freeware][Freeware Icon]
+- [Emoji Keyboard](https://github.com/OzymandiasTheGreat/emoji-keyboard) - Virtual keyboard-like emoji picker for Linux.[![Open-Source Software][OSS Icon]](https://github.com/OzymandiasTheGreat/emoji-keyboard) ![Freeware][Freeware Icon]
 - [Enpass](https://www.enpass.io/) - Enpass makes your life easy by securely managing your passwords and important information.![Freeware][Freeware Icon]
 - [GD map](http://gdmap.sourceforge.net/) - A tool to visualize disk usage. ![Freeware][Freeware Icon]
 - [Ghost Writer](http://wereturtle.github.io/ghostwriter/) - A distraction-free Markdown editor for Windows and Linux.  [![Open-Source Software][OSS Icon]](http://github.com/wereturtle/ghostwriter) ![Freeware][Freeware Icon].
