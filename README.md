@@ -319,16 +319,23 @@ Two Chinese version of this list are available [here](https://github.com/alim0x/
 **Warning: This game list may be outdated. Games inside store like Steam are also not included on this list.** 
 
 - [0 A.D](https://play0ad.com/) - Age of Empires like open source RTS game.
+- [Air for Steam](http://airforsteam.com/) - Material design inspired skin for Steam with 3 colour options. 
+- [AlephOne](https://alephone.lhowon.org/) - Bungie supported continuation of the Marathon games, assests included. Engine needs to be built from source.
 - [Civilization5](http://www.civilization5.com/) - Sid Meier’s Civilization® is recognized as one of the greatest strategy franchises of all-time.
 - [Cockatrice](https://cockatrice.github.io/) - Cockatrice is an open-source multiplatform supported program for playing tabletop card games over a network.[![Open-Source Software][OSS Icon]](https://github.com/Cockatrice) ![Freeware][Freeware Icon]
+- [DarkPlaces](https://icculus.org/twilight/darkplaces/) - A modified Quake engine improving performance and apperance, [List of supported games](https://icculus.org/twilight/darkplaces/readme.html#SupportedGames) .[![Open-Source Software][OSS Icon]] ![Freeware][Freeware Icon]
 - [Desura](http://www.desura.com/about) - *Pre-note: Desura is currently gone, but is being relaunched in the near future*. Desura is a community driven digital distribution service for gamers, putting the best games, mods and downloadable content from developers at gamers fingertips, ready to buy and play.
 - [GBrainy](https://wiki.gnome.org/action/show/Apps/gbrainy?action=show&redirect=gbrainy) - Gbrainy is a brain teaser game and trainer to have fun and to keep your brain trained. [![Open-Source Software][OSS Icon]](https://wiki.gnome.org/action/show/Apps/gbrainy?action=show&redirect=gbrainy#Source_code) ![Freeware][Freeware Icon]
 - [Minecraft](https://minecraft.net/en/download/?ref=m) - Minecraft is a game about placing blocks and going on adventures. Explore randomly generated worlds and build amazing things from the simplest of homes to the grandest of castles.![Freeware][Freeware Icon]
 - [Minetest](http://www.minetest.net/) -  Open-source Minecraft written in C++ (uses less resources) and includes modding API. [![Open-Source Software][OSS Icon]](https://github.com/minetest) ![Freeware][Freeware Icon]
 - [Mudlet](http://www.mudlet.org/) - A cross-platform, open source, and super fast MUD (text-only MMORPGs) client with scripting in Lua. [![Open-Source Software][OSS Icon]](https://github.com/Mudlet/Mudlet) ![Freeware][Freeware Icon]
+- [NXEngine](http://nxengine.sourceforge.net/) - A source port of Cave Story that runs natively on Linux, Source needs to be built. [![Open-Source Software][OSS Icon]] ![Freeware][Freeware Icon]
 - [OhMyGiraffe](http://www.ohmygiraffe.com/) - A delightful game of survival. A game about a giraffe eating fruit while being chased by lions.[Freeware][Freeware Icon]
+- [OpenMW](https://openmw.org/en/) - A recreation of the Morrowind engine, expanding upon the original. It can be used to play legitimate copies of original game. [![Open-Source Software][OSS Icon]](https://openmw.org/faq/#legal_stuff)
+- [OpenRCT2](https://openrct2.org/) - A recreation of the Rollercoaster Tycoon 2 engine. Requires the original games assests. [![Open-Source Software][OSS Icon]](https://github.com/JarnoVgr/OpenRCT2.org/blob/master/LICENSE)
+- [OpenTTD](https://www.openttd.org) - An open-source clone of Transport Tycoon Plus. [![Open-Source Software][OSS Icon]](https://vcs.openttd.org/svn/browser/trunk/COPYING) ![Freeware][Freeware Icon]
 - [PlayOnLinux](https://www.playonlinux.com/en/) - A front-end for Wine. [![Open-Source Software][OSS Icon]](https://github.com/PlayOnLinux/POL-POM-4) ![Freeware][Freeware Icon]
-- [RetroArch](http://www.retroarch.com/) - A front-end for a variety of game emulators. [![Open-Source Software][OSS Icon]](https://github.com/PlayOnLinux/POL-POM-4) ![Freeware][Freeware Icon]
+- [RetroArch](http://www.retroarch.com/) - A front-end for a variety of game emulators. [![Open-Source Software][OSS Icon]](https://github.com/libretro/RetroArch/blob/master/COPYING) ![Freeware][Freeware Icon]
 - [Simutrans](https://www.simutrans.com/en/) - Simutrans is a freeware and open-source transportation simulator. [![Open-Source Software][OSS Icon]](https://www.simutrans.com/en/develop/) ![Freeware][Freeware Icon]
 - [Steam](http://store.steampowered.com/) - Awesome Gaming platform, which opens the gates to many games.![Freeware][Freeware Icon]
 - [SuperTuxCar](https://supertuxkart.net/Main_Page) - SuperTuxKart is a 3D open-source arcade racer with a variety characters, tracks, and modes to play.[![Open-Source Software][OSS Icon]](https://github.com/supertuxkart/stk-code) ![Freeware][Freeware Icon]
