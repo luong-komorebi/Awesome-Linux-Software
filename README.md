@@ -173,6 +173,7 @@ Two Chinese version of this list are available [here](https://github.com/alim0x/
 - [Numix Theme](https://itsfoss.com/install-numix-ubuntu/) - A good popular theme. [![Open-Source Software][OSS Icon]](https://github.com/numixproject/numix-gtk-theme) ![Freeware][Freeware Icon]
 - [Papirus Icon Theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme-gtk/) - SVG icon theme for Linux systems, based on Paper with a few extras like (hardcode-tray support, kde-color-scheme support, libreoffice icon theme, filezilla theme, smplayer themes ...) and other modifications. The theme is available for GTK and KDE. [![Open-Source Software][OSS Icon]](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme-gtk/) ![Freeware][Freeware Icon]
 - [Unity Tweak Tool](https://apps.ubuntu.com/cat/applications/unity-tweak-tool/) - Must-have app for ubuntu unity customization. [![Open-Source Software][OSS Icon]](https://github.com/ianyh/Amethyst) ![Freeware][Freeware Icon]
+- [Wpgtk](https:github.com/deviantfero/wpgtk) - A universal theming software for all themes defined in text files, compatible with all terminals, with default themes for GTK2, GTK+, openbox and Tint2 that uses pywal as it's core for colorscheme generation.
 - [Yosembiance theme](https://github.com/bsundman/Yosembiance) - A modified Ambiance theme (loosely) inspired by OSX Yosemite. [![Open-Source Software][OSS Icon]](https://github.com/bsundman/Yosembiance) ![Freeware][Freeware Icon]
 
 ### Development
