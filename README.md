@@ -84,7 +84,7 @@ Two Chinese version of this list are available [here](https://github.com/alim0x/
 
 ### Audio
 - [Airtime](https://www.sourcefabric.org/en/airtime/download/) - Airtime is the open broadcast software for scheduling and remote station management [![Open-Source Software][OSS Icon]](https://github.com/sourcefabric/Airtime) ![Freeware][Freeware Icon]
-- [Ardour](https://ardour.org/) - Record, Edit, and Mix on Linux ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://ardour.org/development.html) 
+- [Ardour](https://ardour.org/) - Record, Edit, and Mix on Linux ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://ardour.org/development.html)
 - [Audacious](http://audacious-media-player.org/) - An open source audio player,  plays your music how you want it, without stealing away your computer’s resources from other tasks.[![Open-Source Software][OSS Icon]](http://audacious-media-player.org/developers) ![Freeware][Freeware Icon]
 - [Audacity](http://www.audacityteam.org/download/linux/) - Free, open source, cross-platform software for recording and editing sounds. [![Open-Source Software][OSS Icon]](https://github.com/audacity/audacity) ![Freeware][Freeware Icon]
 - [Audio Recorder](https://launchpad.net/~audio-recorder/+archive/ubuntu/ppa) - Simple audio recorder available on ubuntu ppa. ![Freeware][Freeware Icon]
@@ -113,7 +113,7 @@ Two Chinese version of this list are available [here](https://github.com/alim0x/
 - [RadioTray-NG](https://github.com/ebruck/radiotray-ng) - An Internet radio player for Linux. [![Open-Source Software][OSS Icon]](https://github.com/ebruck/radiotray-ng) ![Freeware][Freeware Icon]
 - [Rhythmbox](https://wiki.gnome.org/Apps/Rhythmbox) - Music player from GNOME. [![Open-Source Software][OSS Icon]](https://github.com/GNOME/rhythmbox) ![Freeware][Freeware Icon]
 - [Sayonara Player](https://sayonara-player.com/downloads.php) - Sayonara is a small, clear and fast audio player for Linux written in C++, supported by the Qt framework.[![Open-Source Software][OSS Icon]](https://sayonara-player.com/downloads.php#Source) ![Freeware][Freeware Icon]
-- [Soundconverter](http://soundconverter.org/) - leading audio file converter, SoundConverter aims to be simple to use, and very fast.[![Open-Source Software][OSS Icon]](https://launchpad.net/soundconverter/trunk/2.1.6) ![Freeware][Freeware Icon] 
+- [Soundconverter](http://soundconverter.org/) - leading audio file converter, SoundConverter aims to be simple to use, and very fast.[![Open-Source Software][OSS Icon]](https://launchpad.net/soundconverter/trunk/2.1.6) ![Freeware][Freeware Icon]
 - [SoundJuicer](http://www.howtogeek.com/howto/20126/rip-audio-cds-with-sound-juicer/) - CD Ripping tool for GNOME ![Freeware][Freeware Icon]
 - [Soundnode](http://www.soundnodeapp.com/) - An opensource SoundCloud app for desktop. [![Open-Source Software][OSS Icon]](https://github.com/Soundnode/soundnode-app) ![Freeware][Freeware Icon]
 - [Spotio](https://github.com/devinhalladay/spotio) - a Rdio-inspired light theme for the Spotify desktop app. [![Open-Source Software][OSS Icon]](https://github.com/devinhalladay/spotio) ![Freeware][Freeware Icon]
@@ -235,11 +235,11 @@ Two Chinese version of this list are available [here](https://github.com/alim0x/
 - [Bookworm](https://babluboy.github.io/bookworm/) - A simple, focused eBook reader. [![Open-Source Software][OSS Icon]](https://github.com/babluboy/bookworm) ![Freeware][Freeware Icon]
 - [Buka](https://github.com/oguzhaninan/Buka/releases) - EBook Management [![Open-Source Software][OSS Icon]](https://github.com/oguzhaninan/Buka) ![Freeware][Freeware Icon]
 - [Calibre](http://calibre-ebook.com/) - Incredibly ugly but powerful software for ebook management and conversion. [![Open-Source Software][OSS Icon]](https://github.com/kovidgoyal/calibre) ![Freeware][Freeware Icon]
-- [Easy Ebook Viewer](https://github.com/michaldaniel/Ebook-Viewer) - Modern GTK Python Ebook Reader app to easily read epub files. [![Open-Source Software][OSS Icon]](https://github.com/michaldaniel/Ebook-Viewer) ![Freeware][Freeware Icon] 
+- [Easy Ebook Viewer](https://github.com/michaldaniel/Ebook-Viewer) - Modern GTK Python Ebook Reader app to easily read epub files. [![Open-Source Software][OSS Icon]](https://github.com/michaldaniel/Ebook-Viewer) ![Freeware][Freeware Icon]
 - [Evince](https://wiki.gnome.org/Apps/Evince) - Evince is a document viewer for multiple document formats. The goal of evince is to replace the multiple document viewers that exist on the GNOME Desktop with a single simple application.[![Open-Source Software][OSS Icon]](https://wiki.gnome.org/Apps/Evince/GettingEvince) ![Freeware][Freeware Icon]
 - [FBReader](https://fbreader.org/content/fbreader-beta-linux-desktop) - One of the most popular eReader apps. ![Freeware][Freeware Icon]
 - [Foxit](https://www.foxitsoftware.com/products/pdf-reader/) - Foxit Reader 8.0—Award-winning PDF Reader. ![Freeware][Freeware Icon]
-- [Gnome Books](https://github.com/martamilakovic/gnome-books) - Books is application for listing, searching and reading eBooks. [![Open-Source Software][OSS Icon]](https://github.com/martamilakovic/gnome-books) ![Freeware][Freeware Icon] 
+- [Gnome Books](https://github.com/martamilakovic/gnome-books) - Books is application for listing, searching and reading eBooks. [![Open-Source Software][OSS Icon]](https://github.com/martamilakovic/gnome-books) ![Freeware][Freeware Icon]
 - [Lucidor](http://www.lucidor.org/lucidor/) - Lucidor is a computer program for reading and handling e-books. Lucidor supports e-books in the EPUB file format, and catalogs in the OPDS format. ![Freeware][Freeware Icon]
 - [MasterPDF editor](https://code-industry.net/free-pdf-editor/) - Master PDF Editor a convenient and smart PDF editor for Linux.![Freeware][Freeware Icon]
 - [Mcomix](https://sourceforge.net/projects/mcomix/) - GTK+ comic book viewer.[![Open-Source Software][OSS Icon]](https://sourceforge.net/p/mcomix/git/ci/master/tree/) ![Freeware][Freeware Icon]
@@ -320,10 +320,10 @@ Two Chinese version of this list are available [here](https://github.com/alim0x/
 
 ### Games
 
-**Warning: This game list may be outdated. Games inside store like Steam are also not included on this list.** 
+**Warning: This game list may be outdated. Games inside store like Steam are also not included on this list.**
 
 - [0 A.D](https://play0ad.com/) - Age of Empires like open source RTS game.
-- [Air for Steam](http://airforsteam.com/) - Material design inspired skin for Steam with 3 colour options. 
+- [Air for Steam](http://airforsteam.com/) - Material design inspired skin for Steam with 3 colour options.
 - [AlephOne](https://alephone.lhowon.org/) - Bungie supported continuation of the Marathon games, assests included. Engine needs to be built from source.
 - [Civilization5](http://www.civilization5.com/) - Sid Meier’s Civilization® is recognized as one of the greatest strategy franchises of all-time.
 - [Cockatrice](https://cockatrice.github.io/) - Cockatrice is an open-source multiplatform supported program for playing tabletop card games over a network.[![Open-Source Software][OSS Icon]](https://github.com/Cockatrice) ![Freeware][Freeware Icon]
@@ -391,7 +391,6 @@ Two Chinese version of this list are available [here](https://github.com/alim0x/
 - [Xara Extreme](http://www.xaraxtreme.org/) - Xara Xtreme for Linux is a powerful, general purpose graphics program for Unix platforms including Linux, FreeBSD![Freeware][Freeware Icon]
 
 ### Internet
-- [Anatine](https://github.com/sindresorhus/anatine) - A twitter desktop app with many customizations.![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/sindresorhus/anatine)
 - [Brave](https://brave.com/) - Brave is a fast, good desktop browser for macOS, Windows, and Linux.![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/brave/browser-laptop)
 - [Chrome](https://www.google.com/chrome/browser/desktop/index.html) - A popular Web Browser with a lot of plugins/apps.![Freeware][Freeware Icon]
 - [Chromium](http://askubuntu.com/questions/250773/how-do-i-install-chromium-from-the-command-line) - Chromium is an open-source browser project that aims to build a safer, faster, and more stable way for all users to experience the web.![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://www.chromium.org/)
@@ -475,7 +474,7 @@ Two Chinese version of this list are available [here](https://github.com/alim0x/
 ### Security
 - [ClamAV](https://www.clamav.net/) - Clam Anti Virus ![Freeware][Freeware Icon]
 - [Fail2ban](http://www.fail2ban.org/wiki/index.php/Main_Page) - Fail2ban scans log files (e.g. /var/log/apache/error_log) and bans IPs that show the malicious signs -- too many password failures, seeking for exploits, etc.![Freeware][Freeware Icon]
-- [Firewalld](https://github.com/firewalld/firewalld) - Firewalld provides a dynamically managed firewall with support for network or 
+- [Firewalld](https://github.com/firewalld/firewalld) - Firewalld provides a dynamically managed firewall with support for network or
 firewall zones to define the trust level of network connections or interfaces. ![Freeware][Freeware Icon][![Open-Source Software][OSS Icon]](https://github.com/firewalld/firewalld)
 - [GnuPG](https://www.gnupg.org/) - Gnu Privacy Guard![Freeware][Freeware Icon]
 - [GuFW](http://gufw.org/) - One of the easiest firewalls in the world of linux. ![Freeware][Freeware Icon][![Open-Source Software][OSS Icon]](https://code.launchpad.net/gui-ufw)
@@ -520,6 +519,7 @@ firewall zones to define the trust level of network connections or interfaces. !
 - [Termite](https://github.com/thestinger/termite) - A keyboard-centric VTE-based terminal, aimed at use within a window manager with tiling and/or tabbing support. [![Open-Source Software][OSS Icon]](https://github.com/thestinger/termite)![Freeware][Freeware Icon]
 - [Termit](https://github.com/nonstop/termit/wiki) - Simple terminal emulator based on vte library, extensible via Lua.[![Open-Source Software][OSS Icon]](https://github.com/nonstop/termit/wiki)![Freeware][Freeware Icon]
 - [Termius](https://www.termius.com/) - cross-platform terminal with built-in SSH and Telnet. ![Freeware][Freeware Icon]
+- [Tilix](https://gnunn1.github.io/tilix-web/) - A tiling terminal emulator for Linux using GTK+ 3 ! [![Open-Source Software][OSS Icon]](https://github.com/gnunn1/tilix)![Freeware][Freeware Icon]
 - [Xterm](http://invisible-island.net/xterm/) - The xterm program is a terminal emulator for the X Window System. It provides DEC VT102 and Tektronix 4014 compatible terminals for programs that can't use the window system directly.![Freeware][Freeware Icon]
 - [Yakuake](https://yakuake.kde.org/) - A Quake-style terminal emulator based on KDE Konsole technology.![Freeware][Freeware Icon]
 
@@ -555,6 +555,7 @@ firewall zones to define the trust level of network connections or interfaces. !
 - [KeePass](https://www.keepass.info/) - Windows focused password manager, with some cross platform support through Mono.  ![Freeware][Freeware Icon]
 - [KVM](http://www.linux-kvm.org/page/Main_Page) - KVM (for Kernel-based Virtual Machine) is a full virtualization solution for Linux on x86 hardware containing virtualization extensions (Intel VT or AMD-V). [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/kvm/files/) ![Freeware][Freeware Icon]
 - [LastPass](https://lastpass.com/misc_download2.php) - Cross platform password <manager class="" Freeware="" Icon=""></manager>
+- [Nativefier](https://github.com/jiahaog/nativefier) - Make any web page a desktop application [![Open-Source Software][OSS Icon]](https://github.com/jiahaog/nativefier) ![Freeware][Freeware Icon]
 - [Peazip](http://www.peazip.org/) - Utility to unzip any zipped files ![Freeware][Freeware Icon]
 - [Peek](https://github.com/phw/peek/releases) - A simple tool that allows you to record short animated GIF images from your screen.[![Open-Source Software][OSS Icon]](https://github.com/phw/peek) ![Freeware][Freeware Icon]
 - [PlexyDesk](http://www.omgubuntu.co.uk/2016/09/plexydesk-widgets-linux-desktop-ppa) - Plexydesk supports multiple widget workspaces/desktops on Linux.
@@ -631,7 +632,7 @@ firewall zones to define the trust level of network connections or interfaces. !
 - [Mate](http://mate-desktop.com/) - Mate provides an intuitive and attractive desktop to Linux users using traditional metaphors. MATE is a fork of GNOME 2. [![Open-Source Software][OSS Icon]](https://github.com/mate-desktop/) ![Freeware][Freeware Icon]
 - [Pantheon](https://elementary.io/) - Pantheon is the default desktop environment originally created for the elementary OS distribution. ![Freeware][Freeware Icon]
 - [Unity](https://unity.ubuntu.com/) - Unity is a shell for GNOME designed by Canonical for Ubuntu. ![Freeware][Freeware Icon]
-- [Unity 8](http://www.omgubuntu.co.uk/2016/04/ubuntu-16-04-unity-8-desktop-progress-video) - A guide on how to install unity 8 on Ubuntu 16.04. 
+- [Unity 8](http://www.omgubuntu.co.uk/2016/04/ubuntu-16-04-unity-8-desktop-progress-video) - A guide on how to install unity 8 on Ubuntu 16.04.
 - [Xfce](https://www.xfce.org/) - Xfce embodies the traditional UNIX philosophy of modularity and re-usability. [![Open-Source Software][OSS Icon]](https://github.com/xfce-mirror) ![Freeware][Freeware Icon]
 
 ## Display manager
