@@ -436,7 +436,7 @@ Two Chinese version of this list are available [here](https://github.com/alim0x/
 - [California](https://wiki.gnome.org/Apps/California) - Complete Calendar app replacement which uses natural language for creating events.![Freeware][Freeware Icon]
 - [Cerebro](https://cerebroapp.com/) - Open-source productivity booster with a brain / MacOS-Spotlight alternative. [![Open-Source Software][OSS Icon]](https://github.com/KELiON/cerebro) ![Freeware][Freeware Icon]
 - [CopyQ](http://hluk.github.io/CopyQ/) -CopyQ is advanced clipboard manager with editing and scripting features. ![Freeware][Freeware Icon]
-- [Docky](www.go-docky.com/) -Docky is a full fledged dock application that makes opening common applications and managing windows easier and quicker. [![Open-Source Software][OSS Icon]](https://launchpad.net/docky/+download) ![Freeware][Freeware Icon]
+- [Docky](http://wiki.go-docky.com/index.php?title=Welcome_to_the_Docky_wiki) - Docky is a full fledged dock application that makes opening common applications and managing windows easier and quicker. [![Open-Source Software][OSS Icon]](https://launchpad.net/docky/+download) ![Freeware][Freeware Icon]
 - [f.lux](https://justgetflux.com/linux.html) - Automatically adjust your computer screen to match lighting. ![Freeware][Freeware Icon]
 - [Gnome-dictionary](https://wiki.gnome.org/Apps/Dictionary) - A powerful dictionary for GNOME <dictionary class="" Freeware="" Icon=""></dictionary>
 - [Go For It](http://manuel-kehl.de/projects/go-for-it/) - Go For It! is a simple and stylish productivity app, featuring a to-do list, merged with a timer that keeps your focus on the current task.![Freeware][Freeware Icon]
@@ -481,7 +481,8 @@ firewall zones to define the trust level of network connections or interfaces. !
 - [GnuPG](https://www.gnupg.org/) - Gnu Privacy Guard![Freeware][Freeware Icon]
 - [GuFW](http://gufw.org/) - One of the easiest firewalls in the world of linux. ![Freeware][Freeware Icon][![Open-Source Software][OSS Icon]](https://code.launchpad.net/gui-ufw)
 - [OpenSSH](http://www.openssh.com/) - OpenSSH Secure Shell Server and Client![Freeware][Freeware Icon]
-- [Password Safe](https://pwsafe.org/) - Password Safe [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/passwordsafe/) ![Freeware][Freeware Icon]
+- [Pass](https://www.passwordstore.org/) - the standard unix password manager. ![Freeware][Freeware Icon][![Open-Source Software][OSS Icon]](https://git.zx2c4.com/password-store/)
+- [Password Safe](https://pwsafe.org/) - Password Safe allows you to safely and easily create a secured and encrypted user name/password list. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/passwordsafe/) ![Freeware][Freeware Icon]
 - [Seahorse](https://wiki.gnome.org/Apps/Seahorse) - Gnome frontend for GnuPG![Freeware][Freeware Icon]
 - [Tcpdump](http://www.tcpdump.org/) - TCP Debugging/Capture Tool![Freeware][Freeware Icon]
 
