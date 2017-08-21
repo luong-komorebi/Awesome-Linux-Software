@@ -8,6 +8,7 @@
 # Version: 0.1
 # Description: A very simple python script that can sort items alphabetically.
 
+from __future__ import print_function
 import os
 import shutil
 
