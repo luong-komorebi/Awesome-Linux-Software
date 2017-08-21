@@ -481,6 +481,7 @@ firewall zones to define the trust level of network connections or interfaces. !
 - [GnuPG](https://www.gnupg.org/) - Gnu Privacy Guard![Freeware][Freeware Icon]
 - [GuFW](http://gufw.org/) - One of the easiest firewalls in the world of linux. ![Freeware][Freeware Icon][![Open-Source Software][OSS Icon]](https://code.launchpad.net/gui-ufw)
 - [OpenSSH](http://www.openssh.com/) - OpenSSH Secure Shell Server and Client![Freeware][Freeware Icon]
+- [Password Safe](https://pwsafe.org/) - Password Safe [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/passwordsafe/) ![Freeware][Freeware Icon]
 - [Seahorse](https://wiki.gnome.org/Apps/Seahorse) - Gnome frontend for GnuPG![Freeware][Freeware Icon]
 - [Tcpdump](http://www.tcpdump.org/) - TCP Debugging/Capture Tool![Freeware][Freeware Icon]
 
