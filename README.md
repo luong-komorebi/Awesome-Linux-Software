@@ -103,6 +103,7 @@ Two Chinese version of this list are available [here](https://github.com/alim0x/
 - [Lyricfier](https://github.com/emilioastarita/lyricfier) - a Spotify Lyrics alternative app. [![Open-Source Software][OSS Icon]](https://github.com/emilioastarita/lyricfier) ![Freeware][Freeware Icon]
 - [Mixxx](http://www.mixxx.org/download/) - Free DJ software that gives you everything you need to perform live mixes, veritable alternative to Traktor. [![Open-Source Software][OSS Icon]](https://github.com/mixxxdj/mixxx) ![Freeware][Freeware Icon]
 - [Museek](http://museeks.io/) - A simple, clean and cross-platform music player. [![Open-Source Software][OSS Icon]](https://github.com/KeitIG/museeks) ![Freeware][Freeware Icon]
+- [MPD](https://www.musicpd.org/) - Music Player Daemon (MPD) is a flexible, powerful, server-side application for playing music.  [![Open-Source Software][OSS Icon]](https://github.com/MusicPlayerDaemon/MPD) ![Freeware][Freeware Icon]
 - [Netease Music](http://music.163.com/#/download) -  A music player of Netease ![Freeware][Freeware Icon]
 - [Nuclear](http://nuclear.gumblert.tech/) - An Electron-based, multiplatform music player app that streams from multiple sources.  [![Open-Source Software][OSS Icon]](https://github.com/nukeop/nuclear) ![Freeware][Freeware Icon]
 - [Ocenaudio](http://www.ocenaudio.com/whatis) - ocenaudio is a cross-platform, easy to use, fast and functional audio editor. It is the ideal software for people who need to edit and analyze audio files.![Freeware][Freeware Icon]
