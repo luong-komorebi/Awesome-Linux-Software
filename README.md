@@ -90,6 +90,7 @@ Two Chinese version of this list are available [here](https://github.com/alim0x/
 - [Audio Recorder](https://launchpad.net/~audio-recorder/+archive/ubuntu/ppa) - Simple audio recorder available on ubuntu ppa. ![Freeware][Freeware Icon]
 - [Clementine](https://www.clementine-player.org/) - Play numerous lossy and lossless audio formats. [![Open-Source Software][OSS Icon]](https://github.com/clementine-player/Clementine) ![Freeware][Freeware Icon]
 - [Cmus](https://cmus.github.io/) - cmus is a small, fast and powerful console music player for Unix-like operating systems.
+- [DeaDBeeF](http://deadbeef.sourceforge.net/) - DeaDBeeF is a music player for *nix-like systems and OS X. [![Open-Source Software][OSS Icon]](https://github.com/DeaDBeeF-Player/deadbeef) ![Freeware][Freeware Icon]
 - [Deepin](https://www.deepin.org/en/original/deepin-music/) - An application developed by Deepin Technology Team which focused on local music playing. [![Open-Source Software][OSS Icon]](https://github.com/linuxdeepin/deepin-music) ![Freeware][Freeware Icon]
 - [Google Play Music](https://www.googleplaymusicdesktopplayer.com/) - Unofficial but beautiful cross platform Desktop Player for Google Play Music.[![Open-Source Software][OSS Icon]](https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-) ![Freeware][Freeware Icon]
 - [Harmony](http://getharmony.xyz) - Music player with sleek interface & cloud compatibility. [![Open-Source Software][OSS Icon]](https://github.com/vincelwt/harmony) ![Freeware][Freeware Icon]
@@ -259,6 +260,7 @@ Two Chinese version of this list are available [here](https://github.com/alim0x/
 - [Gedit](https://wiki.gnome.org/Apps/Gedit) -gedit is the GNOME text editor. While aiming at simplicity and ease of use, gedit is a powerful general purpose text editor.![Freeware][Freeware Icon]
 - [Kakoune](http://kakoune.org/) - Vim inspired .  Faster as in less keystrokes.  Multiple selections.  Orthogonal design. Its commands are similar to vi’s, and it shares Vi’s "keystrokes as a text editing language" model. Has a strong focus on interactivity, most commands provide immediate and incremental results, while still being competitive (as in keystroke count) with Vim. [(Github)](https://github.com/mawww/kakoune)
 - [Kate](https://kate-editor.org/get-it/) - Kate is a multi-document editor part of KDE since release 2.2. [![Open-Source Software][OSS Icon]](https://kate-editor.org/build-it/)![Freeware][Freeware Icon]
+- [Leafpad](http://tarot.freeshell.org/leafpad/) - Really simple GTK based text editor. [![Open-Source Software][OSS Icon]](http://tarot.freeshell.org/leafpad/)![Freeware][Freeware Icon]
 - [Lighttable](http://lighttable.com/) - The next generation code editor! Support live coding. ![Freeware][Freeware Icon]
 - [Spacemacs](http://spacemacs.org) - A community-driven Emacs distribution. [![Open-Source Software][OSS Icon]](https://github.com/syl20bnr/spacemacs)![Freeware][Freeware Icon]
 - [Sublime](https://www.sublimetext.com/) - One of the best text editor of all time. ![Freeware][Freeware Icon]
