@@ -483,7 +483,6 @@ firewall zones to define the trust level of network connections or interfaces. !
 - [OpenSSH](http://www.openssh.com/) - OpenSSH Secure Shell Server and Client![Freeware][Freeware Icon]
 - [Pass](https://www.passwordstore.org/) - the standard unix password manager. ![Freeware][Freeware Icon][![Open-Source Software][OSS Icon]](https://git.zx2c4.com/password-store/)
 - [Password Safe](https://pwsafe.org/) - Password Safe allows you to safely and easily create a secured and encrypted user name/password list. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/passwordsafe/) ![Freeware][Freeware Icon]
-- [Encryptr](https://spideroak.com/encryptr/) - Encryptr is a zero-knowledge, cloud-based e-wallet / password manager powered by Crypton. [![Open-Source Software][OSS Icon]](https://github.com/SpiderOak/Encryptr) ![Freeware][Freeware Icon]
 - [Seahorse](https://wiki.gnome.org/Apps/Seahorse) - Gnome frontend for GnuPG![Freeware][Freeware Icon]
 - [Tcpdump](http://www.tcpdump.org/) - TCP Debugging/Capture Tool![Freeware][Freeware Icon]
 
@@ -543,6 +542,7 @@ firewall zones to define the trust level of network connections or interfaces. !
 - [Curlew](https://github.com/chamfay/Curlew) - GTK Media Converter for the GNOME desktop ![Freeware][Freeware Icon][![Open-Source Software][OSS Icon]](https://github.com/chamfay/Curlew)
 - [EasyStroke](https://github.com/thjaeger/easystroke/wiki#download) - Easystroke is a gesture-recognition application for X11.[![Open-Source Software][OSS Icon]](https://github.com/thjaeger/easystroke) ![Freeware][Freeware Icon]
 - [Emoji Keyboard](https://github.com/OzymandiasTheGreat/emoji-keyboard) - Virtual keyboard-like emoji picker for Linux.[![Open-Source Software][OSS Icon]](https://github.com/OzymandiasTheGreat/emoji-keyboard) ![Freeware][Freeware Icon]
+- [Encryptr](https://spideroak.com/encryptr/) - Encryptr is a zero-knowledge, cloud-based e-wallet / password manager powered by Crypton. [![Open-Source Software][OSS Icon]](https://github.com/SpiderOak/Encryptr) ![Freeware][Freeware Icon]
 - [Enpass](https://www.enpass.io/) - Enpass makes your life easy by securely managing your passwords and important information.![Freeware][Freeware Icon]
 - [GD map](http://gdmap.sourceforge.net/) - A tool to visualize disk usage. ![Freeware][Freeware Icon]
 - [Ghost Writer](http://wereturtle.github.io/ghostwriter/) - A distraction-free Markdown editor for Windows and Linux.  [![Open-Source Software][OSS Icon]](http://github.com/wereturtle/ghostwriter) ![Freeware][Freeware Icon].
@@ -573,7 +573,6 @@ firewall zones to define the trust level of network connections or interfaces. !
 - [Stacer](https://github.com/oguzhaninan/Stacer) - Ubuntu System Optimizer [![Open-Source Software][OSS Icon]](https://github.com/oguzhaninan/Stacer) ![Freeware][Freeware Icon]
 - [Sushi](https://github.com/GNOME/sushi) - Sushi is a quick previewer for Nautilus, the GNOME desktop file manager. [![Open-Source Software][OSS Icon]](https://github.com/GNOME/sushi) ![Freeware][Freeware Icon]
 - [SympleScreenRecorder](https://launchpad.net/~maarten-baert/+archive/ubuntu/simplescreenrecorder/) - SimpleScreenRecorder is a feature-rich screen recorder that supports X11 and OpenGL. It has a Qt-based graphical user interface. [![Open-Source Software][OSS Icon]](https://code.launchpad.net/~maarten-baert) ![Freeware][Freeware Icon]
-- [vokoscreen](http://www.kohaupt-online.de/hp/) - vokoscreen is an easy to use screencast creator to record educational videos, live recordings of browser, installation, videoconferences, etc. [![Open-Source Software][OSS Icon]](https://github.com/vkohaupt/vokoscreen) ![Freeware][Freeware Icon]
 - [Synaptic](http://www.nongnu.org/synaptic/) - Synaptic is a graphical package management program for apt.![Freeware][Freeware Icon]
 - [Systemload](http://www.omgubuntu.co.uk/2014/06/system-monitor-indicator-ubuntu-ppa) - Show systemload in status bar.![Freeware][Freeware Icon]
 - [TightVNC](http://www.tightvnc.com/) - Free, Lightweight, Fast and Reliable Remote Control / Remote Desktop Software [![Open-Source Software][OSS Icon]] ![Freeware][Freeware Icon]
@@ -586,6 +585,7 @@ firewall zones to define the trust level of network connections or interfaces. !
 - [USB network gate](https://www.eltima.com/products/usb-over-ip-linux/) - Share USB port over Network on Linux.
 - [Variety](http://peterlevi.com/variety/) - Variety is an open-source wallpaper changer for Linux, packed with great features, yet slim and easy to use. [![Open-Source Software][OSS Icon]](https://github.com/peterlevi/variety-slideshow) ![Freeware][Freeware Icon]
 - [Virtualbox](https://www.virtualbox.org/wiki/Downloads) - VirtualBox is a general-purpose full virtualizer for x86 hardware, targeted at server, desktop and embedded use.[![Open-Source Software][OSS Icon]](https://www.virtualbox.org/wiki/Contributor_information) ![Freeware][Freeware Icon]
+- [vokoscreen](http://www.kohaupt-online.de/hp/) - vokoscreen is an easy to use screencast creator to record educational videos, live recordings of browser, installation, videoconferences, etc. [![Open-Source Software][OSS Icon]](https://github.com/vkohaupt/vokoscreen) ![Freeware][Freeware Icon]
 - [WallpaperChange](https://apps.ubuntu.com/cat/applications/raring/wallch/) - Automatically change your wallpaper.![Freeware][Freeware Icon]
 - [Workrave](http://www.workrave.org/) - A program that assists in the recovery and prevention of Repetitive Strain Injury (RSI). [![Open-Source Software][OSS Icon]](https://github.com/rcaelers/workrave) ![Freeware][Freeware Icon]
 - [Wormhole](https://github.com/warner/magic-wormhole) - get arbitrary-sized files and directories (or short pieces of text) from one computer to another safely. [![Open-Source Software][OSS Icon]](https://github.com/warner/magic-wormhole) ![Freeware][Freeware Icon]
