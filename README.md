@@ -413,6 +413,7 @@ Two Chinese version of this list are available [here](https://github.com/alim0x/
 - [Opera](http://www.opera.com/) - Opera browser is everything you need to do more on the web. ![Freeware][Freeware Icon]
 - [Popcorntime](https://www.popcorn-time.to/) - Watch torrent movies instantly. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://www.popcorn-time.to/source.html)
 - [Tor](https://www.torproject.org/) - Tor is free software and an open network that helps you defend against traffic analysis, a form of network surveillance that threatens personal freedom and privacy. ![Freeware][Freeware Icon]
+- [uzbl](https://www.uzbl.org/) - Uzbl - web interface tools which adhere to the unix philosophy. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/uzbl/uzbl/).
 - [Vivaldi](https://vivaldi.com/?lang=en) - A new and rising browser with a lot of customizations.![Freeware][Freeware Icon]
 - [Yandex](https://browser.yandex.com/desktop/main/) - Fast and convenient browser.![Freeware][Freeware Icon]
 - [youtube-dl](https://github.com/rg3/youtube-dl) - It can download videos from youtube.com or other video platforms. It's really awesome, at least for me. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/rg3/youtube-dl).
