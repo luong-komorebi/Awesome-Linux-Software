@@ -523,7 +523,7 @@
 - [MPV](https://www.mpv.io) - 一款免费，开源，跨平台的媒体播放器。[![Open-Source Software][OSS Icon]](https://github.com/mpv-player/mpv)![Freeware][Freeware Icon]
 - [SMPlayer](http://smplayer.sourceforge.net/) - 内置解码器的免费媒体播放器。可播放所有的音频和视频格式。[![Open-Source Software][OSS Icon]](https://sourceforge.net/p/smplayer/code/HEAD/tree/)![Freeware][Freeware Icon]
 - [SVP](https://www.svp-team.com/w/index.php?title=Main_Page) - SVP 让你可以使用帧插值在你的桌面电脑上观看任何视频，就像高端电视和投影仪支持的那样。![Freeware][Freeware Icon]
-- [VLC](http://www.videolan.org/vlc/index.html) - VLC 是一个免费且开源的跨平台媒体播放器以及框架，可以播放大多数格式的多媒体文件以及 DVS，音频 CD，VCD，以及各种流媒体协议。 ![Freeware][Freeware Icon]
+- [VLC](http://www.videolan.org/vlc/index.html) - VLC 是一个免费且开源的跨平台媒体播放器以及框架，可以播放大多数格式的多媒体文件以及 DVS，音频 CD，VCD，以及各种流媒体协议。 [![Open-Source Software][OSS Icon]](https://www.videolan.org/vlc/download-sources.html)![Freeware][Freeware Icon]
 
 ### 其它
 - [GrubCustomizer](https://launchpad.net/grub-customizer) - Grub Customizer 是一个让你可以配置 GRUB2/BURG 设置和启动项的图形化界面。 [![Open-Source Software][OSS Icon]](https://code.launchpad.net/grub-customizer) ![Freeware][Freeware Icon]
