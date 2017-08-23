@@ -306,6 +306,7 @@ Two Chinese version of this list are available [here](https://github.com/alim0x/
 - [Claws](http://www.claws-mail.org/) - Claws is an email client and news reader, featuring sophisticated interface, easy configuration, intuitive operation, abundant features and plugins, robustness and stability.[![Open-Source Software][OSS Icon]](http://git.claws-mail.org/)![Freeware][Freeware Icon]
 - [Evolution](https://wiki.gnome.org/Apps/Evolution/) - Evolution is a personal information management application that provides integrated mail, calendaring and address book functionality. ![Freeware][Freeware Icon]
 - [Geary](https://wiki.gnome.org/Apps/Geary) - Geary is an email application built for GNOME 3. It allows you to read and send email with a simple, modern interface.![Freeware][Freeware Icon]
+- [KMail](https://www.kde.org/applications/internet/kmail/) - KMail is the email component of Kontact, the integrated personal information manager from KDE [![Open-Source Software][OSS Icon]](https://cgit.kde.org/kmail.git/tree//?) ![Freeware][Freeware Icon]
 - [Mailnag](https://launchpad.net/~pulb/+archive/ubuntu/mailnag) - Mailnag is a daemon program that checks POP3 and IMAP servers for new mail. [![Open-Source Software][OSS Icon]](https://github.com/pulb/mailnag)![Freeware][Freeware Icon]
 - [Nylas Mail](https://www.nylas.com/download) - An extensible desktop mail app built on the modern web. [![Open-Source Software][OSS Icon]](https://github.com/nylas/nylas-mail) ![Freeware][Freeware Icon]
 - [Sylpheed](http://sylpheed.sraoss.jp/en/) - Lightweight and user-friendly e-mail client. [![Open-Source Software][OSS Icon]](http://sylpheed.sraoss.jp/en/download.html#stable)![Freeware][Freeware Icon]
@@ -509,6 +510,7 @@ firewall zones to define the trust level of network connections or interfaces. !
 - [Dropbox](https://www.dropbox.com/install?os=lnx) - Dropbox is a free service that lets you bring your photos, docs, and videos anywhere and share them easily.![Freeware][Freeware Icon]
 - [Filezilla](https://filezilla-project.org/) - the free FTP solution [![Open-Source Software][OSS Icon]](https://filezilla-project.org/sourcecode.php)![Freeware][Freeware Icon]
 - [Flareget](https://flareget.com/) - Full featured, multi-threaded download manager and accelerator ![Freeware][Freeware Icon]
+- [KTorrent](https://www.kde.org/applications/internet/ktorrent/) - KTorrent is a BitTorrent application by KDE which allows you to download files using the BitTorrent protocol. [![Open-Source Software][OSS Icon]](https://cgit.kde.org/ktorrent.git/tree//?)![Freeware][Freeware Icon]
 - [Mega](https://mega.nz/#sync) - Easy automated syncing between your computers and your MEGA cloud drive.[![Open-Source Software][OSS Icon]](https://github.com/meganz/MEGAsync)
 - [Meiga](http://meiga.igalia.com/) - a tool that makes possible to share selected local directories via web. [![Open-Source Software][OSS Icon]](http://git.igalia.com/meiga.git) ![Freeware][Freeware Icon]
 - [ownCloud](https://owncloud.com/products/desktop-clients/) - The goal of ownCloud is to give you access to your files wherever you are![Freeware][Freeware Icon]
