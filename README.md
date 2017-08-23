@@ -299,6 +299,7 @@ Two Chinese version of this list are available [here](https://github.com/alim0x/
 - [UGENE](http://ugene.net/) - UGENE is free open-source cross-platform integrated GUI-based bioinformatics software.[![Open-Source Software][OSS Icon]](https://github.com/ugeneunipro/ugene)![Freeware][Freeware Icon]
 
 ### Email
+- [Claws](http://www.claws-mail.org/) - Claws is an email client and news reader, featuring sophisticated interface, easy configuration, intuitive operation, abundant features and plugins, robustness and stability.[![Open-Source Software][OSS Icon]](http://git.claws-mail.org/)![Freeware][Freeware Icon]
 - [Evolution](https://wiki.gnome.org/Apps/Evolution/) - Evolution is a personal information management application that provides integrated mail, calendaring and address book functionality. ![Freeware][Freeware Icon]
 - [Geary](https://wiki.gnome.org/Apps/Geary) - Geary is an email application built for GNOME 3. It allows you to read and send email with a simple, modern interface.![Freeware][Freeware Icon]
 - [Mailnag](https://launchpad.net/~pulb/+archive/ubuntu/mailnag) - Mailnag is a daemon program that checks POP3 and IMAP servers for new mail. [![Open-Source Software][OSS Icon]](https://github.com/pulb/mailnag)![Freeware][Freeware Icon]
