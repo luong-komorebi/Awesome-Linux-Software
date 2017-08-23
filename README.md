@@ -374,6 +374,7 @@ Two Chinese version of this list are available [here](https://github.com/alim0x/
 - [Hugin](http://hugin.sourceforge.net/) - an easy to use cross-platform panoramic imaging toolchain based on Panorama Tools.![Freeware][Freeware Icon]
 - [Inkscape](https://inkscape.org/en/) - A powerful, free design tool for you , whether you are an illustrator, designer, web designer or just someone who needs to create some vector imagery![Freeware][Freeware Icon]
 - [Karbon](https://www.calligra.org/karbon/) - An open source vector drawing program.![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://www.kde.org/applications/graphics/karbon/development)
+- [Kazam](https://launchpad.net/kazam) - An easy to use and very intuitive screen recording program that will capture the content of your screen and record a video file that can be played by any video player that supports VP8/WebM video format.![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://code.launchpad.net/kazam)
 - [Kdenlive](https://kdenlive.org/) - Kdenlive is a Non-Linear Video Editor, which is much more powerful than beginners’ (linear) editors. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/KDE/kdenlive)
 - [Krita](https://krita.org/en/) - Open Source Software for Concept Artists, Digital Painters, and Illustrators![Freeware][Freeware Icon]
 - [Lightworks](https://www.lwks.com/) - Professional non-linear video editing program with a free version available
