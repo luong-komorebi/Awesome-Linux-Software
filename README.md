@@ -128,7 +128,7 @@ Two Chinese version of this list are available [here](https://github.com/alim0x/
 - [GhettoSkype](https://github.com/stanfieldr/ghetto-skype) - open source web wrapper for Skype. [![Open-Source Software][OSS Icon]](https://github.com/stanfieldr/ghetto-skype) ![Freeware][Freeware Icon]
 - [Gitter](https://gitter.im/) - Gitter — Where developers come to talk. Gitter is designed to make community messaging, collaboration and discovery as smooth and simple as possible. [![Open-Source Software][OSS Icon]](https://github.com/gitterHQ/services) ![Freeware][Freeware Icon]
 - [HexChat](https://hexchat.github.io/) - HexChat is an IRC client based on XChat, but unlike XChat it’s completely free for both Windows and Unix-like system.[![Open-Source Software][OSS Icon]](https://github.com/hexchat) ![Freeware][Freeware Icon]
-- [Irssi](https://github.com/irssi/irssi) - The client of the future. A terminal-based IRC client. [![Open-Source Software][OSS Icon]] ![Freeware][Freeware Icon]
+- [Irssi](https://github.com/irssi/irssi) - Irssi is a modular chat client that is most commonly known for its text mode user interface. [![Open-Source Software][OSS Icon]] ![Freeware][Freeware Icon]
 - [Jitsi](https://jitsi.org/) - Jitsi is a free and open source multiplatform voice, videoconferencing and instant messaging application for Windows, Linux, Mac OS X and Android. [![Open-Source Software][OSS Icon]](https://github.com/jitsi) ![Freeware][Freeware Icon]
 - [Messenger for Desktop](https://messengerfordesktop.com/#download) - An app for Facebook messenger. [![Open-Source Software][OSS Icon]](https://github.com/Aluxian/Facebook-Messenger-Desktop) ![Freeware][Freeware Icon]
 - [Pidgin](http://askubuntu.com/questions/307622/update-pidgin-using-apt-get) - A universal chat client. ![Freeware][Freeware Icon]
@@ -307,8 +307,8 @@ Two Chinese version of this list are available [here](https://github.com/alim0x/
 - [Sylpheed](http://sylpheed.sraoss.jp/en/) - Lightweight and user-friendly e-mail client. [![Open-Source Software][OSS Icon]](http://sylpheed.sraoss.jp/en/download.html#stable)![Freeware][Freeware Icon]
 - [Thunderbird](https://www.mozilla.org/en-US/thunderbird/) - Thunderbird is a free email application that’s easy to set up and customize and it’s loaded with great features. ![Freeware][Freeware Icon]
 - [Trojita](http://trojita.flaska.net/download.html) - A super fast desktop email client for Linux.[![Open-Source Software][OSS Icon]](https://gerrit.vesnicky.cesnet.cz/r/#/dashboard/?)![Freeware][Freeware Icon] title=Trojit%C3%A1&Pending=project:trojita+is:open&Recently+Closed=project:trojita+is:closed
-- [Wmail](https://github.com/Thomas101/wmail) - Gmail & Google Inbox unofficial desktop client for linux. [![Open-Source Software][OSS Icon]](https://github.com/Thomas101/wmail)![Freeware][Freeware Icon]
 - [Vmail](http://danielchoi.com/software/vmail.html) - Vim-like Gmail client [![Open-Source Software][OSS Icon]](https://github.com/danchoi/vmail)![Freeware][Freeware Icon]
+- [Wmail](https://github.com/Thomas101/wmail) - Gmail & Google Inbox unofficial desktop client for linux. [![Open-Source Software][OSS Icon]](https://github.com/Thomas101/wmail)![Freeware][Freeware Icon]
 
 ### File Manager
 - [7Zip](http://www.7-zip.org/download.html) - Unzip any zip files![Freeware][Freeware Icon]
