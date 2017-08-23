@@ -820,9 +820,9 @@ Two Chinese version of this list are available [here](https://github.com/alim0x/
 
 ## Contributors
 
-[**List of contributors**](https://github.com/VoLuong/Awesome-Ubuntu-Linux/graphs/contributors) :
+[**List of contributors**](https://github.com/LewisVo/Awesome-Ubuntu-Linux/graphs/contributors) :
 
- 1. __Me__ [(LuongVo)](https://github.com/VoLuong)
+ 1. __Me__ [(LuongVo)](https://github.com/LewisVo)
  2. [anewuser](https://github.com/anewuser)
  3. [nathanmusoke](https://github.com/nathanmusoke)
  4. [bpearson](https://github.com/bpearson)
