@@ -80,6 +80,7 @@ Two Chinese version of this list are available [here](https://github.com/alim0x/
 
 
 
+
 ## Applications
 
 ### Audio
@@ -327,9 +328,7 @@ Two Chinese version of this list are available [here](https://github.com/alim0x/
 - [Thunar](https://apps.ubuntu.com/cat/applications/precise/thunar/) - Thunar is the file manager designed to be the default file manager of Xfce 4.6 It has been designed to be fast and easy to use. [![Open-Source Software][OSS Icon]](https://github.com/luisgg/thunar) ![Freeware][Freeware Icon]
 
 ### Games
-
 **Warning: This game list may be outdated. Games inside store like Steam are also not included on this list.**
-
 - [0 A.D](https://play0ad.com/) - Age of Empires like open source RTS game.
 - [Air for Steam](http://airforsteam.com/) - Material design inspired skin for Steam with 3 colour options.
 - [AlephOne](https://alephone.lhowon.org/) - Bungie supported continuation of the Marathon games, assests included. Engine needs to be built from source.
@@ -348,6 +347,7 @@ Two Chinese version of this list are available [here](https://github.com/alim0x/
 - [OpenRCT2](https://openrct2.org/) - A recreation of the Rollercoaster Tycoon 2 engine. Requires the original games assests. [![Open-Source Software][OSS Icon]](https://github.com/JarnoVgr/OpenRCT2.org/blob/master/LICENSE)
 - [OpenTTD](https://www.openttd.org) - An open-source clone of Transport Tycoon Plus. [![Open-Source Software][OSS Icon]](https://vcs.openttd.org/svn/browser/trunk/COPYING) ![Freeware][Freeware Icon]
 - [PlayOnLinux](https://www.playonlinux.com/en/) - A front-end for Wine. [![Open-Source Software][OSS Icon]](https://github.com/PlayOnLinux/POL-POM-4) ![Freeware][Freeware Icon]
+- [Red Eclipse](https://redeclipse.net/) - Red Eclipse is a fun-filled new take on the first person arena shooter, built as a total conversion of Cube Engine 2, which lends itself toward a balanced gameplay, with a general theme of agility in a variety of environments. [![Open-Source Software][OSS Icon]](https://github.com/red-eclipse/base) ![Freeware][Freeware Icon]
 - [RetroArch](http://www.retroarch.com/) - A front-end for a variety of game emulators. [![Open-Source Software][OSS Icon]](https://github.com/libretro/RetroArch/blob/master/COPYING) ![Freeware][Freeware Icon]
 - [Simutrans](https://www.simutrans.com/en/) - Simutrans is a freeware and open-source transportation simulator. [![Open-Source Software][OSS Icon]](https://www.simutrans.com/en/develop/) ![Freeware][Freeware Icon]
 - [Steam](http://store.steampowered.com/) - Awesome Gaming platform, which opens the gates to many games.![Freeware][Freeware Icon]
@@ -486,13 +486,12 @@ Two Chinese version of this list are available [here](https://github.com/alim0x/
 ### Security
 - [ClamAV](https://www.clamav.net/) - Clam Anti Virus ![Freeware][Freeware Icon]
 - [Fail2ban](http://www.fail2ban.org/wiki/index.php/Main_Page) - Fail2ban scans log files (e.g. /var/log/apache/error_log) and bans IPs that show the malicious signs -- too many password failures, seeking for exploits, etc.![Freeware][Freeware Icon]
-- [Firewalld](https://github.com/firewalld/firewalld) - Firewalld provides a dynamically managed firewall with support for network or
-firewall zones to define the trust level of network connections or interfaces. ![Freeware][Freeware Icon][![Open-Source Software][OSS Icon]](https://github.com/firewalld/firewalld)
+- [Firewalld](https://github.com/firewalld/firewalld) - Firewalld provides a dynamically managed firewall with support for network or firewall zones to define the trust level of network connections or interfaces. ![Freeware][Freeware Icon][![Open-Source Software][OSS Icon]](https://github.com/firewalld/firewalld)
 - [GnuPG](https://www.gnupg.org/) - Gnu Privacy Guard![Freeware][Freeware Icon]
 - [GuFW](http://gufw.org/) - One of the easiest firewalls in the world of linux. ![Freeware][Freeware Icon][![Open-Source Software][OSS Icon]](https://code.launchpad.net/gui-ufw)
 - [OpenSSH](http://www.openssh.com/) - OpenSSH Secure Shell Server and Client![Freeware][Freeware Icon]
-- [Pass](https://www.passwordstore.org/) - the standard unix password manager. ![Freeware][Freeware Icon][![Open-Source Software][OSS Icon]](https://git.zx2c4.com/password-store/)
 - [Password Safe](https://pwsafe.org/) - Password Safe allows you to safely and easily create a secured and encrypted user name/password list. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/passwordsafe/) ![Freeware][Freeware Icon]
+- [Pass](https://www.passwordstore.org/) - the standard unix password manager. ![Freeware][Freeware Icon][![Open-Source Software][OSS Icon]](https://git.zx2c4.com/password-store/)
 - [Seahorse](https://wiki.gnome.org/Apps/Seahorse) - Gnome frontend for GnuPG![Freeware][Freeware Icon]
 - [Tcpdump](http://www.tcpdump.org/) - TCP Debugging/Capture Tool![Freeware][Freeware Icon]
 
@@ -507,8 +506,8 @@ firewall zones to define the trust level of network connections or interfaces. !
 - [Mega](https://mega.nz/#sync) - Easy automated syncing between your computers and your MEGA cloud drive.[![Open-Source Software][OSS Icon]](https://github.com/meganz/MEGAsync)
 - [Meiga](http://meiga.igalia.com/) - a tool that makes possible to share selected local directories via web. [![Open-Source Software][OSS Icon]](http://git.igalia.com/meiga.git) ![Freeware][Freeware Icon]
 - [ownCloud](https://owncloud.com/products/desktop-clients/) - The goal of ownCloud is to give you access to your files wherever you are![Freeware][Freeware Icon]
-- [PushBullet](https://www.pushbullet.com/) - Pushbullet connects your devices, making them feel like one.![Freeware][Freeware Icon]
 - [PushBullet for desktop](https://sidneys.github.io/pb-for-desktop/) - The missing Desktop application for Pushbullet. [![Open-Source Software][OSS Icon]](https://github.com/sidneys/pb-for-desktop) ![Freeware][Freeware Icon]
+- [PushBullet](https://www.pushbullet.com/) - Pushbullet connects your devices, making them feel like one.![Freeware][Freeware Icon]
 - [qBittorent](http://www.qbittorrent.org/) - The qBittorrent project aims to provide a Free Software alternative to µTorrent.[![Open-Source Software][OSS Icon]](https://github.com/qbittorrent/qBittorrent) ![Freeware][Freeware Icon]
 - [Quazaa](https://sourceforge.net/projects/quazaa/) - A cross platform multi-network peer-to-peer (P2P) file-sharing client.![Freeware][Freeware Icon]
 - [SpiderOak](https://spideroak.com/) - Real-time collaboration for teams and businesses that care about privacy ![Freeware][Freeware Icon]
@@ -649,8 +648,8 @@ firewall zones to define the trust level of network connections or interfaces. !
 - [LXQt](http://lxqt.org/) - LXQt is the Qt port and the upcoming version of LXDE, the Lightweight Desktop Environment. [![Open-Source Software][OSS Icon]](https://github.com/lxde/lxqt) ![Freeware][Freeware Icon]
 - [Mate](http://mate-desktop.com/) - Mate provides an intuitive and attractive desktop to Linux users using traditional metaphors. MATE is a fork of GNOME 2. [![Open-Source Software][OSS Icon]](https://github.com/mate-desktop/) ![Freeware][Freeware Icon]
 - [Pantheon](https://elementary.io/) - Pantheon is the default desktop environment originally created for the elementary OS distribution. ![Freeware][Freeware Icon]
-- [Unity](https://unity.ubuntu.com/) - Unity is a shell for GNOME designed by Canonical for Ubuntu. ![Freeware][Freeware Icon]
 - [Unity 8](http://www.omgubuntu.co.uk/2016/04/ubuntu-16-04-unity-8-desktop-progress-video) - A guide on how to install unity 8 on Ubuntu 16.04.
+- [Unity](https://unity.ubuntu.com/) - Unity is a shell for GNOME designed by Canonical for Ubuntu. ![Freeware][Freeware Icon]
 - [Xfce](https://www.xfce.org/) - Xfce embodies the traditional UNIX philosophy of modularity and re-usability. [![Open-Source Software][OSS Icon]](https://github.com/xfce-mirror) ![Freeware][Freeware Icon]
 
 ## Display manager
