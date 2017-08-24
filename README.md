@@ -459,6 +459,7 @@ Two Chinese version of this list are available [here](https://github.com/alim0x/
 - [Notepadqq](http://notepadqq.altervista.org/wp/) - Notepadqq is a Notepad++-like editor for the Linux desktop.[![Open-Source Software][OSS Icon]](https://github.com/notepadqq/notepadqq) ![Freeware][Freeware Icon]
 - [Notes](http://www.get-notes.com/) - A clean simple note taking app for linux.[![Open-Source Software][OSS Icon]](https://github.com/nuttyartist/notes) ![Freeware][Freeware Icon]
 - [Papyrus](http://aseman.co/en/products/papyrus/) - Papyrus is a different note manager which is focusing on Security, Better user interface. Papyrus are trying to provide an easy to use and smart user interface for users. [![Open-Source Software][OSS Icon]](https://github.com/Aseman-Land/Papyrus) ![Freeware][Freeware Icon]
+- [PDFsam](http://www.pdfsam.org/) - A desktop application to split, extract pages, rotate, mix and merge PDF files.[![Open-Source Software][OSS Icon]](https://github.com/torakiki/pdfsam) ![Freeware][Freeware Icon]
 - [Plank](https://launchpad.net/plank) - Plank is meant to be the simplest dock of apps on the planet.
 - [Plotinus](https://github.com/p-e-w/plotinus) - A searchable command palette in every modern GTK+ application. [![Open-Source Software][OSS Icon]](https://github.com/p-e-w/plotinus) ![Freeware][Freeware Icon]
 - [Pomodone App](http://pomodoneapp.com/) - PomoDoneApp is the easiest way to track your workflow using Pomodoro technique®, on top of your current task management service.![Freeware][Freeware Icon]
