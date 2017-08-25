@@ -251,6 +251,7 @@ Two Chinese version of this list are available [here](https://github.com/alim0x/
 - [Mcomix](https://sourceforge.net/projects/mcomix/) - GTK+ comic book viewer.[![Open-Source Software][OSS Icon]](https://sourceforge.net/p/mcomix/git/ci/master/tree/) ![Freeware][Freeware Icon]
 - [MuPDF](http://mupdf.com/) - a lightweight PDF and XPS viewer. [![Open-Source Software][OSS Icon]](http://git.ghostscript.com/?p=mupdf.git;a=summary) ![Freeware][Freeware Icon]
 - [Okular](https://okular.kde.org/) - Okular is a universal document viewer based developed by KDE. Okular works on multiple platforms, including but not limited to Linux, Windows, Mac OS X, BSD, etc.![Freeware][Freeware Icon]
+- [PDFsam](http://www.pdfsam.org/) - A desktop application to split, extract pages, rotate, mix and merge PDF files.[![Open-Source Software][OSS Icon]](https://github.com/torakiki/pdfsam) ![Freeware][Freeware Icon]
 - [Peruse](https://peruse.kde.org/) - A pleasant way to read comic books.[![Open-Source Software][OSS Icon]](https://download.kde.org/stable/peruse/peruse-1.2.tar.xz.mirrorlist) ![Freeware][Freeware Icon]
 - [qpdf](https://launchpad.net/qpdfview) - qpdfview is a tabbed document viewer. [![Open-Source Software][OSS Icon]](https://launchpad.net/qpdfview) ![Freeware][Freeware Icon]
 - [Sigil](https://github.com/Sigil-Ebook/Sigil) - Sigil is a multi-platform EPUB ebook editor.[![Open-Source Software][OSS Icon]](https://github.com/Sigil-Ebook/Sigil) ![Freeware][Freeware Icon]
@@ -418,7 +419,7 @@ Two Chinese version of this list are available [here](https://github.com/alim0x/
 - [Min](https://minbrowser.github.io/min) - A smarter, faster web browser.![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/minbrowser/min)
 - [Opera](http://www.opera.com/) - Opera browser is everything you need to do more on the web. ![Freeware][Freeware Icon]
 - [Popcorntime](https://www.popcorn-time.to/) - Watch torrent movies instantly. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://www.popcorn-time.to/source.html)
-- [QtBrowser](https://www.qutebrowser.org/) - A keyboard-driven, vim-like browser based on PyQt5.  ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/qutebrowser/qutebrowser)
+- [QuteBrowser](https://www.qutebrowser.org/) - A keyboard-driven, vim-like browser based on PyQt5.  ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/qutebrowser/qutebrowser)
 - [Tor](https://www.torproject.org/) - Tor is free software and an open network that helps you defend against traffic analysis, a form of network surveillance that threatens personal freedom and privacy. ![Freeware][Freeware Icon]
 - [Vivaldi](https://vivaldi.com/?lang=en) - A new and rising browser with a lot of customizations.![Freeware][Freeware Icon]
 - [Yandex](https://browser.yandex.com/desktop/main/) - Fast and convenient browser.![Freeware][Freeware Icon]
