@@ -402,6 +402,7 @@ Two Chinese version of this list are available [here](https://github.com/alim0x/
 - [Photonic](https://github.com/oferkv/phototonic) - Phototonic is image viewer and organizer. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/oferkv/phototonic)
 - [Pinta](https://pinta-project.com/pintaproject/pinta/) - Pinta is a free, open source program for drawing and image editing.![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://pinta-project.com/pintaproject/pinta/contribute)
 - [Pitivi](http://www.pitivi.org/) - A free video editor with a beautiful and intuitive user interface, a clean codebase and a fantastic community.![Freeware][Freeware Icon]
+- [Potrace](http://potrace.sourceforge.net/) - Potrace is a tool for tracing a bitmap, which means, transforming a bitmap into a smooth, scalable image. [![Open-Source Software][OSS Icon]](http://potrace.sourceforge.net/#downloading) ![Freeware][Freeware Icon]
 - [Radiance](http://www.radiance-online.org/) - Radiance - A Validated Lighting Simulation Tool![Freeware][Freeware Icon]
 - [Ramme](https://github.com/terkelg/ramme) - Unofficial Instagram desktop application.![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/terkelg/ramme)
 - [Rapid Photo Downloader](http://damonlynch.net/rapid/download.html) - Rapid Photo Downloader Makes It Easy to Import Photos from a Camera or Smartphone. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://launchpad.net/rapid/pyqt/0.9.0b2)
