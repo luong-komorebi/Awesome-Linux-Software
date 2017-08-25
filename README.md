@@ -238,6 +238,8 @@ Two Chinese version of this list are available [here](https://github.com/alim0x/
 - [StarUML](http://staruml.io/) - A sophisticated software modeler.![Freeware][Freeware Icon](http://staruml.io/)
 - [Swift](https://swift.org/download/) - Swift is a general-purpose programming language built using a modern approach to safety, performance, and software design patterns. ![Freeware][Freeware Icon]
 - [Ubuntu-SDK](https://developer.ubuntu.com/en/phone/platform/sdk/installing-the-sdk/) - The official Ubuntu SDK. ![Freeware][Freeware Icon]
+- [Uncrustify](http://uncrustify.sourceforge.net/) - Source Code Beautifier for C, C++, C#, ObjectiveC, D, Java, Pawn and VALA. See UniversalIndentGUI below. [![Open-Source Software][OSS Icon]](https://github.com/uncrustify/uncrustify) ![Freeware][Freeware Icon]
+- [UniversalIndentGUI](http://universalindent.sourceforge.net/) - UniversalIndentGUI offers a live preview for setting the parameters of nearly any indenter. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/universalindent/files/uigui/) ![Freeware][Freeware Icon]
 - [Webstorm](https://www.jetbrains.com/webstorm/) - Powerful IDE for modern JavaScript development, made by JetBrains. ![Freeware][Freeware Icon]
 - [Wireshark](https://www.wireshark.org/) - Wireshark is the world's foremost network protocol analyzer. It lets you see what's happening on your network at a microscopic level. It is the de facto (and often de jure) standard across many industries and educational institutions.
 - [Zeal](https://zealdocs.org/) - Zeal is an offline documentation browser for software developers. [![Open-Source Software][OSS Icon]](https://github.com/zealdocs/zeal)![Freeware][Freeware Icon]
