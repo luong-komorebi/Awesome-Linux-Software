@@ -649,6 +649,7 @@ firewall zones to define the trust level of network connections or interfaces. !
 - [PathPicker](https://github.com/facebook/PathPicker) - Accepts a wide range of input -- output from git commands, grep results, searches
 - [s-tui](https://amanusk.github.io/s-tui/) - s-tui is an UI for monitoring your computer's CPU temperature, frequency and utilization in a graphical way from the terminal. [![Open-Source Software][OSS Icon]](https://github.com/amanusk/s-tui)![Freeware][Freeware Icon]
 - [TheFuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.[![Open-Source Software][OSS Icon]](https://github.com/nvbn/thefuck)![Freeware][Freeware Icon]
+- [The Silver Searcher / Ag](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.[![Open-Source Software][OSS Icon]](https://github.com/ggreer/the_silver_searcher) ![Freeware][Freeware Icon]
 - [Tmux](https://tmux.github.io/) - It lets you switch easily between several programs in one terminal, detach them (they keep running in the background) and reattach them to a different terminal. And do a lot more.[![Open-Source Software][OSS Icon]](https://github.com/tmux/tmux)![Freeware][Freeware Icon]
 - [Top 10 command line tools](http://lifehacker.com/399468/top-10-command-line-tools)
 - [wicd-curses](https://wiki.archlinux.org/index.php/wicd#Running_Wicd_in_Text_Mode) - Command line WiFi connection manager.
