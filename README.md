@@ -100,6 +100,7 @@ Two Chinese version of this list are available [here](https://github.com/alim0x/
 - [K3b](http://www.k3b.org/) - K3b - The CD/DVD Kreator for Linux - optimized for KDE.[![Open-Source Software][OSS Icon]](https://github.com/KDE/k3b)![Freeware][Freeware Icon]
 - [Kid3Qt](https://apps.ubuntu.com/cat/applications/precise/kid3-qt/) - Edit tags of multiple files, e.g. the artist, album, year and genre of all mp3 files of an album.![Freeware][Freeware Icon]
 - [KxStudio](http://kxstudio.linuxaudio.org/) - KXStudio is a collection of applications and plugins for professional audio production.![Freeware][Freeware Icon]
+- [Libretime](http://libretime.org/) - Libre is the open broadcast software for scheduling and remote station management forked from Airtime [![Open-Source Software][OSS Icon]](https://github.com/LibreTime/libretime) ![Freeware][Freeware Icon]
 - [LMMS](https://lmms.io/download/#linux) - Making music on your PC by creating melodies and beats, synthesizing and mixing sounds, arranging samples and much more. [![Open-Source Software][OSS Icon]](https://github.com/LMMS/lmms)![Freeware][Freeware Icon]
 - [Lollypop](http://gnumdk.github.io/lollypop-web) - Lollypop is a new GNOME music playing application. [![Open-Source Software][OSS Icon]](https://github.com/gnumdk/lollypop) ![Freeware][Freeware Icon]
 - [Lyricfier](https://github.com/emilioastarita/lyricfier) - a Spotify Lyrics alternative app. [![Open-Source Software][OSS Icon]](https://github.com/emilioastarita/lyricfier) ![Freeware][Freeware Icon]
