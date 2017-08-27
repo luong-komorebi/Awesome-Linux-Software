@@ -330,6 +330,7 @@ Two Chinese version of this list are available [here](https://github.com/alim0x/
 - [Catfish](https://launchpad.net/catfish-search) - Catfish is a versatile file searching tool. [![Open-Source Software][OSS Icon]](https://github.com/DoTheEvo/ANGRYsearch) ![Freeware][Freeware Icon]
 - [Dolphin](https://userbase.kde.org/Dolphin) - Dolphin is  the default file manager of the KDE desktop environment featuring usability as well as functionality. [![Open-Source Software][OSS Icon]](https://github.com/KDE/dolphin) ![Freeware][Freeware Icon]
 - [Double Commander](http://doublecmd.sourceforge.net/) - Double Commander is a cross platform open source file manager with two panels side by side. It is inspired by Total Commander and features some new ideas.![Freeware][Freeware Icon]
+- [Krusader](https://krusader.org) - Krusader is an advanced twin panel (commander style) file manager for KDE and other desktops in the \*nix world, similar to Midnight or Total Commander.
 - [Midnight Commander](https://www.midnight-commander.org/) - A feature rich full-screen file manager that allows you to copy, move and delete files and whole directory trees. [![Open-Source Software][OSS Icon]](https://github.com/MidnightCommander) ![Freeware][Freeware Icon]
 - [Nautilus](https://wiki.gnome.org/Apps/Nautilus) - Nautilus (Files) is a file manager designed to fit the Gnome desktop design and behaviour, giving the user a simple way to navigate and manage its files.![Freeware][Freeware Icon]
 - [Nemo](http://askubuntu.com/questions/294421/how-do-i-install-nemo-file-manager) - Nemo is the file manager for the Cinnamon desktop environment.[![Open-Source Software][OSS Icon]](https://github.com/linuxmint/nemo) ![Freeware][Freeware Icon]
@@ -353,7 +354,7 @@ Two Chinese version of this list are available [here](https://github.com/alim0x/
 - [Minetest](http://www.minetest.net/) -  Open-source Minecraft written in C++ (uses less resources) and includes modding API. [![Open-Source Software][OSS Icon]](https://github.com/minetest) ![Freeware][Freeware Icon]
 - [Mudlet](http://www.mudlet.org/) - A cross-platform, open source, and super fast MUD (text-only MMORPGs) client with scripting in Lua. [![Open-Source Software][OSS Icon]](https://github.com/Mudlet/Mudlet) ![Freeware][Freeware Icon]
 - [NXEngine](http://nxengine.sourceforge.net/) - A source port of Cave Story that runs natively on Linux, Source needs to be built. [![Open-Source Software][OSS Icon]] ![Freeware][Freeware Icon]
-- [OhMyGiraffe](http://www.ohmygiraffe.com/) - A delightful game of survival. A game about a giraffe eating fruit while being chased by lions.[Freeware][Freeware Icon]
+- [OhMyGiraffe](http://www.ohmygiraffe.com/) - A delightful game of survival. A game about a giraffe eating fruit while being chased by lions.![Freeware][Freeware Icon]
 - [OpenMW](https://openmw.org/en/) - A recreation of the Morrowind engine, expanding upon the original. It can be used to play legitimate copies of original game. [![Open-Source Software][OSS Icon]](https://openmw.org/faq/#legal_stuff)
 - [OpenRCT2](https://openrct2.org/) - A recreation of the Rollercoaster Tycoon 2 engine. Requires the original games assests. [![Open-Source Software][OSS Icon]](https://github.com/JarnoVgr/OpenRCT2.org/blob/master/LICENSE)
 - [OpenTTD](https://www.openttd.org) - An open-source clone of Transport Tycoon Plus. [![Open-Source Software][OSS Icon]](https://vcs.openttd.org/svn/browser/trunk/COPYING) ![Freeware][Freeware Icon]
@@ -654,6 +655,8 @@ firewall zones to define the trust level of network connections or interfaces. !
 - [PathPicker](https://github.com/facebook/PathPicker) - Accepts a wide range of input -- output from git commands, grep results, searches
 - [s-tui](https://amanusk.github.io/s-tui/) - s-tui is an UI for monitoring your computer's CPU temperature, frequency and utilization in a graphical way from the terminal. [![Open-Source Software][OSS Icon]](https://github.com/amanusk/s-tui)![Freeware][Freeware Icon]
 - [TheFuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.[![Open-Source Software][OSS Icon]](https://github.com/nvbn/thefuck)![Freeware][Freeware Icon]
+- [The Silver Searcher / Ag](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.[![Open-Source Software][OSS Icon]](https://github.com/ggreer/the_silver_searcher) ![Freeware][Freeware Icon]
+- [Tmux](https://tmux.github.io/) - It lets you switch easily between several programs in one terminal, detach them (they keep running in the background) and reattach them to a different terminal. And do a lot more.[![Open-Source Software][OSS Icon]](https://github.com/tmux/tmux)![Freeware][Freeware Icon]
 - [Top 10 command line tools](http://lifehacker.com/399468/top-10-command-line-tools)
 - [wicd-curses](https://wiki.archlinux.org/index.php/wicd#Running_Wicd_in_Text_Mode) - Command line WiFi connection manager.
 
