@@ -538,6 +538,7 @@ firewall zones to define the trust level of network connections or interfaces. !
 - [uGet](http://ugetdm.com/) - The best download manager for Linux. [![Open-Source Software][OSS Icon]](http://ugetdm.com/contribute/code) ![Freeware][Freeware Icon]
 - [uTorrent](http://www.utorrent.com) - Elegant, efficient torrent downloading. ![Freeware][Freeware Icon]
 - [Vuze](http://www.vuze.com) - Bittorrent Client is an end-to-end software application for all your torrent needs. ![Freeware][Freeware Icon]
+- [Web Torrent Desktop](https://webtorrent.io/desktop/) - Web Torrent Desktop is for streaming torrents which connects to both BitTorrent and WebTorrent peers.![Freeware Icon]
 
 ### Terminal
 - [Cool Retro Term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal that mimicks the old cathode display [![Open-Source Software][OSS Icon]](https://github.com/Swordfish90/cool-retro-term)
