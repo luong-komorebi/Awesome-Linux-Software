@@ -320,7 +320,7 @@ Two Chinese version of this list are available [here](https://github.com/alim0x/
 - [Nylas Mail](https://www.nylas.com/download) - An extensible desktop mail app built on the modern web. [![Open-Source Software][OSS Icon]](https://github.com/nylas/nylas-mail) ![Freeware][Freeware Icon]
 - [Sylpheed](http://sylpheed.sraoss.jp/en/) - Lightweight and user-friendly e-mail client. [![Open-Source Software][OSS Icon]](http://sylpheed.sraoss.jp/en/download.html#stable)![Freeware][Freeware Icon]
 - [Thunderbird](https://www.mozilla.org/en-US/thunderbird/) - Thunderbird is a free email application that’s easy to set up and customize and it’s loaded with great features. ![Freeware][Freeware Icon]
-- [Trojita](http://trojita.flaska.net/download.html) - A super fast desktop email client for Linux.[![Open-Source Software][OSS Icon]](https://gerrit.vesnicky.cesnet.cz/r/#/dashboard/?)![Freeware][Freeware Icon] title=Trojit%C3%A1&Pending=project:trojita+is:open&Recently+Closed=project:trojita+is:closed
+- [Trojita](http://trojita.flaska.net/download.html) - A super fast Qt IMAP e-mail client for Linux.[![Open-Source Software][OSS Icon]](https://gerrit.vesnicky.cesnet.cz/r/#/dashboard/?)![Freeware][Freeware Icon]
 - [Vmail](http://danielchoi.com/software/vmail.html) - Vim-like Gmail client [![Open-Source Software][OSS Icon]](https://github.com/danchoi/vmail)![Freeware][Freeware Icon]
 - [Wmail](https://github.com/Thomas101/wmail) - Gmail & Google Inbox unofficial desktop client for Linux. [![Open-Source Software][OSS Icon]](https://github.com/Thomas101/wmail)![Freeware][Freeware Icon]
 
