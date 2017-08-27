@@ -887,7 +887,8 @@ firewall zones to define the trust level of network connections or interfaces. !
  35. [Spacebody](https://github.com/Spacebody)
  36. [AyoIsaiah](https://github.com/ayoisaiah)
  37. [sajattack](https://github.com/sajattack)
- 38. *Everyone @ reddit.com/r/linux & reddit.com/r/ubuntu & vozforums.com for many suggestions and compliments*
+ 38. [Lerentis](https://github.com/Lerentis)
+ 39. *Everyone @ reddit.com/r/linux & reddit.com/r/ubuntu & vozforums.com for many suggestions and compliments*
  ...
 
  (*The list above is updated on 10th January 2017*)
