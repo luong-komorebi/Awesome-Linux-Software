@@ -591,6 +591,7 @@ firewall zones to define the trust level of network connections or interfaces. !
 - [Indicator-SysMonitor](https://github.com/fossfreedom/indicator-sysmonitor) - An Application Indicator showing cpu temperature, memory, network speed, cpu usage, public IP address and internet connection status. [![Open-Source Software][OSS Icon]](https://github.com/fossfreedom/indicator-sysmonitor) ![Freeware][Freeware Icon]
 - [KeePassX](https://www.keepassx.org/) - Cross platform password manager. Port of KeePass. [![Open-Source Software][OSS Icon]](https://github.com/keepassx/keepassx) ![Freeware][Freeware Icon]
 - [KeePass](https://www.keepass.info/) - Windows focused password manager, with some cross platform support through Mono.  ![Freeware][Freeware Icon]
+- [KeeWeb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass [![Open-Source Software][OSS Icon]](https://github.com/keeweb/keeweb) ![Freeware][Freeware Icon]
 - [KVM](http://www.linux-kvm.org/page/Main_Page) - KVM (for Kernel-based Virtual Machine) is a full virtualization solution for Linux on x86 hardware containing virtualization extensions (Intel VT or AMD-V). [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/kvm/files/) ![Freeware][Freeware Icon]
 - [LastPass](https://lastpass.com/misc_download2.php) - Cross platform password <manager class="" Freeware="" Icon=""></manager>
 - [Nativefier](https://github.com/jiahaog/nativefier) - Make any web page a desktop application [![Open-Source Software][OSS Icon]](https://github.com/jiahaog/nativefier) ![Freeware][Freeware Icon]
@@ -650,6 +651,7 @@ firewall zones to define the trust level of network connections or interfaces. !
 - [Gkill](https://github.com/heppu/gkill) - Interactive process killer for Linux. [![Open-Source Software][OSS Icon]](https://github.com/heppu/gkill)![Freeware][Freeware Icon]
 - [Googler](https://itsfoss.com/review-googler-linux/) - Google any stuff right in the command line.[![Open-Source Software][OSS Icon]](https://github.com/jarun/googler)![Freeware][Freeware Icon]
 - [htop](http://hisham.hm/htop/) - top with improved features and user experience [![Open-Source Software][OSS Icon]](https://github.com/hishamhm/htop)![Freeware][Freeware Icon]
+- [Liquidprompt](https://github.com/nojhan/liquidprompt) - A full-featured & carefully designed adaptive prompt for Bash & Zsh [![Open-Source Software][OSS Icon]](https://github.com/nojhan/liquidprompt)![Freeware][Freeware Icon]
 - [mps-youtube](https://github.com/mps-youtube/mps-youtube) - Terminal based program to search, stream and download music. This implementation uses YouTube as a source of content and can play and download video as well as audio.[![Open-Source Software][OSS Icon]](https://github.com/mps-youtube/mps-youtube)![Freeware][Freeware Icon]
 - [Mutt](http://www.mutt.org/) - A terminal based mail client with vim keybindings and great flexibility and customizability.[![Open-Source Software][OSS Icon]](https://dev.mutt.org/hg/mutt/file/tip) ![Freeware][Freeware Icon]
 - [Neofetch](https://github.com/dylanaraps/neofetch/releases) -  A fast, highly customizable system info script that supports Linux, MacOS, iOS, BSD, Solaris, Android, Haiku, GNU Hurd, MINIX, AIX and Windows.[![Open-Source Software][OSS Icon]](https://github.com/dylanaraps/neofetch)![Freeware][Freeware Icon]
@@ -886,7 +888,8 @@ firewall zones to define the trust level of network connections or interfaces. !
  35. [Spacebody](https://github.com/Spacebody)
  36. [AyoIsaiah](https://github.com/ayoisaiah)
  37. [sajattack](https://github.com/sajattack)
- 38. *Everyone @ reddit.com/r/linux & reddit.com/r/ubuntu & vozforums.com for many suggestions and compliments*
+ 38. [Lerentis](https://github.com/Lerentis)
+ 39. *Everyone @ reddit.com/r/linux & reddit.com/r/ubuntu & vozforums.com for many suggestions and compliments*
  ...
 
  (*The list above is updated on 10th January 2017*)
