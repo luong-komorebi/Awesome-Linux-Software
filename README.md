@@ -39,6 +39,7 @@ Brazilian Portugese version : [here](https://github.com/LewisVo/Awesome-Linux-So
     - [Terminal](#terminal)
     - [Utilities](#utilities)
     - [Video](#video)
+    - [Wiki software](#wiki-software)
     - [Others](#others)
 - [Command Line Utilities](#command-line-utilities)
 - [Desktop Environments](#desktop-environments)
@@ -264,6 +265,7 @@ Brazilian Portugese version : [here](https://github.com/LewisVo/Awesome-Linux-So
 - [Jupyter Notebook](https://jupyter.org/) - Open source, interactive data science and scientific computing across over 40 programming languages. [![Open-Source Software][OSS Icon]](https://jupyter.readthedocs.io/en/latest/install.html)
 - [Meld](http://meldmerge.org/) - Meld is a visual diff and merge tool that helps you compare files, directories, and version controlled projects.  [![Open-Source Software][OSS Icon]](http://meldmerge.org/development.html)
 - [Mockingbot](https://mockingbot.in/?) - Mocking bot is an easy-to-use prototyping tool. 
+- [MyCLI](http://www.mycli.net/) - MyCLI is a command line interface for MySQL, MariaDB, and Percona with auto-completion and syntax highlighting.[[!Open-Source Software][OSS Icon]](https://github.com/dbcli/mycli)
 - [Nemiver](https://github.com/GNOME/nemiver) - Nemiver is a project to write a standalone graphical debugger that integrates well in the GNOME desktop environment. [![Open-Source Software][OSS Icon]](https://github.com/GNOME/nemiver) 
 - [Pencil](http://pencil.evolus.vn/) - An open-source GUI prototyping tool that's available for ALL platforms.  [![Open-Source Software][OSS Icon]](https://github.com/evolus/pencil)
 - [Pick](http://kryogenix.org/code/pick/) - Simple color picker.  [![Open-Source Software][OSS Icon]](https://github.com/stuartlangridge/ColourPicker)
@@ -502,6 +504,7 @@ Brazilian Portugese version : [here](https://github.com/LewisVo/Awesome-Linux-So
 - [NixNote](https://sourceforge.net/projects/nevernote/) - An open source client for Evernote. [![Open-Source Software][OSS Icon]](https://sourceforge.net/p/nevernote/code/ci/master/tree/) 
 - [Notepadqq](http://notepadqq.altervista.org/wp/) - Notepadqq is a Notepad++-like editor for the Linux desktop.[![Open-Source Software][OSS Icon]](https://github.com/notepadqq/notepadqq) 
 - [Notes](http://www.get-notes.com/) - A clean simple note taking app for Linux.[![Open-Source Software][OSS Icon]](https://github.com/nuttyartist/notes) 
+- [Org mode](http://orgmode.org/) - Org mode is for keeping notes, maintaining TODO lists, planning projects, and authoring documents with a fast and effective plain-text system.[![Open-Source Software][OSS Icon]](http://orgmode.org/cgit.cgi/org-mode.git/) 
 - [Papyrus](http://aseman.co/en/products/papyrus/) - Papyrus is a different note manager which is focusing on Security, Better user interface. Papyrus are trying to provide an easy to use and smart user interface for users. [![Open-Source Software][OSS Icon]](https://github.com/Aseman-Land/Papyrus) 
 - [Plank](https://launchpad.net/plank) - Plank is meant to be the simplest dock of apps on the planet.[![Open-Source Software][OSS Icon]](https://code.launchpad.net/plank) 
 - [Plotinus](https://github.com/p-e-w/plotinus) - A searchable command palette in every modern GTK+ application. [![Open-Source Software][OSS Icon]](https://github.com/p-e-w/plotinus) 
@@ -615,6 +618,7 @@ firewall zones to define the trust level of network connections or interfaces. [
 - [Gnormalize](http://gnormalize.sourceforge.net/) - Audio converter. 
 - [GParted](http://gparted.org/) - Disk Partition utility for Linux. 
 - [GRadio](https://github.com/haecker-felix/gradio/releases/) - Radio software for Ubuntu Linux. [![Open-Source Software][OSS Icon]](https://github.com/haecker-felix/gradio/releases/) 
+- [gramps](https://gramps-project.org/) - Research, organize and share your family tree with Gramps. [![Open-Source Software][OSS Icon]](https://github.com/gramps-project/gramps) 
 - [Handbrake](https://handbrake.fr/) - Video converter. 
 - [indicator-cpufreq](https://launchpad.net/indicator-cpufreq) -  It provides the same functionality as the Gnome CPU frequency applet, but doesn't require Gnome panel and works under Unity. 
 - [indicator-multiload](https://launchpad.net/ubuntu/+source/indicator-multiload) - Graphical system load indicator for CPU, ram, etc. 
@@ -626,6 +630,7 @@ firewall zones to define the trust level of network connections or interfaces. [
 - [LastPass](https://lastpass.com/misc_download2.php) - Cross platform password <manager class="" Freeware="" Icon=""></manager>
 - [Nativefier](https://github.com/jiahaog/nativefier) - Make any web page a desktop application [![Open-Source Software][OSS Icon]](https://github.com/jiahaog/nativefier) 
 - [NetData](https://my-netdata.io) - Next-gen web based real-time performance and health monitoring for physical and virtual servers, containers and IoT devices. It is also a distributed `statsd` server with automatic visualization for APM (applications performance monitoring). [![Open-Source Software][OSS Icon]](https://github.com/firehol/netdata) 
+- [Ncdu](https://dev.yorhel.nl/ncdu) - Disk usage analyzer with an ncurses interface [![Open-Source Software][OSS Icon]](https://g.blicky.net/ncdu.git/) 
 - [Peazip](http://www.peazip.org/) - Utility to unzip any zipped files 
 - [Peek](https://github.com/phw/peek/releases) - A simple tool that allows you to record short animated GIF images from your screen.[![Open-Source Software][OSS Icon]](https://github.com/phw/peek) 
 - [PlexyDesk](http://www.omgubuntu.co.uk/2016/09/plexydesk-widgets-linux-desktop-ppa) - Plexydesk supports multiple widget workspaces/desktops on Linux.
@@ -665,6 +670,11 @@ firewall zones to define the trust level of network connections or interfaces. [
 - [SMPlayer](http://smplayer.sourceforge.net/) - Free Media Player with built-in codecs. Play all audio and video formats.[![Open-Source Software][OSS Icon]](https://sourceforge.net/p/smplayer/code/HEAD/tree/)
 - [SVP](https://www.svp-team.com/w/index.php?title=Main_Page) - SVP allows you to watch any video on your desktop computer using frame interpolation as it is available on high-end TVs and projectors.
 - [VLC](http://www.videolan.org/vlc/index.html) - VLC is a free and open source cross-platform multimedia player and framework that plays most multimedia files as well as DVDs, Audio CDs, VCDs, and various streaming protocols. [![Open-Source Software][OSS Icon]](https://www.videolan.org/vlc/download-sources.html)
+
+### wiki software
+- [ikiwiki](https://ikiwiki.info/) - ikiwiki is a wiki compiler. It converts wiki pages into HTML pages suitable for publishing on a website. Ikiwiki stores pages and history in a revision control system such as Subversion or Git.[![Open-Source Software][OSS Icon]](https://git.joeyh.name/git/ikiwiki.git/)
+
+
 
 ### Others
 - [GrubCustomizer](https://launchpad.net/grub-customizer) - Grub Customizer is a graphical interface to configure the GRUB2/BURG settings and menuentries. [![Open-Source Software][OSS Icon]](https://code.launchpad.net/grub-customizer) 
@@ -706,6 +716,7 @@ firewall zones to define the trust level of network connections or interfaces. [
 - [LXDE](http://lxde.org/) - The Lightweight X11 Desktop Environment is a fast and energy-saving desktop environment. [![Open-Source Software][OSS Icon]](https://github.com/lxde) 
 - [LXQt](http://lxqt.org/) - LXQt is the Qt port and the upcoming version of LXDE, the Lightweight Desktop Environment. [![Open-Source Software][OSS Icon]](https://github.com/lxde/lxqt) 
 - [Mate](http://mate-desktop.com/) - Mate provides an intuitive and attractive desktop to Linux users using traditional metaphors. MATE is a fork of GNOME 2. [![Open-Source Software][OSS Icon]](https://github.com/mate-desktop/) 
+- [Manokwari](http://manokwari.blankonlinux.or.id/) - Desktop shell for GNOME 3 with Gtk+ and HTML5 frontend. [![Open-Source Software][OSS Icon]](https://github.com/BlankOn/manokwari) 
 - [Pantheon](https://elementary.io/) - Pantheon is the default desktop environment originally created for the elementary OS distribution. 
 - [Unity 8](http://www.omgubuntu.co.uk/2016/04/ubuntu-16-04-unity-8-desktop-progress-video) - A guide on how to install unity 8 on Ubuntu 16.04.
 - [Unity](https://unity.ubuntu.com/) - Unity is a shell for GNOME designed by Canonical for Ubuntu. 
