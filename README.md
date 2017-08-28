@@ -238,7 +238,7 @@ Brazilian Portugese version : [here](https://github.com/LewisVo/Awesome-Linux-So
 - [Sloeber IDE](http://eclipse.baeyens.it/) - Sloeber IDE. The Arduino IDE for Eclipse. I love it very much. [![Open-Source Software][OSS Icon]](https://github.com/jantje/arduino-eclipse-plugin) 
 - [SmartGit](http://www.syntevo.com/smartgit/) - SmartGit is a Git client with support for GitHub Pull Requests+Comments and SVN. ![Nonfree][Money Icon]
 - [Sqlite Browser](http://sqlitebrowser.org/) - Visually create, manage, and view sqlite database files.  [![Open-Source Software][OSS Icon]](https://github.com/sqlitebrowser/sqlitebrowser)
-- [StarUML](http://staruml.io/) - A sophisticated software modeler.(http://staruml.io/)
+- [StarUML](http://staruml.io/) - A sophisticated software modeler.
 - [Swift](https://swift.org/download/) - Swift is a general-purpose programming language built using a modern approach to safety, performance, and software design patterns. 
 - [Ubuntu-SDK](https://developer.ubuntu.com/en/phone/platform/sdk/installing-the-sdk/) - The official Ubuntu SDK. 
 - [Uncrustify](http://uncrustify.sourceforge.net/) - Source Code Beautifier for C, C++, C#, ObjectiveC, D, Java, Pawn and VALA. See UniversalIndentGUI below. [![Open-Source Software][OSS Icon]](https://github.com/uncrustify/uncrustify) 
@@ -435,7 +435,7 @@ Brazilian Portugese version : [here](https://github.com/LewisVo/Awesome-Linux-So
 - [Popcorntime](https://www.popcorn-time.to/) - Watch torrent movies instantly.  [![Open-Source Software][OSS Icon]](https://www.popcorn-time.to/source.html)
 - [QuteBrowser](https://www.qutebrowser.org/) - A keyboard-driven, vim-like browser based on PyQt5.   [![Open-Source Software][OSS Icon]](https://github.com/qutebrowser/qutebrowser)
 - [Tor](https://www.torproject.org/) - Tor is free software and an open network that helps you defend against traffic analysis, a form of network surveillance that threatens personal freedom and privacy. 
-- [Vivaldi](https://vivaldi.com/?lang=en) - A new and rising browser with a lot of customizations.https://vivaldi.com/source/?lang=en[![Open-Source Software][OSS Icon]](https://vivaldi.com/source/?lang=en)
+- [Vivaldi](https://vivaldi.com/?lang=en) - A new and rising browser with a lot of customizations.[![Open-Source Software][OSS Icon]](https://vivaldi.com/source/?lang=en)
 - [Yandex](https://browser.yandex.com/desktop/main/) - Fast and convenient browser.
 - [youtube-dl](https://github.com/rg3/youtube-dl) - It can download videos from youtube.com or other video platforms. It's really awesome, at least for me.  [![Open-Source Software][OSS Icon]](https://github.com/rg3/youtube-dl).
 
