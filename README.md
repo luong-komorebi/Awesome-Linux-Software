@@ -189,66 +189,87 @@ Brazilian Portugese version : [here](https://github.com/LewisVo/Awesome-Linux-So
 - [Yosembiance theme](https://github.com/bsundman/Yosembiance) - A modified Ambiance theme (loosely) inspired by OSX Yosemite. [![Open-Source Software][OSS Icon]](https://github.com/bsundman/Yosembiance) 
 
 ### Development
+
+#### Android
 - [Anbox](https://anbox.io) - Run Android applications on any GNU/Linux operating system.[![Open-Source Software][OSS Icon]](https://github.com/anbox/anbox) 
 - [Android studio](https://developer.android.com/studio/index.html) - The Official IDE for Android: Android Studio provides the fastest tools for building apps on every type of Android device.
-- [AppImage](http://appimage.org/) - A format and tools to distribute Linux desktop applications to users of many distributions. [![Open-Source Software][OSS Icon]](http://appimage.org/) 
-- [Aptana](http://www.aptana.com/) - Aptana Studio harnesses the flexibility of Eclipse and focuses it into a powerful web development engine.
-- [Arduino IDE](https://www.arduino.cc/en/Main/Software) - The open-source Arduino Software (IDE) makes it easy to write code and upload it to the board. 
-- [BlueJ](http://bluej.org/) - A free Java Development Environment designed for beginners, used by millions worldwide.[![Open-Source Software][OSS Icon]](https://www.bluej.org/versions.html)
+
+#### C\+\+
 - [Clion](https://www.jetbrains.com/clion/) - A cross-platform and powerful IDE for C and C++.![Nonfree][Money Icon]
 - [Code::Blocks](http://www.codeblocks.org/) - Code::Blocks is a free C, C++ and Fortran IDE built to meet the most demanding needs of its users. It is designed to be very extensible and fully configurable. 
 - [Codelite](http://codelite.org/) - A Free, open source, cross platform C,C++,PHP and Node.js IDE. 
-- [Cscope](http://cscope.sourceforge.net/) - Cscope is a developer's tool for browsing source code. Although cmd-line application, it is nativelly integrated with Vim editor.  It allows searching code for symbols, definitions, functions (called/calling), regex, files. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/cscope/) 
+- [QT Creator](https://www.qt.io/ide/) - Fully-stocked cross-platform integrated development environment for easy creation of connected devices, UIs and applications.[![Open-Source Software][OSS Icon]](https://github.com/qt-creator/qt-creator)
+
+#### Database
 - [DBeaver](http://dbeaver.jkiss.org/) - A universal database client supporting multiple platforms and databases. [![Open-Source Software][OSS Icon]](https://github.com/serge-rider/dbeaver/) 
-- [Diffuse](https://sourceforge.net/projects/diffuse/) - Diffuse is a graphical tool for comparing and merging text files. It can retrieve files for comparison from Bazaar, CVS, Darcs, Git, Mercurial, Monotone, RCS, Subversion, and SVK repositories.  [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/diffuse/files/?source=navbar) 
-- [Eclipse](https://eclipse.org/ide/) - Eclipse is famous for our Java Integrated Development Environment (IDE), but our C/C++ IDE and PHP IDE are pretty cool too
-- [Fisherman](https://github.com/fisherman/fisherman) - A plugin manager for fish shell. [![Open-Source Software][OSS Icon]](https://github.com/fisherman/fisherman) 
-- [Fish](https://fishshell.com/) - A smart and user-friendly command-line shell. [![Open-Source Software][OSS Icon]](https://github.com/fish-shell/fish-shell) 
-- [Fossil](https://www.fossil-scm.org) - Self-contained, distributed software configuration management system with integrated bug-tracking, wiki, technotes and web interface. [![Open-Source Software][OSS Icon]](https://www.fossil-scm.org/index.html/dir?ci=tip)
+(https://sourceforge.net/projects/diffuse/files/?source=navbar) 
+- [MariaDB](https://mariadb.org/) - One of the most popular database servers. Made by the original developers of MySQL. [![Open-Source Software][OSS Icon]](https://mariadb.org/get-involved/getting-started-for-developers/)
+- [Postgresql](https://www.postgresql.org/download/) - PostgreSQL is a powerful, open source object-relational database system. 
+- [Sqlite Browser](http://sqlitebrowser.org/) - Visually create, manage, and view sqlite database files.  [![Open-Source Software][OSS Icon]](https://github.com/sqlitebrowser/sqlitebrowser)
+
+#### Golang
+- [Gogland](https://www.jetbrains.com/go/) - Gogland is the codename for a new commercial IDE by JetBrains aimed at providing an ergonomic environment for Go development.
+
+#### Java
+- [BlueJ](http://bluej.org/) - A free Java Development Environment designed for beginners, used by millions worldwide.[![Open-Source Software][OSS Icon]](https://www.bluej.org/versions.html)
+- [Eclipse](https://eclipse.org/ide/) - Eclipse is famous for our Java Integrated Development Environment (IDE), but our C/C++ IDE and PHP IDE are pretty cool too. 
+- [IntelliJ IDEA](https://www.jetbrains.com/idea/) - Powerful IDE for JAVA.
+
+#### Javascript
+- [Webstorm](https://www.jetbrains.com/webstorm/) - Powerful IDE for modern JavaScript development, made by JetBrains. 
+
+
+#### Microcomputer and embedded devices 
+- [Arduino IDE](https://www.arduino.cc/en/Main/Software) - The open-source Arduino Software (IDE) makes it easy to write code and upload it to the board. 
 - [Fritzing](http://fritzing.org/) - Fritzing is an open-source hardware initiative that makes electronics accessible as a creative material for anyone.[![Open-Source Software][OSS Icon]](https://github.com/fritzing/fritzing-app)
-- [Geany](https://www.geany.org/) - Geany is a text editor using the GTK+ toolkit with basic features of an integrated development environment. It was developed to provide a small and fast IDE, which has only a few dependencies from other packages. [![Open-Source Software][OSS Icon]](https://www.geany.org/Download/Git)
+- [Sloeber IDE](http://eclipse.baeyens.it/) - Sloeber IDE. The Arduino IDE for Eclipse. I love it very much. [![Open-Source Software][OSS Icon]](https://github.com/jantje/arduino-eclipse-plugin) 
+
+#### Multiple languages support
+- [Aptana](http://www.aptana.com/) - Aptana Studio harnesses the flexibility of Eclipse and focuses it into a powerful web development engine.
+- [KDevelop](https://www.kdevelop.org/) - It is a free, open source IDE, feature-full, plugin extensible IDE for C/C++ and other programming languages.[![Open-Source Software][OSS Icon]](https://phabricator.kde.org/dashboard/view/8/)
+- [MonoDevelop](http://www.monodevelop.com/) - Cross platform IDE for C#, F# and more. [![Open-Source Software][OSS Icon]](http://www.monodevelop.com/developers/)
+- [Netbeans](https://netbeans.org/downloads/) - NetBeans IDE lets you quickly and easily develop Java desktop, mobile, and web applications, as well as HTML5 applications with HTML, JavaScript, and CSS. 
+
+#### PHP
+- [PHPStorm](https://www.jetbrains.com/phpstorm/) - Lightning-smart and powerful PHP IDE from Jetbrain.
+
+#### Python
+- [PyCharm](https://www.jetbrains.com/pycharm/) - Powerful IDE for Python 
+
+#### Shell
+- [Fish](https://fishshell.com/) - A smart and user-friendly command-line shell. [![Open-Source Software][OSS Icon]](https://github.com/fish-shell/fish-shell) 
+- [Fisherman](https://github.com/fisherman/fisherman) - A plugin manager for fish shell. [![Open-Source Software][OSS Icon]](https://github.com/fisherman/fisherman) 
+(https://www.fossil-scm.org/index.html/dir?ci=tip)
+- [Ipython](https://ipython.org/) - Powerful Python shell. [![Open-Source Software][OSS Icon]](https://github.com/ipython/ipython)
+- [Oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - Provides various packages and themes to extend the functionality of your fish shell. [![Open-Source Software][OSS Icon]](https://github.com/oh-my-fish/oh-my-fish) 
+- [Oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - A delightful community-driven framework for managing your zsh configuration.  [![Open-Source Software][OSS Icon]](https://github.com/robbyrussell/oh-my-zsh)
+- [Zsh](http://www.zsh.org/) -  A powerful command line shell. [![Open-Source Software][OSS Icon]](http://sourceforge.net/p/zsh/code/ci/master/tree/)
+
+#### Supporting tools
+- [Cscope](http://cscope.sourceforge.net/) - Cscope is a developer's tool for browsing source code. Although cmd-line application, it is nativelly integrated with Vim editor.  It allows searching code for symbols, definitions, functions (called/calling), regex, files. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/cscope/) 
+- [Diffuse](https://sourceforge.net/projects/diffuse/) - Diffuse is a graphical tool for comparing and merging text files. It can retrieve files for comparison from Bazaar, CVS, Darcs, Git, Mercurial, Monotone, RCS, Subversion, and SVK repositories.  [![Open-Source Software][OSS Icon]]
+- [Fossil](https://www.fossil-scm.org) - Self-contained, distributed software configuration management system with integrated bug-tracking, wiki, technotes and web interface. [![Open-Source Software][OSS Icon]]
 - [Genymotion](https://www.genymotion.com/features/) - Genymotion is a fast third-party emulator that can be used instead of the default Android emulator.
 - [Giggle](https://wiki.gnome.org/action/show/Apps/giggle?action=show&redirect=giggle) - Giggle is a graphical frontend for the git content tracker. [![Open-Source Software][OSS Icon]](https://git.gnome.org//browse/giggle/)
-- [GitCola](http://git-cola.github.io/) - Git Cola is a sleek and powerful graphical Git client. Written in Python and GPL-licensed. 
+- [GitCola](http://git-cola.github.io/) - Git Cola is a sleek and powerful graphical Git client. Written in Python and GPL-licensed.
 - [Gitg](https://wiki.gnome.org/Apps/Gitg) - gitg is the GNOME GUI client to view git repositories. [![Open-Source Software][OSS Icon]](https://wiki.gnome.org/Apps/Gitg#Development_Resources)
 - [GitKraken](https://www.gitkraken.com/) - The downright luxurious Git GUI client,for Windows, Mac & Linux. 
 - [Git](https://git-scm.com/) - Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
-- [Gogland](https://www.jetbrains.com/go/) - Gogland is the codename for a new commercial IDE by JetBrains aimed at providing an ergonomic environment for Go development.
 - [Insomnia](https://insomnia.rest/) - A simple, beautiful, and free REST API client. 
-- [IntelliJ IDEA](https://www.jetbrains.com/idea/) - Powerful IDE for JAVA 
-- [Ipython](https://ipython.org/) - Powerful Python shell. [![Open-Source Software][OSS Icon]](https://github.com/ipython/ipython)
 - [Jupyter Notebook](https://jupyter.org/) - Open source, interactive data science and scientific computing across over 40 programming languages. [![Open-Source Software][OSS Icon]](https://jupyter.readthedocs.io/en/latest/install.html)
-- [KDevelop](https://www.kdevelop.org/) - It is a free, open source IDE, feature-full, plugin extensible IDE for C/C++ and other programming languages.[![Open-Source Software][OSS Icon]](https://phabricator.kde.org/dashboard/view/8/)
-- [Komodo Edit](https://github.com/Komodo/KomodoEdit) - Free and open source multilanguage development environment. [![Open-Source Software][OSS Icon]](https://github.com/Komodo/KomodoEdit)
-- [MariaDB](https://mariadb.org/) - One of the most popular database servers. Made by the original developers of MySQL. [![Open-Source Software][OSS Icon]](https://mariadb.org/get-involved/getting-started-for-developers/)
 - [Meld](http://meldmerge.org/) - Meld is a visual diff and merge tool that helps you compare files, directories, and version controlled projects.  [![Open-Source Software][OSS Icon]](http://meldmerge.org/development.html)
 - [Mockingbot](https://mockingbot.in/?) - Mocking bot is an easy-to-use prototyping tool. 
-- [MonoDevelop](http://www.monodevelop.com/) - Cross platform IDE for C#, F# and more. [![Open-Source Software][OSS Icon]](http://www.monodevelop.com/developers/)
 - [Nemiver](https://github.com/GNOME/nemiver) - Nemiver is a project to write a standalone graphical debugger that integrates well in the GNOME desktop environment. [![Open-Source Software][OSS Icon]](https://github.com/GNOME/nemiver) 
-- [Netbeans](https://netbeans.org/downloads/) - NetBeans IDE lets you quickly and easily develop Java desktop, mobile, and web applications, as well as HTML5 applications with HTML, JavaScript, and CSS. 
-- [NodeJS](https://nodejs.org/en/) - Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine. [![Open-Source Software][OSS Icon]](https://github.com/nodejs/node)
-- [Oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - Provides various packages and themes to extend the functionality of your fish shell. [![Open-Source Software][OSS Icon]](https://github.com/oh-my-fish/oh-my-fish) 
-- [Oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - A delightful community-driven framework for managing your zsh configuration.  [![Open-Source Software][OSS Icon]](https://github.com/robbyrussell/oh-my-zsh)
 - [Pencil](http://pencil.evolus.vn/) - An open-source GUI prototyping tool that's available for ALL platforms.  [![Open-Source Software][OSS Icon]](https://github.com/evolus/pencil)
 - [Pick](http://kryogenix.org/code/pick/) - Simple color picker.  [![Open-Source Software][OSS Icon]](https://github.com/stuartlangridge/ColourPicker)
-- [PHPStorm](https://www.jetbrains.com/phpstorm/) - Lightning-smart and powerful PHP IDE from Jetbrain.
-- [Postgresql](https://www.postgresql.org/download/) - PostgreSQL is a powerful, open source object-relational database system. 
 - [Postman](https://www.getpostman.com) - Postman, help us test API quickly.
-- [PyCharm](https://www.jetbrains.com/pycharm/) - Powerful IDE for Python 
-- [QT Creator](https://www.qt.io/ide/) - Fully-stocked cross-platform integrated development environment for easy creation of connected devices, UIs and applications.[![Open-Source Software][OSS Icon]](https://github.com/qt-creator/qt-creator)
 - [Rabbit VCS](http://rabbitvcs.org/) - RabbitVCS is a set of graphical tools written to provide simple and straightforward access to the version control systems you use. [![Open-Source Software][OSS Icon]](https://github.com/rabbitvcs/rabbitvcs) 
-- [Sloeber IDE](http://eclipse.baeyens.it/) - Sloeber IDE. The Arduino IDE for Eclipse. I love it very much. [![Open-Source Software][OSS Icon]](https://github.com/jantje/arduino-eclipse-plugin) 
 - [SmartGit](http://www.syntevo.com/smartgit/) - SmartGit is a Git client with support for GitHub Pull Requests+Comments and SVN. ![Nonfree][Money Icon]
-- [Sqlite Browser](http://sqlitebrowser.org/) - Visually create, manage, and view sqlite database files.  [![Open-Source Software][OSS Icon]](https://github.com/sqlitebrowser/sqlitebrowser)
 - [StarUML](http://staruml.io/) - A sophisticated software modeler.
-- [Swift](https://swift.org/download/) - Swift is a general-purpose programming language built using a modern approach to safety, performance, and software design patterns. 
-- [Ubuntu-SDK](https://developer.ubuntu.com/en/phone/platform/sdk/installing-the-sdk/) - The official Ubuntu SDK. 
-- [Uncrustify](http://uncrustify.sourceforge.net/) - Source Code Beautifier for C, C++, C#, ObjectiveC, D, Java, Pawn and VALA. See UniversalIndentGUI below. [![Open-Source Software][OSS Icon]](https://github.com/uncrustify/uncrustify) 
+- [Uncrustify](http://uncrustify.sourceforge.net/) - Source Code Beautifier for C, C++, C#, ObjectiveC, D, Java, Pawn and VALA. See UniversalIndentGUI below. [![Open-Source Software][OSS Icon]]
 - [UniversalIndentGUI](http://universalindent.sourceforge.net/) - UniversalIndentGUI offers a live preview for setting the parameters of nearly any indenter. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/universalindent/files/uigui/) 
-- [Webstorm](https://www.jetbrains.com/webstorm/) - Powerful IDE for modern JavaScript development, made by JetBrains. 
 - [Wireshark](https://www.wireshark.org/) - Wireshark is the world's foremost network protocol analyzer. It lets you see what's happening on your network at a microscopic level. It is the de facto (and often de jure) standard across many industries and educational institutions.
-- [Zeal](https://zealdocs.org/) - Zeal is an offline documentation browser for software developers. [![Open-Source Software][OSS Icon]](https://github.com/zealdocs/zeal)
-- [Zsh](http://www.zsh.org/) -  A powerful command line shell. [![Open-Source Software][OSS Icon]](http://sourceforge.net/p/zsh/code/ci/master/tree/)
+- [Zeal](https://zealdocs.org/) - Zeal is an offline documentation browser for software developers. [![Open-Source Software][OSS Icon]](https://github.com/zealdocs/zeal) 
 
 ### E-Book Utilities
 - [Bookworm](https://babluboy.github.io/bookworm/) - A simple, focused eBook reader. [![Open-Source Software][OSS Icon]](https://github.com/babluboy/bookworm) 
@@ -279,6 +300,7 @@ Brazilian Portugese version : [here](https://github.com/LewisVo/Awesome-Linux-So
 - [Gedit](https://wiki.gnome.org/Apps/Gedit) -gedit is the GNOME text editor. While aiming at simplicity and ease of use, gedit is a powerful general purpose text editor.
 - [Kakoune](http://kakoune.org/) - Kakoune code ediotr - Vim inspired.  Faster as in less keystrokes.  Multiple selections.  Orthogonal design. Has a strong focus on interactivity.  [![Open-Source Software][OSS Icon]](https://github.com/mawww/kakoune)
 - [Kate](https://kate-editor.org/get-it/) - Kate is a multi-document editor part of KDE since release 2.2. [![Open-Source Software][OSS Icon]](https://kate-editor.org/build-it/)
+- [Komodo Edit](https://github.com/Komodo/KomodoEdit) - Free and open source multilanguage development environment. [![Open-Source Software][OSS Icon]](https://github.com/Komodo/KomodoEdit)
 - [Lighttable](http://lighttable.com/) - The next generation code editor! Support live coding. 
 - [Spacemacs](http://spacemacs.org) - A community-driven Emacs distribution. [![Open-Source Software][OSS Icon]](https://github.com/syl20bnr/spacemacs)
 - [Sublime](https://www.sublimetext.com/) - One of the best text editor of all time. 
