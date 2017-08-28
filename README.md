@@ -890,5 +890,4 @@ A beer in your country can buy a meal in mine.
 
 [chitchat]: https://github.com/stonesam92/ChitChat
 [OSS Icon]: https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg
-[Money Icon]: https://cdn.rawgit.com/LewisVo/Awesome-Linux-Software/80a5cfd6/img/money.svg
-[Freeware Icon]: https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/free.svg 
+[Money Icon]: https://rawgit.com/LewisVo/Awesome-Linux-Software/master/img/money.svg
