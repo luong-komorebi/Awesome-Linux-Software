@@ -231,6 +231,7 @@ Brazilian Portugese version : [here](https://github.com/LewisVo/Awesome-Linux-So
 - [Oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - A delightful community-driven framework for managing your zsh configuration.  [![Open-Source Software][OSS Icon]](https://github.com/robbyrussell/oh-my-zsh)
 - [Pencil](http://pencil.evolus.vn/) - An open-source GUI prototyping tool that's available for ALL platforms.  [![Open-Source Software][OSS Icon]](https://github.com/evolus/pencil)
 - [Pick](http://kryogenix.org/code/pick/) - Simple color picker.  [![Open-Source Software][OSS Icon]](https://github.com/stuartlangridge/ColourPicker)
+- [PHPStorm](https://www.jetbrains.com/phpstorm/) - Powerful IDE for PHP
 - [Postgresql](https://www.postgresql.org/download/) - PostgreSQL is a powerful, open source object-relational database system. 
 - [Postman](https://www.getpostman.com) - Postman, help us test API quickly.
 - [PyCharm](https://www.jetbrains.com/pycharm/) - Powerful IDE for Python 
