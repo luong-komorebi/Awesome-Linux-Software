@@ -201,10 +201,15 @@ Brazilian Portugese version : [here](https://github.com/LewisVo/Awesome-Linux-So
 - [QT Creator](https://www.qt.io/ide/) - Fully-stocked cross-platform integrated development environment for easy creation of connected devices, UIs and applications.[![Open-Source Software][OSS Icon]](https://github.com/qt-creator/qt-creator)
 
 #### Database
+- [Cassandra](http://cassandra.apache.org/) - Apache Cassandra database is the right choice when you need scalability and high availability without compromising performance. Linear scalability and proven fault-tolerance on commodity hardware or cloud infrastructure make it the perfect platform for mission-critical data. [![Open-Source Software][OSS Icon]](https://github.com/apache/cassandra)
+- [CouchDB](http://couchdb.apache.org/) - Seamless multi-master sync, that scales from Big Data to Mobile, with an Intuitive HTTP/JSON API and designed for Reliability.[![Open-Source Software][OSS Icon]](https://github.com/apache?query=couchdb)
 - [DBeaver](http://dbeaver.jkiss.org/) - A universal database client supporting multiple platforms and databases. [![Open-Source Software][OSS Icon]](https://github.com/serge-rider/dbeaver/) 
-(https://sourceforge.net/projects/diffuse/files/?source=navbar) 
 - [MariaDB](https://mariadb.org/) - One of the most popular database servers. Made by the original developers of MySQL. [![Open-Source Software][OSS Icon]](https://mariadb.org/get-involved/getting-started-for-developers/)
+- [MongoDB](https://www.mongodb.com/) - MongoDB is a free and open-source cross-platform document-oriented database program, uses JSON-like documents with schemas. [![Open-Source Software][OSS Icon]](https://github.com/mongodb/mongo)
+- [MySql](https://dev.mysql.com/doc/refman/5.7/en/linux-installation.html) - MySQL is the world's leading open source database thanks to its proven performance, reliability and ease-of-use. It is used by high profile web properties including Facebook, Twitter, YouTube, Yahoo! and many more.[![Open-Source Software][OSS Icon]](https://github.com/mysql/mysql-server)
+- [OracleDB](http://www.oracle.com/technetwork/database/enterprise-edition/downloads/index.html) - Object-relational database management system produced and marketed by Oracle Corporation, one of the most trusted and widely-used relational database engines.
 - [Postgresql](https://www.postgresql.org/download/) - PostgreSQL is a powerful, open source object-relational database system. 
+- [Sqlite](https://sqlite.org/download.html) - SQLite is an in-process library that implements a self-contained, serverless, zero-configuration, transactional SQL database engine.[![Open-Source Software][OSS Icon]](https://www.sqlite.org/src/doc/trunk/README.md) 
 - [Sqlite Browser](http://sqlitebrowser.org/) - Visually create, manage, and view sqlite database files.  [![Open-Source Software][OSS Icon]](https://github.com/sqlitebrowser/sqlitebrowser)
 
 #### Golang
@@ -247,7 +252,7 @@ Brazilian Portugese version : [here](https://github.com/LewisVo/Awesome-Linux-So
 
 #### Supporting tools
 - [Cscope](http://cscope.sourceforge.net/) - Cscope is a developer's tool for browsing source code. Although cmd-line application, it is nativelly integrated with Vim editor.  It allows searching code for symbols, definitions, functions (called/calling), regex, files. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/cscope/) 
-- [Diffuse](https://sourceforge.net/projects/diffuse/) - Diffuse is a graphical tool for comparing and merging text files. It can retrieve files for comparison from Bazaar, CVS, Darcs, Git, Mercurial, Monotone, RCS, Subversion, and SVK repositories.  [![Open-Source Software][OSS Icon]]
+- [Diffuse](https://sourceforge.net/projects/diffuse/) - Diffuse is a graphical tool for comparing and merging text files. It can retrieve files for comparison from Bazaar, CVS, Darcs, Git, Mercurial, Monotone, RCS, Subversion, and SVK repositories.  [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/diffuse/files/?source=navbar) 
 - [Fossil](https://www.fossil-scm.org) - Self-contained, distributed software configuration management system with integrated bug-tracking, wiki, technotes and web interface. [![Open-Source Software][OSS Icon]]
 - [Genymotion](https://www.genymotion.com/features/) - Genymotion is a fast third-party emulator that can be used instead of the default Android emulator.
 - [Giggle](https://wiki.gnome.org/action/show/Apps/giggle?action=show&redirect=giggle) - Giggle is a graphical frontend for the git content tracker. [![Open-Source Software][OSS Icon]](https://git.gnome.org//browse/giggle/)
