@@ -1,8 +1,9 @@
 - [English](#introduction)
 - [中文](#介绍)
+- [Português (Brasil)](#Português (Brasil))
 
 # Introduction
-`asort.py` is a very simple python3 script that aims to make sure items in the README file of the repo [Awesome-Linux-Software](https://github.com/VoLuong/Awesome-Linux-Software) are sorted alphabetically. 
+`asort.py` is a very simple python3 script that aims to make sure items in the README file of the repo [Awesome-Linux-Software](https://github.com/VoLuong/Awesome-Linux-Software) are sorted alphabetically.
 
 This script only sorts items in the following topics for now (items between topic Applications and topic Setup):
 - Applications
@@ -48,3 +49,26 @@ MIT License.
 # 许可
 MIT 许可协议。
 
+---------------------------------------------
+# Português (Brasil)
+`asort.py` é um script python3 muito simples, que visa garantir que os itens no arquivo README do repositório [Awesome-Linux-Software](https://github.com/VoLuong/Awesome-Linux-Software) sejam ordenados alfabeticamente.
+
+Este script apenas classifica itens nos seguintes tópicos por enquanto (Itens entre os tópicos Aplicativos e Configuração):
+- Aplicativos
+- Utilitários de linha de comando
+- Ambiente de trabalho
+- Gestores de exibição
+- Gestor de janelas
+
+# Modo de usar
+1. Adicione itens aos tópicos correspondentes, não se preocupe com a ordem desses itens.
+1. Verifique se está instalado o ambiente python3 em seu sistema.
+1. Abra o terminal e digite `python3 asort.py` para executar o script. Depois disso, você receberá um novo arquivo README com todos os itens nos tópicos acima classificados em ordem alfabética.
+
+![test screenshot](./test.png)
+
+## Nota
+`asort_pt-BR.py` funciona no arquivo [README_pt-BR.md](https://github.com/VoLuong/Awesome-Linux-Software/blob/master/README_pt-BR.md), versão Portugês Brasileira desta lista.
+
+# Licença
+Licença MIT.
