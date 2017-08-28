@@ -93,7 +93,7 @@ Brazilian Portugese version : [here](https://github.com/LewisVo/Awesome-Linux-So
 - [Cantata](https://www.linux-apps.com/content/show.php/Cantata?content=147733) - Qt5 Graphical MPD (Music Player Daemon) Client for Linux, Windows, MacOS. [![Open-Source Software][OSS Icon]](https://github.com/CDrummond/cantata) 
 - [Clementine](https://www.clementine-player.org/) - Play numerous lossy and lossless audio formats. [![Open-Source Software][OSS Icon]](https://github.com/clementine-player/Clementine) 
 - [Cmus](https://cmus.github.io/#download) - cmus is a small, fast and powerful console music player for Unix-like operating systems.[![Open-Source Software][OSS Icon]](https://github.com/cmus/cmus) 
-- [Deepin](https://www.deepin.org/en/original/deepin-music/) - An application developed by Deepin Technology Team which focused on local music playing. [![Open-Source Software][OSS Icon]](https://github.com/linuxdeepin/deepin-music) 
+- [Deepin Music](https://www.deepin.org/en/original/deepin-music/) - An application developed by Deepin Technology Team which focused on local music playing. [![Open-Source Software][OSS Icon]](https://github.com/linuxdeepin/deepin-music) 
 - [Google Play Music](https://www.googleplaymusicdesktopplayer.com/) - Unofficial but beautiful cross platform Desktop Player for Google Play Music.[![Open-Source Software][OSS Icon]](https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-) 
 - [Gpodder](https://gpodder.github.io/) - Media aggregator and podcast client. [![Open-Source Software][OSS Icon]](https://github.com/gpodder/gpodder) 
 - [Harmony](http://getharmony.xyz) - Music player with sleek interface & cloud compatibility. [![Open-Source Software][OSS Icon]](https://github.com/vincelwt/harmony) 
@@ -106,6 +106,7 @@ Brazilian Portugese version : [here](https://github.com/LewisVo/Awesome-Linux-So
 - [Lollypop](http://gnumdk.github.io/lollypop-web) - Lollypop is a new GNOME music playing application. [![Open-Source Software][OSS Icon]](https://github.com/gnumdk/lollypop) 
 - [Lyricfier](https://github.com/emilioastarita/lyricfier) - a Spotify Lyrics alternative app. [![Open-Source Software][OSS Icon]](https://github.com/emilioastarita/lyricfier) 
 - [Mixxx](http://www.mixxx.org/download/) - Free DJ software that gives you everything you need to perform live mixes, veritable alternative to Traktor. [![Open-Source Software][OSS Icon]](https://github.com/mixxxdj/mixxx) 
+- [Mellow Player](https://colinduquesnoy.github.io/MellowPlayer/) - Cloud music integration for your desktop. [![Open-Source Software][OSS Icon]](https://github.com/ColinDuquesnoy/MellowPlayer)
 - [Museek](http://museeks.io/) - A simple, clean and cross-platform music player. [![Open-Source Software][OSS Icon]](https://github.com/KeitIG/museeks) 
 - [Netease Music](http://music.163.com/#/download) -  A music player of Netease - a cloud music service in China. 
 - [Nuclear](http://nuclear.gumblert.tech/) - An Electron-based, multiplatform music player app that streams from multiple sources.  [![Open-Source Software][OSS Icon]](https://github.com/nukeop/nuclear) 
