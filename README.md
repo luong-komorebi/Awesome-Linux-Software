@@ -206,9 +206,13 @@ Brazilian Portugese version : [here](https://github.com/LewisVo/Awesome-Linux-So
 - [DBeaver](http://dbeaver.jkiss.org/) - A universal database client supporting multiple platforms and databases. [![Open-Source Software][OSS Icon]](https://github.com/serge-rider/dbeaver/) 
 - [MariaDB](https://mariadb.org/) - One of the most popular database servers. Made by the original developers of MySQL. [![Open-Source Software][OSS Icon]](https://mariadb.org/get-involved/getting-started-for-developers/)
 - [MongoDB](https://www.mongodb.com/) - MongoDB is a free and open-source cross-platform document-oriented database program, uses JSON-like documents with schemas. [![Open-Source Software][OSS Icon]](https://github.com/mongodb/mongo)
-- [MySql](https://dev.mysql.com/doc/refman/5.7/en/linux-installation.html) - MySQL is the world's leading open source database thanks to its proven performance, reliability and ease-of-use. It is used by high profile web properties including Facebook, Twitter, YouTube, Yahoo! and many more.[![Open-Source Software][OSS Icon]](https://github.com/mysql/mysql-server)
+- [MySQL](https://dev.mysql.com/doc/refman/5.7/en/linux-installation.html) - MySQL is the world's leading open source database thanks to its proven performance, reliability and ease-of-use. It is used by high profile web properties including Facebook, Twitter, YouTube, Yahoo! and many more.[![Open-Source Software][OSS Icon]](https://github.com/mysql/mysql-server)
 - [OracleDB](http://www.oracle.com/technetwork/database/enterprise-edition/downloads/index.html) - Object-relational database management system produced and marketed by Oracle Corporation, one of the most trusted and widely-used relational database engines.
-- [Postgresql](https://www.postgresql.org/download/) - PostgreSQL is a powerful, open source object-relational database system. 
+- [Percona MongoDB](https://www.percona.com/software/mongo-database/percona-server-for-mongodb) - Percona Server for MongoDB provides all features and benefits of MongoDB Community Server.
+- [Percona Monitoring](https://www.percona.com/software/database-tools/percona-monitoring-and-management) - Percona Monitoring and Management (PMM) is a free and open-source platform for managing and monitoring MySQL, MariaDB and MongoDB performance. You can run PMM in your own environment for maximum security and reliability. It provides thorough time-based analysis for MySQL, MariaDB and MongoDB servers to ensure that your data works as efficiently as possible. 
+- [Percona MySQL](https://www.percona.com/software/mysql-database/percona-server) - Percona Server for MySQL is a free, fully compatible, enhanced, open source drop-in replacement for MySQL that provides superior performance, scalability and instrumentation.
+- [Percona XtraDB Cluster](https://www.percona.com/software/mysql-database/percona-xtradb-cluster) - Percona XtraDB Cluster is an active/active high availability and high scalability open source solution for MySQL clustering. It integrates Percona Server and Percona XtraBackup with the Codership Galera library of MySQL high availability solutions in a single package that enables you to create a cost-effective MySQL high availability cluster.
+- [PostgreSQL](https://www.postgresql.org/download/) - PostgreSQL is a powerful, open source object-relational database system with more than 15 year development. PostgreSQL is not controlled by any corporation or other private entity and the source code is available free of charge [![Open-Source Software][OSS Icon]](https://github.com/postgres/postgres)
 - [Sqlite](https://sqlite.org/download.html) - SQLite is an in-process library that implements a self-contained, serverless, zero-configuration, transactional SQL database engine.[![Open-Source Software][OSS Icon]](https://www.sqlite.org/src/doc/trunk/README.md) 
 - [Sqlite Browser](http://sqlitebrowser.org/) - Visually create, manage, and view sqlite database files.  [![Open-Source Software][OSS Icon]](https://github.com/sqlitebrowser/sqlitebrowser)
 
@@ -260,6 +264,8 @@ Brazilian Portugese version : [here](https://github.com/LewisVo/Awesome-Linux-So
 - [Gitg](https://wiki.gnome.org/Apps/Gitg) - gitg is the GNOME GUI client to view git repositories. [![Open-Source Software][OSS Icon]](https://wiki.gnome.org/Apps/Gitg#Development_Resources)
 - [GitKraken](https://www.gitkraken.com/) - The downright luxurious Git GUI client,for Windows, Mac & Linux. 
 - [Git](https://git-scm.com/) - Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
+- [GitLab](https://github.com/gitlabhq/gitlabhq) - GitLab is a web-based Git repository manager with wiki and issue tracking features.[![Open-Source Software][OSS Icon]](https://github.com/gitlabhq/gitlabhq)
+- [Gitolite](http://gitolite.com/gitolite/index.html) - Hosting git repositories. Gitolite allows you to setup git hosting on a central server, with very fine-grained access control and many more powerful features.[![Open-Source Software][OSS Icon]](https://github.com/sitaramc/gitolite)
 - [Insomnia](https://insomnia.rest/) - A simple, beautiful, and free REST API client. 
 - [Jupyter Notebook](https://jupyter.org/) - Open source, interactive data science and scientific computing across over 40 programming languages. [![Open-Source Software][OSS Icon]](https://jupyter.readthedocs.io/en/latest/install.html)
 - [Meld](http://meldmerge.org/) - Meld is a visual diff and merge tool that helps you compare files, directories, and version controlled projects.  [![Open-Source Software][OSS Icon]](http://meldmerge.org/development.html)
@@ -273,6 +279,7 @@ Brazilian Portugese version : [here](https://github.com/LewisVo/Awesome-Linux-So
 - [StarUML](http://staruml.io/) - A sophisticated software modeler.
 - [Uncrustify](http://uncrustify.sourceforge.net/) - Source Code Beautifier for C, C++, C#, ObjectiveC, D, Java, Pawn and VALA. See UniversalIndentGUI below. [![Open-Source Software][OSS Icon]]
 - [UniversalIndentGUI](http://universalindent.sourceforge.net/) - UniversalIndentGUI offers a live preview for setting the parameters of nearly any indenter. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/universalindent/files/uigui/) 
+- [Wdiff](https://www.gnu.org/software/wdiff/) - The GNU wdiff program is a front end to diff for comparing files on a word per word basis. It collects the diff output and uses it to produce a nicer display of word differences between the original files. [![Open-Source Software][OSS Icon]](https://www.gnu.org/software/wdiff/devguide) 
 - [Wireshark](https://www.wireshark.org/) - Wireshark is the world's foremost network protocol analyzer. It lets you see what's happening on your network at a microscopic level. It is the de facto (and often de jure) standard across many industries and educational institutions.
 - [Zeal](https://zealdocs.org/) - Zeal is an offline documentation browser for software developers. [![Open-Source Software][OSS Icon]](https://github.com/zealdocs/zeal) 
 
@@ -446,6 +453,7 @@ Brazilian Portugese version : [here](https://github.com/LewisVo/Awesome-Linux-So
 - [Vectr](https://vectr.com/) - Vectr is a free graphics software used to create vector graphics easily and intuitively. It's a simple yet powerful web and desktop cross-platform tool to bring your designs into reality.
 - [Vidcutter](http://vidcutter.ozmartians.com/) - Cross-platform Qt5 based app for quick and easy video trimming/splitting and merging/joining for simple quick edits. [![Open-Source Software][OSS Icon]](https://github.com/ozmartian/vidcutter)
 - [Xara Extreme](http://www.xaraxtreme.org/) - Xara Xtreme for Linux is a powerful, general purpose graphics program for Unix platforms including Linux, FreeBSD[![Open-Source Software][OSS Icon]](http://www.xaraxtreme.org/Developers/develeopers-source-code-a-building.html)
+- [yEd Graph Editor](https://www.yworks.com/products/yed) - yEd is a powerful desktop application that can be used to quickly and effectively generate high-quality diagrams. Create diagrams manually, or import your external data for analysis. Our automatic layout algorithms arrange even large data sets with just the press of a button. 
 
 ### Internet
 - [Brave](https://brave.com/) - Brave is a fast, good desktop browser for macOS, Windows, and Linux. [![Open-Source Software][OSS Icon]](https://github.com/brave/browser-laptop)
@@ -566,6 +574,7 @@ firewall zones to define the trust level of network connections or interfaces. [
 - [Syncthing](https://syncthing.net/) - Syncthing replaces proprietary sync and cloud services with something open, trustworthy and decentralized.[![Open-Source Software][OSS Icon]](https://github.com/syncthing/syncthing) 
 - [Teamviewer](https://www.teamviewer.com/ ) - PC remote control/remote access software, free for personal use.
 - [Transmission](https://www.transmissionbt.com/download/) - Simple, lightweight, multi-platform torrent client. [![Open-Source Software][OSS Icon]](https://trac.transmissionbt.com/browser/trunk) 
+- [Transmission Remote GUI](https://sourceforge.net/projects/transgui/) - Transmission Remote GUI is a feature rich cross platform front-end to remotely control a Transmission Bit-Torrent client daemon via its RPC protocol. [![Open-Source Software][OSS Icon]](https://github.com/leonsoft-kras/transmisson-remote-gui)
 - [uGet](http://ugetdm.com/) - The best download manager for Linux. [![Open-Source Software][OSS Icon]](http://ugetdm.com/contribute/code) 
 - [uTorrent](http://www.utorrent.com) - Elegant, efficient torrent downloading. 
 - [Vuze](http://www.vuze.com) - Bittorrent Client is an end-to-end software application for all your torrent needs. 
@@ -607,6 +616,7 @@ firewall zones to define the trust level of network connections or interfaces. [
 - [Emoji Keyboard](https://github.com/OzymandiasTheGreat/emoji-keyboard) - Virtual keyboard-like emoji picker for Linux.[![Open-Source Software][OSS Icon]](https://github.com/OzymandiasTheGreat/emoji-keyboard) 
 - [Encryptr](https://spideroak.com/encryptr/) - Encryptr is a zero-knowledge, cloud-based e-wallet / password manager powered by Crypton. [![Open-Source Software][OSS Icon]](https://github.com/SpiderOak/Encryptr) 
 - [Enpass](https://www.enpass.io/) - Enpass makes your life easy by securely managing your passwords and important information.
+- [FreeRDP](http://www.freerdp.com/) - FreeRDP is a free implementation of the Remote Desktop Protocol (RDP). [![Open-Source Software][OSS Icon]](https://github.com/FreeRDP/FreeRDP) 
 - [GD map](http://gdmap.sourceforge.net/) - A tool to visualize disk usage. 
 - [Ghost Writer](http://wereturtle.github.io/ghostwriter/) - A distraction-free Markdown editor for Windows and Linux.  [![Open-Source Software][OSS Icon]](http://github.com/wereturtle/ghostwriter) .
 - [Gloobus-Preview](https://github.com/antonio-malcolm/gloobus-preview) - It gives you a quick preview of your files. It's similar to [Sushi](https://github.com/GNOME/sushi) [![Open-Source Software][OSS Icon]](https://github.com/antonio-malcolm/gloobus-preview) .
