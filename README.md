@@ -776,7 +776,7 @@ firewall zones to define the trust level of network connections or interfaces. [
 - [Qtile](http://www.qtile.org/) - qtile is a full-featured, hackable tiling window manager written and configured in Python [![Open-Source Software][OSS Icon]](https://github.com/qtile/qtile) 
 
 ### Dynamic window managers
-- [awesome](https://awesome.naquadah.org) - Highly configurable, next generation framework window manager for X. [![Open-Source Software][OSS Icon]](https://github.com/awesomeWM/awesome) 
+- [awesome](https://awesomewm.org) - Highly configurable, next generation framework window manager for X. [![Open-Source Software][OSS Icon]](https://github.com/awesomeWM/awesome) 
 - [dwm](http://dwm.suckless.org) - Dynamic window manager for X. It manages windows in tiled, monocle and floating layouts. [![Open-Source Software][OSS Icon]](https://github.com/cdown/dwm) 
 - [i3](https://i3wm.org) - Tiling window manager, completely written from scratch. [![Open-Source Software][OSS Icon]](https://github.com/i3/i3) 
 - [spectrwm](https://github.com/conformal/spectrwm/wiki) - Small dynamic tiling window manager for X11, largely inspired by xmonad and dwm. [![Open-Source Software][OSS Icon]](https://github.com/conformal/spectrwm) 
