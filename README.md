@@ -463,6 +463,7 @@ Brazilian Portugese version : [here](https://github.com/LewisVo/Awesome-Linux-So
 - [Kazam](https://launchpad.net/kazam) - An easy to use and very intuitive screen recording program that will capture the content of your screen and record a video file that can be played by any video player that supports VP8/WebM video format. [![Open-Source Software][OSS Icon]](https://code.launchpad.net/kazam)
 - [OBS Studio](https://obsproject.com/) - Free and open source software for video recording and live streaming. Download and start streaming quickly and easily on Windows, Mac or Linux. Share your gaming, art and entertainment with the world. [![Open-Source Software][OSS Icon]](https://github.com/jp9000/OBS)
 - [Peek](https://github.com/phw/peek) - Simple animated GIF screen recorder with an easy to use interface.[![Open-Source Software][OSS Icon]](https://github.com/phw/peek)
+- [Vokoscreen](http://www.kohaupt-online.de/hp/) - A free, multilingual and easy to use screencast recorder with audio for Linux. Features: detects webcams, avi and mkv video containers, mpeg4 and h.264 video codecs, adjustable frame rate, ... [![Open-Source Software][OSS Icon]](https://github.com/vkohaupt/vokoscreen) 
 
 #### Video editor
 - [Flowblade](https://github.com/jliljebl/flowblade/releases/tag/1.12.2) - A multitrack non-linear video editor for Linux.[![Open-Source Software][OSS Icon]](https://github.com/jliljebl/flowblade)
@@ -678,7 +679,6 @@ firewall zones to define the trust level of network connections or interfaces. [
 - [USB network gate](https://www.eltima.com/products/usb-over-ip-linux/) - Share USB port over Network on Linux.
 - [Variety](http://peterlevi.com/variety/) - Variety is an open-source wallpaper changer for Linux, packed with great features, yet slim and easy to use. [![Open-Source Software][OSS Icon]](https://github.com/peterlevi/variety-slideshow) 
 - [Virtualbox](https://www.virtualbox.org/wiki/Downloads) - VirtualBox is a general-purpose full virtualizer for x86 hardware, targeted at server, desktop and embedded use.[![Open-Source Software][OSS Icon]](https://www.virtualbox.org/wiki/Contributor_information) 
-- [vokoscreen](http://www.kohaupt-online.de/hp/) - vokoscreen is an easy to use screencast creator to record educational videos, live recordings of browser, installation, videoconferences, etc. [![Open-Source Software][OSS Icon]](https://github.com/vkohaupt/vokoscreen) 
 - [WallpaperChange](https://apps.ubuntu.com/cat/applications/raring/wallch/) - Automatically change your wallpaper.
 - [Workrave](http://www.workrave.org/) - A program that assists in the recovery and prevention of Repetitive Strain Injury (RSI). [![Open-Source Software][OSS Icon]](https://github.com/rcaelers/workrave) 
 - [Wormhole](https://github.com/warner/magic-wormhole) - get arbitrary-sized files and directories (or short pieces of text) from one computer to another safely. [![Open-Source Software][OSS Icon]](https://github.com/warner/magic-wormhole) 
