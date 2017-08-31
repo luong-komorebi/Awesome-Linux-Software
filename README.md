@@ -39,6 +39,7 @@ Brazilian Portugese version : [here](https://github.com/LewisVo/Awesome-Linux-So
     - [Terminal](#terminal)
     - [Utilities](#utilities)
     - [Video](#video)
+    - [Wiki software](#wiki-software)
     - [Others](#others)
 - [Command Line Utilities](#command-line-utilities)
 - [Desktop Environments](#desktop-environments)
@@ -94,8 +95,10 @@ Brazilian Portugese version : [here](https://github.com/LewisVo/Awesome-Linux-So
 - [Clementine](https://www.clementine-player.org/) - Play numerous lossy and lossless audio formats. [![Open-Source Software][OSS Icon]](https://github.com/clementine-player/Clementine) 
 - [Cmus](https://cmus.github.io/#download) - cmus is a small, fast and powerful console music player for Unix-like operating systems.[![Open-Source Software][OSS Icon]](https://github.com/cmus/cmus) 
 - [Deepin Music](https://www.deepin.org/en/original/deepin-music/) - An application developed by Deepin Technology Team which focused on local music playing. [![Open-Source Software][OSS Icon]](https://github.com/linuxdeepin/deepin-music) 
+- [Gnormalize](http://gnormalize.sourceforge.net/) - gnormalize is an audio converter and CD ripper with ReplayGain normalization algorithms, a metadata (tag) editor and an audio player. It uses gtk2-perl under GNU/Linux. ![Open-Source Software][OSS Icon]
 - [Google Play Music](https://www.googleplaymusicdesktopplayer.com/) - Unofficial but beautiful cross platform Desktop Player for Google Play Music.[![Open-Source Software][OSS Icon]](https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-) 
 - [Gpodder](https://gpodder.github.io/) - Media aggregator and podcast client. [![Open-Source Software][OSS Icon]](https://github.com/gpodder/gpodder) 
+- [GRadio](https://github.com/haecker-felix/gradio/releases/) - Radio software for Ubuntu Linux. [![Open-Source Software][OSS Icon]](https://github.com/haecker-felix/gradio/releases/) 
 - [Harmony](http://getharmony.xyz) - Music player with sleek interface & cloud compatibility. [![Open-Source Software][OSS Icon]](https://github.com/vincelwt/harmony) 
 - [Hydrogen](http://www.hydrogen-music.org/hcms/node/21) - Advanced drum machine for GNU/Linux.  [![Open-Source Software][OSS Icon]](https://github.com/hydrogen-music/hydrogen)
 - [K3b](http://www.k3b.org/) - K3b - The CD/DVD Kreator for Linux - optimized for KDE.[![Open-Source Software][OSS Icon]](https://github.com/KDE/k3b)
@@ -207,6 +210,7 @@ Brazilian Portugese version : [here](https://github.com/LewisVo/Awesome-Linux-So
 - [MariaDB](https://mariadb.org/) - One of the most popular database servers. Made by the original developers of MySQL. [![Open-Source Software][OSS Icon]](https://mariadb.org/get-involved/getting-started-for-developers/)
 - [MongoDB](https://www.mongodb.com/) - MongoDB is a free and open-source cross-platform document-oriented database program, uses JSON-like documents with schemas. [![Open-Source Software][OSS Icon]](https://github.com/mongodb/mongo)
 - [MySQL](https://dev.mysql.com/doc/refman/5.7/en/linux-installation.html) - MySQL is the world's leading open source database thanks to its proven performance, reliability and ease-of-use. It is used by high profile web properties including Facebook, Twitter, YouTube, Yahoo! and many more.[![Open-Source Software][OSS Icon]](https://github.com/mysql/mysql-server)
+- [MyCLI](http://www.mycli.net/) - MyCLI is a command line interface for MySQL, MariaDB, and Percona with auto-completion and syntax highlighting. [![Open-Source Software][OSS Icon]](https://github.com/dbcli/mycli)
 - [OracleDB](http://www.oracle.com/technetwork/database/enterprise-edition/downloads/index.html) - Object-relational database management system produced and marketed by Oracle Corporation, one of the most trusted and widely-used relational database engines.
 - [Percona MongoDB](https://www.percona.com/software/mongo-database/percona-server-for-mongodb) - Percona Server for MongoDB provides all features and benefits of MongoDB Community Server.
 - [Percona Monitoring](https://www.percona.com/software/database-tools/percona-monitoring-and-management) - Percona Monitoring and Management (PMM) is a free and open-source platform for managing and monitoring MySQL, MariaDB and MongoDB performance. You can run PMM in your own environment for maximum security and reliability. It provides thorough time-based analysis for MySQL, MariaDB and MongoDB servers to ensure that your data works as efficiently as possible. 
@@ -367,8 +371,6 @@ Brazilian Portugese version : [here](https://github.com/LewisVo/Awesome-Linux-So
 
 ### File Manager
 - [7Zip](http://www.7-zip.org/download.html) - Unzip any zip files
-- [AngrySearch](https://github.com/DoTheEvo/ANGRYsearch) - Linux file search, instant results as you type. [![Open-Source Software][OSS Icon]](https://code.launchpad.net/catfish-search) 
-- [Catfish](https://launchpad.net/catfish-search) - Catfish is a versatile file searching tool. [![Open-Source Software][OSS Icon]](https://github.com/DoTheEvo/ANGRYsearch) 
 - [Dolphin](https://userbase.kde.org/Dolphin) - Dolphin is  the default file manager of the KDE desktop environment featuring usability as well as functionality. [![Open-Source Software][OSS Icon]](https://github.com/KDE/dolphin) 
 - [Double Commander](http://doublecmd.sourceforge.net/) - Double Commander is a cross platform open source file manager with two panels side by side. It is inspired by Total Commander and features some new ideas.
 - [Krusader](https://krusader.org) - Krusader is an advanced twin panel (commander style) file manager for KDE and other desktops in the \*nix world, similar to Midnight or Total Commander. [![Open-Source Software][OSS Icon]](https://krusader.org/get-involved/index.html)
@@ -453,6 +455,7 @@ Brazilian Portugese version : [here](https://github.com/LewisVo/Awesome-Linux-So
 
 #### Miscellaneous
 - [Agave](http://home.gna.org/colorscheme/) - Agave is a very simple application for the GNOME desktop that allows you to generate a variety of colorschemes from a single starting color
+- [Handbrake](https://handbrake.fr/) - HandBrake is a tool for converting video from nearly any format to a selection of modern, widely supported codecs.[![Open-Source Software][OSS Icon]](https://github.com/HandBrake/HandBrake) 
 - [Potrace](http://potrace.sourceforge.net/) - Potrace is a tool for tracing a bitmap, which means, transforming a bitmap into a smooth, scalable image. [![Open-Source Software][OSS Icon]](http://potrace.sourceforge.net/#downloading) 
 - [Radiance](http://www.radiance-online.org/) - Radiance - A Validated Lighting Simulation Tool[![Open-Source Software][OSS Icon]](https://www.radiance-online.org/download-install/radiance-source-code)
 - [Ramme](https://github.com/terkelg/ramme) - Unofficial Instagram desktop application. [![Open-Source Software][OSS Icon]](https://github.com/terkelg/ramme)
@@ -509,6 +512,7 @@ Brazilian Portugese version : [here](https://github.com/LewisVo/Awesome-Linux-So
 ### Office
 - Gummi [gtk2](https://github.com/alexandervdm/gummi)|[gtk3](https://github.com/aitjcize/Gummi) - Simple latex editor with templates, spell check, and wizards. [![Open-Source Software][OSS Icon]](https://github.com/alexandervdm/gummi)
 - [Caligra Office](https://www.calligra.org/) - offers a comprehensive set of 8 applications which satisfies the office, graphics and management needs.
+- [Ghost Writer](http://wereturtle.github.io/ghostwriter/) - A distraction-free Markdown editor for Windows and Linux.  [![Open-Source Software][OSS Icon]](http://github.com/wereturtle/ghostwriter) .
 - [GnuCash](https://www.gnucash.org/) - GnuCash is a free software accounting program that implements a double-entry bookkeeping system. It was initially aimed at developing capabilities similar to Intuit, Inc.'s Quicken application, but also has features for small business accounting.  [![Open-Source Software][OSS Icon]](https://github.com/Gnucash/)
 - [KMyMoney](https://kmymoney.org/) - KMyMoney is the personal finance manager by KDE. Its operation is similar to Microsoft Money and Quicken.  [![Open-Source Software][OSS Icon]](https://github.com/KDE/kmymoney)
 - [LaTeXila](https://wiki.gnome.org/Apps/LaTeXila) - LaTeXila is a LaTeX editor for the GNOME desktop. [![Open-Source Software][OSS Icon]](https://git.gnome.org/browse/latexila)
@@ -522,6 +526,10 @@ Brazilian Portugese version : [here](https://github.com/LewisVo/Awesome-Linux-So
 
 ### Productivity
 
+#### Automation 
+- [Actionaz](http://actionaz.org/) - Automation tasks utility for Ubuntu/Linux
+- [Autokey](https://code.google.com/archive/p/autokey/) - A desktop automation utility for Linux allows you to manage collection of scripts and phrases, and assign abbreviations and hotkeys to these. 
+- [Caffeine](https://launchpad.net/caffeine) - Prevents Ubuntu from automatically going to sleep.
 
 #### Dock
 - [Cairo-Dock](http://glx-dock.org/) - Cairo-Dock is a desktop interface that takes the shape of docks, desklets, panel, etc. [![Open-Source Software][OSS Icon]](https://github.com/Cairo-Dock) 
@@ -529,12 +537,14 @@ Brazilian Portugese version : [here](https://github.com/LewisVo/Awesome-Linux-So
 - [Plank](https://launchpad.net/plank) - Plank is meant to be the simplest dock of apps on the planet.[![Open-Source Software][OSS Icon]](https://code.launchpad.net/plank) 
 
 #### Local search
+- [Albert](https://github.com/ManuelSchneid3r/albert/wiki/User-guide#how-to-install-albert) - An awesome application launcher for the Linux desktop [![Open-Source Software][OSS Icon]](https://github.com/ManuelSchneid3r/albert) 
+- [AngrySearch](https://github.com/DoTheEvo/ANGRYsearch) - Linux file search, instant results as you type. [![Open-Source Software][OSS Icon]](https://github.com/DoTheEvo/ANGRYsearch) 
+- [Catfish](https://launchpad.net/catfish-search) - Catfish is a versatile file searching tool. [![Open-Source Software][OSS Icon]](https://code.launchpad.net/catfish-search) 
 - [Cerebro](https://cerebroapp.com/) - Open-source productivity booster with a brain / MacOS-Spotlight alternative. [![Open-Source Software][OSS Icon]](https://github.com/KELiON/cerebro) 
-- [Plotinus](https://github.com/p-e-w/plotinus) - A searchable command palette in every modern GTK+ application. [![Open-Source Software][OSS Icon]](https://github.com/p-e-w/plotinus) 
+- [Plotinus](https://github.com/p-e-w/plotinus) - A searchable command palette in every modern GTK+ application. [![Open-Source Software][OSS Icon]](https://github.com/p-e-w/plotinus)
 
 #### Miscellaneous
 - [Ambient Noise](https://itsfoss.com/ambient-noise-music-player-ubuntu/) - Install ambient noise for extra focus on Linux.
-- [Autokey](https://code.google.com/archive/p/autokey/) - A desktop automation utility for Linux allows you to manage collection of scripts and phrases, and assign abbreviations and hotkeys to these. 
 - [CopyQ](http://hluk.github.io/CopyQ/) -CopyQ is advanced clipboard manager with editing and scripting features. 
 - [f.lux](https://justgetflux.com/linux.html) - Automatically adjust your computer screen to match lighting. 
 - [Gpick](http://www.gpick.org/) - Gpick allows you to sample any color from anywhere on your desktop, and it also provides some other advanced features! [![Open-Source Software][OSS Icon]](https://github.com/thezbyg/gpick) 
@@ -542,14 +552,21 @@ Brazilian Portugese version : [here](https://github.com/LewisVo/Awesome-Linux-So
 - [SpeedCrunch](http://www.speedcrunch.org/) - A nice, open source, high-precision scientific calculator. [![Open-Source Software][OSS Icon]](http://www.speedcrunch.org/) 
 - [Undistract me](https://github.com/jml/undistract-me) - Notifies you when long-running terminal commands complete. [![Open-Source Software][OSS Icon]](https://github.com/jml/undistract-me) 
 - [Xmind](http://www.xmind.net/) - Mind Mapping Tool.
-- [Zim](http://zim-wiki.org/) - A graphical text editor used to maintain a collection of wiki pages, great for notes and documents. Stored in plain text files for easy version control.[![Open-Source Software][OSS Icon]](https://launchpad.net/zim) 
 
 #### Note taking
 - [Basket Note Pads](http://basket.kde.org/) - This multi-purpose note-taking application helps you to easily take all sort of notes. [![Open-Source Software][OSS Icon]](http://basket.kde.org/svnaccess.php) 
 - [NixNote](https://sourceforge.net/projects/nevernote/) - An open source client for Evernote. [![Open-Source Software][OSS Icon]](https://sourceforge.net/p/nevernote/code/ci/master/tree/) 
 - [Notepadqq](http://notepadqq.altervista.org/wp/) - Notepadqq is a Notepad++-like editor for the Linux desktop.[![Open-Source Software][OSS Icon]](https://github.com/notepadqq/notepadqq) 
 - [Notes](http://www.get-notes.com/) - A clean simple note taking app for Linux.[![Open-Source Software][OSS Icon]](https://github.com/nuttyartist/notes) 
-- [Papyrus](http://aseman.co/en/products/papyrus/) - Papyrus is a different note manager which is focusing on Security, Better user interface. Papyrus are trying to provide an easy to use and smart user interface for users. [![Open-Source Software][OSS Icon]](https://github.com/Aseman-Land/Papyrus)
+- [Org mode](http://orgmode.org/) - Org mode is for keeping notes, maintaining TODO lists, planning projects, and authoring documents with a fast and effective plain-text system.[![Open-Source Software][OSS Icon]](http://orgmode.org/cgit.cgi/org-mode.git/) 
+- [Papyrus](http://aseman.co/en/products/papyrus/) - Papyrus is a different note manager which is focusing on Security, Better user interface. Papyrus are trying to provide an easy to use and smart user interface for users. [![Open-Source Software][OSS Icon]](https://github.com/Aseman-Land/Papyrus) 
+- [Plank](https://launchpad.net/plank) - Plank is meant to be the simplest dock of apps on the planet.[![Open-Source Software][OSS Icon]](https://code.launchpad.net/plank) 
+- [Plotinus](https://github.com/p-e-w/plotinus) - A searchable command palette in every modern GTK+ application. [![Open-Source Software][OSS Icon]](https://github.com/p-e-w/plotinus) 
+- [Pomodone App](http://pomodoneapp.com/) - PomoDoneApp is the easiest way to track your workflow using Pomodoro technique®, on top of your current task management service.![Nonfree][Money Icon]
+- [Recent Noti](https://itsfoss.com/7-best-indicator-applets-for-ubuntu-13-10/) - An indicator for recent notification.
+- [Redshift](http://jonls.dk/redshift/) - Redshift adjusts the color temperature of your screen according to your surroundings. This may help your eyes hurt less if you are working in front of the screen at night.[![Open-Source Software][OSS Icon]](https://github.com/jonls/redshift) 
+- [Shots](https://theshots.ru/) - HTML/CSS/JS screenshot application. [![Open-Source Software][OSS Icon]](https://github.com/binjospookie/--shots) 
+- [Shutter](http://shutter-project.org/) - Shutter is a feature-rich screenshot program for Linux based operating systems such as Ubuntu. 
 - [Simplenote](https://simplenote.com/) - Cross platform notetaking app. Evernote competitor.
 - [Springseed](https://github.com/spsdco/notes) - Simple and beautiful note taking app for daily user.[![Open-Source Software][OSS Icon]](https://github.com/spsdco/notes) 
 - [Stickynote](https://itsfoss.com/indicator-stickynotes-windows-like-sticky-note-app-for-ubuntu/) - Sticky notes on your Linux desktop.
@@ -560,6 +577,7 @@ Brazilian Portugese version : [here](https://github.com/LewisVo/Awesome-Linux-So
 #### Time and Task
 - [Alarm Clock](http://alarm-clock.pseudoberries.com/) - Alarm Clock is a fully-featured alarm clock for your GNOME panel or equivalent.  [![Open-Source Software][OSS Icon]](http://bazaar.launchpad.net/~joh/alarm-clock/trunk/files) 
 - [California](https://wiki.gnome.org/Apps/California) - Complete Calendar app replacement which uses natural language for creating events.
+- [Gnome Pomodoro](http://gnomepomodoro.org/#download) - A full-featured pomodoro timer for GNOME. [![Open-Source Software][OSS Icon]](https://github.com/codito/gnome-pomodoro) 
 - [Go For It](http://manuel-kehl.de/projects/go-for-it/) - Go For It! is a simple and stylish productivity app, featuring a to-do list, merged with a timer that keeps your focus on the current task.
 - [My Todo](https://github.com/mohamed-aziz/mytodo) - Mytodo is an open source to-do list program that puts you, the user, in command of everything.[![Open-Source Software][OSS Icon]](https://github.com/mohamed-aziz/mytodo)
 - [Pomodone App](http://pomodoneapp.com/) - PomoDoneApp is the easiest way to track your workflow using Pomodoro technique®, on top of your current task management service.![Nonfree][Money Icon]
@@ -620,6 +638,7 @@ firewall zones to define the trust level of network connections or interfaces. [
 - [uTorrent](http://www.utorrent.com) - Elegant, efficient torrent downloading. 
 - [Vuze](http://www.vuze.com) - Bittorrent Client is an end-to-end software application for all your torrent needs. 
 - [Web Torrent Desktop](https://webtorrent.io/desktop/) - Web Torrent Desktop is for streaming torrents which connects to both BitTorrent and WebTorrent peers.![Freeware Icon]
+- [Wormhole](https://github.com/warner/magic-wormhole) - get arbitrary-sized files and directories (or short pieces of text) from one computer to another safely. [![Open-Source Software][OSS Icon]](https://github.com/warner/magic-wormhole) 
 
 ### Terminal
 - [Cool Retro Term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal that mimicks the old cathode display [![Open-Source Software][OSS Icon]](https://github.com/Swordfish90/cool-retro-term)
@@ -642,12 +661,9 @@ firewall zones to define the trust level of network connections or interfaces. [
 - [Yakuake](https://yakuake.kde.org/) - A Quake-style terminal emulator based on KDE Konsole technology.
 
 ### Utilities
-- [Actionaz](http://actionaz.org/) - Automation tasks utility for Ubuntu/Linux
-- [Albert](https://github.com/ManuelSchneid3r/albert/wiki/User-guide#how-to-install-albert) - An awesome application launcher for the Linux desktop [![Open-Source Software][OSS Icon]](https://github.com/ManuelSchneid3r/albert) 
 - [Aptik](http://www.teejeetech.in/2014/01/introducing-aptik.html) - A tool for you to organize your Favorite PPAs and manage Packages Easily. [![Open-Source Software][OSS Icon]](https://code.launchpad.net/~teejee2008/apt-toolkit/trunk) 
 - [Bleach bit](https://www.bleachbit.org/) -BleachBit quickly frees disk space and tirelessly guards your privacy. Free cache, delete cookies, clear Internet history, shred temporary files, delete logs, and more ... 
 - [Brasero](https://wiki.gnome.org/Apps/Brasero) - CD/DVD burner.
-- [Caffeine](https://launchpad.net/caffeine) - Prevents Ubuntu from automatically going to sleep.
 - [Cheat](https://github.com/chrisallenlane/cheat) - Cheat allows you to create and view interactive cheatsheets on the command-line.`Simplify man tool`[![Open-Source Software][OSS Icon]](https://github.com/chrisallenlane/cheat)
 - [Clonezilla](http://clonezilla.org/) - Clonezilla is a partition and disk imaging/cloning program similar to True Image® or Norton Ghost®.[![Open-Source Software][OSS Icon]](http://clonezilla.org/related-links/)
 - [Convertall](https://sourceforge.net/projects/convertall/) - Convert all units.
@@ -659,14 +675,10 @@ firewall zones to define the trust level of network connections or interfaces. [
 - [Enpass](https://www.enpass.io/) - Enpass makes your life easy by securely managing your passwords and important information.
 - [FreeRDP](http://www.freerdp.com/) - FreeRDP is a free implementation of the Remote Desktop Protocol (RDP). [![Open-Source Software][OSS Icon]](https://github.com/FreeRDP/FreeRDP) 
 - [GD map](http://gdmap.sourceforge.net/) - A tool to visualize disk usage. 
-- [Ghost Writer](http://wereturtle.github.io/ghostwriter/) - A distraction-free Markdown editor for Windows and Linux.  [![Open-Source Software][OSS Icon]](http://github.com/wereturtle/ghostwriter) .
 - [Gloobus-Preview](https://github.com/antonio-malcolm/gloobus-preview) - It gives you a quick preview of your files. It's similar to [Sushi](https://github.com/GNOME/sushi) [![Open-Source Software][OSS Icon]](https://github.com/antonio-malcolm/gloobus-preview) .
-- [Gnome Pomodoro](http://gnomepomodoro.org/#download) - A full-featured pomodoro timer for GNOME. [![Open-Source Software][OSS Icon]](https://github.com/codito/gnome-pomodoro) 
 - [GnomePie](http://simmesimme.github.io/news/2016/08/24/gnome-pie-069) - the circular app launcher for Linux desktops.[![Open-Source Software][OSS Icon]](http://simmesimme.github.io/news/2016/08/24/gnome-pie-069) 
-- [Gnormalize](http://gnormalize.sourceforge.net/) - Audio converter. 
 - [GParted](http://gparted.org/) - Disk Partition utility for Linux. 
-- [GRadio](https://github.com/haecker-felix/gradio/releases/) - Radio software for Ubuntu Linux. [![Open-Source Software][OSS Icon]](https://github.com/haecker-felix/gradio/releases/) 
-- [Handbrake](https://handbrake.fr/) - Video converter. 
+- [Gramps](https://github.com/gramps-project/gramps) - Research, organize and share your family tree with Gramps. [![Open-Source Software][OSS Icon]](https://github.com/gramps-project/gramps) 
 - [indicator-cpufreq](https://launchpad.net/indicator-cpufreq) -  It provides the same functionality as the Gnome CPU frequency applet, but doesn't require Gnome panel and works under Unity. 
 - [indicator-multiload](https://launchpad.net/ubuntu/+source/indicator-multiload) - Graphical system load indicator for CPU, ram, etc. 
 - [Indicator-SysMonitor](https://github.com/fossfreedom/indicator-sysmonitor) - An Application Indicator showing cpu temperature, memory, network speed, cpu usage,  public IP address and internet connection status. [![Open-Source Software][OSS Icon]](https://github.com/fossfreedom/indicator-sysmonitor) 
@@ -675,11 +687,11 @@ firewall zones to define the trust level of network connections or interfaces. [
 - [KeeWeb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass [![Open-Source Software][OSS Icon]](https://github.com/keeweb/keeweb) 
 - [Komorebi](https://github.com/iabem97/komorebi/releases) - Komorebi is a background manager for all Linux platforms, provides fully customizeable backgrounds that can be tweaked at any time. [![Open-Source Software][OSS Icon]](https://github.com/iabem97/komorebi)
 - [KVM](http://www.linux-kvm.org/page/Main_Page) - KVM (for Kernel-based Virtual Machine) is a full virtualization solution for Linux on x86 hardware containing virtualization extensions (Intel VT or AMD-V). [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/kvm/files/) 
-- [LastPass](https://lastpass.com/misc_download2.php) - Cross platform password <manager class="" Freeware="" Icon=""></manager>
+- [LastPass](https://lastpass.com/misc_download2.php) - LastPass is a crossplatform freemium password management service that stores encrypted passwords in private accounts.
 - [Nativefier](https://github.com/jiahaog/nativefier) - Make any web page a desktop application [![Open-Source Software][OSS Icon]](https://github.com/jiahaog/nativefier) 
 - [NetData](https://my-netdata.io) - Next-gen web based real-time performance and health monitoring for physical and virtual servers, containers and IoT devices. It is also a distributed `statsd` server with automatic visualization for APM (applications performance monitoring). [![Open-Source Software][OSS Icon]](https://github.com/firehol/netdata) 
+- [Ncdu](https://dev.yorhel.nl/ncdu) - Disk usage analyzer with an ncurses interface [![Open-Source Software][OSS Icon]](https://g.blicky.net/ncdu.git/) 
 - [Peazip](http://www.peazip.org/) - Utility to unzip any zipped files 
-- [Peek](https://github.com/phw/peek/releases) - A simple tool that allows you to record short animated GIF images from your screen.[![Open-Source Software][OSS Icon]](https://github.com/phw/peek) 
 - [PlexyDesk](http://www.omgubuntu.co.uk/2016/09/plexydesk-widgets-linux-desktop-ppa) - Plexydesk supports multiple widget workspaces/desktops on Linux.
 - [Powertop](https://01.org/powertop/downloads) - Diagnose issue with powerconsumption.
 - [Psensor](http://wpitchoune.net/psensor/) - Graphical hardware temperature monitor for Linux.[![Open-Source Software][OSS Icon]](http://git.wpitchoune.net/psensor.git/) 
@@ -688,7 +700,7 @@ firewall zones to define the trust level of network connections or interfaces. [
 - [Remmina](http://www.remmina.org/wp/) - A feature-rich remote desktop application for Linux and other UNIXes.[![Open-Source Software][OSS Icon]](https://github.com/FreeRDP/Remmina) 
 - [Stacer](https://github.com/oguzhaninan/Stacer) - Ubuntu System Optimizer [![Open-Source Software][OSS Icon]](https://github.com/oguzhaninan/Stacer) 
 - [Sushi](https://github.com/GNOME/sushi) - Sushi is a quick previewer for Nautilus, the GNOME desktop file manager. [![Open-Source Software][OSS Icon]](https://github.com/GNOME/sushi) 
-- [SympleScreenRecorder](https://launchpad.net/~maarten-baert/+archive/ubuntu/simplescreenrecorder/) - SimpleScreenRecorder is a feature-rich screen recorder that supports X11 and OpenGL. It has a Qt-based graphical user interface. [![Open-Source Software][OSS Icon]](https://code.launchpad.net/~maarten-baert) 
+- [SimpleScreenRecorder](hhttp://www.maartenbaert.be/simplescreenrecorder/) - SimpleScreenRecorder is a feature-rich screen recorder that supports X11 and OpenGL. It has a Qt-based graphical user interface. [![Open-Source Software][OSS Icon]](https://code.launchpad.net/~maarten-baert) 
 - [Synaptic](http://www.nongnu.org/synaptic/) - Synaptic is a graphical package management program for apt.
 - [Systemload](http://www.omgubuntu.co.uk/2014/06/system-monitor-indicator-ubuntu-ppa) - Show systemload in status bar.
 - [TightVNC](http://www.tightvnc.com/) - Free, Lightweight, Fast and Reliable Remote Control / Remote Desktop Software [![Open-Source Software][OSS Icon]] 
@@ -703,7 +715,6 @@ firewall zones to define the trust level of network connections or interfaces. [
 - [Virtualbox](https://www.virtualbox.org/wiki/Downloads) - VirtualBox is a general-purpose full virtualizer for x86 hardware, targeted at server, desktop and embedded use.[![Open-Source Software][OSS Icon]](https://www.virtualbox.org/wiki/Contributor_information) 
 - [WallpaperChange](https://apps.ubuntu.com/cat/applications/raring/wallch/) - Automatically change your wallpaper.
 - [Workrave](http://www.workrave.org/) - A program that assists in the recovery and prevention of Repetitive Strain Injury (RSI). [![Open-Source Software][OSS Icon]](https://github.com/rcaelers/workrave) 
-- [Wormhole](https://github.com/warner/magic-wormhole) - get arbitrary-sized files and directories (or short pieces of text) from one computer to another safely. [![Open-Source Software][OSS Icon]](https://github.com/warner/magic-wormhole) 
 - [Xtreme Download Manager](http://xdman.sourceforge.net/) - A good download manager with fresh UI for Linux.[![Open-Source Software][OSS Icon]](https://github.com/KaOS-Community-Packages/xdm) 
 
 ### Video
@@ -716,6 +727,11 @@ firewall zones to define the trust level of network connections or interfaces. [
 - [SMPlayer](http://smplayer.sourceforge.net/) - Free Media Player with built-in codecs. Play all audio and video formats.[![Open-Source Software][OSS Icon]](https://sourceforge.net/p/smplayer/code/HEAD/tree/)
 - [SVP](https://www.svp-team.com/w/index.php?title=Main_Page) - SVP allows you to watch any video on your desktop computer using frame interpolation as it is available on high-end TVs and projectors.
 - [VLC](http://www.videolan.org/vlc/index.html) - VLC is a free and open source cross-platform multimedia player and framework that plays most multimedia files as well as DVDs, Audio CDs, VCDs, and various streaming protocols. [![Open-Source Software][OSS Icon]](https://www.videolan.org/vlc/download-sources.html)
+
+### Wiki software
+- [ikiwiki](https://ikiwiki.info/) - ikiwiki is a wiki compiler. It converts wiki pages into HTML pages suitable for publishing on a website. Ikiwiki stores pages and history in a revision control system such as Subversion or Git.[![Open-Source Software][OSS Icon]](https://git.joeyh.name/git/ikiwiki.git/)
+- [Zim](http://zim-wiki.org/) - A graphical text editor used to maintain a collection of wiki pages, great for notes and documents. Stored in plain text files for easy version control.[![Open-Source Software][OSS Icon]](https://launchpad.net/zim) 
+
 
 ### Others
 - [GrubCustomizer](https://launchpad.net/grub-customizer) - Grub Customizer is a graphical interface to configure the GRUB2/BURG settings and menuentries. [![Open-Source Software][OSS Icon]](https://code.launchpad.net/grub-customizer) 
@@ -757,6 +773,7 @@ firewall zones to define the trust level of network connections or interfaces. [
 - [LXDE](http://lxde.org/) - The Lightweight X11 Desktop Environment is a fast and energy-saving desktop environment. [![Open-Source Software][OSS Icon]](https://github.com/lxde) 
 - [LXQt](http://lxqt.org/) - LXQt is the Qt port and the upcoming version of LXDE, the Lightweight Desktop Environment. [![Open-Source Software][OSS Icon]](https://github.com/lxde/lxqt) 
 - [Mate](http://mate-desktop.com/) - Mate provides an intuitive and attractive desktop to Linux users using traditional metaphors. MATE is a fork of GNOME 2. [![Open-Source Software][OSS Icon]](https://github.com/mate-desktop/) 
+- [Manokwari](http://manokwari.blankonlinux.or.id/) - Desktop shell for GNOME 3 with Gtk+ and HTML5 frontend. [![Open-Source Software][OSS Icon]](https://github.com/BlankOn/manokwari) 
 - [Pantheon](https://elementary.io/) - Pantheon is the default desktop environment originally created for the elementary OS distribution. 
 - [Unity 8](http://www.omgubuntu.co.uk/2016/04/ubuntu-16-04-unity-8-desktop-progress-video) - A guide on how to install unity 8 on Ubuntu 16.04.
 - [Unity](https://unity.ubuntu.com/) - Unity is a shell for GNOME designed by Canonical for Ubuntu. 

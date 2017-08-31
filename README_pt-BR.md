@@ -86,6 +86,7 @@ Duas versões chinesas desta lista estão disponíveis [aqui](https://github.com
 ## Aplicações
 
 ### Audio
+
 - [Airtime](https://www.sourcefabric.org/en/airtime/download/) - Airtime é um software de transmissão aberta para agendamento e gerenciamento de estação remota [![Open-Source Software][OSS Icon]](https://github.com/sourcefabric/Airtime) ![Freeware][Freeware Icon]
 - [Ardour](https://ardour.org/) - Grave, edite e misture no Linux ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://ardour.org/development.html)
 - [Audacious](http://audacious-media-player.org/) - Um leitor de aúdio open source,  reproduz sua música como você quiser, sem roubar os recursos de outras tarefas do seu computador.[![Open-Source Software][OSS Icon]](http://audacious-media-player.org/developers) ![Freeware][Freeware Icon]
