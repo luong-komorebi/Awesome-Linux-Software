@@ -472,6 +472,9 @@ Brazilian Portugese version : [here](https://github.com/LewisVo/Awesome-Linux-So
 - [Shots](https://theshots.ru/) - HTML/CSS/JS screenshot application. [![Open-Source Software][OSS Icon]](https://github.com/binjospookie/--shots) 
 - [Shutter](http://shutter-project.org/) - Shutter is a feature-rich screenshot program for Linux based operating systems such as Ubuntu. 
 
+#### Streaming
+- [ReadyMedia](http://minidlna.sourceforge.net/) - Formerly known as **MiniDLNA**, ReadyMedia is a is a simple, lightweight media server software, with the aim of being fully compliant with DLNA/UPnP-AV clients. The MiniDNLA daemon serves media files (music, pictures, and video) to clients on a network such as smartphones, portable media players, televisions, other computers and some gaming systems. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/minidlna) 
+
 #### Video editor
 - [Flowblade](https://github.com/jliljebl/flowblade/releases/tag/1.12.2) - A multitrack non-linear video editor for Linux.[![Open-Source Software][OSS Icon]](https://github.com/jliljebl/flowblade)
 - [Kdenlive](https://kdenlive.org/) - Kdenlive is a Non-Linear Video Editor, which is much more powerful than beginners’ (linear) editors.  [![Open-Source Software][OSS Icon]](https://github.com/KDE/kdenlive)
