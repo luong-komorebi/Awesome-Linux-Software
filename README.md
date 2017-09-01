@@ -188,7 +188,7 @@ Brazilian Portugese version : [here](https://github.com/LewisVo/Awesome-Linux-So
 - [Oomox theme generator](https://github.com/actionless/oomox) - Graphical application for generating different color variations of a Numix-based and Flat-Plat themes (GTK2, GTK3), Gnome-Colors and Archdroid icons. ![Open-Source Software][OSS Icon]
 - [Papirus Icon Theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme-gtk/) - SVG icon theme for Linux systems, based on Paper with a few extras like (hardcode-tray support, kde-color-scheme support, libreoffice icon theme, filezilla theme, smplayer themes ...) and other modifications. The theme is available for GTK and KDE. [![Open-Source Software][OSS Icon]](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme-gtk/) 
 - [Unity Tweak Tool](https://apps.ubuntu.com/cat/applications/unity-tweak-tool/) - Must-have app for Ubuntu Unity customization. [![Open-Source Software][OSS Icon]](https://github.com/ianyh/Amethyst) 
-- [Wpgtk](https:github.com/deviantfero/wpgtk) - A universal theming software for all themes defined in text files, compatible with all terminals, with default themes for GTK2, GTK+, openbox and Tint2 that uses pywal as it's core for colorscheme generation.
+- [Wpgtk](http://deviantfero.github.io/wpgtk) - A universal theming software for all themes defined in text files, compatible with all terminals, with default themes for GTK2, GTK+, openbox and Tint2 that uses pywal as it's core for colorscheme generation.
 - [Yosembiance theme](https://github.com/bsundman/Yosembiance) - A modified Ambiance theme (loosely) inspired by OSX Yosemite. [![Open-Source Software][OSS Icon]](https://github.com/bsundman/Yosembiance) 
 
 ### Development
@@ -649,7 +649,6 @@ firewall zones to define the trust level of network connections or interfaces. [
 - [RXVT](http://rxvt.sourceforge.net/) - A terminal emulator for X11, a popular replacement for the standard ‘xterm’.[![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/rxvt/)
 - [Sakura](https://launchpad.net/sakura) - Simple but powerful libvte based terminal emulator, supporting utf-8 and input methods as provided by gtk+ and pango libraries. [![Open-Source Software][OSS Icon]](https://launchpad.net/sakura)
 - [Terminator](http://gnometerminator.blogspot.com/p/introduction.html) - it’s quite clear that the most powerful terminal emulator on Linux is the feature-filled Terminator.
-- [Terminix](https://gnunn1.github.io/terminix-web/#packages) - A tiling terminal emulator for Linux using GTK+3 [![Open-Source Software][OSS Icon]](https://github.com/gnunn1/terminix) 
 - [Terminus](https://eugeny.github.io/terminus/) - modern, highly configurable terminal app based on web technologies.  [![Open-Source Software][OSS Icon]](https://github.com/Eugeny/terminus) 
 - [Termite](https://github.com/thestinger/termite) - A keyboard-centric VTE-based terminal, aimed at use within a window manager with tiling and/or tabbing support. [![Open-Source Software][OSS Icon]](https://github.com/thestinger/termite)
 - [Termit](https://github.com/nonstop/termit/wiki) - Simple terminal emulator based on vte library, extensible via Lua.[![Open-Source Software][OSS Icon]](https://github.com/nonstop/termit/wiki)
