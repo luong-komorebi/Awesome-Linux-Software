@@ -317,7 +317,7 @@ Brazilian Portugese version : [here](https://github.com/LewisVo/Awesome-Linux-So
 - [Kakoune](http://kakoune.org/) - Kakoune code ediotr - Vim inspired.  Faster as in less keystrokes.  Multiple selections.  Orthogonal design. Has a strong focus on interactivity.  [![Open-Source Software][OSS Icon]](https://github.com/mawww/kakoune)
 - [Kate](https://kate-editor.org/get-it/) - Kate is a multi-document editor part of KDE since release 2.2. [![Open-Source Software][OSS Icon]](https://kate-editor.org/build-it/)
 - [Komodo Edit](https://github.com/Komodo/KomodoEdit) - Free and open source multilanguage development environment. [![Open-Source Software][OSS Icon]](https://github.com/Komodo/KomodoEdit)
-- [Lighttable](http://lighttable.com/) - The next generation code editor! Support live coding. 
+- [Lighttable](http://lighttable.com/) - The next generation code editor! Support live coding. [![Open-Source Software][OSS Icon]](https://github.com/LightTable/LightTable)
 - [Spacemacs](http://spacemacs.org) - A community-driven Emacs distribution. [![Open-Source Software][OSS Icon]](https://github.com/syl20bnr/spacemacs)
 - [Sublime](https://www.sublimetext.com/) - One of the best text editor of all time. 
 - [Textadept](https://foicica.com/textadept) - Minimalist text editor for programmers. Textadept is extensible with Lua programming language. [![Open-Source Software][OSS Icon]](https://foicica.com/hg/textadept)
