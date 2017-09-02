@@ -20,7 +20,7 @@ Duas versões chinesas desta lista estão disponíveis [aqui](https://github.com
 
 - [Aplicativos](#aplicativos)
     - [Áudio](#audio)
-    - [Clientes para bate-papo](#chat-clients)
+    - [Clientes para bate-papo](#clientes-para-bate-papo)
     - [Backup e Recuperação de Dados](#data-backup-and-recovery)
     - [Personalização do Desktop](#desktop-customization)
     - [Desenvolvimento](#development)
@@ -83,7 +83,7 @@ Duas versões chinesas desta lista estão disponíveis [aqui](https://github.com
 
 
 
-## Aplicações
+## Aplicativos
 
 ### Audio
 
@@ -127,7 +127,7 @@ Duas versões chinesas desta lista estão disponíveis [aqui](https://github.com
 - [Tomahawk](https://www.tomahawk-player.org/) -A new kind of music player that invites all your streams, downloads, cloud music storage, playlists, radio stations and more. [![Open-Source Software][OSS Icon]](https://github.com/tomahawk-player/tomahawk)![Freeware][Freeware Icon]
 - [Vocal](http://vocalproject.net/) - Cliente Podcast para Desktops modernos. [![Open-Source Software][OSS Icon]](https://github.com/vocalapp) ![Freeware][Freeware Icon]
 
-### Clientes para bate-papo
+### Clientes para bate papo
 - [Caprine](https://sindresorhus.com/caprine) - Elegante aplicativo desktop do Facebook Messenger. [![Open-Source Software][OSS Icon]](https://github.com/sindresorhus/caprine) ![Freeware][Freeware Icon]
 - [Chatty](http://chatty.github.io/) - Chatty é um cliente de bate-papo Twitch para todos que querem experimentar algo novo e diferente de um webchat, e que também não desejam a complexidade de um cliente IRC ou perder os recursos especifícos do Twitch.[![Open-Source Software][OSS Icon]](https://github.com/chatty/chatty) ![Freeware][Freeware Icon]
 - [Cutegram](http://aseman.co/en/products/cutegram/) - Oferece mais recursos do que o aplicativo oficial do Telegram. [![Open-Source Software][OSS Icon]](https://github.com/Aseman-Land/Cutegram) ![Freeware][Freeware Icon]
