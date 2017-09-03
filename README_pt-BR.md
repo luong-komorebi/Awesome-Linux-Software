@@ -21,26 +21,26 @@ Duas versões chinesas desta lista estão disponíveis [aqui](https://github.com
 - [Aplicativos](#aplicativos)
     - [Áudio](#audio)
     - [Clientes para bate-papo](#clientes-para-bate-papo)
-    - [Backup e Recuperação de Dados](#data-backup-and-recovery)
-    - [Personalização do Desktop](#desktop-customization)
-    - [Desenvolvimento](#development)
-    - [E-Book úteis](#e-book-utilities)
-    - [Editores](#editors)
-    - [Educação](#education)
-    - [E-mail](#email)
-    - [Gerenciador de arquivos](#file-manager)
-    - [Jogos](#games)
-    - [Gráficos](#graphics)
+    - [Backup e Recuperação de Dados](#backup-e-recuperação-de-dados)
+    - [Personalização do Desktop](#personalização-do-desktop)
+    - [Desenvolvimento](#desenvolvimento)
+    - [E-Books Úteis](#e-books-úteis)
+    - [Editores](#editores)
+    - [Educação](#educação)
+    - [E-mail](#e-mail)
+    - [Gerenciador de arquivos](#gerenciador-de-arquivos)
+    - [Jogos](#jogos)
+    - [Gráficos](#gráficos)
     - [Internet](#internet)
-    - [Trabalho](#office)
-    - [Produtividade](#productivity)
+    - [Trabalho](#trabalho)
+    - [Produtividade](#produtividade)
     - [Proxy](#proxy)
-    - [Segurança](#security)
-    - [Compartilhamento de arquivos](#sharing-files)
+    - [Segurança](#segurança)
+    - [Compartilhamento de arquivos](#compartilhamento-de-arquivos)
     - [Terminal](#terminal)
-    - [Utilitários](#utilities)
-    - [Vídeo](#video)
-    - [Outros](#others)
+    - [Utilitários](#utilitários)
+    - [Vídeo](#vídeo)
+    - [Outros](#outros)
 - [Command Line Utilities](#command-line-utilities)
 - [Amboentes para Desktop](#desktop-environments)
 - [Gestores de exibição](#display-manager)
@@ -154,7 +154,7 @@ Duas versões chinesas desta lista estão disponíveis [aqui](https://github.com
 - [Weechat](https://weechat.org/) - WeeChat é um rápido, leve e extensivel client de bate-papo. [![Open-Source Software][OSS Icon]](https://github.com/weechat) ![Freeware][Freeware Icon]
 - [Wire](https://wire.com/en/) - Comunicação Segura. Privacidade total. [![Open-Source Software][OSS Icon]](https://github.com/wireapp) ![Freeware][Freeware Icon]
 
-### Backup e recuperação de dados
+### Backup e Recuperação de Dados
 - [Borg Backup](https://borgbackup.readthedocs.io/en/stable/) - Uma ótima ferramenta para recuperação de dados.[![Open-Source Software][OSS Icon]](https://borgbackup.readthedocs.io/en/stable/development.html) ![Freeware][Freeware Icon]
 - [Deja Dup](https://www.linux.com/learn/total-system-backup-and-recall-deja-dup) - Uma ferramenta de backup simples com criptografia embutida. [![Open-Source Software][OSS Icon]](https://launchpad.net/deja-dup)![Freeware][Freeware Icon]
 - [Duplicity](http://duplicity.nongnu.org/) - Duplicity faz backup de diretórios produzindo volumes no formato tar criptografados e enviando-os para servidores de arquivos remotos ou local. [![Open-Source Software][OSS Icon]](https://launchpad.net/duplicity) ![Freeware][Freeware Icon]
@@ -190,8 +190,8 @@ Ele foi projetado principalmente para ajudar a recuperar partições perdidas e/
 - [Yosembiance theme](https://github.com/bsundman/Yosembiance) - Um tema de ambiente modificado(vagamente) inspirado no OS X Yosemite. [![Open-Source Software][OSS Icon]](https://github.com/bsundman/Yosembiance) ![Freeware][Freeware Icon]
 
 ### Desenvolvimento
-- [Anbox](https://anbox.io) - Run Android applications on any GNU/Linux operating system.[![Open-Source Software][OSS Icon]](https://github.com/anbox/anbox) ![Freeware][Freeware Icon]
-- [Android studio](https://developer.android.com/studio/index.html) - The Official IDE for Android: Android Studio provides the fastest tools for building apps on every type of Android device.![Freeware][Freeware Icon]
+- [Anbox](https://anbox.io) - Execute aplicativos Android em qualquer sistema operacional GNU/Linux.[![Open-Source Software][OSS Icon]](https://github.com/anbox/anbox) ![Freeware][Freeware Icon]
+- [Android studio](https://developer.android.com/studio/index.html) - A IDE oficial para Android: Android Studio fornece as ferramentas mais rápidas para criar aplicativos em todos os tipos de dispositivos Android.![Freeware][Freeware Icon]
 - [AppImage](http://appimage.org/) - A format and tools to distribute Linux desktop applications to users of many distributions. [![Open-Source Software][OSS Icon]](http://appimage.org/) ![Freeware][Freeware Icon]
 - [Aptana](http://www.aptana.com/) - Aptana Studio harnesses the flexibility of Eclipse and focuses it into a powerful web development engine.![Freeware][Freeware Icon]
 - [Arduino IDE](https://www.arduino.cc/en/Main/Software) - The open-source Arduino Software (IDE) makes it easy to write code and upload it to the board. ![Freeware][Freeware Icon]
@@ -250,7 +250,7 @@ Ele foi projetado principalmente para ajudar a recuperar partições perdidas e/
 - [Zeal](https://zealdocs.org/) - Zeal is an offline documentation browser for software developers. [![Open-Source Software][OSS Icon]](https://github.com/zealdocs/zeal)![Freeware][Freeware Icon]
 - [Zsh](http://www.zsh.org/) -  A powerful command line shell. [![Open-Source Software][OSS Icon]](http://sourceforge.net/p/zsh/code/ci/master/tree/)
 
-### E-Book Utéis
+### E-Books Úteis
 - [Bookworm](https://babluboy.github.io/bookworm/) - A simple, focused eBook reader. [![Open-Source Software][OSS Icon]](https://github.com/babluboy/bookworm) ![Freeware][Freeware Icon]
 - [Buka](https://github.com/oguzhaninan/Buka/releases) - EBook Management [![Open-Source Software][OSS Icon]](https://github.com/oguzhaninan/Buka) ![Freeware][Freeware Icon]
 - [Calibre](http://calibre-ebook.com/) - Incredibly ugly but powerful software for ebook management and conversion. [![Open-Source Software][OSS Icon]](https://github.com/kovidgoyal/calibre) ![Freeware][Freeware Icon]
