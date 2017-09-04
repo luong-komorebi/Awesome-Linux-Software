@@ -430,7 +430,7 @@ Brazilian Portugese version : [here](https://github.com/LewisVo/Awesome-Linux-So
 - [PlayOnLinux](https://www.playonlinux.com) - A front-end for Wine. ![Open-Source Software][OSS Icon]
 - [Steam](steampowered.com) - Gaming store, which opens the gates to many games.
 - [RetroArch](http://www.retroarch.com/) - A front-end for a lot of game emulators. ![Open-Source Software][OSS Icon]
-- [Lutris](https://lutris.net/) - Lutris is an open gaming platform for Linux. It helps you install and manage your games in a unified interface. ![Open-Source Software][OSS Icon]
+- [Lutris](https://lutris.net/) - Lutris is an open gaming platform for Linux. It helps you install and manage your games in a unified interface. ![Open-Source Software][OSS Icon](https://github.com/lutris/lutris)
 
 ### Graphics
 
@@ -473,7 +473,6 @@ Brazilian Portugese version : [here](https://github.com/LewisVo/Awesome-Linux-So
 - [Shotwell](https://wiki.gnome.org/Apps/Shotwell) - Shotwell is a photo manager for GNOME 3.[![Open-Source Software][OSS Icon]](https://wiki.gnome.org/Apps/Shotwell)
 
 #### Miscellaneous
-- [Agave](http://home.gna.org/colorscheme/) - Agave is a very simple application for the GNOME desktop that allows you to generate a variety of colorschemes from a single starting color
 - [Handbrake](https://handbrake.fr/) - HandBrake is a tool for converting video from nearly any format to a selection of modern, widely supported codecs.[![Open-Source Software][OSS Icon]](https://github.com/HandBrake/HandBrake) 
 - [Potrace](http://potrace.sourceforge.net/) - Potrace is a tool for tracing a bitmap, which means, transforming a bitmap into a smooth, scalable image. [![Open-Source Software][OSS Icon]](http://potrace.sourceforge.net/#downloading) 
 - [Radiance](http://www.radiance-online.org/) - Radiance - A Validated Lighting Simulation Tool[![Open-Source Software][OSS Icon]](https://www.radiance-online.org/download-install/radiance-source-code)
@@ -546,6 +545,7 @@ Brazilian Portugese version : [here](https://github.com/LewisVo/Awesome-Linux-So
 - [TexLive](https://www.tug.org/texlive/) - TeX Live is an easy way to get up and running with the TeX document production system.  [![Open-Source Software][OSS Icon]](https://www.tug.org/texlive/build.html)
 - [TeXmacs](http://www.texmacs.org/) - Free scientific text editor, inspired by TeX and GNU Emacs. WYSIWYG editor and CAS-interface. [![Open-Source Software][OSS Icon]](https://savannah.gnu.org/projects/texmacs)
 - [Texmaker](http://www.xm1math.net/texmaker/) - Free cross-platform LaTeX editor. [![Open-Source Software][OSS Icon]](http://www.xm1math.net/texmaker/download.html)
+- [TeXworks](https://www.tug.org/texworks/) - TeXworks is an environment for authoring TeX (LaTeX, ConTeXt, etc) documents, with a Unicode-based, TeX-aware editor, integrated PDF viewer, and a clean, simple interface accessible to casual and non-technical users.[![Open-Source Software][OSS Icon]](https://github.com/TeXworks/texworks)
 - [WPS office](http://wps-community.org/) - One of the best office app bundle for Linux.
 
 ### Productivity
