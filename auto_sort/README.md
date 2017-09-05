@@ -1,6 +1,6 @@
 - [English](#introduction)
 - [中文](#介绍)
-- [Português (Brasil)](#Português (Brasil))
+- [Português (Brasil)](#português-brasil)
 
 # Introduction
 `asort.py` is a very simple python3 script that aims to make sure items in the README file of the repo [Awesome-Linux-Software](https://github.com/VoLuong/Awesome-Linux-Software) are sorted alphabetically.
