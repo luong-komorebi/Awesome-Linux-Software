@@ -180,13 +180,13 @@ Ele foi projetado principalmente para ajudar a recuperar partições perdidas e/
 - [Gnome Look](https://www.gnome-look.org/) - Grandes quantidades de ícones criados pela comunidade, temas de shell, fontes, e vários recursos que podem ser usados para customizar seu Gnome desktop Enviromnment, todos localizados em um único site. ![Freeware][Freeware Icon]
 - [Hardcode Tray](https://github.com/bil-elmoussaoui/Hardcode-Tray) - Esse script corrige os ícones hardcoded tray no Linux detectando seu tema padrão automaticamente, o tamanho certo do ícone, as aplicações hard-coded, os ícones certos para cada indicador e os corrige. [![Open-Source Software][OSS Icon]](https://github.com/bil-elmoussaoui/Hardcode-Tray) ![Freeware][Freeware Icon]
 - [Irradiance Theme](https://github.com/bsundman/Irradiance) - Um tema inspirado por OSX Yosemite baseado em Radiance.[![Open-Source Software][OSS Icon]](https://github.com/bsundman/Irradiance)![Freeware][Freeware Icon]
-- [La Capitaine Icon Theme](https://github.com/keeferrourke/la-capitaine-icon-theme) - Um tema de ícone inspirado em Material Design e macOS projetado para se encaixar na maioria dos ambientes desktop. 
+- [La Capitaine Icon Theme](https://github.com/keeferrourke/la-capitaine-icon-theme) - Um tema de ícone inspirado em Material Design e macOS projetado para se encaixar na maioria dos ambientes desktop.
 - [Macbuntu](http://www.noobslab.com/2016/04/macbuntu-1604-transformation-pack-for.html) - Um pacote de transformação para fazer com que seu desktop se pareça com um macOS. ![Freeware][Freeware Icon]
 - [Numix Icon Theme](http://www.noobslab.com/2014/04/install-numix-icon-packs-in-ubuntulinux.html) - Um dos melhores temas de ícones do Ubuntu Linux. [![Open-Source Software][OSS Icon]](https://github.com/numixproject/numix-icon-theme) ![Freeware][Freeware Icon]
 - [Numix Theme](https://itsfoss.com/install-numix-ubuntu/) - Um bom tema popular. [![Open-Source Software][OSS Icon]](https://github.com/numixproject/numix-gtk-theme) ![Freeware][Freeware Icon]
 - [Papirus Icon Theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme-gtk/) - Tema de ícone SVG para sistemas Linux, baseado em Paper com alguns recursos extras como(suporte à hardcode-tray e kde-color-scheme support, tema de ícone libreoffice, tema filezilla, temas smplayer...) e outras modificações. O tema está disponível para GTK e KDE. [![Open-Source Software][OSS Icon]](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme-gtk/) ![Freeware][Freeware Icon]
 - [Unity Tweak Tool](https://apps.ubuntu.com/cat/applications/unity-tweak-tool/) - Aplicação indispensável para a personalização da Unity do Ubuntu. [![Open-Source Software][OSS Icon]](https://github.com/ianyh/Amethyst) ![Freeware][Freeware Icon]
-- [Wpgtk](https:github.com/deviantfero/wpgtk) - Um software temático universal para todos os temas definidos em arquivos de texto compatível com todos os terminais, com temas paadrão GTK2, GTK+, openbox e tint2 que usam pywal como núcleo para geração de cores. 
+- [Wpgtk](https:github.com/deviantfero/wpgtk) - Um software temático universal para todos os temas definidos em arquivos de texto compatível com todos os terminais, com temas paadrão GTK2, GTK+, openbox e tint2 que usam pywal como núcleo para geração de cores.
 - [Yosembiance theme](https://github.com/bsundman/Yosembiance) - Um tema de ambiente modificado(vagamente) inspirado no OS X Yosemite. [![Open-Source Software][OSS Icon]](https://github.com/bsundman/Yosembiance) ![Freeware][Freeware Icon]
 
 ### Desenvolvimento
@@ -850,65 +850,26 @@ firewall zones to define the trust level of network connections or interfaces. !
 
 ## Contributors
 
-[**List of contributors**](https://github.com/LewisVo/Awesome-Ubuntu-Linux/graphs/contributors) :
+Muito obrigado a [**TODOS os contribuintes**](https://github.com/LewisVo/Awesome-Linux-Software/graphs/contributors) que ajudaram a tornar esta lista possível.
+*Todos do @ reddit.com/r/linux, reddit.com/r/ubuntu, vozforums.com e outros fóruns por muitas sugestões e elogios*
+ ...   
 
- 1. __Me__ [(LuongVo)](https://github.com/LewisVo)
- 2. [anewuser](https://github.com/anewuser)
- 3. [nathanmusoke](https://github.com/nathanmusoke)
- 4. [bpearson](https://github.com/bpearson)
- 5. [orestisf1993](https://github.com/orestisf1993)
- 6. [lasseborly](https://github.com/lasseborly)
- 7. [sebasspf](https://github.com/sebasspf)
- 8. [buivnhai](https://github.com/buivnhai)
- 9. [ankurk91](https://github.com/ankurk91)
- 10. [mAzurkovic](https://github.com/mAzurkovic)
- 11. [bocklund](https://github.com/bocklund)
- 12. [grebenschikov](https://github.com/grebenschikov)
- 13. [fareez-ahamed](https://github.com/fareezahamed)
- 14. [MichaelAquilina](https://github.com/MichaelAquilina)
- 15. [Wamadahama](https://github.com/wamadahama)
- 16. [Alasin](https://github.com/alasin)
- 17. [LYF610400210](https://github.com/LYF610400210)
- 18. [willmtemple](https://github.com/willmtemple) for a more correct repo name.
- 19. [jakub-olczyk](https://github.com/jakub-olczyk)
- 20. [shakib609](https://github.com/shakib609)
- 21. [talisk](https://github.com/talisk)
- 22. [smdrz](https://github.com/smdrz)
- 23. [bishoyh](https://github.com/bishoyh)
- 24. [Voicu](https://github.com/vpop)
- 25. [ryandaniels](https://github.com/ryandaniels)
- 26. [mame98](https://github.com/mame98)
- 27. [Kastmeski](https://github.com/kasmetski)
- 28. [johnjago](https://github.com/johnjago)
- 29. [shuliandre](https://github.com/shuliandre)
- 30. [stelariusinfinitek](https://github.com/stelariusinfinitek)
- 31. [tnga](https://github.com/tnga)
- 32. [hg8](https://github.com/hg8)
- 33. [0xE8551CCB](https://github.com/0xE8551CCB)
- 34. [alim0x](https://github.com/alim0x)
- 35. [Spacebody](https://github.com/Spacebody)
- 36. [AyoIsaiah](https://github.com/ayoisaiah)
- 37. [sajattack](https://github.com/sajattack)
- 38. *Everyone @ reddit.com/r/linux & reddit.com/r/ubuntu & vozforums.com for many suggestions and compliments*
- ...
-
- (*The list above is updated on 10th January 2017*)
-
-**[⬆ back to top](#table-of-contents)**
+**[⬆ voltar ao topo](#table-of-contents)**
 
 
 <br>
 
-## Guideline to contribute
+## Guia para contribuir
 
-> Simply put the name of the **application** in the list.
-> Link to its **homepage** or a **guide** on how to install it.
-> Also write a **short description** for the application + add **icon**.
-> Make sure it is put under the **appropriate topic**.
-> If the application doesn't fit in any **existing topic**, make a **new one** for it.
-> Ensure everything is **alphabetically sorted**.
+> Basta colocar o nome da **aplicação** na lista.
+> Link para a sua **página inicial** ou um **guia** como instalá-lo.
+> Escreva também uma **breve descrição** para uma aplicação + adicionando um **icon**.
+> Certifique-se de que é escrito esta no seu **tópico apropriado**.
+> Se o aplicativo não se encaixa em nenhum **tópico existente**, faça **um novo** para ele.
+> Certifique que tudo seja classificado em ordem **alfabética**.
 
-*Items marked with ![Open-Source Software][OSS Icon] are open-source software and link to the source code. Items marked with ![Freeware][Freeware Icon] are free (as in free beer).*
+*Itens marcados com ![Open-Source Software][OSS Icon] são software de código aberto e link para o código-fonte. Os itens marcados com ![Nonfree][Money Icon] são não livres (as in nonfree beer) e pode custar dinheiro para poder utilizá-lo.*
+
 
 <br>
 
@@ -923,11 +884,10 @@ firewall zones to define the trust level of network connections or interfaces. !
 Este projeto trabalha sob a licença [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
 <div id='donation'/>
-
-[![](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5ZG5Z47L2ZGYC)
+<a href="https://www.patreon.com/luongtranthanhvo"><img src="http://i.imgur.com/xrhJFXb.png" height="40px"></a> <a href="https://www.paypal.me/LuongTranThanhVo"><img src="http://i.imgur.com/O7lPSEP.png" height="40px" ></a> <a href="https://beerpay.io/LewisVo/Minitask"><img src="https://beerpay.io/LewisVo/Minitask/badge.svg" /></a>  
 
 Uma cerveja no seu país pode comprar uma refeição na minha.
 
 [chitchat]: https://github.com/stonesam92/ChitChat
 [OSS Icon]: https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg
-[Freeware Icon]: https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/free.svg
+[Money Icon]: https://rawgit.com/LewisVo/Awesome-Linux-Software/master/img/money.svg
