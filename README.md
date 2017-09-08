@@ -358,16 +358,18 @@ Brazilian Portugese version : [here](https://github.com/LewisVo/Awesome-Linux-So
 
 ### Email
 - [Claws](http://www.claws-mail.org/) - Claws is an email client and news reader, featuring sophisticated interface, easy configuration, intuitive operation, abundant features and plugins, robustness and stability.[![Open-Source Software][OSS Icon]](http://git.claws-mail.org/)
-- [Evolution](https://wiki.gnome.org/Apps/Evolution/) - Evolution is a personal information management application that provides integrated mail, calendaring and address book functionality. [![Open-Source Software][OSS Icon]](https://wiki.gnome.org/Apps/Evolution/#Get_the_Source_Code)
-- [Geary](https://wiki.gnome.org/Apps/Geary) - Geary is an email application built for GNOME 3. It allows you to read and send email with a simple, modern interface.[![Open-Source Software][OSS Icon]](https://github.com/GNOME/geary)
-- [KMail](https://www.kde.org/applications/internet/kmail/) - KMail is the email component of Kontact, the integrated personal information manager from KDE [![Open-Source Software][OSS Icon]](https://cgit.kde.org/kmail.git/tree//?) 
-- [Mailnag](https://launchpad.net/~pulb/+archive/ubuntu/mailnag) - Mailnag is a daemon program that checks POP3 and IMAP servers for new mail. [![Open-Source Software][OSS Icon]](https://github.com/pulb/mailnag)
-- [Nylas Mail](https://www.nylas.com/download) - An extensible desktop mail app built on the modern web. [![Open-Source Software][OSS Icon]](https://github.com/nylas/nylas-mail) 
-- [Sylpheed](http://sylpheed.sraoss.jp/en/) - Lightweight and user-friendly e-mail client. [![Open-Source Software][OSS Icon]](http://sylpheed.sraoss.jp/en/download.html#stable)
-- [Thunderbird](https://www.mozilla.org/en-US/thunderbird/) - Thunderbird is a free email application that’s easy to set up and customize and it’s loaded with great features. [![Open-Source Software][OSS Icon]](https://developer.mozilla.org/en-US/docs/Mozilla/Tech/Viewing_and_searching_Mozilla_source_code_online)
-- [Trojita](http://trojita.flaska.net/download.html) - A super fast Qt IMAP e-mail client for Linux.[![Open-Source Software][OSS Icon]](https://gerrit.vesnicky.cesnet.cz/r/#/dashboard/?)
+- [Evolution](https://wiki.gnome.org/Apps/Evolution/) - Evolution is a personal information management application that provides integrated mail, calendaring and address book functionality. ![Freeware][Freeware Icon]
+- [Geary](https://wiki.gnome.org/Apps/Geary) - Geary is an email application built for GNOME 3. It allows you to read and send email with a simple, modern interface.![Freeware][Freeware Icon]
+- [Hiri](https://www.hiri.com/) - Hiri is a business focused desktop e-mail client for sending and receiving e-mails, managing calendars, contacts, and tasks.
+- [KMail](https://www.kde.org/applications/internet/kmail/) - KMail is the email component of Kontact, the integrated personal information manager from KDE [![Open-Source Software][OSS Icon]](https://cgit.kde.org/kmail.git/tree//?) ![Freeware][Freeware Icon]
+- [Mailnag](https://launchpad.net/~pulb/+archive/ubuntu/mailnag) - Mailnag is a daemon program that checks POP3 and IMAP servers for new mail. [![Open-Source Software][OSS Icon]](https://github.com/pulb/mailnag)![Freeware][Freeware Icon]
+- [Nylas Mail](https://www.nylas.com/download) - An extensible desktop mail app built on the modern web. [![Open-Source Software][OSS Icon]](https://github.com/nylas/nylas-mail) ![Freeware][Freeware Icon]
+- [Sylpheed](http://sylpheed.sraoss.jp/en/) - Lightweight and user-friendly e-mail client. [![Open-Source Software][OSS Icon]](http://sylpheed.sraoss.jp/en/download.html#stable)![Freeware][Freeware Icon]
+- [Thunderbird](https://www.mozilla.org/en-US/thunderbird/) - Thunderbird is a free email application that’s easy to set up and customize and it’s loaded with great features. ![Freeware][Freeware Icon]
+- [Trojita](http://trojita.flaska.net/download.html) - A super fast desktop email client for Linux.[![Open-Source Software][OSS Icon]](https://gerrit.vesnicky.cesnet.cz/r/#/dashboard/?)![Freeware][Freeware Icon] title=Trojit%C3%A1&Pending=project:trojita+is:open&Recently+Closed=project:trojita+is:closed
 - [Vmail](http://danielchoi.com/software/vmail.html) - Vim-like Gmail client [![Open-Source Software][OSS Icon]](https://github.com/danchoi/vmail)
-- [Wmail](https://github.com/Thomas101/wmail) - Gmail & Google Inbox unofficial desktop client for Linux. [![Open-Source Software][OSS Icon]](https://github.com/Thomas101/wmail)
+- [Wmail](https://github.com/Thomas101/wmail) - Gmail & Google Inbox unofficial desktop client for linux. [![Open-Source Software][OSS Icon]](https://github.com/Thomas101/wmail)![Freeware][Freeware Icon]
+
 
 ### File Manager
 - [7Zip](http://www.7-zip.org/download.html) - Unzip any zip files
