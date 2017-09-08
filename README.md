@@ -590,7 +590,7 @@ Brazilian Portugese version : [here](https://github.com/LewisVo/Awesome-Linux-So
 
 #### Miscellaneous
 - [Ambient Noise](https://itsfoss.com/ambient-noise-music-player-ubuntu/) - Install ambient noise for extra focus on Linux.
-- [CopyQ](http://hluk.github.io/CopyQ/) -CopyQ is advanced clipboard manager with editing and scripting features. 
+- [CopyQ](http://hluk.github.io/CopyQ/) -CopyQ is advanced clipboard manager with editing and scripting features. [![Open-Source Software][OSS Icon]](https://github.com/hluk/CopyQ) 
 - [f.lux](https://justgetflux.com/linux.html) - Automatically adjust your computer screen to match lighting. 
 - [Gpick](http://www.gpick.org/) - Gpick allows you to sample any color from anywhere on your desktop, and it also provides some other advanced features! [![Open-Source Software][OSS Icon]](https://github.com/thezbyg/gpick) 
 - [Redshift](http://jonls.dk/redshift/) - Redshift adjusts the color temperature of your screen according to your surroundings. This may help your eyes hurt less if you are working in front of the screen at night.[![Open-Source Software][OSS Icon]](https://github.com/jonls/redshift) 
@@ -605,13 +605,6 @@ Brazilian Portugese version : [here](https://github.com/LewisVo/Awesome-Linux-So
 - [Notes](http://www.get-notes.com/) - A clean simple note taking app for Linux.[![Open-Source Software][OSS Icon]](https://github.com/nuttyartist/notes) 
 - [Org mode](http://orgmode.org/) - Org mode is for keeping notes, maintaining TODO lists, planning projects, and authoring documents with a fast and effective plain-text system.[![Open-Source Software][OSS Icon]](http://orgmode.org/cgit.cgi/org-mode.git/) 
 - [Papyrus](http://aseman.co/en/products/papyrus/) - Papyrus is a different note manager which is focusing on Security, Better user interface. Papyrus are trying to provide an easy to use and smart user interface for users. [![Open-Source Software][OSS Icon]](https://github.com/Aseman-Land/Papyrus) 
-- [Plank](https://launchpad.net/plank) - Plank is meant to be the simplest dock of apps on the planet.[![Open-Source Software][OSS Icon]](https://code.launchpad.net/plank) 
-- [Plotinus](https://github.com/p-e-w/plotinus) - A searchable command palette in every modern GTK+ application. [![Open-Source Software][OSS Icon]](https://github.com/p-e-w/plotinus) 
-- [Pomodone App](http://pomodoneapp.com/) - PomoDoneApp is the easiest way to track your workflow using Pomodoro technique®, on top of your current task management service.![Nonfree][Money Icon]
-- [Recent Noti](https://itsfoss.com/7-best-indicator-applets-for-ubuntu-13-10/) - An indicator for recent notification.
-- [Redshift](http://jonls.dk/redshift/) - Redshift adjusts the color temperature of your screen according to your surroundings. This may help your eyes hurt less if you are working in front of the screen at night.[![Open-Source Software][OSS Icon]](https://github.com/jonls/redshift) 
-- [Shots](https://theshots.ru/) - HTML/CSS/JS screenshot application. [![Open-Source Software][OSS Icon]](https://github.com/binjospookie/--shots) 
-- [Shutter](http://shutter-project.org/) - Shutter is a feature-rich screenshot program for Linux based operating systems such as Ubuntu. 
 - [Simplenote](https://simplenote.com/) - Cross platform notetaking app. Evernote competitor.
 - [Springseed](https://github.com/spsdco/notes) - Simple and beautiful note taking app for daily user.[![Open-Source Software][OSS Icon]](https://github.com/spsdco/notes) 
 - [Stickynote](https://itsfoss.com/indicator-stickynotes-windows-like-sticky-note-app-for-ubuntu/) - Sticky notes on your Linux desktop.
