@@ -91,6 +91,7 @@ Brazilian Portugese version : [here](https://github.com/LewisVo/Awesome-Linux-So
 - [Audacious](http://audacious-media-player.org/) - An open source audio player,  plays your music how you want it, without stealing away your computer’s resources from other tasks.[![Open-Source Software][OSS Icon]](http://audacious-media-player.org/developers) 
 - [Audacity](http://www.audacityteam.org/download/linux/) - Free, open source, cross-platform software for recording and editing sounds. [![Open-Source Software][OSS Icon]](https://github.com/audacity/audacity) 
 - [Audio Recorder](https://launchpad.net/~audio-recorder/+archive/ubuntu/ppa) - Simple audio recorder available in an Ubuntu PPA. 
+- [Auryo](http://auryo.com/) - Unofficial multiplatform SoundCloud® app for your desktop. [![Open-Source Software][OSS Icon]](https://github.com/Superjo149/auryo)
 - [Cantata](https://www.linux-apps.com/content/show.php/Cantata?content=147733) - Qt5 Graphical MPD (Music Player Daemon) Client for Linux, Windows, MacOS. [![Open-Source Software][OSS Icon]](https://github.com/CDrummond/cantata) 
 - [Clementine](https://www.clementine-player.org/) - Play numerous lossy and lossless audio formats. [![Open-Source Software][OSS Icon]](https://github.com/clementine-player/Clementine) 
 - [Cmus](https://cmus.github.io/#download) - cmus is a small, fast and powerful console music player for Unix-like operating systems.[![Open-Source Software][OSS Icon]](https://github.com/cmus/cmus) 
@@ -110,6 +111,7 @@ Brazilian Portugese version : [here](https://github.com/LewisVo/Awesome-Linux-So
 - [Lyricfier](https://github.com/emilioastarita/lyricfier) - a Spotify Lyrics alternative app. [![Open-Source Software][OSS Icon]](https://github.com/emilioastarita/lyricfier) 
 - [Mixxx](http://www.mixxx.org/download/) - Free DJ software that gives you everything you need to perform live mixes, veritable alternative to Traktor. [![Open-Source Software][OSS Icon]](https://github.com/mixxxdj/mixxx) 
 - [Mellow Player](https://colinduquesnoy.github.io/MellowPlayer/) - Cloud music integration for your desktop. [![Open-Source Software][OSS Icon]](https://github.com/ColinDuquesnoy/MellowPlayer)
+- [Muno](http://munoapp.com/) - Music app that combines Soundcloud & Youtube into one native Mac app.
 - [Museek](http://museeks.io/) - A simple, clean and cross-platform music player. [![Open-Source Software][OSS Icon]](https://github.com/KeitIG/museeks) 
 - [Netease Music](http://music.163.com/#/download) -  A music player of Netease - a cloud music service in China. 
 - [Nuclear](http://nuclear.gumblert.tech/) - An Electron-based, multiplatform music player app that streams from multiple sources.  [![Open-Source Software][OSS Icon]](https://github.com/nukeop/nuclear) 
@@ -128,6 +130,7 @@ Brazilian Portugese version : [here](https://github.com/LewisVo/Awesome-Linux-So
 - [Spotio](https://github.com/devinhalladay/spotio) - a Rdio-inspired light theme for the Spotify desktop app. [![Open-Source Software][OSS Icon]](https://github.com/devinhalladay/spotio) 
 - [Tomahawk](https://www.tomahawk-player.org/) -A new kind of music player that invites all your streams, downloads, cloud music storage, playlists, radio stations and more. [![Open-Source Software][OSS Icon]](https://github.com/tomahawk-player/tomahawk)
 - [Vocal](http://vocalproject.net/) - Podcast Client for the Modern Desktop. [![Open-Source Software][OSS Icon]](https://github.com/needle-and-thread/vocal) 
+
 
 ### Chat Clients
 - [Caprine](https://sindresorhus.com/caprine) - Elegant Facebook Messenger desktop app. [![Open-Source Software][OSS Icon]](https://github.com/sindresorhus/caprine) 
@@ -419,8 +422,8 @@ Brazilian Portugese version : [here](https://github.com/LewisVo/Awesome-Linux-So
 - [Minetest](https://minetest.net) - Open-source Minecraft written in C++ (uses less resources) and includes modding API. ![Open-Source Software][OSS Icon]
 - [Mudlet](mudlet.org) - A cross-platform, open source, and super fast MUD (text-only MMORPGs) client with scripting in Lua. ![Open-Source Software][OSS Icon]
 - [OhMyGiraffe](https://ohmygiraffe.com) - A delightful game of survival. A game about a giraffe eating fruit while being chased by lions.
-- [SuperTuxKart](https://supertuxkart.net) - SuperTuxKart is a 3D open-source arcade racer with a variety characters, tracks, and modes to play. ![Open-Source Software][OSS Icon]
-
+- [Snake Game](https://alpcoskun.com/snake/) - Cross-platform Classic Snake Game based on Node.js. [![Open-Source Software][OSS Icon]](https://github.com/alpcoskun/snake)
+- [SuperTuxKart](https://supertuxkart.net) - SuperTuxKart is a 3D open-source arcade racer with a variety characters, tracks, and modes to play. ![Open-Source Software][OSS Icon] 
 
 #### Engine recreations (require the actual game)
 - [OpenMW](http://openmw.org) - A recreation of the Morrowind engine, expanding upon the original. It can be used to play legitimate copies of original game. ![Open-Source Software][OSS Icon]
@@ -469,6 +472,7 @@ Brazilian Portugese version : [here](https://github.com/LewisVo/Awesome-Linux-So
 - [Fotoxx](http://www.kornelix.net/fotoxx/fotoxx.html) - Fotoxx is a free open source Linux program for image editing and collection management.
 - [gThumb](https://wiki.gnome.org/Apps/gthumb) - gThumb is an image viewer and browser (it also includes an importer tool for transferring photos from cameras).  [![Open-Source Software][OSS Icon]](https://git.gnome.org/browse/gthumb/)
 - [gwenview](https://userbase.kde.org/Gwenview) - Simple yet powerful image viewer and management for KDE desktops. [![Open-Source Software][OSS Icon]](https://cgit.kde.org/gwenview.git/tree//?) 
+- [Imagine](https://github.com/meowtec/Imagine) - Image Optimizer.[![Open-Source Software][OSS Icon]](https://github.com/meowtec/Imagine)
 - [Ojo](https://github.com/peterlevi/ojo) - A fast and pretty image viewer.  [![Open-Source Software][OSS Icon]](https://github.com/peterlevi/ojo)
 - [Phockup](https://github.com/ivandokov/phockup) - Media sorting tool to organize photos and videos from your camera in folders by year, month and day.[![Open-Source Software][OSS Icon]](https://github.com/ivandokov/phockup) 
 - [Photonic](https://github.com/oferkv/phototonic) - Phototonic is image viewer and organizer.  [![Open-Source Software][OSS Icon]](https://github.com/oferkv/phototonic)
@@ -483,12 +487,13 @@ Brazilian Portugese version : [here](https://github.com/LewisVo/Awesome-Linux-So
 
 
 #### Screen Recorder
+- [ASCII Nema](https://asciinema.org) - Terminal session recorder. [![Open-Source Software][OSS Icon]](https://github.com/asciinema/asciinema)
 - [Green Recorder](https://github.com/foss-project/green-recorder) - A simple desktop recorder for Linux systems, supports recording audio and video on almost all Linux interfaces and  Wayland display server on GNOME session. [![Open-Source Software][OSS Icon]](https://github.com/foss-project/green-recorder)
 - [Kazam](https://launchpad.net/kazam) - An easy to use and very intuitive screen recording program that will capture the content of your screen and record a video file that can be played by any video player that supports VP8/WebM video format. [![Open-Source Software][OSS Icon]](https://code.launchpad.net/kazam)
 - [OBS Studio](https://obsproject.com/) - Free and open source software for video recording and live streaming. Download and start streaming quickly and easily on Windows, Mac or Linux. Share your gaming, art and entertainment with the world. [![Open-Source Software][OSS Icon]](https://github.com/jp9000/OBS)
 - [Peek](https://github.com/phw/peek) - Simple animated GIF screen recorder with an easy to use interface.[![Open-Source Software][OSS Icon]](https://github.com/phw/peek)
 - [Silentcast](https://github.com/colinkeenan/silentcast) - Create silent mkv screencast and animated gif. [![Open-Source Software][OSS Icon]](https://github.com/colinkeenan/silentcast)
-- [Vokoscreen](http://www.kohaupt-online.de/hp/) - A free, multilingual and easy to use screencast recorder with audio for Linux. Features: detects webcams, avi and mkv video containers, mpeg4 and h.264 video codecs, adjustable frame rate, ... [![Open-Source Software][OSS Icon]](https://github.com/vkohaupt/vokoscreen) 
+- [Vokoscreen](http://www.kohaupt-online.de/hp/) - A free, multilingual and easy to use screencast recorder with audio for Linux. Features: detects webcams, avi and mkv video containers, mpeg4 and h.264 video codecs, adjustable frame rate, ... [![Open-Source Software][OSS Icon]](https://github.com/vkohaupt/vokoscreen)
 
 #### Screenshot
 - [Shots](https://theshots.ru/) - HTML/CSS/JS screenshot application. [![Open-Source Software][OSS Icon]](https://github.com/binjospookie/--shots) 
@@ -600,9 +605,11 @@ Brazilian Portugese version : [here](https://github.com/LewisVo/Awesome-Linux-So
 
 #### Note taking
 - [Basket Note Pads](http://basket.kde.org/) - This multi-purpose note-taking application helps you to easily take all sort of notes. [![Open-Source Software][OSS Icon]](http://basket.kde.org/svnaccess.php) 
+- [Boostnote](https://boostnote.io/) - Boostnote is an open source note-taking app made for programmers just like you. [![Open-Source Software][OSS Icon]](https://github.com/BoostIO/Boostnote)
 - [NixNote](https://sourceforge.net/projects/nevernote/) - An open source client for Evernote. [![Open-Source Software][OSS Icon]](https://sourceforge.net/p/nevernote/code/ci/master/tree/) 
 - [Notepadqq](http://notepadqq.altervista.org/wp/) - Notepadqq is a Notepad++-like editor for the Linux desktop.[![Open-Source Software][OSS Icon]](https://github.com/notepadqq/notepadqq) 
 - [Notes](http://www.get-notes.com/) - A clean simple note taking app for Linux.[![Open-Source Software][OSS Icon]](https://github.com/nuttyartist/notes) 
+- [OneNote](https://pages.corifeus.com/github/onenote) - Linux Electron OneNote. [![Open-Source Software][OSS Icon]](https://github.com/patrikx3/onenote)
 - [Org mode](http://orgmode.org/) - Org mode is for keeping notes, maintaining TODO lists, planning projects, and authoring documents with a fast and effective plain-text system.[![Open-Source Software][OSS Icon]](http://orgmode.org/cgit.cgi/org-mode.git/) 
 - [Papyrus](http://aseman.co/en/products/papyrus/) - Papyrus is a different note manager which is focusing on Security, Better user interface. Papyrus are trying to provide an easy to use and smart user interface for users. [![Open-Source Software][OSS Icon]](https://github.com/Aseman-Land/Papyrus) 
 - [Simplenote](https://simplenote.com/) - Cross platform notetaking app. Evernote competitor.
@@ -805,7 +812,7 @@ firewall zones to define the trust level of network connections or interfaces. [
 - [Cinnamon](http://cinnamon.linuxmint.com/) - Cinnamon strives to provide a traditional user experience. Cinnamon is a fork of GNOME 3. [![Open-Source Software][OSS Icon]](https://github.com/linuxmint/Cinnamon) 
 - [Deepin DE](https://www.deepin.org/en/dde/) - DDE (Deepin Desktop Environment) is the default desktop environment originally created for the Linux Deepin distribution.  [![Open-Source Software][OSS Icon]](https://github.com/linuxdeepin/dde-desktop) 
 - [GNOME Flashback](https://wiki.gnome.org/Projects/GnomeFlashback) - GNOME Flashback is a shell for GNOME 3 which was initially called GNOME fallback mode. The desktop layout and the underlying technology is similar to GNOME 2. [![Open-Source Software][OSS Icon]](https://github.com/GNOME/gnome-flashback) 
-- [Gnome](https://www.gnome.org/gnome-3/) - The GNOME desktop environment is an attractive and intuitive desktop with both a modern (GNOME) and a classic (GNOME Classic) session. [![Open-Source Software][OSS Icon]](https://github.com/GNOME/gnome-desktop) 
+- [Gnome](https://www.gnome.org/gnome-3/) - The GNOME desktop environment is an attractive and intuitive desktop with both a modern (GNOME) and a classic (GNOME Classic) session. [![Open-Source Software][OSS Icon]](https://github.com/GNOME/gnome-desktop)
 - [KDE Plasma](https://www.kde.org/workspaces/plasmadesktop/) - The KDE Plasma desktop environment is a familiar working environment. Plasma Desktop offers all the tools required for a modern desktop computing experience so you can be productive right from the start. [![Open-Source Software][OSS Icon]](https://github.com/KDE/plasma-desktop) 
 - [LXDE](http://lxde.org/) - The Lightweight X11 Desktop Environment is a fast and energy-saving desktop environment. [![Open-Source Software][OSS Icon]](https://github.com/lxde) 
 - [LXQt](http://lxqt.org/) - LXQt is the Qt port and the upcoming version of LXDE, the Lightweight Desktop Environment. [![Open-Source Software][OSS Icon]](https://github.com/lxde/lxqt) 
@@ -838,7 +845,7 @@ firewall zones to define the trust level of network connections or interfaces. [
 
 ### Compositors
 - [Compton](https://github.com/chjj/compton/wiki) - Compton is a standalone composite manager, suitable for use with window managers that do not natively provide compositing functionality. [![Open-Source Software][OSS Icon]](https://github.com/chjj/compton) 
-- [Xcompmgr](https://cgit.freedesktop.org/xorg/app/xcompmgr) - Xcompmgr is a simple composite manager capable of rendering drop shadows and, with the use of the transset utility, primitive window transparency. [![Open-Source Software][OSS Icon]](https://cgit.freedesktop.org/xorg/app/xcompmgr) 
+- [Xcompmgr](https://cgit.freedesktop.org/xorg/app/xcompmgr) - Xcompmgr is a simple composite manager capable of rendering drop shadows and, with the use of the transset utility, primitive window transparency. [![Open-Source Software][OSS Icon]](https://cgit.freedesktop.org/xorg/app/xcompmgr)
 
 ### Stacking window managers
 - [2bwm](https://github.com/venam/2bwm) - Fast floating WM, with the particularity of having 2 borders, written over the XCB library and derived from mcwm. [![Open-Source Software][OSS Icon]](https://github.com/venam/2bwm) 
@@ -850,6 +857,7 @@ firewall zones to define the trust level of network connections or interfaces. [
 - [Bspwm](https://github.com/baskerville/bspwm/wiki) - bspwm is a tiling window manager that represents windows as the leaves of a full binary tree. [![Open-Source Software][OSS Icon]](https://github.com/baskerville/bspwm) 
 - [Herbstluftwm](https://herbstluftwm.org) - Manual tiling window manager for X11 using Xlib and Glib. [![Open-Source Software][OSS Icon]](https://github.com/herbstluftwm/herbstluftwm) 
 - [Qtile](http://www.qtile.org/) - qtile is a full-featured, hackable tiling window manager written and configured in Python [![Open-Source Software][OSS Icon]](https://github.com/qtile/qtile) 
+- [i3 WM](https://i3wm.org/) - A better tiling and dynamic window manager. It's completely written from scratch. The target platforms are GNU/Linux and BSD operating systems. [![Open-Source Software][OSS Icon]](https://github.com/i3/i3) 
 
 ### Dynamic window managers
 - [awesome](https://awesomewm.org) - Highly configurable, next generation framework window manager for X. [![Open-Source Software][OSS Icon]](https://github.com/awesomeWM/awesome) 
