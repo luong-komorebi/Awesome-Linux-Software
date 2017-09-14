@@ -44,21 +44,21 @@ Brazilian Portugese version : [here](https://github.com/LewisVo/Awesome-Linux-So
 - [Command Line Utilities](#command-line-utilities)
 - [Desktop Environments](#desktop-environments)
 - [Display Managers](#display-manager)
-	- [Console](#console)
-	- [Graphic](#graphic)
+  - [Console](#console)
+  - [Graphic](#graphic)
 - [Window Managers](#window-managers)
-	- [Compositors](#compositors)
-	- [Stacking window managers](#stacking-window-managers)
-	- [Tiling window managers](#tiling-window-managers)
-	- [Dynamic window managers](#dynamic-window-managers)
+  - [Compositors](#compositors)
+  - [Stacking window managers](#stacking-window-managers)
+  - [Tiling window managers](#tiling-window-managers)
+  - [Dynamic window managers](#dynamic-window-managers)
 
 ***********
 
 - [Setup](#setup)
- 	- [ArchLinux](#arch-linux)
- 	- [CentOS](#centos)
- 	- [openSUSE](#opensuse)
-	- [Ubuntu](#ubuntu)
+  - [ArchLinux](#arch-linux)
+  - [CentOS](#centos)
+  - [openSUSE](#opensuse)
+  - [Ubuntu](#ubuntu)
 - [Discussion Forums](#discussion-forums)
     - [ArchLinux Forums](#arch-linux-forums)
     - [CentOS Forums](#centos-forums)
@@ -363,17 +363,17 @@ Brazilian Portugese version : [here](https://github.com/LewisVo/Awesome-Linux-So
 
 ### Email
 - [Claws](http://www.claws-mail.org/) - Claws is an email client and news reader, featuring sophisticated interface, easy configuration, intuitive operation, abundant features and plugins, robustness and stability.[![Open-Source Software][OSS Icon]](http://git.claws-mail.org/)
-- [Evolution](https://wiki.gnome.org/Apps/Evolution/) - Evolution is a personal information management application that provides integrated mail, calendaring and address book functionality. ![Freeware][Freeware Icon]
-- [Geary](https://wiki.gnome.org/Apps/Geary) - Geary is an email application built for GNOME 3. It allows you to read and send email with a simple, modern interface.![Freeware][Freeware Icon]
+- [Evolution](https://wiki.gnome.org/Apps/Evolution/) - Evolution is a personal information management application that provides integrated mail, calendaring and address book functionality. [![Open-Source Software][OSS Icon]](https://wiki.gnome.org/Apps/Evolution/#Get_the_Source_Code)
+- [Geary](https://wiki.gnome.org/Apps/Geary) - Geary is an email application built for GNOME 3. It allows you to read and send email with a simple, modern interface. [![Open-Source Software][OSS Icon]](https://git.gnome.org//browse/geary/)
 - [Hiri](https://www.hiri.com/) - Hiri is a business focused desktop e-mail client for sending and receiving e-mails, managing calendars, contacts, and tasks.
-- [KMail](https://www.kde.org/applications/internet/kmail/) - KMail is the email component of Kontact, the integrated personal information manager from KDE [![Open-Source Software][OSS Icon]](https://cgit.kde.org/kmail.git/tree//?) ![Freeware][Freeware Icon]
-- [Mailnag](https://launchpad.net/~pulb/+archive/ubuntu/mailnag) - Mailnag is a daemon program that checks POP3 and IMAP servers for new mail. [![Open-Source Software][OSS Icon]](https://github.com/pulb/mailnag)![Freeware][Freeware Icon]
-- [Nylas Mail](https://www.nylas.com/download) - An extensible desktop mail app built on the modern web. [![Open-Source Software][OSS Icon]](https://github.com/nylas/nylas-mail) ![Freeware][Freeware Icon]
-- [Sylpheed](http://sylpheed.sraoss.jp/en/) - Lightweight and user-friendly e-mail client. [![Open-Source Software][OSS Icon]](http://sylpheed.sraoss.jp/en/download.html#stable)![Freeware][Freeware Icon]
-- [Thunderbird](https://www.mozilla.org/en-US/thunderbird/) - Thunderbird is a free email application that’s easy to set up and customize and it’s loaded with great features. ![Freeware][Freeware Icon]
-- [Trojita](http://trojita.flaska.net/download.html) - A super fast desktop email client for Linux.[![Open-Source Software][OSS Icon]](https://gerrit.vesnicky.cesnet.cz/r/#/dashboard/?)![Freeware][Freeware Icon] title=Trojit%C3%A1&Pending=project:trojita+is:open&Recently+Closed=project:trojita+is:closed
-- [Vmail](http://danielchoi.com/software/vmail.html) - Vim-like Gmail client [![Open-Source Software][OSS Icon]](https://github.com/danchoi/vmail)
-- [Wmail](https://github.com/Thomas101/wmail) - Gmail & Google Inbox unofficial desktop client for linux. [![Open-Source Software][OSS Icon]](https://github.com/Thomas101/wmail)![Freeware][Freeware Icon]
+- [KMail](https://www.kde.org/applications/internet/kmail/) - KMail is the email component of Kontact, the integrated personal information manager from KDE. [![Open-Source Software][OSS Icon]](https://cgit.kde.org/kmail.git/)
+- [Mailnag](https://launchpad.net/~pulb/+archive/ubuntu/mailnag) - Mailnag is a daemon program that checks POP3 and IMAP servers for new mail. [![Open-Source Software][OSS Icon]](https://github.com/pulb/mailnag)
+- [Nylas Mail](https://www.nylas.com/download) - An extensible desktop mail app built on the modern web. [![Open-Source Software][OSS Icon]](https://github.com/nylas/nylas-mail)
+- [Sylpheed](http://sylpheed.sraoss.jp/en/) - Lightweight and user-friendly e-mail client. [![Open-Source Software][OSS Icon]](http://sylpheed.sraoss.jp/en/download.html#stable)
+- [Thunderbird](https://www.mozilla.org/en-US/thunderbird/) - Thunderbird is a free email application that’s easy to set up and customize and it’s loaded with great features. [![Open-Source Software][OSS Icon]](https://releases.mozilla.org/pub/thunderbird/)
+- [Trojita](http://trojita.flaska.net/download.html) - A super fast desktop email client for Linux. [![Open-Source Software][OSS Icon]](https://cgit.kde.org/trojita.git/)
+- [Vmail](http://danielchoi.com/software/vmail.html) - Vim-like Gmail client. [![Open-Source Software][OSS Icon]](https://github.com/danchoi/vmail)
+- [Wmail](https://github.com/Thomas101/wmail) - Gmail & Google Inbox unofficial desktop client for linux. [![Open-Source Software][OSS Icon]](https://github.com/Thomas101/wmail)
 
 
 ### File Manager
@@ -684,7 +684,7 @@ firewall zones to define the trust level of network connections or interfaces. [
 - [uGet](http://ugetdm.com/) - The best download manager for Linux. [![Open-Source Software][OSS Icon]](http://ugetdm.com/contribute/code) 
 - [uTorrent](http://www.utorrent.com) - Elegant, efficient torrent downloading. 
 - [Vuze](http://www.vuze.com) - Bittorrent Client is an end-to-end software application for all your torrent needs. 
-- [Web Torrent Desktop](https://webtorrent.io/desktop/) - Web Torrent Desktop is for streaming torrents which connects to both BitTorrent and WebTorrent peers.![Freeware Icon]
+- [Web Torrent Desktop](https://webtorrent.io/desktop/) - Web Torrent Desktop is for streaming torrents which connects to both BitTorrent and WebTorrent peers. [![Open-Source Software][OSS Icon]](https://github.com/webtorrent/webtorrent-desktop)
 - [Wormhole](https://github.com/warner/magic-wormhole) - get arbitrary-sized files and directories (or short pieces of text) from one computer to another safely. [![Open-Source Software][OSS Icon]](https://github.com/warner/magic-wormhole) 
 
 ### Terminal
