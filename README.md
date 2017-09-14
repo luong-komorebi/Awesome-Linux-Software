@@ -69,6 +69,7 @@ Brazilian Portugese version : [here](https://github.com/LewisVo/Awesome-Linux-So
     - [Reddit](#reddit)
 - [Learn Linux](#learn-linux)
 - [Linux Hacking/Development](#linux-hackingdevelopment)
+- [Other Awesome Lists](#other-awesome-lists)
 - [Contributors](#contributors)
 - [Guideline to Contribute](#guideline-to-contribute)
 
@@ -86,6 +87,7 @@ Brazilian Portugese version : [here](https://github.com/LewisVo/Awesome-Linux-So
 ## Applications
 
 ### Audio
+*For a more comprehensive/advanced/better categorized/... list of Linux audio software, you may want to visit [here](https://github.com/nodiscc/awesome-linuxaudio)*
 - [Airtime](https://www.sourcefabric.org/en/airtime/download/) - Airtime is the open broadcast software for scheduling and remote station management [![Open-Source Software][OSS Icon]](https://github.com/sourcefabric/Airtime) 
 - [Ardour](https://ardour.org/) - Record, Edit, and Mix on Linux  [![Open-Source Software][OSS Icon]](https://ardour.org/development.html)
 - [Audacious](http://audacious-media-player.org/) - An open source audio player,  plays your music how you want it, without stealing away your computer’s resources from other tasks.[![Open-Source Software][OSS Icon]](http://audacious-media-player.org/developers) 
@@ -989,6 +991,13 @@ firewall zones to define the trust level of network connections or interfaces. [
 - [Linux Kernel Internals (PDF)](http://www.tldp.org/LDP/lki/lki.pdf)
 - [Linux Kernel Mailing List Archive](https://lkml.org/)
 - [Linux Kernel Module Programming Guide (PDF)](http://www.tldp.org/LDP/lkmpg/2.6/lkmpg.pdf)
+
+## Other Awesome Lists
+
+*These are the list that I highly recommended:*
+- [Awesome Linux Audio](https://github.com/nodiscc/awesome-linuxaudio)
+- [Awesome Self-hosted](https://github.com/kickball/awesome-selfhosted)
+- [Awesome Sysadmin](https://github.com/n1trux/awesome-sysadmin)
 
 ## Contributors
 
