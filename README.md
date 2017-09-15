@@ -134,25 +134,33 @@ Brazilian Portugese version : [here](https://github.com/LewisVo/Awesome-Linux-So
 
 
 ### Chat Clients
+
+#### 3rd party Client
 - [Caprine](https://sindresorhus.com/caprine) - Elegant Facebook Messenger desktop app. [![Open-Source Software][OSS Icon]](https://github.com/sindresorhus/caprine) 
 - [Chatty](http://chatty.github.io/) - Chatty is a Twitch chat client for everyone who wants to try something new and different from the webchat, but doesn't want the complexity of an IRC client or miss out on the Twitch specific features.[![Open-Source Software][OSS Icon]](https://github.com/chatty/chatty) 
 - [Cutegram](http://aseman.co/en/products/cutegram/) - Offers more features than the official Telegram app [![Open-Source Software][OSS Icon]](https://github.com/Aseman-Land/Cutegram) 
-- [Dino](https://dino.im) - Clean and modern Jabber/XMPP chat client [![Open-Source Software][OSS Icon]](https://github.com/dino/dino) 
-- [Discord](https://discordapp.com/) - All-in-one voice and text chat for gamers that’s free, secure, and works on both your desktop and phone. 
-- [Franz](http://meetfranz.com/) - Franz is a free messaging app that combines many chat & messaging services into one application.
 - [GhettoSkype](https://github.com/stanfieldr/ghetto-skype) - open source web wrapper for Skype. [![Open-Source Software][OSS Icon]](https://github.com/stanfieldr/ghetto-skype) 
-- [Gitter](https://gitter.im/) - Gitter — Where developers come to talk. Gitter is designed to make community messaging, collaboration and discovery as smooth and simple as possible. [![Open-Source Software][OSS Icon]](https://github.com/gitterHQ/services) 
+- [Messenger for Desktop](https://messengerfordesktop.com/#download) - An app for Facebook messenger. [![Open-Source Software][OSS Icon]](https://github.com/Aluxian/Facebook-Messenger-Desktop) 
+- [ScudCloud](https://github.com/raelgc/scudcloud/) - A Slack client for Linux. [![Open-Source Software][OSS Icon]](https://github.com/raelgc/scudcloud/) 
+
+#### All-in-one Client
+- [Franz](http://meetfranz.com/) - Franz is a free messaging app that combines many chat & messaging services into one application.
+- [Pidgin](https://pidgin.im/) - A universal chat client. [![Open-Source Software][OSS Icon]](https://developer.pidgin.im/)
+- [Rambox](http://rambox.pro/) - Free, Open Source and Cross Platform messaging and emailing app that combines common web applications into one. [![Open-Source Software][OSS Icon]](https://github.com/saenzramiro/rambox) 
+
+#### IRC Client
 - [HexChat](https://hexchat.github.io/) - HexChat is an IRC client based on XChat, but unlike XChat it’s completely free for both Windows and Unix-like system.[![Open-Source Software][OSS Icon]](https://github.com/hexchat) 
 - [Irssi](https://github.com/irssi/irssi) - Irssi is a modular chat client that is most commonly known for its text mode user interface. [![Open-Source Software][OSS Icon]](https://github.com/irssi/irssi) 
-- [Jitsi](https://jitsi.org/) - Jitsi is a free and open source multiplatform voice, videoconferencing and instant messaging application for Windows, Linux, Mac OS X and Android. [![Open-Source Software][OSS Icon]](https://github.com/jitsi) 
 - [KVIrc](http://www.kvirc.net/) - KVIrc is a free portable IRC client based on the excellent Qt GUI toolkit. [![Open-Source Software][OSS Icon]](https://github.com/kvirc/KVIrc) 
-- [Messenger for Desktop](https://messengerfordesktop.com/#download) - An app for Facebook messenger. [![Open-Source Software][OSS Icon]](https://github.com/Aluxian/Facebook-Messenger-Desktop) 
-- [Pidgin](https://pidgin.im/) - A universal chat client. [![Open-Source Software][OSS Icon]](https://developer.pidgin.im/)
+
+#### Official Client
+- [Dino](https://dino.im) - Clean and modern Jabber/XMPP chat client [![Open-Source Software][OSS Icon]](https://github.com/dino/dino) 
+- [Discord](https://discordapp.com/) - All-in-one voice and text chat for gamers that’s free, secure, and works on both your desktop and phone.
+- [Gitter](https://gitter.im/) - Gitter — Where developers come to talk. Gitter is designed to make community messaging, collaboration and discovery as smooth and simple as possible. [![Open-Source Software][OSS Icon]](https://github.com/gitterHQ/services) 
+- [Jitsi](https://jitsi.org/) - Jitsi is a free and open source multiplatform voice, videoconferencing and instant messaging application for Windows, Linux, Mac OS X and Android. [![Open-Source Software][OSS Icon]](https://github.com/jitsi) 
 - [qTox](https://qtox.github.io/) - A simple distributed, secure messenger with audio and video chat capabilities. [![Open-Source Software][OSS Icon]](https://github.com/qTox/qTox) 
-- [Rambox](http://rambox.pro/) - Free, Open Source and Cross Platform messaging and emailing app that combines common web applications into one. [![Open-Source Software][OSS Icon]](https://github.com/saenzramiro/rambox) 
 - [Ring](https://ring.cx/) - Chat. Talk. Share. Ring is a free and universal communication platform which preserves the users' privacy and freedoms. [![Open-Source Software][OSS Icon]](https://ring.cx/en/documentation/faq#node-106) 
 - [Riot](https://riot.im/) - A glossy Matrix collaboration client for the web. [![Open-Source Software][OSS Icon]](https://github.com/vector-im/riot-web) 
-- [ScudCloud](https://github.com/raelgc/scudcloud/) - A Slack client for Linux. [![Open-Source Software][OSS Icon]](https://github.com/raelgc/scudcloud/) 
 - [Skype](https://www.skype.com/en/) - Skype keeps the world talking, for free. 
 - [Slack](https://slack.com/downloads/linux) - real-time messaging, archiving and search for modern teams. 
 - [Telegram](https://desktop.telegram.org/) - A messaging app with a focus on speed and security, it’s super fast, simple and free. [![Open-Source Software][OSS Icon]](https://github.com/telegramdesktop/tdesktop) 
@@ -295,6 +303,7 @@ Brazilian Portugese version : [here](https://github.com/LewisVo/Awesome-Linux-So
 - [Bookworm](https://babluboy.github.io/bookworm/) - A simple, focused eBook reader. [![Open-Source Software][OSS Icon]](https://github.com/babluboy/bookworm) 
 - [Buka](https://github.com/oguzhaninan/Buka/releases) - EBook Management [![Open-Source Software][OSS Icon]](https://github.com/oguzhaninan/Buka) 
 - [Calibre](http://calibre-ebook.com/) - Incredibly ugly but powerful software for ebook management and conversion. [![Open-Source Software][OSS Icon]](https://github.com/kovidgoyal/calibre) 
+- [Calibre-web](https://github.com/janeczku/calibre-web) - Calibre Web is a web app providing a clean interface for browsing, reading and downloading eBooks using an existing Calibre database.[![Open-Source Software][OSS Icon]](https://github.com/janeczku/calibre-web) 
 - [Easy Ebook Viewer](https://github.com/michaldaniel/Ebook-Viewer) - Modern GTK Python Ebook Reader app to easily read epub files. [![Open-Source Software][OSS Icon]](https://github.com/michaldaniel/Ebook-Viewer) 
 - [Evince](https://wiki.gnome.org/Apps/Evince) - Evince is a document viewer for multiple document formats. The goal of evince is to replace the multiple document viewers that exist on the GNOME Desktop with a single simple application.[![Open-Source Software][OSS Icon]](https://wiki.gnome.org/Apps/Evince/GettingEvince) 
 - [FBReader](https://fbreader.org/content/fbreader-beta-linux-desktop) - One of the most popular eReader apps. [![Open-Source Software][OSS Icon]](https://github.com/geometer/FBReader)
@@ -752,7 +761,7 @@ firewall zones to define the trust level of network connections or interfaces. [
 - [TLP](http://linrunner.de/en/tlp/docs/tlp-linux-advanced-power-management.html) - Optimize Linux battery.
 - [Trimage](https://trimage.org/) - A cross-platform tool for losslessly optimizing PNG and JPG files.[![Open-Source Software][OSS Icon]](https://github.com/Kilian/Trimage) 
 - [UbuntuCleaner](https://github.com/gerardpuig/ubuntu-cleaner) - Ubuntu Cleaner is a tool that makes it easy to clean your Ubuntu system.[![Open-Source Software][OSS Icon]](https://github.com/gerardpuig/ubuntu-cleaner) 
-- [Ubuntusys](https://github.com/adgellida/ubunsys) - Configurable app designed for Ubuntu referent to packages, updates and configurations [![Open-Source Software][OSS Icon]](https://github.com/adgellida/ubunsys) 
+- [Ubunsys](https://github.com/adgellida/ubunsys) - Configurable app designed for Ubuntu referent to packages, updates and configurations [![Open-Source Software][OSS Icon]](https://github.com/adgellida/ubunsys) 
 - [ULauncher](http://ulauncher.io/) - Application launcher for Linux. [![Open-Source Software][OSS Icon]](https://github.com/Ulauncher/Ulauncher/) 
 - [USB network gate](https://www.eltima.com/products/usb-over-ip-linux/) - Share USB port over Network on Linux.
 - [Variety](http://peterlevi.com/variety/) - Variety is an open-source wallpaper changer for Linux, packed with great features, yet slim and easy to use. [![Open-Source Software][OSS Icon]](https://github.com/peterlevi/variety-slideshow) 
