@@ -439,7 +439,7 @@ Brazilian Portugese version : [here](https://github.com/LewisVo/Awesome-Linux-So
 
 #### Engine recreations (require the actual game)
 - [OpenMW](http://openmw.org) - A recreation of the Morrowind engine, expanding upon the original. It can be used to play legitimate copies of original game. ![Open-Source Software][OSS Icon]
-- [OpenRCT2](https://openrct2.org/) - A recreation of the Rollercoaster Tycoon 2 engine. Requires the original games assests. ![Open-Source Software][OSS Icon]
+- [OpenRCT2](https://openrct2.website/) - A recreation of the Rollercoaster Tycoon 2 engine. Requires the original games assests. ![Open-Source Software][OSS Icon]
 - [NXEngine](http://nxengine.sourceforge.net/) - A source port of Cave Story that runs natively on Linux, Source needs to be built. ![Open-Source Software][OSS Icon]
 
 #### Gaming applications
