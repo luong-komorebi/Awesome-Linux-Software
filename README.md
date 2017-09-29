@@ -232,6 +232,7 @@ Brazilian Portugese version : [here](https://github.com/LewisVo/Awesome-Linux-So
 - [PostgreSQL](https://www.postgresql.org/download/) - PostgreSQL is a powerful, open source object-relational database system with more than 15 year development. PostgreSQL is not controlled by any corporation or other private entity and the source code is available free of charge [![Open-Source Software][OSS Icon]](https://github.com/postgres/postgres)
 - [Sqlite](https://sqlite.org/download.html) - SQLite is an in-process library that implements a self-contained, serverless, zero-configuration, transactional SQL database engine.[![Open-Source Software][OSS Icon]](https://www.sqlite.org/src/doc/trunk/README.md) 
 - [Sqlite Browser](http://sqlitebrowser.org/) - Visually create, manage, and view sqlite database files.  [![Open-Source Software][OSS Icon]](https://github.com/sqlitebrowser/sqlitebrowser)
+- [OmniDB](https://omnidb.org/en/) - Browser-based tool that visually create, manage, and view databases. 
 
 #### Golang
 - [Gogland](https://www.jetbrains.com/go/) - Gogland is the codename for a new commercial IDE by JetBrains aimed at providing an ergonomic environment for Go development.
@@ -265,7 +266,7 @@ Brazilian Portugese version : [here](https://github.com/LewisVo/Awesome-Linux-So
 #### Shell
 - [Fish](https://fishshell.com/) - A smart and user-friendly command-line shell. [![Open-Source Software][OSS Icon]](https://github.com/fish-shell/fish-shell) 
 - [Fisherman](https://github.com/fisherman/fisherman) - A plugin manager for fish shell. [![Open-Source Software][OSS Icon]](https://github.com/fisherman/fisherman) 
-(https://www.fossil-scm.org/index.html/dir?ci=tip)
+  (https://www.fossil-scm.org/index.html/dir?ci=tip)
 - [Ipython](https://ipython.org/) - Powerful Python shell. [![Open-Source Software][OSS Icon]](https://github.com/ipython/ipython)
 - [Oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - Provides various packages and themes to extend the functionality of your fish shell. [![Open-Source Software][OSS Icon]](https://github.com/oh-my-fish/oh-my-fish) 
 - [Oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - A delightful community-driven framework for managing your zsh configuration.  [![Open-Source Software][OSS Icon]](https://github.com/robbyrussell/oh-my-zsh)
@@ -659,7 +660,7 @@ Brazilian Portugese version : [here](https://github.com/LewisVo/Awesome-Linux-So
 - [FireHOL](https://firehol.org) - Linux firewall (`iptables`) manager for humans. [![Open-Source Software][OSS Icon]](https://github.com/firehol/firehol) 
 - [FireQoS](https://github.com/firehol/netdata/wiki/You-should-install-QoS-on-all-your-servers) - Linux QoS (`tc`) manager for humans. [![Open-Source Software][OSS Icon]](https://firehol.org/tutorial/fireqos-new-user/) 
 - [Firewalld](https://github.com/firewalld/firewalld) - Firewalld provides a dynamically managed firewall with support for network or
-firewall zones to define the trust level of network connections or interfaces. [![Open-Source Software][OSS Icon]](https://github.com/firewalld/firewalld)
+  firewall zones to define the trust level of network connections or interfaces. [![Open-Source Software][OSS Icon]](https://github.com/firewalld/firewalld)
 - [GnuPG](https://www.gnupg.org/) - Gnu Privacy Guard
 - [GuFW](http://gufw.org/) - One of the easiest firewalls in the world of Linux. [![Open-Source Software][OSS Icon]](https://code.launchpad.net/gui-ufw)
 - [IPrange](https://github.com/firehol/iprange) - A very fast command line utility for processing IP lists (merge, compare, exclude, etc). [![Open-Source Software][OSS Icon]](https://github.com/firehol/iprange) 
