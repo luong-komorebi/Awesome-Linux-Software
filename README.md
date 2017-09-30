@@ -113,7 +113,8 @@ Brazilian Portugese version : [here](https://github.com/LewisVo/Awesome-Linux-So
 - [Lyricfier](https://github.com/emilioastarita/lyricfier) - a Spotify Lyrics alternative app. [![Open-Source Software][OSS Icon]](https://github.com/emilioastarita/lyricfier) 
 - [Mixxx](http://www.mixxx.org/download/) - Free DJ software that gives you everything you need to perform live mixes, veritable alternative to Traktor. [![Open-Source Software][OSS Icon]](https://github.com/mixxxdj/mixxx) 
 - [Mellow Player](https://colinduquesnoy.github.io/MellowPlayer/) - Cloud music integration for your desktop. [![Open-Source Software][OSS Icon]](https://github.com/ColinDuquesnoy/MellowPlayer)
-- [Museek](http://museeks.io/) - A simple, clean and cross-platform music player. [![Open-Source Software][OSS Icon]](https://github.com/KeitIG/museeks) 
+- [Museek](http://museeks.io/) - A simple, clean and cross-platform music player. [![Open-Source Software][OSS Icon]](https://github.com/KeitIG/museeks)
+- [MusixMatch](https://about.musixmatch.com/apps/) - The best lyrics app with synchronized lyrics function. [![Open-Source Software][OSS Icon]](https://about.musixmatch.com/apps/)
 - [Netease Music](http://music.163.com/#/download) -  A music player of Netease - a cloud music service in China. 
 - [Nuclear](http://nuclear.gumblert.tech/) - An Electron-based, multiplatform music player app that streams from multiple sources.  [![Open-Source Software][OSS Icon]](https://github.com/nukeop/nuclear) 
 - [Ocenaudio](http://www.ocenaudio.com/whatis) - ocenaudio is a cross-platform, easy to use, fast and functional audio editor. It is the ideal software for people who need to edit and analyze audio files.
@@ -799,13 +800,16 @@ Brazilian Portugese version : [here](https://github.com/LewisVo/Awesome-Linux-So
 - [Polychromatic](https://github.com/lah7/polychromatic) - Graphical front end and tray applet for configuring Razer peripherals on GNU/Linux. [![Open-Source Software][OSS Icon]](https://github.com/lah7/polychromatic) 
 
 ## Command Line Utilities
+- [2048](https://itsfoss.com/best-command-line-games-linux/) - Play the famous 2048 in commandline.[![Open-Source Software][OSS Icon]](https://itsfoss.com/best-command-line-games-linux/)
 - [Bastet](https://github.com/fph/bastet) - Play Tetris in commandline.[![Open-Source Software][OSS Icon]](https://github.com/fph/bastet)
+- [Backgammon](https://itsfoss.com/best-command-line-games-linux/) - Play Backgammon in commandline.[![Open-Source Software][OSS Icon]](https://itsfoss.com/best-command-line-games-linux/)
 - [Buku](https://github.com/jarun/Buku) - Command line bookmark managers.[![Open-Source Software][OSS Icon]](https://github.com/jarun/Buku)
 - [Daily Reddit Wallpaper](https://github.com/ssimunic/Daily-Reddit-Wallpaper) - Change your wallpaper to the most upvoted image of the day from /r/wallpapers or any other subreddit on system startup. [![Open-Source Software][OSS Icon]](https://github.com/ssimunic/Daily-Reddit-Wallpaper)
 - [exa](https://the.exa.website/) - exa is a modern replacement for ls. [![Open-Source Software][OSS Icon]](https://github.com/ogham/exa)
 - [Fishfry](https://github.com/LubuntuFu/fishfry) - replaces fish history with a history tailored to pentesters for efficiency and newbie pentesters for learning.[![Open-Source Software][OSS Icon]](https://github.com/LubuntuFu/fishfry)
 - [Gkill](https://github.com/heppu/gkill) - Interactive process killer for Linux. [![Open-Source Software][OSS Icon]](https://github.com/heppu/gkill)
 - [Googler](https://itsfoss.com/review-googler-linux/) - Google any stuff right in the command line.[![Open-Source Software][OSS Icon]](https://github.com/jarun/googler)
+- [Greed](https://itsfoss.com/best-command-line-games-linux/) - Tron game in the linux command line.[![Open-Source Software][OSS Icon]](https://itsfoss.com/best-command-line-games-linux/)
 - [gtop](https://github.com/aksakalli/gtop) - System monitoring dashboard for terminal. Think 'graphical top', with bar charts, line graphs, pie charts etc [![Open-Source Software][OSS Icon]](https://github.com/aksakalli/gtop)
 - [htop](http://hisham.hm/htop/) - an interactive process viewer for Unix systems with improved features and user experience [![Open-Source Software][OSS Icon]](https://github.com/hishamhm/htop)
 - [Liquidprompt](https://github.com/nojhan/liquidprompt) - A full-featured & carefully designed adaptive prompt for Bash & Zsh [![Open-Source Software][OSS Icon]](https://github.com/nojhan/liquidprompt)
@@ -813,6 +817,8 @@ Brazilian Portugese version : [here](https://github.com/LewisVo/Awesome-Linux-So
 - [Mutt](http://www.mutt.org/) - A terminal based mail client with vim keybindings and great flexibility and customizability.[![Open-Source Software][OSS Icon]](https://dev.mutt.org/hg/mutt/file/tip) 
 - [Neofetch](https://github.com/dylanaraps/neofetch/releases) -  A fast, highly customizable system info script that supports Linux, MacOS, iOS, BSD, Solaris, Android, Haiku, GNU Hurd, MINIX, AIX and Windows.[![Open-Source Software][OSS Icon]](https://github.com/dylanaraps/neofetch)
 - [Newsbeuter](http://newsbeuter.org/) - A fast and customizable RSS feed reader with vim keybindings. [![Open-Source Software][OSS Icon]](https://github.com/akrennmair/newsbeuter/tree/master) 
+- [Ninvaders](https://itsfoss.com/best-command-line-games-linux/) - Play Space Invaders on the command line. [![Open-Source Software][OSS Icon]](https://itsfoss.com/best-command-line-games-linux/)
+- [nSnake](https://itsfoss.com/best-command-line-games-linux/) - Play the classic Nokia snake game on the command line. [![Open-Source Software][OSS Icon]](https://itsfoss.com/best-command-line-games-linux/) 
 - [Pacman4console](https://launchpad.net/ubuntu/+source/pacman4console) - Play Pacman game in console.[![Open-Source Software][OSS Icon]](https://github.com/alexdantas/pacman4console.debian)
 - [PathPicker](https://github.com/facebook/PathPicker) - Accepts a wide range of input -- output from git commands, grep results, searches
 - [s-tui](https://amanusk.github.io/s-tui/) - s-tui is an UI for monitoring your computer's CPU temperature, frequency and utilization in a graphical way from the terminal. [![Open-Source Software][OSS Icon]](https://github.com/amanusk/s-tui)
@@ -820,6 +826,7 @@ Brazilian Portugese version : [here](https://github.com/LewisVo/Awesome-Linux-So
 - [The Silver Searcher / Ag](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.[![Open-Source Software][OSS Icon]](https://github.com/ggreer/the_silver_searcher) 
 - [Tmux](https://tmux.github.io/) - It lets you switch easily between several programs in one terminal, detach them (they keep running in the background) and reattach them to a different terminal. And do a lot more.[![Open-Source Software][OSS Icon]](https://github.com/tmux/tmux)
 - [Top 10 command line tools](http://lifehacker.com/399468/top-10-command-line-tools)
+- [Tron](https://itsfoss.com/best-command-line-games-linux/) - Play the best action game, Tron in the command line.[![Open-Source Software][OSS Icon]](https://itsfoss.com/best-command-line-games-linux/)
 - [wicd-curses](https://wiki.archlinux.org/index.php/wicd#Running_Wicd_in_Text_Mode) - Command line WiFi connection manager.
 
 
