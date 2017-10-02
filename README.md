@@ -831,6 +831,7 @@ Brazilian Portugese version : [here](https://github.com/LewisVo/Awesome-Linux-So
 - [Top 10 command line tools](http://lifehacker.com/399468/top-10-command-line-tools)
 - [Tron](https://itsfoss.com/best-command-line-games-linux/) - Play the best action game, Tron in the command line.[![Open-Source Software][OSS Icon]](https://itsfoss.com/best-command-line-games-linux/)
 - [wicd-curses](https://wiki.archlinux.org/index.php/wicd#Running_Wicd_in_Text_Mode) - Command line WiFi connection manager.
+- [youtube-dl](http://rg3.github.io/youtube-dl/) - youtube-dl is a command-line program to download videos from YouTube.com and a few more sites. It requires the Python interpreter (2.6, 2.7, or 3.2+), and it is not platform specific. [![Open-Source Software][OSS Icon]](https://github.com/rg3/youtube-dl)
 
 
 ## Desktop Environments
