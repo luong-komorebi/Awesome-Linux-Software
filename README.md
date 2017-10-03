@@ -339,6 +339,9 @@ Brazilian Portugese version : [here](https://github.com/LewisVo/Awesome-Linux-So
 - [Textadept](https://foicica.com/textadept) - Minimalist text editor for programmers. Textadept is extensible with Lua programming language. [![Open-Source Software][OSS Icon]](https://foicica.com/hg/textadept)
 - [Vim](http://www.vim.org/download.php) -Vim is an advanced text editor that seeks to provide the power of the de-facto Unix editor 'Vi', with a more complete feature set. It's useful whether you're already using vi or using a different editor. [![Open-Source Software][OSS Icon]](https://github.com/vim/vim)
 - [VSCode](https://code.visualstudio.com) - Visual Studio Code is a lightweight but powerful source code editor which runs on your desktop and is available for Windows, OS X and Linux. It comes with built-in support for JavaScript, TypeScript and Node.js and has a rich ecosystem of extensions for other languages (C++, C#, Python, PHP, Golang) and runtimes.[![Open-Source Software][OSS Icon]](https://github.com/Microsoft/vscode)
+- [Nano](https://www.nano-editor.org/) - GNU Nano is a text editor which aims to introduce a simple interface and intuitive command options to console based text editing.[![Open-Source Software][OSS Icon]](http://git.savannah.gnu.org/cgit/nano.git/)
+- [Neovim](https://neovim.io/) - Neovim is a fork of Vim aiming to improve user experience, plugins, and GUIs.[![Open-Source Software][OSS Icon]](https://github.com/neovim/neovim)
+
 
 ### Education
 - [Artha](http://artha.sourceforge.net/wiki/index.php/Home) - Artha is a free cross-platform English thesaurus that works completely off-line and is based on WordNet. [![Open-Source Software][OSS Icon]](http://artha.sourceforge.net/wiki/index.php/Download#Source)
@@ -398,6 +401,7 @@ Brazilian Portugese version : [here](https://github.com/LewisVo/Awesome-Linux-So
 - [QDirStat](https://github.com/shundhammer/qdirstat#ubuntu) - Qt-based directory statistics - KDirStat without any KDE, from the original KDirStat author.[![Open-Source Software][OSS Icon]](https://github.com/shundhammer/qdirstat) 
 - [Ranger](http://ranger.nongnu.org/) - Ranger is a console file manager with VI key bindings.[![Open-Source Software][OSS Icon]](https://github.com/ranger/ranger) 
 - [Thunar](https://apps.ubuntu.com/cat/applications/precise/thunar/) - Thunar is the file manager designed to be the default file manager of Xfce 4.6 It has been designed to be fast and easy to use. [![Open-Source Software][OSS Icon]](https://github.com/luisgg/thunar) 
+- [Vifm](https://vifm.info/) - Vifm is an ncurses based file manager with VI like keybindings, which also borrows some useful ideas from mutt.[![Open-Source Software][OSS Icon]](https://github.com/vifm/vifm) 
 
 ### Games
 
@@ -827,6 +831,7 @@ Brazilian Portugese version : [here](https://github.com/LewisVo/Awesome-Linux-So
 - [Top 10 command line tools](http://lifehacker.com/399468/top-10-command-line-tools)
 - [Tron](https://itsfoss.com/best-command-line-games-linux/) - Play the best action game, Tron in the command line.[![Open-Source Software][OSS Icon]](https://itsfoss.com/best-command-line-games-linux/)
 - [wicd-curses](https://wiki.archlinux.org/index.php/wicd#Running_Wicd_in_Text_Mode) - Command line WiFi connection manager.
+- [youtube-dl](http://rg3.github.io/youtube-dl/) - youtube-dl is a command-line program to download videos from YouTube.com and a few more sites. It requires the Python interpreter (2.6, 2.7, or 3.2+), and it is not platform specific. [![Open-Source Software][OSS Icon]](https://github.com/rg3/youtube-dl)
 
 
 ## Desktop Environments
