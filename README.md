@@ -503,6 +503,8 @@ Brazilian Portugese version : [here](https://github.com/LewisVo/Awesome-Linux-So
 - [Ramme](https://github.com/terkelg/ramme) - Unofficial Instagram desktop application. [![Open-Source Software][OSS Icon]](https://github.com/terkelg/ramme)
 - [Rapid Photo Downloader](http://damonlynch.net/rapid/download.html) - Rapid Photo Downloader Makes It Easy to Import Photos from a Camera or Smartphone.  [![Open-Source Software][OSS Icon]](https://launchpad.net/rapid/pyqt/0.9.0b2)
 
+#### PSD, Sketch Inspection
+- [Avocode](https://avocode.com/) - Avocode - Share and inspect Photoshop and Sketch designs in a heart beat. ![Nonfree][Money Icon]
 
 #### Screen Recorder
 - [asciinema](https://asciinema.org) - Terminal session recorder. [![Open-Source Software][OSS Icon]](https://github.com/asciinema/asciinema)
