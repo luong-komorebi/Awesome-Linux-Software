@@ -548,7 +548,8 @@ Brazilian Portugese version : [here](https://github.com/LewisVo/Awesome-Linux-So
 #### Supportive Tool
 - [Clipgrab](https://clipgrab.org/) - A friendly downloader for YouTube and other sites.
 - [Tor](https://www.torproject.org/) - Tor is free software and an open network that helps you defend against traffic analysis, a form of network surveillance that threatens personal freedom and privacy. 
-- [youtube-dl](https://github.com/rg3/youtube-dl) - It can download videos from youtube.com or other video platforms. It's really awesome, at least for me.  [![Open-Source Software][OSS Icon]](https://github.com/rg3/youtube-dl).
+- [youtube-dl](https://github.com/rg3/youtube-dl) - It can download videos from youtube.com or other video platforms. It's really awesome, at least for me.  [![Open-Source Software][OSS Icon]](https://github.com/rg3/youtube-dl)
+- [youtube-dlg](https://mrs0m30n3.github.io/youtube-dl-gui/#downloads) Youtube-dlg is a GUI for youtube-dl and allows for simple copy and paste from all youtube-dl compatible websites. It can auto-update youtube-dl as well as process a list of URL's in parallel. [![Open-Source Software][OSS Icon]](https://github.com/MrS0m30n3/youtube-dl-gui)
 
 #### Web Service Client
 - [Corebird](http://corebird.baedert.org/) - corebird is native gtk+ twitter desktop client.  [![Open-Source Software][OSS Icon]](https://github.com/baedert/corebird)
@@ -715,6 +716,7 @@ Brazilian Portugese version : [here](https://github.com/LewisVo/Awesome-Linux-So
 - [RXVT](http://rxvt.sourceforge.net/) - A terminal emulator for X11, a popular replacement for the standard ‘xterm’.[![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/rxvt/)
 - [Sakura](https://launchpad.net/sakura) - Simple but powerful libvte based terminal emulator, supporting utf-8 and input methods as provided by gtk+ and pango libraries. [![Open-Source Software][OSS Icon]](https://launchpad.net/sakura)
 - [Terminator](http://gnometerminator.blogspot.com/p/introduction.html) - it’s quite clear that the most powerful terminal emulator on Linux is the feature-filled Terminator.
+- [Terminology](https://www.enlightenment.org/about-terminology) - The Pretty and lightweight Terminal from the Enlightenment Desktop, it's highly configurable, it works in X11, under a Wayland compositor and even directly in the framebuffer on Linux. Replace your boring text-mode VT with a graphical one that requires no display system. [![Open-Source Software][OSS Icon]](https://github.com/billiob/terminology)
 - [Terminus](https://eugeny.github.io/terminus/) - modern, highly configurable terminal app based on web technologies.  [![Open-Source Software][OSS Icon]](https://github.com/Eugeny/terminus) 
 - [Termite](https://github.com/thestinger/termite) - A keyboard-centric VTE-based terminal, aimed at use within a window manager with tiling and/or tabbing support. [![Open-Source Software][OSS Icon]](https://github.com/thestinger/termite)
 - [Termit](https://github.com/nonstop/termit/wiki) - Simple terminal emulator based on vte library, extensible via Lua.[![Open-Source Software][OSS Icon]](https://github.com/nonstop/termit/wiki)
@@ -753,6 +755,7 @@ Brazilian Portugese version : [here](https://github.com/LewisVo/Awesome-Linux-So
 - [Komorebi](https://github.com/iabem97/komorebi/releases) - Komorebi is a background manager for all Linux platforms, provides fully customizeable backgrounds that can be tweaked at any time. [![Open-Source Software][OSS Icon]](https://github.com/iabem97/komorebi)
 - [KVM](http://www.linux-kvm.org/page/Main_Page) - KVM (for Kernel-based Virtual Machine) is a full virtualization solution for Linux on x86 hardware containing virtualization extensions (Intel VT or AMD-V). [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/kvm/files/) 
 - [LastPass](https://lastpass.com/misc_download2.php) - LastPass is a crossplatform freemium password management service that stores encrypted passwords in private accounts.
+- [Mosh](https://mosh.org/#getting) - Mosh is a Remote terminal application that allows roaming, supports intermittent connectivity, and provides intelligent local echo and line editing of user keystrokes.[![Open-Source Software][OSS Icon]](https://github.com/mobile-shell/mosh)
 - [Nativefier](https://github.com/jiahaog/nativefier) - Make any web page a desktop application [![Open-Source Software][OSS Icon]](https://github.com/jiahaog/nativefier) 
 - [NetData](https://my-netdata.io) - Next-gen web based real-time performance and health monitoring for physical and virtual servers, containers and IoT devices. It is also a distributed `statsd` server with automatic visualization for APM (applications performance monitoring). [![Open-Source Software][OSS Icon]](https://github.com/firehol/netdata) 
 - [Ncdu](https://dev.yorhel.nl/ncdu) - Disk usage analyzer with an ncurses interface [![Open-Source Software][OSS Icon]](https://g.blicky.net/ncdu.git/) 
@@ -824,6 +827,7 @@ Brazilian Portugese version : [here](https://github.com/LewisVo/Awesome-Linux-So
 - [nSnake](https://itsfoss.com/best-command-line-games-linux/) - Play the classic Nokia snake game on the command line. [![Open-Source Software][OSS Icon]](https://itsfoss.com/best-command-line-games-linux/) 
 - [Pacman4console](https://launchpad.net/ubuntu/+source/pacman4console) - Play Pacman game in console.[![Open-Source Software][OSS Icon]](https://github.com/alexdantas/pacman4console.debian)
 - [PathPicker](https://github.com/facebook/PathPicker) - Accepts a wide range of input -- output from git commands, grep results, searches
+- [pywal](https://github.com/dylanaraps/pywal) - pywal is a script that takes an image (or a directory of images), generates a colorscheme (using imagemagick) and then changes all of your open terminal's colors to the new colorscheme on the fly, allowing you to have your terminal colors change with your wallpaper, or other criteria.
 - [s-tui](https://amanusk.github.io/s-tui/) - s-tui is an UI for monitoring your computer's CPU temperature, frequency and utilization in a graphical way from the terminal. [![Open-Source Software][OSS Icon]](https://github.com/amanusk/s-tui)
 - [TheFuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.[![Open-Source Software][OSS Icon]](https://github.com/nvbn/thefuck)
 - [The Silver Searcher / Ag](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.[![Open-Source Software][OSS Icon]](https://github.com/ggreer/the_silver_searcher) 
