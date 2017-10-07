@@ -930,6 +930,12 @@ Brazilian Portugese version : [here](https://github.com/LewisVo/Awesome-Linux-So
 - [General recommendations](https://wiki.archlinux.org/index.php/General_recommendations)
 - [List of applications](https://wiki.archlinux.org/index.php/List_of_applications)
 
+### Bodhi
+
+- [What is Bodhi](https://en.wikipedia.org/wiki/Bodhi_Linux)
+- [Where to Download Bodhi](http://www.bodhilinux.com/download/)
+- [How do I install Bodhi](http://www.bodhilinux.com/w/installation-instructions/)
+
 ### CentOS
 
 - [Official website](https://www.centos.org)
@@ -954,12 +960,6 @@ Brazilian Portugese version : [here](https://github.com/LewisVo/Awesome-Linux-So
 - [How to install Ubuntu](http://www.ubuntu.com/download/desktop/install-ubuntu-desktop)
 - [How to dual-boot Ubuntu with Windows](http://www.everydaylinuxuser.com/2014/05/install-ubuntu-1404-alongside-windows.html)
 - [What to do after installing Ubuntu](http://www.omgubuntu.co.uk/2016/04/10-things-to-do-after-installing-ubuntu-16-04-lts)
-
-### Bodhi
-
-- [What is Bodhi](https://en.wikipedia.org/wiki/Bodhi_Linux)
-- [Where to Download Bodhi](http://www.bodhilinux.com/download/)
-- [How do I install Bodhi](http://www.bodhilinux.com/w/installation-instructions/)
 
 ### Other distros
 
