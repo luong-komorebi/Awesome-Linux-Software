@@ -56,7 +56,7 @@ Brazilian Portugese version : [here](https://github.com/LewisVo/Awesome-Linux-So
 
 - [Setup](#setup)
   - [ArchLinux](#arch-linux)
-  - [Bodhi](#Bodhi)
+  - [Bodhi](#bodhi)
   - [CentOS](#centos)
   - [openSUSE](#opensuse)
   - [Ubuntu](#ubuntu)
@@ -73,7 +73,7 @@ Brazilian Portugese version : [here](https://github.com/LewisVo/Awesome-Linux-So
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contributors](#contributors)
 - [Guideline to Contribute](#guideline-to-contribute)
-- [How to Contribute](#Unsure-how-to-contribute?)
+- [How to Contribute](#unsure-how-to-contribute)
 
 ***********
 
