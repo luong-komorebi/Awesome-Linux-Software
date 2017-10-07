@@ -181,29 +181,41 @@ Brazilian Portugese version : [here](https://github.com/LewisVo/Awesome-Linux-So
 - [Test Disk](http://www.cgsecurity.org/wiki/TestDisk) - TestDisk is powerful free data recovery software! It was primarily designed to help recover lost partitions and/or make non-booting disks bootable again when these symptoms are caused by faulty software. [![Open-Source Software][OSS Icon]](https://github.com/cgsecurity/testdisk)
 - [Timeshift](https://launchpad.net/timeshift) - TimeShift is a system restore utility which takes incremental snapshots of the system using rsync and hard-links. These snapshots can be restored at a later date to undo all changes that were made to the system after the snapshot was taken. Snapshots can be taken manually or at regular intervals using scheduled jobs.[![Open-Source Software][OSS Icon]](https://code.launchpad.net/timeshift)
 
-### Desktop customization
+### Desktop Customization
+
+#### Desktop Themes
+
 - [Adapta Theme](https://github.com/tista500/Adapta) - An adaptive Gtk+ theme based on Material Design Guidelines. ![Open-Source Software][OSS Icon] 
-- [Arc Icon Theme](https://github.com/horst3180/arc-icon-theme) - A modern icon theme which should be used with Moka Icon Theme. ![Open-Source Software][OSS Icon] 
+- [Ant Theme](http://www.omgubuntu.co.uk/2017/09/ant-flat-gtk-theme-bloody-bite) - Ant is a flat GTK theme for Ubuntu and other GNOME-based Linux desktops it comes in three varieties: vanilla, Bloody, or Dracula. [![Open-Source Software][OSS Icon]](https://github.com/EliverLara/Ant)
 - [Arc Theme](https://github.com/horst3180/arc-theme) - A flat theme with transparent elements ![Open-Source Software][OSS Icon] 
-- [Compiz Config settings manager](https://apps.ubuntu.com/cat/applications/compizconfig-settings-manager/) - The OpenCompositing Project brings 3D desktop visual effects that improve usability of the X Window System and provide increased productivity.
-- [Conky](https://github.com/brndnmtthws/conky) - Conky is a free, light-weight system monitor for X, that displays any kind of information on your desktop. [![Open-Source Software][OSS Icon]](https://github.com/brndnmtthws/conky)
 - [EvoPop Theme](https://github.com/solus-project/evopop-gtk-theme) - EvoPop is a modern desktop theme suite build for the Solus Project. Its design is mostly flat with a minimal use of shadows for depth. [![Open-Source Software][OSS Icon]](https://github.com/solus-project/evopop-gtk-theme) 
 - [Flatabulous Arc Theme](https://github.com/andreisergiu98/arc-flatabulous-theme) - My favourite theme for Ubuntu.[![Open-Source Software][OSS Icon]](https://github.com/andreisergiu98/arc-flatabulous-theme)
 - [Flatabulous](https://github.com/anmoljagetia/Flatabulous) - This is a Flat theme for Ubuntu and other Gnome based Linux Systems. ![Open-Source Software][OSS Icon] 
+- [Irradiance Theme](https://github.com/bsundman/Irradiance) - A Unity theme inspired by OSX Yosemite based on Radiance.[![Open-Source Software][OSS Icon]](https://github.com/bsundman/Irradiance)
+- [Numix Theme](https://itsfoss.com/install-numix-ubuntu/) - A good popular theme. [![Open-Source Software][OSS Icon]](https://github.com/numixproject/numix-gtk-theme) 
+- [Yosembiance theme](https://github.com/bsundman/Yosembiance) - A modified Ambiance theme (loosely) inspired by OSX Yosemite. [![Open-Source Software][OSS Icon]](https://github.com/bsundman/Yosembiance) 
+
+#### Desktop Widgets and Theme Utilities
+
+- [Compiz Config settings manager](https://apps.ubuntu.com/cat/applications/compizconfig-settings-manager/) - The OpenCompositing Project brings 3D desktop visual effects that improve usability of the X Window System and provide increased productivity.
+- [Conky](https://github.com/brndnmtthws/conky) - Conky is a free, light-weight system monitor for X, that displays any kind of information on your desktop. [![Open-Source Software][OSS Icon]](https://github.com/brndnmtthws/conky)
 - [Gnome Extensions](http://extensions.gnome.org/) - Extensions for the Gnome Desktop Environment. 
 - [Gnome Look](https://www.gnome-look.org/) - Large amounts of community created icons, shell themes, fonts, and many more assets that can be used to customize your Gnome desktop environment, all located in one website.
 - [Hardcode Tray](https://github.com/bil-elmoussaoui/Hardcode-Tray) - this script fixes hardcoded tray icons in Linux by automatically detecting your default theme, the right icon size, the hard-coded applications, the right icons for each indicator and fix them. [![Open-Source Software][OSS Icon]](https://github.com/bil-elmoussaoui/Hardcode-Tray) 
-- [Irradiance Theme](https://github.com/bsundman/Irradiance) - A Unity theme inspired by OSX Yosemite based on Radiance.[![Open-Source Software][OSS Icon]](https://github.com/bsundman/Irradiance)
-- [La Capitaine Icon Theme](https://github.com/keeferrourke/la-capitaine-icon-theme) - A macOS and Material design inspired icon theme designed to fit into most desktop environments.
 - [Macbuntu](http://www.noobslab.com/2016/04/macbuntu-1604-transformation-pack-for.html) - A transformation pack for making your desktop look like a macOS. 
-- [Numix Icon Theme](http://www.noobslab.com/2014/04/install-numix-icon-packs-in-ubuntulinux.html) - One of the best icon themes for Ubuntu Linux.[![Open-Source Software][OSS Icon]](https://github.com/numixproject/numix-icon-theme) 
-- [Numix Theme](https://itsfoss.com/install-numix-ubuntu/) - A good popular theme. [![Open-Source Software][OSS Icon]](https://github.com/numixproject/numix-gtk-theme) 
 - [OCS store](https://github.com/opendesktop/ocsstore) - Desktop app of openDesktop.org, which is one of the largest communities where developers and artists share applications, themes and other content.[![Open-Source Software][OSS Icon]](https://github.com/opendesktop/ocsstore) 
 - [Oomox theme generator](https://github.com/actionless/oomox) - Graphical application for generating different color variations of a Numix-based and Flat-Plat themes (GTK2, GTK3), Gnome-Colors and Archdroid icons. ![Open-Source Software][OSS Icon]
-- [Papirus Icon Theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme-gtk/) - SVG icon theme for Linux systems, based on Paper with a few extras like (hardcode-tray support, kde-color-scheme support, libreoffice icon theme, filezilla theme, smplayer themes ...) and other modifications. The theme is available for GTK and KDE. [![Open-Source Software][OSS Icon]](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme-gtk/) 
 - [Unity Tweak Tool](https://apps.ubuntu.com/cat/applications/unity-tweak-tool/) - Must-have app for Ubuntu Unity customization. [![Open-Source Software][OSS Icon]](https://github.com/ianyh/Amethyst) 
 - [Wpgtk](http://deviantfero.github.io/wpgtk) - A universal theming software for all themes defined in text files, compatible with all terminals, with default themes for GTK2, GTK+, openbox and Tint2 that uses pywal as it's core for colorscheme generation.
-- [Yosembiance theme](https://github.com/bsundman/Yosembiance) - A modified Ambiance theme (loosely) inspired by OSX Yosemite. [![Open-Source Software][OSS Icon]](https://github.com/bsundman/Yosembiance) 
+
+#### Desktop Icon Packs
+
+- [Arc Icon Theme](https://github.com/horst3180/arc-icon-theme) - A modern icon theme which should be used with Moka Icon Theme. ![Open-Source Software][OSS Icon] 
+- [La Capitaine Icon Theme](https://github.com/keeferrourke/la-capitaine-icon-theme) - A macOS and Material design inspired icon theme designed to fit into most desktop environments.
+- [Moka Icon Theme](https://snwh.org/moka) - Moka was created with simplicity in mind. With the use simple geometry & bright colours. [![Open-Source Software][OSS Icon]](https://github.com/snwh/moka-icon-theme)
+- [Numix Icon Theme](http://www.noobslab.com/2014/04/install-numix-icon-packs-in-ubuntulinux.html) - One of the best icon themes for Ubuntu Linux.[![Open-Source Software][OSS Icon]](https://github.com/numixproject/numix-icon-theme) 
+- [Papirus Icon Theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme-gtk/) - SVG icon theme for Linux systems, based on Paper with a few extras like (hardcode-tray support, kde-color-scheme support, libreoffice icon theme, filezilla theme, smplayer themes ...) and other modifications. The theme is available for GTK and KDE. [![Open-Source Software][OSS Icon]](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme-gtk/) 
+
 
 ### Development
 
@@ -814,6 +826,7 @@ Brazilian Portugese version : [here](https://github.com/LewisVo/Awesome-Linux-So
 - [Bastet](https://github.com/fph/bastet) - Play Tetris in commandline.[![Open-Source Software][OSS Icon]](https://github.com/fph/bastet)
 - [Backgammon](https://itsfoss.com/best-command-line-games-linux/) - Play Backgammon in commandline.[![Open-Source Software][OSS Icon]](https://itsfoss.com/best-command-line-games-linux/)
 - [Buku](https://github.com/jarun/Buku) - Command line bookmark managers.[![Open-Source Software][OSS Icon]](https://github.com/jarun/Buku)
+- [Color LS](http://www.omgubuntu.co.uk/2017/07/add-bling-ls-bash-command-colorls) - Color Ls is a Ruby Gem that spices up the ls command and shows more visually than ls does without additional commands. [![Open-Source Software][OSS Icon]](https://github.com/athityakumar/colorls)
 - [Daily Reddit Wallpaper](https://github.com/ssimunic/Daily-Reddit-Wallpaper) - Change your wallpaper to the most upvoted image of the day from /r/wallpapers or any other subreddit on system startup. [![Open-Source Software][OSS Icon]](https://github.com/ssimunic/Daily-Reddit-Wallpaper)
 - [exa](https://the.exa.website/) - exa is a modern replacement for ls. [![Open-Source Software][OSS Icon]](https://github.com/ogham/exa)
 - [Fishfry](https://github.com/LubuntuFu/fishfry) - replaces fish history with a history tailored to pentesters for efficiency and newbie pentesters for learning.[![Open-Source Software][OSS Icon]](https://github.com/LubuntuFu/fishfry)
