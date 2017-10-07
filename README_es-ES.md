@@ -13,17 +13,17 @@
 
 **reconocimiento:** *todo lo escrito a continuación es de la experiencia del usuario, y traducido de la fuente de material [aquí:](https://github.com/LewisVo/Awesome-Linux-Software) español no es mi primer idioma, así que la ayuda es apreciada.
 
-versión china : [aquí](https://github.com/LewisVo/Awesome-Linux-Software/blob/master/README_zh-CN.md) or [here](https://github.com/alim0x/Awesome-Linux-Software-zh_CN) or [here](https://github.com/0xE8551CCB/awesome-linux-software-cn).  
-Brazilian Portugese version : [aquí](https://github.com/LewisVo/Awesome-Linux-Software/blob/master/README_pt-BR.md).
+versión china : [aquí](https://github.com/LewisVo/Awesome-Linux-Software/blob/master/README_zh-CN.md) or [here](https://github.com/alim0x/Awesome-Linux-Software-zh_CN) or [aquí](https://github.com/0xE8551CCB/awesome-linux-software-cn).  
+versión Portugués Brasileño : [aquí](https://github.com/LewisVo/Awesome-Linux-Software/blob/master/README_pt-BR.md).
 ## el índice de contenidos
 
 - [Aplicaciones](#aplicaciones)
     - [Audio](#audio)
-    - [Chat Clients](#chat-clients)
-    - [Data Backup and Recovery](#data-backup-and-recovery)
-    - [Desktop Customization](#desktop-customization)
-    - [Development](#development)
-    - [E-Book Utilities](#e-book-utilities)
+    - [clientes de mensajería instantánea](#clientes-de-mensajería-instantánea)
+    - [Copia de seguridad y recuperación](#Copia-de-seguridad-y-recuperación)
+    - [Personalización del escritorio](#personalización-del-escritorio)
+    - [desarrollo de software](#desarrollo-de-software)
+    - [utilitarios de Libros electrónicos](#utilitarios-de-Libros-electrónicos)
     - [Editors](#editors)
     - [Education](#education)
     - [Email Utilities](#email)
