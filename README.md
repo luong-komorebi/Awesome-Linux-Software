@@ -56,6 +56,7 @@ Brazilian Portugese version : [here](https://github.com/LewisVo/Awesome-Linux-So
 
 - [Setup](#setup)
   - [ArchLinux](#arch-linux)
+  - [Bodhi](#Bodhi)
   - [CentOS](#centos)
   - [openSUSE](#opensuse)
   - [Ubuntu](#ubuntu)
@@ -940,7 +941,7 @@ Brazilian Portugese version : [here](https://github.com/LewisVo/Awesome-Linux-So
 ### Bodhi
 
 - [What is Bodhi](https://en.wikipedia.org/wiki/Bodhi_Linux)
-- [Where to Download Bodhi](http://www.bodhilinux.com/download/)
+- [Where to download Bodhi](http://www.bodhilinux.com/download/)
 - [How do I install Bodhi](http://www.bodhilinux.com/w/installation-instructions/)
 
 ### CentOS
