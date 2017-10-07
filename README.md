@@ -1069,7 +1069,7 @@ Thanks to [**All of Github contributors**](https://github.com/LewisVo/Awesome-Li
 
 <br>
 
-## Guideline to contribute
+## Guidelines to contribute
 
 > Simply put the name of the **application** in the list.
 > Link to its **homepage** or a **guide** on how to install it.
@@ -1078,7 +1078,7 @@ Thanks to [**All of Github contributors**](https://github.com/LewisVo/Awesome-Li
 > If the application doesn't fit in any **existing topic**, make a **new one** for it.
 > Ensure everything is **alphabetically sorted**.
 
-## Unsure how you contribute?
+## Unsure how to contribute?
 
 - [How to Use Github](https://guides.github.com/activities/forking/)
 - [How to Git from the Command Line](https://rogerdudler.github.io/git-guide/)
