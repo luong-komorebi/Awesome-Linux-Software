@@ -144,6 +144,9 @@ Brazilian Portugese version : [here](https://github.com/LewisVo/Awesome-Linux-So
 - [Messenger for Desktop](https://messengerfordesktop.com/#download) - An app for Facebook messenger. [![Open-Source Software][OSS Icon]](https://github.com/Aluxian/Facebook-Messenger-Desktop) 
 - [ScudCloud](https://github.com/raelgc/scudcloud/) - A Slack client for Linux. [![Open-Source Software][OSS Icon]](https://github.com/raelgc/scudcloud/) 
 
+#### Chat Client Utilities
+- [Red Discord Bot](https://cogs.red) Red Discord Bot is a self-hosted music/chat/trivia bot that can run on a Raspberry Pi and a variety of OS's. It's extensible through a system of "Cogs" that allow it to do more. [![Open-Source Software][OSS Icon]](https://github.com/Cog-Creators/Red-DiscordBot) 
+
 #### All-in-One Client
 - [Franz](http://meetfranz.com/) - Franz is a free messaging app that combines many chat & messaging services into one application.
 - [Pidgin](https://pidgin.im/) - A universal chat client. [![Open-Source Software][OSS Icon]](https://developer.pidgin.im/)
@@ -167,7 +170,7 @@ Brazilian Portugese version : [here](https://github.com/LewisVo/Awesome-Linux-So
 - [Telegram](https://desktop.telegram.org/) - A messaging app with a focus on speed and security, it’s super fast, simple and free. [![Open-Source Software][OSS Icon]](https://github.com/telegramdesktop/tdesktop) 
 - [Viber](https://www.viber.com/en/products/linux) -Viber for Linux lets you send free messages and make free calls to other Viber users on any device and network, in any country 
 - [Weechat](https://weechat.org/) - WeeChat is a fast, light and extensible chat client .[![Open-Source Software][OSS Icon]](https://github.com/weechat) 
-- [Wire](https://wire.com/en/) - Secure communication. Full privacy. [![Open-Source Software][OSS Icon]](https://github.com/wireapp) 
+- [Wire](https://wire.com/en/) - Secure communication. Full privacy. [![Open-Source Software][OSS Icon]](https://github.com/wireapp)
 
 ### Data Backup and Recovery
 - [Borg Backup](https://borgbackup.readthedocs.io/en/stable/) - A nice tool to backup data.[![Open-Source Software][OSS Icon]](https://borgbackup.readthedocs.io/en/stable/development.html) 
@@ -1074,7 +1077,7 @@ Thanks to [**All of Github contributors**](https://github.com/LewisVo/Awesome-Li
 
 ## Unsure how you contribute?
 
-- [How to use Github](https://guides.github.com/activities/forking/)
+- [How to Use Github](https://guides.github.com/activities/forking/)
 - [How to Git from the Command Line](https://rogerdudler.github.io/git-guide/)
 
 *Items marked with ![Open-Source Software][OSS Icon] are open-source software and link to the source code. Items marked with ![Nonfree][Money Icon] are nonfree (as in nonfree beer) and may cost money to use.*
