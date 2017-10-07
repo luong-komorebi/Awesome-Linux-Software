@@ -777,8 +777,11 @@ Brazilian Portugese version : [here](https://github.com/LewisVo/Awesome-Linux-So
 - [Mosh](https://mosh.org/#getting) - Mosh is a Remote terminal application that allows roaming, supports intermittent connectivity, and provides intelligent local echo and line editing of user keystrokes.[![Open-Source Software][OSS Icon]](https://github.com/mobile-shell/mosh)
 - [Nativefier](https://github.com/jiahaog/nativefier) - Make any web page a desktop application [![Open-Source Software][OSS Icon]](https://github.com/jiahaog/nativefier) 
 - [NetData](https://my-netdata.io) - Next-gen web based real-time performance and health monitoring for physical and virtual servers, containers and IoT devices. It is also a distributed `statsd` server with automatic visualization for APM (applications performance monitoring). [![Open-Source Software][OSS Icon]](https://github.com/firehol/netdata) 
-- [Ncdu](https://dev.yorhel.nl/ncdu) - Disk usage analyzer with an ncurses interface [![Open-Source Software][OSS Icon]](https://g.blicky.net/ncdu.git/) 
-- [Peazip](http://www.peazip.org/) - Utility to unzip any zipped files 
+- [Ncdu](https://dev.yorhel.nl/ncdu) - Disk usage analyzer with an ncurses interface. [![Open-Source Software][OSS Icon]](https://g.blicky.net/ncdu.git/) 
+- [PeaExtractor](http://www.peazip.org/peaextractor-unace-unrar-unzip.html) A utility designed to unzip files and be as frictionless as possible, and easy to use as possible. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/peaextractor/)
+- [PeaUtilities](http://www.peazip.org/peautils-hash-secure-delete.html) PeaUtils is a suite of file management utilities, including hash checksums, secure delete, and file comparisons.  [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/peautils/)
+- [Peazip](http://www.peazip.org/) - Utility to unzip any of a huge variety of compression formats. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/peazip/files/Resources/)
+- [Pi-Hole](https://pi-hole.net) - Network-wide ad blocking via your own Linux hardware, using DNS filtering and re-direction Pi-Hole can block ads on a whole network, so Smartphones and Game Consoles can benefit from it in addition to computers. [![Open-Source Software][OSS Icon]](https://github.com/pi-hole/pi-hole)
 - [PlexyDesk](http://www.omgubuntu.co.uk/2016/09/plexydesk-widgets-linux-desktop-ppa) - Plexydesk supports multiple widget workspaces/desktops on Linux.
 - [Powertop](https://01.org/powertop/downloads) - Diagnose issue with powerconsumption.
 - [Psensor](http://wpitchoune.net/psensor/) - Graphical hardware temperature monitor for Linux.[![Open-Source Software][OSS Icon]](http://git.wpitchoune.net/psensor.git/) 
