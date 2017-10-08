@@ -147,31 +147,31 @@ versión Portugués Brasileño : [aquí](https://github.com/LewisVo/Awesome-Linu
 - [ScudCloud](https://github.com/raelgc/scudcloud/) - Un Cliente para slack no oficial para Linux. [![Open-Source Software][OSS Icon]](https://github.com/raelgc/scudcloud/)
 
 #### mensajería instantánea Cliente herramientas
-- [Red Discord Bot](https://cogs.red) "Red Discord Bot" este una programa servidor auto-alojamiento para Discord. El Programa puede instalar más "Cogs" para funciones adicionales. Puede funcionar en un Raspberri Pi.  [![Open-Source Software][OSS Icon]](https://github.com/Cog-Creators/Red-DiscordBot)
+- [Red Discord Bot](https://cogs.red) - "Red Discord Bot" este una programa servidor auto-alojamiento para Discord. El Programa puede instalar más "Cogs" para funciones adicionales. Puede funcionar en un Raspberri Pi.  [![Open-Source Software][OSS Icon]](https://github.com/Cog-Creators/Red-DiscordBot)
 
-#### All-in-One Client
+#### Clientes Todo en uno
 - [Franz](http://meetfranz.com/) - Franz es un programa de mensajería que agrega muchos servicios de mensajería instantánea.
 - [Pidgin](https://pidgin.im/) - Un cliente de mensajería instantánea que es universal. [![Open-Source Software][OSS Icon]](https://developer.pidgin.im/)
 - [Rambox](http://rambox.pro/) - Un programa que es libre y de código abierto, Rambox agrega mensajería instantánea y correo electrónico en un solo lugar. [![Open-Source Software][OSS Icon]](https://github.com/saenzramiro/rambox)
 
-#### IRC Client
+#### Clientes des IRC
 - [HexChat](https://hexchat.github.io/) - Hexchat es una cliente para IRC que está diseñada desde XChat, sin embargo en comparación con Xchat es gratis y de código abierto.[![Open-Source Software][OSS Icon]](https://github.com/hexchat)
 - [Irssi](https://github.com/irssi/irssi) - Irssi es una cliente para mensajería instantánea de IRC. Es un cliente modular que es conocido por el modo de texto. [![Open-Source Software][OSS Icon]](https://github.com/irssi/irssi)
 - [KVIrc](http://www.kvirc.net/) - KVIrc es un cliente IRC gratuito diseñado a partir de QT. [![Open-Source Software][OSS Icon]](https://github.com/kvirc/KVIrc)
 
-#### Official Client
-- [Dino](https://dino.im) - Clean and modern Jabber/XMPP chat client [![Open-Source Software][OSS Icon]](https://github.com/dino/dino)
-- [Discord](https://discordapp.com/) - All-in-one voice and text chat for gamers that’s free, secure, and works on both your desktop and phone.
-- [Gitter](https://gitter.im/) - Gitter — Where developers come to talk. Gitter is designed to make community messaging, collaboration and discovery as smooth and simple as possible. [![Open-Source Software][OSS Icon]](https://github.com/gitterHQ/services)
-- [Jitsi](https://jitsi.org/) - Jitsi is a free and open source multiplatform voice, videoconferencing and instant messaging application for Windows, Linux, Mac OS X and Android. [![Open-Source Software][OSS Icon]](https://github.com/jitsi)
-- [qTox](https://qtox.github.io/) - A simple distributed, secure messenger with audio and video chat capabilities. [![Open-Source Software][OSS Icon]](https://github.com/qTox/qTox)
-- [Ring](https://ring.cx/) - Chat. Talk. Share. Ring is a free and universal communication platform which preserves the users' privacy and freedoms. [![Open-Source Software][OSS Icon]](https://ring.cx/en/documentation/faq#node-106)
-- [Riot](https://riot.im/) - A glossy Matrix collaboration client for the web. [![Open-Source Software][OSS Icon]](https://github.com/vector-im/riot-web)
-- [Skype](https://www.skype.com/en/) - Skype keeps the world talking, for free.
-- [Slack](https://slack.com/downloads/linux) - real-time messaging, archiving and search for modern teams.
-- [Telegram](https://desktop.telegram.org/) - A messaging app with a focus on speed and security, it’s super fast, simple and free. [![Open-Source Software][OSS Icon]](https://github.com/telegramdesktop/tdesktop)
-- [Viber](https://www.viber.com/en/products/linux) -Viber for Linux lets you send free messages and make free calls to other Viber users on any device and network, in any country
-- [Weechat](https://weechat.org/) - WeeChat is a fast, light and extensible chat client .[![Open-Source Software][OSS Icon]](https://github.com/weechat)
+#### Clientes oficiales
+- [Dino](https://dino.im) - Un cliente de mensajería instantánea jabber / XMPP que es moderno. [![Open-Source Software][OSS Icon]](https://github.com/dino/dino)
+- [Discord](https://discordapp.com/) - y todo en una sola voz y servicio de mensajería instantánea de texto, diseñado para los jugadores, y funciona en computadoras y teléfonos celulares.
+- [Gitter](https://gitter.im/) - Gitter, es un servicio para mensajería comunitaria, colaboración y descubrimiento de comunidades que es muy fácil de usar. Se centra en los desarrolladores. [![Open-Source Software][OSS Icon]](https://github.com/gitterHQ/services)
+- [Jitsi](https://jitsi.org/) - Jitsi es una aplicación de mensajería instantánea multiplataforma gratuita y de código abierto. Funciona en Windows, Linux, Mac OS X y droid. [![Open-Source Software][OSS Icon]](https://github.com/jitsi)
+- [qTox](https://qtox.github.io/) - Un mensajero instantáneo que es seguro y puede hacer video. El programa utiliza Computación Distribuida. [![Open-Source Software][OSS Icon]](https://github.com/qTox/qTox)
+- [Ring](https://ring.cx/) - Ring es una plataforma de comunicación abierta y universal que se ocupa de la privacidad del usuario. [![Open-Source Software][OSS Icon]](https://ring.cx/en/documentation/faq#node-106)
+- [Riot](https://riot.im/) - Una colaboración Matrix para la web. [![Open-Source Software][OSS Icon]](https://github.com/vector-im/riot-web)
+- [Skype](https://www.skype.com/en/) - Skype es un mensajero gratuito en línea.
+- [Slack](https://slack.com/downloads/linux) - Una mensajería en tiempo real, con archivado y buenas capacidades de búsqueda para los equipos.
+- [Telegram](https://desktop.telegram.org/) - Una aplicación de mensajería que se centra en la velocidad y la seguridad. Es facil y gratis. [![Open-Source Software][OSS Icon]](https://github.com/telegramdesktop/tdesktop)
+- [Viber](https://www.viber.com/en/products/linux) - Viber le permite hablar con otros usuarios de la red de Viber, de forma gratuita a cualquier país.
+- [Weechat](https://weechat.org/) - Weechat es un cliente rápido y extensible para la mensajería instantánea. [![Open-Source Software][OSS Icon]](https://github.com/weechat)
 - [Wire](https://wire.com/en/) - Secure communication. Full privacy. [![Open-Source Software][OSS Icon]](https://github.com/wireapp)
 
 ### Data Backup and Recovery
