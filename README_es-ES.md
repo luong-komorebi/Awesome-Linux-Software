@@ -130,7 +130,7 @@ versión Portugués Brasileño : [aquí](https://github.com/LewisVo/Awesome-Linu
 - [Sayonara Player](https://sayonara-player.com/downloads.php) - un pequeño y rápido reproductor de medios para Linux. Fue escrito en C ++, y es apoyado por el marco QT. [![Open-Source Software][OSS Icon]](https://sayonara-player.com/downloads.php#Source)
 - [Soundconverter](http://soundconverter.org/) - un popular convertidor de archivos de audio. Es fácil de usar, y muy rápido. [![Open-Source Software][OSS Icon]](https://launchpad.net/soundconverter/trunk/2.1.6)
 - [SoundJuicer](http://www.howtogeek.com/howto/20126/rip-audio-cds-with-sound-juicer/) - una programa para Ripear uno CD para GNOME.  [![Open-Source Software][OSS Icon]](https://wiki.gnome.org/Apps/SoundJuicer)
-- [Soundnode](http://www.soundnodeapp.com/) - uno aplicacion código abierto para SoundCloud. [![Open-Source Software][OSS Icon]](https://github.com/Soundnode/soundnode-app)
+- [Soundnode](http://www.soundnodeapp.com/) - un aplicacion código abierto para SoundCloud. [![Open-Source Software][OSS Icon]](https://github.com/Soundnode/soundnode-app)
 - [Spotio](https://github.com/devinhalladay/spotio) - un tema inspirado en Rdio para la aplicación del applicacion Spotify oficial. [![Open-Source Software][OSS Icon]](https://github.com/devinhalladay/spotio)
 - [Tomahawk](https://www.tomahawk-player.org/) - un nuevo reproductor de medios que agrega radio por Internet, descargas, almacenamiento de música en la nube, listas de reproducción de música y mucho más. [![Open-Source Software][OSS Icon]](https://github.com/tomahawk-player/tomahawk)
 - [Vocal](http://vocalproject.net/) - Un cliente para podcastos para el moderno escritorio. [![Open-Source Software][OSS Icon]](https://github.com/needle-and-thread/vocal)
@@ -139,25 +139,25 @@ versión Portugués Brasileño : [aquí](https://github.com/LewisVo/Awesome-Linu
 ### Clientes de mensajería instantánea
 
 #### Clientes no oficiales
-- [Caprine](https://sindresorhus.com/caprine) - Elegant Facebook Messenger desktop app. [![Open-Source Software][OSS Icon]](https://github.com/sindresorhus/caprine)
-- [Chatty](http://chatty.github.io/) - Chatty is a Twitch chat client for everyone who wants to try something new and different from the webchat, but doesn't want the complexity of an IRC client or miss out on the Twitch specific features.[![Open-Source Software][OSS Icon]](https://github.com/chatty/chatty)
-- [Cutegram](http://aseman.co/en/products/cutegram/) - Offers more features than the official Telegram app [![Open-Source Software][OSS Icon]](https://github.com/Aseman-Land/Cutegram)
-- [GhettoSkype](https://github.com/stanfieldr/ghetto-skype) - open source web wrapper for Skype. [![Open-Source Software][OSS Icon]](https://github.com/stanfieldr/ghetto-skype)
-- [Messenger for Desktop](https://messengerfordesktop.com/#download) - An app for Facebook messenger. [![Open-Source Software][OSS Icon]](https://github.com/Aluxian/Facebook-Messenger-Desktop)
-- [ScudCloud](https://github.com/raelgc/scudcloud/) - A Slack client for Linux. [![Open-Source Software][OSS Icon]](https://github.com/raelgc/scudcloud/)
+- [Caprine](https://sindresorhus.com/caprine) - Un programa que está muy bien diseñado para facebook. [![Open-Source Software][OSS Icon]](https://github.com/sindresorhus/caprine)
+- [Chatty](http://chatty.github.io/) - Chatty es una a cliente twitch para mensajes.[![Open-Source Software][OSS Icon]](https://github.com/chatty/chatty)
+- [Cutegram](http://aseman.co/en/products/cutegram/) - Este programa tiene más capacidad que el programa oficial de Telegram. [![Open-Source Software][OSS Icon]](https://github.com/Aseman-Land/Cutegram)
+- [GhettoSkype](https://github.com/stanfieldr/ghetto-skype) - Un Software código abierto envoltura el programma web para Skype. [![Open-Source Software][OSS Icon]](https://github.com/stanfieldr/ghetto-skype)
+- [Messenger for Desktop](https://messengerfordesktop.com/#download) - Una Programa para mensajería instantánea de Facebook. [![Open-Source Software][OSS Icon]](https://github.com/Aluxian/Facebook-Messenger-Desktop)
+- [ScudCloud](https://github.com/raelgc/scudcloud/) - Un Cliente para slack no oficial para Linux. [![Open-Source Software][OSS Icon]](https://github.com/raelgc/scudcloud/)
 
-#### Chat Client Utilities
-- [Red Discord Bot](https://cogs.red) Red Discord Bot is a self-hosted music/chat/trivia bot that can run on a Raspberry Pi and a variety of OS's. It's extensible through a system of "Cogs" that allow it to do more. [![Open-Source Software][OSS Icon]](https://github.com/Cog-Creators/Red-DiscordBot)
+#### mensajería instantánea Cliente herramientas
+- [Red Discord Bot](https://cogs.red) "Red Discord Bot" este una programa servidor auto-alojamiento para Discord. El Programa puede instalar más "Cogs" para funciones adicionales. Puede funcionar en un Raspberri Pi.  [![Open-Source Software][OSS Icon]](https://github.com/Cog-Creators/Red-DiscordBot)
 
 #### All-in-One Client
-- [Franz](http://meetfranz.com/) - Franz is a free messaging app that combines many chat & messaging services into one application.
-- [Pidgin](https://pidgin.im/) - A universal chat client. [![Open-Source Software][OSS Icon]](https://developer.pidgin.im/)
-- [Rambox](http://rambox.pro/) - Free, Open Source and Cross Platform messaging and emailing app that combines common web applications into one. [![Open-Source Software][OSS Icon]](https://github.com/saenzramiro/rambox)
+- [Franz](http://meetfranz.com/) - Franz es un programa de mensajería que agrega muchos servicios de mensajería instantánea.
+- [Pidgin](https://pidgin.im/) - Un cliente de mensajería instantánea que es universal. [![Open-Source Software][OSS Icon]](https://developer.pidgin.im/)
+- [Rambox](http://rambox.pro/) - Un programa que es libre y de código abierto, Rambox agrega mensajería instantánea y correo electrónico en un solo lugar. [![Open-Source Software][OSS Icon]](https://github.com/saenzramiro/rambox)
 
 #### IRC Client
-- [HexChat](https://hexchat.github.io/) - HexChat is an IRC client based on XChat, but unlike XChat it’s completely free for both Windows and Unix-like system.[![Open-Source Software][OSS Icon]](https://github.com/hexchat)
-- [Irssi](https://github.com/irssi/irssi) - Irssi is a modular chat client that is most commonly known for its text mode user interface. [![Open-Source Software][OSS Icon]](https://github.com/irssi/irssi)
-- [KVIrc](http://www.kvirc.net/) - KVIrc is a free portable IRC client based on the excellent Qt GUI toolkit. [![Open-Source Software][OSS Icon]](https://github.com/kvirc/KVIrc)
+- [HexChat](https://hexchat.github.io/) - Hexchat es una cliente para IRC que está diseñada desde XChat, sin embargo en comparación con Xchat es gratis y de código abierto.[![Open-Source Software][OSS Icon]](https://github.com/hexchat)
+- [Irssi](https://github.com/irssi/irssi) - Irssi es una cliente para mensajería instantánea de IRC. Es un cliente modular que es conocido por el modo de texto. [![Open-Source Software][OSS Icon]](https://github.com/irssi/irssi)
+- [KVIrc](http://www.kvirc.net/) - KVIrc es un cliente IRC gratuito diseñado a partir de QT. [![Open-Source Software][OSS Icon]](https://github.com/kvirc/KVIrc)
 
 #### Official Client
 - [Dino](https://dino.im) - Clean and modern Jabber/XMPP chat client [![Open-Source Software][OSS Icon]](https://github.com/dino/dino)
