@@ -1,15 +1,15 @@
-# Awesome Linux Software
+# increíble Software de Linux
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://awesome.re/)
 
 ![Tux](img/tux.png)
 
 
-🐧 este repo es una colección de **increíble** Linux aplicaciones y herramientas para **usuarios y desarrolladores**.
+🐧 este repositorio es una colección de **increíble** aplicaciones Linux y herramientas para **usuarios y desarrolladores**.
 <br>
 🐧 usted está alentado **contribuyas** / **estrella** / **tenedor** / **recibir ** . cualquier **recomendaciones** y **sugerencias** son bienvenidos.
 
-*Actualización: este repositorio ha sido publicado en [Gitbook](https://voluong.gitbooks.io/awesome-linux-software/content/). puedes compartir este enlace con nuevos usuarios, puede ser más fácil de leer que github. descargar un pdf [aquí](https://goo.gl/xhiKla).*
+*Actualización: este repositorio ha sido publicado en [Gitbook](https://voluong.gitbooks.io/awesome-linux-software/content/). Puedes compartir este enlace con nuevos usuarios. Puedes ser más fácil de leer que github. Descargar un pdf [aquí](https://goo.gl/xhiKla).*
 
 **reconocimiento:** *todo lo escrito a continuación es de la experiencia del usuario, y traducido de la fuente de material [aquí:](https://github.com/LewisVo/Awesome-Linux-Software) español no es mi primer idioma, así que la ayuda es apreciada.
 
@@ -19,61 +19,61 @@ versión Portugués Brasileño : [aquí](https://github.com/LewisVo/Awesome-Linu
 
 - [Aplicaciones](#aplicaciones)
     - [Audio](#audio)
-    - [clientes de mensajería instantánea](#clientes-de-mensajería-instantánea)
-    - [Copia de seguridad y recuperación](#Copia-de-seguridad-y-recuperación)
+    - [Clientes de mensajería instantánea](#clientes-de-mensajería-instantánea)
+    - [Copia de seguridad y recuperación](#copia-de-seguridad-y-recuperación)
     - [Personalización del escritorio](#personalización-del-escritorio)
     - [desarrollo de software](#desarrollo-de-software)
-    - [utilitarios de Libros electrónicos](#utilitarios-de-Libros-electrónicos)
-    - [Editors](#editors)
-    - [Education](#education)
-    - [Email Utilities](#email)
-    - [File Manager](#file-manager)
-    - [Games](#games)
-    - [Graphics](#graphics)
-    - [Internet](#internet)
-    - [Office](#office)
-    - [Productivity](#productivity)
-    - [Proxy](#proxy)
-    - [Security](#security)
-    - [Sharing Files](#sharing-files)
-    - [Terminal](#terminal)
-    - [Utilities](#utilities)
-    - [Video](#video)
+    - [utilitarios de libros electrónicos](#utilitarios-de-Libros-electrónicos)
+    - [Editor de texto](#editor-de-texto)
+    - [Software educativo](#software-educativo)
+    - [Herramientas para email](#herramientas-para-email)
+    - [Administrador de archivos](#administrador-de-archivos)
+    - [Juegos](#juegos)
+    - [Gráficos](#gráficos)
+    - [Herramientas para internet](#herramientas-para-internet)
+    - [Oficina](#oficina)
+    - [Productividad](#productividad)
+    - [Software de proxy](#software-de-proxy)
+    - [Seguridad](#seguridad)
+    - [Intercambio de archivos](#intercambio-de-archivos)
+    - [Emulador de terminal](#emulador-de-terminal)
+    - [Herramientas](#herramientas)
+    - [Vídeo](#vídeo)
     - [Wiki software](#wiki-software)
-    - [Others](#others)
-- [Command Line Utilities](#command-line-utilities)
-- [Desktop Environments](#desktop-environments)
-- [Display Managers](#display-manager)
+    - [Diverso](#diverso)
+- [Herramientas de línea de comandos](#Herramientas-de-línea-de-comandos)
+- [Los Entornos des escritorios](#Los-Entornos-des-escritorios)
+- [Gestors des pantallas](#Gestors-des-pantallas)
   - [Console](#console)
-  - [Graphic](#graphic)
-- [Window Managers](#window-managers)
-  - [Compositors](#compositors)
-  - [Stacking window managers](#stacking-window-managers)
-  - [Tiling window managers](#tiling-window-managers)
-  - [Dynamic window managers](#dynamic-window-managers)
+  - [gráficos](#gráficos)
+- [Gestor de ventanas](#gestor-de-ventanas)
+  - [Gestor de composición](#gestor-de-composición)
+  - [Gestor de apilables](#gestor-de-apilables)
+  - [Gestor de embaldosado](#Gestor-de-embaldosado)
+  - [Gestor de dinámico](#Gestor-de-dinámico)
 
 ***********
 
-- [Setup](#setup)
+- [Instalación](#instalación)
   - [ArchLinux](#arch-linux)
   - [Bodhi](#bodhi)
   - [CentOS](#centos)
   - [openSUSE](#opensuse)
   - [Ubuntu](#ubuntu)
-- [Discussion Forums](#discussion-forums)
-    - [ArchLinux Forums](#arch-linux-forums)
-    - [CentOS Forums](#centos-forums)
-    - [Ubuntu Forums](#ubuntu-forums)
-    - [openSUSE Forums](#opensuse-forums)
-    - [IRC channels](#irc-channels)
-    - [Linux News, Apps, and more ....](#linux-news-apps-and-more-)
+- [Los Foros](#Los-Foros)
+    - [ArchLinux Foros](#arch-linux-Foros)
+    - [CentOS Foros](#centos-Foros)
+    - [Ubuntu Foros](#ubuntu-Foros)
+    - [openSUSE Foros](#opensuse-Foros)
+    - [Canals des IRC](#Canals-des-IRC)
+    - [noticias de linux y más ....](#linux-news-apps-and-more-)
     - [Reddit](#reddit)
-- [Learn Linux](#learn-linux)
-- [Linux Hacking/Development](#linux-hackingdevelopment)
-- [Other Awesome Lists](#other-awesome-lists)
-- [Contributors](#contributors)
-- [Guideline to Contribute](#guideline-to-contribute)
-- [How to Contribute](#unsure-how-to-contribute)
+- [aprender linux](#learn-linux)
+- [Desarrollo de linux](#linux-hackingdevelopment)
+- [Los otros listas impresionantes](#los-otros-listas-impresionantes)
+- [Contribuidores](#contribuidores)
+- [Reglas para contribuir](#reglas-para-contribuir)
+- [Cómo contribuir](#cómo-contribuir)
 
 ***********
 
@@ -86,10 +86,10 @@ versión Portugués Brasileño : [aquí](https://github.com/LewisVo/Awesome-Linu
 
 
 
-## Applications
+## Aplicaciones
 
 ### Audio
-*For a more comprehensive/advanced/better categorized/... list of Linux audio software, you may want to click [here](https://github.com/nodiscc/awesome-linuxaudio)*
+*para otra lista más larga de software de audio oprimir[aquí](https://github.com/nodiscc/awesome-linuxaudio)*
 - [Airtime](https://www.sourcefabric.org/en/airtime/download/) - The open broadcast software for scheduling and remote station management [![Open-Source Software][OSS Icon]](https://github.com/sourcefabric/Airtime)
 - [Ardour](https://ardour.org/) - Record, Edit, and Mix on Linux  [![Open-Source Software][OSS Icon]](https://ardour.org/development.html)
 - [Audacious](http://audacious-media-player.org/) - An open source audio player that plays your music how you want it, without stealing away your computer’s resources from other tasks.[![Open-Source Software][OSS Icon]](http://audacious-media-player.org/developers)
