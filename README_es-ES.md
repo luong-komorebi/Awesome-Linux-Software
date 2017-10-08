@@ -208,15 +208,17 @@ versión Portugués Brasileño : [aquí](https://github.com/LewisVo/Awesome-Linu
 - [Gnome Look](https://www.gnome-look.org/) - Un sitio web que agrega iconos creados por la comunidad, temas de shell, fuentes y más partes que se pueden utilizar en un escritorio de GNOME.
 - [Hardcode Tray](https://github.com/bil-elmoussaoui/Hardcode-Tray) - Se trata de una secuencia de comandos automatizada que corrige los iconos de la bandeja detectando el tema predeterminado de un sistema, el tamaño de icono perfecto y las aplicaciones codificadas. [![Open-Source Software][OSS Icon]](https://github.com/bil-elmoussaoui/Hardcode-Tray)
 - [Macbuntu](http://www.noobslab.com/2017/06/macbuntu-transformation-pack-ready-for.html) - Un programa que cambia tu escritorio para que parezca MacOS.
-- [OCS store](https://github.com/opendesktop/ocsstore) - Desktop app of openDesktop.org, which is one of the largest communities where developers and artists share applications, themes and other content.[![Open-Source Software][OSS Icon]](https://github.com/opendesktop/ocsstore)
-- [Oomox theme generator](https://github.com/actionless/oomox) - Graphical application for generating different color variations of a Numix-based and Flat-Plat themes (GTK2, GTK3), Gnome-Colors and Archdroid icons. ![Open-Source Software][OSS Icon]
-- [Unity Tweak Tool](https://apps.ubuntu.com/cat/applications/unity-tweak-tool/) - Must-have app for Ubuntu Unity customization. [![Open-Source Software][OSS Icon]](https://github.com/ianyh/Amethyst)
-- [Wpgtk](http://deviantfero.github.io/wpgtk) - A universal theming software for all themes defined in text files, compatible with all terminals, with default themes for GTK2, GTK+, openbox and Tint2 that uses pywal as it's core for colorscheme generation.
+- [OCS store](https://github.com/opendesktop/ocsstore) - La aplicación oficial de OpenDesktop.org, donde los desarrolladores y artistas comparten aplicaciones, temas e iconos. [![Open-Source Software][OSS Icon]](https://github.com/opendesktop/ocsstore)
+- [Oomox theme generator](https://github.com/actionless/oomox) - Una aplicación gráfica para generar diferentes variaciones de color de varios temas de escritorio GTK2 y GTK3.
+ [![Open-Source Software][OSS Icon](https://github.com/actionless/oomox)
+- [Unity Tweak Tool](https://apps.ubuntu.com/cat/applications/unity-tweak-tool/) - Una aplicación muy capaz para la personalización de Ubuntu Unity. [![Open-Source Software][OSS Icon]](https://github.com/ianyh/Amethyst)
+- [Wpgtk](http://deviantfero.github.io/wpgtk) - Un software de temas universales para temas que se definen en archivos de texto. Es compatible con todos los terminales y utiliza pywal como componente generador. [![Open-Source Software](https://github.com/deviantfero/wpgtk)
 
-#### Desktop Icon Packs
 
-- [Arc Icon Theme](https://github.com/horst3180/arc-icon-theme) - A modern flat icon theme that builds on and requires the Moka Icon Theme to work. ![Open-Source Software][OSS Icon]
-- [La Capitaine Icon Theme](https://github.com/keeferrourke/la-capitaine-icon-theme) - A macOS and Material design inspired icon theme designed to fit into most desktop environments.
+#### Paquetes de iconos de escritorio
+
+- [Arc Icon Theme](https://github.com/horst3180/arc-icon-theme) - Un tema de icono Plano que requiere que el tema de Icono de Moka funcione. [![Open-Source Software][OSS Icon](https://github.com/horst3180/arc-icon-theme)
+- [La Capitaine Icon Theme](https://github.com/keeferrourke/la-capitaine-icon-theme) - A macOS and Material design inspired icon theme designed to fit into most desktop environments. [![Open-Source Software][OSS Icon](https://github.com/keeferrourke/la-capitaine-icon-theme)
 - [Moka Icon Theme](https://snwh.org/moka) - Moka was created with simplicity in mind. With the use simple geometry & bright colours. [![Open-Source Software][OSS Icon]](https://github.com/snwh/moka-icon-theme)
 - [Numix Icon Theme](http://www.noobslab.com/2014/04/install-numix-icon-packs-in-ubuntulinux.html) - A flat icon theme that comes in two varieties, Numix Main, and Numix circle.[![Open-Source Software][OSS Icon]](https://github.com/numixproject/numix-icon-theme)
 - [Papirus Icon Theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme-gtk/) - SVG icon theme for Linux systems, based on Paper with a few extras like (hardcode-tray support, kde-color-scheme support, libreoffice icon theme, filezilla theme, smplayer themes ...) and other modifications. The theme is available for GTK and KDE. [![Open-Source Software][OSS Icon]](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme-gtk/)
