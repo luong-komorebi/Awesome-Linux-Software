@@ -180,32 +180,32 @@ versión Portugués Brasileño : [aquí](https://github.com/LewisVo/Awesome-Linu
 - [Duplicity](http://duplicity.nongnu.org/) - Duplicity crea copias de seguridad de directorios mediante la creación de archivos cifrados en el formato Tar.[![Open-Source Software][OSS Icon]](https://launchpad.net/duplicity)
 - [Photorec](http://www.cgsecurity.org/wiki/PhotoRec) - Photorec es un software de recuperación de datos de archivos, diseñado para volver a crear archivos de datos incorrectos. Funciona en discos compactos y tarjetas de memoria de la cámara [![Open-Source Software][OSS Icon]](https://github.com/cgsecurity/testdisk)
 - [Qt4-fsarchiver](https://sourceforge.net/projects/qt4-fsarchiver/) - Una GUI del programa de archivado para fsarchiver, está diseñada para guardar y restaurar particiones de disco, carpetas y tablas MBR / GPT. Funciona en Ubuntu, Opensuse y Fedora. [![Open-Source Software][OSS Icon]](https://borgbackup.readthedocs.io/en/stable/)
-- [rclone](http://rclone.org/) - Rclone is a command line program to sync files and directories to and from various cloud storage solutions. It also allows encrypted backups.[![Open-Source Software][OSS Icon]](https://github.com/ncw/rclone)
-- [rsnapshot](http://rsnapshot.org/) - rsnapshot is a cmd-line utility based on rsync to make periodic snapshots of local/remote machines. The code makes extensive use of hard links whenever possible to greatly reduce the disk space required.) [![Open-Source Software][OSS Icon]](https://github.com/rsnapshot/rsnapshot.git)
-- [System Rescue CD](http://www.system-rescue-cd.org/SystemRescueCd_Homepage) - SystemRescueCd is a Linux system rescue disk available as a bootable CD-ROM or USB stick for administrating or repairing your system and data after a crash. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/systemrescuecd/files/sysresccd-x86/)
-- [Test Disk](http://www.cgsecurity.org/wiki/TestDisk) - TestDisk is powerful free data recovery software! It was primarily designed to help recover lost partitions and/or make non-booting disks bootable again when these symptoms are caused by faulty software. [![Open-Source Software][OSS Icon]](https://github.com/cgsecurity/testdisk)
-- [Timeshift](https://launchpad.net/timeshift) - TimeShift is a system restore utility which takes incremental snapshots of the system using rsync and hard-links. These snapshots can be restored at a later date to undo all changes that were made to the system after the snapshot was taken. Snapshots can be taken manually or at regular intervals using scheduled jobs.[![Open-Source Software][OSS Icon]](https://code.launchpad.net/timeshift)
+- [rclone](http://rclone.org/) - Rclone es un programa de línea de comandos para sincronizar archivos y directorios de la nube. También permite copia de seguridad cifrada.[![Open-Source Software][OSS Icon]](https://github.com/ncw/rclone)
+- [rsnapshot](http://rsnapshot.org/) - La programa rsnapshot es una utilidad de línea de comandos basada en rsync para realizar instantáneas temporizadas de equipos locales y remotos. [![Open-Source Software][OSS Icon]](https://github.com/rsnapshot/rsnapshot.git)
+- [System Rescue CD](http://www.system-rescue-cd.org/SystemRescueCd_Homepage) - SystemRescueCD es un disco de rescate del sistema linux diseñado para ser ejecutado desde un CD-ROM o memoria USB para reparar un sistema después de un problema. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/systemrescuecd/files/sysresccd-x86/)
+- [Test Disk](http://www.cgsecurity.org/wiki/TestDisk) - TestDisk es un programa de recuperación gratuito que fue diseñado para recuperar particiones rotas o hacer que los discos que no se pueden arrancar funcionen de nuevo. [![Open-Source Software][OSS Icon]](https://github.com/cgsecurity/testdisk)
+- [Timeshift](https://launchpad.net/timeshift) - TimeShift es una utilidad de restauración del sistema que toma copias de seguridad incrementales de un sistema informático utilizando rsync y enlaces duros. [![Open-Source Software][OSS Icon]](https://code.launchpad.net/timeshift)
 
-### Desktop Customization
+### Personalización del escritorio
 
-#### Desktop Themes
+#### Los Temas de escritorio
 
-- [Adapta Theme](https://github.com/tista500/Adapta) - An adaptive Gtk+ theme based on Material Design Guidelines. ![Open-Source Software][OSS Icon]
-- [Ant Theme](http://www.omgubuntu.co.uk/2017/09/ant-flat-gtk-theme-bloody-bite) - Ant is a flat GTK theme for Ubuntu and other GNOME-based Linux desktops it comes in three varieties: vanilla, Bloody, or Dracula. [![Open-Source Software][OSS Icon]](https://github.com/EliverLara/Ant)
-- [Arc Theme](https://github.com/horst3180/arc-theme) - A flat theme with transparent elements ![Open-Source Software][OSS Icon]
-- [EvoPop Theme](https://github.com/solus-project/evopop-gtk-theme) - EvoPop is a modern desktop theme suite build for the Solus Project. Its design is mostly flat with a minimal use of shadows for depth. [![Open-Source Software][OSS Icon]](https://github.com/solus-project/evopop-gtk-theme)
-- [Flatabulous Arc Theme](https://github.com/andreisergiu98/arc-flatabulous-theme) - A flat and blue GTK theme that also comes in darker versions.[![Open-Source Software][OSS Icon]](https://github.com/andreisergiu98/arc-flatabulous-theme)
-- [Flatabulous](https://github.com/anmoljagetia/Flatabulous) - This is a Flat theme for Ubuntu and other Gnome based Linux Systems. ![Open-Source Software][OSS Icon]
-- [Irradiance Theme](https://github.com/bsundman/Irradiance) - A Unity theme inspired by OSX Yosemite based on Radiance.[![Open-Source Software][OSS Icon]](https://github.com/bsundman/Irradiance)
-- [Numix Theme](https://itsfoss.com/install-numix-ubuntu/) - A flat and colorful GTK-Theme . [![Open-Source Software][OSS Icon]](https://github.com/numixproject/numix-gtk-theme)
-- [Yosembiance theme](https://github.com/bsundman/Yosembiance) - A modified Ambiance theme (loosely) inspired by OSX Yosemite. [![Open-Source Software][OSS Icon]](https://github.com/bsundman/Yosembiance)
+- [Adapta Theme](https://github.com/tista500/Adapta) - un tema adaptativo hecho de GTK + se basa en las directrices de Google Material Design. [![Open-Source Software][OSS Icon](https://github.com/adapta-project/adapta-gtk-theme)
+- [Ant Theme](http://www.omgubuntu.co.uk/2017/09/ant-flat-gtk-theme-bloody-bite) - Ant es un diseño plano de GTK para Ubuntu y otros escritorios Linux basados en GNOME. Tiene tres variedades: vanilla, Bloody, y Dracula. [![Open-Source Software][OSS Icon]](https://github.com/EliverLara/Ant)
+- [Arc Theme](https://github.com/horst3180/arc-theme) - Un tema plano con elementos transparentes. [![Open-Source Software][OSS Icon](https://github.com/horst3180/arc-theme)
+- [EvoPop Theme](https://github.com/solus-project/evopop-gtk-theme) - Evopop es un moderno tema de escritorio para Solus Linux. Es un tema plano con algún uso de sombras. [![Open-Source Software][OSS Icon]](https://github.com/solus-project/evopop-gtk-theme)
+- [Flatabulous Arc Theme](https://github.com/andreisergiu98/arc-flatabulous-theme) - Un tema GTK plano y azul que tiene una versión oscura alternativa. [![Open-Source Software][OSS Icon]](https://github.com/andreisergiu98/arc-flatabulous-theme)
+- [Flatabulous](https://github.com/anmoljagetia/Flatabulous) - Un tema plano para Ubuntu linux y otros sistemas operativos Linux basados en GNOME. [![Open-Source Software][OSS Icon](https://github.com/anmoljagetia/Flatabulous)
+- [Irradiance Theme](https://github.com/bsundman/Irradiance) - Un tema para Unity inspirado por OSX Yosemite, y se basa en el tema de Radiance. [![Open-Source Software][OSS Icon]](https://github.com/bsundman/Irradiance)
+- [Numix Theme](https://itsfoss.com/install-numix-ubuntu/) - Un tema plano y colorido para los escritorios basados en GTK. [![Open-Source Software][OSS Icon]](https://github.com/numixproject/numix-gtk-theme)
+- [Yosembiance theme](https://github.com/bsundman/Yosembiance) - Una versión modificada del tema Ambiance. [![Open-Source Software][OSS Icon]](https://github.com/bsundman/Yosembiance)
 
-#### Desktop Widgets and Theme Utilities
+#### Widgets y utilidades de tema para el escritorio.
 
-- [Compiz Config settings manager](https://apps.ubuntu.com/cat/applications/compizconfig-settings-manager/) - The OpenCompositing Project brings 3D desktop visual effects that improve usability of the X Window System and provide increased productivity.
-- [Conky](https://github.com/brndnmtthws/conky) - Conky is a free, light-weight system monitor for X, that displays any kind of information on your desktop. [![Open-Source Software][OSS Icon]](https://github.com/brndnmtthws/conky)
-- [Gnome Extensions](http://extensions.gnome.org/) - Extensions for the Gnome Desktop Environment.
-- [Gnome Look](https://www.gnome-look.org/) - Large amounts of community created icons, shell themes, fonts, and many more assets that can be used to customize your Gnome desktop environment, all located in one website.
+- [Compiz Config settings manager](https://apps.ubuntu.com/cat/applications/compizconfig-settings-manager/) - Este programa permite que los efectos visuales de escritorio 3D aumenten la productividad.
+- [Conky](https://github.com/brndnmtthws/conky) - Conky es un monitor de sistema abierto y rápido para el escritorio. Puede mostrar una variedad de información del sistema para un fácil acceso. [![Open-Source Software][OSS Icon]](https://github.com/brndnmtthws/conky)
+- [Gnome Extensions](http://extensions.gnome.org/) - Estas son extensiones para el entorno de escritorio de Gnome.
+- [Gnome Look](https://www.gnome-look.org/) - Un sitio web que agrega iconos creados por la comunidad, temas de shell, fuentes y más partes que se pueden utilizar en un escritorio de GNOME.
 - [Hardcode Tray](https://github.com/bil-elmoussaoui/Hardcode-Tray) - this script fixes hardcoded tray icons in Linux by automatically detecting your default theme, the right icon size, the hard-coded applications, the right icons for each indicator and fix them. [![Open-Source Software][OSS Icon]](https://github.com/bil-elmoussaoui/Hardcode-Tray)
 - [Macbuntu](http://www.noobslab.com/2016/04/macbuntu-1604-transformation-pack-for.html) - A transformation pack for making your desktop look like a macOS.
 - [OCS store](https://github.com/opendesktop/ocsstore) - Desktop app of openDesktop.org, which is one of the largest communities where developers and artists share applications, themes and other content.[![Open-Source Software][OSS Icon]](https://github.com/opendesktop/ocsstore)
