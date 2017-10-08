@@ -7,7 +7,7 @@
 
 🐧 este repositorio es una colección de **increíble** aplicaciones Linux y herramientas para **usuarios y desarrolladores**.
 <br>
-🐧 usted está alentado **contribuyas** / **estrella** / **tenedor** / **recibir ** . cualquier **recomendaciones** y **sugerencias** son bienvenidos.
+🐧 usted está alentado **contribuyas** / **estrella** / **tenedor** / **recibir**. Cualquier **recomendaciones** y **sugerencias** son bienvenidos.
 
 *Actualización: este repositorio ha sido publicado en [Gitbook](https://voluong.gitbooks.io/awesome-linux-software/content/). Puedes compartir este enlace con nuevos usuarios. Puedes ser más fácil de leer que github. Descargar un pdf [aquí](https://goo.gl/xhiKla).*
 
@@ -15,7 +15,7 @@
 
 versión china : [aquí](https://github.com/LewisVo/Awesome-Linux-Software/blob/master/README_zh-CN.md) o [aquí](https://github.com/alim0x/Awesome-Linux-Software-zh_CN) o [aquí](https://github.com/0xE8551CCB/awesome-linux-software-cn).  
 versión Portugués Brasileño : [aquí](https://github.com/LewisVo/Awesome-Linux-Software/blob/master/README_pt-BR.md).
-## el índice de contenidos
+## El índice de contenidos
 
 - [Aplicaciones](#aplicaciones)
     - [Audio](#audio)
@@ -206,8 +206,8 @@ versión Portugués Brasileño : [aquí](https://github.com/LewisVo/Awesome-Linu
 - [Conky](https://github.com/brndnmtthws/conky) - Conky es un monitor de sistema abierto y rápido para el escritorio. Puede mostrar una variedad de información del sistema para un fácil acceso. [![Open-Source Software][OSS Icon]](https://github.com/brndnmtthws/conky)
 - [Gnome Extensions](http://extensions.gnome.org/) - Estas son extensiones para el entorno de escritorio de Gnome.
 - [Gnome Look](https://www.gnome-look.org/) - Un sitio web que agrega iconos creados por la comunidad, temas de shell, fuentes y más partes que se pueden utilizar en un escritorio de GNOME.
-- [Hardcode Tray](https://github.com/bil-elmoussaoui/Hardcode-Tray) - this script fixes hardcoded tray icons in Linux by automatically detecting your default theme, the right icon size, the hard-coded applications, the right icons for each indicator and fix them. [![Open-Source Software][OSS Icon]](https://github.com/bil-elmoussaoui/Hardcode-Tray)
-- [Macbuntu](http://www.noobslab.com/2016/04/macbuntu-1604-transformation-pack-for.html) - A transformation pack for making your desktop look like a macOS.
+- [Hardcode Tray](https://github.com/bil-elmoussaoui/Hardcode-Tray) - Se trata de una secuencia de comandos automatizada que corrige los iconos de la bandeja detectando el tema predeterminado de un sistema, el tamaño de icono perfecto y las aplicaciones codificadas. [![Open-Source Software][OSS Icon]](https://github.com/bil-elmoussaoui/Hardcode-Tray)
+- [Macbuntu](http://www.noobslab.com/2017/06/macbuntu-transformation-pack-ready-for.html) - Un programa que cambia tu escritorio para que parezca MacOS.
 - [OCS store](https://github.com/opendesktop/ocsstore) - Desktop app of openDesktop.org, which is one of the largest communities where developers and artists share applications, themes and other content.[![Open-Source Software][OSS Icon]](https://github.com/opendesktop/ocsstore)
 - [Oomox theme generator](https://github.com/actionless/oomox) - Graphical application for generating different color variations of a Numix-based and Flat-Plat themes (GTK2, GTK3), Gnome-Colors and Archdroid icons. ![Open-Source Software][OSS Icon]
 - [Unity Tweak Tool](https://apps.ubuntu.com/cat/applications/unity-tweak-tool/) - Must-have app for Ubuntu Unity customization. [![Open-Source Software][OSS Icon]](https://github.com/ianyh/Amethyst)
