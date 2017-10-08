@@ -13,7 +13,7 @@
 
 **reconocimiento:** *todo lo escrito a continuación es de la experiencia del usuario, y traducido de la fuente de material [aquí:](https://github.com/LewisVo/Awesome-Linux-Software) español no es mi primer idioma, así que la ayuda es apreciada.
 
-versión china : [aquí](https://github.com/LewisVo/Awesome-Linux-Software/blob/master/README_zh-CN.md) or [here](https://github.com/alim0x/Awesome-Linux-Software-zh_CN) or [aquí](https://github.com/0xE8551CCB/awesome-linux-software-cn).  
+versión china : [aquí](https://github.com/LewisVo/Awesome-Linux-Software/blob/master/README_zh-CN.md) o [aquí](https://github.com/alim0x/Awesome-Linux-Software-zh_CN) o [aquí](https://github.com/0xE8551CCB/awesome-linux-software-cn).  
 versión Portugués Brasileño : [aquí](https://github.com/LewisVo/Awesome-Linux-Software/blob/master/README_pt-BR.md).
 ## el índice de contenidos
 
@@ -68,7 +68,7 @@ versión Portugués Brasileño : [aquí](https://github.com/LewisVo/Awesome-Linu
     - [Canals des IRC](#Canals-des-IRC)
     - [noticias de linux y más ....](#linux-news-apps-and-more-)
     - [Reddit](#reddit)
-- [aprender linux](#learn-linux)
+- [Aprender linux](#learn-linux)
 - [Desarrollo de linux](#linux-hackingdevelopment)
 - [Los otros listas impresionantes](#los-otros-listas-impresionantes)
 - [Contribuidores](#contribuidores)
@@ -89,22 +89,22 @@ versión Portugués Brasileño : [aquí](https://github.com/LewisVo/Awesome-Linu
 ## Aplicaciones
 
 ### Audio
-*para otra lista más larga de software de audio oprimir[aquí](https://github.com/nodiscc/awesome-linuxaudio)*
-- [Airtime](https://www.sourcefabric.org/en/airtime/download/) - The open broadcast software for scheduling and remote station management [![Open-Source Software][OSS Icon]](https://github.com/sourcefabric/Airtime)
-- [Ardour](https://ardour.org/) - Record, Edit, and Mix on Linux  [![Open-Source Software][OSS Icon]](https://ardour.org/development.html)
-- [Audacious](http://audacious-media-player.org/) - An open source audio player that plays your music how you want it, without stealing away your computer’s resources from other tasks.[![Open-Source Software][OSS Icon]](http://audacious-media-player.org/developers)
-- [Audacity](http://www.audacityteam.org/download/linux/) - Free, open source, cross-platform software for recording and editing sounds. [![Open-Source Software][OSS Icon]](https://github.com/audacity/audacity)
-- [Audio Recorder](https://launchpad.net/~audio-recorder/+archive/ubuntu/ppa) - Simple audio recorder available in an Ubuntu PPA.
-- [Auryo](http://auryo.com/) - Unofficial multiplatform SoundCloud® app for your desktop. [![Open-Source Software][OSS Icon]](https://github.com/Superjo149/auryo)
-- [Cantata](https://www.linux-apps.com/content/show.php/Cantata?content=147733) - Qt5 Graphical MPD (Music Player Daemon) Client for Linux, Windows, MacOS. [![Open-Source Software][OSS Icon]](https://github.com/CDrummond/cantata)
-- [Clementine](https://www.clementine-player.org/) - Play numerous lossy and lossless audio formats. [![Open-Source Software][OSS Icon]](https://github.com/clementine-player/Clementine)
-- [Cmus](https://cmus.github.io/#download) - A small, fast and powerful console music player for Unix-like operating systems.[![Open-Source Software][OSS Icon]](https://github.com/cmus/cmus)
-- [Deepin Music](https://www.deepin.org/en/original/deepin-music/) - An application, developed by Deepin Technology Team, which focused on local music playing. [![Open-Source Software][OSS Icon]](https://github.com/linuxdeepin/deepin-music)
-- [Gnormalize](http://gnormalize.sourceforge.net/) - An audio converter and CD ripper with ReplayGain normalization algorithms, a metadata (tag) editor and an audio player. It uses gtk2-perl under GNU/Linux. ![Open-Source Software][OSS Icon]
-- [Google Play Music](https://www.googleplaymusicdesktopplayer.com/) - Unofficial but beautiful cross-platform desktop player for Google Play Music.[![Open-Source Software][OSS Icon]](https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-)
-- [Gpodder](https://gpodder.github.io/) - Media aggregator and podcast client. [![Open-Source Software][OSS Icon]](https://github.com/gpodder/gpodder)
-- [GRadio](https://github.com/haecker-felix/gradio/releases/) - Radio software for Ubuntu Linux. [![Open-Source Software][OSS Icon]](https://github.com/haecker-felix/gradio/releases/)
-- [Harmony](http://getharmony.xyz) - Music player with sleek interface & cloud compatibility. [![Open-Source Software][OSS Icon]](https://github.com/vincelwt/harmony)
+*para una otra lista más larga de software de audio oprimir [aquí](https://github.com/nodiscc/awesome-linuxaudio)*
+- [Airtime](https://www.sourcefabric.org/en/airtime/download/) - Un programa para radiodifusión y emisoras de radio. [![Open-Source Software][OSS Icon]](https://github.com/sourcefabric/Airtime)
+- [Ardour](https://ardour.org/) - Grabar sonido, editarlo y remixar en Linux  [![Open-Source Software][OSS Icon]](https://ardour.org/development.html)
+- [Audacious](http://audacious-media-player.org/) - Una programa código abierto, poder reproductor de audio que no requiere muchos recursos.[![Open-Source Software][OSS Icon]](http://audacious-media-player.org/developers)
+- [Audacity](http://www.audacityteam.org/download/linux/) - Gratis y código abierto, software Multiplataforma para grabar y editar sonido. [![Open-Source Software][OSS Icon]](https://github.com/audacity/audacity)
+- [Audio Recorder](https://launchpad.net/~audio-recorder/+archive/ubuntu/ppa) - una grabadora de audio fácil de usar disponible en los repositorios de software de ubuntu.
+- [Auryo](http://auryo.com/) - Una programa Multiplataforma de SoundCloud® no oficial para linux. [![Open-Source Software][OSS Icon]](https://github.com/Superjo149/auryo)
+- [Cantata](https://www.linux-apps.com/content/show.php/Cantata?content=147733) - Una demonio programa de musico hecho con Qt5 hay un cliente para Linux, windows, macOS. [![Open-Source Software][OSS Icon]](https://github.com/CDrummond/cantata)
+- [Clementine](https://www.clementine-player.org/) - es útil para escuchar música con el algoritmo de compresión con o sin pérdida formatica de audio. [![Open-Source Software][OSS Icon]](https://github.com/clementine-player/Clementine)
+- [Cmus](https://cmus.github.io/#download) - un pequeño y rápido programa de console para escuchando música para los systemas operativos Unix-like.[![Open-Source Software][OSS Icon]](https://github.com/cmus/cmus)
+- [Deepin Music](https://www.deepin.org/en/original/deepin-music/) - una programa desarrollado de la equipo de Deepin Technology, es un reproductor de música local. [![Open-Source Software][OSS Icon]](https://github.com/linuxdeepin/deepin-music)
+- [Gnormalize](http://gnormalize.sourceforge.net/) - Un convertidor de audio y extractor de cd con los algoritmos "ReplayGain normalization", un editor de metadatos y un reproductor de audio. El programa utiliza gtk2-perl cuando se ejecuta en linux. ![Open-Source Software][OSS Icon]
+- [Google Play Music](https://www.googleplaymusicdesktopplayer.com/) - Una multiplataforma no oficial pero hermosa reproductor de medios para musica de Google Play.[![Open-Source Software][OSS Icon]](https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-)
+- [Gpodder](https://gpodder.github.io/) - Un agregador de podcasts y cliente. [![Open-Source Software][OSS Icon]](https://github.com/gpodder/gpodder)
+- [GRadio](https://github.com/haecker-felix/gradio/releases/) - software de radio para Linux Ubuntu. [![Open-Source Software][OSS Icon]](https://github.com/haecker-felix/gradio/releases/)
+- [Harmony](http://getharmony.xyz) - Un Reproductor de medios con una bonita interfaz & compatibilidad la nube. [![Open-Source Software][OSS Icon]](https://github.com/vincelwt/harmony)
 - [Hydrogen](http://www.hydrogen-music.org/hcms/node/21) - Advanced drum machine for GNU/Linux. [![Open-Source Software][OSS Icon]](https://github.com/hydrogen-music/hydrogen)
 - [K3b](http://www.k3b.org/) - The CD/DVD Kreator for Linux, optimized for KDE. [![Open-Source Software][OSS Icon]](https://github.com/KDE/k3b)
 - [Kid3Qt](https://apps.ubuntu.com/cat/applications/precise/kid3-qt/) - Edit tags of multiple files, e.g. the artist, album, year and genre of all mp3 files of an album.
