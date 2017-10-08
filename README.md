@@ -146,13 +146,13 @@ Brazilian Portugese version : [here](https://github.com/LewisVo/Awesome-Linux-So
 - [Messenger for Desktop](https://messengerfordesktop.com/#download) - An app for Facebook messenger. [![Open-Source Software][OSS Icon]](https://github.com/Aluxian/Facebook-Messenger-Desktop)
 - [ScudCloud](https://github.com/raelgc/scudcloud/) - A Slack client for Linux. [![Open-Source Software][OSS Icon]](https://github.com/raelgc/scudcloud/)
 
-#### Chat Client Utilities
-- [Red Discord Bot](https://cogs.red) Red Discord Bot is a self-hosted music/chat/trivia bot that can run on a Raspberry Pi and a variety of OS's. It's extensible through a system of "Cogs" that allow it to do more. [![Open-Source Software][OSS Icon]](https://github.com/Cog-Creators/Red-DiscordBot)
-
 #### All-in-One Client
 - [Franz](http://meetfranz.com/) - Franz is a free messaging app that combines many chat & messaging services into one application.
 - [Pidgin](https://pidgin.im/) - A universal chat client. [![Open-Source Software][OSS Icon]](https://developer.pidgin.im/)
 - [Rambox](http://rambox.pro/) - Free, Open Source and Cross Platform messaging and emailing app that combines common web applications into one. [![Open-Source Software][OSS Icon]](https://github.com/saenzramiro/rambox)
+
+#### Chat Client Utilities
+- [Red Discord Bot](https://cogs.red) Red Discord Bot is a self-hosted music/chat/trivia bot that can run on a Raspberry Pi and a variety of OS's. It's extensible through a system of "Cogs" that allow it to do more. [![Open-Source Software][OSS Icon]](https://github.com/Cog-Creators/Red-DiscordBot)
 
 #### IRC Client
 - [HexChat](https://hexchat.github.io/) - HexChat is an IRC client based on XChat, but unlike XChat it’s completely free for both Windows and Unix-like system.[![Open-Source Software][OSS Icon]](https://github.com/hexchat)
@@ -358,6 +358,8 @@ Brazilian Portugese version : [here](https://github.com/LewisVo/Awesome-Linux-So
 - [VSCode](https://code.visualstudio.com) - Visual Studio Code is a lightweight but powerful source code editor which runs on your desktop and is available for Windows, OS X and Linux. It comes with built-in support for JavaScript, TypeScript and Node.js and has a rich ecosystem of extensions for other languages (C++, C#, Python, PHP, Golang) and runtimes.[![Open-Source Software][OSS Icon]](https://github.com/Microsoft/vscode)
 - [Nano](https://www.nano-editor.org/) - GNU Nano is a text editor which aims to introduce a simple interface and intuitive command options to console based text editing.[![Open-Source Software][OSS Icon]](http://git.savannah.gnu.org/cgit/nano.git/)
 - [Neovim](https://neovim.io/) - Neovim is a fork of Vim aiming to improve user experience, plugins, and GUIs.[![Open-Source Software][OSS Icon]](https://github.com/neovim/neovim)
+- [Micro](https://micro-editor.github.io/) - Micro is a terminal-based text editor that aims to be easy to use and intuitive, while also taking advantage of the full capabilities of modern terminals.[![Open-Source Software][OSS Icon]](https://github.com/zyedidia/micro)
+
 
 
 ### Education
@@ -508,8 +510,8 @@ Brazilian Portugese version : [here](https://github.com/LewisVo/Awesome-Linux-So
 - [gThumb](https://wiki.gnome.org/Apps/gthumb) - gThumb is an image viewer and browser (it also includes an importer tool for transferring photos from cameras).  [![Open-Source Software][OSS Icon]](https://git.gnome.org/browse/gthumb/)
 - [gwenview](https://userbase.kde.org/Gwenview) - Simple yet powerful image viewer and management for KDE desktops. [![Open-Source Software][OSS Icon]](https://cgit.kde.org/gwenview.git/tree//?)
 - [Imagine](https://github.com/meowtec/Imagine) - Image Optimizer.[![Open-Source Software][OSS Icon]](https://github.com/meowtec/Imagine)
-- [Ojo](https://github.com/peterlevi/ojo) - A fast and pretty image viewer.  [![Open-Source Software][OSS Icon]](https://github.com/peterlevi/ojo)
 - [nomacs](https://nomacs.org/) - nomacs is an image viewer that is able to view nearly any image format, and has powerful renaming and sorting tools. [![Open-Source Software][OSS Icon]](https://github.com/nomacs/nomacs/tree/master)
+- [Ojo](https://github.com/peterlevi/ojo) - A fast and pretty image viewer.  [![Open-Source Software][OSS Icon]](https://github.com/peterlevi/ojo)
 - [Phockup](https://github.com/ivandokov/phockup) - Media sorting tool to organize photos and videos from your camera in folders by year, month and day.[![Open-Source Software][OSS Icon]](https://github.com/ivandokov/phockup)
 - [Photonic](https://github.com/oferkv/phototonic) - Phototonic is image viewer and organizer.  [![Open-Source Software][OSS Icon]](https://github.com/oferkv/phototonic)
 - [Shotwell](https://wiki.gnome.org/Apps/Shotwell) - Shotwell is a photo manager for GNOME 3.[![Open-Source Software][OSS Icon]](https://wiki.gnome.org/Apps/Shotwell)
@@ -552,7 +554,7 @@ Brazilian Portugese version : [here](https://github.com/LewisVo/Awesome-Linux-So
 
 ### Internet
 
-#### Web Browser
+#### Browser
 - [Brave](https://brave.com/) - Brave is a fast, good desktop browser for macOS, Windows, and Linux. [![Open-Source Software][OSS Icon]](https://github.com/brave/browser-laptop)
 - [Chrome](https://www.google.com/chrome/browser/desktop/index.html) - A popular Web Browser with a lot of plugins/apps.
 - [Chromium](http://askubuntu.com/questions/250773/how-do-i-install-chromium-from-the-command-line) - Chromium is an open-source browser project that aims to build a safer, faster, and more stable way for all users to experience the web. [![Open-Source Software][OSS Icon]](https://www.chromium.org/)
@@ -1085,6 +1087,7 @@ Thanks to [**All of Github contributors**](https://github.com/LewisVo/Awesome-Li
 
 - [How to Use Github](https://guides.github.com/activities/forking/)
 - [How to Git from the Command Line](https://rogerdudler.github.io/git-guide/)
+- [What is Markdown?](https://guides.github.com/features/mastering-markdown/)
 
 *Items marked with ![Open-Source Software][OSS Icon] are open-source software and link to the source code. Items marked with ![Nonfree][Money Icon] are nonfree (as in nonfree beer) and may cost money to use.*
 
