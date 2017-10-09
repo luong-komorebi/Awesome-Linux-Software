@@ -290,7 +290,7 @@ versión Portugués Brasileño : [aquí](https://github.com/LewisVo/Awesome-Linu
 - [Oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - Un marco para el ZSH que es dirigido por la comunidad.  [![Open-Source Software][OSS Icon]](https://github.com/robbyrussell/oh-my-zsh)
 - [Zsh](http://www.zsh.org/) -  Un popular y poderoso shell de línea de comandos. [![Open-Source Software][OSS Icon]](http://sourceforge.net/p/zsh/code/ci/master/tree/)
 
-#### Supporting Tools
+#### Herramientas de apoyo
 - [Cscope](http://cscope.sourceforge.net/) - Cscope es una herramienta para desarrolladores que están inspeccionando el código fuente del navegador. Es para la línea de comandos, pero funciona con el editor VIM. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/cscope/)
 - [Diffuse](https://sourceforge.net/projects/diffuse/) - Diffuse es una herramienta gráfica para comparar y fusionar el texto dentro de archivos. Puede recuperar archivos de muchos tipos diferentes de repositorios, en ejemplo: Bazaar, CVS, Darcs, Git, Mercurial, Monotone, RCS, Subversion, y SVK.  [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/diffuse/files/?source=navbar)
 - [Fossil](https://www.fossil-scm.org) - Self-contained, distributed software configuration management system with integrated bug-tracking, wiki, technotes and web interface. [![Open-Source Software][OSS Icon]](https://www.fossil-scm.org/index.html/dir?ci=tip)
