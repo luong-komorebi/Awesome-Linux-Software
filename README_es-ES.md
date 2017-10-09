@@ -23,7 +23,7 @@ versión Portugués Brasileño : [aquí](https://github.com/LewisVo/Awesome-Linu
     - [Copia de seguridad y recuperación](#copia-de-seguridad-y-recuperación)
     - [Personalización del escritorio](#personalización-del-escritorio)
     - [desarrollo de software](#desarrollo-de-software)
-    - [utilitarios de libros electrónicos](#utilitarios-de-Libros-electrónicos)
+    - [utilitarios des libros electrónicos](#utilitarios-des-Libros-electrónicos)
     - [Editor de texto](#editor-de-texto)
     - [Software educativo](#software-educativo)
     - [Herramientas para email](#herramientas-para-email)
@@ -320,11 +320,11 @@ versión Portugués Brasileño : [aquí](https://github.com/LewisVo/Awesome-Linu
 - [Wireshark](https://www.wireshark.org/) - Wireshark es un analizador de protocolo de red muy popular.
 - [Zeal](https://zealdocs.org/) - Zeal es un navegador de documentación para desarrolladores de software. [![Open-Source Software][OSS Icon]](https://github.com/zealdocs/zeal)
 
-### E-Book Utilities
-- [Bookworm](https://babluboy.github.io/bookworm/) - A simple, focused eBook reader. [![Open-Source Software][OSS Icon]](https://github.com/babluboy/bookworm)
-- [Buka](https://github.com/oguzhaninan/Buka/releases) - EBook Management [![Open-Source Software][OSS Icon]](https://github.com/oguzhaninan/Buka)
-- [Calibre](http://calibre-ebook.com/) - Incredibly ugly but powerful software for ebook management and conversion. [![Open-Source Software][OSS Icon]](https://github.com/kovidgoyal/calibre)
-- [Calibre-web](https://github.com/janeczku/calibre-web) - Calibre Web is a web app providing a clean interface for browsing, reading and downloading eBooks using an existing Calibre database. [![Open-Source Software][OSS Icon]](https://github.com/janeczku/calibre-web)
+### Utilitarios des libros electrónicos
+- [Bookworm](https://babluboy.github.io/bookworm/) - Un simple y fácil de usar lector de libros electrónicos. [![Open-Source Software][OSS Icon]](https://github.com/babluboy/bookworm)
+- [Buka](https://github.com/oguzhaninan/Buka/releases) - Un programa para la gestión de libros electrónicos. [![Open-Source Software][OSS Icon]](https://github.com/oguzhaninan/Buka)
+- [Calibre](http://calibre-ebook.com/) - Un gestor de libros no muy bonito pero muy eficaz y un convertidor. [![Open-Source Software][OSS Icon]](https://github.com/kovidgoyal/calibre)
+- [Calibre-web](https://github.com/janeczku/calibre-web) - Calibre Web es una aplicación web que proporciona una interfaz simple y fácil de usar para navegar, leer y descargar libros electrónicos utilizando una base de datos de calibre existente. [![Open-Source Software][OSS Icon]](https://github.com/janeczku/calibre-web)
 - [Easy Ebook Viewer](https://github.com/michaldaniel/Ebook-Viewer) - Modern GTK Python Ebook Reader app to easily read epub files. [![Open-Source Software][OSS Icon]](https://github.com/michaldaniel/Ebook-Viewer)
 - [Evince](https://wiki.gnome.org/Apps/Evince) - Evince is a document viewer for multiple document formats. The goal of evince is to replace the multiple document viewers that exist on the GNOME Desktop with a single simple application. [![Open-Source Software][OSS Icon]](https://wiki.gnome.org/Apps/Evince/GettingEvince)
 - [FBReader](https://fbreader.org/content/fbreader-beta-linux-desktop) - One of the most popular eReader apps. [![Open-Source Software][OSS Icon]](https://github.com/geometer/FBReader)

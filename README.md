@@ -323,7 +323,7 @@ Spanish Version : [here](https://github.com/LewisVo/Awesome-Linux-Software/blob/
 
 ### E-Book Utilities
 - [Bookworm](https://babluboy.github.io/bookworm/) - A simple, focused eBook reader. [![Open-Source Software][OSS Icon]](https://github.com/babluboy/bookworm)
-- [Buka](https://github.com/oguzhaninan/Buka/releases) - EBook Management [![Open-Source Software][OSS Icon]](https://github.com/oguzhaninan/Buka)
+- [Buka](https://github.com/oguzhaninan/Buka/releases) - A program for EBook Management. [![Open-Source Software][OSS Icon]](https://github.com/oguzhaninan/Buka)
 - [Calibre](http://calibre-ebook.com/) - Incredibly ugly but powerful software for ebook management and conversion. [![Open-Source Software][OSS Icon]](https://github.com/kovidgoyal/calibre)
 - [Calibre-web](https://github.com/janeczku/calibre-web) - Calibre Web is a web app providing a clean interface for browsing, reading and downloading eBooks using an existing Calibre database. [![Open-Source Software][OSS Icon]](https://github.com/janeczku/calibre-web)
 - [Easy Ebook Viewer](https://github.com/michaldaniel/Ebook-Viewer) - Modern GTK Python Ebook Reader app to easily read epub files. [![Open-Source Software][OSS Icon]](https://github.com/michaldaniel/Ebook-Viewer)
