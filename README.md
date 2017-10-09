@@ -15,7 +15,7 @@
 
 * Brazilian Portuguese version : [here](https://github.com/LewisVo/Awesome-Linux-Software/blob/master/README_pt-BR.md).
 * Chinese version : [here](https://github.com/LewisVo/Awesome-Linux-Software/blob/master/README_zh-CN.md) or [here](https://github.com/alim0x/Awesome-Linux-Software-zh_CN) or [here](https://github.com/0xE8551CCB/awesome-linux-software-cn).  
-* Spanish Version : [here](https://github.com/LewisVo/Awesome-Linux-Software/blob/master/README_es-ES.md)
+* Spanish version : [here](https://github.com/LewisVo/Awesome-Linux-Software/blob/master/README_es-ES.md)
 
 ## Table of Contents
 
@@ -102,7 +102,7 @@
 - [Clementine](https://www.clementine-player.org/) - Play numerous lossy and lossless audio formats. [![Open-Source Software][OSS Icon]](https://github.com/clementine-player/Clementine)
 - [Cmus](https://cmus.github.io/#download) - A small, fast and powerful console music player for Unix-like operating systems. [![Open-Source Software][OSS Icon]](https://github.com/cmus/cmus)
 - [Deepin Music](https://www.deepin.org/en/original/deepin-music/) - An application, developed by Deepin Technology Team, which focused on local music playing. [![Open-Source Software][OSS Icon]](https://github.com/linuxdeepin/deepin-music)
-- [Gnormalize](http://gnormalize.sourceforge.net/) - An audio converter and CD ripper with ReplayGain normalization algorithms, a metadata (tag) editor and an audio player. It uses gtk2-perl under GNU/Linux. ![Open-Source Software][OSS Icon]
+- [Gnormalize](http://gnormalize.sourceforge.net/) - An audio converter and CD ripper with ReplayGain normalization algorithms, a metadata (tag) editor and an audio player. It uses gtk2-perl under GNU/Linux. [![Open-Source Software][OSS Icon]
 - [Google Play Music](https://www.googleplaymusicdesktopplayer.com/) - Unofficial but beautiful cross-platform desktop player for Google Play Music. [![Open-Source Software][OSS Icon]](https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-)
 - [Gpodder](https://gpodder.github.io/) - Media aggregator and podcast client. [![Open-Source Software][OSS Icon]](https://github.com/gpodder/gpodder)
 - [GRadio](https://github.com/haecker-felix/gradio/releases/) - Radio software for Ubuntu Linux. [![Open-Source Software][OSS Icon]](https://github.com/haecker-felix/gradio/releases/)
@@ -211,7 +211,7 @@
 - [Hardcode Tray](https://github.com/bil-elmoussaoui/Hardcode-Tray) - This script fixes hardcoded tray icons in Linux by automatically detecting your default theme, the right icon size, the hard-coded applications, the right icons for each indicator and fix them. [![Open-Source Software][OSS Icon]](https://github.com/bil-elmoussaoui/Hardcode-Tray)
 - [Macbuntu](http://www.noobslab.com/2017/06/macbuntu-transformation-pack-ready-for.html) - A transformation pack for making your desktop look like a macOS.
 - [OCS store](https://github.com/opendesktop/ocsstore) - Desktop app of openDesktop.org, which is one of the largest communities where developers and artists share applications, themes and other content. [![Open-Source Software][OSS Icon]](https://github.com/opendesktop/ocsstore)
-- [Oomox theme generator](https://github.com/actionless/oomox) - A Graphical application for generating different color variations of a Numix-based and Flat-Plat themes (GTK2, GTK3), Gnome-Colors and Archdroid icons. ![Open-Source Software][OSS Icon]
+- [Oomox theme generator](https://github.com/actionless/oomox) - A Graphical application for generating different color variations of a Numix-based and Flat-Plat themes (GTK2, GTK3), Gnome-Colors and Archdroid icons. [![Open-Source Software][OSS Icon]
 - [Unity Tweak Tool](https://apps.ubuntu.com/cat/applications/unity-tweak-tool/) - A Must-have app for Ubuntu Unity customization. [![Open-Source Software][OSS Icon]](https://github.com/ianyh/Amethyst)
 - [Wpgtk](http://deviantfero.github.io/wpgtk) - A universal theming software for all themes defined in text files, compatible with all terminals, with default themes for GTK2, GTK+, openbox and Tint2 that uses pywal as it's core for colorscheme generation. [![Open-Source Software](https://github.com/deviantfero/wpgtk)
 
@@ -313,7 +313,7 @@
 - [Pick](http://kryogenix.org/code/pick/) - Simple color picker.  [![Open-Source Software][OSS Icon]](https://github.com/stuartlangridge/ColourPicker)
 - [Postman](https://www.getpostman.com) - Postman, allows a user to develop and test APIs quickly.
 - [Rabbit VCS](http://rabbitvcs.org/) - RabbitVCS is a set of graphical tools written to provide simple and straightforward access to the version control systems you use. [![Open-Source Software][OSS Icon]](https://github.com/rabbitvcs/rabbitvcs)
-- [SmartGit](http://www.syntevo.com/smartgit/) - SmartGit is a Git client with support for GitHub Pull Requests+Comments and SVN. ![Nonfree][Money Icon]
+- [SmartGit](http://www.syntevo.com/smartgit/) - SmartGit is a Git client with support for GitHub Pull Requests+Comments and SVN. [![Nonfree][Money Icon]
 - [StarUML](http://staruml.io/) - A sophisticated software modeler.
 - [Uncrustify](http://uncrustify.sourceforge.net/) - Source Code Beautifier for C, C++, C#, ObjectiveC, D, Java, Pawn and VALA. See UniversalIndentGUI below. [![Open-Source Software][OSS Icon]]
 - [UniversalIndentGUI](http://universalindent.sourceforge.net/) - UniversalIndentGUI offers a live preview for setting the parameters of nearly any indenter. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/universalindent/files/uigui/)
@@ -382,7 +382,7 @@
 - [KDE Edu Suite](https://edu.kde.org/) - Free Educational Software based on the KDE technologies.
 - [Klavaro](http://klavaro.sourceforge.net/en/index.html) - A touch typing tutor very flexible, supporting customizable keyboard layouts. You can edit and save new or unknown keyboard layouts, as the basic course was designed to not depend on specific ones. Also, there are some charts about the learning process. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/klavaro)
 - [Ktouch](https://github.com/KDE/ktouch) - KTouch is a program to learn and practice touch typing. [![Open-Source Software][OSS Icon]](https://github.com/KDE/ktouch)
-- [MAPLE](http://www.maplesoft.com/products/maple/) - Maple is math software that combines the world's most powerful math engine with an interface that makes it extremely easy to analyze, explore, visualize, and solve mathematical problems. ![Nonfree][Money icon]
+- [MAPLE](http://www.maplesoft.com/products/maple/) - Maple is math software that combines the world's most powerful math engine with an interface that makes it extremely easy to analyze, explore, visualize, and solve mathematical problems. [![Nonfree][Money icon]
 - [MATLAB](http://www.mathworks.com/products/matlab/?requestedDomain=www.mathworks.com) - The MATLAB platform is optimized for solving engineering and scientific problems. MATLAB helps you take your ideas beyond the desktop. You can run your analyses on larger data sets and scale up to clusters and clouds.![Nonfree][Money icon]
 - [Maxima](http://maxima.sourceforge.net/) - Maxima is a system for the manipulation of symbolic and numerical expressions, including differentiation, integration, Taylor series, Laplace transforms, ordinary differential equations, systems of linear equations, and much more.  [![Open-Source Software][OSS Icon]](http://maxima.sourceforge.net/project.html)
 - [Moodle](https://download.moodle.org/) - Course management system for online learning. [![Open-Source Software][OSS Icon]](https://github.com/moodle/moodle)
@@ -413,6 +413,7 @@
 
 ### File Manager
 - [7Zip](http://www.7-zip.org/download.html) - A vary capable program that can unzip nearly any file archiving format.
+- [Caja](https://mate-desktop.org/) - Is the default file manager for the MATE desktop environment, it is very fast and simple to use. [![Open-Source Software][OSS Icon]](https://github.com/mate-desktop/caja)
 - [Dolphin](https://userbase.kde.org/Dolphin) - Dolphin is the default file manager of the KDE desktop environment featuring usability as well as functionality. [![Open-Source Software][OSS Icon]](https://github.com/KDE/dolphin)
 - [Double Commander](http://doublecmd.sourceforge.net/) - Double Commander is a cross platform open source file manager with two panels side by side. It is inspired by Total Commander and features some new ideas.
 - [Krusader](https://krusader.org) - Krusader is an advanced twin panel (commander style) file manager for KDE and other desktops in the \*nix world, similar to Midnight or Total Commander. [![Open-Source Software][OSS Icon]](https://krusader.org/get-involved/index.html)
@@ -427,53 +428,53 @@
 ### Games
 
 #### RTS
-- [Warzone 2100](https://www.wz2100.net/) - Open-source real-time strategy game that takes place after a nuclear war. ![Open-Source Software][OSS Icon]
-- [OpenRA](http://www.openra.net/) - Classic strategy games, rebuilt for the modern era. Open source. ![Open-Source Software][OSS Icon]
-- [Widelands](https://wl.widelands.org/) - Widelands is a open source RTS game with singleplayer campaigns and a multiplayer mode inspired by Settlers II. ![Open-Source Software][OSS Icon]
-- [0 AD](https://play0ad.com/) - Age of Empires like RTS game of ancient warfare ![Open-Source Software][OSS Icon]
-- [TripleA](http://www.triplea-game.org/) - Open source grand strategy game with "Axis and Allies" game rules ![Open-Source Software][OSS Icon]
+- [Warzone 2100](https://www.wz2100.net/) - Open-source real-time strategy game that takes place after a nuclear war. [![Open-Source Software][OSS Icon]
+- [OpenRA](http://www.openra.net/) - Classic strategy games, rebuilt for the modern era. Open source. [![Open-Source Software][OSS Icon]
+- [Widelands](https://wl.widelands.org/) - Widelands is a open source RTS game with singleplayer campaigns and a multiplayer mode inspired by Settlers II. [![Open-Source Software][OSS Icon]
+- [0 AD](https://play0ad.com/) - Age of Empires like RTS game of ancient warfare. [![Open-Source Software][OSS Icon]
+- [TripleA](http://www.triplea-game.org/) - Open source grand strategy game with "Axis and Allies" game rules. [![Open-Source Software][OSS Icon]
 
 
 #### Turn Based Strategy
-- [Battle for Wesnoth](https://wesnoth.org/) - The Battle for Wesnoth is an open source, turn-based strategy game with a high fantasy theme. It features both singleplayer and online/hotseat multiplayer combat. ![Open-Source Software][OSS Icon]
-- [FreeCiv](http://www.freeciv.org/) - Freeciv is a Free and Open Source empire-building strategy game inspired by the history of human civilization. ![Open-Source Software][OSS Icon]
+- [Battle for Wesnoth](https://wesnoth.org/) - The Battle for Wesnoth is an open source, turn-based strategy game with a high fantasy theme. It features both singleplayer and online/hotseat multiplayer combat. [![Open-Source Software][OSS Icon]
+- [FreeCiv](http://www.freeciv.org/) - Freeciv is a Free and Open Source empire-building strategy game inspired by the history of human civilization. [![Open-Source Software][OSS Icon]
 
 #### City Building Simulation
-- [Unknown Horizons](http://unknown-horizons.org/) - A 2D realtime strategy simulation with an emphasis on economy and city building. Multiplayer currently broken. ![Open-Source Software][OSS Icon]
-- [OpenTTD](hptts://www.openttd.org) - An open-source clone of Transport Tycoon Plus with major improvements. ![Open-Source Software][OSS Icon]
-- [Simutrans](https://www.simutrans.com) - Simutrans is a freeware and open-source transportation simulator. ![Open-Source Software][OSS Icon]
+- [Unknown Horizons](http://unknown-horizons.org/) - A 2D realtime strategy simulation with an emphasis on economy and city building. Multiplayer currently broken. [![Open-Source Software][OSS Icon]
+- [OpenTTD](hptts://www.openttd.org) - An open-source clone of Transport Tycoon Plus with major improvements. [![Open-Source Software][OSS Icon]
+- [Simutrans](https://www.simutrans.com) - Simutrans is a freeware and open-source transportation simulator. [![Open-Source Software][OSS Icon]
 
 #### FPS
-- [Xonotic](http://www.xonotic.org/) - Arena shooter inspired by Unreal Tournament and Quake. ![Open-Source Software][OSS Icon]
-- [Red Eclipse](https://redeclipse.net/) - Red Eclipse is a fun-filled new take on the first person arena shooter, which lends itself toward a balanced gameplay, with a general theme of agility in a variety of environments. ![Open-Source Software][OSS Icon]
-- [Urban Terror](http://www.urbanterror.info) - A "Hollywood" tactical shooter - realism based, but the motto is "fun over realism". ![Open-Source Software][OSS Icon]
-- [Zandronum](http://zandronum.com/) - Leading the way in newschool multiplayer Doom online. ![Open-Source Software][OSS Icon]
+- [Xonotic](http://www.xonotic.org/) - Arena shooter inspired by Unreal Tournament and Quake. [![Open-Source Software][OSS Icon]
+- [Red Eclipse](https://redeclipse.net/) - Red Eclipse is a fun-filled new take on the first person arena shooter, which lends itself toward a balanced gameplay, with a general theme of agility in a variety of environments. [![Open-Source Software][OSS Icon]
+- [Urban Terror](http://www.urbanterror.info) - A "Hollywood" tactical shooter - realism based, but the motto is "fun over realism". [![Open-Source Software][OSS Icon]
+- [Zandronum](http://zandronum.com/) - Leading the way in newschool multiplayer Doom online. [![Open-Source Software][OSS Icon]
 
 #### RPG
-- [Tales of Maj'Eyal](https://te4.org/) - Tales of Maj’Eyal (ToME) is a free, open source roguelike RPG, featuring tactical turn-based combat and advanced character building. ![Open-Source Software][OSS Icon]
-- [Zelda Classic](http://www.zeldaclassic.com/) - A tribut to Nintendo's The Legend of Zelda with additional quests, items and challenges ![Open-Source Software][OSS Icon]
-- [Zelda: Mystery of Solarus DX](http://www.solarus-games.org) - A direct sequel to The Legend of Zelda: A Link to the Past on the SNES, using the same graphics and game mechanisms ![Open-Source Software][OSS Icon]
+- [Tales of Maj'Eyal](https://te4.org/) - Tales of Maj’Eyal (ToME) is a free, open source roguelike RPG, featuring tactical turn-based combat and advanced character building. [![Open-Source Software][OSS Icon]
+- [Zelda Classic](http://www.zeldaclassic.com/) - A tribut to Nintendo's The Legend of Zelda with additional quests, items and challenges [![Open-Source Software][OSS Icon]
+- [Zelda: Mystery of Solarus DX](http://www.solarus-games.org) - A direct sequel to The Legend of Zelda: A Link to the Past on the SNES, using the same graphics and game mechanisms [![Open-Source Software][OSS Icon]
 
 #### Miscellaneous
-- [Cockatrice](https://cockatrice.github.io/) - Cockatrice is an open-source multiplatform supported program for playing tabletop card games over a network. ![Open-Source Software][OSS Icon]
+- [Cockatrice](https://cockatrice.github.io/) - Cockatrice is an open-source multiplatform supported program for playing tabletop card games over a network. [![Open-Source Software][OSS Icon]
 - [Minecraft](https://minecraft.net) - Minecraft is a game about placing blocks and going on adventures. Explore randomly generated worlds and build amazing things from the simplest of homes to the grandest of castles.
-- [Minetest](https://minetest.net) - Open-source Minecraft written in C++ (uses less resources) and includes modding API. ![Open-Source Software][OSS Icon]
-- [Mudlet](mudlet.org) - A cross-platform, open source, and super fast MUD (text-only MMORPGs) client with scripting in Lua. ![Open-Source Software][OSS Icon]
+- [Minetest](https://minetest.net) - Open-source Minecraft written in C++ (uses less resources) and includes modding API. [![Open-Source Software][OSS Icon]
+- [Mudlet](mudlet.org) - A cross-platform, open source, and super fast MUD (text-only MMORPGs) client with scripting in Lua. [![Open-Source Software][OSS Icon]
 - [OhMyGiraffe](https://ohmygiraffe.com) - A delightful game of survival. A game about a giraffe eating fruit while being chased by lions.
 - [Snake Game](https://alpcoskun.com/snake/) - Cross-platform Classic Snake Game based on Node.js. [![Open-Source Software][OSS Icon]](https://github.com/alpcoskun/snake)
-- [SuperTuxKart](https://supertuxkart.net) - SuperTuxKart is a 3D open-source arcade racer with a variety characters, tracks, and modes to play. ![Open-Source Software][OSS Icon]
+- [SuperTuxKart](https://supertuxkart.net) - SuperTuxKart is a 3D open-source arcade racer with a variety characters, tracks, and modes to play. [![Open-Source Software][OSS Icon]
 
 #### Engine Re-creations (require the actual game)
-- [OpenMW](http://openmw.org) - A recreation of the Morrowind engine, expanding upon the original. It can be used to play legitimate copies of original game. ![Open-Source Software][OSS Icon]
-- [OpenRCT2](https://openrct2.website/) - A recreation of the Rollercoaster Tycoon 2 engine. Requires the original games assests. ![Open-Source Software][OSS Icon]
-- [NXEngine](http://nxengine.sourceforge.net/) - A source port of Cave Story that runs natively on Linux, Source needs to be built. ![Open-Source Software][OSS Icon]
+- [OpenMW](http://openmw.org) - A recreation of the Morrowind engine, expanding upon the original. It can be used to play legitimate copies of original game. [![Open-Source Software][OSS Icon]
+- [OpenRCT2](https://openrct2.website/) - A recreation of the Rollercoaster Tycoon 2 engine. Requires the original games assests. [![Open-Source Software][OSS Icon]
+- [NXEngine](http://nxengine.sourceforge.net/) - A source port of Cave Story that runs natively on Linux, Source needs to be built. [![Open-Source Software][OSS Icon]
 
 #### Gaming Applications
-- [Wine](https://www.winehq.org/) - Wine ("Wine Is Not an Emulator") is a compatibility layer capable of running Windows applications on Linux, quality depends from game to game ![Open-Source Software][OSS Icon]
-- [PlayOnLinux](https://www.playonlinux.com) - A front-end for Wine. ![Open-Source Software][OSS Icon]
+- [Wine](https://www.winehq.org/) - Wine ("Wine Is Not an Emulator") is a compatibility layer capable of running Windows applications on Linux, quality depends from game to game [![Open-Source Software][OSS Icon]
+- [PlayOnLinux](https://www.playonlinux.com) - A front-end for Wine. [![Open-Source Software][OSS Icon]
 - [Steam](steampowered.com) - Gaming store, which opens the gates to many games.
-- [RetroArch](http://www.retroarch.com/) - A front-end for a lot of game emulators. ![Open-Source Software][OSS Icon]
-- [Lutris](https://lutris.net/) - Lutris is an open gaming platform for Linux. It helps you install and manage your games in a unified interface. ![Open-Source Software][OSS Icon](https://github.com/lutris/lutris)
+- [RetroArch](http://www.retroarch.com/) - A front-end for a lot of game emulators. [![Open-Source Software][OSS Icon]
+- [Lutris](https://lutris.net/) - Lutris is an open gaming platform for Linux. It helps you install and manage your games in a unified interface. [![Open-Source Software][OSS Icon](https://github.com/lutris/lutris)
 
 ### Graphics
 
@@ -495,7 +496,7 @@
 - [Vectr](https://vectr.com/) - Vectr is a free graphics software used to create vector graphics easily and intuitively. It's a simple yet powerful web and desktop cross-platform tool to bring your designs into reality.
 
 #### Image Editor
-- [Aftershot](http://www.aftershotpro.com/en/products/aftershot/pro/) - A powerful alternative to Adobe Photoshop. ![Nonfree][Money icon]
+- [Aftershot](http://www.aftershotpro.com/en/products/aftershot/pro/) - A powerful alternative to Adobe Photoshop. [![Nonfree][Money icon]
 - [Darktable](http://www.darktable.org/) - darktable is an open source photography workflow application and RAW developer
 - [GIMP](https://www.gimp.org/downloads/) - GIMP is a freely distributed program for such tasks as photo retouching, image composition and image authoring[![Open-Source Software][OSS Icon]](https://github.com/GNOME/gimp)
 - [Hugin](http://hugin.sourceforge.net/) - an easy to use cross-platform panoramic imaging toolchain based on Panorama Tools.
@@ -526,7 +527,7 @@
 - [Rapid Photo Downloader](http://damonlynch.net/rapid/download.html) - Rapid Photo Downloader Makes It Easy to Import Photos from a Camera or Smartphone.  [![Open-Source Software][OSS Icon]](https://launchpad.net/rapid/pyqt/0.9.0b2)
 
 #### PSD, Sketch Inspection
-- [Avocode](https://avocode.com/) - Avocode - Share and inspect Photoshop and Sketch designs in a heart beat. ![Nonfree][Money Icon]
+- [Avocode](https://avocode.com/) - Avocode - Share and inspect Photoshop and Sketch designs in a heart beat. [![Nonfree][Money Icon]
 
 #### Screen Recorder
 - [asciinema](https://asciinema.org) - Terminal session recorder. [![Open-Source Software][OSS Icon]](https://github.com/asciinema/asciinema)
@@ -548,7 +549,7 @@
 #### Video editor
 - [Flowblade](https://github.com/jliljebl/flowblade/releases/tag/1.12.2) - A multitrack non-linear video editor for Linux. [![Open-Source Software][OSS Icon]](https://github.com/jliljebl/flowblade)
 - [Kdenlive](https://kdenlive.org/) - Kdenlive is a Non-Linear Video Editor, which is much more powerful than beginners’ (linear) editors.  [![Open-Source Software][OSS Icon]](https://github.com/KDE/kdenlive)
-- [Lightworks](https://www.lwks.com/) - Professional non-linear video editing program with a free version available ![Nonfree][Money Icon]
+- [Lightworks](https://www.lwks.com/) - Professional non-linear video editing program with a free version available [![Nonfree][Money Icon]
 - [OpenShot](http://www.openshot.org/) - OpenShot is a free, simple-to-use, feature-rich video editor for Linux.
 - [Shotcut](https://www.shotcut.org/) - Shotcut is a free, open source, cross-platform video editor with support for hundreds of audio and video formats and codecs and a sleek, intuitive interface. [![Open-Source Software][OSS Icon]](https://github.com/mltframework/shotcut)
 - [Pitivi](http://www.pitivi.org/) - A free video editor with a beautiful and intuitive user interface, a clean codebase and a fantastic community.
@@ -1095,7 +1096,7 @@ Thanks to [**All of Github contributors**](https://github.com/LewisVo/Awesome-Li
 - [What is Markdown?](https://github.com/LewisVo/Markdown-Tutorial) - Markdown is the writing method used to create this list, if you want to know how to format properly, it's best that you learn how to use Github Markdown.
 - [Alternative Markdown Guide:](https://guides.github.com/features/mastering-markdown/)
 
-*Items marked with ![Open-Source Software][OSS Icon] are open-source software and link to the source code. Items marked with ![Nonfree][Money Icon] are nonfree (as in nonfree beer) and may cost money to use.*
+*Items marked with [![Open-Source Software][OSS Icon] are open-source software and link to the source code. Items marked with [![Nonfree][Money Icon] are nonfree (as in nonfree beer) and may cost money to use.*
 
 <br>
 
