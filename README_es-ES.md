@@ -462,21 +462,21 @@
 - [Snake Game](https://alpcoskun.com/snake/) - Un juego multiplataforma "snake" que está escrito en Node.js. [![Open-Source Software][OSS Icon]](https://github.com/alpcoskun/snake)
 - [SuperTuxKart](https://supertuxkart.net) - SuperTuxKart es un juego de carreras de código abierto 3D con una variedad de pistas y modos para jugar. [![Open-Source Software][OSS Icon]
 
-#### Engine Re-creations (require the actual game)
-- [OpenMW](http://openmw.org) - A recreation of the Morrowind engine, expanding upon the original. It can be used to play legitimate copies of original game. [![Open-Source Software][OSS Icon]
-- [OpenRCT2](https://openrct2.website/) - A recreation of the Rollercoaster Tycoon 2 engine. Requires the original games assests. [![Open-Source Software][OSS Icon]
-- [NXEngine](http://nxengine.sourceforge.net/) - A source port of Cave Story that runs natively on Linux, Source needs to be built. [![Open-Source Software][OSS Icon]
+#### Re-creaciones de motor de juegos de video (Requiere el juego real)
+- [OpenMW](http://openmw.org) - Una recreación del motor para el juego "Morrowind" Puede hacer más que el original, y puede jugar el juego real también. [![Open-Source Software][OSS Icon]
+- [OpenRCT2](https://openrct2.website/) - Una recreación del "Roller Coaster Tycoon 2" motor que requiere el juego original para jugar. [![Open-Source Software][OSS Icon]
+- [NXEngine](http://nxengine.sourceforge.net/) - Una versión de "Cave Story" que funciona en Linux. [![Open-Source Software][OSS Icon]
 
-#### Gaming Applications
-- [Wine](https://www.winehq.org/) - Wine ("Wine Is Not an Emulator") is a compatibility layer capable of running Windows applications on Linux, quality depends from game to game [![Open-Source Software][OSS Icon]
-- [PlayOnLinux](https://www.playonlinux.com) - A front-end for Wine. [![Open-Source Software][OSS Icon]
-- [Steam](steampowered.com) - Gaming store, which opens the gates to many games.
-- [RetroArch](http://www.retroarch.com/) - A front-end for a lot of game emulators. [![Open-Source Software][OSS Icon]
-- [Lutris](https://lutris.net/) - Lutris is an open gaming platform for Linux. It helps you install and manage your games in a unified interface. [![Open-Source Software][OSS Icon](https://github.com/lutris/lutris)
+#### Aplicaciones de juego
+- [Wine](https://www.winehq.org/) - Wine ("Wine Is Not an Emulator") es una capa de compatibilidad que permite que las aplicaciones de Windows funcionen en Linux. Los resultados dependen del programa que se esté utilizando. [![Open-Source Software][OSS Icon]
+- [PlayOnLinux](https://www.playonlinux.com) - Un programa que hace que "WINE" sea más fácil de usar. [![Open-Source Software][OSS Icon]
+- [Steam](steampowered.com) - Una tienda de juegos donde puedes comprar juegos en línea.
+- [RetroArch](http://www.retroarch.com/) - Un programa que te permite agregar emuladores de juego en un solo lugar. [![Open-Source Software][OSS Icon]
+- [Lutris](https://lutris.net/) - Lutris es una plataforma de código abierto para organizar juegos en Linux. [![Open-Source Software][OSS Icon](https://github.com/lutris/lutris)
 
-### Graphics
+### Gráficos
 
-#### Graphic Creation
+#### Creación de gráficos
 - [Blender](https://www.blender.org/) - a free and open source complete 3D creation pipeline for artists and small teams.
 - [Cinepaint](http://www.cinepaint.org/) - Open source deep paint software
 - [Gravit](https://www.designer.io/) - Gravit Designer is a full featured free vector design app right at your fingertip.

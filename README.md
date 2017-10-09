@@ -470,7 +470,7 @@
 - [NXEngine](http://nxengine.sourceforge.net/) - A source port of Cave Story that runs natively on Linux, Source needs to be built. [![Open-Source Software][OSS Icon]
 
 #### Gaming Applications
-- [Wine](https://www.winehq.org/) - Wine ("Wine Is Not an Emulator") is a compatibility layer capable of running Windows applications on Linux, quality depends from game to game [![Open-Source Software][OSS Icon]
+- [Wine](https://www.winehq.org/) - Wine ("Wine Is Not an Emulator") is a compatibility layer capable of running Windows applications on Linux, quality depends from game to game. [![Open-Source Software][OSS Icon]
 - [PlayOnLinux](https://www.playonlinux.com) - A front-end for Wine. [![Open-Source Software][OSS Icon]
 - [Steam](steampowered.com) - Gaming store, which opens the gates to many games.
 - [RetroArch](http://www.retroarch.com/) - A front-end for a lot of game emulators. [![Open-Source Software][OSS Icon]
