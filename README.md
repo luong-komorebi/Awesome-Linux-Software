@@ -259,7 +259,7 @@ Spanish Version : [here](https://github.com/LewisVo/Awesome-Linux-Software/blob/
 
 #### Java
 - [BlueJ](http://bluej.org/) - A free Java Development Environment designed for beginners, used by millions worldwide. [![Open-Source Software][OSS Icon]](https://www.bluej.org/versions.html)
-- [Eclipse](https://eclipse.org/ide/) - Eclipse is famous for our Java Integrated Development Environment (IDE), but our C/C++ IDE and PHP IDE are pretty cool too.
+- [Eclipse](https://eclipse.org/ide/) - Eclipse is famous for our Java Integrated Development Environment (IDE), but can also download packages to support C/C++ IDE and PHP IDE.
 - [IntelliJ IDEA](https://www.jetbrains.com/idea/) - Powerful IDE for JAVA.
 
 #### Javascript
@@ -269,7 +269,7 @@ Spanish Version : [here](https://github.com/LewisVo/Awesome-Linux-Software/blob/
 #### Microcomputer and Embedded Devices
 - [Arduino IDE](https://www.arduino.cc/en/Main/Software) - The open-source Arduino Software (IDE) makes it easy to write code and upload it to the board.
 - [Fritzing](http://fritzing.org/) - Fritzing is an open-source hardware initiative that makes electronics accessible as a creative material for anyone. [![Open-Source Software][OSS Icon]](https://github.com/fritzing/fritzing-app)
-- [Sloeber IDE](http://eclipse.baeyens.it/) - Sloeber IDE. The Arduino IDE for Eclipse. I love it very much. [![Open-Source Software][OSS Icon]](https://github.com/jantje/arduino-eclipse-plugin)
+- [Sloeber IDE](http://eclipse.baeyens.it/) - Sloeber IDE. The Arduino IDE for Eclipse. [![Open-Source Software][OSS Icon]](https://github.com/jantje/arduino-eclipse-plugin)
 
 #### Multiple Languages Support
 - [Aptana](http://www.aptana.com/) - Aptana Studio harnesses the flexibility of Eclipse and focuses it into a powerful web development engine.

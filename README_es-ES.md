@@ -247,35 +247,34 @@ versión Portugués Brasileño : [aquí](https://github.com/LewisVo/Awesome-Linu
 - [OracleDB](http://www.oracle.com/technetwork/database/enterprise-edition/downloads/index.html) - Un sistema de gestión de bases de datos producido por Oracle Corporation. Es una base de datos basada en objetos.
 - [Percona MongoDB](https://www.percona.com/software/mongo-database/percona-server-for-mongodb) - El servidor Percona para MongoDB es un servidor alternativo para MongoDB. [![Open-Source Software][OSS Icon]](https://github.com/percona/percona-server-mongodb)
 - [Percona Monitoring](https://www.percona.com/software/database-tools/percona-monitoring-and-management) - Percona Monitoring and Management (PMM) es una plataforma de código abierto para administrar y supervisar el rendimiento de MySQL, MariaDB y MongoDB. [![Open-Source Software][OSS Icon]](https://github.com/percona/pmm-server)
-- [Percona MySQL](https://www.percona.com/software/mysql-database/percona-server) - Percona Server for MySQL is a free, fully compatible, enhanced, open source drop-in replacement for MySQL that provides superior performance, scalability and instrumentation. [![Open-Source Software][OSS Icon]](https://github.com/percona/percona-server)
-- [Percona XtraDB Cluster](https://www.percona.com/software/mysql-database/percona-xtradb-cluster) - Percona XtraDB Cluster is an active/active high availability and high scalability open source solution for MySQL clustering. It integrates Percona Server and Percona XtraBackup with the Codership Galera library of MySQL high availability solutions in a single package that enables you to create a cost-effective MySQL high availability cluster. [![Open-Source Software][OSS Icon]](https://github.com/percona/percona-xtradb-cluster)
-- [PostgreSQL](https://www.postgresql.org/download/) - PostgreSQL is a powerful, open source object-relational database system with more than 15 year development. PostgreSQL is not controlled by any corporation or other private entity and the source code is available free of charge [![Open-Source Software][OSS Icon]](https://github.com/postgres/postgres)
-- [Sqlite](https://sqlite.org/download.html) - SQLite is an in-process library that implements a self-contained, serverless, zero-configuration, transactional SQL database engine. [![Open-Source Software][OSS Icon]](https://www.sqlite.org/src/doc/trunk/README.md)
-- [Sqlite Browser](http://sqlitebrowser.org/) - Visually create, manage, and view sqlite database files.  [![Open-Source Software][OSS Icon]](https://github.com/sqlitebrowser/sqlitebrowser)
-- [OmniDB](https://omnidb.org/en/) - Browser-based tool that visually create, manage, and view databases.
+- [Percona MySQL](https://www.percona.com/software/mysql-database/percona-server) - El servidor Percona para MySQL es un reemplazo de código abierto, compatible y fácil para el servidor MySQL que es muy rápido y tiene escalabilidad. [![Open-Source Software][OSS Icon]](https://github.com/percona/percona-server)
+- [Percona XtraDB Cluster](https://www.percona.com/software/mysql-database/percona-xtradb-cluster) - Percona XtraDB Clúster tiene alta escalabilidad y es un programa de código abierto para un MySQL Clúster. [![Open-Source Software][OSS Icon]](https://github.com/percona/percona-xtradb-cluster)
+- [PostgreSQL](https://www.postgresql.org/download/) - PostgreSQL es un sistema de base de datos capaz y codigo abierto. [![Open-Source Software][OSS Icon]](https://github.com/postgres/postgres)
+- [Sqlite](https://sqlite.org/download.html) - SQLite es una biblioteca de software que crea un motor de base de datos SQL sin servidor y autónomo. [![Open-Source Software][OSS Icon]](https://www.sqlite.org/src/doc/trunk/README.md)
+- [Sqlite Browser](http://sqlitebrowser.org/) - Un programa para crear visualmente, administrar y ver bases de datos sqlite.  [![Open-Source Software][OSS Icon]](https://github.com/sqlitebrowser/sqlitebrowser)
+- [OmniDB](https://omnidb.org/en/) - Una herramienta basada en el navegador para crear, ver y administrar bases de datos.
 
 #### Golang
-- [Gogland](https://www.jetbrains.com/go/) - Gogland is the codename for a new commercial IDE by JetBrains aimed at providing an ergonomic environment for Go development.
+- [Gogland](https://www.jetbrains.com/go/) - Gogland es el nombre en clave de un IDE comercial de la empresa Jetbrains.
 
 #### Java
-- [BlueJ](http://bluej.org/) - A free Java Development Environment designed for beginners, used by millions worldwide. [![Open-Source Software][OSS Icon]](https://www.bluej.org/versions.html)
-- [Eclipse](https://eclipse.org/ide/) - Eclipse is famous for our Java Integrated Development Environment (IDE), but our C/C++ IDE and PHP IDE are pretty cool too.
-- [IntelliJ IDEA](https://www.jetbrains.com/idea/) - Powerful IDE for JAVA.
+- [BlueJ](http://bluej.org/) - Un entorno de desarrollo Java de código abierto diseñado para nuevos usuarios. [![Open-Source Software][OSS Icon]](https://www.bluej.org/versions.html)
+- [Eclipse](https://eclipse.org/ide/) - Eclipse es un popular entorno de desarrollo integrado de Java. También puede descargar paquetes para soportar C, C ++ y PHP.
+- [IntelliJ IDEA](https://www.jetbrains.com/idea/) - Un IDE muy capaz para Java.
 
 #### Javascript
-- [Webstorm](https://www.jetbrains.com/webstorm/) - Powerful IDE for modern JavaScript development, made by JetBrains.
+- [Webstorm](https://www.jetbrains.com/webstorm/) - Un potente Entorno de desarrollo integrado para javascript moderno. Está hecho por la compañía Jetbrains.
 
+#### Microcomputadora y Sistema embebido
+- [Arduino IDE](https://www.arduino.cc/en/Main/Software) - El Arduino Oficial Entorno de desarrollo integrado.
+- [Fritzing](http://fritzing.org/) - Fritzing es un sitio web de hardware de código abierto que hace que la electrónica sea accesible para todos. [![Open-Source Software][OSS Icon]](https://github.com/fritzing/fritzing-app)
+- [Sloeber IDE](http://eclipse.baeyens.it/) - Sloeber IDE. Un Arduino Entorno de desarrollo integrado para Eclipse. [![Open-Source Software][OSS Icon]](https://github.com/jantje/arduino-eclipse-plugin)
 
-#### Microcomputer and Embedded Devices
-- [Arduino IDE](https://www.arduino.cc/en/Main/Software) - The open-source Arduino Software (IDE) makes it easy to write code and upload it to the board.
-- [Fritzing](http://fritzing.org/) - Fritzing is an open-source hardware initiative that makes electronics accessible as a creative material for anyone. [![Open-Source Software][OSS Icon]](https://github.com/fritzing/fritzing-app)
-- [Sloeber IDE](http://eclipse.baeyens.it/) - Sloeber IDE. The Arduino IDE for Eclipse. I love it very much. [![Open-Source Software][OSS Icon]](https://github.com/jantje/arduino-eclipse-plugin)
-
-#### Multiple Languages Support
-- [Aptana](http://www.aptana.com/) - Aptana Studio harnesses the flexibility of Eclipse and focuses it into a powerful web development engine.
-- [KDevelop](https://www.kdevelop.org/) - It is a free, open source IDE, feature-full, plugin extensible IDE for C/C++ and other programming languages. [![Open-Source Software][OSS Icon]](https://phabricator.kde.org/dashboard/view/8/)
-- [MonoDevelop](http://www.monodevelop.com/) - Cross platform IDE for C#, F# and more. [![Open-Source Software][OSS Icon]](http://www.monodevelop.com/developers/)
-- [Netbeans](https://netbeans.org/downloads/) - NetBeans IDE lets you quickly and easily develop Java desktop, mobile, and web applications, as well as HTML5 applications with HTML, JavaScript, and CSS.
+#### Puede soportar otros idiomas
+- [Aptana](http://www.aptana.com/) - Aptana Studio es similar a eclipse, pero está diseñado principalmente para el desarrollo web.
+- [KDevelop](https://www.kdevelop.org/) - La programa es un Entorno de desarrollo integrado libre con complementos para C y C ++ y más.. [![Open-Source Software][OSS Icon]](https://phabricator.kde.org/dashboard/view/8/)
+- [MonoDevelop](http://www.monodevelop.com/) - Un Entorno multiplataforma de desarrollo integrado para C #, F # y más. [![Open-Source Software][OSS Icon]](http://www.monodevelop.com/developers/)
+- [Netbeans](https://netbeans.org/downloads/) - NetBeans IDE es un programa para ayudar a desarrollar Java para computadoras, teléfonos móviles y aplicaciones web. También funciona con HTML5, Javascript y CSS.
 
 #### PHP
 - [PHPStorm](https://www.jetbrains.com/phpstorm/) - Lightning-smart and powerful PHP IDE from Jetbrain.
