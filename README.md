@@ -840,6 +840,7 @@ Brazilian Portugese version : [here](https://github.com/LewisVo/Awesome-Linux-So
 - [Color LS](http://www.omgubuntu.co.uk/2017/07/add-bling-ls-bash-command-colorls) - Color Ls is a Ruby Gem that spices up the ls command and shows more visually than ls does without additional commands. [![Open-Source Software][OSS Icon]](https://github.com/athityakumar/colorls)
 - [Daily Reddit Wallpaper](https://github.com/ssimunic/Daily-Reddit-Wallpaper) - Change your wallpaper to the most upvoted image of the day from /r/wallpapers or any other subreddit on system startup. [![Open-Source Software][OSS Icon]](https://github.com/ssimunic/Daily-Reddit-Wallpaper)
 - [exa](https://the.exa.website/) - exa is a modern replacement for ls. [![Open-Source Software][OSS Icon]](https://github.com/ogham/exa)
+- [fd](https://github.com/sharkdp/fd) - fd is a simple, fast and user-friendly alternative to *find*. [![Open-Source Software][OSS Icon]](https://github.com/sharkdp/fd)
 - [Fishfry](https://github.com/LubuntuFu/fishfry) - replaces fish history with a history tailored to pentesters for efficiency and newbie pentesters for learning.[![Open-Source Software][OSS Icon]](https://github.com/LubuntuFu/fishfry)
 - [fzf](https://github.com/junegunn/fzf) - General-purpose command-line fuzzy finder with interactive filter and preview feature for things like files, command history, git commits, hostnames, etc.
 - [Gkill](https://github.com/heppu/gkill) - Interactive process killer for Linux. [![Open-Source Software][OSS Icon]](https://github.com/heppu/gkill)
