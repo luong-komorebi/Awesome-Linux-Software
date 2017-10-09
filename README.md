@@ -968,7 +968,6 @@ Spanish Version : [here](https://github.com/LewisVo/Awesome-Linux-Software/blob/
 
 ### Ubuntu
 
-
 - [What is Ubuntu](https://en.wikipedia.org/wiki/Ubuntu_(operating_system))
 - [How to install Ubuntu](http://www.ubuntu.com/download/desktop/install-ubuntu-desktop)
 - [How to dual-boot Ubuntu with Windows](http://www.everydaylinuxuser.com/2014/05/install-ubuntu-1404-alongside-windows.html)
@@ -984,6 +983,10 @@ Spanish Version : [here](https://github.com/LewisVo/Awesome-Linux-Software/blob/
 
 * [Arch Linux Forums](https://bbs.archlinux.org/)
 * [Arch Linux ARM Forums](https://archlinuxarm.org/forum/viewforum.php?f=31)
+
+### Bodhi Linux Forums
+
+* [Bodhi Linux Forums](http://forums.bodhilinux.com/)
 
 ### CentOS Forums
 

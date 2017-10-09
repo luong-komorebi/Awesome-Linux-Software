@@ -982,6 +982,10 @@ versión Portugués Brasileño : [aquí](https://github.com/LewisVo/Awesome-Linu
 * [Arch Linux Forums](https://bbs.archlinux.org/)
 * [Arch Linux ARM Forums](https://archlinuxarm.org/forum/viewforum.php?f=31)
 
+### Bodhi Linux Forums
+
+* [Bodhi Linux Forums](http://forums.bodhilinux.com/)
+
 ### CentOS Forums
 
 * [CentOS Forum](https://www.centos.org/forums/)
