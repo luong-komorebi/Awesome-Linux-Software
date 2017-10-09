@@ -303,15 +303,15 @@ Spanish Version : [here](https://github.com/LewisVo/Awesome-Linux-Software/blob/
 - [GitKraken](https://www.gitkraken.com/) - The downright luxurious Git GUI client,for Windows, Mac & Linux.
 - [Git](https://git-scm.com/) - Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
 - [GitLab](https://github.com/gitlabhq/gitlabhq) - GitLab is a web-based Git repository manager with wiki and issue tracking features. [![Open-Source Software][OSS Icon]](https://github.com/gitlabhq/gitlabhq)
-- [Gitolite](http://gitolite.com/gitolite/index.html) - Hosting git repositories. Gitolite allows you to setup git hosting on a central server, with very fine-grained access control and many more powerful features. [![Open-Source Software][OSS Icon]](https://github.com/sitaramc/gitolite)
+- [Gitolite](http://gitolite.com/gitolite/index.html) - Gitolite allows you to setup git hosting on a central server, with fine-grained access control and many more powerful features. [![Open-Source Software][OSS Icon]](https://github.com/sitaramc/gitolite)
 - [Insomnia](https://insomnia.rest/) - A simple, beautiful, and free REST API client.
-- [Jupyter Notebook](https://jupyter.org/) - Open source, interactive data science and scientific computing across over 40 programming languages. [![Open-Source Software][OSS Icon]](https://jupyter.readthedocs.io/en/latest/install.html)
+- [Jupyter Notebook](https://jupyter.org/) - An open source program that provides interactive data and scientific computing information across over 40 programming languages. [![Open-Source Software][OSS Icon]](https://jupyter.readthedocs.io/en/latest/install.html)
 - [Meld](http://meldmerge.org/) - Meld is a visual diff and merge tool that helps you compare files, directories, and version controlled projects.  [![Open-Source Software][OSS Icon]](http://meldmerge.org/development.html)
-- [Mockingbot](https://mockingbot.in/?) - Mocking bot is an easy-to-use prototyping tool.
+- [Mockingbot](https://mockingbot.in/?) - Mockingbot is an easy-to-use prototyping tool.
 - [Nemiver](https://github.com/GNOME/nemiver) - Nemiver is a project to write a standalone graphical debugger that integrates well in the GNOME desktop environment. [![Open-Source Software][OSS Icon]](https://github.com/GNOME/nemiver)
 - [Pencil](http://pencil.evolus.vn/) - An open-source GUI prototyping tool that's available for ALL platforms.  [![Open-Source Software][OSS Icon]](https://github.com/evolus/pencil)
 - [Pick](http://kryogenix.org/code/pick/) - Simple color picker.  [![Open-Source Software][OSS Icon]](https://github.com/stuartlangridge/ColourPicker)
-- [Postman](https://www.getpostman.com) - Postman, help us test API quickly.
+- [Postman](https://www.getpostman.com) - Postman, allows a user to develop and test APIs quickly.
 - [Rabbit VCS](http://rabbitvcs.org/) - RabbitVCS is a set of graphical tools written to provide simple and straightforward access to the version control systems you use. [![Open-Source Software][OSS Icon]](https://github.com/rabbitvcs/rabbitvcs)
 - [SmartGit](http://www.syntevo.com/smartgit/) - SmartGit is a Git client with support for GitHub Pull Requests+Comments and SVN. ![Nonfree][Money Icon]
 - [StarUML](http://staruml.io/) - A sophisticated software modeler.

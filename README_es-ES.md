@@ -295,30 +295,30 @@ versión Portugués Brasileño : [aquí](https://github.com/LewisVo/Awesome-Linu
 - [Diffuse](https://sourceforge.net/projects/diffuse/) - Diffuse es una herramienta gráfica para comparar y fusionar el texto dentro de archivos. Puede recuperar archivos de muchos tipos diferentes de repositorios, en ejemplo: Bazaar, CVS, Darcs, Git, Mercurial, Monotone, RCS, Subversion, y SVK.  [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/diffuse/files/?source=navbar)
 - [Fossil](https://www.fossil-scm.org) - Self-contained, distributed software configuration management system with integrated bug-tracking, wiki, technotes and web interface. [![Open-Source Software][OSS Icon]](https://www.fossil-scm.org/index.html/dir?ci=tip)
 - [Genymotion](https://www.genymotion.com/features/) - Genymotion es un emulador rápido que reemplaza al emulador predeterminado de Android.
-- [Giggle](https://wiki.gnome.org/action/show/Apps/giggle?action=show&redirect=giggle) - Giggle is a graphical frontend for the git content tracker. [![Open-Source Software][OSS Icon]](https://git.gnome.org//browse/giggle/)
-- [Gisto](http://www.gistoapp.com/) - Gisto is a code snippet manager that runs on GitHub Gists and adds additional features such as searching, tagging and sharing gists while including a rich code editor. [![Open-Source Software][OSS Icon]](https://github.com/Gisto/Gisto)
-- [GitCola](http://git-cola.github.io/) - Git Cola is a sleek and powerful graphical Git client. Written in Python and GPL-licensed.
-- [Gitg](https://wiki.gnome.org/Apps/Gitg) - gitg is the GNOME GUI client to view git repositories. [![Open-Source Software][OSS Icon]](https://wiki.gnome.org/Apps/Gitg#Development_Resources)
-- [GitKraken](https://www.gitkraken.com/) - The downright luxurious Git GUI client,for Windows, Mac & Linux.
-- [Git](https://git-scm.com/) - Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
-- [GitLab](https://github.com/gitlabhq/gitlabhq) - GitLab is a web-based Git repository manager with wiki and issue tracking features. [![Open-Source Software][OSS Icon]](https://github.com/gitlabhq/gitlabhq)
-- [Gitolite](http://gitolite.com/gitolite/index.html) - Hosting git repositories. Gitolite allows you to setup git hosting on a central server, with very fine-grained access control and many more powerful features. [![Open-Source Software][OSS Icon]](https://github.com/sitaramc/gitolite)
-- [Insomnia](https://insomnia.rest/) - A simple, beautiful, and free REST API client.
-- [Jupyter Notebook](https://jupyter.org/) - Open source, interactive data science and scientific computing across over 40 programming languages. [![Open-Source Software][OSS Icon]](https://jupyter.readthedocs.io/en/latest/install.html)
-- [Meld](http://meldmerge.org/) - Meld is a visual diff and merge tool that helps you compare files, directories, and version controlled projects.  [![Open-Source Software][OSS Icon]](http://meldmerge.org/development.html)
-- [Mockingbot](https://mockingbot.in/?) - Mocking bot is an easy-to-use prototyping tool.
-- [Nemiver](https://github.com/GNOME/nemiver) - Nemiver is a project to write a standalone graphical debugger that integrates well in the GNOME desktop environment. [![Open-Source Software][OSS Icon]](https://github.com/GNOME/nemiver)
-- [Pencil](http://pencil.evolus.vn/) - An open-source GUI prototyping tool that's available for ALL platforms.  [![Open-Source Software][OSS Icon]](https://github.com/evolus/pencil)
-- [Pick](http://kryogenix.org/code/pick/) - Simple color picker.  [![Open-Source Software][OSS Icon]](https://github.com/stuartlangridge/ColourPicker)
-- [Postman](https://www.getpostman.com) - Postman, help us test API quickly.
-- [Rabbit VCS](http://rabbitvcs.org/) - RabbitVCS is a set of graphical tools written to provide simple and straightforward access to the version control systems you use. [![Open-Source Software][OSS Icon]](https://github.com/rabbitvcs/rabbitvcs)
-- [SmartGit](http://www.syntevo.com/smartgit/) - SmartGit is a Git client with support for GitHub Pull Requests+Comments and SVN. ![Nonfree][Money Icon]
-- [StarUML](http://staruml.io/) - A sophisticated software modeler.
-- [Uncrustify](http://uncrustify.sourceforge.net/) - Source Code Beautifier for C, C++, C#, ObjectiveC, D, Java, Pawn and VALA. See UniversalIndentGUI below. [![Open-Source Software][OSS Icon]]
-- [UniversalIndentGUI](http://universalindent.sourceforge.net/) - UniversalIndentGUI offers a live preview for setting the parameters of nearly any indenter. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/universalindent/files/uigui/)
-- [Wdiff](https://www.gnu.org/software/wdiff/) - The GNU wdiff program is a front end to diff for comparing files on a word per word basis. It collects the diff output and uses it to produce a nicer display of word differences between the original files. [![Open-Source Software][OSS Icon]](https://www.gnu.org/software/wdiff/devguide)
-- [Wireshark](https://www.wireshark.org/) - Wireshark is the world's foremost network protocol analyzer. It lets you see what's happening on your network at a microscopic level. It is the de facto (and often de jure) standard across many industries and educational institutions.
-- [Zeal](https://zealdocs.org/) - Zeal is an offline documentation browser for software developers. [![Open-Source Software][OSS Icon]](https://github.com/zealdocs/zeal)
+- [Giggle](https://wiki.gnome.org/action/show/Apps/giggle?action=show&redirect=giggle) - Giggle es una GUI para el Git Content Tracker. [![Open-Source Software][OSS Icon]](https://git.gnome.org//browse/giggle/)
+- [Gisto](http://www.gistoapp.com/) - Gisto es un administrador de fragmentos de código que opera en Github Gists. Agrega características como búsqueda, etiquetado y uso compartido. [![Open-Source Software][OSS Icon]](https://github.com/Gisto/Gisto)
+- [GitCola](http://git-cola.github.io/) - Git Cola es un elegante y potente cliente gráfico para Git. Es de código abierto y escrito en Python. [![Open-Source Software][OSS Icon]](http://git-cola.github.io/)
+- [Gitg](https://wiki.gnome.org/Apps/Gitg) - gitg es un cliente de la GUI de GNOME para ver los Repositorios de Git. [![Open-Source Software][OSS Icon]](https://wiki.gnome.org/Apps/Gitg#Development_Resources)
+- [GitKraken](https://www.gitkraken.com/) - Un lujoso cliente Git que opera en Weendows, MacOS y Linux.
+- [Git](https://git-scm.com/) - Git es un sistema de control de versiones distribuidas de código abierto que puede funcionar con proyectos grandes y pequeños, de manera eficiente.
+- [GitLab](https://github.com/gitlabhq/gitlabhq) - GitLab es un gestor de repositorio Git basado en la web. Puede crear y administrar un wiki y realizar un seguimiento de los problemas. [![Open-Source Software][OSS Icon]](https://github.com/gitlabhq/gitlabhq)
+- [Gitolite](http://gitolite.com/gitolite/index.html) - Gitolite le permite configurar git hosting en un servidor central, con controles de acceso seguros y muchas más características de gran alcance. [![Open-Source Software][OSS Icon]](https://github.com/sitaramc/gitolite)
+- [Insomnia](https://insomnia.rest/) - Un simple y hermoso, cliente del REST API.
+- [Jupyter Notebook](https://jupyter.org/) - Un programa de código abierto que proporciona información interactiva de datos e información científica sobre más de 40 lenguajes de programación. [![Open-Source Software][OSS Icon]](https://jupyter.readthedocs.io/en/latest/install.html)
+- [Meld](http://meldmerge.org/) - Meld es una herramienta de modelado de diferencias visuales diseñada para ayudar a comparar archivos, directorios y proyectos controlados por versiones.  [![Open-Source Software][OSS Icon]](http://meldmerge.org/development.html)
+- [Mockingbot](https://mockingbot.in/?) - Mockingbot es una herramienta de prototipado simple de utilizar.
+- [Nemiver](https://github.com/GNOME/nemiver) - Nemiver es un proyecto para escribir un depurador gráfico independiente que funciona con el ambiente de escritorio de GNOME. [![Open-Source Software][OSS Icon]](https://github.com/GNOME/nemiver)
+- [Pencil](http://pencil.evolus.vn/) - Una herramienta de creación de prototipos GUI de código abierto, que funciona en diferentes plataformas.  [![Open-Source Software][OSS Icon]](https://github.com/evolus/pencil)
+- [Pick](http://kryogenix.org/code/pick/) - Un selector de color.  [![Open-Source Software][OSS Icon]](https://github.com/stuartlangridge/ColourPicker)
+- [Postman](https://www.getpostman.com) - Postman, permite a un usuario desarrollar y probar API rápidamente.
+- [Rabbit VCS](http://rabbitvcs.org/) - RabbitVCS es un conjunto de herramientas gráficas creadas para ser fáciles de usar con sistemas de control de versiones. [![Open-Source Software][OSS Icon]](https://github.com/rabbitvcs/rabbitvcs)
+- [SmartGit](http://www.syntevo.com/smartgit/) - SmartGit es un cliente git con soporte para peticiones de Github y comentarios. También es compatible con SVN. ![Nonfree][Money Icon]
+- [StarUML](http://staruml.io/) - Un sofisticado modelador de software.
+- [Uncrustify](http://uncrustify.sourceforge.net/) - Un programa que hace que el código fuente se vea mejor. El programa funciona con C, C ++, Objetivo C, D, Java, Peón y VALA. [![Open-Source Software][OSS Icon]]
+- [UniversalIndentGUI](http://universalindent.sourceforge.net/) - UniversalIndentGUI muestra una vista previa de la configuración de los indentadores. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/universalindent/files/uigui/)
+- [Wdiff](https://www.gnu.org/software/wdiff/) - Es un programa GNU GUI para diff para comparar palabras entre archivos. [![Open-Source Software][OSS Icon]](https://www.gnu.org/software/wdiff/devguide)
+- [Wireshark](https://www.wireshark.org/) - Wireshark es un analizador de protocolo de red muy popular.
+- [Zeal](https://zealdocs.org/) - Zeal es un navegador de documentación para desarrolladores de software. [![Open-Source Software][OSS Icon]](https://github.com/zealdocs/zeal)
 
 ### E-Book Utilities
 - [Bookworm](https://babluboy.github.io/bookworm/) - A simple, focused eBook reader. [![Open-Source Software][OSS Icon]](https://github.com/babluboy/bookworm)
