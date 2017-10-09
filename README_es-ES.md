@@ -341,24 +341,24 @@ versión Portugués Brasileño : [aquí](https://github.com/LewisVo/Awesome-Linu
 - [Sigil](https://github.com/Sigil-Ebook/Sigil) - Sigil es un lector de libros electrónicos EPUB multiplataforma. [![Open-Source Software][OSS Icon]](https://github.com/Sigil-Ebook/Sigil)
 - [Zathura](https://pwmt.org/projects/zathura/) - Zathura es un visor de documentos muy personalizable y funcional. [![Open-Source Software][OSS Icon]](https://git.pwmt.org/pwmt/zathura.git)
 
-### Editors
+### Editor de texto
 - [Atom](https://atom.io/) - El editor de textos Hackable para el siglo XXI. [![Open-Source Software][OSS Icon]](https://github.com/atom/atom)
-- [Bluefish](http://bluefish.openoffice.nl/index.html) - Bluefish is a powerful editor targeted towards programmers and web developers, with many options to write websites, scripts and programming code. [![Open-Source Software][OSS Icon]](https://sourceforge.net/p/bluefish/code/HEAD/tree/trunk/bluefish/)
-- [Brackets](http://brackets.io/) - A modern text editor that understands web design. [![Open-Source Software][OSS Icon]](https://github.com/adobe/brackets)
-- [Emacs](https://www.gnu.org/software/emacs/) - An extensible, customizable, free/libre text editor — and more. [![Open-Source Software][OSS Icon]](https://github.com/emacs-mirror/emacs)
-- [Geany](https://www.geany.org/) - Geany is a text editor using the GTK+ toolkit with basic features of an integrated development environment. It was developed to provide a small and fast IDE, which has only a few dependencies from other packages. [![Open-Source Software][OSS Icon]](https://www.geany.org/Download/Git)
-- [Gedit](https://wiki.gnome.org/Apps/Gedit) -gedit is the GNOME text editor. While aiming at simplicity and ease of use, gedit is a powerful general purpose text editor.
-- [Kakoune](http://kakoune.org/) - Kakoune code ediotr - Vim inspired.  Faster as in less keystrokes.  Multiple selections.  Orthogonal design. Has a strong focus on interactivity.  [![Open-Source Software][OSS Icon]](https://github.com/mawww/kakoune)
-- [Kate](https://kate-editor.org/get-it/) - Kate is a multi-document editor part of KDE since release 2.2. [![Open-Source Software][OSS Icon]](https://kate-editor.org/build-it/)
-- [Komodo Edit](https://github.com/Komodo/KomodoEdit) - Free and open source multilanguage development environment. [![Open-Source Software][OSS Icon]](https://github.com/Komodo/KomodoEdit)
-- [Lighttable](http://lighttable.com/) - The next generation code editor! Support live coding. [![Open-Source Software][OSS Icon]](https://github.com/LightTable/LightTable)
-- [Spacemacs](http://spacemacs.org) - A community-driven Emacs distribution. [![Open-Source Software][OSS Icon]](https://github.com/syl20bnr/spacemacs)
-- [Sublime](https://www.sublimetext.com/) - A very capable text editor with advanced search capabilities, and many powerful plugins to improve its functionality.
-- [Textadept](https://foicica.com/textadept) - Minimalist text editor for programmers. Textadept is extensible with Lua programming language. [![Open-Source Software][OSS Icon]](https://foicica.com/hg/textadept)
-- [Vim](http://www.vim.org/download.php) -Vim is an advanced text editor that seeks to provide the power of the de-facto Unix editor 'Vi', with a more complete feature set. It's useful whether you're already using vi or using a different editor. [![Open-Source Software][OSS Icon]](https://github.com/vim/vim)
-- [VSCode](https://code.visualstudio.com) - Visual Studio Code is a lightweight but powerful source code editor which runs on your desktop and is available for Windows, OS X and Linux. It comes with built-in support for JavaScript, TypeScript and Node.js and has a rich ecosystem of extensions for other languages (C++, C#, Python, PHP, Golang) and runtimes. [![Open-Source Software][OSS Icon]](https://github.com/Microsoft/vscode)
-- [Nano](https://www.nano-editor.org/) - GNU Nano is a text editor which aims to introduce a simple interface and intuitive command options to console based text editing. [![Open-Source Software][OSS Icon]](http://git.savannah.gnu.org/cgit/nano.git/)
-- [Neovim](https://neovim.io/) - Neovim is a fork of Vim aiming to improve user experience, plugins, and GUIs. [![Open-Source Software][OSS Icon]](https://github.com/neovim/neovim)
+- [Bluefish](http://bluefish.openoffice.nl/index.html) - Bluefish es un editor de texto capaz dirigido a programadores y desarrolladores web. [![Open-Source Software][OSS Icon]](https://sourceforge.net/p/bluefish/code/HEAD/tree/trunk/bluefish/)
+- [Brackets](http://brackets.io/) - Un editor de texto moderno que entiende el diseño web. [![Open-Source Software][OSS Icon]](https://github.com/adobe/brackets)
+- [Emacs](https://www.gnu.org/software/emacs/) - Un editor de texto extensible, personalizable y de código abierto. [![Open-Source Software][OSS Icon]](https://github.com/emacs-mirror/emacs)
+- [Geany](https://www.geany.org/) - es un editor de texto escrito GTK + toolkit, que tiene las características básicas de un Entorno de desarrollo integrado. Fue desarrollado para ser pequeño y rápido. [![Open-Source Software][OSS Icon]](https://www.geany.org/Download/Git)
+- [Gedit](https://wiki.gnome.org/Apps/Gedit) -gedit es el editor de texto oficial de GNOME, está diseñado para ser fácil de usar, y para ser un editor de propósito general.
+- [Kakoune](http://kakoune.org/) - Kakoune editor de código, fue inspirado por Vim. Es rápido y tiene buenos atajos de teclado para mejorar la eficiencia.  [![Open-Source Software][OSS Icon]](https://github.com/mawww/kakoune)
+- [Kate](https://kate-editor.org/get-it/) - Kate es un editor de documentos múltiples que forma oficialmente parte de KDE. [![Open-Source Software][OSS Icon]](https://kate-editor.org/build-it/)
+- [Komodo Edit](https://github.com/Komodo/KomodoEdit) - Un entorno multilenguaje de código abierto, diseñado exclusivamente para el desarrollo. [![Open-Source Software][OSS Icon]](https://github.com/Komodo/KomodoEdit)
+- [Lighttable](http://lighttable.com/) - El editor de código del futuro. Es compatible con la edición de código en vivo. [![Open-Source Software][OSS Icon]](https://github.com/LightTable/LightTable)
+- [Spacemacs](http://spacemacs.org) - una versión desarrollada por la comunidad de emacs. [![Open-Source Software][OSS Icon]](https://github.com/syl20bnr/spacemacs)
+- [Sublime](https://www.sublimetext.com/) -un editor de texto muy capaz con avanzadas habilidades de búsqueda. Puede instalar complementos para agregar más funcionalidad.
+- [Textadept](https://foicica.com/textadept) - Un editor de texto minimalista para programadores, Text adept es extensible con plugins de lenguaje de programación Lua. [![Open-Source Software][OSS Icon]](https://foicica.com/hg/textadept)
+- [Vim](http://www.vim.org/download.php) -Es un editor de texto avanzado que busca proporcionar el poder de vi pero con más capacidades. [![Open-Source Software][OSS Icon]](https://github.com/vim/vim)
+- [VSCode](https://code.visualstudio.com) - es un rápido editor de código fuente que funciona en Windows, MacOS y Linux. Es compatible con muchos lenguajes de programación diferentes. [![Open-Source Software][OSS Icon]](https://github.com/Microsoft/vscode)
+- [Nano](https://www.nano-editor.org/) - GNU Nano Es un editor de texto que pretende ser un simple editor de texto de línea de comandos. [![Open-Source Software][OSS Icon]](http://git.savannah.gnu.org/cgit/nano.git/)
+- [Neovim](https://neovim.io/) - Neovim es una forma de vim que espera mejorar la experiencia del usuario, a través de complementos, y con una variedad de interfaces gráficas. [![Open-Source Software][OSS Icon]](https://github.com/neovim/neovim)
 
 
 ### Education
