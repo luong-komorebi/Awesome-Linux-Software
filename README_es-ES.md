@@ -395,18 +395,18 @@
 - [UGENE](http://ugene.net/) - UGENE es un software multiplataforma basado en GUI basado en la bioinformática. [![Open-Source Software][OSS Icon]](https://github.com/ugeneunipro/ugene)
 
 ### Email
-- [Claws](http://www.claws-mail.org/) - Claws is an email client and news reader, featuring sophisticated interface, easy configuration, intuitive operation, abundant features and plugins, robustness and stability. [![Open-Source Software][OSS Icon]](http://git.claws-mail.org/)
-- [Evolution](https://wiki.gnome.org/Apps/Evolution/) - Evolution is a personal information management application that provides integrated mail, calendaring and address book functionality. [![Open-Source Software][OSS Icon]](https://wiki.gnome.org/Apps/Evolution/#Get_the_Source_Code)
-- [Geary](https://wiki.gnome.org/Apps/Geary) - Geary is an email application built for GNOME 3. It allows you to read and send email with a simple, modern interface. [![Open-Source Software][OSS Icon]](https://git.gnome.org//browse/geary/)
-- [Hiri](https://www.hiri.com/) - Hiri is a business focused desktop e-mail client for sending and receiving e-mails, managing calendars, contacts, and tasks.
-- [KMail](https://www.kde.org/applications/internet/kmail/) - KMail is the email component of Kontact, the integrated personal information manager from KDE. [![Open-Source Software][OSS Icon]](https://cgit.kde.org/kmail.git/)
-- [Mailnag](https://launchpad.net/~pulb/+archive/ubuntu/mailnag) - Mailnag is a daemon program that checks POP3 and IMAP servers for new mail. [![Open-Source Software][OSS Icon]](https://github.com/pulb/mailnag)
-- [Nylas Mail](https://www.nylas.com/download) - An extensible desktop mail app built on the modern web. [![Open-Source Software][OSS Icon]](https://github.com/nylas/nylas-mail)
-- [Sylpheed](http://sylpheed.sraoss.jp/en/) - Lightweight and user-friendly e-mail client. [![Open-Source Software][OSS Icon]](http://sylpheed.sraoss.jp/en/download.html#stable)
-- [Thunderbird](https://www.mozilla.org/en-US/thunderbird/) - Thunderbird is a free email application that’s easy to set up and customize and it’s loaded with great features. [![Open-Source Software][OSS Icon]](https://releases.mozilla.org/pub/thunderbird/)
-- [Trojita](http://trojita.flaska.net/download.html) - A super fast desktop email client for Linux. [![Open-Source Software][OSS Icon]](https://cgit.kde.org/trojita.git/)
-- [Vmail](http://danielchoi.com/software/vmail.html) - Vim-like Gmail client. [![Open-Source Software][OSS Icon]](https://github.com/danchoi/vmail)
-- [Wmail](https://github.com/Thomas101/wmail) - Gmail & Google Inbox unofficial desktop client for linux. [![Open-Source Software][OSS Icon]](https://github.com/Thomas101/wmail)
+- [Claws](http://www.claws-mail.org/) - Claws es un cliente de correo electrónico y lector de noticias, tiene una interfaz impresionante, es fácil de configurar, y tiene muchas características. [![Open-Source Software][OSS Icon]](http://git.claws-mail.org/)
+- [Evolution](https://wiki.gnome.org/Apps/Evolution/) - Evolution es un sistema de gestión de información personal, que puede trabajar con correo electrónico, un calendario y una libreta de direcciones. [![Open-Source Software][OSS Icon]](https://wiki.gnome.org/Apps/Evolution/#Get_the_Source_Code)
+- [Geary](https://wiki.gnome.org/Apps/Geary) - Geary es una aplicación de correo electrónico que fue construida para GNOME3 que le permite leer y enviar correo electrónico con un fácil de usar, y la interfaz moderna. [![Open-Source Software][OSS Icon]](https://git.gnome.org//browse/geary/)
+- [Hiri](https://www.hiri.com/) - Hiri es un cliente de correo electrónico diseñado para negocios, que puede enviar y recibir correos electrónicos, administrar un calendario, establecer una lista de tareas y trabajar con contactos.
+- [KMail](https://www.kde.org/applications/internet/kmail/) - KMail es la parte de correo electrónico de Kontact, los gestores de información personal integrados en KDE. [![Open-Source Software][OSS Icon]](https://cgit.kde.org/kmail.git/)
+- [Mailnag](https://launchpad.net/~pulb/+archive/ubuntu/mailnag) - Mailnag es un daemon que descarga correos electrónicos desde servidores POP3 e IMAP. [![Open-Source Software][OSS Icon]](https://github.com/pulb/mailnag)
+- [Nylas Mail](https://www.nylas.com/download) - es un programa extensible para el escritorio, está construido con tecnologías web. [![Open-Source Software][OSS Icon]](https://github.com/nylas/nylas-mail)
+- [Sylpheed](http://sylpheed.sraoss.jp/en/) - un cliente de correo electrónico rápido y fácil de usar. [![Open-Source Software][OSS Icon]](http://sylpheed.sraoss.jp/en/download.html#stable)
+- [Thunderbird](https://www.mozilla.org/en-US/thunderbird/) - Thunderbird es una aplicación de correo electrónico de código abierto que es fácil de configurar y personalizar. [![Open-Source Software][OSS Icon]](https://releases.mozilla.org/pub/thunderbird/)
+- [Trojita](http://trojita.flaska.net/download.html) - Es un pequeño y rápido cliente de correo electrónico para Linux. [![Open-Source Software][OSS Icon]](https://cgit.kde.org/trojita.git/)
+- [Vmail](http://danielchoi.com/software/vmail.html) - un cliente de Gmail diseñado para funcionar como el editor de texto de Vim. [![Open-Source Software][OSS Icon]](https://github.com/danchoi/vmail)
+- [Wmail](https://github.com/Thomas101/wmail) - un cliente para Gmail y Google Inbox que no es oficial. [![Open-Source Software][OSS Icon]](https://github.com/Thomas101/wmail)
 
 
 ### File Manager
