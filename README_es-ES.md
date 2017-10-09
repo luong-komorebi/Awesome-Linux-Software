@@ -325,25 +325,25 @@ versión Portugués Brasileño : [aquí](https://github.com/LewisVo/Awesome-Linu
 - [Buka](https://github.com/oguzhaninan/Buka/releases) - Un programa para la gestión de libros electrónicos. [![Open-Source Software][OSS Icon]](https://github.com/oguzhaninan/Buka)
 - [Calibre](http://calibre-ebook.com/) - Un gestor de libros no muy bonito pero muy eficaz y un convertidor. [![Open-Source Software][OSS Icon]](https://github.com/kovidgoyal/calibre)
 - [Calibre-web](https://github.com/janeczku/calibre-web) - Calibre Web es una aplicación web que proporciona una interfaz simple y fácil de usar para navegar, leer y descargar libros electrónicos utilizando una base de datos de calibre existente. [![Open-Source Software][OSS Icon]](https://github.com/janeczku/calibre-web)
-- [Easy Ebook Viewer](https://github.com/michaldaniel/Ebook-Viewer) - Modern GTK Python Ebook Reader app to easily read epub files. [![Open-Source Software][OSS Icon]](https://github.com/michaldaniel/Ebook-Viewer)
-- [Evince](https://wiki.gnome.org/Apps/Evince) - Evince is a document viewer for multiple document formats. The goal of evince is to replace the multiple document viewers that exist on the GNOME Desktop with a single simple application. [![Open-Source Software][OSS Icon]](https://wiki.gnome.org/Apps/Evince/GettingEvince)
-- [FBReader](https://fbreader.org/content/fbreader-beta-linux-desktop) - One of the most popular eReader apps. [![Open-Source Software][OSS Icon]](https://github.com/geometer/FBReader)
-- [Foxit](https://www.foxitsoftware.com/products/pdf-reader/) - Foxit Reader 8.0—Award-winning PDF Reader.
-- [Gnome Books](https://github.com/martamilakovic/gnome-books) - Books is application for listing, searching and reading eBooks. [![Open-Source Software][OSS Icon]](https://github.com/martamilakovic/gnome-books)
-- [Lucidor](http://www.lucidor.org/lucidor/) - Lucidor is a computer program for reading and handling e-books. Lucidor supports e-books in the EPUB file format, and catalogs in the OPDS format.
-- [MasterPDF editor](https://code-industry.net/free-pdf-editor/) - Master PDF Editor a convenient and smart PDF editor for Linux.
-- [Mcomix](https://sourceforge.net/projects/mcomix/) - GTK+ comic book viewer. [![Open-Source Software][OSS Icon]](https://sourceforge.net/p/mcomix/git/ci/master/tree/)
-- [MuPDF](http://mupdf.com/) - a lightweight PDF and XPS viewer. [![Open-Source Software][OSS Icon]](http://git.ghostscript.com/?p=mupdf.git;a=summary)
-- [Okular](https://okular.kde.org/) - Okular is a universal document viewer based developed by KDE. Okular works on multiple platforms, including but not limited to Linux, Windows, Mac OS X, BSD, etc. [![Open-Source Software][OSS Icon]](https://github.com/KDE/okular)
-- [PDFsam](http://www.pdfsam.org/) - A desktop application to split, extract pages, rotate, mix and merge PDF files. [![Open-Source Software][OSS Icon]](https://github.com/torakiki/pdfsam)
-- [Peruse](https://peruse.kde.org/) - A pleasant way to read comic books. [![Open-Source Software][OSS Icon]](https://download.kde.org/stable/peruse/peruse-1.2.tar.xz.mirrorlist)
-- [qpdf](https://launchpad.net/qpdfview) - qpdfview is a tabbed document viewer. [![Open-Source Software][OSS Icon]](https://launchpad.net/qpdfview)
-- [Sigil](https://github.com/Sigil-Ebook/Sigil) - Sigil is a multi-platform EPUB ebook editor. [![Open-Source Software][OSS Icon]](https://github.com/Sigil-Ebook/Sigil)
-- [Zathura](https://pwmt.org/projects/zathura/) - Zathura is a highly customizable and functional document viewer. [![Open-Source Software][OSS Icon]](https://git.pwmt.org/pwmt/zathura.git)
+- [Easy Ebook Viewer](https://github.com/michaldaniel/Ebook-Viewer) - Un lector de libros electrónicos GTK moderno escrito en Python. [![Open-Source Software][OSS Icon]](https://github.com/michaldaniel/Ebook-Viewer)
+- [Evince](https://wiki.gnome.org/Apps/Evince) - Evince es un visor de documentos para muchos formatos de documentos diferentes. El objetivo del proyecto es reemplazar a varios visores de documentos por uno centralizado en GNOME. [![Open-Source Software][OSS Icon]](https://wiki.gnome.org/Apps/Evince/GettingEvince)
+- [FBReader](https://fbreader.org/content/fbreader-beta-linux-desktop) - Una de las aplicaciones de lectores más populares para libros electrónicos. [![Open-Source Software][OSS Icon]](https://github.com/geometer/FBReader)
+- [Foxit](https://www.foxitsoftware.com/products/pdf-reader/) - Foxit Reader 8.0 es un lector muy popular en Linux y Windows.
+- [Gnome Books](https://github.com/martamilakovic/gnome-books) - GNOME Books es una aplicación para catalogar, buscar y leer libros electrónicos. [![Open-Source Software][OSS Icon]](https://github.com/martamilakovic/gnome-books)
+- [Lucidor](http://www.lucidor.org/lucidor/) - Lucidor es un programa informático para leer y gestionar libros electrónicos. Lucidor soporta los libros electrónicos en formato EPUB y los cataloga en formato OPDS.
+- [MasterPDF editor](https://code-industry.net/free-pdf-editor/) - Master PDF Editor Es un práctico y elegante editor de PDF para Linux.
+- [Mcomix](https://sourceforge.net/projects/mcomix/) - GTK+ es un espectador de historietas. [![Open-Source Software][OSS Icon]](https://sourceforge.net/p/mcomix/git/ci/master/tree/)
+- [MuPDF](http://mupdf.com/) - un visor rápido de PDF y XPS. [![Open-Source Software][OSS Icon]](http://git.ghostscript.com/?p=mupdf.git;a=summary)
+- [Okular](https://okular.kde.org/) - Okular es un visor universal de documentos, diseñado para el proyecto KDE. Okular Es multiplataforma y se ejecutará en Linux, Windows, MacOS y BSD. [![Open-Source Software][OSS Icon]](https://github.com/KDE/okular)
+- [PDFsam](http://www.pdfsam.org/) - Una aplicación para el escritorio que puede dividir, rotar, mezclar, combinar y extraer páginas de archivos PDF. [![Open-Source Software][OSS Icon]](https://github.com/torakiki/pdfsam)
+- [Peruse](https://peruse.kde.org/) - Una manera relajante de leer cómics. [![Open-Source Software][OSS Icon]](https://download.kde.org/stable/peruse/peruse-1.2.tar.xz.mirrorlist)
+- [qpdf](https://launchpad.net/qpdfview) - qpdfview es un visor de documentos con pestañas. [![Open-Source Software][OSS Icon]](https://launchpad.net/qpdfview)
+- [Sigil](https://github.com/Sigil-Ebook/Sigil) - Sigil es un lector de libros electrónicos EPUB multiplataforma. [![Open-Source Software][OSS Icon]](https://github.com/Sigil-Ebook/Sigil)
+- [Zathura](https://pwmt.org/projects/zathura/) - Zathura es un visor de documentos muy personalizable y funcional. [![Open-Source Software][OSS Icon]](https://git.pwmt.org/pwmt/zathura.git)
 
 ### Editors
-- [Atom](https://atom.io/) - Hackable text editor for the 21st century. [![Open-Source Software][OSS Icon]](https://github.com/atom/atom)
-- [Bluefish](http://bluefish.openoffice.nl/index.html) - Bluefish is a powerful editor targeted towards programmers and webdevelopers, with many options to write websites, scripts and programming code. [![Open-Source Software][OSS Icon]](https://sourceforge.net/p/bluefish/code/HEAD/tree/trunk/bluefish/)
+- [Atom](https://atom.io/) - El editor de textos Hackable para el siglo XXI. [![Open-Source Software][OSS Icon]](https://github.com/atom/atom)
+- [Bluefish](http://bluefish.openoffice.nl/index.html) - Bluefish is a powerful editor targeted towards programmers and web developers, with many options to write websites, scripts and programming code. [![Open-Source Software][OSS Icon]](https://sourceforge.net/p/bluefish/code/HEAD/tree/trunk/bluefish/)
 - [Brackets](http://brackets.io/) - A modern text editor that understands web design. [![Open-Source Software][OSS Icon]](https://github.com/adobe/brackets)
 - [Emacs](https://www.gnu.org/software/emacs/) - An extensible, customizable, free/libre text editor — and more. [![Open-Source Software][OSS Icon]](https://github.com/emacs-mirror/emacs)
 - [Geany](https://www.geany.org/) - Geany is a text editor using the GTK+ toolkit with basic features of an integrated development environment. It was developed to provide a small and fast IDE, which has only a few dependencies from other packages. [![Open-Source Software][OSS Icon]](https://www.geany.org/Download/Git)
