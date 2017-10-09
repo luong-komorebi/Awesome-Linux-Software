@@ -277,24 +277,24 @@ versión Portugués Brasileño : [aquí](https://github.com/LewisVo/Awesome-Linu
 - [Netbeans](https://netbeans.org/downloads/) - NetBeans IDE es un programa para ayudar a desarrollar Java para computadoras, teléfonos móviles y aplicaciones web. También funciona con HTML5, Javascript y CSS.
 
 #### PHP
-- [PHPStorm](https://www.jetbrains.com/phpstorm/) - Lightning-smart and powerful PHP IDE from Jetbrain.
+- [PHPStorm](https://www.jetbrains.com/phpstorm/) - Un poderoso y potente Entorno de desarrollo integrado para PHP. Está hecho por la compañía Jetbrain.
 
 #### Python
-- [PyCharm](https://www.jetbrains.com/pycharm/) - Powerful IDE for Python
+- [PyCharm](https://www.jetbrains.com/pycharm/) - Un poderoso Entorno de desarrollo integrado para Python.
 
 #### Shell
-- [Fish](https://fishshell.com/) - A smart and user-friendly command-line shell. [![Open-Source Software][OSS Icon]](https://github.com/fish-shell/fish-shell)
-- [Fisherman](https://github.com/fisherman/fisherman) - A plugin manager for fish shell. [![Open-Source Software][OSS Icon]](https://github.com/fisherman/fisherman)
-- [Ipython](https://ipython.org/) - Powerful Python shell. [![Open-Source Software][OSS Icon]](https://github.com/ipython/ipython)
-- [Oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - Provides various packages and themes to extend the functionality of your fish shell. [![Open-Source Software][OSS Icon]](https://github.com/oh-my-fish/oh-my-fish)
-- [Oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - A delightful community-driven framework for managing your zsh configuration.  [![Open-Source Software][OSS Icon]](https://github.com/robbyrussell/oh-my-zsh)
-- [Zsh](http://www.zsh.org/) -  A powerful command line shell. [![Open-Source Software][OSS Icon]](http://sourceforge.net/p/zsh/code/ci/master/tree/)
+- [Fish](https://fishshell.com/) - Un shell de línea de comandos inteligente y fácil de usar. [![Open-Source Software][OSS Icon]](https://github.com/fish-shell/fish-shell)
+- [Fisherman](https://github.com/fisherman/fisherman) - Un administrador para los complementos de Fish Shell.. [![Open-Source Software][OSS Icon]](https://github.com/fisherman/fisherman)
+- [Ipython](https://ipython.org/) - Un shell de python capaz. [![Open-Source Software][OSS Icon]](https://github.com/ipython/ipython)
+- [Oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - Un marco que le permite instalar complementos para el Fish Shell. [![Open-Source Software][OSS Icon]](https://github.com/oh-my-fish/oh-my-fish)
+- [Oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - Un marco para el ZSH que es dirigido por la comunidad.  [![Open-Source Software][OSS Icon]](https://github.com/robbyrussell/oh-my-zsh)
+- [Zsh](http://www.zsh.org/) -  Un popular y poderoso shell de línea de comandos. [![Open-Source Software][OSS Icon]](http://sourceforge.net/p/zsh/code/ci/master/tree/)
 
 #### Supporting Tools
-- [Cscope](http://cscope.sourceforge.net/) - Cscope is a developer's tool for browsing source code. Although cmd-line application, it is nativelly integrated with Vim editor.  It allows searching code for symbols, definitions, functions (called/calling), regex, files. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/cscope/)
-- [Diffuse](https://sourceforge.net/projects/diffuse/) - Diffuse is a graphical tool for comparing and merging text files. It can retrieve files for comparison from Bazaar, CVS, Darcs, Git, Mercurial, Monotone, RCS, Subversion, and SVK repositories.  [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/diffuse/files/?source=navbar)
+- [Cscope](http://cscope.sourceforge.net/) - Cscope es una herramienta para desarrolladores que están inspeccionando el código fuente del navegador. Es para la línea de comandos, pero funciona con el editor VIM. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/cscope/)
+- [Diffuse](https://sourceforge.net/projects/diffuse/) - Diffuse es una herramienta gráfica para comparar y fusionar el texto dentro de archivos. Puede recuperar archivos de muchos tipos diferentes de repositorios, en ejemplo: Bazaar, CVS, Darcs, Git, Mercurial, Monotone, RCS, Subversion, y SVK.  [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/diffuse/files/?source=navbar)
 - [Fossil](https://www.fossil-scm.org) - Self-contained, distributed software configuration management system with integrated bug-tracking, wiki, technotes and web interface. [![Open-Source Software][OSS Icon]](https://www.fossil-scm.org/index.html/dir?ci=tip)
-- [Genymotion](https://www.genymotion.com/features/) - Genymotion is a fast third-party emulator that can be used instead of the default Android emulator.
+- [Genymotion](https://www.genymotion.com/features/) - Genymotion es un emulador rápido que reemplaza al emulador predeterminado de Android.
 - [Giggle](https://wiki.gnome.org/action/show/Apps/giggle?action=show&redirect=giggle) - Giggle is a graphical frontend for the git content tracker. [![Open-Source Software][OSS Icon]](https://git.gnome.org//browse/giggle/)
 - [Gisto](http://www.gistoapp.com/) - Gisto is a code snippet manager that runs on GitHub Gists and adds additional features such as searching, tagging and sharing gists while including a rich code editor. [![Open-Source Software][OSS Icon]](https://github.com/Gisto/Gisto)
 - [GitCola](http://git-cola.github.io/) - Git Cola is a sleek and powerful graphical Git client. Written in Python and GPL-licensed.
