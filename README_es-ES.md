@@ -443,24 +443,24 @@
 - [Simutrans](https://www.simutrans.com) - Simutrans es un simulador de transporte de código abierto. [![Open-Source Software][OSS Icon]
 
 #### Videojuego de disparos en primera persona
-- [Xonotic](http://www.xonotic.org/) - Arena shooter inspired by Unreal Tournament and Quake. [![Open-Source Software][OSS Icon]
-- [Red Eclipse](https://redeclipse.net/) - Red Eclipse is a fun-filled new take on the first person arena shooter, which lends itself toward a balanced gameplay, with a general theme of agility in a variety of environments. [![Open-Source Software][OSS Icon]
-- [Urban Terror](http://www.urbanterror.info) - A "Hollywood" tactical shooter - realism based, but the motto is "fun over realism". [![Open-Source Software][OSS Icon]
-- [Zandronum](http://zandronum.com/) - Leading the way in newschool multiplayer Doom online. [![Open-Source Software][OSS Icon]
+- [Xonotic](http://www.xonotic.org/) - Es un juego inspirado en "Unreal Tournament" y "Quake". [![Open-Source Software][OSS Icon]
+- [Red Eclipse](https://redeclipse.net/) - Red Eclipse es un entretenido juego de tiro en primera persona. Tiene un tema de agilidad y velocidad. [![Open-Source Software][OSS Icon]
+- [Urban Terror](http://www.urbanterror.info) - Un juego de disparos tácticos que se basa en el realismo, pero no siempre. [![Open-Source Software][OSS Icon]
+- [Zandronum](http://zandronum.com/) - Un juego que es como "Doom", pero en línea y con muchas más características. [![Open-Source Software][OSS Icon]
 
 #### JDR
-- [Tales of Maj'Eyal](https://te4.org/) - Tales of Maj’Eyal (ToME) is a free, open source roguelike RPG, featuring tactical turn-based combat and advanced character building. [![Open-Source Software][OSS Icon]
-- [Zelda Classic](http://www.zeldaclassic.com/) - A tribut to Nintendo's The Legend of Zelda with additional quests, items and challenges [![Open-Source Software][OSS Icon]
-- [Zelda: Mystery of Solarus DX](http://www.solarus-games.org) - A direct sequel to The Legend of Zelda: A Link to the Past on the SNES, using the same graphics and game mechanisms [![Open-Source Software][OSS Icon]
+- [Tales of Maj'Eyal](https://te4.org/) - Tales of Maj’Eyal (ToME) es una exploración de mazmorras de código abierto JDR, que tiene un combate basado en turnos, y la construcción de personajes. [![Open-Source Software][OSS Icon]
+- [Zelda Classic](http://www.zeldaclassic.com/) - Un homenaje al juego de Nintendo "The Legend of Zelda". [![Open-Source Software][OSS Icon]
+- [Zelda: Mystery of Solarus DX](http://www.solarus-games.org) - Una secuela de "La leyenda de Zelda: un vínculo con el pasado" tiene los mismos gráficos, y utiliza la misma mecánica de juego. [![Open-Source Software][OSS Icon]
 
 #### Vario
-- [Cockatrice](https://cockatrice.github.io/) - Cockatrice is an open-source multiplatform supported program for playing tabletop card games over a network. [![Open-Source Software][OSS Icon]
-- [Minecraft](https://minecraft.net) - Minecraft is a game about placing blocks and going on adventures. Explore randomly generated worlds and build amazing things from the simplest of homes to the grandest of castles.
-- [Minetest](https://minetest.net) - Open-source Minecraft written in C++ (uses less resources) and includes modding API. [![Open-Source Software][OSS Icon]
-- [Mudlet](mudlet.org) - A cross-platform, open source, and super fast MUD (text-only MMORPGs) client with scripting in Lua. [![Open-Source Software][OSS Icon]
-- [OhMyGiraffe](https://ohmygiraffe.com) - A delightful game of survival. A game about a giraffe eating fruit while being chased by lions.
-- [Snake Game](https://alpcoskun.com/snake/) - Cross-platform Classic Snake Game based on Node.js. [![Open-Source Software][OSS Icon]](https://github.com/alpcoskun/snake)
-- [SuperTuxKart](https://supertuxkart.net) - SuperTuxKart is a 3D open-source arcade racer with a variety characters, tracks, and modes to play. [![Open-Source Software][OSS Icon]
+- [Cockatrice](https://cockatrice.github.io/) - Cockatrice es un programa multiplataforma de código abierto para jugar juegos de cartas en una red o en Internet. [![Open-Source Software][OSS Icon]
+- [Minecraft](https://minecraft.net) - Minecraft es un juego sobre la colocación de bloques y la construcción de un mundo entero. Ha generado al azar mundos que son masivos en tamaño, donde se puede construir cualquier cosa.
+- [Minetest](https://minetest.net) - Una versión de código abierto de "Minecraft" que está escrito en C ++ y tiene una API de modificación. [![Open-Source Software][OSS Icon]
+- [Mudlet](mudlet.org) - Un cliente multiplataforma y de código abierto para texto solo videojuego de rol multijugador masivo en línea. [![Open-Source Software][OSS Icon]
+- [OhMyGiraffe](https://ohmygiraffe.com) - Un juego sobre la supervivencia, donde usted es una jirafa siendo perseguido por los leones.
+- [Snake Game](https://alpcoskun.com/snake/) - Un juego multiplataforma "snake" que está escrito en Node.js. [![Open-Source Software][OSS Icon]](https://github.com/alpcoskun/snake)
+- [SuperTuxKart](https://supertuxkart.net) - SuperTuxKart es un juego de carreras de código abierto 3D con una variedad de pistas y modos para jugar. [![Open-Source Software][OSS Icon]
 
 #### Engine Re-creations (require the actual game)
 - [OpenMW](http://openmw.org) - A recreation of the Morrowind engine, expanding upon the original. It can be used to play legitimate copies of original game. [![Open-Source Software][OSS Icon]

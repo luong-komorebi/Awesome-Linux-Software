@@ -452,8 +452,8 @@
 
 #### RPG
 - [Tales of Maj'Eyal](https://te4.org/) - Tales of Maj’Eyal (ToME) is a free, open source roguelike RPG, featuring tactical turn-based combat and advanced character building. [![Open-Source Software][OSS Icon]
-- [Zelda Classic](http://www.zeldaclassic.com/) - A tribut to Nintendo's The Legend of Zelda with additional quests, items and challenges [![Open-Source Software][OSS Icon]
-- [Zelda: Mystery of Solarus DX](http://www.solarus-games.org) - A direct sequel to The Legend of Zelda: A Link to the Past on the SNES, using the same graphics and game mechanisms [![Open-Source Software][OSS Icon]
+- [Zelda Classic](http://www.zeldaclassic.com/) - A tribute to Nintendo's The Legend of Zelda with additional quests, items and challenges. [![Open-Source Software][OSS Icon]
+- [Zelda: Mystery of Solarus DX](http://www.solarus-games.org) - A direct sequel to The Legend of Zelda: A Link to the Past on the SNES, using the same graphics and game mechanisms. [![Open-Source Software][OSS Icon]
 
 #### Miscellaneous
 - [Cockatrice](https://cockatrice.github.io/) - Cockatrice is an open-source multiplatform supported program for playing tabletop card games over a network. [![Open-Source Software][OSS Icon]
