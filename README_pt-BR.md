@@ -14,6 +14,10 @@
 **Reconhecimento:** *Tudo escrito abaixo é da minha própria experiência na faculdade e depois de ler vários materiais. Eu não sou profissional nem especialista, mas um aluno que tem uma grande paixão.
 Qualquer um pode abrir uma discussão na seção de problemas, ou enviar um pull request, caso algo seja modificado ou adicionado. Se você considerar meu trabalho valioso, uma [doação](#doação) será muito bem vinda.*
 
+* versão chinesa : [aqui](https://github.com/LewisVo/Awesome-Linux-Software/blob/master/README_zh-CN.md) o [aqui](https://github.com/alim0x/Awesome-Linux-Software-zh_CN) o [aqui](https://github.com/0xE8551CCB/awesome-linux-software-cn).
+* versão espanhola : [aqui](https://github.com/LewisVo/Awesome-Linux-Software/blob/master/README_es-ES.md)
+* versão em inglês : [aqui](https://github.com/LewisVo/Awesome-Linux-Software/blob/master/README.md)
+
 Duas versões chinesas desta lista estão disponíveis [aqui](https://github.com/alim0x/Awesome-Linux-Software-zh_CN) e [aqui(já atualizadas ultimamente).](https://github.com/0xE8551CCB/awesome-linux-software-cn)
 
 ## Índice
