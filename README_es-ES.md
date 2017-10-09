@@ -410,17 +410,18 @@
 
 
 ### File Manager
-- [7Zip](http://www.7-zip.org/download.html) - Unzip any zip files
-- [Dolphin](https://userbase.kde.org/Dolphin) - Dolphin is  the default file manager of the KDE desktop environment featuring usability as well as functionality. [![Open-Source Software][OSS Icon]](https://github.com/KDE/dolphin)
-- [Double Commander](http://doublecmd.sourceforge.net/) - Double Commander is a cross platform open source file manager with two panels side by side. It is inspired by Total Commander and features some new ideas.
-- [Krusader](https://krusader.org) - Krusader is an advanced twin panel (commander style) file manager for KDE and other desktops in the \*nix world, similar to Midnight or Total Commander. [![Open-Source Software][OSS Icon]](https://krusader.org/get-involved/index.html)
-- [Midnight Commander](https://www.midnight-commander.org/) - A feature rich full-screen file manager that allows you to copy, move and delete files and whole directory trees. [![Open-Source Software][OSS Icon]](https://github.com/MidnightCommander)
-- [Nautilus](https://wiki.gnome.org/Apps/Nautilus) - Nautilus (Files) is a file manager designed to fit the Gnome desktop design and behaviour, giving the user a simple way to navigate and manage its files. [![Open-Source Software][OSS Icon]](https://github.com/GNOME/nautilus)
-- [Nemo](http://askubuntu.com/questions/294421/how-do-i-install-nemo-file-manager) - Nemo is the file manager for the Cinnamon desktop environment. [![Open-Source Software][OSS Icon]](https://github.com/linuxmint/nemo)
-- [QDirStat](https://github.com/shundhammer/qdirstat#ubuntu) - Qt-based directory statistics - KDirStat without any KDE, from the original KDirStat author. [![Open-Source Software][OSS Icon]](https://github.com/shundhammer/qdirstat)
-- [Ranger](http://ranger.nongnu.org/) - Ranger is a console file manager with VI key bindings. [![Open-Source Software][OSS Icon]](https://github.com/ranger/ranger)
-- [Thunar](https://apps.ubuntu.com/cat/applications/precise/thunar/) - Thunar is the file manager designed to be the default file manager of Xfce 4.6 It has been designed to be fast and easy to use. [![Open-Source Software][OSS Icon]](https://github.com/luisgg/thunar)
-- [Vifm](https://vifm.info/) - Vifm is an ncurses based file manager with VI like keybindings, which also borrows some useful ideas from mutt. [![Open-Source Software][OSS Icon]](https://github.com/vifm/vifm)
+- [7Zip](http://www.7-zip.org/download.html) - Un programa que puede descomprimir casi cualquier formato de archivo.
+- [Caja](https://mate-desktop.org/) - Es el gestor de archivos predeterminado para el entorno de escritorio MATE, es muy rápido y sencillo de usar. [![Open-Source Software][OSS Icon]](https://github.com/mate-desktop/caja)
+- [Dolphin](https://userbase.kde.org/Dolphin) - Dolphin es el gestor de archivos predeterminado para el entorno de escritorio KDE, que es fácil de usar y muy funcional. [![Open-Source Software][OSS Icon]](https://github.com/KDE/dolphin)
+- [Double Commander](http://doublecmd.sourceforge.net/) - Double Commander es un gestor de archivos de código abierto multiplataforma que tiene dos paneles lado a lado. Está inspirado en Total Commander y tiene muchas otras características.
+- [Krusader](https://krusader.org) - Krusader es un gestor de archivos de doble panel diseñado para KDE. Es similar a Midnight Commander, y Total Commander. [![Open-Source Software][OSS Icon]](https://krusader.org/get-involved/index.html)
+- [Midnight Commander](https://www.midnight-commander.org/) - Un administrador de archivos con muchas características, que le permite copiar, mover y eliminar archivos fácilmente. [![Open-Source Software][OSS Icon]](https://github.com/MidnightCommander)
+- [Nautilus](https://wiki.gnome.org/Apps/Nautilus) - Nautilus es el gestor de archivos oficial del entorno de escritorio GNOME, y es muy fácil de usar. [![Open-Source Software][OSS Icon]](https://github.com/GNOME/nautilus)
+- [Nemo](http://askubuntu.com/questions/294421/how-do-i-install-nemo-file-manager) - Nemo es el gestor de archivos predeterminado para el entorno de escritorio de Cinnamon. Es rápido y fácil de usar. [![Open-Source Software][OSS Icon]](https://github.com/linuxmint/nemo)
+- [QDirStat](https://github.com/shundhammer/qdirstat#ubuntu) - QDirStat es un programa de estadísticas de directorios diseñado para permitirle comparar visualmente el tamaño de los archivos. [![Open-Source Software][OSS Icon]](https://github.com/shundhammer/qdirstat)
+- [Ranger](http://ranger.nongnu.org/) - Ranger es un gestor de archivos basado en la línea de comandos que tiene asignaciones de teclas como el editor de texto Vi. Viene con "Rifle" un programa que encuentra programas para abrir archivos. [![Open-Source Software][OSS Icon]](https://github.com/ranger/ranger)
+- [Thunar](https://apps.ubuntu.com/cat/applications/precise/thunar/) - Thunar es el gestor de archivos predeterminado para el escritorio XFCE. Está diseñado para ser rápido y fácil de usar. [![Open-Source Software][OSS Icon]](https://github.com/luisgg/thunar)
+- [Vifm](https://vifm.info/) - Vifm es un gestor de archivos basado en ncurses, que utiliza asignaciones de teclas del editor de texto VI. [![Open-Source Software][OSS Icon]](https://github.com/vifm/vifm)
 
 ### Games
 

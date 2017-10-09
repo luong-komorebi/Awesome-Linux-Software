@@ -412,8 +412,8 @@
 
 
 ### File Manager
-- [7Zip](http://www.7-zip.org/download.html) - Unzip any zip files
-- [Dolphin](https://userbase.kde.org/Dolphin) - Dolphin is  the default file manager of the KDE desktop environment featuring usability as well as functionality. [![Open-Source Software][OSS Icon]](https://github.com/KDE/dolphin)
+- [7Zip](http://www.7-zip.org/download.html) - A vary capable program that can unzip nearly any file archiving format.
+- [Dolphin](https://userbase.kde.org/Dolphin) - Dolphin is the default file manager of the KDE desktop environment featuring usability as well as functionality. [![Open-Source Software][OSS Icon]](https://github.com/KDE/dolphin)
 - [Double Commander](http://doublecmd.sourceforge.net/) - Double Commander is a cross platform open source file manager with two panels side by side. It is inspired by Total Commander and features some new ideas.
 - [Krusader](https://krusader.org) - Krusader is an advanced twin panel (commander style) file manager for KDE and other desktops in the \*nix world, similar to Midnight or Total Commander. [![Open-Source Software][OSS Icon]](https://krusader.org/get-involved/index.html)
 - [Midnight Commander](https://www.midnight-commander.org/) - A feature rich full-screen file manager that allows you to copy, move and delete files and whole directory trees. [![Open-Source Software][OSS Icon]](https://github.com/MidnightCommander)
