@@ -480,25 +480,25 @@
 
 #### Graphic Creation
 - [Blender](https://www.blender.org/) - a free and open source complete 3D creation pipeline for artists and small teams.
-- [Cinepaint](http://www.cinepaint.org/) - Open source deep paint software
+- [Cinepaint](http://www.cinepaint.org/) - Open source deep paint software.
 - [Gravit](https://www.designer.io/) - Gravit Designer is a full featured free vector design app right at your fingertip.
 - [Heron Animation](https://www.heronanimation.brick-a-brack.com/#download) - A free stop animation making program.
-- [Inkscape](https://inkscape.org/en/) - A powerful, free design tool for you , whether you are an illustrator, designer, web designer or just someone who needs to create some vector imagery
+- [Inkscape](https://inkscape.org/en/) - A powerful, free design tool for you , whether you are an illustrator, designer, web designer or just someone who needs to create some vector imagery.
 - [Karbon](https://www.calligra.org/karbon/) - An open source vector drawing program. [![Open-Source Software][OSS Icon]](https://www.kde.org/applications/graphics/karbon/development)
-- [Krita](https://krita.org/en/) - Open Source Software for Concept Artists, Digital Painters, and Illustrators[![Open-Source Software][OSS Icon]](https://github.com/KDE/krita)
+- [Krita](https://krita.org/en/) - Open Source Software for Concept Artists, Digital Painters, and Illustrators. [![Open-Source Software][OSS Icon]](https://github.com/KDE/krita)
 - [Mypaint](http://mypaint.org/about/) - Mypaint is a paint program for use with graphics tablets.  [![Open-Source Software][OSS Icon]](https://github.com/mypaint/mypaint/releases)
 - [Open DVD Producer](http://opendvdproducer.jonata.org/) - A modern, open source cross platform software to produce DVD images.  [![Open-Source Software][OSS Icon]](https://github.com/jonata/opendvdproducer)
 - [Pinta](https://pinta-project.com/pintaproject/pinta/) - Pinta is a free, open source program for drawing and image editing. [![Open-Source Software][OSS Icon]](https://pinta-project.com/pintaproject/pinta/contribute)
 - [StopMotion](http://linuxstopmotion.org/) - Linux Stopmotion is a Free Open Source application to create stop-motion animations. It helps you capture and edit the frames of your animation and export them as a single file. [![Open-Source Software][OSS Icon]](https://launchpad.net/lsm)
 - [Synfig Studio](http://www.synfig.org/) - Open-source 2D animation software. [![Open-Source Software][OSS Icon]](https://github.com/synfig/synfig)
-- [Xara Extreme](http://www.xaraxtreme.org/) - Xara Xtreme for Linux is a powerful, general purpose graphics program for Unix platforms including Linux, FreeBSD[![Open-Source Software][OSS Icon]](http://www.xaraxtreme.org/Developers/develeopers-source-code-a-building.html)
+- [Xara Extreme](http://www.xaraxtreme.org/) - Xara Xtreme for Linux is a powerful, general purpose graphics program for Unix platforms including Linux, FreeBSD. [![Open-Source Software][OSS Icon]](http://www.xaraxtreme.org/Developers/develeopers-source-code-a-building.html)
 - [yEd Graph Editor](https://www.yworks.com/products/yed) - yEd is a powerful desktop application that can be used to quickly and effectively generate high-quality diagrams. Create diagrams manually, or import your external data for analysis. Our automatic layout algorithms arrange even large data sets with just the press of a button.
 - [Vectr](https://vectr.com/) - Vectr is a free graphics software used to create vector graphics easily and intuitively. It's a simple yet powerful web and desktop cross-platform tool to bring your designs into reality.
 
 #### Image Editor
 - [Aftershot](http://www.aftershotpro.com/en/products/aftershot/pro/) - A powerful alternative to Adobe Photoshop. [![Nonfree][Money icon]
-- [Darktable](http://www.darktable.org/) - darktable is an open source photography workflow application and RAW developer
-- [GIMP](https://www.gimp.org/downloads/) - GIMP is a freely distributed program for such tasks as photo retouching, image composition and image authoring[![Open-Source Software][OSS Icon]](https://github.com/GNOME/gimp)
+- [Darktable](http://www.darktable.org/) - Darktable is an open source photography workflow application and RAW developer.
+- [GIMP](https://www.gimp.org/downloads/) - GIMP is a freely distributed program for such tasks as photo retouching, image composition and image authoring. [![Open-Source Software][OSS Icon]](https://github.com/GNOME/gimp)
 - [Hugin](http://hugin.sourceforge.net/) - an easy to use cross-platform panoramic imaging toolchain based on Panorama Tools.
 - [ImageMagik](http://www.imagemagick.org/script/index.php) - ImageMagick is a suite of command-line utilities for modifying and working with images.
 - [Luminance HDR](http://qtpfsgui.sourceforge.net/) - Luminance HDR is an open source graphical user interface application that aims to provide a workflow for HDR imaging. [![Open-Source Software][OSS Icon]](https://github.com/LuminanceHDR/LuminanceHDR)
@@ -507,12 +507,12 @@
 - [RawTherapee](http://rawtherapee.com/) - A good looking but lesser known photo editing app. [![Open-Source Software][OSS Icon]](https://github.com/Beep6581/RawTherapee)
 
 #### Image Management
-- [Digikam](http://www.digikam.org/) - digiKam is an advanced digital photo management application for Linux
+- [Digikam](http://www.digikam.org/) - DigiKam is an advanced digital photo management application for Linux.
 - [Feh](https://feh.finalrewind.org/) - lightweight and fast image viewer. [![Open-Source Software][OSS Icon]](http://git.finalrewind.org/feh)
 - [Fotoxx](http://www.kornelix.net/fotoxx/fotoxx.html) - Fotoxx is a free open source Linux program for image editing and collection management.
 - [gThumb](https://wiki.gnome.org/Apps/gthumb) - gThumb is an image viewer and browser (it also includes an importer tool for transferring photos from cameras).  [![Open-Source Software][OSS Icon]](https://git.gnome.org/browse/gthumb/)
 - [gwenview](https://userbase.kde.org/Gwenview) - Simple yet powerful image viewer and management for KDE desktops. [![Open-Source Software][OSS Icon]](https://cgit.kde.org/gwenview.git/tree//?)
-- [Imagine](https://github.com/meowtec/Imagine) - Image Optimizer. [![Open-Source Software][OSS Icon]](https://github.com/meowtec/Imagine)
+- [Imagine](https://github.com/meowtec/Imagine) - An open source image optimizer that can shrink the size of images with a minimal loss of quality. [![Open-Source Software][OSS Icon]](https://github.com/meowtec/Imagine)
 - [nomacs](https://nomacs.org/) - nomacs is an image viewer that is able to view nearly any image format, and has powerful renaming and sorting tools. [![Open-Source Software][OSS Icon]](https://github.com/nomacs/nomacs/tree/master)
 - [Ojo](https://github.com/peterlevi/ojo) - A fast and pretty image viewer.  [![Open-Source Software][OSS Icon]](https://github.com/peterlevi/ojo)
 - [Phockup](https://github.com/ivandokov/phockup) - Media sorting tool to organize photos and videos from your camera in folders by year, month and day. [![Open-Source Software][OSS Icon]](https://github.com/ivandokov/phockup)
@@ -522,9 +522,9 @@
 #### Miscellaneous
 - [Handbrake](https://handbrake.fr/) - HandBrake is a tool for converting video from nearly any format to a selection of modern, widely supported codecs. [![Open-Source Software][OSS Icon]](https://github.com/HandBrake/HandBrake)
 - [Potrace](http://potrace.sourceforge.net/) - Potrace is a tool for tracing a bitmap, which means, transforming a bitmap into a smooth, scalable image. [![Open-Source Software][OSS Icon]](http://potrace.sourceforge.net/#downloading)
-- [Radiance](http://www.radiance-online.org/) - Radiance - A Validated Lighting Simulation Tool[![Open-Source Software][OSS Icon]](https://www.radiance-online.org/download-install/radiance-source-code)
+- [Radiance](http://www.radiance-online.org/) - Radiance - A Validated Lighting Simulation Tool. [![Open-Source Software][OSS Icon]](https://www.radiance-online.org/download-install/radiance-source-code)
 - [Ramme](https://github.com/terkelg/ramme) - Unofficial Instagram desktop application. [![Open-Source Software][OSS Icon]](https://github.com/terkelg/ramme)
-- [Rapid Photo Downloader](http://damonlynch.net/rapid/download.html) - Rapid Photo Downloader Makes It Easy to Import Photos from a Camera or Smartphone.  [![Open-Source Software][OSS Icon]](https://launchpad.net/rapid/pyqt/0.9.0b2)
+- [Rapid Photo Downloader](http://damonlynch.net/rapid/download.html) - Rapid Photo Downloader makes it easy to import photos from a camera or smartphone.  [![Open-Source Software][OSS Icon]](https://launchpad.net/rapid/pyqt/0.9.0b2)
 
 #### PSD, Sketch Inspection
 - [Avocode](https://avocode.com/) - Avocode - Share and inspect Photoshop and Sketch designs in a heart beat. [![Nonfree][Money Icon]
@@ -535,8 +535,8 @@
 - [Kazam](https://launchpad.net/kazam) - An easy to use and very intuitive screen recording program that will capture the content of your screen and record a video file that can be played by any video player that supports VP8/WebM video format. [![Open-Source Software][OSS Icon]](https://code.launchpad.net/kazam)
 - [OBS Studio](https://obsproject.com/) - Free and open source software for video recording and live streaming. Download and start streaming quickly and easily on Windows, Mac or Linux. Share your gaming, art and entertainment with the world. [![Open-Source Software][OSS Icon]](https://github.com/jp9000/OBS)
 - [Peek](https://github.com/phw/peek) - Simple animated GIF screen recorder with an easy to use interface. [![Open-Source Software][OSS Icon]](https://github.com/phw/peek)
-- [Silentcast](https://github.com/colinkeenan/silentcast) - Create silent mkv screencast and animated gif. [![Open-Source Software][OSS Icon]](https://github.com/colinkeenan/silentcast)
-- [Vokoscreen](http://www.kohaupt-online.de/hp/) - A free, multilingual and easy to use screencast recorder with audio for Linux. Features: detects webcams, avi and mkv video containers, mpeg4 and h.264 video codecs, adjustable frame rate, ... [![Open-Source Software][OSS Icon]](https://github.com/vkohaupt/vokoscreen)
+- [Silentcast](https://github.com/colinkeenan/silentcast) - Silentcast can create MKV screencasts and also output to an animated GIF. [![Open-Source Software][OSS Icon]](https://github.com/colinkeenan/silentcast)
+- [Vokoscreen](http://www.kohaupt-online.de/hp/) - A free, multilingual and easy to use screencast recorder with audio for Linux. It has many features. [![Open-Source Software][OSS Icon]](https://github.com/vkohaupt/vokoscreen)
 
 #### Screenshot
 - [Screencloud](http://screencloud.net/) - ScreenCloud is an easy to use screenshot sharing tool consisting of a cross-platform client and a sharing website: http://screencloud.net/. [![Open-Source Software][OSS Icon]](https://github.com/olav-st/screencloud)
@@ -549,7 +549,7 @@
 #### Video editor
 - [Flowblade](https://github.com/jliljebl/flowblade/releases/tag/1.12.2) - A multitrack non-linear video editor for Linux. [![Open-Source Software][OSS Icon]](https://github.com/jliljebl/flowblade)
 - [Kdenlive](https://kdenlive.org/) - Kdenlive is a Non-Linear Video Editor, which is much more powerful than beginners’ (linear) editors.  [![Open-Source Software][OSS Icon]](https://github.com/KDE/kdenlive)
-- [Lightworks](https://www.lwks.com/) - Professional non-linear video editing program with a free version available [![Nonfree][Money Icon]
+- [Lightworks](https://www.lwks.com/) - Professional non-linear video editing program with a free version available. [![Nonfree][Money Icon]
 - [OpenShot](http://www.openshot.org/) - OpenShot is a free, simple-to-use, feature-rich video editor for Linux.
 - [Shotcut](https://www.shotcut.org/) - Shotcut is a free, open source, cross-platform video editor with support for hundreds of audio and video formats and codecs and a sleek, intuitive interface. [![Open-Source Software][OSS Icon]](https://github.com/mltframework/shotcut)
 - [Pitivi](http://www.pitivi.org/) - A free video editor with a beautiful and intuitive user interface, a clean codebase and a fantastic community.
