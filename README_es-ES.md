@@ -555,69 +555,69 @@
 
 ### Internet
 
-#### Web Browser
-- [Brave](https://brave.com/) - Brave is a fast, good desktop browser for macOS, Windows, and Linux. [![Open-Source Software][OSS Icon]](https://github.com/brave/browser-laptop)
-- [Chrome](https://www.google.com/chrome/browser/desktop/index.html) - A popular Web Browser with a lot of plugins/apps.
-- [Chromium](http://askubuntu.com/questions/250773/how-do-i-install-chromium-from-the-command-line) - Chromium is an open-source browser project that aims to build a safer, faster, and more stable way for all users to experience the web. [![Open-Source Software][OSS Icon]](https://www.chromium.org/)
-- [Firefox](https://www.mozilla.org/en-US/firefox/new/) - A popular Web Browsers with a lot of plugins/apps. [![Open-Source Software][OSS Icon]](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide)
-- [IceCat](https://www.gnu.org/software/gnuzilla/) - GNU version of Firefox built for privacy, using only free software and free of trademarks. [![Open-Source Software][OSS Icon]](https://git.savannah.gnu.org/cgit/gnuzilla.git)
-- [Midori](http://midori-browser.org/) - A lightweight free browser that runs well on low spec systems.  [![Open-Source Software][OSS Icon]](https://launchpad.net/~midori/+archive/ubuntu/ppa).
-- [Min](https://minbrowser.github.io/min) - A smarter, faster web browser. [![Open-Source Software][OSS Icon]](https://github.com/minbrowser/min)
-- [Opera](http://www.opera.com/) - Opera browser is everything you need to do more on the web.
-- [QuteBrowser](https://www.qutebrowser.org/) - A keyboard-driven, vim-like browser based on PyQt5.   [![Open-Source Software][OSS Icon]](https://github.com/qutebrowser/qutebrowser)
-- [Vivaldi](https://vivaldi.com/?lang=en) - A new and rising browser with a lot of customizations. [![Open-Source Software][OSS Icon]](https://vivaldi.com/source/?lang=en)
-- [Yandex](https://browser.yandex.com/desktop/main/) - Fast and convenient browser.
+#### Navegador web
+- [Brave](https://brave.com/) - Brave es un navegador web rápido y fácil de usar, que bloquea los anuncios de forma predeterminada. [![Open-Source Software][OSS Icon]](https://github.com/brave/browser-laptop)
+- [Chrome](https://www.google.com/chrome/browser/desktop/index.html) - el navegador web más popular del mundo.
+- [Chromium](http://askubuntu.com/questions/250773/how-do-i-install-chromium-from-the-command-line) - Chromium es el proyecto de código abierto en el que se basa Google Chrome. [![Open-Source Software][OSS Icon]](https://www.chromium.org/)
+- [Firefox](https://www.mozilla.org/en-US/firefox/new/) - Un popular navegador web que es bien conocido por tener muchos complementos para mejorar la funcionalidad. [![Open-Source Software][OSS Icon]](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide)
+- [IceCat](https://www.gnu.org/software/gnuzilla/) - Una versión de código abierto del navegador web de Firefox. Sólo utiliza software de código abierto. [![Open-Source Software][OSS Icon]](https://git.savannah.gnu.org/cgit/gnuzilla.git)
+- [Midori](http://midori-browser.org/) - Un navegador web diseñado para no utilizar mucha potencia del sistema.  [![Open-Source Software][OSS Icon]](https://launchpad.net/~midori/+archive/ubuntu/ppa).
+- [Min](https://minbrowser.github.io/min) - es un navegador web muy minimalista y elegante. [![Open-Source Software][OSS Icon]](https://github.com/minbrowser/min)
+- [Opera](http://www.opera.com/) - Es un navegador web capaz, también fue el primero en tener "Smart Dial" funcionalidad.
+- [QuteBrowser](https://www.qutebrowser.org/) - es un navegador diseñado para ser utilizado con el teclado, y tiene muchos VIM como atajos.   [![Open-Source Software][OSS Icon]](https://github.com/qutebrowser/qutebrowser)
+- [Vivaldi](https://vivaldi.com/?lang=en) - Un navegador que está creciendo en popularidad, es el navegador más personalizable que puedes descargar. [![Open-Source Software][OSS Icon]](https://vivaldi.com/source/?lang=en)
+- [Yandex](https://browser.yandex.com/desktop/main/) - un navegador web rápido y fácil de usar.
 
-#### Supportive Tool
-- [Clipgrab](https://clipgrab.org/) - A friendly downloader for YouTube and other sites.
-- [Tor](https://www.torproject.org/) - Tor is free software and an open network that helps you defend against traffic analysis, a form of network surveillance that threatens personal freedom and privacy.
-- [youtube-dl](https://github.com/rg3/youtube-dl) - It can download videos from youtube.com or other video platforms. It's really awesome, at least for me.  [![Open-Source Software][OSS Icon]](https://github.com/rg3/youtube-dl)
-- [youtube-dlg](https://mrs0m30n3.github.io/youtube-dl-gui/#downloads) Youtube-dlg is a GUI for youtube-dl and allows for simple copy and paste from all youtube-dl compatible websites. It can auto-update youtube-dl as well as process a list of URL's in parallel. [![Open-Source Software][OSS Icon]](https://github.com/MrS0m30n3/youtube-dl-gui)
+#### Herramienta de navegador web
+- [Clipgrab](https://clipgrab.org/) - Un descargador fácil de usar para youtube y otros sitios web.
+- [Tor](https://www.torproject.org/) - Tor es un software libre y una red que le permite navegar en la privacidad.
+- [youtube-dl](https://github.com/rg3/youtube-dl) - Es un programa que puede descargar videos de youtube.com y otros sitios web de video.  [![Open-Source Software][OSS Icon]](https://github.com/rg3/youtube-dl)
+- [youtube-dlg](https://mrs0m30n3.github.io/youtube-dl-gui/#downloads) Youtube-dlg Es una GUI para youtube-dl que te permite copiar y pegar el enlace de un sitio web de video, y puede procesar las descargas en paralelo. [![Open-Source Software][OSS Icon]](https://github.com/MrS0m30n3/youtube-dl-gui)
 
-#### Web Service Client
-- [Corebird](http://corebird.baedert.org/) - corebird is native gtk+ twitter desktop client.  [![Open-Source Software][OSS Icon]](https://github.com/baedert/corebird)
-- [FeedReader](https://github.com/jangernert/FeedReader) -  a modern desktop application designed to complement existing web-based RSS accounts, combines all the advantages of web based services and modern desktop application.   [![Open-Source Software][OSS Icon]](https://github.com/jangernert/FeedReader)
-- [FeedTheMonkey](https://github.com/jeena/FeedTheMonkey/releases) - FeedTheMonkey is a desktop client for TinyTinyRSS.  [![Open-Source Software][OSS Icon]](https://github.com/jeena/FeedTheMonkey)
-- [GnomeTwitch](http://gnome-twitch.vinszent.com/) - Enjoy Twitch on your GNU/Linux desktop with this Twitch non-Adobe-flash client.  [![Open-Source Software][OSS Icon]](https://github.com/vinszent/gnome-twitch)
-- [Kaku](https://github.com/EragonJ/Kaku/releases) - An opensource youtube music player for Ubuntu.  [![Open-Source Software][OSS Icon]](https://github.com/EragonJ/Kaku)
-- [Popcorntime](https://www.popcorn-time.to/) - Watch torrent movies instantly.  [![Open-Source Software][OSS Icon]](https://www.popcorn-time.to/source.html)
+#### Cliente de servicios web
+- [Corebird](http://corebird.baedert.org/) - Corebird es una aplicación diseñada en GTK + para twitter.  [![Open-Source Software][OSS Icon]](https://github.com/baedert/corebird)
+- [FeedReader](https://github.com/jangernert/FeedReader) -  Una aplicación de escritorio moderna que está diseñada para aceptar feeds RSS. [![Open-Source Software][OSS Icon]](https://github.com/jangernert/FeedReader)
+- [FeedTheMonkey](https://github.com/jeena/FeedTheMonkey/releases) - FeedTheMonkey es un cliente de escritorio para TinyTinyRSS. [![Open-Source Software][OSS Icon]](https://github.com/jeena/FeedTheMonkey)
+- [GnomeTwitch](http://gnome-twitch.vinszent.com/) - Un cliente Twitch que no requiere Adobe Flash. [![Open-Source Software][OSS Icon]](https://github.com/vinszent/gnome-twitch)
+- [Kaku](https://github.com/EragonJ/Kaku/releases) - Un reproductor de música de código abierto para youtube. [![Open-Source Software][OSS Icon]](https://github.com/EragonJ/Kaku)
+- [Popcorntime](https://www.popcorn-time.to/) - Una aplicación que te permite transmitir películas, mediante el uso de torrents. [![Open-Source Software][OSS Icon]](https://www.popcorn-time.to/source.html)
 
 
-### Office
+### Oficina
 
-#### Accounting
-- [GnuCash](https://www.gnucash.org/) - GnuCash is a free software accounting program that implements a double-entry bookkeeping system. It was initially aimed at developing capabilities similar to Intuit, Inc.'s Quicken application, but also has features for small business accounting.  [![Open-Source Software][OSS Icon]](https://github.com/Gnucash/)
-- [KMyMoney](https://kmymoney.org/) - KMyMoney is the personal finance manager by KDE. Its operation is similar to Microsoft Money and Quicken.  [![Open-Source Software][OSS Icon]](https://github.com/KDE/kmymoney)
+#### Contabilidad
+- [GnuCash](https://www.gnucash.org/) - GnuCash es un software de código abierto que es un sistema de contabilidad. Está diseñado para ser similar a Intuit Quicken. [![Open-Source Software][OSS Icon]](https://github.com/Gnucash/)
+- [KMyMoney](https://kmymoney.org/) - KMyMoney es un administrador de finanzas personales creado por el proyecto KDE. [![Open-Source Software][OSS Icon]](https://github.com/KDE/kmymoney)
 
 #### Office Suites
-- [Caligra Office](https://www.calligra.org/) - offers a comprehensive set of 8 applications which satisfies the office, graphics and management needs.
-- [LibreOffice](https://www.libreoffice.org/) - Arguably the most popular office suite for Linux, it is very heavily developed and widely known. [![Open-Source Software][OSS Icon]](https://www.libreoffice.org/about-us/source-code/)
-- [OnlyOffice](https://www.onlyoffice.com/) - An office suite that charges for a cloud version of itself, but is free for other uses. [![Open-Source Software][OSS Icon]](https://github.com/ONLYOFFICE)
-- [WPS office](http://wps-community.org/) - A popular office suite in China, but is fully translated and functions well in English.
+- [Caligra Office](https://www.calligra.org/) - Un conjunto de ocho aplicaciones que permiten al usuario las necesidades de una hoja de cálculo, un procesador de textos y un gestor de presentaciones.
+- [LibreOffice](https://www.libreoffice.org/) - El programa de oficina más popular para Linux. Siempre está mejorando, y está incluido con muchas versiones de Linux. [![Open-Source Software][OSS Icon]](https://www.libreoffice.org/about-us/source-code/)
+- [OnlyOffice](https://www.onlyoffice.com/) - Un conjunto de programas de oficina que es gratuito, pero puede ser pagado para trabajar en la nube. [![Open-Source Software][OSS Icon]](https://github.com/ONLYOFFICE)
+- [WPS office](http://wps-community.org/) - Un conjunto de programas de oficina popular en China. Se traduce y funciona bien en otros idiomas.
 
 #### LaTeX
-- Gummi [gtk2](https://github.com/alexandervdm/gummi)|[gtk3](https://github.com/aitjcize/Gummi) - Simple latex editor with templates, spell check, and wizards. [![Open-Source Software][OSS Icon]](https://github.com/alexandervdm/gummi)
-- [LaTeXila](https://wiki.gnome.org/Apps/LaTeXila) - LaTeXila is a LaTeX editor for the GNOME desktop. [![Open-Source Software][OSS Icon]](https://git.gnome.org/browse/latexila)
-- [LyX](http://www.lyx.org/) - Mature document editor that renders into LaTeX .. [![Open-Source Software][OSS Icon]](https://github.com/yihui/lyx)
-- [TexLive](https://www.tug.org/texlive/) - TeX Live is an easy way to get up and running with the TeX document production system.  [![Open-Source Software][OSS Icon]](https://www.tug.org/texlive/build.html)
-- [TeXmacs](http://www.texmacs.org/) - Free scientific text editor, inspired by TeX and GNU Emacs. WYSIWYG editor and CAS-interface. [![Open-Source Software][OSS Icon]](https://savannah.gnu.org/projects/texmacs)
-- [Texmaker](http://www.xm1math.net/texmaker/) - Free cross-platform LaTeX editor. [![Open-Source Software][OSS Icon]](http://www.xm1math.net/texmaker/download.html)
-- [TeXworks](https://www.tug.org/texworks/) - TeXworks is an environment for authoring TeX (LaTeX, ConTeXt, etc) documents, with a Unicode-based, TeX-aware editor, integrated PDF viewer, and a clean, simple interface accessible to casual and non-technical users. [![Open-Source Software][OSS Icon]](https://github.com/TeXworks/texworks)
+- Gummi [gtk2](https://github.com/alexandervdm/gummi)|[gtk3](https://github.com/aitjcize/Gummi) -Gummi es un editor sencillo con plantillas, corrector ortográfico y guías. [![Open-Source Software][OSS Icon]](https://github.com/alexandervdm/gummi)
+- [LaTeXila](https://wiki.gnome.org/Apps/LaTeXila) - LaTeXila es un editor LaTex para el entorno de escritorio de GNOME. [![Open-Source Software][OSS Icon]](https://git.gnome.org/browse/latexila)
+- [LyX](http://www.lyx.org/) - Un editor de documentos que puede procesar archivos LaTex. [![Open-Source Software][OSS Icon]](https://github.com/yihui/lyx)
+- [TexLive](https://www.tug.org/texlive/) - TeX Live proporciona una manera fácil de crear un sistema de producción de documentos "Tex". [![Open-Source Software][OSS Icon]](https://www.tug.org/texlive/build.html)
+- [TeXmacs](http://www.texmacs.org/) - Un editor de texto científico gratuito, está inspirado en GNU Emacs y TeX. [![Open-Source Software][OSS Icon]](https://savannah.gnu.org/projects/texmacs)
+- [Texmaker](http://www.xm1math.net/texmaker/) - Un editor código abierto multiplataforma LaTeX. [![Open-Source Software][OSS Icon]](http://www.xm1math.net/texmaker/download.html)
+- [TeXworks](https://www.tug.org/texworks/) - TeXworks es un entorno para la creación de archivos de documentos TeX. Incluye un visor de PDF, y tiene una interfaz fácil de usar. [![Open-Source Software][OSS Icon]](https://github.com/TeXworks/texworks)
 
 #### Markdown
-- [Ghost Writer](http://wereturtle.github.io/ghostwriter/) - A distraction-free Markdown editor for Windows and Linux.  [![Open-Source Software][OSS Icon]](http://github.com/wereturtle/ghostwriter).
-- [Remarkable](https://remarkableapp.github.io/) - A capable markdown editor that uses a variant of GitHub Flavored Markdown (GFM) [![Open-Source Software][OSS Icon]](https://github.com/jamiemcg/remarkable)
-- [Typora](https://typora.io/) - A Minimal markdown editor.
+- [Ghost Writer](http://wereturtle.github.io/ghostwriter/) - Un editor de Markdown que no tiene distracciones. Funciona en Windows y Linux. [![Open-Source Software][OSS Icon]](http://github.com/wereturtle/ghostwriter).
+- [Remarkable](https://remarkableapp.github.io/) - Un editor de Markdown capaz de usar una versión diferente de GitHub Markdown. [![Open-Source Software][OSS Icon]](https://github.com/jamiemcg/remarkable)
+- [Typora](https://typora.io/) - Un editor de Markdown mínimo y fácil de usar.
 
 #### Novel Writing
-- [Bibisco](http://www.bibisco.com/) - A novel writing software with focus on ideas and characters. [![Open-Source Software][OSS Icon]](https://github.com/andreafeccomandi/bibisco)
-- [Manuskript](http://www.theologeek.ch/manuskript/) - Manuskript is a perfect tool for those writer who like to organize and plan everything before writing. [![Open-Source Software][OSS Icon]](https://github.com/olivierkes/manuskript)
-- [Plume Creator](http://plume-creator.eu/) - An open-source tool for novelist that gives you an outliner, a distraction-free mode, a note manager and much more. [![Open-Source Software][OSS Icon]](https://github.com/jacquetc/plume-creator)
-- [Scribus](https://www.scribus.net/downloads/) - Scribus is a desktop publishing application designed for layout, typesetting, and preparation of files for professional-quality image-setting equipment. It can also create animated and interactive PDF presentations and forms. [![Open-Source Software][OSS Icon]](https://github.com/scribusproject/scribus)
-- [Trelby](http://www.trelby.org/) - Trelby is simple, fast and elegantly laid out to make screenwriting simple. [![Open-Source Software][OSS Icon]](https://github.com/oskusalerma/trelby)
+- [Bibisco](http://www.bibisco.com/) - Un programa para escribir novelas que se centra en la creación de ideas y personajes. [![Open-Source Software][OSS Icon]](https://github.com/andreafeccomandi/bibisco)
+- [Manuskript](http://www.theologeek.ch/manuskript/) - Manuskript es una herramienta para ayudar a un escritor a organizar y planificar antes de escribir. [![Open-Source Software][OSS Icon]](https://github.com/olivierkes/manuskript)
+- [Plume Creator](http://plume-creator.eu/) - Un programa de código abierto para un autor que tiene un administrador de notas y un modo sin distracción. [![Open-Source Software][OSS Icon]](https://github.com/jacquetc/plume-creator)
+- [Scribus](https://www.scribus.net/downloads/) - Es un programa para ayudar a publicar libros. Puede gestionar la tipografía y la preparación de archivos para equipos de configuración de imágenes. [![Open-Source Software][OSS Icon]](https://github.com/scribusproject/scribus)
+- [Trelby](http://www.trelby.org/) - Trelby es un simple, rápido y elegante diseño de software de guión. [![Open-Source Software][OSS Icon]](https://github.com/oskusalerma/trelby)
 
 
-### Productivity
+### Productividad
 
 #### Automation
 - [Actionaz](http://actionaz.org/) - Automation tasks utility for Ubuntu/Linux

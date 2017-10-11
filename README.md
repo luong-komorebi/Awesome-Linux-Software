@@ -561,12 +561,12 @@
 - [Brave](https://brave.com/) - Brave is a fast, good desktop browser for macOS, Windows, and Linux. [![Open-Source Software][OSS Icon]](https://github.com/brave/browser-laptop)
 - [Chrome](https://www.google.com/chrome/browser/desktop/index.html) - A popular Web Browser with a lot of plugins/apps.
 - [Chromium](http://askubuntu.com/questions/250773/how-do-i-install-chromium-from-the-command-line) - Chromium is an open-source browser project that aims to build a safer, faster, and more stable way for all users to experience the web. [![Open-Source Software][OSS Icon]](https://www.chromium.org/)
-- [Firefox](https://www.mozilla.org/en-US/firefox/new/) - A popular Web Browsers with a lot of plugins/apps. [![Open-Source Software][OSS Icon]](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide)
+- [Firefox](https://www.mozilla.org/en-US/firefox/new/) - A popular Web Browser with a lot of plugins/apps. [![Open-Source Software][OSS Icon]](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide)
 - [IceCat](https://www.gnu.org/software/gnuzilla/) - GNU version of Firefox built for privacy, using only free software and free of trademarks. [![Open-Source Software][OSS Icon]](https://git.savannah.gnu.org/cgit/gnuzilla.git)
-- [Midori](http://midori-browser.org/) - A lightweight free browser that runs well on low spec systems.  [![Open-Source Software][OSS Icon]](https://launchpad.net/~midori/+archive/ubuntu/ppa).
+- [Midori](http://midori-browser.org/) - A lightweight free browser that runs well on low spec systems. [![Open-Source Software][OSS Icon]](https://launchpad.net/~midori/+archive/ubuntu/ppa).
 - [Min](https://minbrowser.github.io/min) - A smarter, faster web browser. [![Open-Source Software][OSS Icon]](https://github.com/minbrowser/min)
 - [Opera](http://www.opera.com/) - Opera browser is everything you need to do more on the web.
-- [QuteBrowser](https://www.qutebrowser.org/) - A keyboard-driven, vim-like browser based on PyQt5.   [![Open-Source Software][OSS Icon]](https://github.com/qutebrowser/qutebrowser)
+- [QuteBrowser](https://www.qutebrowser.org/) - A keyboard-driven, vim-like browser based on PyQt5. [![Open-Source Software][OSS Icon]](https://github.com/qutebrowser/qutebrowser)
 - [Vivaldi](https://vivaldi.com/?lang=en) - A new and rising browser with a lot of customizations. [![Open-Source Software][OSS Icon]](https://vivaldi.com/source/?lang=en)
 - [Yandex](https://browser.yandex.com/desktop/main/) - Fast and convenient browser.
 
@@ -577,19 +577,19 @@
 - [youtube-dlg](https://mrs0m30n3.github.io/youtube-dl-gui/#downloads) Youtube-dlg is a GUI for youtube-dl and allows for simple copy and paste from all youtube-dl compatible websites. It can auto-update youtube-dl as well as process a list of URL's in parallel. [![Open-Source Software][OSS Icon]](https://github.com/MrS0m30n3/youtube-dl-gui)
 
 #### Web Service Client
-- [Corebird](http://corebird.baedert.org/) - corebird is native gtk+ twitter desktop client.  [![Open-Source Software][OSS Icon]](https://github.com/baedert/corebird)
-- [FeedReader](https://github.com/jangernert/FeedReader) -  a modern desktop application designed to complement existing web-based RSS accounts, combines all the advantages of web based services and modern desktop application.   [![Open-Source Software][OSS Icon]](https://github.com/jangernert/FeedReader)
-- [FeedTheMonkey](https://github.com/jeena/FeedTheMonkey/releases) - FeedTheMonkey is a desktop client for TinyTinyRSS.  [![Open-Source Software][OSS Icon]](https://github.com/jeena/FeedTheMonkey)
-- [GnomeTwitch](http://gnome-twitch.vinszent.com/) - Enjoy Twitch on your GNU/Linux desktop with this Twitch non-Adobe-flash client.  [![Open-Source Software][OSS Icon]](https://github.com/vinszent/gnome-twitch)
-- [Kaku](https://github.com/EragonJ/Kaku/releases) - An opensource youtube music player for Ubuntu.  [![Open-Source Software][OSS Icon]](https://github.com/EragonJ/Kaku)
-- [Popcorntime](https://www.popcorn-time.to/) - Watch torrent movies instantly.  [![Open-Source Software][OSS Icon]](https://www.popcorn-time.to/source.html)
+- [Corebird](http://corebird.baedert.org/) - Corebird is native gtk+ twitter desktop client. [![Open-Source Software][OSS Icon]](https://github.com/baedert/corebird)
+- [FeedReader](https://github.com/jangernert/FeedReader) - A modern desktop application designed to complement existing web-based RSS accounts, combines all the advantages of web based services and modern desktop application. [![Open-Source Software][OSS Icon]](https://github.com/jangernert/FeedReader)
+- [FeedTheMonkey](https://github.com/jeena/FeedTheMonkey/releases) - FeedTheMonkey is a desktop client for TinyTinyRSS. [![Open-Source Software][OSS Icon]](https://github.com/jeena/FeedTheMonkey)
+- [GnomeTwitch](http://gnome-twitch.vinszent.com/) - Enjoy Twitch on your GNU/Linux desktop with this Twitch non-Adobe-flash client. [![Open-Source Software][OSS Icon]](https://github.com/vinszent/gnome-twitch)
+- [Kaku](https://github.com/EragonJ/Kaku/releases) - An opensource youtube music player for Ubuntu. [![Open-Source Software][OSS Icon]](https://github.com/EragonJ/Kaku)
+- [Popcorntime](https://www.popcorn-time.to/) - Watch torrent movies instantly. [![Open-Source Software][OSS Icon]](https://www.popcorn-time.to/source.html)
 
 
 ### Office
 
 #### Accounting
-- [GnuCash](https://www.gnucash.org/) - GnuCash is a free software accounting program that implements a double-entry bookkeeping system. It was initially aimed at developing capabilities similar to Intuit, Inc.'s Quicken application, but also has features for small business accounting.  [![Open-Source Software][OSS Icon]](https://github.com/Gnucash/)
-- [KMyMoney](https://kmymoney.org/) - KMyMoney is the personal finance manager by KDE. Its operation is similar to Microsoft Money and Quicken.  [![Open-Source Software][OSS Icon]](https://github.com/KDE/kmymoney)
+- [GnuCash](https://www.gnucash.org/) - GnuCash is a free software accounting program that implements a double-entry bookkeeping system. It was initially aimed at developing capabilities similar to Intuit, Inc.'s Quicken application, but also has features for small business accounting. [![Open-Source Software][OSS Icon]](https://github.com/Gnucash/)
+- [KMyMoney](https://kmymoney.org/) - KMyMoney is the personal finance manager by KDE. Its operation is similar to Microsoft Money and Quicken. [![Open-Source Software][OSS Icon]](https://github.com/KDE/kmymoney)
 
 #### Office Suites
 - [Caligra Office](https://www.calligra.org/) - offers a comprehensive set of 8 applications which satisfies the office, graphics and management needs.
@@ -600,8 +600,8 @@
 #### LaTeX
 - Gummi [gtk2](https://github.com/alexandervdm/gummi)|[gtk3](https://github.com/aitjcize/Gummi) - Simple latex editor with templates, spell check, and wizards. [![Open-Source Software][OSS Icon]](https://github.com/alexandervdm/gummi)
 - [LaTeXila](https://wiki.gnome.org/Apps/LaTeXila) - LaTeXila is a LaTeX editor for the GNOME desktop. [![Open-Source Software][OSS Icon]](https://git.gnome.org/browse/latexila)
-- [LyX](http://www.lyx.org/) - Mature document editor that renders into LaTeX .. [![Open-Source Software][OSS Icon]](https://github.com/yihui/lyx)
-- [TexLive](https://www.tug.org/texlive/) - TeX Live is an easy way to get up and running with the TeX document production system.  [![Open-Source Software][OSS Icon]](https://www.tug.org/texlive/build.html)
+- [LyX](http://www.lyx.org/) - Mature document editor that renders into LaTeX. [![Open-Source Software][OSS Icon]](https://github.com/yihui/lyx)
+- [TexLive](https://www.tug.org/texlive/) - TeX Live is an easy way to get up and running with the TeX document production system. [![Open-Source Software][OSS Icon]](https://www.tug.org/texlive/build.html)
 - [TeXmacs](http://www.texmacs.org/) - Free scientific text editor, inspired by TeX and GNU Emacs. WYSIWYG editor and CAS-interface. [![Open-Source Software][OSS Icon]](https://savannah.gnu.org/projects/texmacs)
 - [Texmaker](http://www.xm1math.net/texmaker/) - Free cross-platform LaTeX editor. [![Open-Source Software][OSS Icon]](http://www.xm1math.net/texmaker/download.html)
 - [TeXworks](https://www.tug.org/texworks/) - TeXworks is an environment for authoring TeX (LaTeX, ConTeXt, etc) documents, with a Unicode-based, TeX-aware editor, integrated PDF viewer, and a clean, simple interface accessible to casual and non-technical users. [![Open-Source Software][OSS Icon]](https://github.com/TeXworks/texworks)
