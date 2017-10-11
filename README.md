@@ -418,10 +418,11 @@
 - [Double Commander](http://doublecmd.sourceforge.net/) - Double Commander is a cross platform open source file manager with two panels side by side. It is inspired by Total Commander and features some new ideas.
 - [Krusader](https://krusader.org) - Krusader is an advanced twin panel (commander style) file manager for KDE and other desktops in the \*nix world, similar to Midnight or Total Commander. [![Open-Source Software][OSS Icon]](https://krusader.org/get-involved/index.html)
 - [Midnight Commander](https://www.midnight-commander.org/) - A feature rich full-screen file manager that allows you to copy, move and delete files and whole directory trees. [![Open-Source Software][OSS Icon]](https://github.com/MidnightCommander)
-- [Nautilus](https://wiki.gnome.org/Apps/Nautilus) - Nautilus (Files) is a file manager designed to fit the Gnome desktop design and behaviour, giving the user a simple way to navigate and manage its files. [![Open-Source Software][OSS Icon]](https://github.com/GNOME/nautilus)
-- [Nemo](http://askubuntu.com/questions/294421/how-do-i-install-nemo-file-manager) - Nemo is the file manager for the Cinnamon desktop environment. [![Open-Source Software][OSS Icon]](https://github.com/linuxmint/nemo)
-- [QDirStat](https://github.com/shundhammer/qdirstat#ubuntu) - Qt-based directory statistics - KDirStat without any KDE, from the original KDirStat author. [![Open-Source Software][OSS Icon]](https://github.com/shundhammer/qdirstat)
-- [Ranger](http://ranger.nongnu.org/) - Ranger is a console file manager with VI key bindings. [![Open-Source Software][OSS Icon]](https://github.com/ranger/ranger)
+- [Nautilus](https://wiki.gnome.org/Apps/Nautilus) - Nautilus (Files) is a file manager designed to fit the Gnome desktop design and behaviour, giving the user a simple way to navigate and manage its files.[![Open-Source Software][OSS Icon]](https://github.com/GNOME/nautilus)
+- [Nemo](http://askubuntu.com/questions/294421/how-do-i-install-nemo-file-manager) - Nemo is the file manager for the Cinnamon desktop environment.[![Open-Source Software][OSS Icon]](https://github.com/linuxmint/nemo)
+- [nnn](https://github.com/jarun/nnn) - A very lightweight and fast terminal file browser with excellent desktop integration. [![Open-Source Software][OSS Icon]](https://github.com/jarun/nnn)
+- [QDirStat](https://github.com/shundhammer/qdirstat#ubuntu) - Qt-based directory statistics - KDirStat without any KDE, from the original KDirStat author.[![Open-Source Software][OSS Icon]](https://github.com/shundhammer/qdirstat)
+- [Ranger](http://ranger.nongnu.org/) - Ranger is a console file manager with VI key bindings.[![Open-Source Software][OSS Icon]](https://github.com/ranger/ranger)
 - [Thunar](https://apps.ubuntu.com/cat/applications/precise/thunar/) - Thunar is the file manager designed to be the default file manager of Xfce 4.6 It has been designed to be fast and easy to use. [![Open-Source Software][OSS Icon]](https://github.com/luisgg/thunar)
 - [Vifm](https://vifm.info/) - Vifm is an ncurses based file manager with VI like keybindings, which also borrows some useful ideas from mutt. [![Open-Source Software][OSS Icon]](https://github.com/vifm/vifm)
 
@@ -501,6 +502,7 @@
 - [GIMP](https://www.gimp.org/downloads/) - GIMP is a freely distributed program for such tasks as photo retouching, image composition and image authoring. [![Open-Source Software][OSS Icon]](https://github.com/GNOME/gimp)
 - [Hugin](http://hugin.sourceforge.net/) - an easy to use cross-platform panoramic imaging toolchain based on Panorama Tools.
 - [ImageMagik](http://www.imagemagick.org/script/index.php) - ImageMagick is a suite of command-line utilities for modifying and working with images.
+- [imgp](https://github.com/jarun/imgp) - Blazing fast terminal image resizer and rotator. [![Open-Source Software][OSS Icon]](https://github.com/jarun/imgp)
 - [Luminance HDR](http://qtpfsgui.sourceforge.net/) - Luminance HDR is an open source graphical user interface application that aims to provide a workflow for HDR imaging. [![Open-Source Software][OSS Icon]](https://github.com/LuminanceHDR/LuminanceHDR)
 - [Photivo](http://photivo.org/) - Photivo is a free and open source (GPL3) photo processor, handles your RAW and bitmap files (TIFF, JPEG, BMP, PNG and many more) in a non-destructive 16 bit processing pipe with gimp workflow integration and batch mode. It is intended to be used in a workflow together with digiKam/F-Spot/Shotwell and Gimp. [![Open-Source Software][OSS Icon]](https://github.com/google-code-export/photivo)
 - [Pixelitor](http://pixelitor.sourceforge.net/) - Pixelitor is a free and open source image editing software that supports layers, layer masks, text layers, filters, multiple undo etc. [![Open-Source Software][OSS Icon]](https://github.com/lbalazscs/Pixelitor)
@@ -571,7 +573,9 @@
 - [Yandex](https://browser.yandex.com/desktop/main/) - Fast and convenient browser.
 
 #### Supportive Tool
+- [Buku](https://github.com/jarun/Buku) - Command line bookmark manager.[![Open-Source Software][OSS Icon]](https://github.com/jarun/Buku)
 - [Clipgrab](https://clipgrab.org/) - A friendly downloader for YouTube and other sites.
+- [googler](https://github.com/jarun/googler) - Google any stuff right in the command line.[![Open-Source Software][OSS Icon]](https://github.com/jarun/googler)
 - [Tor](https://www.torproject.org/) - Tor is free software and an open network that helps you defend against traffic analysis, a form of network surveillance that threatens personal freedom and privacy.
 - [youtube-dl](https://github.com/rg3/youtube-dl) - It can download videos from youtube.com or other video platforms. It's really awesome, at least for me.  [![Open-Source Software][OSS Icon]](https://github.com/rg3/youtube-dl)
 - [youtube-dlg](https://mrs0m30n3.github.io/youtube-dl-gui/#downloads) Youtube-dlg is a GUI for youtube-dl and allows for simple copy and paste from all youtube-dl compatible websites. It can auto-update youtube-dl as well as process a list of URL's in parallel. [![Open-Source Software][OSS Icon]](https://github.com/MrS0m30n3/youtube-dl-gui)
@@ -640,10 +644,12 @@
 
 #### Miscellaneous
 - [Ambient Noise](https://itsfoss.com/ambient-noise-music-player-ubuntu/) - Install ambient noise for extra focus on Linux.
+- [bcal](https://github.com/jarun/bcal) - Perform storage conversions and calculations. [![Open-Source Software][OSS Icon]](https://github.com/jarun/bcal)
 - [CopyQ](http://hluk.github.io/CopyQ/) -CopyQ is advanced clipboard manager with editing and scripting features. [![Open-Source Software][OSS Icon]](https://github.com/hluk/CopyQ)
 - [f.lux](https://justgetflux.com/linux.html) - Automatically adjust your computer screen to match lighting.
 - [Gpick](http://www.gpick.org/) - Gpick allows you to sample any color from anywhere on your desktop, and it also provides some other advanced features! [![Open-Source Software][OSS Icon]](https://github.com/thezbyg/gpick)
-- [Redshift](http://jonls.dk/redshift/) - Redshift adjusts the color temperature of your screen according to your surroundings. This may help your eyes hurt less if you are working in front of the screen at night. [![Open-Source Software][OSS Icon]](https://github.com/jonls/redshift)
+- [pdd](https://github.com/jarun/pdd) - Tiny date, time diff calculator. [![Open-Source Software][OSS Icon]](https://github.com/jarun/pdd)
+- [Redshift](http://jonls.dk/redshift/) - Redshift adjusts the color temperature of your screen according to your surroundings. This may help your eyes hurt less if you are working in front of the screen at night.[![Open-Source Software][OSS Icon]](https://github.com/jonls/redshift)
 - [SpeedCrunch](http://www.speedcrunch.org/) - A nice, open source, high-precision scientific calculator. [![Open-Source Software][OSS Icon]](http://www.speedcrunch.org/)
 - [Undistract me](https://github.com/jml/undistract-me) - Notifies you when long-running terminal commands complete. [![Open-Source Software][OSS Icon]](https://github.com/jml/undistract-me)
 - [Xmind](http://www.xmind.net/) - Mind Mapping Tool.
@@ -695,6 +701,7 @@
 - [GnuPG](https://www.gnupg.org/) - Gnu Privacy Guard
 - [GuFW](http://gufw.org/) - One of the easiest firewalls in the world of Linux. [![Open-Source Software][OSS Icon]](https://code.launchpad.net/gui-ufw)
 - [IPrange](https://github.com/firehol/iprange) - A very fast command line utility for processing IP lists (merge, compare, exclude, etc). [![Open-Source Software][OSS Icon]](https://github.com/firehol/iprange)
+- [keysniffer](https://github.com/jarun/keysniffer) - Linux kernel mode debugfs keylogger. [![Open-Source Software][OSS Icon]](https://github.com/jarun/keysniffer)
 - [Lynis](https://cisofy.com/lynis/) - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional. [![Open-Source Software][OSS Icon]](https://github.com/CISOfy/lynis)
 - [OpenSSH](http://www.openssh.com/) - OpenSSH Secure Shell Server and Client
 - [Password Safe](https://pwsafe.org/) - Password Safe allows you to safely and easily create a secured and encrypted user name/password list. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/passwordsafe/)
@@ -777,7 +784,7 @@
 - [indicator-multiload](https://launchpad.net/ubuntu/+source/indicator-multiload) - Graphical system load indicator for CPU, ram, etc.
 - [Indicator-SysMonitor](https://github.com/fossfreedom/indicator-sysmonitor) - An Application Indicator showing cpu temperature, memory, network speed, cpu usage,  public IP address and internet connection status. [![Open-Source Software][OSS Icon]](https://github.com/fossfreedom/indicator-sysmonitor)
 - [KeePassXC](https://keepassxc.org/) - Cross platform password manager. A Community-maintained fork of KeePassX([dead](https://github.com/keepassx/keepassx/pull/204)) [![Open-Source Software][OSS Icon]](https://github.com/keepassxreboot/keepassxc)
-- [KeePass](https://www.keepass.info/) - Windows focused password manager, with some cross platform support through Mono.  
+- [KeePass](https://www.keepass.info/) - Windows focused password manager, with some cross platform support through Mono.
 - [KeeWeb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass [![Open-Source Software][OSS Icon]](https://github.com/keeweb/keeweb)
 - [Komorebi](https://github.com/iabem97/komorebi/releases) - Komorebi is a background manager for all Linux platforms, provides fully customizeable backgrounds that can be tweaked at any time. [![Open-Source Software][OSS Icon]](https://github.com/iabem97/komorebi)
 - [KVM](http://www.linux-kvm.org/page/Main_Page) - KVM (for Kernel-based Virtual Machine) is a full virtualization solution for Linux on x86 hardware containing virtualization extensions (Intel VT or AMD-V). [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/kvm/files/)
@@ -836,6 +843,7 @@
 - [Polychromatic](https://github.com/lah7/polychromatic) - Graphical front end and tray applet for configuring Razer peripherals on GNU/Linux. [![Open-Source Software][OSS Icon]](https://github.com/lah7/polychromatic)
 
 ## Command Line Utilities
+
 - [2048](https://itsfoss.com/best-command-line-games-linux/) - Play the famous 2048 in commandline. [![Open-Source Software][OSS Icon]](https://itsfoss.com/best-command-line-games-linux/)
 - [Bastet](https://github.com/fph/bastet) - Play Tetris in commandline. [![Open-Source Software][OSS Icon]](https://github.com/fph/bastet)
 - [Backgammon](https://itsfoss.com/best-command-line-games-linux/) - Play Backgammon in commandline. [![Open-Source Software][OSS Icon]](https://itsfoss.com/best-command-line-games-linux/)
@@ -1073,7 +1081,7 @@
 
 Thanks to [**All of Github contributors**](https://github.com/LewisVo/Awesome-Linux-Software/graphs/contributors) for making this list possible and
 *Everyone @ reddit.com/r/linux & reddit.com/r/ubuntu & vozforums.com & other forums for many suggestions and compliments*
- ...   
+ ...
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -1111,7 +1119,7 @@ Thanks to [**All of Github contributors**](https://github.com/LewisVo/Awesome-Li
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
 <div id='donation'/>
-<a href="https://www.patreon.com/luongtranthanhvo"><img src="http://i.imgur.com/xrhJFXb.png" height="40px"></a> <a href="https://www.paypal.me/LuongTranThanhVo"><img src="http://i.imgur.com/O7lPSEP.png" height="40px" ></a> <a href="https://beerpay.io/LewisVo/Minitask"><img src="https://beerpay.io/LewisVo/Minitask/badge.svg" /></a>  
+<a href="https://www.patreon.com/luongtranthanhvo"><img src="http://i.imgur.com/xrhJFXb.png" height="40px"></a> <a href="https://www.paypal.me/LuongTranThanhVo"><img src="http://i.imgur.com/O7lPSEP.png" height="40px" ></a> <a href="https://beerpay.io/LewisVo/Minitask"><img src="https://beerpay.io/LewisVo/Minitask/badge.svg" /></a>
 
 
 A beer in your country can buy a meal in mine.
