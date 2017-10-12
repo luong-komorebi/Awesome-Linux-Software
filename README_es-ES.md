@@ -679,79 +679,78 @@
 - [Recent Noti](https://itsfoss.com/7-best-indicator-applets-for-ubuntu-13-10/) - Un indicador para las notificaciones recientes.
 
 ### Proxy
-- [Privoxy](https://www.privoxy.org/) - Privoxy is a non-caching web proxy with advanced filtering capabilities for enhancing privacy, modifying web page data and HTTP headers, controlling access, and removing ads and other obnoxious Internet junk. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/ijbswa/)
-- [ProxyChains](https://github.com/haad/proxychains) - A tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy. [![Open-Source Software][OSS Icon]](https://github.com/haad/proxychains)
-- [Shadowsocks](https://shadowsocks.org/en/index.html) - A secure socks5 proxy, designed to protect your Internet traffic. [![Open-Source Software][OSS Icon]](https://github.com/shadowsocks/shadowsocks-qt5/releases)
+- [Privoxy](https://www.privoxy.org/) - Privoxy es un proxy web no caché que tiene filtros para mejorar la privacidad. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/ijbswa/)
+- [ProxyChains](https://github.com/haad/proxychains) - una herramienta que puede hacer una conexión tcp pasar por TOR, o un proxy. [![Open-Source Software][OSS Icon]](https://github.com/haad/proxychains)
+- [Shadowsocks](https://shadowsocks.org/en/index.html) - un proxy SOCKS5 diseñado para ofrecer privacidad en línea. [![Open-Source Software][OSS Icon]](https://github.com/shadowsocks/shadowsocks-qt5/releases)
 
-### Security
-- [ClamAV](https://www.clamav.net/) - Clam Anti Virus
-- [Fail2ban](http://www.fail2ban.org/wiki/index.php/Main_Page) - Fail2ban scans log files (e.g. /var/log/apache/error_log) and bans IPs that show the malicious signs -- too many password failures, seeking for exploits, etc.
-- [FireHOL](https://firehol.org) - Linux firewall (`iptables`) manager for humans. [![Open-Source Software][OSS Icon]](https://github.com/firehol/firehol)
-- [FireQoS](https://github.com/firehol/netdata/wiki/You-should-install-QoS-on-all-your-servers) - Linux QoS (`tc`) manager for humans. [![Open-Source Software][OSS Icon]](https://firehol.org/tutorial/fireqos-new-user/)
-- [Firewalld](https://github.com/firewalld/firewalld) - Firewalld provides a dynamically managed firewall with support for network or
- firewall zones to define the trust level of network connections or interfaces. [![Open-Source Software][OSS Icon]](https://github.com/firewalld/firewalld)
-- [GnuPG](https://www.gnupg.org/) - Gnu Privacy Guard
-- [GuFW](http://gufw.org/) - One of the easiest firewalls in the world of Linux. [![Open-Source Software][OSS Icon]](https://code.launchpad.net/gui-ufw)
-- [IPrange](https://github.com/firehol/iprange) - A very fast command line utility for processing IP lists (merge, compare, exclude, etc). [![Open-Source Software][OSS Icon]](https://github.com/firehol/iprange)
-- [Lynis](https://cisofy.com/lynis/) - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional. [![Open-Source Software][OSS Icon]](https://github.com/CISOfy/lynis)
-- [OpenSSH](http://www.openssh.com/) - OpenSSH Secure Shell Server and Client
-- [Password Safe](https://pwsafe.org/) - Password Safe allows you to safely and easily create a secured and encrypted user name/password list. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/passwordsafe/)
-- [Pass](https://www.passwordstore.org/) - the standard unix password manager. [![Open-Source Software][OSS Icon]](https://git.zx2c4.com/password-store/)
-- [Seahorse](https://wiki.gnome.org/Apps/Seahorse) - Gnome frontend for GnuPG[![Open-Source Software][OSS Icon]](https://wiki.gnome.org/Apps/Seahorse)
-- [Tcpdump](http://www.tcpdump.org/) - TCP Debugging/Capture Tool[![Open-Source Software][OSS Icon]](http://www.tcpdump.org/#source)
-- [Update-IPsets](https://iplists.firehol.org) - A manager for all cybercrime IP feeds that can download, convert and install netfilter `ipsets`. [![Open-Source Software][OSS Icon]](https://github.com/firehol/blocklist-ipsets)
+### Seguridad
+- [ClamAV](https://www.clamav.net/) - Clamav es un antivirus que es de código abierto y puede proteger un equipo contra virus.
+- [Fail2ban](http://www.fail2ban.org/wiki/index.php/Main_Page) - Fail2ban puede escanear archivos de registro y prohibir las direcciones IP que muestren signos maliciosos, como demasiados intentos de contraseña, o cavar para exploits.
+- [FireHOL](https://firehol.org) - Un controlador de firewall para (`iptables`) Linux, que es fácil de usar. [![Open-Source Software][OSS Icon]](https://github.com/firehol/firehol)
+- [FireQoS](https://github.com/firehol/netdata/wiki/You-should-install-QoS-on-all-your-servers) - Un firewall de Linux QoS (Calidad de servicio) de gestión que es fácil de usar. [![Open-Source Software][OSS Icon]](https://firehol.org/tutorial/fireqos-new-user/)
+- [Firewalld](https://github.com/firewalld/firewalld) - Firewalld es un firewall gestionado dinámicamente con soporte para zonas de red y firewall, para proporcionar diferentes niveles de confianza para diferentes conexiones. [![Open-Source Software][OSS Icon]](https://github.com/firewalld/firewalld)
+- [GnuPG](https://www.gnupg.org/) - GnuPG le permite cifrar sus archivos con un sistema de gestión de claves.
+- [GuFW](http://gufw.org/) - Un administrador de cortafuegos muy fácil de usar. [![Open-Source Software][OSS Icon]](https://code.launchpad.net/gui-ufw)
+- [IPrange](https://github.com/firehol/iprange) - Una herramienta para procesar listas de IP muy rápidamente. [![Open-Source Software][OSS Icon]](https://github.com/firehol/iprange)
+- [Lynis](https://cisofy.com/lynis/) - Una herramienta de auditoría de seguridad para sistemas Unix. Puede comprobar el cumplimiento de HIPAA / ISO27001 / PCI DSS, y el sistema de endurecimiento. [![Open-Source Software][OSS Icon]](https://github.com/CISOfy/lynis)
+- [OpenSSH](http://www.openssh.com/) - OpenSSH servidor y cliente de shell seguros.
+- [Password Safe](https://pwsafe.org/) - Password Safe es un programa que te permite crear una lista segura y encriptada de contraseñas y nombres de cuentas. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/passwordsafe/)
+- [Pass](https://www.passwordstore.org/) - El administrador de contraseñas Unix estándar. [![Open-Source Software][OSS Icon]](https://git.zx2c4.com/password-store/)
+- [Seahorse](https://wiki.gnome.org/Apps/Seahorse) - Una GUI de GNOME para GnuPG. [![Open-Source Software][OSS Icon]](https://wiki.gnome.org/Apps/Seahorse)
+- [Tcpdump](http://www.tcpdump.org/) - Una herramienta de captura y depuración de TCP. [![Open-Source Software][OSS Icon]](http://www.tcpdump.org/#source)
+- [Update-IPsets](https://iplists.firehol.org) - Un gestor de los ataques de ciberdelincuencia que puede descargar e instalar el netfilter `ipsets`. [![Open-Source Software][OSS Icon]](https://github.com/firehol/blocklist-ipsets)
 
-### Sharing Files
-- [aria2](https://aria2.github.io/) - aria2 is a lightweight multi-protocol & multi-source command-line download utility. [![Open-Source Software][OSS Icon]](https://github.com/aria2/aria2)
-- [CrossFTP](http://www.crossftp.com/ftp-client.htm) - CrossFTP makes it extremely simple to manage the FTP related tasks.
-- [D-lan](http://www.d-lan.net/) - A free LAN file sharing software.
-- [Deluge](http://deluge-torrent.org/) - Deluge is a lightweight, Free Software, cross-platform BitTorrent client. [![Open-Source Software][OSS Icon]](http://dev.deluge-torrent.org/wiki/Development#SourceCode)
-- [Dropbox](https://www.dropbox.com/install?os=lnx) - Dropbox is a free service that lets you bring your photos, docs, and videos anywhere and share them easily.
-- [Filezilla](https://filezilla-project.org/) - the free FTP solution [![Open-Source Software][OSS Icon]](https://filezilla-project.org/sourcecode.php)
-- [Flareget](https://flareget.com/) - Full featured, multi-threaded download manager and accelerator
-- [KTorrent](https://www.kde.org/applications/internet/ktorrent/) - KTorrent is a BitTorrent application by KDE which allows you to download files using the BitTorrent protocol. [![Open-Source Software][OSS Icon]](https://cgit.kde.org/ktorrent.git/tree//?)
-- [Mega](https://mega.nz/#sync) - Easy automated syncing between your computers and your MEGA cloud drive. [![Open-Source Software][OSS Icon]](https://github.com/meganz/MEGAsync)
-- [Meiga](http://meiga.igalia.com/) - a tool that makes possible to share selected local directories via web. [![Open-Source Software][OSS Icon]](http://git.igalia.com/meiga.git)
-- [NitroShare](https://nitroshare.net/) - Cross-Platform network file transfer application. [![Open-Source Software][OSS Icon]](https://github.com/nitroshare/nitroshare-desktop)
-- [ownCloud](https://owncloud.com/products/desktop-clients/) - The goal of ownCloud is to give you access to your files wherever you are
-- [PushBullet for desktop](https://sidneys.github.io/pb-for-desktop/) - The missing Desktop application for Pushbullet. [![Open-Source Software][OSS Icon]](https://github.com/sidneys/pb-for-desktop)
-- [PushBullet](https://www.pushbullet.com/) - Pushbullet connects your devices, making them feel like one.
-- [qBittorent](http://www.qbittorrent.org/) - The qBittorrent project aims to provide a Free Software alternative to µTorrent. [![Open-Source Software][OSS Icon]](https://github.com/qbittorrent/qBittorrent)
-- [Quazaa](https://sourceforge.net/projects/quazaa/) - A cross platform multi-network peer-to-peer (P2P) file-sharing client.
-- [SpiderOak](https://spideroak.com/) - Real-time collaboration for teams and businesses that care about privacy
-- [Syncthing](https://syncthing.net/) - Syncthing replaces proprietary sync and cloud services with something open, trustworthy and decentralized. [![Open-Source Software][OSS Icon]](https://github.com/syncthing/syncthing)
-- [Teamviewer](https://www.teamviewer.com/ ) - PC remote control/remote access software, free for personal use.
-- [Transmission](https://www.transmissionbt.com/download/) - Simple, lightweight, multi-platform torrent client. [![Open-Source Software][OSS Icon]](https://trac.transmissionbt.com/browser/trunk)
-- [Transmission Remote GUI](https://sourceforge.net/projects/transgui/) - Transmission Remote GUI is a feature rich cross platform front-end to remotely control a Transmission Bit-Torrent client daemon via its RPC protocol. [![Open-Source Software][OSS Icon]](https://github.com/leonsoft-kras/transmisson-remote-gui)
-- [uGet](http://ugetdm.com/) - A download manager that can monitor the clipboard for downloadable links, and can create a list of downloads, and run them in parallel [![Open-Source Software][OSS Icon]](http://ugetdm.com/contribute/code)
-- [uTorrent](http://www.utorrent.com) - Elegant, efficient torrent downloading.
-- [Vuze](http://www.vuze.com) - Bittorrent Client is an end-to-end software application for all your torrent needs.
-- [Web Torrent Desktop](https://webtorrent.io/desktop/) - Web Torrent Desktop is for streaming torrents which connects to both BitTorrent and WebTorrent peers. [![Open-Source Software][OSS Icon]](https://github.com/webtorrent/webtorrent-desktop)
-- [Wormhole](https://github.com/warner/magic-wormhole) - get arbitrary-sized files and directories (or short pieces of text) from one computer to another safely. [![Open-Source Software][OSS Icon]](https://github.com/warner/magic-wormhole)
+### Intercambio de archivos
+- [aria2](https://aria2.github.io/) - aria2 es un programa de descarga de línea de comandos rápido y multiprotocolo y multi-fuente. [![Open-Source Software][OSS Icon]](https://github.com/aria2/aria2)
+- [CrossFTP](http://www.crossftp.com/ftp-client.htm) - CrossFTP es un programa que facilita la administración de FTP.
+- [D-lan](http://www.d-lan.net/) - Es un programa que te permite compartir archivos en un Red de área local
+- [Deluge](http://deluge-torrent.org/) - Deluge es un cliente multiplataforma rápido y de código abierto de bittorrent. [![Open-Source Software][OSS Icon]](http://dev.deluge-torrent.org/wiki/Development#SourceCode)
+- [Dropbox](https://www.dropbox.com/install?os=lnx) - Dropbox es un servicio gratuito que le permite almacenar archivos en la nube.
+- [Filezilla](https://filezilla-project.org/) - Un servidor FTP de código abierto y un cliente. [![Open-Source Software][OSS Icon]](https://filezilla-project.org/sourcecode.php)
+- [Flareget](https://flareget.com/) - Un gestor de descargas y un acelerador con muchas características.
+- [KTorrent](https://www.kde.org/applications/internet/ktorrent/) - KTorrent una aplicación bittorrent creada por KDE. [![Open-Source Software][OSS Icon]](https://cgit.kde.org/ktorrent.git/tree//?)
+- [Mega](https://mega.nz/#sync) - Un cliente de Mega.co.nz que sincroniza automáticamente los archivos de su computadora con su cuenta MEGA. [![Open-Source Software][OSS Icon]](https://github.com/meganz/MEGAsync)
+- [Meiga](http://meiga.igalia.com/) - Una herramienta que le permite compartir directorios de archivos locales a través de Internet. [![Open-Source Software][OSS Icon]](http://git.igalia.com/meiga.git)
+- [NitroShare](https://nitroshare.net/) - Un programa de transferencia de archivos de red multiplataforma. [![Open-Source Software][OSS Icon]](https://github.com/nitroshare/nitroshare-desktop)
+- [ownCloud](https://owncloud.com/products/desktop-clients/) - Un programa que te permite acceder a tus archivos sin importar donde estés.
+- [PushBullet for desktop](https://sidneys.github.io/pb-for-desktop/) - Un cliente de escritorio para Linux para Pushbullet. [![Open-Source Software][OSS Icon]](https://github.com/sidneys/pb-for-desktop)
+- [PushBullet](https://www.pushbullet.com/) - Pushbullet un servicio que conecta sus dispositivos para que pueda compartir archivos y mensajes y vínculos entre ellos.
+- [qBittorent](http://www.qbittorrent.org/) - qBittorrent es un cliente de bittorrent de código abierto que es similar a μTorrent. [![Open-Source Software][OSS Icon]](https://github.com/qbittorrent/qBittorrent)
+- [Quazaa](https://sourceforge.net/projects/quazaa/) - Un programa multiplataforma y red multipares para compartir archivos.
+- [SpiderOak](https://spideroak.com/) - Un software de colaboración en tiempo real para equipos y empresas.
+- [Syncthing](https://syncthing.net/) - Syncthing es un programa que reemplaza los servicios estándar de sincronización y nube con uno que es de código abierto. [![Open-Source Software][OSS Icon]](https://github.com/syncthing/syncthing)
+- [Teamviewer](https://www.teamviewer.com/ ) - Un programa que permite el acceso remoto de otras computadoras a través de una red o el Internet.
+- [Transmission](https://www.transmissionbt.com/download/) - un cliente multiplataforma simple y rápido para bittorrent. [![Open-Source Software][OSS Icon]](https://trac.transmissionbt.com/browser/trunk)
+- [Transmission Remote GUI](https://sourceforge.net/projects/transgui/) - es un programa para controlar un "Transmission Bittorent Client" a través de una red vía RPC. [![Open-Source Software][OSS Icon]](https://github.com/leonsoft-kras/transmisson-remote-gui)
+- [uGet](http://ugetdm.com/) - Un gestor de descargas que puede controlar el portapapeles, y puede descargar varios archivos al mismo tiempo. [![Open-Source Software][OSS Icon]](http://ugetdm.com/contribute/code)
+- [uTorrent](http://www.utorrent.com) - Descarga de torrents elegante y eficiente.
+- [Vuze](http://www.vuze.com) - Un cliente bittorrent que tiene muchas características.
+- [Web Torrent Desktop](https://webtorrent.io/desktop/) - Es un cliente torrent para streaming torrent, y se conectará a bittorrent y webtorrent. [![Open-Source Software][OSS Icon]](https://github.com/webtorrent/webtorrent-desktop)
+- [Wormhole](https://github.com/warner/magic-wormhole) - Un programa que te permite compartir archivos de cualquier tamaño o incluso texto de una computadora a otra. [![Open-Source Software][OSS Icon]](https://github.com/warner/magic-wormhole)
 
-### Terminal
-- [Alacritty](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator[![Open-Source Software][OSS Icon]](https://github.com/jwilm/alacritty)
-- [Cool Retro Term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal that mimicks the old cathode display [![Open-Source Software][OSS Icon]](https://github.com/Swordfish90/cool-retro-term)
-- [GnomeTerminal](https://help.gnome.org/users/gnome-terminal/stable/) - A widely preinstalled terminal emulator in Linux world
-- [Guake](http://guake.org/) - Guake is a top-down terminal for Gnome
-- [Hyper](https://hyper.is/) - A terminal built on web technologies. [![Open-Source Software][OSS Icon]](https://github.com/zeit/hyper)
-- [Konsole](https://konsole.kde.org/) - An alternative terminal emulator for KDE desktop environment.
-- [RXVT-Unicode](http://software.schmorp.de/pkg/rxvt-unicode.html) - rxvt-unicode is a fork of the well known terminal emulator. [![Open-Source Software][OSS Icon]](rxvt.http://cvs.schmorp.de/rxvt-unicode/)
-- [RXVT](http://rxvt.sourceforge.net/) - A terminal emulator for X11, a popular replacement for the standard ‘xterm’. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/rxvt/)
-- [Sakura](https://launchpad.net/sakura) - Simple but powerful libvte based terminal emulator, supporting utf-8 and input methods as provided by gtk+ and pango libraries. [![Open-Source Software][OSS Icon]](https://launchpad.net/sakura)
-- [Terminator](http://gnometerminator.blogspot.com/p/introduction.html) - it’s quite clear that the most powerful terminal emulator on Linux is the feature-filled Terminator.
-- [Terminology](https://www.enlightenment.org/about-terminology) - The Pretty and lightweight Terminal from the Enlightenment Desktop, it's highly configurable, it works in X11, under a Wayland compositor and even directly in the framebuffer on Linux. Replace your boring text-mode VT with a graphical one that requires no display system. [![Open-Source Software][OSS Icon]](https://github.com/billiob/terminology)
-- [Terminus](https://eugeny.github.io/terminus/) - modern, highly configurable terminal app based on web technologies. [![Open-Source Software][OSS Icon]](https://github.com/Eugeny/terminus)
-- [Termite](https://github.com/thestinger/termite) - A keyboard-centric VTE-based terminal, aimed at use within a window manager with tiling and/or tabbing support. [![Open-Source Software][OSS Icon]](https://github.com/thestinger/termite)
-- [Termit](https://github.com/nonstop/termit/wiki) - Simple terminal emulator based on vte library, extensible via Lua. [![Open-Source Software][OSS Icon]](https://github.com/nonstop/termit/wiki)
-- [Termius](https://www.termius.com/) - cross-platform terminal with built-in SSH and Telnet.
-- [Tilix](https://gnunn1.github.io/tilix-web/) - A tiling terminal emulator for Linux using GTK+ 3 ! [![Open-Source Software][OSS Icon]](https://github.com/gnunn1/tilix)
-- [Tmux](https://tmux.github.io/) - It lets you switch easily between several programs in one terminal, detach them (they keep running in the background) and reattach them to a different terminal. And do a lot more. [![Open-Source Software][OSS Icon]](https://github.com/tmux/tmux)
-- [Upterm](https://github.com/railsware/upterm) - Upterm (formerly Black Screen) is an IDE in the world of terminals. Strictly speaking, it's both a terminal emulator and an interactive shell based on [Electron](https://electron.atom.io/). [![Open-Source Software][OSS Icon]](https://github.com/railsware/upterm)
-- [Xterm](http://invisible-island.net/xterm/) - The xterm program is a terminal emulator for the X Window System. It provides DEC VT102 and Tektronix 4014 compatible terminals for programs that can't use the window system directly.
-- [Yakuake](https://yakuake.kde.org/) - A Quake-style terminal emulator based on KDE Konsole technology.
+### Emulador de terminal
+- [Alacritty](https://github.com/jwilm/alacritty) - un multiplataforma y un acelerador de terminal acelerado por GPU. [![Open-Source Software][OSS Icon]](https://github.com/jwilm/alacritty)
+- [Cool Retro Term](https://github.com/Swordfish90/cool-retro-term) - Un terminal diseñado para imitar la apariencia de una pantalla de cátodo. [![Open-Source Software][OSS Icon]](https://github.com/Swordfish90/cool-retro-term)
+- [GnomeTerminal](https://help.gnome.org/users/gnome-terminal/stable/) - Un emulador de terminal Linux preinstalado muy común.
+- [Guake](http://guake.org/) - Guake es un terminal de arriba hacia abajo diseñado para GNOME.
+- [Hyper](https://hyper.is/) - Un terminal que está construido con tecnologías web. [![Open-Source Software][OSS Icon]](https://github.com/zeit/hyper)
+- [Konsole](https://konsole.kde.org/) - Un emulador de terminal alternativo para el entorno de escritorio KDE.
+- [RXVT-Unicode](http://software.schmorp.de/pkg/rxvt-unicode.html) - rxvt-unicode es una bifurcación de un emulador de terminal bien conocido. [![Open-Source Software][OSS Icon]](rxvt.http://cvs.schmorp.de/rxvt-unicode/)
+- [RXVT](http://rxvt.sourceforge.net/) - Un emulador de terminal diseñado para el entorno X11. Es un reemplazo popular para "xterm". [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/rxvt/)
+- [Sakura](https://launchpad.net/sakura) - Un emulador de terminal potente compra sencillo basado en libvte. [![Open-Source Software][OSS Icon]](https://launchpad.net/sakura)
+- [Terminator](http://gnometerminator.blogspot.com/p/introduction.html) - Terminator es un muy capaz, y poderoso emulador de terminal con un montón de características. Es muy popular.
+- [Terminology](https://www.enlightenment.org/about-terminology) - La terminal bonita y rápida del escritorio Enlightenment. Tiene una cantidad sorprendente de características. [![Open-Source Software][OSS Icon]](https://github.com/billiob/terminology)
+- [Terminus](https://eugeny.github.io/terminus/) - Una aplicación terminal moderna y muy personalizable basada en tecnologías web. [![Open-Source Software][OSS Icon]](https://github.com/Eugeny/terminus)
+- [Termite](https://github.com/thestinger/termite) - Un terminal basado en VTE que se centra en el teclado.. [![Open-Source Software][OSS Icon]](https://github.com/thestinger/termite)
+- [Termit](https://github.com/nonstop/termit/wiki) - un emulador de terminal simple basado en VTE, y extensible con Lua. [![Open-Source Software][OSS Icon]](https://github.com/nonstop/termit/wiki)
+- [Termius](https://www.termius.com/) - Un terminal multiplataforma con un cliente SSH incorporado y Telnet.
+- [Tilix](https://gnunn1.github.io/tilix-web/) - un emulador de terminal embaldosado usando GTK3. [![Open-Source Software][OSS Icon]](https://github.com/gnunn1/tilix)
+- [Tmux](https://tmux.github.io/) - Un programa que le permite multiplexar terminales en cualquier terminal. [![Open-Source Software][OSS Icon]](https://github.com/tmux/tmux)
+- [Upterm](https://github.com/railsware/upterm) - Upterm es un emulador de terminal que tiene características de Entorno de desarrollo integrado. Está basado en [Electron](https://electron.atom.io/). [![Open-Source Software][OSS Icon]](https://github.com/railsware/upterm)
+- [Xterm](http://invisible-island.net/xterm/) - Xterm es un programa que es un emulador de terminal para el sistema de ventanas X.
+- [Yakuake](https://yakuake.kde.org/) - Un emulador de terminal en el estilo de "Quake" y basado en KDE Konsole.
 
-### Utilities
+### Herramientas
 - [Angry IP Scanner](http://angryip.org/) - Fast and friendly network scanner. [![Open-Source Software][OSS Icon]](https://github.com/angryip/ipscan)
 - [Aptik](http://www.teejeetech.in/2014/01/introducing-aptik.html) - A tool for you to organize your Favorite PPAs and manage Packages Easily. [![Open-Source Software][OSS Icon]](https://code.launchpad.net/~teejee2008/apt-toolkit/trunk)
 - [Bleach bit](https://www.bleachbit.org/) -BleachBit quickly frees disk space and tirelessly guards your privacy. Free cache, delete cookies, clear Internet history, shred temporary files, delete logs, and more ...
