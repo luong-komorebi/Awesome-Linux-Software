@@ -2,59 +2,55 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://awesome.re/)
 
- [![Tux](img/tux.png)
+![Tux](img/tux.png)
 
 
-ðŸ§ Este repositÃ³rio Ã© uma coleÃ§Ã£o de **IMPRESSIONANTES** aplicativos e ferramentas Linux para **usuÃ¡rios/desenvolvedores**.
+🐧 Este repositório é uma coleção de **IMPRESSIONANTES** aplicativos e ferramentas Linux para **usuários/desenvolvedores**.
 <br>
-ðŸ§ Sinta-se libre para **contribuir** / **star** / **fork** / **pull request** . Qualquer **recomendaÃ§Ã£o** e **sugestÃ£o** serÃ¡ bem vindo.
+🐧 Sinta-se libre para **contribuir** / **star** / **fork** / **pull request** . Qualquer **recomendação** e **sugestão** será bem vindo.
 
-*AtualizaÃ§Ã£o: Este resumo foi publicado em [Gitbook](https://voluong.gitbooks.io/awesome-linux-software/content/). VocÃª pode compartilhar esse link para novos usuÃ¡rios, pois podem achar mais amigÃ¡vel ler do que o github. Download em pdf [aqui](https://goo.gl/xhiKla).*
+*Atualização: Este resumo foi publicado em [Gitbook](https://voluong.gitbooks.io/awesome-linux-software/content/). Você pode compartilhar esse link para novos usuários, pois podem achar mais amigável ler do que o github. Download em pdf [aqui](https://goo.gl/xhiKla).*
 
-**Reconhecimento:** *Tudo escrito abaixo Ã© da minha prÃ³pria experiÃªncia na faculdade e depois de ler vÃ¡rios materiais. Eu nÃ£o sou profissional nem especialista, mas um aluno que tem uma grande paixÃ£o.
-Qualquer um pode abrir uma discussÃ£o na seÃ§Ã£o de problemas, ou enviar um pull request, caso algo seja modificado ou adicionado. Se vocÃª considerar meu trabalho valioso, uma [doaÃ§Ã£o](#doaÃ§Ã£o) serÃ¡ muito bem vinda.*
+**Reconhecimento:** *Tudo escrito abaixo é da minha própria experiência na faculdade e depois de ler vários materiais. Eu não sou profissional nem especialista, mas um aluno que tem uma grande paixão.
+Qualquer um pode abrir uma discussão na seção de problemas, ou enviar um pull request, caso algo seja modificado ou adicionado. Se você considerar meu trabalho valioso, uma [doação](#doação) será muito bem vinda.*
 
-* versÃ£o chinesa : [aqui](https://github.com/LewisVo/Awesome-Linux-Software/blob/master/README_zh-CN.md) o [aqui](https://github.com/alim0x/Awesome-Linux-Software-zh_CN) o [aqui](https://github.com/0xE8551CCB/awesome-linux-software-cn).
-* versÃ£o espanhola : [aqui](https://github.com/LewisVo/Awesome-Linux-Software/blob/master/README_es-ES.md)
-* versÃ£o em inglÃªs : [aqui](https://github.com/LewisVo/Awesome-Linux-Software/blob/master/README.md)
+Duas versões chinesas desta lista estão disponíveis [aqui](https://github.com/alim0x/Awesome-Linux-Software-zh_CN) e [aqui(já atualizadas ultimamente).](https://github.com/0xE8551CCB/awesome-linux-software-cn)
 
-Duas versÃµes chinesas desta lista estÃ£o disponÃ­veis [aqui](https://github.com/alim0x/Awesome-Linux-Software-zh_CN) e [aqui(jÃ¡ atualizadas ultimamente).](https://github.com/0xE8551CCB/awesome-linux-software-cn)
-
-## Ãndice
+## Índice
 
 - [Aplicativos](#aplicativos)
-    - [Ãudio](#audio)
+    - [Áudio](#audio)
     - [Clientes para bate-papo](#clientes-para-bate-papo)
-    - [Backup e RecuperaÃ§Ã£o de Dados](#backup-e-recuperaÃ§Ã£o-de-dados)
-    - [PersonalizaÃ§Ã£o do Desktop](#personalizaÃ§Ã£o-do-desktop)
-    - [Desenvolvimento](#desenvolvimento)
-    - [E-Books Ãšteis](#e-books-Ãºteis)
-    - [Editores](#editores)
-    - [EducaÃ§Ã£o](#educaÃ§Ã£o)
-    - [E-mail](#e-mail)
-    - [Gerenciador de arquivos](#gerenciador-de-arquivos)
-    - [Jogos](#jogos)
-    - [GrÃ¡ficos](#grÃ¡ficos)
+    - [Backup e Recuperação de Dados](#data-backup-and-recovery)
+    - [Personalização do Desktop](#desktop-customization)
+    - [Desenvolvimento](#development)
+    - [E-Book úteis](#e-book-utilities)
+    - [Editores](#editors)
+    - [Educação](#education)
+    - [E-mail](#email)
+    - [Gerenciador de arquivos](#file-manager)
+    - [Jogos](#games)
+    - [Gráficos](#graphics)
     - [Internet](#internet)
-    - [Trabalho](#trabalho)
-    - [Produtividade](#produtividade)
+    - [Trabalho](#office)
+    - [Produtividade](#productivity)
     - [Proxy](#proxy)
-    - [SeguranÃ§a](#seguranÃ§a)
-    - [Compartilhamento de arquivos](#compartilhamento-de-arquivos)
+    - [Segurança](#security)
+    - [Compartilhamento de arquivos](#sharing-files)
     - [Terminal](#terminal)
-    - [UtilitÃ¡rios](#utilitÃ¡rios)
-    - [VÃ­deo](#vÃ­deo)
-    - [Outros](#outros)
+    - [Utilitários](#utilities)
+    - [Vídeo](#video)
+    - [Outros](#others)
 - [Command Line Utilities](#command-line-utilities)
 - [Amboentes para Desktop](#desktop-environments)
-- [Gestores de exibiÃ§Ã£o](#display-manager)
+- [Gestores de exibição](#display-manager)
 	- [Console](#console)
-	- [GrÃ¡fico](#graphic)
+	- [Gráfico](#graphic)
 - [Gerenciador de janelas](#window-managers)
 	- [Compositores](#compositors)
 	- [Empilhadas](#stacking-window-managers)
 	- [Revestimento](#tiling-window-managers)
-	- [DinÃ¢mica](#dynamic-window-managers)
+	- [Dinâmica](#dynamic-window-managers)
 
 ***********
 
@@ -91,107 +87,107 @@ Duas versÃµes chinesas desta lista estÃ£o disponÃ­veis [aqui](https://gith
 
 ### Audio
 
-- [Airtime](https://www.sourcefabric.org/en/airtime/download/) - Airtime Ã© um software de transmissÃ£o aberta para agendamento e gerenciamento de estaÃ§Ã£o remota [![Open-Source Software][OSS Icon]](https://github.com/sourcefabric/Airtime)  [ [![freeware][Freeware Icon]
-- [Ardour](https://ardour.org/) - Grave, edite e misture no Linux  [ [![freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://ardour.org/development.html)
-- [Audacious](http://audacious-media-player.org/) - Um leitor de aÃºdio open source,  reproduz sua mÃºsica como vocÃª quiser, sem roubar os recursos de outras tarefas do seu computador . [![open-Source Software][OSS Icon]](http://audacious-media-player.org/developers)  [ [![freeware][Freeware Icon]
-- [Audacity](http://www.audacityteam.org/download/linux/) - Software Livre, open source, multiplataforma para gravaÃ§Ã£o e ediÃ§Ã£o de sons. [![Open-Source Software][OSS Icon]](https://github.com/audacity/audacity)  [ [![freeware][Freeware Icon]
-- [Audio Recorder](https://launchpad.net/~audio-recorder/+archive/ubuntu/ppa) - Gravador de aÃºdio simples, disponÃ­vel no PPA do Ubuntu  [ [![freeware][Freeware Icon]
-- [Cantata](https://www.linux-apps.com/content/show.php/Cantata?content=147733) - Qt5 Graphical MPD (Music Player Daemon) Cliente para Linux, Windows, MacOS. [![Open-Source Software][OSS Icon]](https://github.com/CDrummond/cantata)  [ [![freeware][Freeware Icon]
-- [Clementine](https://www.clementine-player.org/) - Reproduza inÃºmeros formatos de Ã¡udio perdidos e sem perdas. [![Open-Source Software][OSS Icon]](https://github.com/clementine-player/Clementine)  [ [![freeware][Freeware Icon]
-- [Cmus](https://cmus.github.io/) - cmus Ã© um pequeno, rÃ¡pido e poderoso console de mÃºsica para sistemas operacionais semelhantes a Unix.[Freeware][Freeware Icon]
-- [Deepin](https://www.deepin.org/en/original/deepin-music/) - Um aplicativo desenvolvido pela Deepin Technology Team, com foco em tocar mÃºsica local. [![Open-Source Software][OSS Icon]](https://github.com/linuxdeepin/deepin-music)  [![freeware][Freeware Icon]
-- [Google Play Music](https://www.googleplaymusicdesktopplayer.com/) - NÃ£o Ã© oficial, mas Ã© um bonito reprodutor multiplataforma para Google Play Music . [![open-Source Software][OSS Icon]](https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-)  [![freeware][Freeware Icon]
-- [Gpodder](https://gpodder.github.io/) - Agregador de mÃ­dia e cliente de podcast. [![Open-Source Software][OSS Icon]](https://github.com/gpodder/gpodder)  [![freeware][Freeware Icon]
-- [Harmony](http://getharmony.xyz) - Reprodutor de mÃºsica com interface elegante e compatibilidade com a nuvem. [![Open-Source Software][OSS Icon]](https://github.com/vincelwt/harmony)  [![freeware][Freeware Icon]
-- [Hydrogen](http://www.hydrogen-music.org/hcms/node/21) - Bateria avanÃ§ada paraa GNU/Linux.  [![freeware][Freeware Icon]
-- [K3b](http://www.k3b.org/) - K3b - Criador de CD/DVD para Linux - otimizado para o KDE . [![open-Source Software][OSS Icon]](https://github.com/KDE/k3b) [![freeware][Freeware Icon]
-- [Kid3Qt](https://apps.ubuntu.com/cat/applications/precise/kid3-qt/) - Edite tags de vÃ¡rios arquivos, por exemplo o artista, albÃºm, ano e genÃªro de todos os arquivos mp3 de um albÃºm. [![freeware][Freeware Icon]
-- [KxStudio](http://kxstudio.linuxaudio.org/) - O KXStudio Ã© uma coleÃ§Ã£o de aplicativos e plugins para produÃ§Ã£o de Ã¡udio profissional. [![freeware][Freeware Icon]
-- [Libretime](http://libretime.org/) - O Libre Ã© o software de transmissÃ£o aberta para agendamento e gerenciamento de estaÃ§Ã£o remota, oferecido pelo Airtime [![Open-Source Software][OSS Icon]](https://github.com/LibreTime/libretime)  [![freeware][Freeware Icon]
-- [LMMS](https://lmms.io/download/#linux) - FaÃ§a mÃºsica em seu PC, crie melodias e batidas, sintetize e misture sons, organize amostras e muito mais. [![Open-Source Software][OSS Icon]](https://github.com/LMMS/lmms) [![freeware][Freeware Icon]
-- [Lollypop](http://gnumdk.github.io/lollypop-web) - Lollypop Ã© uma nova aplicaÃ§Ã£o de reproduÃ§Ã£o de mÃºsica GNOME. [![Open-Source Software][OSS Icon]](https://github.com/gnumdk/lollypop)  [![freeware][Freeware Icon]
-- [Lyricfier](https://github.com/emilioastarita/lyricfier) - Um aplicativo alternativo de letras do Spotify. [![Open-Source Software][OSS Icon]](https://github.com/emilioastarita/lyricfier)  [![freeware][Freeware Icon]
-- [Mixxx](http://www.mixxx.org/download/) - Software de DJ gratuito que oferece tudo o que vocÃª precisa para realizar mixagens ao vivo, verdadeira alternativa ao Traktor. [![Open-Source Software][OSS Icon]](https://github.com/mixxxdj/mixxx)  [![freeware][Freeware Icon]
-- [Museek](http://museeks.io/) - Um reprodutor de mÃºsica simples, limpo e multiplataforma. [![Open-Source Software][OSS Icon]](https://github.com/KeitIG/museeks)  [![freeware][Freeware Icon]
-- [Netease Music](http://music.163.com/#/download) -  Um reprodutor de mÃºsica do Netease  [![freeware][Freeware Icon]
-- [Nuclear](http://nuclear.gumblert.tech/) - Um aplicativo de reproduÃ§Ã£o de mÃºsica multiplataforma baseado em eletrÃ´nicos que transmite para vÃ¡rias fontes. [![Open-Source Software][OSS Icon]](https://github.com/nukeop/nuclear)  [![freeware][Freeware Icon]
-- [Ocenaudio](http://www.ocenaudio.com/whatis) - ocenaudio Ã© um editor de Ã¡udio multiplataforma, fÃ¡cil de usar rÃ¡pido e funcional. Ã‰ o software ideal para quem precisa analisar e editar arquivos de Ã¡udio.  [![freeware][Freeware Icon]
-- [OSD Lyrics](https://aur.archlinux.org/packages/osdlyrics-git/) - Exiba letras de mÃºsica com seu reprodutor de mÃºsica favorito. [![Open-Source Software][OSS Icon]](https://github.com/PedroHLC/osdlyrics)  [![freeware][Freeware Icon]
-- [Parlatype](http://gkarsay.github.io/parlatype/) - Reprodutor de Ã¡udio GNOME para transcriÃ§Ã£o.  [![Open-Source Software][OSS Icon]](https://github.com/gkarsay/parlatype)  [![freeware][Freeware Icon]
-- [Pithos](https://pithos.github.io/) - Um cliente pandora nativo para Linux [![Open-Source Software][OSS Icon]](https://github.com/pithos/pithos)  [![freeware][Freeware Icon]
-- [PulseEffect](https://github.com/wwmm/pulseeffects) - Limitador, compressor, reverberador, equalizador e efeitos de auto volume para aplicaÃ§Ãµes Pulseaudio. [![Open-Source Software][OSS Icon]](https://github.com/wwmm/pulseeffects)  [![freeware][Freeware Icon]
-- [Quod Libet](https://quodlibet.readthedocs.io) - Reprodutor de mÃºsica GTK escrito com grandes bibliotecas. O Quod libet suporta listas de reproduÃ§Ã£o dinÃ¢micas baseadas em pesquisa, expressÃµes regulares, marcaÃ§Ã£o, Ganho de repetiÃ§Ã£o, podcasts e rÃ¡dio na Internet. [![Open-Source Software][OSS Icon]](https://github.com/quodlibet/quodlibet)  [![freeware][Freeware Icon]
-- [RadioTray-NG](https://github.com/ebruck/radiotray-ng) - Um player de rÃ¡dio na Internet para Linux. [![Open-Source Software][OSS Icon]](https://github.com/ebruck/radiotray-ng)  [![freeware][Freeware Icon]
-- [Rhythmbox](https://wiki.gnome.org/Apps/Rhythmbox) - Reprodutor de mÃºsica do GNOME. [![Open-Source Software][OSS Icon]](https://github.com/GNOME/rhythmbox)  [![freeware][Freeware Icon]
-- [Sayonara Player](https://sayonara-player.com/downloads.php) - Sayonara Ã© um pequeno, limpo e rÃ¡pido reprodutor de mÃºsica para Linux escrito em C++, supportado pelo framework Qt . [![open-Source Software][OSS Icon]](https://sayonara-player.com/downloads.php#Source)  [![freeware][Freeware Icon]
-- [Soundconverter](http://soundconverter.org/) - LÃ­der da conversÃ£o de arquivos de aÃºdio, SoundConverter tem o intuito de ser simples de usar e muito rÃ¡pido . [![open-Source Software][OSS Icon]](https://launchpad.net/soundconverter/trunk/2.1.6)  [![freeware][Freeware Icon]
-- [SoundJuicer](http://www.howtogeek.com/howto/20126/rip-audio-cds-with-sound-juicer/) - Ferramenta de rascunho de CD para GNOME  [![freeware][Freeware Icon]
-- [Soundnode](http://www.soundnodeapp.com/) - Um aplicativo SoundCloud OpenSouce para Desktop. [![Open-Source Software][OSS Icon]](https://github.com/Soundnode/soundnode-app)  [![freeware][Freeware Icon]
-- [Spotio](https://github.com/devinhalladay/spotio) - Um tema de luz inspirado no Rdio para o aplicativo desktop Spotify. [![Open-Source Software][OSS Icon]](https://github.com/devinhalladay/spotio)  [![freeware][Freeware Icon]
-- [Tomahawk](https://www.tomahawk-player.org/) -A new kind of music player that invites all your streams, downloads, cloud music storage, playlists, radio stations and more. [![Open-Source Software][OSS Icon]](https://github.com/tomahawk-player/tomahawk) [![freeware][Freeware Icon]
-- [Vocal](http://vocalproject.net/) - Cliente Podcast para Desktops modernos. [![Open-Source Software][OSS Icon]](https://github.com/vocalapp)  [![freeware][Freeware Icon]
+- [Airtime](https://www.sourcefabric.org/en/airtime/download/) - Airtime é um software de transmissão aberta para agendamento e gerenciamento de estação remota [![Open-Source Software][OSS Icon]](https://github.com/sourcefabric/Airtime) ![Freeware][Freeware Icon]
+- [Ardour](https://ardour.org/) - Grave, edite e misture no Linux ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://ardour.org/development.html)
+- [Audacious](http://audacious-media-player.org/) - Um leitor de aúdio open source,  reproduz sua música como você quiser, sem roubar os recursos de outras tarefas do seu computador.[![Open-Source Software][OSS Icon]](http://audacious-media-player.org/developers) ![Freeware][Freeware Icon]
+- [Audacity](http://www.audacityteam.org/download/linux/) - Software Livre, open source, multiplataforma para gravação e edição de sons. [![Open-Source Software][OSS Icon]](https://github.com/audacity/audacity) ![Freeware][Freeware Icon]
+- [Audio Recorder](https://launchpad.net/~audio-recorder/+archive/ubuntu/ppa) - Gravador de aúdio simples, disponível no PPA do Ubuntu ![Freeware][Freeware Icon]
+- [Cantata](https://www.linux-apps.com/content/show.php/Cantata?content=147733) - Qt5 Graphical MPD (Music Player Daemon) Cliente para Linux, Windows, MacOS. [![Open-Source Software][OSS Icon]](https://github.com/CDrummond/cantata) ![Freeware][Freeware Icon]
+- [Clementine](https://www.clementine-player.org/) - Reproduza inúmeros formatos de áudio perdidos e sem perdas. [![Open-Source Software][OSS Icon]](https://github.com/clementine-player/Clementine) ![Freeware][Freeware Icon]
+- [Cmus](https://cmus.github.io/) - cmus é um pequeno, rápido e poderoso console de música para sistemas operacionais semelhantes a Unix.[Freeware][Freeware Icon]
+- [Deepin](https://www.deepin.org/en/original/deepin-music/) - Um aplicativo desenvolvido pela Deepin Technology Team, com foco em tocar música local. [![Open-Source Software][OSS Icon]](https://github.com/linuxdeepin/deepin-music) ![Freeware][Freeware Icon]
+- [Google Play Music](https://www.googleplaymusicdesktopplayer.com/) - Não é oficial, mas é um bonito reprodutor multiplataforma para Google Play Music.[![Open-Source Software][OSS Icon]](https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-) ![Freeware][Freeware Icon]
+- [Gpodder](https://gpodder.github.io/) - Agregador de mídia e cliente de podcast. [![Open-Source Software][OSS Icon]](https://github.com/gpodder/gpodder) ![Freeware][Freeware Icon]
+- [Harmony](http://getharmony.xyz) - Reprodutor de música com interface elegante e compatibilidade com a nuvem. [![Open-Source Software][OSS Icon]](https://github.com/vincelwt/harmony) ![Freeware][Freeware Icon]
+- [Hydrogen](http://www.hydrogen-music.org/hcms/node/21) - Bateria avançada paraa GNU/Linux. ![Freeware][Freeware Icon]
+- [K3b](http://www.k3b.org/) - K3b - Criador de CD/DVD para Linux - otimizado para o KDE.[![Open-Source Software][OSS Icon]](https://github.com/KDE/k3b)![Freeware][Freeware Icon]
+- [Kid3Qt](https://apps.ubuntu.com/cat/applications/precise/kid3-qt/) - Edite tags de vários arquivos, por exemplo o artista, albúm, ano e genêro de todos os arquivos mp3 de um albúm.![Freeware][Freeware Icon]
+- [KxStudio](http://kxstudio.linuxaudio.org/) - O KXStudio é uma coleção de aplicativos e plugins para produção de áudio profissional.![Freeware][Freeware Icon]
+- [Libretime](http://libretime.org/) - O Libre é o software de transmissão aberta para agendamento e gerenciamento de estação remota, oferecido pelo Airtime [![Open-Source Software][OSS Icon]](https://github.com/LibreTime/libretime) ![Freeware][Freeware Icon]
+- [LMMS](https://lmms.io/download/#linux) - Faça música em seu PC, crie melodias e batidas, sintetize e misture sons, organize amostras e muito mais. [![Open-Source Software][OSS Icon]](https://github.com/LMMS/lmms)![Freeware][Freeware Icon]
+- [Lollypop](http://gnumdk.github.io/lollypop-web) - Lollypop é uma nova aplicação de reprodução de música GNOME. [![Open-Source Software][OSS Icon]](https://github.com/gnumdk/lollypop) ![Freeware][Freeware Icon]
+- [Lyricfier](https://github.com/emilioastarita/lyricfier) - Um aplicativo alternativo de letras do Spotify. [![Open-Source Software][OSS Icon]](https://github.com/emilioastarita/lyricfier) ![Freeware][Freeware Icon]
+- [Mixxx](http://www.mixxx.org/download/) - Software de DJ gratuito que oferece tudo o que você precisa para realizar mixagens ao vivo, verdadeira alternativa ao Traktor. [![Open-Source Software][OSS Icon]](https://github.com/mixxxdj/mixxx) ![Freeware][Freeware Icon]
+- [Museek](http://museeks.io/) - Um reprodutor de música simples, limpo e multiplataforma. [![Open-Source Software][OSS Icon]](https://github.com/KeitIG/museeks) ![Freeware][Freeware Icon]
+- [Netease Music](http://music.163.com/#/download) -  Um reprodutor de música do Netease ![Freeware][Freeware Icon]
+- [Nuclear](http://nuclear.gumblert.tech/) - Um aplicativo de reprodução de música multiplataforma baseado em eletrônicos que transmite para várias fontes. [![Open-Source Software][OSS Icon]](https://github.com/nukeop/nuclear) ![Freeware][Freeware Icon]
+- [Ocenaudio](http://www.ocenaudio.com/whatis) - ocenaudio é um editor de áudio multiplataforma, fácil de usar rápido e funcional. É o software ideal para quem precisa analisar e editar arquivos de áudio. ![Freeware][Freeware Icon]
+- [OSD Lyrics](https://aur.archlinux.org/packages/osdlyrics-git/) - Exiba letras de música com seu reprodutor de música favorito. [![Open-Source Software][OSS Icon]](https://github.com/PedroHLC/osdlyrics) ![Freeware][Freeware Icon]
+- [Parlatype](http://gkarsay.github.io/parlatype/) - Reprodutor de áudio GNOME para transcrição.  [![Open-Source Software][OSS Icon]](https://github.com/gkarsay/parlatype) ![Freeware][Freeware Icon]
+- [Pithos](https://pithos.github.io/) - Um cliente pandora nativo para Linux [![Open-Source Software][OSS Icon]](https://github.com/pithos/pithos) ![Freeware][Freeware Icon]
+- [PulseEffect](https://github.com/wwmm/pulseeffects) - Limitador, compressor, reverberador, equalizador e efeitos de auto volume para aplicações Pulseaudio. [![Open-Source Software][OSS Icon]](https://github.com/wwmm/pulseeffects) ![Freeware][Freeware Icon]
+- [Quod Libet](https://quodlibet.readthedocs.io) - Reprodutor de música GTK escrito com grandes bibliotecas. O Quod libet suporta listas de reprodução dinâmicas baseadas em pesquisa, expressões regulares, marcação, Ganho de repetição, podcasts e rádio na Internet.[![Open-Source Software][OSS Icon]](https://github.com/quodlibet/quodlibet) ![Freeware][Freeware Icon]
+- [RadioTray-NG](https://github.com/ebruck/radiotray-ng) - Um player de rádio na Internet para Linux. [![Open-Source Software][OSS Icon]](https://github.com/ebruck/radiotray-ng) ![Freeware][Freeware Icon]
+- [Rhythmbox](https://wiki.gnome.org/Apps/Rhythmbox) - Reprodutor de música do GNOME. [![Open-Source Software][OSS Icon]](https://github.com/GNOME/rhythmbox) ![Freeware][Freeware Icon]
+- [Sayonara Player](https://sayonara-player.com/downloads.php) - Sayonara é um pequeno, limpo e rápido reprodutor de música para Linux escrito em C++, supportado pelo framework Qt.[![Open-Source Software][OSS Icon]](https://sayonara-player.com/downloads.php#Source) ![Freeware][Freeware Icon]
+- [Soundconverter](http://soundconverter.org/) - Líder da conversão de arquivos de aúdio, SoundConverter tem o intuito de ser simples de usar e muito rápido.[![Open-Source Software][OSS Icon]](https://launchpad.net/soundconverter/trunk/2.1.6) ![Freeware][Freeware Icon]
+- [SoundJuicer](http://www.howtogeek.com/howto/20126/rip-audio-cds-with-sound-juicer/) - Ferramenta de rascunho de CD para GNOME ![Freeware][Freeware Icon]
+- [Soundnode](http://www.soundnodeapp.com/) - Um aplicativo SoundCloud OpenSouce para Desktop. [![Open-Source Software][OSS Icon]](https://github.com/Soundnode/soundnode-app) ![Freeware][Freeware Icon]
+- [Spotio](https://github.com/devinhalladay/spotio) - Um tema de luz inspirado no Rdio para o aplicativo desktop Spotify. [![Open-Source Software][OSS Icon]](https://github.com/devinhalladay/spotio) ![Freeware][Freeware Icon]
+- [Tomahawk](https://www.tomahawk-player.org/) -A new kind of music player that invites all your streams, downloads, cloud music storage, playlists, radio stations and more. [![Open-Source Software][OSS Icon]](https://github.com/tomahawk-player/tomahawk)![Freeware][Freeware Icon]
+- [Vocal](http://vocalproject.net/) - Cliente Podcast para Desktops modernos. [![Open-Source Software][OSS Icon]](https://github.com/vocalapp) ![Freeware][Freeware Icon]
 
 ### Clientes para bate papo
-- [Caprine](https://sindresorhus.com/caprine) - Elegante aplicativo desktop do Facebook Messenger. [![Open-Source Software][OSS Icon]](https://github.com/sindresorhus/caprine)  [![freeware][Freeware Icon]
-- [Chatty](http://chatty.github.io/) - Chatty Ã© um cliente de bate-papo Twitch para todos que querem experimentar algo novo e diferente de um webchat, e que tambÃ©m nÃ£o desejam a complexidade de um cliente IRC ou perder os recursos especifÃ­cos do Twitch . [![open-Source Software][OSS Icon]](https://github.com/chatty/chatty)  [![freeware][Freeware Icon]
-- [Cutegram](http://aseman.co/en/products/cutegram/) - Oferece mais recursos do que o aplicativo oficial do Telegram. [![Open-Source Software][OSS Icon]](https://github.com/Aseman-Land/Cutegram)  [![freeware][Freeware Icon]
-- [Dino](https://dino.im) - Cliente de chat Jabber/XMPP limpo e moderno.  [![Open-Source Software][OSS Icon]](https://github.com/dino/dino)  [![freeware][Freeware Icon]
-- [Discord](https://discordapp.com/) - Conversa de voz e texto para gamers de forma gratuita, segura, e funciona tanto em desktop quanto no celular.  [![freeware][Freeware Icon]
-- [Franz](http://meetfranz.com/) - Franz Ã© um aplicativo de messagem que combina vÃ¡rios serviÃ§os de bate-papo e messagem em um Ãºnico aplicativo. [![freeware][Freeware Icon]
-- [GhettoSkype](https://github.com/stanfieldr/ghetto-skype) -  wrapper web open source para o Skype. [![Open-Source Software][OSS Icon]](https://github.com/stanfieldr/ghetto-skype)  [![freeware][Freeware Icon]
-- [Gitter](https://gitter.im/) - Gitter â€” Aonde os desenvolvedores conversam. Gitter Ã© projetado para tornar a comunicaÃ§Ã£o, colaboraÃ§Ã£o e descoberta de uma comunidade tÃ£o simples quanto possÃ­vel. [![Open-Source Software][OSS Icon]](https://github.com/gitterHQ/services)  [![freeware][Freeware Icon]
-- [HexChat](https://hexchat.github.io/) - HexChat Ã© um cliente IRC baseado no XChat, mas ao contrÃ¡rio do XChat Ã© completamente gratuito tanto para Windows quanto para Unix . [![open-Source Software][OSS Icon]](https://github.com/hexchat)  [![freeware][Freeware Icon]
-- [Irssi](https://github.com/irssi/irssi) - Irssi Ã© um cliente de bate-papo que Ã© mais popular por sua interface de usuÃ¡rio do modo texto. [![Open-Source Software][OSS Icon]](https://github.com/irssi/irssi)  [![freeware][Freeware Icon]
-- [Jitsi](https://jitsi.org/) - Jitsi Ã© um aplicativo de voz, videoconferÃªncia e mensagens instantÃ¢neas, multiplataforma open-source gratuito para Windows, Linux, Mac OS e Android. [![Open-Source Software][OSS Icon]](https://github.com/jitsi)  [![freeware][Freeware Icon]
-- [KVIrc](http://www.kvirc.net/) - KVIrc Ã© um cliente  gratuito IRC client baseado no excelente toolkit Qt GUI. [![Open-Source Software][OSS Icon]](https://github.com/kvirc/KVIrc)  [![freeware][Freeware Icon]
-- [Messenger for Desktop](https://messengerfordesktop.com/#download) - Um aplicativo para o Facebook messenger. [![Open-Source Software][OSS Icon]](https://github.com/Aluxian/Facebook-Messenger-Desktop)  [![freeware][Freeware Icon]
-- [Pidgin](http://askubuntu.com/questions/307622/update-pidgin-using-apt-get) - Um cliente universal de bate-papo.  [![freeware][Freeware Icon]
-- [qTox](https://qtox.github.io/) - Um simples messenger seguro e distrÃ­buido, com capacidades de audio e video no bate-papo. [![Open-Source Software][OSS Icon]](https://github.com/qTox/qTox)  [![freeware][Freeware Icon]
-- [Rambox](http://rambox.pro/) - Ã‰ um aplicativo de mensagens e emails gratuito, Open Source e multiplataforma que combina applicaÃ§Ãµes web comuns em um Ãºnico lugar. [![Open-Source Software][OSS Icon]](https://github.com/saenzramiro/rambox)  [![freeware][Freeware Icon]
-- [Ring](https://ring.cx/) - Bata papo. Converse. Compartilhe. Ring Ã© uma plataforma de comunicaÃ§Ã£o gratuita e universal que preserva a privacidade e liberdade dos usuÃ¡rios. [![Open-Source Software][OSS Icon]](https://ring.cx/en/documentation/faq#node-106)  [![freeware][Freeware Icon]
-- [Riot](https://riot.im/) - Um cliente de colaboraÃ§Ã£o MATRIX para web. [![Open-Source Software][OSS Icon]](https://github.com/vector-im/riot-web)  [![freeware][Freeware Icon]
-- [ScudCloud](https://github.com/raelgc/scudcloud/) - Um cliente Slack para Linux. [![Open-Source Software][OSS Icon]](https://github.com/raelgc/scudcloud/)  [![freeware][Freeware Icon]
-- [Skype](https://www.skype.com/en/) - Skype mantÃ©m o mundo conversando, de graÃ§a.  [![freeware][Freeware Icon]
-- [Slack](https://slack.com/downloads/linux) - Mensagens em tempo real, arquivamento e busca de equipes modernas.  [![freeware][Freeware Icon]
-- [Telegram](https://desktop.telegram.org/) - Um aplicativo com foco na rapidez e seguranÃ§a, Ã© muito rÃ¡pido, simples e gratuito. [![Open-Source Software][OSS Icon]](https://github.com/telegramdesktop/tdesktop)  [![freeware][Freeware Icon]
-- [Viber](https://www.viber.com/en/products/linux) - O Viber para o Linux permite que vocÃª envie mensagens e faÃ§a ligaÃ§Ãµes gratuitas para outros usuÃ¡rios Viber em qualquer dispositivo e rede, em qualquer paÃ­s.  [![freeware][Freeware Icon]
-- [Weechat](https://weechat.org/) - WeeChat Ã© um rÃ¡pido, leve e extensivel client de bate-papo. [![Open-Source Software][OSS Icon]](https://github.com/weechat)  [![freeware][Freeware Icon]
-- [Wire](https://wire.com/en/) - ComunicaÃ§Ã£o Segura. Privacidade total. [![Open-Source Software][OSS Icon]](https://github.com/wireapp)  [![freeware][Freeware Icon]
+- [Caprine](https://sindresorhus.com/caprine) - Elegante aplicativo desktop do Facebook Messenger. [![Open-Source Software][OSS Icon]](https://github.com/sindresorhus/caprine) ![Freeware][Freeware Icon]
+- [Chatty](http://chatty.github.io/) - Chatty é um cliente de bate-papo Twitch para todos que querem experimentar algo novo e diferente de um webchat, e que também não desejam a complexidade de um cliente IRC ou perder os recursos especifícos do Twitch.[![Open-Source Software][OSS Icon]](https://github.com/chatty/chatty) ![Freeware][Freeware Icon]
+- [Cutegram](http://aseman.co/en/products/cutegram/) - Oferece mais recursos do que o aplicativo oficial do Telegram. [![Open-Source Software][OSS Icon]](https://github.com/Aseman-Land/Cutegram) ![Freeware][Freeware Icon]
+- [Dino](https://dino.im) - Cliente de chat Jabber/XMPP limpo e moderno.  [![Open-Source Software][OSS Icon]](https://github.com/dino/dino) ![Freeware][Freeware Icon]
+- [Discord](https://discordapp.com/) - Conversa de voz e texto para gamers de forma gratuita, segura, e funciona tanto em desktop quanto no celular. ![Freeware][Freeware Icon]
+- [Franz](http://meetfranz.com/) - Franz é um aplicativo de messagem que combina vários serviços de bate-papo e messagem em um único aplicativo.![Freeware][Freeware Icon]
+- [GhettoSkype](https://github.com/stanfieldr/ghetto-skype) -  wrapper web open source para o Skype. [![Open-Source Software][OSS Icon]](https://github.com/stanfieldr/ghetto-skype) ![Freeware][Freeware Icon]
+- [Gitter](https://gitter.im/) - Gitter — Aonde os desenvolvedores conversam. Gitter é projetado para tornar a comunicação, colaboração e descoberta de uma comunidade tão simples quanto possível. [![Open-Source Software][OSS Icon]](https://github.com/gitterHQ/services) ![Freeware][Freeware Icon]
+- [HexChat](https://hexchat.github.io/) - HexChat é um cliente IRC baseado no XChat, mas ao contrário do XChat é completamente gratuito tanto para Windows quanto para Unix.[![Open-Source Software][OSS Icon]](https://github.com/hexchat) ![Freeware][Freeware Icon]
+- [Irssi](https://github.com/irssi/irssi) - Irssi é um cliente de bate-papo que é mais popular por sua interface de usuário do modo texto. [![Open-Source Software][OSS Icon]](https://github.com/irssi/irssi) ![Freeware][Freeware Icon]
+- [Jitsi](https://jitsi.org/) - Jitsi é um aplicativo de voz, videoconferência e mensagens instantâneas, multiplataforma open-source gratuito para Windows, Linux, Mac OS e Android. [![Open-Source Software][OSS Icon]](https://github.com/jitsi) ![Freeware][Freeware Icon]
+- [KVIrc](http://www.kvirc.net/) - KVIrc é um cliente  gratuito IRC client baseado no excelente toolkit Qt GUI. [![Open-Source Software][OSS Icon]](https://github.com/kvirc/KVIrc) ![Freeware][Freeware Icon]
+- [Messenger for Desktop](https://messengerfordesktop.com/#download) - Um aplicativo para o Facebook messenger. [![Open-Source Software][OSS Icon]](https://github.com/Aluxian/Facebook-Messenger-Desktop) ![Freeware][Freeware Icon]
+- [Pidgin](http://askubuntu.com/questions/307622/update-pidgin-using-apt-get) - Um cliente universal de bate-papo. ![Freeware][Freeware Icon]
+- [qTox](https://qtox.github.io/) - Um simples messenger seguro e distríbuido, com capacidades de audio e video no bate-papo. [![Open-Source Software][OSS Icon]](https://github.com/qTox/qTox) ![Freeware][Freeware Icon]
+- [Rambox](http://rambox.pro/) - É um aplicativo de mensagens e emails gratuito, Open Source e multiplataforma que combina applicações web comuns em um único lugar. [![Open-Source Software][OSS Icon]](https://github.com/saenzramiro/rambox) ![Freeware][Freeware Icon]
+- [Ring](https://ring.cx/) - Bata papo. Converse. Compartilhe. Ring é uma plataforma de comunicação gratuita e universal que preserva a privacidade e liberdade dos usuários. [![Open-Source Software][OSS Icon]](https://ring.cx/en/documentation/faq#node-106) ![Freeware][Freeware Icon]
+- [Riot](https://riot.im/) - Um cliente de colaboração MATRIX para web. [![Open-Source Software][OSS Icon]](https://github.com/vector-im/riot-web) ![Freeware][Freeware Icon]
+- [ScudCloud](https://github.com/raelgc/scudcloud/) - Um cliente Slack para Linux. [![Open-Source Software][OSS Icon]](https://github.com/raelgc/scudcloud/) ![Freeware][Freeware Icon]
+- [Skype](https://www.skype.com/en/) - Skype mantém o mundo conversando, de graça. ![Freeware][Freeware Icon]
+- [Slack](https://slack.com/downloads/linux) - Mensagens em tempo real, arquivamento e busca de equipes modernas. ![Freeware][Freeware Icon]
+- [Telegram](https://desktop.telegram.org/) - Um aplicativo com foco na rapidez e segurança, é muito rápido, simples e gratuito. [![Open-Source Software][OSS Icon]](https://github.com/telegramdesktop/tdesktop) ![Freeware][Freeware Icon]
+- [Viber](https://www.viber.com/en/products/linux) - O Viber para o Linux permite que você envie mensagens e faça ligações gratuitas para outros usuários Viber em qualquer dispositivo e rede, em qualquer país. ![Freeware][Freeware Icon]
+- [Weechat](https://weechat.org/) - WeeChat é um rápido, leve e extensivel client de bate-papo. [![Open-Source Software][OSS Icon]](https://github.com/weechat) ![Freeware][Freeware Icon]
+- [Wire](https://wire.com/en/) - Comunicação Segura. Privacidade total. [![Open-Source Software][OSS Icon]](https://github.com/wireapp) ![Freeware][Freeware Icon]
 
-### Backup e RecuperaÃ§Ã£o de Dados
-- [Borg Backup](https://borgbackup.readthedocs.io/en/stable/) - Uma Ã³tima ferramenta para recuperaÃ§Ã£o de dados . [![open-Source Software][OSS Icon]](https://borgbackup.readthedocs.io/en/stable/development.html)  [![freeware][Freeware Icon]
-- [Deja Dup](https://www.linux.com/learn/total-system-backup-and-recall-deja-dup) - Uma ferramenta de backup simples com criptografia embutida. [![Open-Source Software][OSS Icon]](https://launchpad.net/deja-dup) [![freeware][Freeware Icon]
-- [Duplicity](http://duplicity.nongnu.org/) - Duplicity faz backup de diretÃ³rios produzindo volumes no formato tar criptografados e enviando-os para servidores de arquivos remotos ou local. [![Open-Source Software][OSS Icon]](https://launchpad.net/duplicity)  [![freeware][Freeware Icon]
-- [Photorec](http://www.cgsecurity.org/wiki/PhotoRec) - PhotoRec Ã© um software de recuperaÃ§Ã£o de dados de arquivos perdidos incluindo vÃ­deo, documentos e arquivos de disco rÃ­gido, CD-ROM, e imagens da memÃ³ria de uma camÃªra digital(por isso o nome PhotoRecovery).  [![freeware][Freeware Icon]
-- [Qt4-fsarchiver](https://sourceforge.net/projects/qt4-fsarchiver/) - qt4-fsarchiver Ã© uma GUI para o programa fsarchiver para salvar/restaurar partiÃ§Ãµes, arquivos e MBR/GPT. O programa Ã© para sistemas baseados em Debian, Suse e Fedora. [![Open-Source Software][OSS Icon]](https://borgbackup.readthedocs.io/en/stable/)  [![freeware][Freeware Icon]
-- [rclone](http://rclone.org/) - O Rclone Ã© um programa de linha de comando para sincronizar arquivos e diretÃ³rios e para vÃ¡rias soluÃ§Ãµes de armazenamento em nuvem. TambÃ©m permite backups criptografados. [![Open-Source Software][OSS Icon]](https://github.com/ncw/rclone)  [![freeware][Freeware Icon]
-- [rsnapshot](http://rsnapshot.org/) - rsnapshot Ã© um utilitÃ¡rio de linha de comando baseado no rsync para fazer periÃ³dicos snapshots  de mÃ¡quinas locais ou remotas. O cÃ³digo faz uso extensivo de links rÃ­gidos sempre que possÃ­vel para reduzir o espaÃ§o em dÃ­sco necessÃ¡rio. [![Open-Source Software][OSS Icon]](https://github.com/rsnapshot/rsnapshot.git)  [![freeware][Freeware Icon]
-- [System Rescue CD](http://www.system-rescue-cd.org/SystemRescueCd_Homepage) - SystemRescueCd Ã© um disco de recuperaÃ§Ã£o do sistema Linux disponÃ­vel como um CD-ROM ou usb bootÃ¡vel para administraÃ§Ã£o ou reparo do seu sistema apÃ³s uma falha.  [![freeware][Freeware Icon]
-- [Test Disk](http://www.cgsecurity.org/wiki/TestDisk) - TestDisk Ã© um software poderoso e gratuito recuperador de dados!
-Ele foi projetado principalmente para ajudar a recuperar partiÃ§Ãµes perdidas e/ou tornar os discos nÃ£o inicializados bootÃ¡veis novamente quando esse sintoma Ã© causado por uma falha de software.  [![freeware][Freeware Icon]
-- [Timeshift](https://launchpad.net/timeshift) - TimeShift Ã© um utilitÃ¡rio de restauraÃ§Ã£o do sistema que leva snapshots incrementais do sistema usando rsync e hard-links. Esses snapshots podem ser restaurados em uma data posterior para desfazer todas alteraÃ§Ãµes que foram feitas no sistema apÃ³s o snapshot ser tirado. Os snapshots podem ser tomados manualmente ou em intervalos regulares usando trabalhos agendados.  [![freeware][Freeware Icon]
+### Backup e recuperação de dados
+- [Borg Backup](https://borgbackup.readthedocs.io/en/stable/) - Uma ótima ferramenta para recuperação de dados.[![Open-Source Software][OSS Icon]](https://borgbackup.readthedocs.io/en/stable/development.html) ![Freeware][Freeware Icon]
+- [Deja Dup](https://www.linux.com/learn/total-system-backup-and-recall-deja-dup) - Uma ferramenta de backup simples com criptografia embutida. [![Open-Source Software][OSS Icon]](https://launchpad.net/deja-dup)![Freeware][Freeware Icon]
+- [Duplicity](http://duplicity.nongnu.org/) - Duplicity faz backup de diretórios produzindo volumes no formato tar criptografados e enviando-os para servidores de arquivos remotos ou local. [![Open-Source Software][OSS Icon]](https://launchpad.net/duplicity) ![Freeware][Freeware Icon]
+- [Photorec](http://www.cgsecurity.org/wiki/PhotoRec) - PhotoRec é um software de recuperação de dados de arquivos perdidos incluindo vídeo, documentos e arquivos de disco rígido, CD-ROM, e imagens da memória de uma camêra digital(por isso o nome PhotoRecovery). ![Freeware][Freeware Icon]
+- [Qt4-fsarchiver](https://sourceforge.net/projects/qt4-fsarchiver/) - qt4-fsarchiver é uma GUI para o programa fsarchiver para salvar/restaurar partições, arquivos e MBR/GPT. O programa é para sistemas baseados em Debian, Suse e Fedora. [![Open-Source Software][OSS Icon]](https://borgbackup.readthedocs.io/en/stable/) ![Freeware][Freeware Icon]
+- [rclone](http://rclone.org/) - O Rclone é um programa de linha de comando para sincronizar arquivos e diretórios e para várias soluções de armazenamento em nuvem. Também permite backups criptografados. [![Open-Source Software][OSS Icon]](https://github.com/ncw/rclone) ![Freeware][Freeware Icon]
+- [rsnapshot](http://rsnapshot.org/) - rsnapshot é um utilitário de linha de comando baseado no rsync para fazer periódicos snapshots  de máquinas locais ou remotas. O código faz uso extensivo de links rígidos sempre que possível para reduzir o espaço em dísco necessário. [![Open-Source Software][OSS Icon]](https://github.com/rsnapshot/rsnapshot.git) ![Freeware][Freeware Icon]
+- [System Rescue CD](http://www.system-rescue-cd.org/SystemRescueCd_Homepage) - SystemRescueCd é um disco de recuperação do sistema Linux disponível como um CD-ROM ou usb bootável para administração ou reparo do seu sistema após uma falha. ![Freeware][Freeware Icon]
+- [Test Disk](http://www.cgsecurity.org/wiki/TestDisk) - TestDisk é um software poderoso e gratuito recuperador de dados!
+Ele foi projetado principalmente para ajudar a recuperar partições perdidas e/ou tornar os discos não inicializados bootáveis novamente quando esse sintoma é causado por uma falha de software. ![Freeware][Freeware Icon]
+- [Timeshift](https://launchpad.net/timeshift) - TimeShift é um utilitário de restauração do sistema que leva snapshots incrementais do sistema usando rsync e hard-links. Esses snapshots podem ser restaurados em uma data posterior para desfazer todas alterações que foram feitas no sistema após o snapshot ser tirado. Os snapshots podem ser tomados manualmente ou em intervalos regulares usando trabalhos agendados. ![Freeware][Freeware Icon]
 
-### PersonalizaÃ§Ã£o do Desktop
-- [Adapta Theme](https://github.com/tista500/Adapta) - Um tema Gtk+ adaptado baseado nas diretrizes do Material Design. [![open-Source Software][OSS Icon]  [![freeware][Freeware Icon]
-- [Arc Icon Theme](https://github.com/horst3180/arc-icon-theme) - Um tema de Ã­cone modernos que deve ser usado com o Moka Icon Theme. [![open-Source Software][OSS Icon]  [![freeware][Freeware Icon]
-- [Arc Theme](https://github.com/horst3180/arc-theme) - Um tema flat com elementos transparentes. [![open-Source Software][OSS Icon]  [![freeware][Freeware Icon]
-- [Compiz Config settings manager](https://apps.ubuntu.com/cat/applications/compizconfig-settings-manager/) - O projeto OpenCompositing traz efeitos visuais de desktop 3D que melhoram a usabilidade do sistema X Window e proporcionam uma maior produtividade. [![freeware][Freeware Icon]
-- [Conky](https://github.com/brndnmtthws/conky) - Conky Ã© um monitor de sistema gratuito e leve para X, que exibe qualquer tipo de informaÃ§Ã£o no seu Desktop. [![Open-Source Software][OSS Icon]](https://github.com/brndnmtthws/conky) [![freeware][Freeware Icon]
-- [EvoPop Theme](https://github.com/solus-project/evopop-gtk-theme) - EvoPop Ã© uma construÃ§Ã£o de conjuntos de temas de desktop moderno para o Projeto Solus. Seu design Ã© principalmente flat com um uso minÃ­mo de sombras para profundiade. [![Open-Source Software][OSS Icon]](https://github.com/solus-project/evopop-gtk-theme)  [![freeware][Freeware Icon]
-- [Flatabulous Arc Theme](https://github.com/andreisergiu98/arc-flatabulous-theme) - Meu tema favorito para Ubuntu. [![Open-Source Software][OSS Icon]](https://github.com/andreisergiu98/arc-flatabulous-theme) [![freeware][Freeware Icon]
-- [Flatabulous](https://github.com/anmoljagetia/Flatabulous) - Esse Ã© um tema Flat para Ubuntu e Gnome baseados em sistemas Linux. [![Open-Source Software][OSS Icon]  [![freeware][Freeware Icon]
-- [Gnome Extensions](http://extensions.gnome.org/) - ExtensÃµes para o Gnome Desktop Environment.  [![freeware][Freeware Icon]
-- [Gnome Look](https://www.gnome-look.org/) - Grandes quantidades de Ã­cones criados pela comunidade, temas de shell, fontes, e vÃ¡rios recursos que podem ser usados para customizar seu Gnome desktop Enviromnment, todos localizados em um Ãºnico site.  [![freeware][Freeware Icon]
-- [Hardcode Tray](https://github.com/bil-elmoussaoui/Hardcode-Tray) - Esse script corrige os Ã­cones hardcoded tray no Linux detectando seu tema padrÃ£o automaticamente, o tamanho certo do Ã­cone, as aplicaÃ§Ãµes hard-coded, os Ã­cones certos para cada indicador e os corrige. [![Open-Source Software][OSS Icon]](https://github.com/bil-elmoussaoui/Hardcode-Tray)  [![freeware][Freeware Icon]
-- [Irradiance Theme](https://github.com/bsundman/Irradiance) - Um tema inspirado por OSX Yosemite baseado em Radiance. [![Open-Source Software][OSS Icon]](https://github.com/bsundman/Irradiance) [![freeware][Freeware Icon]
-- [La Capitaine Icon Theme](https://github.com/keeferrourke/la-capitaine-icon-theme) - Um tema de Ã­cone inspirado em Material Design e macOS projetado para se encaixar na maioria dos ambientes desktop.
-- [Macbuntu](http://www.noobslab.com/2016/04/macbuntu-1604-transformation-pack-for.html) - Um pacote de transformaÃ§Ã£o para fazer com que seu desktop se pareÃ§a com um macOS. [![freeware][Freeware Icon]
-- [Numix Icon Theme](http://www.noobslab.com/2014/04/install-numix-icon-packs-in-ubuntulinux.html) - Um dos melhores temas de Ã­cones do Ubuntu Linux. [![Open-Source Software][OSS Icon]](https://github.com/numixproject/numix-icon-theme)  [![freeware][Freeware Icon]
-- [Numix Theme](https://itsfoss.com/install-numix-ubuntu/) - Um bom tema popular. [![Open-Source Software][OSS Icon]](https://github.com/numixproject/numix-gtk-theme)  [![freeware][Freeware Icon]
-- [Papirus Icon Theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme-gtk/) - Tema de Ã­cone SVG para sistemas Linux, baseado em Paper com alguns recursos extras como(suporte Ã  hardcode-tray e kde-color-scheme support, tema de Ã­cone libreoffice, tema filezilla, temas smplayer...) e outras modificaÃ§Ãµes. O tema estÃ¡ disponÃ­vel para GTK e KDE. [![Open-Source Software][OSS Icon]](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme-gtk/)  [![freeware][Freeware Icon]
-- [Unity Tweak Tool](https://apps.ubuntu.com/cat/applications/unity-tweak-tool/) - AplicaÃ§Ã£o indispensÃ¡vel para a personalizaÃ§Ã£o da Unity do Ubuntu. [![Open-Source Software][OSS Icon]](https://github.com/ianyh/Amethyst)  [![freeware][Freeware Icon]
-- [Wpgtk](https:github.com/deviantfero/wpgtk) - Um software temÃ¡tico universal para todos os temas definidos em arquivos de texto compatÃ­vel com todos os terminais, com temas paadrÃ£o GTK2, GTK+, openbox e tint2 que usam pywal como nÃºcleo para geraÃ§Ã£o de cores.
-- [Yosembiance theme](https://github.com/bsundman/Yosembiance) - Um tema de ambiente modificado(vagamente) inspirado no OS X Yosemite. [![Open-Source Software][OSS Icon]](https://github.com/bsundman/Yosembiance)  [![freeware][Freeware Icon]
+### Personalização do Desktop
+- [Adapta Theme](https://github.com/tista500/Adapta) - Um tema Gtk+ adaptado baseado nas diretrizes do Material Design. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
+- [Arc Icon Theme](https://github.com/horst3180/arc-icon-theme) - Um tema de ícone modernos que deve ser usado com o Moka Icon Theme. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
+- [Arc Theme](https://github.com/horst3180/arc-theme) - Um tema flat com elementos transparentes. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
+- [Compiz Config settings manager](https://apps.ubuntu.com/cat/applications/compizconfig-settings-manager/) - O projeto OpenCompositing traz efeitos visuais de desktop 3D que melhoram a usabilidade do sistema X Window e proporcionam uma maior produtividade.![Freeware][Freeware Icon]
+- [Conky](https://github.com/brndnmtthws/conky) - Conky é um monitor de sistema gratuito e leve para X, que exibe qualquer tipo de informação no seu Desktop. [![Open-Source Software][OSS Icon]](https://github.com/brndnmtthws/conky)![Freeware][Freeware Icon]
+- [EvoPop Theme](https://github.com/solus-project/evopop-gtk-theme) - EvoPop é uma construção de conjuntos de temas de desktop moderno para o Projeto Solus. Seu design é principalmente flat com um uso minímo de sombras para profundiade. [![Open-Source Software][OSS Icon]](https://github.com/solus-project/evopop-gtk-theme) ![Freeware][Freeware Icon]
+- [Flatabulous Arc Theme](https://github.com/andreisergiu98/arc-flatabulous-theme) - Meu tema favorito para Ubuntu.[![Open-Source Software][OSS Icon]](https://github.com/andreisergiu98/arc-flatabulous-theme)![Freeware][Freeware Icon]
+- [Flatabulous](https://github.com/anmoljagetia/Flatabulous) - Esse é um tema Flat para Ubuntu e Gnome baseados em sistemas Linux. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
+- [Gnome Extensions](http://extensions.gnome.org/) - Extensões para o Gnome Desktop Environment. ![Freeware][Freeware Icon]
+- [Gnome Look](https://www.gnome-look.org/) - Grandes quantidades de ícones criados pela comunidade, temas de shell, fontes, e vários recursos que podem ser usados para customizar seu Gnome desktop Enviromnment, todos localizados em um único site. ![Freeware][Freeware Icon]
+- [Hardcode Tray](https://github.com/bil-elmoussaoui/Hardcode-Tray) - Esse script corrige os ícones hardcoded tray no Linux detectando seu tema padrão automaticamente, o tamanho certo do ícone, as aplicações hard-coded, os ícones certos para cada indicador e os corrige. [![Open-Source Software][OSS Icon]](https://github.com/bil-elmoussaoui/Hardcode-Tray) ![Freeware][Freeware Icon]
+- [Irradiance Theme](https://github.com/bsundman/Irradiance) - Um tema inspirado por OSX Yosemite baseado em Radiance.[![Open-Source Software][OSS Icon]](https://github.com/bsundman/Irradiance)![Freeware][Freeware Icon]
+- [La Capitaine Icon Theme](https://github.com/keeferrourke/la-capitaine-icon-theme) - Um tema de ícone inspirado em Material Design e macOS projetado para se encaixar na maioria dos ambientes desktop. 
+- [Macbuntu](http://www.noobslab.com/2016/04/macbuntu-1604-transformation-pack-for.html) - Um pacote de transformação para fazer com que seu desktop se pareça com um macOS. ![Freeware][Freeware Icon]
+- [Numix Icon Theme](http://www.noobslab.com/2014/04/install-numix-icon-packs-in-ubuntulinux.html) - Um dos melhores temas de ícones do Ubuntu Linux. [![Open-Source Software][OSS Icon]](https://github.com/numixproject/numix-icon-theme) ![Freeware][Freeware Icon]
+- [Numix Theme](https://itsfoss.com/install-numix-ubuntu/) - Um bom tema popular. [![Open-Source Software][OSS Icon]](https://github.com/numixproject/numix-gtk-theme) ![Freeware][Freeware Icon]
+- [Papirus Icon Theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme-gtk/) - Tema de ícone SVG para sistemas Linux, baseado em Paper com alguns recursos extras como(suporte à hardcode-tray e kde-color-scheme support, tema de ícone libreoffice, tema filezilla, temas smplayer...) e outras modificações. O tema está disponível para GTK e KDE. [![Open-Source Software][OSS Icon]](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme-gtk/) ![Freeware][Freeware Icon]
+- [Unity Tweak Tool](https://apps.ubuntu.com/cat/applications/unity-tweak-tool/) - Aplicação indispensável para a personalização da Unity do Ubuntu. [![Open-Source Software][OSS Icon]](https://github.com/ianyh/Amethyst) ![Freeware][Freeware Icon]
+- [Wpgtk](https:github.com/deviantfero/wpgtk) - Um software temático universal para todos os temas definidos em arquivos de texto compatível com todos os terminais, com temas paadrão GTK2, GTK+, openbox e tint2 que usam pywal como núcleo para geração de cores. 
+- [Yosembiance theme](https://github.com/bsundman/Yosembiance) - Um tema de ambiente modificado(vagamente) inspirado no OS X Yosemite. [![Open-Source Software][OSS Icon]](https://github.com/bsundman/Yosembiance) ![Freeware][Freeware Icon]
 
 ### Desenvolvimento
 
