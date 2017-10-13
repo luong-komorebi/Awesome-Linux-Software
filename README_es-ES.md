@@ -1105,7 +1105,7 @@ Muchas gracias a [**Todos los colaboradores de Github**](https://github.com/Lewi
 
 ## Licencia
 
-[![Licencias Creative Commons](https://creativecommons.org/licenses/by/4.0/deed.es_ES)
+![Licencias Creative Commons](https://creativecommons.org/licenses/by/4.0/deed.es_ES)
 
 Este trabajo está licenciado con [Creative Commons Reconocimiento 4.0 Internacional](https://creativecommons.org/licenses/by/4.0/deed.es_ES).
 
