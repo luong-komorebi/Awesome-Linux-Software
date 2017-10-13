@@ -1,4 +1,4 @@
-# El Increíble Software de Linux
+# Increíbles Softwares de Linux
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://awesome.re/)
 
@@ -944,7 +944,7 @@
 
 ### Bodhi
 
-- [What is Bodhi](https://es.wikipedia.org/wiki/Bodhi_Linux)
+- [¿Qué es Bodhi?](https://es.wikipedia.org/wiki/Bodhi_Linux)
 - [Where to download Bodhi (Inglés)](http://www.bodhilinux.com/download/)
 - [How do I install Bodhi (Inglés)](http://www.bodhilinux.com/w/installation-instructions/)
 
@@ -959,7 +959,7 @@
 
 ### openSUSE
 
-- [¿Qué es OpenSUSE? (Inglés)](https://es.wikipedia.org/wiki/OpenSUSE)
+- [¿Qué es OpenSUSE?](https://es.wikipedia.org/wiki/OpenSUSE)
 - [Reasons to try openSUSE (Inglés)](http://www.pcworld.com/article/222065/5_reasons_to_try_opensuse_114.html)
 - [Preguntas frecuentes](https://es.opensuse.org/openSUSE:Preguntas_frecuentes)
 - [Cómo instalar OpenSUSE](https://es.opensuse.org/Portal:Instalaci%C3%B3n)

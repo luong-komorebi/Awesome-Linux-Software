@@ -22,6 +22,8 @@ This script only sorts items in the following topics for now (items between topi
 
 ## Note
 `asort_zh.py` works for the file [README_zh-CN.md](https://github.com/VoLuong/Awesome-Linux-Software/blob/master/README_zh-CN.md), the Chinese version of this list.
+`asort_pt-BR.py` works for the Brasilian Portuguese version of the file [README_pt-BR](https://github.com/VoLuong/Awesome-Linux-Software/blob/master/README_pt-BR.md)
+`asort_zh.py` works for the Spanish version of the file [README_es-ES](https://github.com/VoLuong/Awesome-Linux-Software/blob/master/README_es-ES.md)
 
 # License
 MIT License.
@@ -75,8 +77,8 @@ Este script apenas classifica itens nos seguintes tópicos por enquanto (Itens e
 Licença MIT.
 
 ---------------------------------------------
-#Español
-'asot.py' es un es un simple script para garantizar los elementos del archivo README del repositorio [Awesome-Linux-Software](https://github.com/VoLuong/Awesome-Linux-Software) se ordenan alfabéticamente.
+# Español
+`asort.py` es un es un simple script para garantizar los elementos del archivo README del repositorio [Awesome-Linux-Software](https://github.com/VoLuong/Awesome-Linux-Software) se ordenan alfabéticamente.
 
 Este script sólo puede ordenar elementos en estas secciones por ahora (Los elementos son las secciones entre aplicaciones y Configuración)
 - Aplicaciones
@@ -93,7 +95,11 @@ Este script sólo puede ordenar elementos en estas secciones por ahora (Los elem
 ![Una captura de pantalla de prueba](./test.png)
 
 #Notas
+`asort.py` es compatible con la versión en inglés de la lista [README](https://github.com/VoLuong/Awesome-Linux-Software/blob/master/README.md)
 `asort_zh.py` es compatible con la versión china de la lista [README_zh-CN.md](https://github.com/VoLuong/Awesome-Linux-Software/blob/master/README_zh-CN.md)
+`asort_pt-BR.py` es compatible con la versión portuguesa brasileña de la lista [README_pt-BR](https://github.com/VoLuong/Awesome-Linux-Software/blob/master/README_pt-BR.md)
+`asort_es-ES.py` es compatible con la versión español de la lista [README_es-ES](https://github.com/VoLuong/Awesome-Linux-Software/blob/master/README_es-ES.md)
+
 
 # Licencia
 Licencia MIT
