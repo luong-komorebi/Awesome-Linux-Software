@@ -1,3 +1,8 @@
+<h1 align="center">
+	<br>
+	<img width="200" src="https://cdn.rawgit.com/sindresorhus/awesome/master/media/logo.svg" alt="awesome">
+	<br>
+</h1>
 # Awesome Linux Software
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://awesome.re)
@@ -194,12 +199,12 @@ This repo has been published on [Gitbook](https://voluong.gitbooks.io/awesome-li
 
 #### Desktop Themes
 
-- [Adapta Theme](https://github.com/tista500/Adapta) - An adaptive Gtk+ theme based on Material Design Guidelines. [![Open-Source Software][oss icon](https://github.com/adapta-project/adapta-gtk-theme)
+- [Adapta Theme](https://github.com/tista500/Adapta) - An adaptive Gtk+ theme based on Material Design Guidelines. [![Open-Source Software][oss icon]](https://github.com/adapta-project/adapta-gtk-theme)
 - [Ant Theme](http://www.omgubuntu.co.uk/2017/09/ant-flat-gtk-theme-bloody-bite) - Ant is a flat GTK theme for Ubuntu and other GNOME-based Linux desktops it comes in three varieties: vanilla, Bloody, or Dracula. [![Open-Source Software][oss icon]](https://github.com/EliverLara/Ant)
-- [Arc Theme](https://github.com/horst3180/arc-theme) - A flat theme with transparent elements [![Open-Source Software][oss icon](https://github.com/horst3180/arc-theme)
+- [Arc Theme](https://github.com/horst3180/arc-theme) - A flat theme with transparent elements [![Open-Source Software][oss icon]](https://github.com/horst3180/arc-theme)
 - [EvoPop Theme](https://github.com/solus-project/evopop-gtk-theme) - EvoPop is a modern desktop theme suite build for the Solus Project. Its design is mostly flat with a minimal use of shadows for depth. [![Open-Source Software][oss icon]](https://github.com/solus-project/evopop-gtk-theme)
 - [Flatabulous Arc Theme](https://github.com/andreisergiu98/arc-flatabulous-theme) - A flat and blue GTK theme that also comes in darker versions. [![Open-Source Software][oss icon]](https://github.com/andreisergiu98/arc-flatabulous-theme)
-- [Flatabulous](https://github.com/anmoljagetia/Flatabulous) - This is a Flat theme for Ubuntu and other Gnome based Linux Systems. [![Open-Source Software][oss icon](https://github.com/anmoljagetia/Flatabulous)
+- [Flatabulous](https://github.com/anmoljagetia/Flatabulous) - This is a Flat theme for Ubuntu and other Gnome based Linux Systems. [![Open-Source Software][oss icon]](https://github.com/anmoljagetia/Flatabulous)
 - [Irradiance Theme](https://github.com/bsundman/Irradiance) - A Unity theme inspired by OSX Yosemite based on Radiance. [![Open-Source Software][oss icon]](https://github.com/bsundman/Irradiance)
 - [Numix Theme](https://itsfoss.com/install-numix-ubuntu) - A flat and colorful GTK-Theme. [![Open-Source Software][oss icon]](https://github.com/numixproject/numix-gtk-theme)
 - [Yosembiance theme](https://github.com/bsundman/Yosembiance) - A modified Ambiance theme (loosely) inspired by OSX Yosemite. [![Open-Source Software][oss icon]](https://github.com/bsundman/Yosembiance)
@@ -219,8 +224,8 @@ This repo has been published on [Gitbook](https://voluong.gitbooks.io/awesome-li
 
 #### Desktop Icon Packs
 
-- [Arc Icon Theme](https://github.com/horst3180/arc-icon-theme) - A modern flat icon theme that builds on and requires the Moka Icon Theme to work. [![Open-Source Software][oss icon](https://github.com/horst3180/arc-icon-theme)
-- [La Capitaine Icon Theme](https://github.com/keeferrourke/la-capitaine-icon-theme) - A macOS and Material design inspired icon theme designed to fit into most desktop environments. [![Open-Source Software][oss icon](https://github.com/keeferrourke/la-capitaine-icon-theme)
+- [Arc Icon Theme](https://github.com/horst3180/arc-icon-theme) - A modern flat icon theme that builds on and requires the Moka Icon Theme to work. [![Open-Source Software][oss icon]](https://github.com/horst3180/arc-icon-theme)
+- [La Capitaine Icon Theme](https://github.com/keeferrourke/la-capitaine-icon-theme) - A macOS and Material design inspired icon theme designed to fit into most desktop environments. [![Open-Source Software][oss icon]](https://github.com/keeferrourke/la-capitaine-icon-theme)
 - [Moka Icon Theme](https://snwh.org/moka) - Moka was created with simplicity in mind. With the use simple geometry & bright colours. [![Open-Source Software][oss icon]](https://github.com/snwh/moka-icon-theme)
 - [Numix Icon Theme](http://www.noobslab.com/2014/04/install-numix-icon-packs-in-ubuntulinux.html) - A flat icon theme that comes in two varieties, Numix Main, and Numix circle. [![Open-Source Software][oss icon]](https://github.com/numixproject/numix-icon-theme)
 - [Papirus Icon Theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme-gtk) - SVG icon theme for Linux systems, based on Paper with a few extras like (hardcode-tray support, kde-color-scheme support, libreoffice icon theme, filezilla theme, smplayer themes ...) and other modifications. The theme is available for GTK and KDE. [![Open-Source Software][oss icon]](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme-gtk)
@@ -477,7 +482,7 @@ This repo has been published on [Gitbook](https://voluong.gitbooks.io/awesome-li
 - [PlayOnLinux](https://www.playonlinux.com) - A front-end for Wine. [![Open-Source Software][oss icon]
 - [Steam](steampowered.com) - Gaming store, which opens the gates to many games.
 - [RetroArch](http://www.retroarch.com) - A front-end for a lot of game emulators. [![Open-Source Software][oss icon]
-- [Lutris](https://lutris.net) - Lutris is an open gaming platform for Linux. It helps you install and manage your games in a unified interface. [![Open-Source Software][oss icon](https://github.com/lutris/lutris)
+- [Lutris](https://lutris.net) - Lutris is an open gaming platform for Linux. It helps you install and manage your games in a unified interface. [![Open-Source Software][oss icon]](https://github.com/lutris/lutris)
 
 ### Graphics
 
@@ -644,7 +649,7 @@ This repo has been published on [Gitbook](https://voluong.gitbooks.io/awesome-li
 - [Cerebro](https://cerebroapp.com) - Open-source productivity booster with a brain / MacOS-Spotlight alternative. [![Open-Source Software][oss icon]](https://github.com/KELiON/cerebro)
 - [Plotinus](https://github.com/p-e-w/plotinus) - A searchable command palette in every modern GTK+ application. [![Open-Source Software][oss icon]](https://github.com/p-e-w/plotinus)
 
-#### Miscellaneous
+#### Miscellaneous Productivity
 - [Ambient Noise](https://itsfoss.com/ambient-noise-music-player-ubuntu) - An ambient noise generator for Linux.
 - [bcal](https://github.com/jarun/bcal) - Perform storage conversions and calculations. [![Open-Source Software][oss icon]](https://github.com/jarun/bcal)
 - [CopyQ](http://hluk.github.io/CopyQ) -CopyQ is advanced clipboard manager with editing and scripting features. [![Open-Source Software][oss icon]](https://github.com/hluk/CopyQ)
@@ -731,7 +736,7 @@ This repo has been published on [Gitbook](https://voluong.gitbooks.io/awesome-li
 - [Quazaa](https://sourceforge.net/projects/quazaa) - A cross platform multi-network peer-to-peer (P2P) file-sharing client.
 - [SpiderOak](https://spideroak.com) - Real-time collaboration for teams and businesses that care about privacy
 - [Syncthing](https://syncthing.net) - Syncthing replaces proprietary sync and cloud services with something open, trustworthy and decentralized. [![Open-Source Software][oss icon]](https://github.com/syncthing/syncthing)
-- [Teamviewer](https://www.teamviewer.com/ ) - PC remote control/remote access software, free for personal use.
+- [Teamviewer](https://www.teamviewer.com) - PC remote control/remote access software, free for personal use.
 - [Transmission](https://www.transmissionbt.com/download) - Simple, lightweight, multi-platform torrent client. [![Open-Source Software][oss icon]](https://trac.transmissionbt.com/browser/trunk)
 - [Transmission Remote GUI](https://sourceforge.net/projects/transgui) - Transmission Remote GUI is a feature rich cross platform front-end to remotely control a Transmission Bit-Torrent client daemon via its RPC protocol. [![Open-Source Software][oss icon]](https://github.com/leonsoft-kras/transmisson-remote-gui)
 - [uGet](http://ugetdm.com) - A download manager that can monitor the clipboard for downloadable links, and can create a list of downloads, and run them in parallel. [![Open-Source Software][oss icon]](http://ugetdm.com/contribute/code)
@@ -1127,6 +1132,5 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 A beer in your country can buy a meal in mine.
 
-[chitchat]: https://github.com/stonesam92/ChitChat
 [oss icon]: https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg
 [money icon]: https://rawgit.com/LewisVo/Awesome-Linux-Software/master/img/money.svg
