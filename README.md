@@ -761,6 +761,7 @@
 - [Yakuake](https://yakuake.kde.org/) - A Quake-style terminal emulator based on KDE Konsole technology.
 
 ### Utilities
+- [Alien Package Converter](https://sourceforge.net/projects/alien-pkg-convert/) - Package converter. Converts between RPM, DPKG, SLP, and TGZ package formats. [![Open-Source Software][OSS Icon]](https://github.com/mildred/alien)
 - [Angry IP Scanner](http://angryip.org/) - Fast and friendly network scanner. [![Open-Source Software][OSS Icon]](https://github.com/angryip/ipscan)
 - [Aptik](http://www.teejeetech.in/2014/01/introducing-aptik.html) - A tool for you to organize your Favorite PPAs and manage Packages Easily. [![Open-Source Software][OSS Icon]](https://code.launchpad.net/~teejee2008/apt-toolkit/trunk)
 - [Bleach bit](https://www.bleachbit.org/) - BleachBit quickly frees disk space and tirelessly guards your privacy. Free cache, delete cookies, clear Internet history, shred temporary files, delete logs, and more.
