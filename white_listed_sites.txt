@@ -132,6 +132,7 @@ https://en.wikipedia.org/wiki/Ubuntu_%28operating_system%29%0D%0A
 https://eugeny.github.io/terminus
 https://firehol.org/tutorial/fireqos-new-user
 https://foicica.com/textadept
+https://git.enlightenment.org/core/efl.git
 https://git.gnome.org//browse/giggle
 https://git.joeyh.name/git/ikiwiki.git
 https://git.pwmt.org/pwmt/zathura.git
