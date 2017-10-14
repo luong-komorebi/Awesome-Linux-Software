@@ -42,7 +42,7 @@ Duas versões chinesas desta lista estão disponíveis [aqui](https://github.com
     - [Vídeo](#video)
     - [Outros](#others)
 - [Command Line Utilities](#command-line-utilities)
-- [Amboentes para Desktop](#desktop-environments)
+- [Ambientes para Desktop](#desktop-environments)
 - [Gestores de exibição](#display-manager)
     - [Console](#console)
     - [Gráfico](#graphic)
