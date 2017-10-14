@@ -127,6 +127,7 @@ https://cisofy.com/lynis
 https://code-industry.net/free-pdf-editor
 https://colinduquesnoy.github.io/MellowPlayer
 https://creativecommons.org/licenses/by/4.0
+https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide
 https://eclipse.org/ide
 https://en.wikipedia.org/wiki/Ubuntu_%28operating_system%29%0D%0A
 https://eugeny.github.io/terminus
@@ -144,6 +145,7 @@ https://github.com/Aluxian/Facebook-Messenger-Desktop
 https://github.com/andreisergiu98/arc-flatabulous-theme
 https://github.com/anmoljagetia/Flatabulous
 https://github.com/antonio-malcolm/gloobus-preview
+https://github.com/audacity/audacity
 https://github.com/bil-elmoussaoui/Hardcode-Tray
 https://github.com/bohoomil/fontconfig-ultimate
 https://github.com/brndnmtthws/conky
