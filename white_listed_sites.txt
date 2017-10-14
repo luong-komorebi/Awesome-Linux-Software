@@ -5,6 +5,7 @@ http://askubuntu.com/questions/250773/how-do-i-install-chromium-from-the-command
 http://askubuntu.com/questions/294421/how-do-i-install-nemo-file-manager
 http://basket.kde.org
 http://basket.kde.org/svnaccess.php
+http://blog.floydhub.com/coding-the-history-of-deep-learning/
 http://bluej.org
 http://calibre-ebook.com
 http://celestiaproject.net
@@ -18,10 +19,12 @@ http://dbeaver.jkiss.org
 http://deviantfero.github.io/wpgtk
 http://doublecmd.sourceforge.net
 http://dwm.suckless.org
+http://eli.thegreenplace.net
 http://enlightenment.org
 http://extensions.gnome.org
 http://fritzing.org
 http://ftp.gnu.org/gnu/gtypist
+http://gatecse.in/best-books-for-gatecse/
 http://getharmony.xyz
 http://git.finalrewind.org/feh
 http://git.igalia.com/meiga.git
@@ -73,11 +76,13 @@ http://www.cinepaint.org
 http://www.dedoimedo.com
 http://www.digikam.org
 http://www.freedesktop.org/wiki/Software/LightDM
+http://www.gsmarena.com
 http://www.howtogeek.com/howto/20126/rip-audio-cds-with-sound-juicer
 http://www.howtogeek.com/t/linux
 http://www.k3b.org
 http://www.kde.org
 http://www.kohaupt-online.de/hp
+http://www.le.ac.uk/users/rjm1/cotter/index.htm
 http://www.lucidor.org/lucidor
 http://www.maartenbaert.be/simplescreenrecorder
 http://www.makeuseof.com/service/linux
@@ -243,6 +248,7 @@ https://gnunn1.github.io/tilix-web
 https://goo.gl/xhiKla
 https://guides.github.com/activities/forking
 https://guides.github.com/features/mastering-markdown
+https://hackernoon.com
 https://help.gnome.org/users/gnome-terminal/stable
 https://i3wm.org
 https://inkscape.org/en
@@ -260,6 +266,7 @@ https://launchpad.net/qpdfview
 https://launchpad.net/sakura
 https://lkml.org
 https://mariadb.org/get-involved/getting-started-for-developers
+https://medium.freecodecamp.org/every-time-you-build-a-to-do-list-app-a-puppy-dies-505b54637a5d?gi=c786640fbd11
 https://minbrowser.github.io/min
 https://minecraft.net
 https://minetest.net
