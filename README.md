@@ -476,6 +476,7 @@
 - [Steam](steampowered.com) - Gaming store, which opens the gates to many games.
 - [RetroArch](http://www.retroarch.com/) - A front-end for a lot of game emulators. [![Open-Source Software][OSS Icon]
 - [Lutris](https://lutris.net/) - Lutris is an open gaming platform for Linux. It helps you install and manage your games in a unified interface. [![Open-Source Software][OSS Icon](https://github.com/lutris/lutris)
+- [itch](https://itch.io/) - The itch.io app. All of your downloads are kept in a single place and are automatically updated. Plenty of free games. [![Open-Source Software][OSS Icon](https://github.com/itchio/itch)
 
 ### Graphics
 
