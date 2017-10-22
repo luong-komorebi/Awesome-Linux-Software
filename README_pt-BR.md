@@ -236,17 +236,17 @@ Ele foi projetado principalmente para ajudar a recuperar partições perdidas e/
 - [Fritzing](http://fritzing.org/) - Fritzing é uma iniciativa de hardware open-source que torna eletrônicos acessíveis como material criativo para qualquer um. [![Open-Source Software][OSS Icon]](https://github.com/fritzing/fritzing-app)
 - [Sloeber IDE](http://eclipse.baeyens.it/) - Sloeber IDE. A IDE de Arduino para o Eclipse. [![Open-Source Software][OSS Icon]](https://github.com/jantje/arduino-eclipse-plugin)
 
-#### Multiple Languages Support
-- [Aptana](http://www.aptana.com/) - Aptana Studio harnesses the flexibility of Eclipse and focuses it into a powerful web development engine.
-- [KDevelop](https://www.kdevelop.org/) - It is a free, open source IDE, feature-full, plugin extensible IDE for C/C++ and other programming languages. [![Open-Source Software][OSS Icon]](https://phabricator.kde.org/dashboard/view/8/)
-- [MonoDevelop](http://www.monodevelop.com/) - Cross platform IDE for C#, F# and more. [![Open-Source Software][OSS Icon]](http://www.monodevelop.com/developers/)
-- [Netbeans](https://netbeans.org/downloads/) - NetBeans IDE lets you quickly and easily develop Java desktop, mobile, and web applications, as well as HTML5 applications with HTML, JavaScript, and CSS.
+#### Suporte multilinguagem
+- [Aptana](http://www.aptana.com/) - Aptana Studio aproveita a flexibilidade do Eclipse e foca isto em uma poderoso mecanismo de desenvolvimento web.
+- [KDevelop](https://www.kdevelop.org/) - Uma IDE de códio aberto livre, feature-full com plugin extensível da IDE para C/C++ e dentre outras linguagens de programação. [![Open-Source Software][OSS Icon]](https://phabricator.kde.org/dashboard/view/8/)
+- [MonoDevelop](http://www.monodevelop.com/) - IDE para as plataformas C#, F# e outras. [![Open-Source Software][OSS Icon]](http://www.monodevelop.com/developers/)
+- [Netbeans](https://netbeans.org/downloads/) - NetBeans IDE o permite rapidamente e facilmente desenvolver aplicações Java para desktop, mobile e aplicações web, também como aplicaçes HTML5 com HTML, Javascript e CSS. 
 
 #### PHP
-- [PHPStorm](https://www.jetbrains.com/phpstorm/) - Lightning-smart and powerful PHP IDE from Jetbrain.
+- [PHPStorm](https://www.jetbrains.com/phpstorm/) - Uma IDE leve, inteligente e poderosa para PHP fornecida pela Jetbrain. 
 
 #### Python
-- [PyCharm](https://www.jetbrains.com/pycharm/) - Powerful IDE for Python
+- [PyCharm](https://www.jetbrains.com/pycharm/) - IDE poderosa para Python.
 
 #### Shell
 - [Fish](https://fishshell.com/) - A smart and user-friendly command-line shell. [![Open-Source Software][OSS Icon]](https://github.com/fish-shell/fish-shell)
