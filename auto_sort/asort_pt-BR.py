@@ -13,12 +13,12 @@ import os
 import shutil
 
 
-README_FILE = '../README_zh-CN.md'
-TEMP_FILE = 'temp_zh.md'
+README_FILE = '../README_pt-BR.md'
+TEMP_FILE = 'temp_pt-BR.md'
 
 # only works for those items between BEGIN and END.
-BEGIN = '## 应用'
-END = '## 设置'
+BEGIN = '## Aplicativos'
+END = '## Configuração'
 
 
 def main():
@@ -28,13 +28,13 @@ def main():
     README_FILE = os.path.abspath(README_FILE)
 
     if not os.path.exists(README_FILE):
-        print('Error: no such file or directory: {}'.format(README_FILE))
+        print('Erro: Arquivo ou diretório não existe: {}'.format(README_FILE))
         exit(1)
 
     sort_enable = False
     items = list()
 
-    print('Loading file: {}'.format(README_FILE))
+    print('Carregando arquivo: {}'.format(README_FILE))
 
     # read file: README.md
     with open(README_FILE) as infile, open(TEMP_FILE, 'w') as outfile:
@@ -69,10 +69,9 @@ def main():
             else:
                 print(line, end='', file=outfile)
 
-    print('Replace the original file: README_zh-CN.md')
+    print('Substitua o arquivo original: README_pt-BR.md')
     shutil.move(TEMP_FILE, README_FILE)
 
 
 if __name__ == '__main__':
     main()
-
