@@ -226,6 +226,56 @@
 
 ### Development
 
+- [Anbox](https://anbox.io) - Run Android applications on any GNU/Linux operating system.[![Open-Source Software][OSS Icon]](https://github.com/anbox/anbox) ![Freeware][Freeware Icon]
+- [Android studio](https://developer.android.com/studio/index.html) - The Official IDE for Android: Android Studio provides the fastest tools for building apps on every type of Android device.![Freeware][Freeware Icon]
+- [AppImage](http://appimage.org/) - A format and tools to distribute Linux desktop applications to users of many distributions. [![Open-Source Software][OSS Icon]](http://appimage.org/) ![Freeware][Freeware Icon]
+- [Aptana](http://www.aptana.com/) - Aptana Studio harnesses the flexibility of Eclipse and focuses it into a powerful web development engine.![Freeware][Freeware Icon]
+- [Arduino IDE](https://www.arduino.cc/en/Main/Software) - The open-source Arduino Software (IDE) makes it easy to write code and upload it to the board. ![Freeware][Freeware Icon]
+- [BlueJ](http://bluej.org/) - A free Java Development Environment designed for beginners, used by millions worldwide.![Freeware][Freeware Icon]
+- [Clion](https://www.jetbrains.com/clion/) - A cross-platform and powerful IDE for C and C++.
+- [Code::Blocks](http://www.codeblocks.org/) - Code::Blocks is a free C, C++ and Fortran IDE built to meet the most demanding needs of its users. It is designed to be very extensible and fully configurable. ![Freeware][Freeware Icon]
+- [Codelite](http://codelite.org/) - A Free, open source, cross platform C,C++,PHP and Node.js IDE. ![Freeware][Freeware Icon]
+- [DataGrip](https://www.jetbrains.com/datagrip/) - DataGrip is a cross-platform IDE that is aimed at DBAs and developers working with SQL databases. It has built-in drivers that support DB2, Derby, H2, HSQLDB, MySQL, Oracle, PostgreSQL, SQL Server, Sqlite and Sybase.
+- [DBeaver](http://dbeaver.jkiss.org/) - A universal database client supporting multiple platforms and databases. [![Open-Source Software][OSS Icon]](https://github.com/serge-rider/dbeaver/) ![Freeware][Freeware Icon]
+- [Eclipse](https://eclipse.org/ide/) - Eclipse is famous for our Java Integrated Development Environment (IDE), but our C/C++ IDE and PHP IDE are pretty cool too![Freeware][Freeware Icon]
+- [Fisherman](https://github.com/fisherman/fisherman) - A plugin manager for fish shell. [![Open-Source Software][OSS Icon]](https://github.com/fisherman/fisherman) ![Freeware][Freeware Icon]
+- [Fish](https://fishshell.com/) - A smart and user-friendly command-line shell. [![Open-Source Software][OSS Icon]](https://github.com/fish-shell/fish-shell) ![Freeware][Freeware Icon]
+- [Fossil](https://www.fossil-scm.org) - Self-contained, distributed software configuration management system with integrated bug-tracking, wiki, technotes and web interface. [![Open-Source Software][OSS Icon]](https://www.fossil-scm.org/index.html/dir?ci=tip)![Freeware][Freeware Icon]
+- [Fritzing](http://fritzing.org/) - Fritzing is an open-source hardware initiative that makes electronics accessible as a creative material for anyone.[![Open-Source Software][OSS Icon]](https://github.com/fritzing/fritzing-app)![Freeware][Freeware Icon]
+- [Geany](https://www.geany.org/) - Geany is a text editor using the GTK+ toolkit with basic features of an integrated development environment. It was developed to provide a small and fast IDE, which has only a few dependencies from other packages. [![Open-Source Software][OSS Icon]](https://www.geany.org/Download/Git)![Freeware][Freeware Icon]
+- [Genymotion](https://www.genymotion.com/features/) - Genymotion is a fast third-party emulator that can be used instead of the default Android emulator.![Freeware][Freeware Icon]
+- [Giggle](https://wiki.gnome.org/action/show/Apps/giggle?action=show&redirect=giggle) - Giggle is a graphical frontend for the git content tracker. [![Open-Source Software][OSS Icon]](https://git.gnome.org//browse/giggle/)![Freeware][Freeware Icon]
+- [GitCola](http://git-cola.github.io/) - Git Cola is a sleek and powerful graphical Git client. Written in Python and GPL licensed. ![Freeware][Freeware Icon]
+- [Gitg](https://wiki.gnome.org/Apps/Gitg) - gitg is the GNOME GUI client to view git repositories. [![Open-Source Software][OSS Icon]](https://wiki.gnome.org/Apps/Gitg#Development_Resources)![Freeware][Freeware Icon]
+- [GitKraken](https://www.gitkraken.com/) - The downright luxurious Git GUI client,for Windows, Mac & Linux. ![Freeware][Freeware Icon]
+- [Git](https://git-scm.com/) - Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.![Freeware][Freeware Icon]
+- [Insomnia](https://insomnia.rest/) - A simple, beautiful, and free REST API client. ![Freeware][Freeware Icon]
+- [IntelliJ IDEA](https://www.jetbrains.com/idea/) - Powerful IDE for JAVA ![Freeware][Freeware Icon]
+- [Ipython](https://ipython.org/) - Powerful python shell. [![Open-Source Software][OSS Icon]](https://github.com/ipython/ipython)![Freeware][Freeware Icon]
+- [Jupyter Notebook](https://jupyter.org/) - Open source, interactive data science and scientific computing across over 40 programming languages. [![Open-Source Software][OSS Icon]](https://jupyter.readthedocs.io/en/latest/install.html)![Freeware][Freeware Icon]
+- [KDevelop](https://www.kdevelop.org/) - It is a free, open source IDE, feature-full, plugin extensible IDE for C/C++ and other programming languages.![Freeware][Freeware Icon]
+- [Komodo Edit](http://komodoide.com/komodo-edit/) - Free and open source multilanguage development environment. ![Freeware][Freeware Icon]
+- [MariaDB](https://mariadb.org/) - One of the most popular database servers. Made by the original developers of MySQL.![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://mariadb.org/get-involved/getting-started-for-developers/)
+- [MonoDevelop](http://www.monodevelop.com/) - Cross platform IDE for C#, F# and more.![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](http://www.monodevelop.com/developers/)
+- [Nemiver](https://github.com/GNOME/nemiver) - Nemiver is a project to write a standalone graphical debugger that integrates well in the GNOME desktop environment. [![Open-Source Software][OSS Icon]](https://github.com/GNOME/nemiver) ![Freeware][Freeware Icon]
+- [Netbeans](https://netbeans.org/downloads/) - NetBeans IDE lets you quickly and easily develop Java desktop, mobile, and web applications, as well as HTML5 applications with HTML, JavaScript, and CSS. ![Freeware][Freeware Icon]
+- [NodeJS](https://nodejs.org/en/) - Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine. ![Freeware][Freeware Icon]
+- [Oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - Provides various packages and themes to extend the functionality of your fish shell. [![Open-Source Software][OSS Icon]](https://github.com/oh-my-fish/oh-my-fish) ![Freeware][Freeware Icon]
+- [Oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - A delightful community-driven framework for managing your zsh configuration. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]]( https://github.com/robbyrussell/oh-my-zsh)
+- [Pick](http://kryogenix.org/code/pick/) - Simple color picker. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]]( https://github.com/stuartlangridge/ColourPicker)
+- [Postgresql](https://www.postgresql.org/download/) - PostgreSQL is a powerful, open source object-relational database system. ![Freeware][Freeware Icon]
+- [Postman](https://www.getpostman.com) - Postman, help us test API quickly.![Freeware][Freeware Icon]
+- [PyCharm](https://www.jetbrains.com/pycharm/) - Powerful IDE for Python ![Freeware][Freeware Icon]
+- [QT Creator](https://www.qt.io/ide/) - Fully-stocked cross-platform integrated development environment for easy creation of connected devices, UIs and applications.![Freeware][Freeware Icon]
+- [Rabbit VCS](http://rabbitvcs.org/) - RabbitVCS is a set of graphical tools written to provide simple and straightforward access to the version control systems you use. [![Open-Source Software][OSS Icon]](https://github.com/rabbitvcs/rabbitvcs) ![Freeware][Freeware Icon]
+- [Sloeber IDE](http://eclipse.baeyens.it/) - Sloeber IDE. The Arduino IDE for Eclipse. I love it very much. [![Open-Source Software][OSS Icon]](https://github.com/jantje/arduino-eclipse-plugin) ![Freeware][Freeware Icon]
+- [SmartGit](http://www.syntevo.com/smartgit/) - SmartGit is a Git client with support for GitHub Pull Requests+Comments and SVN.
+- [Sqlite Browser](http://sqlitebrowser.org/) - Visually create, manage, and view sqlite database files. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/sqlitebrowser/sqlitebrowser)
+- [StarUML](http://staruml.io/) - A sophisticated software modeler.![Freeware][Freeware Icon](http://staruml.io/)
+- [Swift](https://swift.org/download/) - Swift is a general-purpose programming language built using a modern approach to safety, performance, and software design patterns. ![Freeware][Freeware Icon]
+- [Ubuntu-SDK](https://developer.ubuntu.com/en/phone/platform/sdk/installing-the-sdk/) - The official Ubuntu SDK. ![Freeware][Freeware Icon]
+=======
+
 #### Android
 - [![Open-Source Software][OSS Icon]](https://github.com/anbox/anbox) [Anbox](https://anbox.io) - Run Android applications on any GNU/Linux operating system. 
 - [Android studio](https://developer.android.com/studio/index.html) - The Official IDE for Android: Android Studio provides the fastest tools for building apps on every type of Android device.
@@ -317,7 +367,7 @@
 - ![Non Free][Money Icon] [StarUML](http://staruml.io/) - A sophisticated software modeler.
 - [![Open-Source Software][OSS Icon]](http://uncrustify.sourceforge.net/) [Uncrustify](http://uncrustify.sourceforge.net/) - Source Code Beautifier for C, C++, C#, ObjectiveC, D, Java, Pawn and VALA. See UniversalIndentGUI below. 
 - [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/universalindent/files/uigui/) [UniversalIndentGUI](http://universalindent.sourceforge.net/) - UniversalIndentGUI offers a live preview for setting the parameters of nearly any indenter. 
-- [![Open-Source Software][OSS Icon]](https://www.gnu.org/software/wdiff/devguide) [Wdiff](https://www.gnu.org/software/wdiff/) - The GNU wdiff program is a front end to diff for comparing files on a word per word basis. It collects the diff output and uses it to produce a nicer display of word differences between the original files. 
+- [![Open-Source Software][OSS Icon]](https://www.gnu.org/software/wdiff/devguide) [Wdiff](https://www.gnu.org/software/wdiff/) - The GNU wdiff program is a front end to diff for comparing files on a word per word basis. It collects the diff output and uses it to produce a nicer display of word differences between the original files.
 - [Wireshark](https://www.wireshark.org/) - Wireshark is the world's foremost network protocol analyzer. It lets you see what's happening on your network at a microscopic level. It is the de facto (and often de jure) standard across many industries and educational institutions.
 - [![Open-Source Software][OSS Icon]](https://github.com/zealdocs/zeal) [Zeal](https://zealdocs.org/) - Zeal is an offline documentation browser for software developers. 
 
