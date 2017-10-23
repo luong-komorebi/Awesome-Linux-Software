@@ -147,6 +147,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/stanfieldr/ghetto-skype) [GhettoSkype](https://github.com/stanfieldr/ghetto-skype) - open source web wrapper for Skype. 
 - [![Open-Source Software][OSS Icon]](https://github.com/Aluxian/Facebook-Messenger-Desktop) [Messenger for Desktop](https://messengerfordesktop.com/#download) - An app for Facebook messenger. 
 - [![Open-Source Software][OSS Icon]](https://github.com/raelgc/scudcloud/) [ScudCloud](https://github.com/raelgc/scudcloud/) - A Slack client for Linux. 
+- [![Open-Source Software][OSS Icon]](https://github.com/yakyak/yakyak) [YakYak](https://github.com/yakyak/yakyak) -  Desktop chat client for Google Hangouts. 
 
 #### All-in-One Client
 - [Franz](http://meetfranz.com/) - Franz is a free messaging app that combines many chat & messaging services into one application.

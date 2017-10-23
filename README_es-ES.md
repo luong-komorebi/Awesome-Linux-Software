@@ -146,6 +146,7 @@
 - [GhettoSkype](https://github.com/stanfieldr/ghetto-skype) - Un Software código abierto envoltura el programma web para Skype. [![Open-Source Software][OSS Icon]](https://github.com/stanfieldr/ghetto-skype)
 - [Messenger for Desktop](https://messengerfordesktop.com/#download) - Una Programa para mensajería instantánea de Facebook. [![Open-Source Software][OSS Icon]](https://github.com/Aluxian/Facebook-Messenger-Desktop)
 - [ScudCloud](https://github.com/raelgc/scudcloud/) - Un Cliente para slack no oficial para Linux. [![Open-Source Software][OSS Icon]](https://github.com/raelgc/scudcloud/)
+- [![Open-Source Software][OSS Icon]](https://github.com/yakyak/yakyak) [YakYak](https://github.com/yakyak/yakyak) -  Cliente de Google Hangouts para escritorio.
 
 #### mensajería instantánea Cliente herramientas
 - [Red Discord Bot](https://cogs.red) - "Red Discord Bot" este una programa servidor auto-alojamiento para Discord. El Programa puede instalar más "Cogs" para funciones adicionales. Puede funcionar en un Raspberri Pi. [![Open-Source Software][OSS Icon]](https://github.com/Cog-Creators/Red-DiscordBot)
@@ -885,7 +886,7 @@
 - [Unity](https://unity.ubuntu.com/) - Unity es el entorno de escritorio predeterminado para Ubuntu. Se basa en GNOME 3.
 - [Xfce](https://www.xfce.org/) - Xfce es un entorno de escritorio ligero diseñado para ser modular y muy personalizable. [![Open-Source Software][OSS Icon]](https://github.com/xfce-mirror)
 
-## Gestors des pantallas
+## Gestores de pantallas
 
 ### Console
 - [CDM](https://github.com/ghost1227/cdm) - Un administrador de inicio de sesión muy minimalista escrito en Bash. [![Open-Source Software][OSS Icon]](https://github.com/ghost1227/cdm)
