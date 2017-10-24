@@ -478,6 +478,8 @@
 - [Steam](steampowered.com) - Gaming store, which opens the gates to many games.
 - ![Open-Source Software][OSS Icon] [RetroArch](http://www.retroarch.com/) - A front-end for a lot of game emulators. 
 - [![Open-Source Software][OSS Icon]](https://github.com/lutris/lutris) [Lutris](https://lutris.net/) - Lutris is an open gaming platform for Linux. It helps you install and manage your games in a unified interface. 
+- [![Open-Source Software][OSS Icon]](https://github.com/itchio/itch)[itch](https://itch.io/) - The itch.io app. All of your downloads are kept in a single place and are automatically updated. Plenty of free games.
+
 
 ### Graphics
 
@@ -507,6 +509,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/jarun/imgp) [imgp](https://github.com/jarun/imgp) - Blazing fast terminal image resizer and rotator. 
 - [![Open-Source Software][OSS Icon]](https://github.com/LuminanceHDR/LuminanceHDR) [Luminance HDR](http://qtpfsgui.sourceforge.net/) - Luminance HDR is an open source graphical user interface application that aims to provide a workflow for HDR imaging. 
 - [![Open-Source Software][OSS Icon]](https://github.com/google-code-export/photivo) [Photivo](http://photivo.org/) - Photivo is a free and open source (GPL3) photo processor, handles your RAW and bitmap files (TIFF, JPEG, BMP, PNG and many more) in a non-destructive 16 bit processing pipe with gimp workflow integration and batch mode. It is intended to be used in a workflow together with digiKam/F-Spot/Shotwell and Gimp. 
+- [![Open-Source Software][OSS Icon]](https://github.com/piskelapp/piskel) [Piskel](https://www.piskelapp.com/) - Browser-based editor for animated sprites and pixel art. Available as offline application.
 - [![Open-Source Software][OSS Icon]](https://github.com/lbalazscs/Pixelitor) [Pixelitor](http://pixelitor.sourceforge.net/) - Pixelitor is a free and open source image editing software that supports layers, layer masks, text layers, filters, multiple undo etc. 
 - [![Open-Source Software][OSS Icon]](https://github.com/Beep6581/RawTherapee) [RawTherapee](http://rawtherapee.com/) - A good looking but lesser known photo editing app. 
 
