@@ -40,7 +40,7 @@ Duas versões chinesas desta lista estão disponíveis [aqui](https://github.com
     - [Terminal](#terminal)
     - [Utilitários](#utilities)
     - [Vídeo](#video)
-    - [Wiki software](#Wiki software)
+    - [Wiki software](#wiki-software)
     - [Outros](#outros)
 - [Command Line Utilities](#command-line-utilities)
 - [Ambientes para Desktop](#desktop-environments)
