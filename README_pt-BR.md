@@ -40,6 +40,7 @@ Duas versões chinesas desta lista estão disponíveis [aqui](https://github.com
     - [Terminal](#terminal)
     - [Utilitários](#utilities)
     - [Vídeo](#video)
+    - [Wiki software](#Wiki software)
     - [Outros](#outros)
 - [Command Line Utilities](#command-line-utilities)
 - [Ambientes para Desktop](#desktop-environments)
@@ -781,8 +782,8 @@ Ele foi projetado principalmente para ajudar a recuperar partições perdidas e/
 - [VLC](http://www.videolan.org/vlc/index.html) - VLC is a free and open source cross-platform multimedia player and framework that plays most multimedia files as well as DVDs, Audio CDs, VCDs, and various streaming protocols. [![Open-Source Software][OSS Icon]](https://www.videolan.org/vlc/download-sources.html) [
 
 ### Wiki software
-- [ikiwiki](https://ikiwiki.info/) - ikiwiki is a wiki compiler. It converts wiki pages into HTML pages suitable for publishing on a website. Ikiwiki stores pages and history in a revision control system such as Subversion or Git. [![Open-Source Software][OSS Icon]](https://git.joeyh.name/git/ikiwiki.git/)
-- [Zim](http://zim-wiki.org/) - A graphical text editor used to maintain a collection of wiki pages, great for notes and documents. Stored in plain text files for easy version control. [![Open-Source Software][OSS Icon]](https://launchpad.net/zim)
+- [ikiwiki](https://ikiwiki.info/) - ikiwiki é um compilador wiki. Ele converte páginas wiki em HTML pronto para publicação em websites. Ikiwiki armazena páginas e histrias em um sistema de controle de versão como Subversion ou Git. [![Open-Source Software][OSS Icon]](https://git.joeyh.name/git/ikiwiki.git/)
+- [Zim](http://zim-wiki.org/) - Um editor de texto gráfico usado para manter uma coleção de páginas wiki, ótimo para documentos e anotações. Armazenado em texto plano para facilitar o controle de versão. [![Open-Source Software][OSS Icon]](https://launchpad.net/zim)
 
 ### Outros
 - [GrubCustomizer](https://launchpad.net/grub-customizer) - Grub Customizer is a graphical interface to configure the GRUB2/BURG settings and menuentries. [![Open-Source Software][OSS Icon]](https://code.launchpad.net/grub-customizer) 
