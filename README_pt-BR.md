@@ -40,25 +40,26 @@ Duas versões chinesas desta lista estão disponíveis [aqui](https://github.com
     - [Terminal](#terminal)
     - [Utilitários](#utilities)
     - [Vídeo](#video)
-    - [Outros](#others)
+    - [Wiki software](#wiki-software)
+    - [Outros](#outros)
 - [Command Line Utilities](#command-line-utilities)
-- [Amboentes para Desktop](#desktop-environments)
+- [Ambientes para Desktop](#desktop-environments)
 - [Gestores de exibição](#display-manager)
-	- [Console](#console)
-	- [Gráfico](#graphic)
+    - [Console](#console)
+    - [Gráfico](#graphic)
 - [Gerenciador de janelas](#window-managers)
-	- [Compositores](#compositors)
-	- [Empilhadas](#stacking-window-managers)
-	- [Revestimento](#tiling-window-managers)
-	- [Dinâmica](#dynamic-window-managers)
+    - [Compositores](#compositors)
+    - [Empilhadas](#stacking-window-managers)
+    - [Revestimento](#tiling-window-managers)
+    - [Dinâmica](#dynamic-window-managers)
 
 ***********
 
 - [Setup](#setup)
- 	- [ArchLinux](#arch-linux)
- 	- [CentOS](#centos)
- 	- [openSUSE](#opensuse)
-	- [Ubuntu](#ubuntu)
+    - [ArchLinux](#arch-linux)
+    - [CentOS](#centos)
+    - [openSUSE](#opensuse)
+    - [Ubuntu](#ubuntu)
 - [Discussion Forums](#discussion-forums)
     - [ArchLinux Forums](#arch-linux-forums)
     - [CentOS Forums](#centos-forums)
@@ -192,50 +193,49 @@ Ele foi projetado principalmente para ajudar a recuperar partições perdidas e/
 ### Desenvolvimento
 
 #### Android
-- [Anbox](https://anbox.io) - Run Android applications on any GNU/Linux operating system. [![Open-Source Software][OSS Icon]](https://github.com/anbox/anbox)
-- [Android studio](https://developer.android.com/studio/index.html) - The Official IDE for Android: Android Studio provides the fastest tools for building apps on every type of Android device.
+- [Anbox](https://anbox.io) - Execute aplicativos Android em qualquer sistema operacional GNU / Linux. [![Open-Source Software][OSS Icon]](https://github.com/anbox/anbox)
+- [Android studio](https://developer.android.com/studio/index.html) - A IDE Oficial para Android: o Android Studio fornece as ferramentas mais rápidas para a construção de aplicativos em todos os tipos de dispositivos Android.
 
 #### C\+\+
-- [Clion](https://www.jetbrains.com/clion/) - A cross-platform and powerful IDE for C and C++! [Nonfree][Money Icon]
-- [Code::Blocks](http://www.codeblocks.org/) - Code::Blocks is a free C, C++ and Fortran IDE built to meet the most demanding needs of its users. It is designed to be very extensible and fully configurable.
-- [Codelite](http://codelite.org/) - A Free, open source, cross platform C,C++,PHP and Node.js IDE.
-- [QT Creator](https://www.qt.io/ide/) - Fully-stocked cross-platform integrated development environment for easy creation of connected devices, UIs and applications. [![Open-Source Software][OSS Icon]](https://github.com/qt-creator/qt-creator)
+- [Clion](https://www.jetbrains.com/clion/) - Uma IDE multiplataforma e poderosa para C e C++! [Nonfree][Money Icon]
+- [Code::Blocks](http://www.codeblocks.org/) - Code :: Blocks é uma IDE gratuita para C, C++ e Fortran, criada para atender às necessidades mais exigentes de seus usuários. Ela é projetada para ser muito extensível e totalmente configurável.
+- [Codelite](http://codelite.org/) - Uma IDE gratuita, open source e multiplataforma para C, C++, PHP e Node.js.
+- [QT Creator](https://www.qt.io/ide/) - Ambiente de desenvolvimento integrado multiplataforma totalmente integrado para criação fácil de dispositivos conectados, UIs e aplicativos. [![Open-Source Software][OSS Icon]](https://github.com/qt-creator/qt-creator)
 
 #### Database
-- [Cassandra](http://cassandra.apache.org/) - Apache Cassandra database is the right choice when you need scalability and high availability without compromising performance. Linear scalability and proven fault-tolerance on commodity hardware or cloud infrastructure make it the perfect platform for mission-critical data. [![Open-Source Software][OSS Icon]](https://github.com/apache/cassandra)
-- [CouchDB](http://couchdb.apache.org/) - Seamless multi-master sync, that scales from Big Data to Mobile, with an Intuitive HTTP/JSON API and designed for Reliability. [![Open-Source Software][OSS Icon]](https://github.com/apache?query=couchdb)
-- [DBeaver](http://dbeaver.jkiss.org/) - A universal database client supporting multiple platforms and databases. [![Open-Source Software][OSS Icon]](https://github.com/serge-rider/dbeaver/)
-- [MariaDB](https://mariadb.org/) - One of the most popular database servers. Made by the original developers of MySQL. [![Open-Source Software][OSS Icon]](https://mariadb.org/get-involved/getting-started-for-developers/)
-- [MongoDB](https://www.mongodb.com/) - MongoDB is a free and open-source cross-platform document-oriented database program, uses JSON-like documents with schemas. [![Open-Source Software][OSS Icon]](https://github.com/mongodb/mongo)
-- [MySQL](https://dev.mysql.com/doc/refman/5.7/en/linux-installation.html) - MySQL is the world's leading open source database thanks to its proven performance, reliability and ease-of-use. It is used by high profile web properties including Facebook, Twitter, YouTube, Yahoo! and many more. [![Open-Source Software][OSS Icon]](https://github.com/mysql/mysql-server)
-- [MyCLI](http://www.mycli.net/) - MyCLI is a command line interface for MySQL, MariaDB, and Percona with auto-completion and syntax highlighting. [![Open-Source Software][OSS Icon]](https://github.com/dbcli/mycli)
-- [OracleDB](http://www.oracle.com/technetwork/database/enterprise-edition/downloads/index.html) - Object-relational database management system produced and marketed by Oracle Corporation, one of the most trusted and widely-used relational database engines.
-- [Percona MongoDB](https://www.percona.com/software/mongo-database/percona-server-for-mongodb) - Percona Server for MongoDB provides all features and benefits of MongoDB Community Server. [![Open-Source Software][OSS Icon]](https://github.com/percona/percona-server-mongodb)
-- [Percona Monitoring](https://www.percona.com/software/database-tools/percona-monitoring-and-management) - Percona Monitoring and Management (PMM) is a free and open-source platform for managing and monitoring MySQL, MariaDB and MongoDB performance. You can run PMM in your own environment for maximum security and reliability. It provides thorough time-based analysis for MySQL, MariaDB and MongoDB servers to ensure that your data works as efficiently as possible. [![Open-Source Software][OSS Icon]](https://github.com/percona/pmm-server)
-- [Percona MySQL](https://www.percona.com/software/mysql-database/percona-server) - Percona Server for MySQL is a free, fully compatible, enhanced, open source drop-in replacement for MySQL that provides superior performance, scalability and instrumentation. [![Open-Source Software][OSS Icon]](https://github.com/percona/percona-server)
-- [Percona XtraDB Cluster](https://www.percona.com/software/mysql-database/percona-xtradb-cluster) - Percona XtraDB Cluster is an active/active high availability and high scalability open source solution for MySQL clustering. It integrates Percona Server and Percona XtraBackup with the Codership Galera library of MySQL high availability solutions in a single package that enables you to create a cost-effective MySQL high availability cluster. [![Open-Source Software][OSS Icon]](https://github.com/percona/percona-xtradb-cluster)
-- [PostgreSQL](https://www.postgresql.org/download/) - PostgreSQL is a powerful, open source object-relational database system with more than 15 year development. PostgreSQL is not controlled by any corporation or other private entity and the source code is available free of charge [![Open-Source Software][OSS Icon]](https://github.com/postgres/postgres)
-- [Sqlite](https://sqlite.org/download.html) - SQLite is an in-process library that implements a self-contained, serverless, zero-configuration, transactional SQL database engine. [![Open-Source Software][OSS Icon]](https://www.sqlite.org/src/doc/trunk/README.md)
-- [Sqlite Browser](http://sqlitebrowser.org/) - Visually create, manage, and view sqlite database files.  [![Open-Source Software][OSS Icon]](https://github.com/sqlitebrowser/sqlitebrowser)
-- [OmniDB](https://omnidb.org/en/) - Browser-based tool that visually create, manage, and view databases.
+- [Cassandra](http://cassandra.apache.org/) - O banco de dados Apache Cassandra é a escolha certa quando você precisa de escalabilidade e alta disponibilidade sem comprometer o desempenho. A escalabilidade linear e a comprovada tolerância a falhas em hardware de commodities ou nuvem tornam a plataforma perfeita para dados de missão crítica. [![Open-Source Software][OSS Icon]](https://github.com/apache/cassandra)
+- [CouchDB](http://couchdb.apache.org/) - Sincronização multi-master perfeita, que escala de Big Data para Mobile, com uma API intuitiva HTTP/JSON e projetada para confiabilidade. [![Open-Source Software][OSS Icon]](https://github.com/apache?query=couchdb)
+- [DBeaver](http://dbeaver.jkiss.org/) - Um client de banco de dados universal para suportar múltiplas plataformas e bases de dados. [![Open-Source Software][OSS Icon]](https://github.com/serge-rider/dbeaver/)
+- [MariaDB](https://mariadb.org/) - Um dos servidores de banco de dados mais populares. Feito pelos desenvolvedores originais do MySQL. [![Open-Source Software][OSS Icon]](https://mariadb.org/get-involved/getting-started-for-developers/)
+- [MongoDB](https://www.mongodb.com/) - MongoDB é uma aplicação de código aberto, de alta performance, sem esquemas, orientado a documentos. [![Open-Source Software][OSS Icon]](https://github.com/mongodb/mongo)
+- [MySQL](https://dev.mysql.com/doc/refman/5.7/en/linux-installation.html) - O MySQL é o principal banco de dados de código aberto do mundo graças ao seu desempenho comprovado, confiabilidade e facilidade de uso. Ele é usado por grandes empresas da internet, incluindo Facebook, Twitter, YouTube, Yahoo! e muitos mais. [![Open-Source Software][OSS Icon]](https://github.com/mysql/mysql-server)
+- [MyCLI](http://www.mycli.net/) - MyCLI é uma interface de linha de comando para MySQL, MariaDB e Percona com auto-complete e sintaxe destacada. [![Open-Source Software][OSS Icon]](https://github.com/dbcli/mycli)
+- [OracleDB](http://www.oracle.com/technetwork/database/enterprise-edition/downloads/index.html) - Sistema de gerenciamento de banco de dados objeto-relacional produzido e comercializado pela Oracle Corporation, um dos mecanismos de banco de dados relacionais mais confiáveis e amplamente utilizados.
+- [Percona MongoDB](https://www.percona.com/software/mongo-database/percona-server-for-mongodb) - O Servidor Percona para MongoDB fornece todos os recursos e benefícios do MongoDB Community Server. [![Open-Source Software][OSS Icon]](https://github.com/percona/percona-server-mongodb)
+- [Percona Monitoring](https://www.percona.com/software/database-tools/percona-monitoring-and-management) - Percona Monitoring and Management (PMM) é uma plataforma gratuita e de código aberto para gerenciar e monitorar o desempenho do MySQL, MariaDB e MongoDB. Você pode executar o PMM em seu próprio ambiente para obter a máxima segurança e confiabilidade. Ele fornece uma análise minuciosa baseada no tempo para servidores MySQL, MariaDB e MongoDB para garantir que seus dados funcionem o mais eficientemente possível. [![Open-Source Software][OSS Icon]](https://github.com/percona/pmm-server)
+- [Percona MySQL](https://www.percona.com/software/mysql-database/percona-server) - O Servidor Percona para MySQL é uma substituição gratuita, totalmente compatível, aprimorada e de código aberto para o MySQL que oferece desempenho, escalabilidade e instrumentação superiores. [![Open-Source Software][OSS Icon]](https://github.com/percona/percona-server)
+- [Percona XtraDB Cluster](https://www.percona.com/software/mysql-database/percona-xtradb-cluster) - Percona XtraDB Cluster é uma solução ativa/ativa de alta disponibilidade e alta escalabilidade de código aberto para agrupamento MySQL. Ele integra o Percona Server e o Percona XtraBackup com a biblioteca Codership Galera de soluções de alta disponibilidade do MySQL em um único pacote que permite que você crie um cluster de alta disponibilidade MySQL de baixo custo. [![Open-Source Software][OSS Icon]](https://github.com/percona/percona-xtradb-cluster)
+- [PostgreSQL](https://www.postgresql.org/download/) - O PostgreSQL é um poderoso sistema de banco de dados de objeto-relacional de código aberto com mais de 15 anos de desenvolvimento. O PostgreSQL não é controlado por qualquer corporação ou outra entidade privada e o código fonte está disponível gratuitamente. [![Open-Source Software][OSS Icon]](https://github.com/postgres/postgres)
+- [Sqlite](https://sqlite.org/download.html) - O SQLite é uma biblioteca em processo que implementa um mecanismo de banco de dados SQL transacional autônomo, sem servidor, de configuração zero. [![Open-Source Software][OSS Icon]](https://www.sqlite.org/src/doc/trunk/README.md)
+- [Sqlite Browser](http://sqlitebrowser.org/) - Visualmente crie, gerencie e visualize arquivos de banco de dados do SQLite.  [![Open-Source Software][OSS Icon]](https://github.com/sqlitebrowser/sqlitebrowser)
+- [OmniDB](https://omnidb.org/en/) - Ferramenta baseada em navegador que visualmente cria, gerencia e exibe bancos de dados.
 
 #### Golang
-- [Gogland](https://www.jetbrains.com/go/) - Gogland is the codename for a new commercial IDE by JetBrains aimed at providing an ergonomic environment for Go development.
-
+- [Gogland](https://www.jetbrains.com/go/) - Gogland é um codinome para uma nove IDE comercial feita pela JetBrains, destinada a prover um ambiente ergonômico para desenvolvedores de Go.
 #### Java
-- [BlueJ](http://bluej.org/) - A free Java Development Environment designed for beginners, used by millions worldwide. [![Open-Source Software][OSS Icon]](https://www.bluej.org/versions.html)
-- [Eclipse](https://eclipse.org/ide/) - Eclipse is famous for our Java Integrated Development Environment (IDE), but can also download packages to support C/C++ IDE and PHP IDE.
-- [IntelliJ IDEA](https://www.jetbrains.com/idea/) - Powerful IDE for JAVA.
+- [BlueJ](http://bluej.org/) - Um ambiente de desenvolvimento grátis para Java projetado para inicianetes, usado por milhões de pessoas ao redor do mundo. [![Open-Source Software][OSS Icon]](https://www.bluej.org/versions.html)
+- [Eclipse](https://eclipse.org/ide/) - Eclipse é famoso pelo nosso Ambiente de Desenvolvimento Integrado para Java (IDE), mas pode também fazer o download de packages que suportam IDE para C/C++ e para PHP.
+- [IntelliJ IDEA](https://www.jetbrains.com/idea/) - Poderosa IDE para JAVA.
 
 #### Javascript
-- [Webstorm](https://www.jetbrains.com/webstorm/) - Powerful IDE for modern JavaScript development, made by JetBrains.
+- [Webstorm](https://www.jetbrains.com/webstorm/) - Poderosa IDE para o desenvolvedor moderno de JavaScript, feita pela JetBrains.
 
 
 
 #### Microcomputer and Embedded Devices
-- [Arduino IDE](https://www.arduino.cc/en/Main/Software) - The open-source Arduino Software (IDE) makes it easy to write code and upload it to the board.
-- [Fritzing](http://fritzing.org/) - Fritzing is an open-source hardware initiative that makes electronics accessible as a creative material for anyone. [![Open-Source Software][OSS Icon]](https://github.com/fritzing/fritzing-app)
-- [Sloeber IDE](http://eclipse.baeyens.it/) - Sloeber IDE. The Arduino IDE for Eclipse. [![Open-Source Software][OSS Icon]](https://github.com/jantje/arduino-eclipse-plugin)
+- [Arduino IDE](https://www.arduino.cc/en/Main/Software) - O software open-source de Arduino (IDE) faz com que seja mais fácil escrever códigos e fazer o upload deles para a placa (board).
+- [Fritzing](http://fritzing.org/) - Fritzing é uma iniciativa de hardware open-source que torna eletrônicos acessíveis como material criativo para qualquer um. [![Open-Source Software][OSS Icon]](https://github.com/fritzing/fritzing-app)
+- [Sloeber IDE](http://eclipse.baeyens.it/) - Sloeber IDE. A IDE de Arduino para o Eclipse. [![Open-Source Software][OSS Icon]](https://github.com/jantje/arduino-eclipse-plugin)
 
 #### Multiple Languages Support
 - [Aptana](http://www.aptana.com/) - Aptana Studio harnesses the flexibility of Eclipse and focuses it into a powerful web development engine.
@@ -782,14 +782,14 @@ Ele foi projetado principalmente para ajudar a recuperar partições perdidas e/
 - [VLC](http://www.videolan.org/vlc/index.html) - VLC is a free and open source cross-platform multimedia player and framework that plays most multimedia files as well as DVDs, Audio CDs, VCDs, and various streaming protocols. [![Open-Source Software][OSS Icon]](https://www.videolan.org/vlc/download-sources.html) [
 
 ### Wiki software
-- [ikiwiki](https://ikiwiki.info/) - ikiwiki is a wiki compiler. It converts wiki pages into HTML pages suitable for publishing on a website. Ikiwiki stores pages and history in a revision control system such as Subversion or Git. [![Open-Source Software][OSS Icon]](https://git.joeyh.name/git/ikiwiki.git/)
-- [Zim](http://zim-wiki.org/) - A graphical text editor used to maintain a collection of wiki pages, great for notes and documents. Stored in plain text files for easy version control. [![Open-Source Software][OSS Icon]](https://launchpad.net/zim)
+- [ikiwiki](https://ikiwiki.info/) - ikiwiki é um compilador wiki. Ele converte páginas wiki em HTML pronto para publicação em websites. Ikiwiki armazena páginas e histrias em um sistema de controle de versão como Subversion ou Git. [![Open-Source Software][OSS Icon]](https://git.joeyh.name/git/ikiwiki.git/)
+- [Zim](http://zim-wiki.org/) - Um editor de texto gráfico usado para manter uma coleção de páginas wiki, ótimo para documentos e anotações. Armazenado em texto plano para facilitar o controle de versão. [![Open-Source Software][OSS Icon]](https://launchpad.net/zim)
 
 ### Outros
-- [GrubCustomizer](https://launchpad.net/grub-customizer) - Grub Customizer is a graphical interface to configure the GRUB2/BURG settings and menuentries. [![Open-Source Software][OSS Icon]](https://code.launchpad.net/grub-customizer)  [
-- [Infinality bundle & fonts](https://bohoomil.com/) - *Pre-note: Infinality is currently not maintained anymore by the creator, if on rolling release operating systems, expect breakage*. Infinality bundle & fonts is an Open Source project aimed at Linux administrators and individual users who are looking for a hassle-free way of improving the quality of font rendering. [![Open-Source Software][OSS Icon]](https://github.com/bohoomil/fontconfig-ultimate)  [
-- [Mycroft](https://github.com/MycroftAI/mycroft-core) - A.I. for everyone. [![Open-Source Software][OSS Icon]](https://github.com/MycroftAI/mycroft-core)  [
-- [Polychromatic](https://github.com/lah7/polychromatic) - Graphical front end and tray applet for configuring Razer peripherals on GNU/Linux. [![Open-Source Software][OSS Icon]](https://github.com/lah7/polychromatic)  [
+- [GrubCustomizer](https://launchpad.net/grub-customizer) - Grub Customizer is a graphical interface to configure the GRUB2/BURG settings and menuentries. [![Open-Source Software][OSS Icon]](https://code.launchpad.net/grub-customizer) 
+- [Infinality bundle & fonts](https://bohoomil.com/) - *Pre-note: Infinality is currently not maintained anymore by the creator, if on rolling release operating systems, expect breakage*. Infinality bundle & fonts is an Open Source project aimed at Linux administrators and individual users who are looking for a hassle-free way of improving the quality of font rendering. [![Open-Source Software][OSS Icon]](https://github.com/bohoomil/fontconfig-ultimate) 
+- [Mycroft](https://github.com/MycroftAI/mycroft-core) - A.I. for everyone. [![Open-Source Software][OSS Icon]](https://github.com/MycroftAI/mycroft-core)
+- [Polychromatic](https://github.com/lah7/polychromatic) - Graphical front end and tray applet for configuring Razer peripherals on GNU/Linux. [![Open-Source Software][OSS Icon]](https://github.com/lah7/polychromatic)
 
 ## Command Line Utilities
 
@@ -1041,8 +1041,8 @@ Ele foi projetado principalmente para ajudar a recuperar partições perdidas e/
 
 ## Contributors
 
-Muito obrigado a [**TODOS os contribuintes**](https://github.com/LewisVo/Awesome-Linux-Software/graphs/contributors) que ajudaram a tornar esta lista possÃ­vel.
-*Todos do @ reddit.com/r/linux, reddit.com/r/ubuntu, vozforums.com e outros fÃ³runs por muitas sugestÃµes e elogios*
+Muito obrigado a [**TODOS os contribuintes**](https://github.com/LewisVo/Awesome-Linux-Software/graphs/contributors) que ajudaram a tornar esta lista possível.
+*Todos do @ reddit.com/r/linux, reddit.com/r/ubuntu, vozforums.com e outros fÃ³runs por muitas sugestões e elogios*
  ...   
 
 **[â¬† voltar ao topo](#table-of-contents)**
@@ -1052,12 +1052,12 @@ Muito obrigado a [**TODOS os contribuintes**](https://github.com/LewisVo/Awesome
 
 ## Guia para contribuir
 
-> Basta colocar o nome da **aplicaÃ§Ã£o** na lista.
-> Link para a sua **pÃ¡gina inicial** ou um **guia** como instalÃ¡-lo.
-> Escreva tambÃ©m uma **breve descriÃ§Ã£o** para uma aplicaÃ§Ã£o + adicionando um **icon**.
-> Certifique-se de que Ã© escrito esta no seu **tÃ³pico apropriado**.
-> Se o aplicativo nÃ£o se encaixa em nenhum **tÃ³pico existente**, faÃ§a **um novo** para ele.
-> Certifique que tudo seja classificado em ordem **alfabÃ©tica**.
+> Basta colocar o nome da **aplicação** na lista.
+> Link para a sua **página inicial** ou um **guia** como instalá-la.
+> Escreva tambÃ©m uma **breve descrição** para uma aplicação + adicionando um **icone**.
+> Certifique-se de que o software está escrito no seu **tópico apropriado**.
+> Se o aplicativo não se encaixa em nenhum **tópico existente**, faça **um novo** para ele.
+> Certifique que tudo seja classificado em ordem **alfabética**.
 
 ## Unsure how to contribute?
 
@@ -1066,7 +1066,7 @@ Muito obrigado a [**TODOS os contribuintes**](https://github.com/LewisVo/Awesome
 - [What is Markdown?](https://github.com/LewisVo/Markdown-Tutorial) - Markdown is the writing method used to create this list, if you want to know how to format properly, it's best that you learn how to use Github Markdown.
 - [Alternative Markdown Guide:](https://guides.github.com/features/mastering-markdown/)
 
-*Itens marcados com [![open-Source Software][OSS Icon] sÃ£o software de cÃ³digo aberto e link para o cÃ³digo-fonte. Os itens marcados com ![Nonfree][Money Icon] sÃ£o nÃ£o livres (as in nonfree beer) e pode custar dinheiro para poder utilizÃ¡-lo.*
+*Itens marcados com [![open-Source Software][OSS Icon] são software de código aberto e link para o código-fonte. Os itens marcados com ![Nonfree][Money Icon] são não livres (as in nonfree beer) e pode custar dinheiro para poder utilizá-lo.*
 
 
 <br>
@@ -1075,16 +1075,16 @@ Muito obrigado a [**TODOS os contribuintes**](https://github.com/LewisVo/Awesome
 
 <br>
 
-## LicenÃ§a
+## Licença
 
 [![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
 
-Este projeto trabalha sob a licenÃ§a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+Este projeto trabalha sob a licença [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
 <div id='donation'/>
 <a href="https://www.patreon.com/luongtranthanhvo"><img src="http://i.imgur.com/xrhJFXb.png" height="40px"></a> <a href="https://www.paypal.me/LuongTranThanhVo"><img src="http://i.imgur.com/O7lPSEP.png" height="40px" ></a> <a href="https://beerpay.io/LewisVo/Minitask"><img src="https://beerpay.io/LewisVo/Minitask/badge.svg" /></a>  
 
-Uma cerveja no seu paÃ­s pode comprar uma refeiÃ§Ã£o na minha.
+Uma cerveja no seu país pode comprar uma refeição na minha.
 
 [chitchat]: https://github.com/stonesam92/ChitChat
 [OSS Icon]: https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg
