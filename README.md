@@ -332,7 +332,8 @@
 - [![Open-Source Software][OSS Icon]](https://wiki.gnome.org/Apps/Evince/GettingEvince) [Evince](https://wiki.gnome.org/Apps/Evince) - Evince is a document viewer for multiple document formats. The goal of evince is to replace the multiple document viewers that exist on the GNOME Desktop with a single simple application. 
 - [![Open-Source Software][OSS Icon]](https://github.com/geometer/FBReader) [FBReader](https://fbreader.org/content/fbreader-beta-linux-desktop) - One of the most popular eReader apps. 
 - [Foxit](https://www.foxitsoftware.com/products/pdf-reader/) - Foxit Reader 8.0—Award-winning PDF Reader.
-- [![Open-Source Software][OSS Icon]](https://github.com/martamilakovic/gnome-books) [Gnome Books](https://github.com/martamilakovic/gnome-books) - GNOME Books is application for listing, searching and reading eBooks. 
+- [![Open-Source Software][OSS Icon]](https://github.com/martamilakovic/gnome-books) [Gnome Books](https://github.com/martamilakovic/gnome-books) - GNOME Books is application for listing, searching and reading eBooks.
+- [![Open-Source Software][OSS Icon]](http://repo.or.cz/w/llpp.git) [llpp](https://wiki.archlinux.org/index.php/Llpp) - A lightweight, fast, customizable and featureful PDF, EPUB, XPS and CBZ viewer with vi-like keybindings based on MuPDF.
 - [Lucidor](http://www.lucidor.org/lucidor/) - Lucidor is a computer program for reading and handling e-books. Lucidor supports e-books in the EPUB file format, and catalogs in the OPDS format.
 - [MasterPDF editor](https://code-industry.net/free-pdf-editor/) - Master PDF Editor a convenient and smart PDF editor for Linux.
 - [![Open-Source Software][OSS Icon]](https://sourceforge.net/p/mcomix/git/ci/master/tree/) [Mcomix](https://sourceforge.net/projects/mcomix/) - GTK+ comic book viewer. 
