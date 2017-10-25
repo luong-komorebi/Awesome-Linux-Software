@@ -7,7 +7,7 @@
 
 🐧 este repositorio es una colección de **increíble** aplicaciones Linux y herramientas para **usuarios y desarrolladores**.
 <br>
-🐧 usted está alentado **contribuyas** / **estrella** / **tenedor** / **recibir**. Cualquier **recomendaciones** y **sugerencias** son bienvenidos.
+🐧 usted está alentado **contribuyas** / **estrella** / **Fork** / **solicitud de llevar**. Cualquier **recomendaciones** y **sugerencias** son bienvenidos.
 
 *Actualización: este repositorio ha sido publicado en [Gitbook](https://voluong.gitbooks.io/awesome-linux-software/content/). Puedes compartir este enlace con nuevos usuarios. Puedes ser más fácil de leer que github. Descargar un pdf [aquí](https://goo.gl/xhiKla).*
 
@@ -69,8 +69,8 @@
    - [Canals des IRC](#Canals-des-IRC)
    - [Linux News, Aplicaciones y mucho más](#Linux-News,-Aplicaciones-y-mucho-más)
    - [Reddit](#reddit)
-- [Aprender linux](#aprender linux)
-- [Desarrollo de linux](#desarrollo de linux)
+- [Aprender linux](#aprender-linux)
+- [Desarrollo de linux](#desarrollo-de-linux)
 - [Los otros listas impresionantes](#los-otros-listas-impresionantes)
 - [Contribuidores](#contribuidores)
 - [Reglas para contribuir](#reglas-para-contribuir)
@@ -148,10 +148,10 @@
 - [ScudCloud](https://github.com/raelgc/scudcloud/) - Un Cliente para slack no oficial para Linux. [![Open-Source Software][OSS Icon]](https://github.com/raelgc/scudcloud/)
 - [![Open-Source Software][OSS Icon]](https://github.com/yakyak/yakyak) [YakYak](https://github.com/yakyak/yakyak) -  Cliente de Google Hangouts para escritorio.
 
-#### mensajería instantánea Cliente herramientas
+#### Mensajería instantánea cliente herramientas
 - [Red Discord Bot](https://cogs.red) - "Red Discord Bot" este una programa servidor auto-alojamiento para Discord. El Programa puede instalar más "Cogs" para funciones adicionales. Puede funcionar en un Raspberri Pi. [![Open-Source Software][OSS Icon]](https://github.com/Cog-Creators/Red-DiscordBot)
 
-#### Clientes Todo en uno
+#### Clientes todo en uno
 - [Franz](http://meetfranz.com/) - Franz es un programa de mensajería que agrega muchos servicios de mensajería instantánea.
 - [Pidgin](https://pidgin.im/) - Un cliente de mensajería instantánea que es universal. [![Open-Source Software][OSS Icon]](https://developer.pidgin.im/)
 - [Rambox](http://rambox.pro/) - Un programa que es libre y de código abierto, Rambox agrega mensajería instantánea y correo electrónico en un solo lugar. [![Open-Source Software][OSS Icon]](https://github.com/saenzramiro/rambox)
@@ -190,7 +190,7 @@
 
 ### Personalización del escritorio
 
-#### Los Temas de escritorio
+#### Los temas de escritorio
 
 - [Adapta Theme](https://github.com/tista500/Adapta) - un tema adaptativo hecho de GTK + se basa en las directrices de Google Material Design. [![Open-Source Software][OSS Icon](https://github.com/adapta-project/adapta-gtk-theme)
 - [Ant Theme](http://www.omgubuntu.co.uk/2017/09/ant-flat-gtk-theme-bloody-bite) - Ant es un diseño plano de GTK para Ubuntu y otros escritorios Linux basados en GNOME. Tiene tres variedades: vanilla, Bloody, y Dracula. [![Open-Source Software][OSS Icon]](https://github.com/EliverLara/Ant)
@@ -226,7 +226,7 @@
 - [Papirus Icon Theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme-gtk/) - Un tema de icono SVG para Linux que soporta muchos programas y modificaciones. El tema está disponible para GTK y KDE. [![Open-Source Software][OSS Icon]](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme-gtk/)
 
 
-### desarrollo de software
+### Desarrollo de software
 
 #### Android
 - [Anbox](https://anbox.io) - Anbox permite que un sistema operativo Linux ejecute programas de Android. [![Open-Source Software][OSS Icon]](https://github.com/anbox/anbox)
@@ -295,7 +295,7 @@
 #### Herramientas de apoyo
 - [Cscope](http://cscope.sourceforge.net/) - Cscope es una herramienta para desarrolladores que están inspeccionando el código fuente del navegador. Es para la línea de comandos, pero funciona con el editor VIM. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/cscope/)
 - [Diffuse](https://sourceforge.net/projects/diffuse/) - Diffuse es una herramienta gráfica para comparar y fusionar el texto dentro de archivos. Puede recuperar archivos de muchos tipos diferentes de repositorios, en ejemplo: Bazaar, CVS, Darcs, Git, Mercurial, Monotone, RCS, Subversion, y SVK. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/diffuse/files/?source=navbar)
-- [Fossil](https://www.fossil-scm.org) - Self-contained, distributed software configuration management system with integrated bug-tracking, wiki, technotes and web interface. [![Open-Source Software][OSS Icon]](https://www.fossil-scm.org/index.html/dir?ci=tip)
+- [Fossil](https://www.fossil-scm.org) - un programa que le permite administrar el desarrollo de software a través de Internet, tiene muchas características como el seguimiento de errores, una wiki y una interfaz web. [![Open-Source Software][OSS Icon]](https://www.fossil-scm.org/index.html/dir?ci=tip)
 - [Genymotion](https://www.genymotion.com/features/) - Genymotion es un emulador rápido que reemplaza al emulador predeterminado de Android.
 - [Giggle](https://wiki.gnome.org/action/show/Apps/giggle?action=show&redirect=giggle) - Giggle es una GUI para el Git Content Tracker. [![Open-Source Software][OSS Icon]](https://git.gnome.org//browse/giggle/)
 - [Gisto](http://www.gistoapp.com/) - Gisto es un administrador de fragmentos de código que opera en Github Gists. Agrega características como búsqueda, etiquetado y uso compartido. [![Open-Source Software][OSS Icon]](https://github.com/Gisto/Gisto)
@@ -525,7 +525,7 @@
 - [Ramme](https://github.com/terkelg/ramme) - Una aplicación no oficial de Instagram. [![Open-Source Software][OSS Icon]](https://github.com/terkelg/ramme)
 - [Rapid Photo Downloader](http://damonlynch.net/rapid/download.html) - Rapid Photo Downloader es un programa que facilita la importación de fotos desde una cámara o Smartphone. [![Open-Source Software][OSS Icon]](https://launchpad.net/rapid/pyqt/0.9.0b2)
 
-#### PSD, Sketch inspección
+#### PSD, sketch inspección
 - [Avocode](https://avocode.com/) - Avocode un programa para compartir e inspeccionar imágenes de Photoshop y Sketch fácilmente. [![Nonfree][Money Icon]
 
 #### Grabador de escritorio
@@ -590,7 +590,7 @@
 - [GnuCash](https://www.gnucash.org/) - GnuCash es un software de código abierto que es un sistema de contabilidad. Está diseñado para ser similar a Intuit Quicken. [![Open-Source Software][OSS Icon]](https://github.com/Gnucash/)
 - [KMyMoney](https://kmymoney.org/) - KMyMoney es un administrador de finanzas personales creado por el proyecto KDE. [![Open-Source Software][OSS Icon]](https://github.com/KDE/kmymoney)
 
-#### Office Suites
+#### Suite ofimática
 - [Caligra Office](https://www.calligra.org/) - Un conjunto de ocho aplicaciones que permiten al usuario las necesidades de una hoja de cálculo, un procesador de textos y un gestor de presentaciones.
 - [LibreOffice](https://www.libreoffice.org/) - El programa de oficina más popular para Linux. Siempre está mejorando, y está incluido con muchas versiones de Linux. [![Open-Source Software][OSS Icon]](https://www.libreoffice.org/about-us/source-code/)
 - [OnlyOffice](https://www.onlyoffice.com/) - Un conjunto de programas de oficina que es gratuito, pero puede ser pagado para trabajar en la nube. [![Open-Source Software][OSS Icon]](https://github.com/ONLYOFFICE)
@@ -610,7 +610,7 @@
 - [Remarkable](https://remarkableapp.github.io/) - Un editor de Markdown capaz de usar una versión diferente de GitHub Markdown. [![Open-Source Software][OSS Icon]](https://github.com/jamiemcg/remarkable)
 - [Typora](https://typora.io/) - Un editor de Markdown mínimo y fácil de usar.
 
-#### Novel Writing
+#### Escribiendo una Novela
 - [Bibisco](http://www.bibisco.com/) - Un programa para escribir novelas que se centra en la creación de ideas y personajes. [![Open-Source Software][OSS Icon]](https://github.com/andreafeccomandi/bibisco)
 - [Manuskript](http://www.theologeek.ch/manuskript/) - Manuskript es una herramienta para ayudar a un escritor a organizar y planificar antes de escribir. [![Open-Source Software][OSS Icon]](https://github.com/olivierkes/manuskript)
 - [Plume Creator](http://plume-creator.eu/) - Un programa de código abierto para un autor que tiene un administrador de notas y un modo sin distracción. [![Open-Source Software][OSS Icon]](https://github.com/jacquetc/plume-creator)
@@ -946,33 +946,33 @@
 ### Bodhi
 
 - [¿Qué es Bodhi?](https://es.wikipedia.org/wiki/Bodhi_Linux)
-- [Where to download Bodhi (Inglés)](http://www.bodhilinux.com/download/)
-- [How do I install Bodhi (Inglés)](http://www.bodhilinux.com/w/installation-instructions/)
+- [dónde descargar Bodhi? (Inglés)](http://www.bodhilinux.com/download/)
+- [¿Cómo instalo Bodhi? (Inglés)](http://www.bodhilinux.com/w/installation-instructions/)
 
 ### CentOS
 
 - [página web oficial (Inglés)](https://www.centos.org)
-- [About (Inglés)](https://wiki.centos.org/About)
-- [Downloads (Inglés)](https://wiki.centos.org/Download)
-- [Manuals (Inglés)](https://www.centos.org/docs/)
-- [Tips and Tricks (Inglés)](https://wiki.centos.org/TipsAndTricks)
-- [FAQ (Inglés)](https://www.centos.org/forums/faq.php?sid=4e6d260284c7936505dcf75564717272)
+- [Acerca de CentOS (Inglés)](https://wiki.centos.org/About)
+- [Descargas (Inglés)](https://wiki.centos.org/Download)
+- [Manuales (Inglés)](https://www.centos.org/docs/)
+- [consejos y trucos (Inglés)](https://wiki.centos.org/TipsAndTricks)
+- [Lista de preguntas frecuentes (Inglés)](https://www.centos.org/forums/faq.php?sid=4e6d260284c7936505dcf75564717272)
 
 ### openSUSE
 
 - [¿Qué es OpenSUSE?](https://es.wikipedia.org/wiki/OpenSUSE)
-- [Reasons to try openSUSE (Inglés)](http://www.pcworld.com/article/222065/5_reasons_to_try_opensuse_114.html)
+- [lista de razones por las cuales probar openSUSE (Inglés)](http://www.pcworld.com/article/222065/5_reasons_to_try_opensuse_114.html)
 - [Preguntas frecuentes](https://es.opensuse.org/openSUSE:Preguntas_frecuentes)
 - [Cómo instalar OpenSUSE](https://es.opensuse.org/Portal:Instalaci%C3%B3n)
-- [Review (Inglés)](https://www.linux.com/news/opensuse-leap-421-review-most-mature-linux-distribution)
+- [una revisión de openSUSE (Inglés)](https://www.linux.com/news/opensuse-leap-421-review-most-mature-linux-distribution)
 
 ### Ubuntu
 
 
 - [¿Qué es Ubuntu?](https://es.wikipedia.org/wiki/Ubuntu)
-- [How to install Ubuntu (Inglés)](http://www.ubuntu.com/download/desktop/install-ubuntu-desktop)
-- [How to dual-boot Ubuntu with Windows (Inglés)](http://www.everydaylinuxuser.com/2014/05/install-ubuntu-1404-alongside-windows.html)
-- [What to do after installing Ubuntu (Inglés)](http://www.omgubuntu.co.uk/2016/04/10-things-to-do-after-installing-ubuntu-16-04-lts)
+- [Cómo instalar Ubuntu (Inglés)](http://www.ubuntu.com/download/desktop/install-ubuntu-desktop)
+- [Cómo Multiarranque con Windows y Ubuntu (Inglés)](http://www.everydaylinuxuser.com/2014/05/install-ubuntu-1404-alongside-windows.html)
+- [Qué hacer después de instalar Ubuntu (Inglés)](http://www.omgubuntu.co.uk/2016/04/10-things-to-do-after-installing-ubuntu-16-04-lts)
 
 ### Otras distribuciones
 
@@ -1045,22 +1045,22 @@
 
 ## Aprender linux
 
-- [Beginner's guide to Linux (Inglés)](https://www.linux.com/learn/complete-beginners-guide-linux%20)
-- [Learn Linux Command (Inglés)](http://linuxcommand.org/)
-- [GNU/Linux Command-Line Tools Summary (Inglés)](http://tldp.org/LDP/GNU-Linux-Tools-Summary/html/book1.htm)
-- [Learn Linux (Inglés)](https://linuxjourney.com/)
-- [Linux Course (Inglés)](https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-0)
-- [Linux Pocket Guide (Inglés)](http://www.tldp.org/LDP/Pocket-Linux-Guide/Pocket-Linux-Guide.pdf)
+- [Una guía para principiantes a Linux (Inglés)](https://www.linux.com/learn/complete-beginners-guide-linux%20)
+- [Aprenda los comandos de Linux (Inglés)](http://linuxcommand.org/)
+- [Resumen de herramientas de línea de comandos de GNU/Linux (Inglés)](http://tldp.org/LDP/GNU-Linux-Tools-Summary/html/book1.htm)
+- [Aprende Linux (Inglés)](https://linuxjourney.com/)
+- [Una clase de linux (Inglés)](https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-0)
+- [La pequeña guía de Linux (Inglés)](http://www.tldp.org/LDP/Pocket-Linux-Guide/Pocket-Linux-Guide.pdf)
 
 ## Desarrollo de linux
 
-- [Kernel Newbies (Inglés)](https://kernelnewbies.org/)
-- [Linux Insides (Inglés)](https://0xax.gitbooks.io/linux-insides/content/index.html)
-- [The Linux Kernel (Inglés)](http://www.tldp.org/LDP/tlk/tlk.html)
-- [Linux Kernel Archives (Official Website) (Inglés)](https://www.kernel.org/)
-- [Linux Kernel Internals (PDF) (Inglés)](http://www.tldp.org/LDP/lki/lki.pdf)
-- [Linux Kernel Mailing List Archive (Inglés)](https://lkml.org/)
-- [Linux Kernel Module Programming Guide (PDF) (Inglés)](http://www.tldp.org/LDP/lkmpg/2.6/lkmpg.pdf)
+- [El kernel de Linux para principiantes (Inglés)](https://kernelnewbies.org/)
+- [Dentro de Linux (Inglés)](https://0xax.gitbooks.io/linux-insides/content/index.html)
+- [El kernel de Linux (Inglés)](http://www.tldp.org/LDP/tlk/tlk.html)
+- [Archivos Kernel de Linux (página web oficial) (Inglés)](https://www.kernel.org/)
+- [Linux kernel interno (PDF) (Inglés)](http://www.tldp.org/LDP/lki/lki.pdf)
+- [Archivo de correo de Linux Kernel (Inglés)](https://lkml.org/)
+- [Guía de programación del módulo Linux Kernel (PDF) (Inglés)](http://www.tldp.org/LDP/lkmpg/2.6/lkmpg.pdf)
 
 ## Los otros listas impresionantes
 
