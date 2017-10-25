@@ -7,7 +7,7 @@
 
 🐧 este repositorio es una colección de **increíble** aplicaciones Linux y herramientas para **usuarios y desarrolladores**.
 <br>
-🐧 usted está alentado **contribuyas** / **estrella** / **Fork** / **solicitud de llevar**. Cualquier **recomendaciones** y **sugerencias** son bienvenidos.
+🐧 usted está alentado **contribuyas** / **estrella** / **bifurcacion** / **solicitud de llevar**. Cualquier **recomendaciones** y **sugerencias** son bienvenidos.
 
 *Actualización: este repositorio ha sido publicado en [Gitbook](https://voluong.gitbooks.io/awesome-linux-software/content/). Puedes compartir este enlace con nuevos usuarios. Puedes ser más fácil de leer que github. Descargar un pdf [aquí](https://goo.gl/xhiKla).*
 
