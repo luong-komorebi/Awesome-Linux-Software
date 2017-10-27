@@ -288,25 +288,24 @@ Ele foi projetado principalmente para ajudar a recuperar partições perdidas e/
 - [Zeal](https://zealdocs.org/) - Zeal is an offline documentation browser for software developers. [![Open-Source Software][OSS Icon]](https://github.com/zealdocs/zeal)
 
 ### Serviços E-Books
-- [Bookworm](https://babluboy.github.io/bookworm/) - A simple, focused eBook reader. [![Open-Source Software][OSS Icon]](https://github.com/babluboy/bookworm)
-- [Buka](https://github.com/oguzhaninan/Buka/releases) - A program for EBook Management. [![Open-Source Software][OSS Icon]](https://github.com/oguzhaninan/Buka)
-- [Calibre](http://calibre-ebook.com/) - Incredibly ugly but powerful software for ebook management and conversion. [![Open-Source Software][OSS Icon]](https://github.com/kovidgoyal/calibre)
-- [Calibre-web](https://github.com/janeczku/calibre-web) - Calibre Web is a web app providing a clean interface for browsing, reading and downloading eBooks using an existing Calibre database. [![Open-Source Software][OSS Icon]](https://github.com/janeczku/calibre-web)
-- [Easy Ebook Viewer](https://github.com/michaldaniel/Ebook-Viewer) - Modern GTK Python Ebook Reader app to easily read epub files. [![Open-Source Software][OSS Icon]](https://github.com/michaldaniel/Ebook-Viewer)
-- [Evince](https://wiki.gnome.org/Apps/Evince) - Evince is a document viewer for multiple document formats. The goal of evince is to replace the multiple document viewers that exist on the GNOME Desktop with a single simple application. [![Open-Source Software][OSS Icon]](https://wiki.gnome.org/Apps/Evince/GettingEvince)
-- [FBReader](https://fbreader.org/content/fbreader-beta-linux-desktop) - One of the most popular eReader apps. [![Open-Source Software][OSS Icon]](https://github.com/geometer/FBReader)
-- [Foxit](https://www.foxitsoftware.com/products/pdf-reader/) - Foxit Reader 8.0â€”Award-winning PDF Reader.
-- [Gnome Books](https://github.com/martamilakovic/gnome-books) - Books is application for listing, searching and reading eBooks. [![Open-Source Software][OSS Icon]](https://github.com/martamilakovic/gnome-books)
-- [Lucidor](http://www.lucidor.org/lucidor/) - Lucidor is a computer program for reading and handling e-books. Lucidor supports e-books in the EPUB file format, and catalogs in the OPDS format.
-- [MasterPDF editor](https://code-industry.net/free-pdf-editor/) - Master PDF Editor a convenient and smart PDF editor for Linux.
-- [Mcomix](https://sourceforge.net/projects/mcomix/) - GTK+ comic book viewer. [![Open-Source Software][OSS Icon]](https://sourceforge.net/p/mcomix/git/ci/master/tree/)
-- [MuPDF](http://mupdf.com/) - a lightweight PDF and XPS viewer. [![Open-Source Software][OSS Icon]](http://git.ghostscript.com/?p=mupdf.git;a=summary)
-- [Okular](https://okular.kde.org/) - Okular is a universal document viewer based developed by KDE. Okular works on multiple platforms, including but not limited to Linux, Windows, Mac OS X, BSD, etc. [![Open-Source Software][OSS Icon]](https://github.com/KDE/okular)
-- [PDFsam](http://www.pdfsam.org/) - A desktop application to split, extract pages, rotate, mix and merge PDF files. [![Open-Source Software][OSS Icon]](https://github.com/torakiki/pdfsam)
-- [Peruse](https://peruse.kde.org/) - A pleasant way to read comic books. [![Open-Source Software][OSS Icon]](https://download.kde.org/stable/peruse/peruse-1.2.tar.xz.mirrorlist)
-- [qpdf](https://launchpad.net/qpdfview) - qpdfview is a tabbed document viewer. [![Open-Source Software][OSS Icon]](https://launchpad.net/qpdfview)
-- [Sigil](https://github.com/Sigil-Ebook/Sigil) - Sigil is a multi-platform EPUB ebook editor. [![Open-Source Software][OSS Icon]](https://github.com/Sigil-Ebook/Sigil)
-- [Zathura](https://pwmt.org/projects/zathura/) - Zathura is a highly customizable and functional document viewer. [![Open-Source Software][OSS Icon]](https://git.pwmt.org/pwmt/zathura.git)
+- [Bookworm](https://babluboy.github.io/bookworm/) - Um leitor de eBook simples e focado. [![Open-Source Software][OSS Icon]](https://github.com/babluboy/bookworm) ![Freeware][Freeware Icon]
+- [Buka](https://github.com/oguzhaninan/Buka/releases) - Gestor de eBook's [![Open-Source Software][OSS Icon]](https://github.com/oguzhaninan/Buka) ![Freeware][Freeware Icon]
+- [Calibre](http://calibre-ebook.com/) - Software incrívelmente feio, mas poderoso para gerenciamento e conversão de eBook. [![Open-Source Software][OSS Icon]](https://github.com/kovidgoyal/calibre) ![Freeware][Freeware Icon]
+- [Easy Ebook Viewer](https://github.com/michaldaniel/Ebook-Viewer) - Leitor de eBook's python GTK para ler facilmente arquivos EPUB. [![Open-Source Software][OSS Icon]](https://github.com/michaldaniel/Ebook-Viewer) ![Freeware][Freeware Icon]
+- [Evince](https://wiki.gnome.org/Apps/Evince) - Evince é um visualizador de documentos para múltiplos formatos de documentos. O objetivo do Evince é substituir os vários visualizadores de documentos que existem no GNOME Desktop com um único aplicativo simples.[![Open-Source Software][OSS Icon]](https://wiki.gnome.org/Apps/Evince/GettingEvince) ![Freeware][Freeware Icon]
+- [FBReader](https://fbreader.org/content/fbreader-beta-linux-desktop) - Um dos aplicativos eReader mais populares. ![Freeware][Freeware Icon]
+- [Foxit](https://www.foxitsoftware.com/products/pdf-reader/) - Foxit Reader 8.0 — Leitor de PDF premiado. ![Freeware][Freeware Icon]
+- [Gnome Books](https://github.com/martamilakovic/gnome-books) - Books é um aplicativo para listagem, pesquisa e leitura de livros eletrônicos. [![Open-Source Software][OSS Icon]](https://github.com/martamilakovic/gnome-books) ![Freeware][Freeware Icon]
+- [Lucidor](http://www.lucidor.org/lucidor/) - Lucidor é um programa de computador para ler e manusear e-books. Lucidor suporta e-books no formato de arquivo EPUB e catálogos no formato OPDS. ![Freeware][Freeware Icon]
+- [MasterPDF editor](https://code-industry.net/free-pdf-editor/) - MasterPDF Editor é um editor de PDF conveniente e inteligente para Linux.![Freeware][Freeware Icon]
+- [Mcomix](https://sourceforge.net/projects/mcomix/) - Visualizador de quadrinhos GTK+.[![Open-Source Software][OSS Icon]](https://sourceforge.net/p/mcomix/git/ci/master/tree/) ![Freeware][Freeware Icon]
+- [MuPDF](http://mupdf.com/) - Um leitor de PDF e XPS leve. [![Open-Source Software][OSS Icon]](http://git.ghostscript.com/?p=mupdf.git;a=summary) ![Freeware][Freeware Icon]
+- [Okular](https://okular.kde.org/) - O Okular é um visualizador de documentos universal desenvolvido pela KDE. O Okular trabalha em várias plataformas, incluindo, mas não limitado a, Linux, Windows, Mac OS X, BSD, etc.![Freeware][Freeware Icon]
+- [PDFsam](http://www.pdfsam.org/) - Um aplicativo de desktop para dividir, extrair páginas, girar, misturar e mesclar arquivos PDF.[![Open-Source Software][OSS Icon]](https://github.com/torakiki/pdfsam) ![Freeware][Freeware Icon]
+- [Peruse](https://peruse.kde.org/) - Uma maneira agradável de ler quadrinhos..[![Open-Source Software][OSS Icon]](https://download.kde.org/stable/peruse/peruse-1.2.tar.xz.mirrorlist) ![Freeware][Freeware Icon]
+- [qpdf](https://launchpad.net/qpdfview) - qpdfview é um visualizador de documentos com guias. [![Open-Source Software][OSS Icon]](https://launchpad.net/qpdfview) ![Freeware][Freeware Icon]
+- [Sigil](https://github.com/Sigil-Ebook/Sigil) - Sigil é um editor de eBook multi-plataforma EPUB.[![Open-Source Software][OSS Icon]](https://github.com/Sigil-Ebook/Sigil) ![Freeware][Freeware Icon]
+- [Zathura](https://pwmt.org/projects/zathura/) - Zathura é um visualizador de documentos altamente personalizável e funcional. [![Open-Source Software][OSS Icon]](https://git.pwmt.org/pwmt/zathura.git) ![Freeware][Freeware Icon]
 
 ### Editores
 - [Atom](https://atom.io/) - Hackable text editor for the 21st century. [![Open-Source Software][OSS Icon]](https://github.com/atom/atom)
