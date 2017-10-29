@@ -7,51 +7,51 @@
 
 🐧 Este repositório é uma coleção de **IMPRESSIONANTES** aplicativos e ferramentas Linux para **usuários/desenvolvedores**.
 <br>
-🐧 Sinta-se libre para **contribuir** / **star** / **fork** / **pull request** . Qualquer **recomendação** e **sugestão** será bem vindo.
+🐧 Sinta-se livre para **contribuir** / **star** / **fork** / **pull request**. Qualquer **recomendação** e **sugestão** será bem-vinda.
 
 *Atualização: Este resumo foi publicado em [Gitbook](https://voluong.gitbooks.io/awesome-linux-software/content/). Você pode compartilhar esse link para novos usuários, pois podem achar mais amigável ler do que o github. Download em pdf [aqui](https://goo.gl/xhiKla).*
 
 **Reconhecimento:** *Tudo escrito abaixo é da minha própria experiência na faculdade e depois de ler vários materiais. Eu não sou profissional nem especialista, mas um aluno que tem uma grande paixão.
-Qualquer um pode abrir uma discussão na seção de problemas, ou enviar um pull request, caso algo seja modificado ou adicionado. Se você considerar meu trabalho valioso, uma [doação](#doação) será muito bem vinda.*
+Qualquer um pode abrir uma discussão na seção de problemas, ou enviar um pull request, caso algo seja modificado ou adicionado. Se você considerar meu trabalho valioso, uma [doação](#doação) será muito bem-vinda.*
 
 Duas versões chinesas desta lista estão disponíveis [aqui](https://github.com/alim0x/Awesome-Linux-Software-zh_CN) e [aqui(já atualizadas ultimamente).](https://github.com/0xE8551CCB/awesome-linux-software-cn)
 
 ## Índice
 
 - [Aplicativos](#aplicativos)
-    - [Áudio](#audio)
+    - [Áudio](#áudio)
     - [Clientes para bate-papo](#clientes-para-bate-papo)
-    - [Backup e Recuperação de Dados](#data-backup-and-recovery)
+    - [Backup e Recuperação de Dados](#backup-e-recuperação-de-dados)
     - [Personalização do Desktop](#desktop-customization)
-    - [Desenvolvimento](#development)
-    - [E-Book úteis](#e-book-utilities)
-    - [Editores](#editors)
-    - [Educação](#education)
+    - [Desenvolvimento](#desenvolvimento)
+    - [E-Book úteis](#e-book-úteis)
+    - [Editores](#editores)
+    - [Educação](#educação)
     - [E-mail](#email)
-    - [Gerenciador de arquivos](#file-manager)
-    - [Jogos](#games)
-    - [Gráficos](#graphics)
+    - [Gerenciador de arquivos](#gerenciador-de-arquivos)
+    - [Jogos](#jogos)
+    - [Gráficos](#gráficos)
     - [Internet](#internet)
-    - [Trabalho](#office)
-    - [Produtividade](#productivity)
+    - [Trabalho](#trabalho)
+    - [Produtividade](#produtividade)
     - [Proxy](#proxy)
-    - [Segurança](#security)
-    - [Compartilhamento de arquivos](#sharing-files)
+    - [Segurança](#segurança)
+    - [Compartilhamento de arquivos](#compartilhamento-de-arquivos)
     - [Terminal](#terminal)
-    - [Utilitários](#utilities)
-    - [Vídeo](#video)
+    - [Utilitários](#utilitários)
+    - [Vídeo](#vídeo)
     - [Wiki software](#wiki-software)
     - [Outros](#outros)
 - [Command Line Utilities](#command-line-utilities)
-- [Ambientes para Desktop](#desktop-environments)
-- [Gestores de exibição](#display-manager)
+- [Ambientes para Desktop](#ambientes-para-desktop)
+- [Gestores de exibição](#gestores-de-exibição)
     - [Console](#console)
-    - [Gráfico](#graphic)
-- [Gerenciador de janelas](#window-managers)
-    - [Compositores](#compositors)
-    - [Empilhadas](#stacking-window-managers)
-    - [Revestimento](#tiling-window-managers)
-    - [Dinâmica](#dynamic-window-managers)
+    - [Gráfico](#gráfico)
+- [Gerenciador de janelas](#gerenciador-de-janelas)
+    - [Compositores](#compositores)
+    - [Empilhadas](#empilhadas)
+    - [Revestimento](#revestimento)
+    - [Dinâmica](#dinâmica)
 
 ***********
 
@@ -86,7 +86,7 @@ Duas versões chinesas desta lista estão disponíveis [aqui](https://github.com
 
 ## Aplicativos
 
-### Audio
+### Áudio
 
 - [Airtime](https://www.sourcefabric.org/en/airtime/download/) - Airtime é um software de transmissão aberta para agendamento e gerenciamento de estação remota [![Open-Source Software][OSS Icon]](https://github.com/sourcefabric/Airtime)
 - [Ardour](https://ardour.org/) - Grave, edite e misture no Linux  [![Open-Source Software][OSS Icon]](https://ardour.org/development.html)
@@ -386,7 +386,7 @@ Ele foi projetado principalmente para ajudar a recuperar partições perdidas e/
 - [Thunar](https://apps.ubuntu.com/cat/applications/precise/thunar/) - Thunar is the file manager designed to be the default file manager of Xfce 4.6 It has been designed to be fast and easy to use.
 
 ### Jogos
-#### RTS
+#### Estratégia em Tempo Real
 - [Warzone 2100](https://www.wz2100.net/) - Open-source real-time strategy game that takes place after a nuclear war. ![Open-Source Software][OSS Icon]
 - [OpenRA](http://www.openra.net/) - Classic strategy games, rebuilt for the modern era. Open source. ![Open-Source Software][OSS Icon]
 - [Widelands](https://wl.widelands.org/) - Widelands is a open source RTS game with singleplayer campaigns and a multiplayer mode inspired by Settlers II. ![Open-Source Software][OSS Icon]
@@ -394,16 +394,16 @@ Ele foi projetado principalmente para ajudar a recuperar partições perdidas e/
 - [TripleA](http://www.triplea-game.org/) - Open source grand strategy game with "Axis and Allies" game rules ![Open-Source Software][OSS Icon]
 
 
-#### Turn Based Strategy
+#### Estratégia Baseada em Turnos
 - [Battle for Wesnoth](https://wesnoth.org/) - The Battle for Wesnoth is an open source, turn-based strategy game with a high fantasy theme. It features both singleplayer and online/hotseat multiplayer combat. ![Open-Source Software][OSS Icon]
 - [FreeCiv](http://www.freeciv.org/) - Freeciv is a Free and Open Source empire-building strategy game inspired by the history of human civilization. ![Open-Source Software][OSS Icon]
 
-#### City Building Simulation
+#### Simulador de Construção de Cidades
 - [Unknown Horizons](http://unknown-horizons.org/) - A 2D realtime strategy simulation with an emphasis on economy and city building. Multiplayer currently broken. ![Open-Source Software][OSS Icon]
 - [OpenTTD](hptts://www.openttd.org) - An open-source clone of Transport Tycoon Plus with major improvements. ![Open-Source Software][OSS Icon]
 - [Simutrans](https://www.simutrans.com) - Simutrans is a freeware and open-source transportation simulator. ![Open-Source Software][OSS Icon]
 
-#### FPS
+#### Tiro em Primeira Pessoa (FPS)
 - [Xonotic](http://www.xonotic.org/) - Arena shooter inspired by Unreal Tournament and Quake. ![Open-Source Software][OSS Icon]
 - [Red Eclipse](https://redeclipse.net/) - Red Eclipse is a fun-filled new take on the first person arena shooter, which lends itself toward a balanced gameplay, with a general theme of agility in a variety of environments. ![Open-Source Software][OSS Icon]
 - [Urban Terror](http://www.urbanterror.info) - A "Hollywood" tactical shooter - realism based, but the motto is "fun over realism". ![Open-Source Software][OSS Icon]
@@ -414,7 +414,7 @@ Ele foi projetado principalmente para ajudar a recuperar partições perdidas e/
 - [Zelda Classic](http://www.zeldaclassic.com/) - A tribut to Nintendo's The Legend of Zelda with additional quests, items and challenges ![Open-Source Software][OSS Icon]
 - [Zelda: Mystery of Solarus DX](http://www.solarus-games.org) - A direct sequel to The Legend of Zelda: A Link to the Past on the SNES, using the same graphics and game mechanisms ![Open-Source Software][OSS Icon]
 
-#### Miscellaneous
+#### Variados
 - [Cockatrice](https://cockatrice.github.io/) - Cockatrice is an open-source multiplatform supported program for playing tabletop card games over a network. ![Open-Source Software][OSS Icon]
 - [Minecraft](https://minecraft.net) - Minecraft is a game about placing blocks and going on adventures. Explore randomly generated worlds and build amazing things from the simplest of homes to the grandest of castles.
 - [Minetest](https://minetest.net) - Open-source Minecraft written in C++ (uses less resources) and includes modding API. ![Open-Source Software][OSS Icon]
@@ -423,12 +423,12 @@ Ele foi projetado principalmente para ajudar a recuperar partições perdidas e/
 - [Snake Game](https://alpcoskun.com/snake/) - Cross-platform Classic Snake Game based on Node.js. [![Open-Source Software][OSS Icon]](https://github.com/alpcoskun/snake)
 - [SuperTuxKart](https://supertuxkart.net) - SuperTuxKart is a 3D open-source arcade racer with a variety characters, tracks, and modes to play. ![Open-Source Software][OSS Icon]
 
-#### Engine Re-creations (require the actual game)
+#### Recriação de Engines (requerem o jogo)
 - [OpenMW](http://openmw.org) - A recreation of the Morrowind engine, expanding upon the original. It can be used to play legitimate copies of original game. ![Open-Source Software][OSS Icon]
 - [OpenRCT2](https://openrct2.website/) - A recreation of the Rollercoaster Tycoon 2 engine. Requires the original games assests. ![Open-Source Software][OSS Icon]
 - [NXEngine](http://nxengine.sourceforge.net/) - A source port of Cave Story that runs natively on Linux, Source needs to be built. ![Open-Source Software][OSS Icon]
 
-#### Gaming Applications
+#### Aplicativos para Jogos
 - [Wine](https://www.winehq.org/) - Wine ("Wine Is Not an Emulator") is a compatibility layer capable of running Windows applications on Linux, quality depends from game to game ![Open-Source Software][OSS Icon]
 - [PlayOnLinux](https://www.playonlinux.com) - A front-end for Wine. ![Open-Source Software][OSS Icon]
 - [Steam](steampowered.com) - Gaming store, which opens the gates to many games.
@@ -437,7 +437,7 @@ Ele foi projetado principalmente para ajudar a recuperar partições perdidas e/
 
 ### Gráficos
 
-#### Graphic Creation
+#### Criação de Gráficos
 - [Blender](https://www.blender.org/) - a free and open source complete 3D creation pipeline for artists and small teams.
 - [Cinepaint](http://www.cinepaint.org/) - Open source deep paint software
 - [Gravit](https://www.designer.io/) - Gravit Designer is a full featured free vector design app right at your fingertip.
@@ -454,7 +454,7 @@ Ele foi projetado principalmente para ajudar a recuperar partições perdidas e/
 - [yEd Graph Editor](https://www.yworks.com/products/yed) - yEd is a powerful desktop application that can be used to quickly and effectively generate high-quality diagrams. Create diagrams manually, or import your external data for analysis. Our automatic layout algorithms arrange even large data sets with just the press of a button.
 - [Vectr](https://vectr.com/) - Vectr is a free graphics software used to create vector graphics easily and intuitively. It's a simple yet powerful web and desktop cross-platform tool to bring your designs into reality.
 
-#### Image Editor
+#### Edição de Imagens
 - [Aftershot](http://www.aftershotpro.com/en/products/aftershot/pro/) - A powerful alternative to Adobe Photoshop. ![Nonfree][Money icon]
 - [Darktable](http://www.darktable.org/) - darktable is an open source photography workflow application and RAW developer
 - [GIMP](https://www.gimp.org/downloads/) - GIMP is a freely distributed program for such tasks as photo retouching, image composition and image authoring[![Open-Source Software][OSS Icon]](https://github.com/GNOME/gimp)
