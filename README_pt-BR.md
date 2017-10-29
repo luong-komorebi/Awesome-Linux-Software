@@ -710,21 +710,21 @@ Ele foi projetado principalmente para ajudar a recuperar partições perdidas e/
 - [Yakuake](https://yakuake.kde.org/) - A Quake-style terminal emulator based on KDE Konsole technology.
 
 ### Utilitários
-- [Angry IP Scanner](http://angryip.org/) - Fast and friendly network scanner. [![Open-Source Software][OSS Icon]](https://github.com/angryip/ipscan)
-- [Aptik](http://www.teejeetech.in/2014/01/introducing-aptik.html) - A tool for you to organize your Favorite PPAs and manage Packages Easily. [![Open-Source Software][OSS Icon]](https://code.launchpad.net/~teejee2008/apt-toolkit/trunk)
-- [Bleach bit](https://www.bleachbit.org/) -BleachBit quickly frees disk space and tirelessly guards your privacy. Free cache, delete cookies, clear Internet history, shred temporary files, delete logs, and more ...
-- [Brasero](https://wiki.gnome.org/Apps/Brasero) - CD/DVD burner.
-- [Cheat](https://github.com/chrisallenlane/cheat) - Cheat allows you to create and view interactive cheatsheets on the command-line.`Simplify man tool`[![Open-Source Software][OSS Icon]](https://github.com/chrisallenlane/cheat)
-- [Clonezilla](http://clonezilla.org/) - Clonezilla is a partition and disk imaging/cloning program similar to True ImageÂ® or Norton GhostÂ®. [![Open-Source Software][OSS Icon]](http://clonezilla.org/related-links/)
-- [Convertall](https://sourceforge.net/projects/convertall/) - Convert all units.
-- [CPU-G](http://www.omgubuntu.co.uk/2016/09/monitor-battery-life-ubuntu-cpu-g) - Easy monitoring the battery life of your Ubuntu laptop. [![Open-Source Software][OSS Icon]](https://launchpad.net/cpug)
-- [Curlew](https://github.com/chamfay/Curlew) - GTK Media Converter for the GNOME desktop [![Open-Source Software][OSS Icon]](https://github.com/chamfay/Curlew)
-- [EasyStroke](https://github.com/thjaeger/easystroke/wiki#download) - Easystroke is a gesture-recognition application for X11. [![Open-Source Software][OSS Icon]](https://github.com/thjaeger/easystroke)
+- [Angry IP Scanner](http://angryip.org/) - Scanner de rede rápido e amigável. [![Open-Source Software][OSS Icon]](https://github.com/angryip/ipscan)
+- [Aptik](http://www.teejeetech.in/2014/01/introducing-aptik.html) - Uma ferramenta para você organizar seus PPAs favoritos e controlar pacotes facilmente. [![Open-Source Software][OSS Icon]](https://code.launchpad.net/~teejee2008/apt-toolkit/trunk)
+- [Bleach bit](https://www.bleachbit.org/) -BleachBit libera rapidamente espaço em disco e protege incansavelmente sua privacidade. Free cache, delete cookies, clear Internet history, shred temporary files, delete logs, and more ...
+- [Brasero](https://wiki.gnome.org/Apps/Brasero) - Gravador de CD/DVD.
+- [Cheat](https://github.com/chrisallenlane/cheat) - Cheat permite você criar e visualizar interativamente comandos na linha de comando.`Simplify man tool`[![Open-Source Software][OSS Icon]](https://github.com/chrisallenlane/cheat)
+- [Clonezilla](http://clonezilla.org/) - Clonezilla é um programa de particionamento e montagem/clonagem de disco similar ao True ImageÂ® ou Norton GhostÂ®. [![Open-Source Software][OSS Icon]](http://clonezilla.org/related-links/)
+- [Convertall](https://sourceforge.net/projects/convertall/) - Converte todas as unidades.
+- [CPU-G](http://www.omgubuntu.co.uk/2016/09/monitor-battery-life-ubuntu-cpu-g) - Fácil monitoramento da vida útil da bateria do seu laptop Ubuntu. [![Open-Source Software][OSS Icon]](https://launchpad.net/cpug)
+- [Curlew](https://github.com/chamfay/Curlew) - GTK Media Converter para o desktop com GNOME [![Open-Source Software][OSS Icon]](https://github.com/chamfay/Curlew)
+- [EasyStroke](https://github.com/thjaeger/easystroke/wiki#download) - Easystroke é uma aplicação de reconhecimento de gestos para X11. [![Open-Source Software][OSS Icon]](https://github.com/thjaeger/easystroke)
 - [Emoji Keyboard](https://github.com/OzymandiasTheGreat/emoji-keyboard) - Virtual keyboard-like emoji picker for Linux. [![Open-Source Software][OSS Icon]](https://github.com/OzymandiasTheGreat/emoji-keyboard)
 - [Encryptr](https://spideroak.com/encryptr/) - Encryptr is a zero-knowledge, cloud-based e-wallet / password manager powered by Crypton. [![Open-Source Software][OSS Icon]](https://github.com/SpiderOak/Encryptr)
 - [Enpass](https://www.enpass.io/) - Enpass makes your life easy by securely managing your passwords and important information.
-- [FreeRDP](http://www.freerdp.com/) - FreeRDP is a free implementation of the Remote Desktop Protocol (RDP). [![Open-Source Software][OSS Icon]](https://github.com/FreeRDP/FreeRDP)
-- [GD map](http://gdmap.sourceforge.net/) - A tool to visualize disk usage.
+- [FreeRDP](http://www.freerdp.com/) - FreeRDP é uma implementação livre do Remote Desktop Protocol (RDP). [![Open-Source Software][OSS Icon]](https://github.com/FreeRDP/FreeRDP)
+- [GD map](http://gdmap.sourceforge.net/) - Uma ferramenta para visualizar o uso de disco.
 - [Gloobus-Preview](https://github.com/antonio-malcolm/gloobus-preview) - It gives you a quick preview of your files. It's similar to [Sushi](https://github.com/GNOME/sushi) [![Open-Source Software][OSS Icon]](https://github.com/antonio-malcolm/gloobus-preview) .
 - [GnomePie](http://simmesimme.github.io/news/2016/08/24/gnome-pie-069) - the circular app launcher for Linux desktops. [![Open-Source Software][OSS Icon]](http://simmesimme.github.io/news/2016/08/24/gnome-pie-069)
 - [GParted](http://gparted.org/) - Disk Partition utility for Linux.
@@ -790,7 +790,7 @@ Ele foi projetado principalmente para ajudar a recuperar partições perdidas e/
 - [Mycroft](https://github.com/MycroftAI/mycroft-core) - A.I. for everyone. [![Open-Source Software][OSS Icon]](https://github.com/MycroftAI/mycroft-core)
 - [Polychromatic](https://github.com/lah7/polychromatic) - Graphical front end and tray applet for configuring Razer peripherals on GNU/Linux. [![Open-Source Software][OSS Icon]](https://github.com/lah7/polychromatic)
 
-## Command Line Utilities
+## Utilitário de Linha de Comando
 
 - [2048](https://itsfoss.com/best-command-line-games-linux/) - Play the famous 2048 in commandline. [![Open-Source Software][OSS Icon]](https://itsfoss.com/best-command-line-games-linux/)
 - [Bastet](https://github.com/fph/bastet) - Play Tetris in commandline. [![Open-Source Software][OSS Icon]](https://github.com/fph/bastet)
@@ -1038,7 +1038,7 @@ Ele foi projetado principalmente para ajudar a recuperar partições perdidas e/
 - [Linux Kernel Mailing List Archive](https://lkml.org/)
 - [Linux Kernel Module Programming Guide (PDF)](http://www.tldp.org/LDP/lkmpg/2.6/lkmpg.pdf)
 
-## Contributors
+## Contribuintes
 
 Muito obrigado a [**TODOS os contribuintes**](https://github.com/LewisVo/Awesome-Linux-Software/graphs/contributors) que ajudaram a tornar esta lista possível.
 *Todos do @ reddit.com/r/linux, reddit.com/r/ubuntu, vozforums.com e outros fÃ³runs por muitas sugestões e elogios*
@@ -1058,7 +1058,7 @@ Muito obrigado a [**TODOS os contribuintes**](https://github.com/LewisVo/Awesome
 > Se o aplicativo não se encaixa em nenhum **tópico existente**, faça **um novo** para ele.
 > Certifique que tudo seja classificado em ordem **alfabética**.
 
-## Unsure how to contribute?
+## Não sabe como contribuir?
 
 - [How to Use Github](https://guides.github.com/activities/forking/)
 - [How to Git from the Command Line](https://rogerdudler.github.io/git-guide/)
