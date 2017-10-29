@@ -1,4 +1,4 @@
-# Awesome Linux Software
+# ซอฟต์แวร์ลินุกซ์ สุดเจ๋ง
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://awesome.re/)
 
@@ -13,43 +13,42 @@
 
 **Acknowledgement:** *Everything written below is from my own experience in college and after reading various materials. I am neither a professional nor an expert, but a passionate student. Anyone can open a discussion in the issue section, or a pull request if something should be modified or added. If you consider my work valuable, a [donation](#donation) is much appreciated.*
 
-* Brazilian Portuguese version : [here](https://github.com/LewisVo/Awesome-Linux-Software/blob/master/README_pt-BR.md).
-* Chinese version : [here](https://github.com/LewisVo/Awesome-Linux-Software/blob/master/README_zh-CN.md) or [here](https://github.com/alim0x/Awesome-Linux-Software-zh_CN) or [here](https://github.com/0xE8551CCB/awesome-linux-software-cn).
-* Spanish version : [here](https://github.com/LewisVo/Awesome-Linux-Software/blob/master/README_es-ES.md) or [here](https://github.com/SaintFenix/Awesome-Linux-Software/blob/master/README_es-ES.md)
-* Thai version : [here](https://github.com/LewisVo/Awesome-Linux-Software/blob/master/README_th-TH.md).
+* ภาษาโปรตุเกส บราซิล : [ที่นี่](https://github.com/LewisVo/Awesome-Linux-Software/blob/master/README_pt-BR.md).
+* ภาษาจีน : [ที่นี่](https://github.com/LewisVo/Awesome-Linux-Software/blob/master/README_zh-CN.md) หรือ [ที่นี่](https://github.com/alim0x/Awesome-Linux-Software-zh_CN) or [here](https://github.com/0xE8551CCB/awesome-linux-software-cn).
+* ภาษาสเปน : [ที่นี่](https://github.com/LewisVo/Awesome-Linux-Software/blob/master/README_es-ES.md) หรือ [ที่นี่](https://github.com/SaintFenix/Awesome-Linux-Software/blob/master/README_es-ES.md)
 
-## Table of Contents
+## สารบัญ
 
-- [Applications](#applications)
-    - [Audio](#audio)
-    - [Chat Clients](#chat-clients)
-    - [Data Backup and Recovery](#data-backup-and-recovery)
-    - [Desktop Customization](#desktop-customization)
-    - [Development](#development)
-    - [E-Book Utilities](#e-book-utilities)
-    - [Editors](#editors)
-    - [Education](#education)
-    - [Email Utilities](#email)
-    - [File Manager](#file-manager)
-    - [Games](#games)
-    - [Graphics](#graphics)
-    - [Internet](#internet)
-    - [Office](#office)
+- [แอปพลิเคชัน](#applications)
+    - [เสียง](#audio)
+    - [โปรแกรมสนทนา](#chat-clients)
+    - [สำรองข้อมูลและกู้คืน](#data-backup-and-recovery)
+    - [ปรับแต่งเดสก์ท็อป](#desktop-customization)
+    - [พัฒนาซอฟต์แวร์](#development)
+    - [เครื่องมือ E-Book](#e-book-utilities)
+    - [แก้ไขข้อความ](#editors)
+    - [การศึกษา](#education)
+    - [เครื่องมือ Email](#email)
+    - [จัดการไฟล์](#file-manager)
+    - [เกมส์](#games)
+    - [กราฟิก](#graphics)
+    - [อินเทอร์เน็ต](#internet)
+    - [สำนักงาน](#office)
     - [Productivity](#productivity)
     - [Proxy](#proxy)
-    - [Security](#security)
-    - [Sharing Files](#sharing-files)
-    - [Terminal](#terminal)
-    - [Utilities](#utilities)
-    - [Video](#video)
-    - [Wiki software](#wiki-software)
-    - [Others](#others)
+    - [ความปลอดภัย](#security)
+    - [แบ่งปันไฟล์](#sharing-files)
+    - [เทอร์มินัล](#terminal)
+    - [เครื่องไม้เครื่องมือ](#utilities)
+    - [วิดีโอ](#video)
+    - [ซอฟต์แวร์ Wiki](#wiki-software)
+    - [อื่นๆ](#others)
 - [Command Line Utilities](#command-line-utilities)
-- [Desktop Environments](#desktop-environments)
-- [Display Managers](#display-manager)
+- [สภาพแวดล้อมเดสก์ท็อป](#desktop-environments)
+- [ตัวจัดการ การแสดงผลหน้าจอ](#display-manager)
    - [Console](#console)
    - [Graphic](#graphic)
-- [Window Managers](#window-managers)
+- [ตัวจัดการหน้าต่าง](#window-managers)
    - [Compositors](#compositors)
    - [Stacking window managers](#stacking-window-managers)
    - [Tiling window managers](#tiling-window-managers)
@@ -57,13 +56,13 @@
 
 ***********
 
-- [Setup](#setup)
+- [ติดตั้ง](#setup)
    - [ArchLinux](#arch-linux)
    - [Bodhi](#bodhi)
    - [CentOS](#centos)
    - [openSUSE](#opensuse)
    - [Ubuntu](#ubuntu)
-- [Discussion Forums](#discussion-forums)
+- [กระทู้สนทนา](#discussion-forums)
    - [ArchLinux Forums](#arch-linux-forums)
    - [CentOS Forums](#centos-forums)
    - [Ubuntu Forums](#ubuntu-forums)
@@ -71,7 +70,7 @@
    - [IRC channels](#irc-channels)
    - [Linux News, Apps, and more ....](#linux-news-apps-and-more-)
    - [Reddit](#reddit)
-- [Learn Linux](#learn-linux)
+- [เรียนรู้ลินุกซ์](#learn-linux)
 - [Linux Hacking/Development](#linux-hackingdevelopment)
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contributors](#contributors)
@@ -92,51 +91,51 @@
 ## Applications
 
 ### Audio
-*For a more comprehensive/advanced/better categorized/... list of Linux audio software, you may want to click [here](https://github.com/nodiscc/awesome-linuxaudio)*
+*สำหรับแหล่งทรัพยากรในหมวดหมู่นี้ ที่ครอบคลุมกว่า/ขั้นสูงกว่า/ดีกว่า ด้านเสียงในลินุกซ์ คูณอาจสนใจ [ที่นี่](https://github.com/nodiscc/awesome-linuxaudio)*
 - [![Open-Source Software][OSS Icon]](https://github.com/sourcefabric/Airtime) [Airtime](https://www.sourcefabric.org/en/airtime/download/) - The open broadcast software for scheduling and remote station management 
-- [![Open-Source Software][OSS Icon]](https://ardour.org/development.html) [Ardour](https://ardour.org/) - Record, Edit, and Mix on Linux 
-- [![Open-Source Software][OSS Icon]](http://audacious-media-player.org/developers) [Audacious](http://audacious-media-player.org/) - An open source audio player that plays your music how you want it, without stealing away your computer’s resources from other tasks. 
-- [![Open-Source Software][OSS Icon]](https://github.com/audacity/audacity) [Audacity](http://www.audacityteam.org/download/linux/) - Free, open source, cross-platform software for recording and editing sounds. 
-- [Audio Recorder](https://launchpad.net/~audio-recorder/+archive/ubuntu/ppa) - Simple audio recorder available in an Ubuntu PPA.
-- [![Open-Source Software][OSS Icon]](https://github.com/Superjo149/auryo) [Auryo](http://auryo.com/) - Unofficial multiplatform SoundCloud® app for your desktop. 
-- [![Open-Source Software][OSS Icon]](https://github.com/CDrummond/cantata) [Cantata](https://www.linux-apps.com/content/show.php/Cantata?content=147733) - Qt5 Graphical MPD (Music Player Daemon) Client for Linux, Windows, MacOS. 
-- [![Open-Source Software][OSS Icon]](https://github.com/clementine-player/Clementine) [Clementine](https://www.clementine-player.org/) - Play numerous lossy and lossless audio formats. 
-- [![Open-Source Software][OSS Icon]](https://github.com/cmus/cmus) [Cmus](https://cmus.github.io/#download) - A small, fast and powerful console music player for Unix-like operating systems. 
-- [![Open-Source Software][OSS Icon]](https://github.com/linuxdeepin/deepin-music) [Deepin Music](https://www.deepin.org/en/original/deepin-music/) - An application, developed by Deepin Technology Team, which focused on local music playing. 
-- ![Open-Source Software][OSS Icon] [Gnormalize](http://gnormalize.sourceforge.net/) - An audio converter and CD ripper with ReplayGain normalization algorithms, a metadata (tag) editor and an audio player. It uses gtk2-perl under GNU/Linux. 
-- [![Open-Source Software][OSS Icon]](https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-) [Google Play Music](https://www.googleplaymusicdesktopplayer.com/) - Unofficial but beautiful cross-platform desktop player for Google Play Music. 
-- [![Open-Source Software][OSS Icon]](https://github.com/gpodder/gpodder) [Gpodder](https://gpodder.github.io/) - Media aggregator and podcast client. 
-- [![Open-Source Software][OSS Icon]](https://github.com/haecker-felix/gradio/releases/) [GRadio](https://github.com/haecker-felix/gradio/releases/) - Radio software for Ubuntu Linux. 
-- [![Open-Source Software][OSS Icon]](https://github.com/vincelwt/harmony) [Harmony](http://getharmony.xyz) - Music player with sleek interface & cloud compatibility. 
-- [![Open-Source Software][OSS Icon]](https://github.com/hydrogen-music/hydrogen) [Hydrogen](http://www.hydrogen-music.org/hcms/node/21) - Advanced drum machine for GNU/Linux. 
-- [![Open-Source Software][OSS Icon]](https://github.com/KDE/k3b) [K3b](http://www.k3b.org/) - The CD/DVD Kreator for Linux, optimized for KDE. 
-- [![Open-Source Software][OSS Icon]](https://kid3.sourceforge.io/) [Kid3Qt](https://apps.ubuntu.com/cat/applications/precise/kid3-qt/) - Edit tags of multiple files, e.g. the artist, album, year and genre of all mp3 files of an album.
-- [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/kxstudio/) [KxStudio](http://kxstudio.linuxaudio.org/) - A collection of applications and plugins for professional audio production.
-- [![Open-Source Software][OSS Icon]](https://github.com/LibreTime/libretime) [Libretime](http://libretime.org/) - The open broadcast software for scheduling and remote station management; forked from Airtime. 
-- [![Open-Source Software][OSS Icon]](https://github.com/LMMS/lmms) [LMMS](https://lmms.io/download/#linux) - Making music on your PC by creating melodies and beats, synthesizing and mixing sounds, arranging samples and much more. 
-- [![Open-Source Software][OSS Icon]](https://github.com/gnumdk/lollypop) [Lollypop](http://gnumdk.github.io/lollypop-web) - A GNOME music playing application. 
-- [![Open-Source Software][OSS Icon]](https://github.com/emilioastarita/lyricfier) [Lyricfier](https://github.com/emilioastarita/lyricfier) - A Spotify Lyrics alternative app. 
-- [![Open-Source Software][OSS Icon]](https://github.com/mixxxdj/mixxx) [Mixxx](http://www.mixxx.org/download/) - Free DJ software that gives you everything you need to perform live mixes; veritable alternative to Traktor. 
-- [![Open-Source Software][OSS Icon]](https://github.com/ColinDuquesnoy/MellowPlayer) [Mellow Player](https://colinduquesnoy.github.io/MellowPlayer/) - Cloud music integration for your desktop. 
-- [![Open-Source Software][OSS Icon]](https://github.com/KeitIG/museeks) [Museek](http://museeks.io/) - A simple, clean and cross-platform music player. 
+- [![Open-Source Software][OSS Icon]](https://ardour.org/development.html) [Ardour](https://ardour.org/) - บันทึก, แก้ไข, และมิกซ์ บนลินุกซ์ 
+- [![Open-Source Software][OSS Icon]](http://audacious-media-player.org/developers) [Audacious](http://audacious-media-player.org/) - ตัวเล่นไฟล์เสียงที่เป็นโอเพนซอร์ส ที่กินทรัพยากรเครื่องของคุณน้อยมากๆ
+- [![Open-Source Software][OSS Icon]](https://github.com/audacity/audacity) [Audacity](http://www.audacityteam.org/download/linux/) - ซอฟต์แวร์แก้ไขตัดต่อไฟล์เสียง ฟรีและโอเพนซอร์ส รองรับหลายระบบปฏิบัติการ
+- [Audio Recorder](https://launchpad.net/~audio-recorder/+archive/ubuntu/ppa) - โปรแกรมบันทึกเสียงอย่างง่าย ซึ่งอยู่ใน Ubuntu PPA
+- [![Open-Source Software][OSS Icon]](https://github.com/Superjo149/auryo) [Auryo](http://auryo.com/) - แอปสำหรับใช้ SoundCloud® โดยนักพัฒนาอิสระ รองรับหลากหลายระบบปฏิบัติการสำหรับเดสก์ท็อป
+- [![Open-Source Software][OSS Icon]](https://github.com/CDrummond/cantata) [Cantata](https://www.linux-apps.com/content/show.php/Cantata?content=147733) - โปรแกรมเล่นไฟล์เสียงผ่าน MPD (Music Player Daemon) สำหรับ ลินุกซ์, วินโดวส์, แมคโอเอส
+- [![Open-Source Software][OSS Icon]](https://github.com/clementine-player/Clementine) [Clementine](https://www.clementine-player.org/) - โปรแกรมเล่นไฟล์เพลงความละเอียดสูง และรองรับไฟล์เสียงหลายรูปแบบ 
+- [![Open-Source Software][OSS Icon]](https://github.com/cmus/cmus) [Cmus](https://cmus.github.io/#download) - โปรแกรมเล่นไฟล์เสียงแบบเท็กซ์โหมดบนคอนโซล ที่เล็ก, เร็ว และประสิทธิภาพสูง บนระบบปฏิบัติการแบบ Unix-like
+- [![Open-Source Software][OSS Icon]](https://github.com/linuxdeepin/deepin-music) [Deepin Music](https://www.deepin.org/en/original/deepin-music/) - แอปพลิเคชั่นที่พัฒนาโดยทีม Deepin Technology ที่มุ่งเน้นการเล่นไฟล์บนเครื่อง
+- ![Open-Source Software][OSS Icon] [Gnormalize](http://gnormalize.sourceforge.net/) - โปรแกรมแปลงไฟล์เสียงและแปลง CD เป็นไฟล์เสียง โดยใช้ ReplayGain normalization algorithms, รวมถึงใช้เป็นตัวแก้ไข metadata (tag) และเป็นตัวเล่นไฟล์เสียงได้อีกด้วย โดยใช้ gtk2-perl ภายใต้ GNU/Linux
+- [![Open-Source Software][OSS Icon]](https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-) [Google Play Music](https://www.googleplaymusicdesktopplayer.com/) - โปรแกรมสำหรับเล่นเพลงจาก Google Play Music โดยนักพัฒนาภายนอก รองรับหลายระบบปฏิบัติการสำหรับเครื่องเดสก์ท็อป
+- [![Open-Source Software][OSS Icon]](https://github.com/gpodder/gpodder) [Gpodder](https://gpodder.github.io/) - โปรแกรมสำหรับฟัง podcast และรวบรวมไฟล์มีเดียต่างๆ 
+- [![Open-Source Software][OSS Icon]](https://github.com/haecker-felix/gradio/releases/) [GRadio](https://github.com/haecker-felix/gradio/releases/) - ซอฟต์แวร์ที่เกียวข้องกับวิทยุสำหรับ Ubuntu Linux
+- [![Open-Source Software][OSS Icon]](https://github.com/vincelwt/harmony) [Harmony](http://getharmony.xyz) - โปรแกรมเล่นเพลงหน้าตาดี และเล่นไฟล์เพลงที่อยู่บนคลาวด์ได้
+- [![Open-Source Software][OSS Icon]](https://github.com/hydrogen-music/hydrogen) [Hydrogen](http://www.hydrogen-music.org/hcms/node/21) - เครื่องมือสำหรับกลองขั้นสูงสำหรับ GNU/Linux. 
+- [![Open-Source Software][OSS Icon]](https://github.com/KDE/k3b) [K3b](http://www.k3b.org/) - โปรแกรมสำหรับสร้างแผ่น CD/DVD สำหรับลินุกซ์ ปรับแต่งให้เข้ากันกับ KDE
+- [![Open-Source Software][OSS Icon]](https://kid3.sourceforge.io/) [Kid3Qt](https://apps.ubuntu.com/cat/applications/precise/kid3-qt/) - แก้ไขข้อมูล tag ได้ทีละหลายๆ ไฟล์ เช่น ศิลปิล, อัลบั้ม, ปีที่ออก และ แนวเพลง สำหรับไฟล์ mp3 
+- [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/kxstudio/) [KxStudio](http://kxstudio.linuxaudio.org/) - รวบรวมโปรแกรมและส่วนเสริมสำหรับผู้ที่ทำงานด้านเสียงมืออาชีพ
+- [![Open-Source Software][OSS Icon]](https://github.com/LibreTime/libretime) [Libretime](http://libretime.org/) - ซอฟต์แวร์สำหรับทำสถานีกระจายเสียง จัดตารางและควบคุมระยะไกล ซอฟต์แวร์ต้นแบบมาจาก Airtime 
+- [![Open-Source Software][OSS Icon]](https://github.com/LMMS/lmms) [LMMS](https://lmms.io/download/#linux) - สร้างดนตรีบนเครื่องคอมพิวเตอร์ของคุณ โดยสร้างเมโลดี้และจังหวะ, สังเคราะห์เสียง ผสมเสียง รวมถึงเรียบเรียงและอีกมากมาย
+- [![Open-Source Software][OSS Icon]](https://github.com/gnumdk/lollypop) [Lollypop](http://gnumdk.github.io/lollypop-web) - โปรแกรมเล่นเพลงของ GNOME
+- [![Open-Source Software][OSS Icon]](https://github.com/emilioastarita/lyricfier) [Lyricfier](https://github.com/emilioastarita/lyricfier) - โปรแกรมแสดงเนื้อเพลงที่เล่นผ่าน Spotify
+- [![Open-Source Software][OSS Icon]](https://github.com/mixxxdj/mixxx) [Mixxx](http://www.mixxx.org/download/) - ซอฟต์แวร์ DJ ฟรี ที่มีทุกสิ่งสำหรับแสดงการมิกซ์สด โดยให้อารมณ์ใกล้เคียงโปรแกรม Traktor
+- [![Open-Source Software][OSS Icon]](https://github.com/ColinDuquesnoy/MellowPlayer) [Mellow Player](https://colinduquesnoy.github.io/MellowPlayer/) - เชื่อมต่อเพลงบนคลาวด์กับเครื่องเดสก์ท็อปของคุณ
+- [![Open-Source Software][OSS Icon]](https://github.com/KeitIG/museeks) [Museek](http://museeks.io/) - โปรแกรมเล่นเพลงอย่างง่าย รองรับหลายระบบปฏิบัติการ
 - [![Open-Source Software][OSS Icon]](https://about.musixmatch.com/apps/) [MusixMatch](https://about.musixmatch.com/apps/) - A Capable lyrics app with synchronized lyrics function. 
-- [Netease Music](http://music.163.com/#/download) - A music player of Netease - a cloud music service in China.
-- [![Open-Source Software][OSS Icon]](https://github.com/nukeop/nuclear) [Nuclear](http://nuclear.gumblert.tech/) - An Electron-based, multiplatform music player app that streams from multiple sources. 
-- [Ocenaudio](http://www.ocenaudio.com/whatis) - A cross-platform, easy to use, fast and functional audio editor. It is the ideal software for people who need to edit and analyze audio files.
-- [![Open-Source Software][OSS Icon]](https://github.com/PedroHLC/osdlyrics) [OSD Lyrics](https://aur.archlinux.org/packages/osdlyrics-git/) - Show lyrics with your favorite media player. 
+- [Netease Music](http://music.163.com/#/download) - โปรแกรมมเล่นเพลงสำหรับ Netease - ผู้ให้บริการเพลงบนคลาวด์ในประเทศจีน
+- [![Open-Source Software][OSS Icon]](https://github.com/nukeop/nuclear) [Nuclear](http://nuclear.gumblert.tech/) - โปรแกรมเล่นเพลงที่ถูกเขียนมาจาก Electron, รองรับหลายระบบปฏิบัติการ ที่สามารถเล่นเพลงผ่านเครือข่ายได้หลายแหล่ง
+- [Ocenaudio](http://www.ocenaudio.com/whatis) - โปรแกรมแก้ไขตัดต่อไฟล์เสียงที่เหมาะสำหรับผู้ที่ต้องการวิเคราะห์ไฟล์เสียง
+- [![Open-Source Software][OSS Icon]](https://github.com/PedroHLC/osdlyrics) [OSD Lyrics](https://aur.archlinux.org/packages/osdlyrics-git/) - แสดงเนื้อเพลงจากโปรแกรมเล่นเพลงโปรดของคุณ
 - [![Open-Source Software][OSS Icon]](https://github.com/gkarsay/parlatype) [Parlatype](http://gkarsay.github.io/parlatype/) - GNOME audio player for transcription. 
-- [![Open-Source Software][OSS Icon]](https://github.com/pithos/pithos) [Pithos](https://pithos.github.io/) - A native Pandora client for Linux. 
+- [![Open-Source Software][OSS Icon]](https://github.com/pithos/pithos) [Pithos](https://pithos.github.io/) - โปรแกรมสำหรับเล่นเพลงผ่าน Pandora สำหรับลินุกซ์
 - [![Open-Source Software][OSS Icon]](https://github.com/wwmm/pulseeffects) [PulseEffect](https://github.com/wwmm/pulseeffects) - Limiter, compressor, reverberation, equalizer and auto volume effects for Pulseaudio applications. 
 - [![Open-Source Software][OSS Icon]](https://github.com/quodlibet/quodlibet) [Quod Libet](https://quodlibet.readthedocs.io) - GTK+ music player written with huge libraries in mind. Supports search-based dynamic playlists, regular expressions, tagging, Replay Gain, podcasts & Internet radio. 
-- [![Open-Source Software][OSS Icon]](https://github.com/ebruck/radiotray-ng) [RadioTray-NG](https://github.com/ebruck/radiotray-ng) - An Internet radio player for Linux. 
-- [![Open-Source Software][OSS Icon]](https://github.com/GNOME/rhythmbox) [Rhythmbox](https://wiki.gnome.org/Apps/Rhythmbox) - Music player from GNOME. 
-- [![Open-Source Software][OSS Icon]](https://sayonara-player.com/downloads.php#Source) [Sayonara Player](https://sayonara-player.com/downloads.php) - A small, clear and fast audio player for Linux written in C++, supported by the Qt framework. 
-- [![Open-Source Software][OSS Icon]](https://launchpad.net/soundconverter/trunk/2.1.6) [Soundconverter](http://soundconverter.org/) - Leading audio file converter. Aims to be simple to use, and very fast. 
-- [![Open-Source Software][OSS Icon]](https://wiki.gnome.org/Apps/SoundJuicer) [SoundJuicer](http://www.howtogeek.com/howto/20126/rip-audio-cds-with-sound-juicer/) - CD Ripping tool for GNOME. 
-- [![Open-Source Software][OSS Icon]](https://github.com/Soundnode/soundnode-app) [Soundnode](http://www.soundnodeapp.com/) - An opensource SoundCloud app for desktop. 
-- [![Open-Source Software][OSS Icon]](https://github.com/devinhalladay/spotio) [Spotio](https://github.com/devinhalladay/spotio) - A Rdio-inspired light theme for the Spotify desktop app. 
+- [![Open-Source Software][OSS Icon]](https://github.com/ebruck/radiotray-ng) [RadioTray-NG](https://github.com/ebruck/radiotray-ng) - โปรแกรมเล่นวิทยุออนไลน์สำหรับลินุกซ์
+- [![Open-Source Software][OSS Icon]](https://github.com/GNOME/rhythmbox) [Rhythmbox](https://wiki.gnome.org/Apps/Rhythmbox) - โปรแกรมเล่นเพลง พัฒนาโดย GNOME
+- [![Open-Source Software][OSS Icon]](https://sayonara-player.com/downloads.php#Source) [Sayonara Player](https://sayonara-player.com/downloads.php) - โปรแกรมเล่นไฟล์เสียง ขนาดกะทัดรัด และทำงานได้รวดเร็ว สำหรับลินุกซ์ เขียนโดย C++ และรองรับ Qt
+- [![Open-Source Software][OSS Icon]](https://launchpad.net/soundconverter/trunk/2.1.6) [Soundconverter](http://soundconverter.org/) - ผู้นำด้านการแปลงไฟล์เสียง โดยมีจุดหมายคือทำให้ใช้ง่ายและทำงานได้รวดเร็ว
+- [![Open-Source Software][OSS Icon]](https://wiki.gnome.org/Apps/SoundJuicer) [SoundJuicer](http://www.howtogeek.com/howto/20126/rip-audio-cds-with-sound-juicer/) - เครื่องมือแปลง CD เป็นไฟล์เสียงสำหรับ GNOME
+- [![Open-Source Software][OSS Icon]](https://github.com/Soundnode/soundnode-app) [Soundnode](http://www.soundnodeapp.com/) - โปรแกรมเล่น SoundCloud บนเดสก์ท็อป
+- [![Open-Source Software][OSS Icon]](https://github.com/devinhalladay/spotio) [Spotio](https://github.com/devinhalladay/spotio) - เปลี่ยนหน้าตาของโปรแกรม Spotify ให้เป็นรูปแบบคล้าย Rdio
 - [![Open-Source Software][OSS Icon]](https://github.com/tomahawk-player/tomahawk) [Tomahawk](https://www.tomahawk-player.org/) - A new kind of music player that invites all your streams, downloads, cloud music storage, playlists, radio stations and more. 
-- [![Open-Source Software][OSS Icon]](https://github.com/needle-and-thread/vocal) [Vocal](http://vocalproject.net/) - Podcast client for the modern desktop. 
+- [![Open-Source Software][OSS Icon]](https://github.com/needle-and-thread/vocal) [Vocal](http://vocalproject.net/) - โปรแกรมเล่น Podcast สำหรับเดสก์ท็อปยุคใหม่
 
 
 ### Chat Clients
