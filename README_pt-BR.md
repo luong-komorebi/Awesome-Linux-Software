@@ -7,51 +7,51 @@
 
 🐧 Este repositório é uma coleção de **IMPRESSIONANTES** aplicativos e ferramentas Linux para **usuários/desenvolvedores**.
 <br>
-🐧 Sinta-se libre para **contribuir** / **star** / **fork** / **pull request** . Qualquer **recomendação** e **sugestão** será bem vindo.
+🐧 Sinta-se livre para **contribuir** / **star** / **fork** / **pull request**. Qualquer **recomendação** e **sugestão** será bem-vinda.
 
 *Atualização: Este resumo foi publicado em [Gitbook](https://voluong.gitbooks.io/awesome-linux-software/content/). Você pode compartilhar esse link para novos usuários, pois podem achar mais amigável ler do que o github. Download em pdf [aqui](https://goo.gl/xhiKla).*
 
 **Reconhecimento:** *Tudo escrito abaixo é da minha própria experiência na faculdade e depois de ler vários materiais. Eu não sou profissional nem especialista, mas um aluno que tem uma grande paixão.
-Qualquer um pode abrir uma discussão na seção de problemas, ou enviar um pull request, caso algo seja modificado ou adicionado. Se você considerar meu trabalho valioso, uma [doação](#doação) será muito bem vinda.*
+Qualquer um pode abrir uma discussão na seção de problemas, ou enviar um pull request, caso algo seja modificado ou adicionado. Se você considerar meu trabalho valioso, uma [doação](#doação) será muito bem-vinda.*
 
 Duas versões chinesas desta lista estão disponíveis [aqui](https://github.com/alim0x/Awesome-Linux-Software-zh_CN) e [aqui(já atualizadas ultimamente).](https://github.com/0xE8551CCB/awesome-linux-software-cn)
 
 ## Índice
 
 - [Aplicativos](#aplicativos)
-    - [Áudio](#audio)
+    - [Áudio](#áudio)
     - [Clientes para bate-papo](#clientes-para-bate-papo)
-    - [Backup e Recuperação de Dados](#data-backup-and-recovery)
+    - [Backup e Recuperação de Dados](#backup-e-recuperação-de-dados)
     - [Personalização do Desktop](#desktop-customization)
-    - [Desenvolvimento](#development)
-    - [E-Book úteis](#e-book-utilities)
-    - [Editores](#editors)
-    - [Educação](#education)
+    - [Desenvolvimento](#desenvolvimento)
+    - [E-Book úteis](#e-book-úteis)
+    - [Editores](#editores)
+    - [Educação](#educação)
     - [E-mail](#email)
-    - [Gerenciador de arquivos](#file-manager)
-    - [Jogos](#games)
-    - [Gráficos](#graphics)
+    - [Gerenciador de arquivos](#gerenciador-de-arquivos)
+    - [Jogos](#jogos)
+    - [Gráficos](#gráficos)
     - [Internet](#internet)
-    - [Trabalho](#office)
-    - [Produtividade](#productivity)
+    - [Trabalho](#trabalho)
+    - [Produtividade](#produtividade)
     - [Proxy](#proxy)
-    - [Segurança](#security)
-    - [Compartilhamento de arquivos](#sharing-files)
+    - [Segurança](#segurança)
+    - [Compartilhamento de arquivos](#compartilhamento-de-arquivos)
     - [Terminal](#terminal)
-    - [Utilitários](#utilities)
-    - [Vídeo](#video)
+    - [Utilitários](#utilitários)
+    - [Vídeo](#vídeo)
     - [Wiki software](#wiki-software)
     - [Outros](#outros)
 - [Command Line Utilities](#command-line-utilities)
-- [Ambientes para Desktop](#desktop-environments)
-- [Gestores de exibição](#display-manager)
+- [Ambientes para Desktop](#ambientes-para-desktop)
+- [Gestores de exibição](#gestores-de-exibição)
     - [Console](#console)
-    - [Gráfico](#graphic)
-- [Gerenciador de janelas](#window-managers)
-    - [Compositores](#compositors)
-    - [Empilhadas](#stacking-window-managers)
-    - [Revestimento](#tiling-window-managers)
-    - [Dinâmica](#dynamic-window-managers)
+    - [Gráfico](#gráfico)
+- [Gerenciador de janelas](#gerenciador-de-janelas)
+    - [Compositores](#compositores)
+    - [Empilhadas](#empilhadas)
+    - [Revestimento](#revestimento)
+    - [Dinâmica](#dinâmica)
 
 ***********
 
@@ -86,7 +86,7 @@ Duas versões chinesas desta lista estão disponíveis [aqui](https://github.com
 
 ## Aplicativos
 
-### Audio
+### Áudio
 
 - [Airtime](https://www.sourcefabric.org/en/airtime/download/) - Airtime é um software de transmissão aberta para agendamento e gerenciamento de estação remota [![Open-Source Software][OSS Icon]](https://github.com/sourcefabric/Airtime)
 - [Ardour](https://ardour.org/) - Grave, edite e misture no Linux  [![Open-Source Software][OSS Icon]](https://ardour.org/development.html)
@@ -288,25 +288,24 @@ Ele foi projetado principalmente para ajudar a recuperar partições perdidas e/
 - [Zeal](https://zealdocs.org/) - Zeal is an offline documentation browser for software developers. [![Open-Source Software][OSS Icon]](https://github.com/zealdocs/zeal)
 
 ### Serviços E-Books
-- [Bookworm](https://babluboy.github.io/bookworm/) - A simple, focused eBook reader. [![Open-Source Software][OSS Icon]](https://github.com/babluboy/bookworm)
-- [Buka](https://github.com/oguzhaninan/Buka/releases) - A program for EBook Management. [![Open-Source Software][OSS Icon]](https://github.com/oguzhaninan/Buka)
-- [Calibre](http://calibre-ebook.com/) - Incredibly ugly but powerful software for ebook management and conversion. [![Open-Source Software][OSS Icon]](https://github.com/kovidgoyal/calibre)
-- [Calibre-web](https://github.com/janeczku/calibre-web) - Calibre Web is a web app providing a clean interface for browsing, reading and downloading eBooks using an existing Calibre database. [![Open-Source Software][OSS Icon]](https://github.com/janeczku/calibre-web)
-- [Easy Ebook Viewer](https://github.com/michaldaniel/Ebook-Viewer) - Modern GTK Python Ebook Reader app to easily read epub files. [![Open-Source Software][OSS Icon]](https://github.com/michaldaniel/Ebook-Viewer)
-- [Evince](https://wiki.gnome.org/Apps/Evince) - Evince is a document viewer for multiple document formats. The goal of evince is to replace the multiple document viewers that exist on the GNOME Desktop with a single simple application. [![Open-Source Software][OSS Icon]](https://wiki.gnome.org/Apps/Evince/GettingEvince)
-- [FBReader](https://fbreader.org/content/fbreader-beta-linux-desktop) - One of the most popular eReader apps. [![Open-Source Software][OSS Icon]](https://github.com/geometer/FBReader)
-- [Foxit](https://www.foxitsoftware.com/products/pdf-reader/) - Foxit Reader 8.0â€”Award-winning PDF Reader.
-- [Gnome Books](https://github.com/martamilakovic/gnome-books) - Books is application for listing, searching and reading eBooks. [![Open-Source Software][OSS Icon]](https://github.com/martamilakovic/gnome-books)
-- [Lucidor](http://www.lucidor.org/lucidor/) - Lucidor is a computer program for reading and handling e-books. Lucidor supports e-books in the EPUB file format, and catalogs in the OPDS format.
-- [MasterPDF editor](https://code-industry.net/free-pdf-editor/) - Master PDF Editor a convenient and smart PDF editor for Linux.
-- [Mcomix](https://sourceforge.net/projects/mcomix/) - GTK+ comic book viewer. [![Open-Source Software][OSS Icon]](https://sourceforge.net/p/mcomix/git/ci/master/tree/)
-- [MuPDF](http://mupdf.com/) - a lightweight PDF and XPS viewer. [![Open-Source Software][OSS Icon]](http://git.ghostscript.com/?p=mupdf.git;a=summary)
-- [Okular](https://okular.kde.org/) - Okular is a universal document viewer based developed by KDE. Okular works on multiple platforms, including but not limited to Linux, Windows, Mac OS X, BSD, etc. [![Open-Source Software][OSS Icon]](https://github.com/KDE/okular)
-- [PDFsam](http://www.pdfsam.org/) - A desktop application to split, extract pages, rotate, mix and merge PDF files. [![Open-Source Software][OSS Icon]](https://github.com/torakiki/pdfsam)
-- [Peruse](https://peruse.kde.org/) - A pleasant way to read comic books. [![Open-Source Software][OSS Icon]](https://download.kde.org/stable/peruse/peruse-1.2.tar.xz.mirrorlist)
-- [qpdf](https://launchpad.net/qpdfview) - qpdfview is a tabbed document viewer. [![Open-Source Software][OSS Icon]](https://launchpad.net/qpdfview)
-- [Sigil](https://github.com/Sigil-Ebook/Sigil) - Sigil is a multi-platform EPUB ebook editor. [![Open-Source Software][OSS Icon]](https://github.com/Sigil-Ebook/Sigil)
-- [Zathura](https://pwmt.org/projects/zathura/) - Zathura is a highly customizable and functional document viewer. [![Open-Source Software][OSS Icon]](https://git.pwmt.org/pwmt/zathura.git)
+- [Bookworm](https://babluboy.github.io/bookworm/) - Um leitor de eBook simples e focado. [![Open-Source Software][OSS Icon]](https://github.com/babluboy/bookworm) ![Freeware][Freeware Icon]
+- [Buka](https://github.com/oguzhaninan/Buka/releases) - Gestor de eBook's [![Open-Source Software][OSS Icon]](https://github.com/oguzhaninan/Buka) ![Freeware][Freeware Icon]
+- [Calibre](http://calibre-ebook.com/) - Software incrívelmente feio, mas poderoso para gerenciamento e conversão de eBook. [![Open-Source Software][OSS Icon]](https://github.com/kovidgoyal/calibre) ![Freeware][Freeware Icon]
+- [Easy Ebook Viewer](https://github.com/michaldaniel/Ebook-Viewer) - Leitor de eBook's python GTK para ler facilmente arquivos EPUB. [![Open-Source Software][OSS Icon]](https://github.com/michaldaniel/Ebook-Viewer) ![Freeware][Freeware Icon]
+- [Evince](https://wiki.gnome.org/Apps/Evince) - Evince é um visualizador de documentos para múltiplos formatos de documentos. O objetivo do Evince é substituir os vários visualizadores de documentos que existem no GNOME Desktop com um único aplicativo simples.[![Open-Source Software][OSS Icon]](https://wiki.gnome.org/Apps/Evince/GettingEvince) ![Freeware][Freeware Icon]
+- [FBReader](https://fbreader.org/content/fbreader-beta-linux-desktop) - Um dos aplicativos eReader mais populares. ![Freeware][Freeware Icon]
+- [Foxit](https://www.foxitsoftware.com/products/pdf-reader/) - Foxit Reader 8.0 — Leitor de PDF premiado. ![Freeware][Freeware Icon]
+- [Gnome Books](https://github.com/martamilakovic/gnome-books) - Books é um aplicativo para listagem, pesquisa e leitura de livros eletrônicos. [![Open-Source Software][OSS Icon]](https://github.com/martamilakovic/gnome-books) ![Freeware][Freeware Icon]
+- [Lucidor](http://www.lucidor.org/lucidor/) - Lucidor é um programa de computador para ler e manusear e-books. Lucidor suporta e-books no formato de arquivo EPUB e catálogos no formato OPDS. ![Freeware][Freeware Icon]
+- [MasterPDF editor](https://code-industry.net/free-pdf-editor/) - MasterPDF Editor é um editor de PDF conveniente e inteligente para Linux.![Freeware][Freeware Icon]
+- [Mcomix](https://sourceforge.net/projects/mcomix/) - Visualizador de quadrinhos GTK+.[![Open-Source Software][OSS Icon]](https://sourceforge.net/p/mcomix/git/ci/master/tree/) ![Freeware][Freeware Icon]
+- [MuPDF](http://mupdf.com/) - Um leitor de PDF e XPS leve. [![Open-Source Software][OSS Icon]](http://git.ghostscript.com/?p=mupdf.git;a=summary) ![Freeware][Freeware Icon]
+- [Okular](https://okular.kde.org/) - O Okular é um visualizador de documentos universal desenvolvido pela KDE. O Okular trabalha em várias plataformas, incluindo, mas não limitado a, Linux, Windows, Mac OS X, BSD, etc.![Freeware][Freeware Icon]
+- [PDFsam](http://www.pdfsam.org/) - Um aplicativo de desktop para dividir, extrair páginas, girar, misturar e mesclar arquivos PDF.[![Open-Source Software][OSS Icon]](https://github.com/torakiki/pdfsam) ![Freeware][Freeware Icon]
+- [Peruse](https://peruse.kde.org/) - Uma maneira agradável de ler quadrinhos..[![Open-Source Software][OSS Icon]](https://download.kde.org/stable/peruse/peruse-1.2.tar.xz.mirrorlist) ![Freeware][Freeware Icon]
+- [qpdf](https://launchpad.net/qpdfview) - qpdfview é um visualizador de documentos com guias. [![Open-Source Software][OSS Icon]](https://launchpad.net/qpdfview) ![Freeware][Freeware Icon]
+- [Sigil](https://github.com/Sigil-Ebook/Sigil) - Sigil é um editor de eBook multi-plataforma EPUB.[![Open-Source Software][OSS Icon]](https://github.com/Sigil-Ebook/Sigil) ![Freeware][Freeware Icon]
+- [Zathura](https://pwmt.org/projects/zathura/) - Zathura é um visualizador de documentos altamente personalizável e funcional. [![Open-Source Software][OSS Icon]](https://git.pwmt.org/pwmt/zathura.git) ![Freeware][Freeware Icon]
 
 ### Editores
 - [Atom](https://atom.io/) - Hackable text editor for the 21st century. [![Open-Source Software][OSS Icon]](https://github.com/atom/atom)
@@ -361,18 +360,18 @@ Ele foi projetado principalmente para ajudar a recuperar partições perdidas e/
 - [UGENE](http://ugene.net/) - UGENE is free open-source cross-platform integrated GUI-based bioinformatics software. [![Open-Source Software][OSS Icon]](https://github.com/ugeneunipro/ugene)
 
 ### E-mail
-- [Claws](http://www.claws-mail.org/) - Claws is an email client and news reader, featuring sophisticated interface, easy configuration, intuitive operation, abundant features and plugins, robustness and stability. [![Open-Source Software][OSS Icon]](http://git.claws-mail.org/)
-- [Evolution](https://wiki.gnome.org/Apps/Evolution/) - Evolution is a personal information management application that provides integrated mail, calendaring and address book functionality. [![Open-Source Software][OSS Icon]](https://wiki.gnome.org/Apps/Evolution/#Get_the_Source_Code)
-- [Geary](https://wiki.gnome.org/Apps/Geary) - Geary is an email application built for GNOME 3. It allows you to read and send email with a simple, modern interface. [![Open-Source Software][OSS Icon]](https://git.gnome.org//browse/geary/)
-- [Hiri](https://www.hiri.com/) - Hiri is a business focused desktop e-mail client for sending and receiving e-mails, managing calendars, contacts, and tasks.
-- [KMail](https://www.kde.org/applications/internet/kmail/) - KMail is the email component of Kontact, the integrated personal information manager from KDE. [![Open-Source Software][OSS Icon]](https://cgit.kde.org/kmail.git/)
-- [Mailnag](https://launchpad.net/~pulb/+archive/ubuntu/mailnag) - Mailnag is a daemon program that checks POP3 and IMAP servers for new mail. [![Open-Source Software][OSS Icon]](https://github.com/pulb/mailnag)
-- [Nylas Mail](https://www.nylas.com/download) - An extensible desktop mail app built on the modern web. [![Open-Source Software][OSS Icon]](https://github.com/nylas/nylas-mail)
-- [Sylpheed](http://sylpheed.sraoss.jp/en/) - Lightweight and user-friendly e-mail client. [![Open-Source Software][OSS Icon]](http://sylpheed.sraoss.jp/en/download.html#stable)
-- [Thunderbird](https://www.mozilla.org/en-US/thunderbird/) - Thunderbird is a free email application thatâ€™s easy to set up and customize and itâ€™s loaded with great features. [![Open-Source Software][OSS Icon]](https://releases.mozilla.org/pub/thunderbird/)
-- [Trojita](http://trojita.flaska.net/download.html) - A super fast desktop email client for Linux. [![Open-Source Software][OSS Icon]](https://cgit.kde.org/trojita.git/)
-- [Vmail](http://danielchoi.com/software/vmail.html) - Vim-like Gmail client. [![Open-Source Software][OSS Icon]](https://github.com/danchoi/vmail)
-- [Wmail](https://github.com/Thomas101/wmail) - Gmail & Google Inbox unofficial desktop client for linux. [![Open-Source Software][OSS Icon]](https://github.com/Thomas101/wmail)
+- [Claws](http://www.claws-mail.org/) - Claws é um client de e-mail e leitor de notícias, com interface sofisticada, configuração fácil, operação intuitiva, recursos e plugins abundantes, robustez e estabilidade. [![Open-Source Software][OSS Icon]](http://git.claws-mail.org/)
+- [Evolution](https://wiki.gnome.org/Apps/Evolution/) - O Evolution é um aplicativo de gerenciamento de informações pessoais que fornece funcionalidades integradas de email, calendário e caderno de endereços. [![Open-Source Software][OSS Icon]](https://wiki.gnome.org/Apps/Evolution/#Get_the_Source_Code)
+- [Geary](https://wiki.gnome.org/Apps/Geary) - Geary é um aplicativo de e-mail criado para o GNOME 3. Ele permite que você leia e envie e-mails com uma interface simples e moderna. [![Open-Source Software][OSS Icon]](https://git.gnome.org//browse/geary/)
+- [Hiri](https://www.hiri.com/) - Hiri é um cliente de e-mail de desktop focado no negócio para enviar e receber e-mails, gerenciando calendários, contatos e tarefas.
+- [KMail](https://www.kde.org/applications/internet/kmail/) - KMail é o componente de email do Kontact, o gerenciador de informações pessoais integrado do KDE. [![Open-Source Software][OSS Icon]](https://cgit.kde.org/kmail.git/)
+- [Mailnag](https://launchpad.net/~pulb/+archive/ubuntu/mailnag) - Mailnag é um programa daemon que verifica servidores POP3 e IMAP para novas mensagens. [![Open-Source Software][OSS Icon]](https://github.com/pulb/mailnag)
+- [Nylas Mail](https://www.nylas.com/download) - Um aplicativo de email de desktop extensível criado na web moderna. [![Open-Source Software][OSS Icon]](https://github.com/nylas/nylas-mail)
+- [Sylpheed](http://sylpheed.sraoss.jp/en/) - Cliente de e-mail leve e amigável. [![Open-Source Software][OSS Icon]](http://sylpheed.sraoss.jp/en/download.html#stable)
+- [Thunderbird](https://www.mozilla.org/en-US/thunderbird/) - O Thunderbird é um aplicativo de e-mail gratuito que é fácil de configurar e personalizar e ele está carregado com excelentes recursos. [![Open-Source Software][OSS Icon]](https://releases.mozilla.org/pub/thunderbird/)
+- [Trojita](http://trojita.flaska.net/download.html) - Um cliente de email para Linux super rápido. [![Open-Source Software][OSS Icon]](https://cgit.kde.org/trojita.git/)
+- [Vmail](http://danielchoi.com/software/vmail.html) - Um cliente Vim-Like para Gmail. [![Open-Source Software][OSS Icon]](https://github.com/danchoi/vmail)
+- [Wmail](https://github.com/Thomas101/wmail) - Cliente de desktop não oficial do Gmail e Google Inbox para o linux. [![Open-Source Software][OSS Icon]](https://github.com/Thomas101/wmail)
 
 ### Gerenciador de arquivos
 - [7Zip](http://www.7-zip.org/download.html) - Unzip any zip files
@@ -387,7 +386,7 @@ Ele foi projetado principalmente para ajudar a recuperar partições perdidas e/
 - [Thunar](https://apps.ubuntu.com/cat/applications/precise/thunar/) - Thunar is the file manager designed to be the default file manager of Xfce 4.6 It has been designed to be fast and easy to use.
 
 ### Jogos
-#### RTS
+#### Estratégia em Tempo Real
 - [Warzone 2100](https://www.wz2100.net/) - Open-source real-time strategy game that takes place after a nuclear war. ![Open-Source Software][OSS Icon]
 - [OpenRA](http://www.openra.net/) - Classic strategy games, rebuilt for the modern era. Open source. ![Open-Source Software][OSS Icon]
 - [Widelands](https://wl.widelands.org/) - Widelands is a open source RTS game with singleplayer campaigns and a multiplayer mode inspired by Settlers II. ![Open-Source Software][OSS Icon]
@@ -395,16 +394,16 @@ Ele foi projetado principalmente para ajudar a recuperar partições perdidas e/
 - [TripleA](http://www.triplea-game.org/) - Open source grand strategy game with "Axis and Allies" game rules ![Open-Source Software][OSS Icon]
 
 
-#### Turn Based Strategy
+#### Estratégia Baseada em Turnos
 - [Battle for Wesnoth](https://wesnoth.org/) - The Battle for Wesnoth is an open source, turn-based strategy game with a high fantasy theme. It features both singleplayer and online/hotseat multiplayer combat. ![Open-Source Software][OSS Icon]
 - [FreeCiv](http://www.freeciv.org/) - Freeciv is a Free and Open Source empire-building strategy game inspired by the history of human civilization. ![Open-Source Software][OSS Icon]
 
-#### City Building Simulation
+#### Simulador de Construção de Cidades
 - [Unknown Horizons](http://unknown-horizons.org/) - A 2D realtime strategy simulation with an emphasis on economy and city building. Multiplayer currently broken. ![Open-Source Software][OSS Icon]
 - [OpenTTD](hptts://www.openttd.org) - An open-source clone of Transport Tycoon Plus with major improvements. ![Open-Source Software][OSS Icon]
 - [Simutrans](https://www.simutrans.com) - Simutrans is a freeware and open-source transportation simulator. ![Open-Source Software][OSS Icon]
 
-#### FPS
+#### Tiro em Primeira Pessoa (FPS)
 - [Xonotic](http://www.xonotic.org/) - Arena shooter inspired by Unreal Tournament and Quake. ![Open-Source Software][OSS Icon]
 - [Red Eclipse](https://redeclipse.net/) - Red Eclipse is a fun-filled new take on the first person arena shooter, which lends itself toward a balanced gameplay, with a general theme of agility in a variety of environments. ![Open-Source Software][OSS Icon]
 - [Urban Terror](http://www.urbanterror.info) - A "Hollywood" tactical shooter - realism based, but the motto is "fun over realism". ![Open-Source Software][OSS Icon]
@@ -415,7 +414,7 @@ Ele foi projetado principalmente para ajudar a recuperar partições perdidas e/
 - [Zelda Classic](http://www.zeldaclassic.com/) - A tribut to Nintendo's The Legend of Zelda with additional quests, items and challenges ![Open-Source Software][OSS Icon]
 - [Zelda: Mystery of Solarus DX](http://www.solarus-games.org) - A direct sequel to The Legend of Zelda: A Link to the Past on the SNES, using the same graphics and game mechanisms ![Open-Source Software][OSS Icon]
 
-#### Miscellaneous
+#### Variados
 - [Cockatrice](https://cockatrice.github.io/) - Cockatrice is an open-source multiplatform supported program for playing tabletop card games over a network. ![Open-Source Software][OSS Icon]
 - [Minecraft](https://minecraft.net) - Minecraft is a game about placing blocks and going on adventures. Explore randomly generated worlds and build amazing things from the simplest of homes to the grandest of castles.
 - [Minetest](https://minetest.net) - Open-source Minecraft written in C++ (uses less resources) and includes modding API. ![Open-Source Software][OSS Icon]
@@ -424,12 +423,12 @@ Ele foi projetado principalmente para ajudar a recuperar partições perdidas e/
 - [Snake Game](https://alpcoskun.com/snake/) - Cross-platform Classic Snake Game based on Node.js. [![Open-Source Software][OSS Icon]](https://github.com/alpcoskun/snake)
 - [SuperTuxKart](https://supertuxkart.net) - SuperTuxKart is a 3D open-source arcade racer with a variety characters, tracks, and modes to play. ![Open-Source Software][OSS Icon]
 
-#### Engine Re-creations (require the actual game)
+#### Recriação de Engines (requerem o jogo)
 - [OpenMW](http://openmw.org) - A recreation of the Morrowind engine, expanding upon the original. It can be used to play legitimate copies of original game. ![Open-Source Software][OSS Icon]
 - [OpenRCT2](https://openrct2.website/) - A recreation of the Rollercoaster Tycoon 2 engine. Requires the original games assests. ![Open-Source Software][OSS Icon]
 - [NXEngine](http://nxengine.sourceforge.net/) - A source port of Cave Story that runs natively on Linux, Source needs to be built. ![Open-Source Software][OSS Icon]
 
-#### Gaming Applications
+#### Aplicativos para Jogos
 - [Wine](https://www.winehq.org/) - Wine ("Wine Is Not an Emulator") is a compatibility layer capable of running Windows applications on Linux, quality depends from game to game ![Open-Source Software][OSS Icon]
 - [PlayOnLinux](https://www.playonlinux.com) - A front-end for Wine. ![Open-Source Software][OSS Icon]
 - [Steam](steampowered.com) - Gaming store, which opens the gates to many games.
@@ -438,7 +437,7 @@ Ele foi projetado principalmente para ajudar a recuperar partições perdidas e/
 
 ### Gráficos
 
-#### Graphic Creation
+#### Criação de Gráficos
 - [Blender](https://www.blender.org/) - a free and open source complete 3D creation pipeline for artists and small teams.
 - [Cinepaint](http://www.cinepaint.org/) - Open source deep paint software
 - [Gravit](https://www.designer.io/) - Gravit Designer is a full featured free vector design app right at your fingertip.
@@ -455,7 +454,7 @@ Ele foi projetado principalmente para ajudar a recuperar partições perdidas e/
 - [yEd Graph Editor](https://www.yworks.com/products/yed) - yEd is a powerful desktop application that can be used to quickly and effectively generate high-quality diagrams. Create diagrams manually, or import your external data for analysis. Our automatic layout algorithms arrange even large data sets with just the press of a button.
 - [Vectr](https://vectr.com/) - Vectr is a free graphics software used to create vector graphics easily and intuitively. It's a simple yet powerful web and desktop cross-platform tool to bring your designs into reality.
 
-#### Image Editor
+#### Edição de Imagens
 - [Aftershot](http://www.aftershotpro.com/en/products/aftershot/pro/) - A powerful alternative to Adobe Photoshop. ![Nonfree][Money icon]
 - [Darktable](http://www.darktable.org/) - darktable is an open source photography workflow application and RAW developer
 - [GIMP](https://www.gimp.org/downloads/) - GIMP is a freely distributed program for such tasks as photo retouching, image composition and image authoring[![Open-Source Software][OSS Icon]](https://github.com/GNOME/gimp)
@@ -711,21 +710,21 @@ Ele foi projetado principalmente para ajudar a recuperar partições perdidas e/
 - [Yakuake](https://yakuake.kde.org/) - A Quake-style terminal emulator based on KDE Konsole technology.
 
 ### Utilitários
-- [Angry IP Scanner](http://angryip.org/) - Fast and friendly network scanner. [![Open-Source Software][OSS Icon]](https://github.com/angryip/ipscan)
-- [Aptik](http://www.teejeetech.in/2014/01/introducing-aptik.html) - A tool for you to organize your Favorite PPAs and manage Packages Easily. [![Open-Source Software][OSS Icon]](https://code.launchpad.net/~teejee2008/apt-toolkit/trunk)
-- [Bleach bit](https://www.bleachbit.org/) -BleachBit quickly frees disk space and tirelessly guards your privacy. Free cache, delete cookies, clear Internet history, shred temporary files, delete logs, and more ...
-- [Brasero](https://wiki.gnome.org/Apps/Brasero) - CD/DVD burner.
-- [Cheat](https://github.com/chrisallenlane/cheat) - Cheat allows you to create and view interactive cheatsheets on the command-line.`Simplify man tool`[![Open-Source Software][OSS Icon]](https://github.com/chrisallenlane/cheat)
-- [Clonezilla](http://clonezilla.org/) - Clonezilla is a partition and disk imaging/cloning program similar to True ImageÂ® or Norton GhostÂ®. [![Open-Source Software][OSS Icon]](http://clonezilla.org/related-links/)
-- [Convertall](https://sourceforge.net/projects/convertall/) - Convert all units.
-- [CPU-G](http://www.omgubuntu.co.uk/2016/09/monitor-battery-life-ubuntu-cpu-g) - Easy monitoring the battery life of your Ubuntu laptop. [![Open-Source Software][OSS Icon]](https://launchpad.net/cpug)
-- [Curlew](https://github.com/chamfay/Curlew) - GTK Media Converter for the GNOME desktop [![Open-Source Software][OSS Icon]](https://github.com/chamfay/Curlew)
-- [EasyStroke](https://github.com/thjaeger/easystroke/wiki#download) - Easystroke is a gesture-recognition application for X11. [![Open-Source Software][OSS Icon]](https://github.com/thjaeger/easystroke)
+- [Angry IP Scanner](http://angryip.org/) - Scanner de rede rápido e amigável. [![Open-Source Software][OSS Icon]](https://github.com/angryip/ipscan)
+- [Aptik](http://www.teejeetech.in/2014/01/introducing-aptik.html) - Uma ferramenta para você organizar seus PPAs favoritos e controlar pacotes facilmente. [![Open-Source Software][OSS Icon]](https://code.launchpad.net/~teejee2008/apt-toolkit/trunk)
+- [Bleach bit](https://www.bleachbit.org/) -BleachBit libera rapidamente espaço em disco e protege incansavelmente sua privacidade. Free cache, delete cookies, clear Internet history, shred temporary files, delete logs, and more ...
+- [Brasero](https://wiki.gnome.org/Apps/Brasero) - Gravador de CD/DVD.
+- [Cheat](https://github.com/chrisallenlane/cheat) - Cheat permite você criar e visualizar interativamente comandos na linha de comando.`Simplify man tool`[![Open-Source Software][OSS Icon]](https://github.com/chrisallenlane/cheat)
+- [Clonezilla](http://clonezilla.org/) - Clonezilla é um programa de particionamento e montagem/clonagem de disco similar ao True ImageÂ® ou Norton GhostÂ®. [![Open-Source Software][OSS Icon]](http://clonezilla.org/related-links/)
+- [Convertall](https://sourceforge.net/projects/convertall/) - Converte todas as unidades.
+- [CPU-G](http://www.omgubuntu.co.uk/2016/09/monitor-battery-life-ubuntu-cpu-g) - Fácil monitoramento da vida útil da bateria do seu laptop Ubuntu. [![Open-Source Software][OSS Icon]](https://launchpad.net/cpug)
+- [Curlew](https://github.com/chamfay/Curlew) - GTK Media Converter para o desktop com GNOME [![Open-Source Software][OSS Icon]](https://github.com/chamfay/Curlew)
+- [EasyStroke](https://github.com/thjaeger/easystroke/wiki#download) - Easystroke é uma aplicação de reconhecimento de gestos para X11. [![Open-Source Software][OSS Icon]](https://github.com/thjaeger/easystroke)
 - [Emoji Keyboard](https://github.com/OzymandiasTheGreat/emoji-keyboard) - Virtual keyboard-like emoji picker for Linux. [![Open-Source Software][OSS Icon]](https://github.com/OzymandiasTheGreat/emoji-keyboard)
 - [Encryptr](https://spideroak.com/encryptr/) - Encryptr is a zero-knowledge, cloud-based e-wallet / password manager powered by Crypton. [![Open-Source Software][OSS Icon]](https://github.com/SpiderOak/Encryptr)
 - [Enpass](https://www.enpass.io/) - Enpass makes your life easy by securely managing your passwords and important information.
-- [FreeRDP](http://www.freerdp.com/) - FreeRDP is a free implementation of the Remote Desktop Protocol (RDP). [![Open-Source Software][OSS Icon]](https://github.com/FreeRDP/FreeRDP)
-- [GD map](http://gdmap.sourceforge.net/) - A tool to visualize disk usage.
+- [FreeRDP](http://www.freerdp.com/) - FreeRDP é uma implementação livre do Remote Desktop Protocol (RDP). [![Open-Source Software][OSS Icon]](https://github.com/FreeRDP/FreeRDP)
+- [GD map](http://gdmap.sourceforge.net/) - Uma ferramenta para visualizar o uso de disco.
 - [Gloobus-Preview](https://github.com/antonio-malcolm/gloobus-preview) - It gives you a quick preview of your files. It's similar to [Sushi](https://github.com/GNOME/sushi) [![Open-Source Software][OSS Icon]](https://github.com/antonio-malcolm/gloobus-preview) .
 - [GnomePie](http://simmesimme.github.io/news/2016/08/24/gnome-pie-069) - the circular app launcher for Linux desktops. [![Open-Source Software][OSS Icon]](http://simmesimme.github.io/news/2016/08/24/gnome-pie-069)
 - [GParted](http://gparted.org/) - Disk Partition utility for Linux.
@@ -791,7 +790,7 @@ Ele foi projetado principalmente para ajudar a recuperar partições perdidas e/
 - [Mycroft](https://github.com/MycroftAI/mycroft-core) - A.I. for everyone. [![Open-Source Software][OSS Icon]](https://github.com/MycroftAI/mycroft-core)
 - [Polychromatic](https://github.com/lah7/polychromatic) - Graphical front end and tray applet for configuring Razer peripherals on GNU/Linux. [![Open-Source Software][OSS Icon]](https://github.com/lah7/polychromatic)
 
-## Command Line Utilities
+## Utilitário de Linha de Comando
 
 - [2048](https://itsfoss.com/best-command-line-games-linux/) - Play the famous 2048 in commandline. [![Open-Source Software][OSS Icon]](https://itsfoss.com/best-command-line-games-linux/)
 - [Bastet](https://github.com/fph/bastet) - Play Tetris in commandline. [![Open-Source Software][OSS Icon]](https://github.com/fph/bastet)
@@ -1039,7 +1038,7 @@ Ele foi projetado principalmente para ajudar a recuperar partições perdidas e/
 - [Linux Kernel Mailing List Archive](https://lkml.org/)
 - [Linux Kernel Module Programming Guide (PDF)](http://www.tldp.org/LDP/lkmpg/2.6/lkmpg.pdf)
 
-## Contributors
+## Contribuintes
 
 Muito obrigado a [**TODOS os contribuintes**](https://github.com/LewisVo/Awesome-Linux-Software/graphs/contributors) que ajudaram a tornar esta lista possível.
 *Todos do @ reddit.com/r/linux, reddit.com/r/ubuntu, vozforums.com e outros fÃ³runs por muitas sugestões e elogios*
@@ -1059,7 +1058,7 @@ Muito obrigado a [**TODOS os contribuintes**](https://github.com/LewisVo/Awesome
 > Se o aplicativo não se encaixa em nenhum **tópico existente**, faça **um novo** para ele.
 > Certifique que tudo seja classificado em ordem **alfabética**.
 
-## Unsure how to contribute?
+## Não sabe como contribuir?
 
 - [How to Use Github](https://guides.github.com/activities/forking/)
 - [How to Git from the Command Line](https://rogerdudler.github.io/git-guide/)
