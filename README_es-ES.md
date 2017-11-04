@@ -132,6 +132,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/ebruck/radiotray-ng) [RadioTray-NG](https://github.com/ebruck/radiotray-ng) - Un reproductor de medios de internet para Linux.
 - [![Open-Source Software][OSS Icon]](https://github.com/GNOME/rhythmbox) [Rhythmbox](https://wiki.gnome.org/Apps/Rhythmbox) - Un reproductor de medios de GNOME.
 - [![Open-Source Software][OSS Icon]](https://sayonara-player.com/downloads.php#Source) [Sayonara Player](https://sayonara-player.com/downloads.php) - un pequeño y rápido reproductor de medios para Linux. Fue escrito en C ++, y es apoyado por el marco QT.
+- [![Open-Source Software][OSS Icon]](https://github.com/multani/sonata/) [Sonata](http://www.nongnu.org/sonata/) - Sonata es un reproductor de música con una interfaz fácil de usar, para reproducir su colección de música del "Music Player Daemon" (MPD).
 - [![Open-Source Software][OSS Icon]](https://launchpad.net/soundconverter/trunk/2.1.6) [Soundconverter](http://soundconverter.org/) - un popular convertidor de archivos de audio. Es fácil de usar, y muy rápido.
 - [![Open-Source Software][OSS Icon]](https://wiki.gnome.org/Apps/SoundJuicer) [SoundJuicer](http://www.howtogeek.com/howto/20126/rip-audio-cds-with-sound-juicer/) - una programa para Ripear uno CD para GNOME.
 - [![Open-Source Software][OSS Icon]](https://github.com/Soundnode/soundnode-app) [Soundnode](http://www.soundnodeapp.com/) - un aplicacion código abierto para SoundCloud.
@@ -931,7 +932,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/cdown/dwm) [dwm](http://dwm.suckless.org) - Un gestor de dinámico para X, tiene tres modos de "layouts".
 - [![Open-Source Software][OSS Icon]](https://github.com/i3/i3) [i3](https://i3wm.org) - Un Gestor de embaldosado que se escribe desde cero.
 - [![Open-Source Software][OSS Icon]](https://github.com/conformal/spectrwm) [spectrwm](https://github.com/conformal/spectrwm/wiki) - Un pequeño Gestor de dinámico para X11, está inspirado en xmonad y dwm.
-- [![Open-Source Software][OSS Icon]](https://github.com/xmonad/xmonad) [xmonad](http://xmonad.org) - Un Gestor de dinámico y embaldosado para X11 que está escrito en Haskell. [![Open-Source Software][OSS Icon]](https://github.com/xmonad/xmonad)
+- [![Open-Source Software][OSS Icon]](https://github.com/xmonad/xmonad) [xmonad](http://xmonad.org) - Un Gestor de dinámico y embaldosado para X11 que está escrito en Haskell.
 
 ## Instalación de
 
