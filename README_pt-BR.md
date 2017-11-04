@@ -251,12 +251,12 @@ Ele foi projetado principalmente para ajudar a recuperar partições perdidas e/
 - [PyCharm](https://www.jetbrains.com/pycharm/) - IDE poderosa para Python.
 
 #### Shell
-- [Fish](https://fishshell.com/) - A smart and user-friendly command-line shell. [![Open-Source Software][OSS Icon]](https://github.com/fish-shell/fish-shell)
-- [Fisherman](https://github.com/fisherman/fisherman) - A plugin manager for fish shell. [![Open-Source Software][OSS Icon]](https://github.com/fisherman/fisherman)
-- [Ipython](https://ipython.org/) - Powerful Python shell. [![Open-Source Software][OSS Icon]](https://github.com/ipython/ipython)
-- [Oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - Provides various packages and themes to extend the functionality of your fish shell. [![Open-Source Software][OSS Icon]](https://github.com/oh-my-fish/oh-my-fish)
-- [Oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - A delightful community-driven framework for managing your zsh configuration.  [![Open-Source Software][OSS Icon]](https://github.com/robbyrussell/oh-my-zsh)
-- [Zsh](http://www.zsh.org/) -  A powerful command line shell. [![Open-Source Software][OSS Icon]](http://sourceforge.net/p/zsh/code/ci/master/tree/)
+- [Fish](https://fishshell.com/) - Um shell de linha de comando inteligente e amigável. [![Open-Source Software][OSS Icon]](https://github.com/fish-shell/fish-shell)
+- [Fisherman](https://github.com/fisherman/fisherman) - Um gerenciador de plugins para o Fish. [![Open-Source Software][OSS Icon]](https://github.com/fisherman/fisherman)
+- [Ipython](https://ipython.org/) - Um poderoso shell para Python. [![Open-Source Software][OSS Icon]](https://github.com/ipython/ipython)
+- [Oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - Fornece vários pacotes e temas para ampliar a funcionalidade do seu Fish shell. [![Open-Source Software][OSS Icon]](https://github.com/oh-my-fish/oh-my-fish)
+- [Oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - Uma excelente estrutura baseada na comunidade para gerenciar sua configuração zsh.  [![Open-Source Software][OSS Icon]](https://github.com/robbyrussell/oh-my-zsh)
+- [Zsh](http://www.zsh.org/) -  Um poderoso shell de linha de comando. [![Open-Source Software][OSS Icon]](http://sourceforge.net/p/zsh/code/ci/master/tree/)
 
 #### Supporting Tools
 - [Cscope](http://cscope.sourceforge.net/) - Cscope is a developer's tool for browsing source code. Although cmd-line application, it is nativelly integrated with Vim editor.  It allows searching code for symbols, definitions, functions (called/calling), regex, files. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/cscope/)
