@@ -121,6 +121,7 @@ Duas versões chinesas desta lista estão disponíveis [aqui](https://github.com
 - [RadioTray-NG](https://github.com/ebruck/radiotray-ng) - Um player de rádio na Internet para Linux. [![Open-Source Software][OSS Icon]](https://github.com/ebruck/radiotray-ng)
 - [Rhythmbox](https://wiki.gnome.org/Apps/Rhythmbox) - Reprodutor de música do GNOME. [![Open-Source Software][OSS Icon]](https://github.com/GNOME/rhythmbox)
 - [Sayonara Player](https://sayonara-player.com/downloads.php) - Sayonara é um pequeno, limpo e rápido reprodutor de música para Linux escrito em C++, supportado pelo framework Qt.[![Open-Source Software][OSS Icon]](https://sayonara-player.com/downloads.php#Source)
+- [Sonata](http://www.nongnu.org/sonata/) - Sonata é um elegante player de música GTK+. Atualmente, sua versão mais recente é a 1.6.2.1.
 - [Soundconverter](http://soundconverter.org/) - Líder da conversão de arquivos de aúdio, SoundConverter tem o intuito de ser simples de usar e muito rápido.[![Open-Source Software][OSS Icon]](https://launchpad.net/soundconverter/trunk/2.1.6)
 - [SoundJuicer](http://www.howtogeek.com/howto/20126/rip-audio-cds-with-sound-juicer/) - Ferramenta de rascunho de CD para GNOME
 - [Soundnode](http://www.soundnodeapp.com/) - Um aplicativo SoundCloud OpenSouce para Desktop. [![Open-Source Software][OSS Icon]](https://github.com/Soundnode/soundnode-app)
@@ -250,12 +251,12 @@ Ele foi projetado principalmente para ajudar a recuperar partições perdidas e/
 - [PyCharm](https://www.jetbrains.com/pycharm/) - IDE poderosa para Python.
 
 #### Shell
-- [Fish](https://fishshell.com/) - A smart and user-friendly command-line shell. [![Open-Source Software][OSS Icon]](https://github.com/fish-shell/fish-shell)
-- [Fisherman](https://github.com/fisherman/fisherman) - A plugin manager for fish shell. [![Open-Source Software][OSS Icon]](https://github.com/fisherman/fisherman)
-- [Ipython](https://ipython.org/) - Powerful Python shell. [![Open-Source Software][OSS Icon]](https://github.com/ipython/ipython)
-- [Oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - Provides various packages and themes to extend the functionality of your fish shell. [![Open-Source Software][OSS Icon]](https://github.com/oh-my-fish/oh-my-fish)
-- [Oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - A delightful community-driven framework for managing your zsh configuration.  [![Open-Source Software][OSS Icon]](https://github.com/robbyrussell/oh-my-zsh)
-- [Zsh](http://www.zsh.org/) -  A powerful command line shell. [![Open-Source Software][OSS Icon]](http://sourceforge.net/p/zsh/code/ci/master/tree/)
+- [Fish](https://fishshell.com/) - Um shell de linha de comando inteligente e amigável. [![Open-Source Software][OSS Icon]](https://github.com/fish-shell/fish-shell)
+- [Fisherman](https://github.com/fisherman/fisherman) - Um gerenciador de plugins para o Fish. [![Open-Source Software][OSS Icon]](https://github.com/fisherman/fisherman)
+- [Ipython](https://ipython.org/) - Um poderoso shell para Python. [![Open-Source Software][OSS Icon]](https://github.com/ipython/ipython)
+- [Oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - Fornece vários pacotes e temas para ampliar a funcionalidade do seu Fish shell. [![Open-Source Software][OSS Icon]](https://github.com/oh-my-fish/oh-my-fish)
+- [Oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - Uma excelente estrutura baseada na comunidade para gerenciar sua configuração zsh.  [![Open-Source Software][OSS Icon]](https://github.com/robbyrussell/oh-my-zsh)
+- [Zsh](http://www.zsh.org/) -  Um poderoso shell de linha de comando. [![Open-Source Software][OSS Icon]](http://sourceforge.net/p/zsh/code/ci/master/tree/)
 
 #### Supporting Tools
 - [Cscope](http://cscope.sourceforge.net/) - Cscope is a developer's tool for browsing source code. Although cmd-line application, it is nativelly integrated with Vim editor.  It allows searching code for symbols, definitions, functions (called/calling), regex, files. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/cscope/)
