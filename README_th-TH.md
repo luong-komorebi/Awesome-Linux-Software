@@ -72,7 +72,7 @@
    - [Reddit](#reddit)
 - [เรียนรู้ลินุกซ์](#learn-linux)
 - [Linux Hacking/Development](#linux-hackingdevelopment)
-- [Other Awesome Lists](#other-awesome-lists)
+- [แหล่งรวมของเจ๋งอื่นๆ](#other-awesome-lists)
 - [Contributors](#contributors)
 - [Guideline to Contribute](#guideline-to-contribute)
 - [How to Contribute](#unsure-how-to-contribute)
@@ -141,53 +141,53 @@
 ### Chat Clients
 
 #### 3rd party Client
-- [![Open-Source Software][OSS Icon]](https://github.com/sindresorhus/caprine) [Caprine](https://sindresorhus.com/caprine) - Elegant Facebook Messenger desktop app.
-- [![Open-Source Software][OSS Icon]](https://github.com/chatty/chatty) [Chatty](http://chatty.github.io/) - Chatty is a Twitch chat client for everyone who wants to try something new and different from the webchat, but doesn't want the complexity of an IRC client or miss out on the Twitch specific features.
-- [![Open-Source Software][OSS Icon]](https://github.com/Aseman-Land/Cutegram) [Cutegram](http://aseman.co/en/products/cutegram/) - Offers more features than the official Telegram app
-- [![Open-Source Software][OSS Icon]](https://github.com/stanfieldr/ghetto-skype) [GhettoSkype](https://github.com/stanfieldr/ghetto-skype) - open source web wrapper for Skype.
-- [![Open-Source Software][OSS Icon]](https://github.com/Aluxian/Facebook-Messenger-Desktop) [Messenger for Desktop](https://messengerfordesktop.com/#download) - An app for Facebook messenger.
-- [![Open-Source Software][OSS Icon]](https://github.com/raelgc/scudcloud/) [ScudCloud](https://github.com/raelgc/scudcloud/) - A Slack client for Linux.
-- [![Open-Source Software][OSS Icon]](https://github.com/yakyak/yakyak) [YakYak](https://github.com/yakyak/yakyak) -  Desktop chat client for Google Hangouts.
+- [![Open-Source Software][OSS Icon]](https://github.com/sindresorhus/caprine) [Caprine](https://sindresorhus.com/caprine) - โปรแกรมแชท Facebook Messenger บนเดสก์ท็อป หน้าตาสวยงาม
+- [![Open-Source Software][OSS Icon]](https://github.com/chatty/chatty) [Chatty](http://chatty.github.io/) - Chatty คือโปรแกรมสำหรับสนทนาบน Twitch ซึ่งเป็นได้มากกว่าการสนทนาผ่านเว็บแบบปกติ แต่ไม่ถึงกับต้องมีฟีเจอร์เท่าโปรแกรม IRC ทั่วไป
+- [![Open-Source Software][OSS Icon]](https://github.com/Aseman-Land/Cutegram) [Cutegram](http://aseman.co/en/products/cutegram/) - มีฟีเจอร์มากกว่าโปรแกรมจากทาง Telegram
+- [![Open-Source Software][OSS Icon]](https://github.com/stanfieldr/ghetto-skype) [GhettoSkype](https://github.com/stanfieldr/ghetto-skype) - เป็นเว็บสำหรับใช้ Skype
+- [![Open-Source Software][OSS Icon]](https://github.com/Aluxian/Facebook-Messenger-Desktop) [Messenger for Desktop](https://messengerfordesktop.com/#download) - แอปสำหรับใช้ Facebook messenger
+- [![Open-Source Software][OSS Icon]](https://github.com/raelgc/scudcloud/) [ScudCloud](https://github.com/raelgc/scudcloud/) - โปรแกรมสำหรับใช้ Slack บนลินุกซ์
+- [![Open-Source Software][OSS Icon]](https://github.com/yakyak/yakyak) [YakYak](https://github.com/yakyak/yakyak) -  โปรแกรมสนทนา Google Hangouts บนเดสก์ท็อป
 
 #### All-in-One Client
-- [Franz](http://meetfranz.com/) - Franz is a free messaging app that combines many chat & messaging services into one application.
-- [![Open-Source Software][OSS Icon]](https://developer.pidgin.im/) [Pidgin](https://pidgin.im/) - A universal chat client.
-- [![Open-Source Software][OSS Icon]](https://github.com/saenzramiro/rambox) [Rambox](http://rambox.pro/) - Free, Open Source and Cross Platform messaging and emailing app that combines common web applications into one.
+- [Franz](http://meetfranz.com/) - Franz แอปส่งข้อความฟรี โดยรวมทั้งการสนทนาและการส่งข้อความอยู่ในแอปพลิเคชันเดียว
+- [![Open-Source Software][OSS Icon]](https://developer.pidgin.im/) [Pidgin](https://pidgin.im/) - โปรแกรมสนทนาครอบจักรวาล
+- [![Open-Source Software][OSS Icon]](https://github.com/saenzramiro/rambox) [Rambox](http://rambox.pro/) - แพลตฟอร์มสำหรับส่งข้อความและอีเมล โดยรวมความสามารถของเว็บแอปต่างๆ เข้ามาเป็นหนึ่งเดียว
 
 #### Chat Client Utilities
-- [![Open-Source Software][OSS Icon]](https://github.com/Cog-Creators/Red-DiscordBot) [Red Discord Bot](https://cogs.red) - Red Discord Bot is a self-hosted music/chat/trivia bot that can run on a Raspberry Pi and a variety of OS's. It's extensible through a system of "Cogs" that allow it to do more.
+- [![Open-Source Software][OSS Icon]](https://github.com/Cog-Creators/Red-DiscordBot) [Red Discord Bot](https://cogs.red) - Red Discord Bot คือซอฟต์แวร์สำหรับทำระบบบอตเกี่ยวกับ เพลง/สนทนา/และอื่นๆ ซึ่งสามารถใช้ได้บน Raspberry Pi และระบบปฏิบัติการอื่นๆ โดยสามารถเพิ่มความสามารถได้ผ่านระบบที่เรียกว่า "Cogs"
 
 #### IRC Client
-- [![Open-Source Software][OSS Icon]](https://github.com/hexchat) [HexChat](https://hexchat.github.io/) - HexChat is an IRC client based on XChat, but unlike XChat it’s completely free for both Windows and Unix-like system.
-- [![Open-Source Software][OSS Icon]](https://github.com/irssi/irssi) [Irssi](https://github.com/irssi/irssi) - Irssi is a modular chat client that is most commonly known for its text mode user interface.
-- [![Open-Source Software][OSS Icon]](https://github.com/kvirc/KVIrc) [KVIrc](http://www.kvirc.net/) - KVIrc is a free portable IRC client based on the excellent Qt GUI toolkit.
+- [![Open-Source Software][OSS Icon]](https://github.com/hexchat) [HexChat](https://hexchat.github.io/) - HexChat โปรแกรมสนทนาบนเครือข่าย IRC โดยมีฐานมาจากโปรแกรม XChat สามารถใช้ได้กับทั้ง Windows และ ระบบตระกูล  Unix ทั้งหลาย
+- [![Open-Source Software][OSS Icon]](https://github.com/irssi/irssi) [Irssi](https://github.com/irssi/irssi) - Irssi คือโปรแกรมสนทนาที่มีชื่อเสียงในด้าน เป็นโปรแกรมสนทนาที่มีส่วนหน้าจอติดต่อผู้ใช้เป็นโหมดข้อความ
+- [![Open-Source Software][OSS Icon]](https://github.com/kvirc/KVIrc) [KVIrc](http://www.kvirc.net/) - KVIrc คือโปรแกรมสนทนา IRC สร้างจาก Qt
 
 #### Official Client
-- [![Open-Source Software][OSS Icon]](https://github.com/dino/dino) [Dino](https://dino.im) - Clean and modern Jabber/XMPP chat client
-- [Discord](https://discordapp.com/) - All-in-one voice and text chat for gamers that’s free, secure, and works on both your desktop and phone.
-- [![Open-Source Software][OSS Icon]](https://github.com/gitterHQ/services) [Gitter](https://gitter.im/) - Gitter — Where developers come to talk. Gitter is designed to make community messaging, collaboration and discovery as smooth and simple as possible.
-- [![Open-Source Software][OSS Icon]](https://github.com/jitsi) [Jitsi](https://jitsi.org/) - Jitsi is a free and open source multiplatform voice, videoconferencing and instant messaging application for Windows, Linux, Mac OS X and Android.
-- [![Open-Source Software][OSS Icon]](https://github.com/qTox/qTox) [qTox](https://qtox.github.io/) - A simple distributed, secure messenger with audio and video chat capabilities.
-- [![Open-Source Software][OSS Icon]](https://ring.cx/en/documentation/faq#node-106) [Ring](https://ring.cx/) - Chat. Talk. Share. Ring is a free and universal communication platform which preserves the users' privacy and freedoms.
-- [![Open-Source Software][OSS Icon]](https://github.com/vector-im/riot-web) [Riot](https://riot.im/) - A glossy Matrix collaboration client for the web.
-- [Skype](https://www.skype.com/en/) - Skype keeps the world talking, for free.
-- [Slack](https://slack.com/downloads/linux) - real-time messaging, archiving and search for modern teams.
-- [![Open-Source Software][OSS Icon]](https://github.com/telegramdesktop/tdesktop) [Telegram](https://desktop.telegram.org/) - A messaging app with a focus on speed and security, it’s super fast, simple and free.
-- [Viber](https://www.viber.com/en/products/linux) - Viber for Linux lets you send free messages and make free calls to other Viber users on any device and network, in any country.
-- [![Open-Source Software][OSS Icon]](https://github.com/weechat) [Weechat](https://weechat.org/) - WeeChat is a fast, light and extensible chat client.
-- [![Open-Source Software][OSS Icon]](https://github.com/wireapp) [Wire](https://wire.com/en/) - Secure communication. Full privacy.
+- [![Open-Source Software][OSS Icon]](https://github.com/dino/dino) [Dino](https://dino.im) - โปรแกรมสนทนาบน Jabber/XMPP ที่สวยงามเรียบง่าย
+- [Discord](https://discordapp.com/) - โปรแกรมหลากหลายฟังก์ชัน ทั้งข้อความและเสียง สำหรับนักเล่นเกม ที่ฟรี ปลอดภัย และใช้ได้ทั้งเดสก์ท็อปและโทรศัพท์มือถือ
+- [![Open-Source Software][OSS Icon]](https://github.com/gitterHQ/services) [Gitter](https://gitter.im/) - Gitter — ที่ๆ ซึ่งนักพัฒนามาสนทนากัน Gitter ถูกออกแบบเพื่อให้เข้ากับการสนทนาระดับชุมชน การทำงานร่วมกัน โดยต้องให้ใช้งานได้ง่ายและลื่นไหลที่สุด
+- [![Open-Source Software][OSS Icon]](https://github.com/jitsi) [Jitsi](https://jitsi.org/) - Jitsi คือซอฟต์แวร์สำหรับการประชุมทางไกล และ สนทนาแบบทันใจ สำหรับ Windows ลินุกซ์ Mac OS X และ แอนดรอยด์
+- [![Open-Source Software][OSS Icon]](https://github.com/qTox/qTox) [qTox](https://qtox.github.io/) - ซอฟต์แวร์สำหรับสนทนาด้วยเสียงและวิดีโอแบบกระจายศูนย์ที่ปลอดภัย
+- [![Open-Source Software][OSS Icon]](https://ring.cx/en/documentation/faq#node-106) [Ring](https://ring.cx/) - สนทนา พูดคุย แบ่งปัน Ring คือซอฟต์แวร์แพลตฟอร์มสำหรับการสนทนาที่ปลอดภัยและมีเสรีภาพ
+- [![Open-Source Software][OSS Icon]](https://github.com/vector-im/riot-web) [Riot](https://riot.im/) - เว็บแอปสำหรับสื่อสาร เน้นการทำงานร่วมกัน โดยอยู่บนเครือข่าย Matrix
+- [Skype](https://www.skype.com/en/) - Skype ทำให้ทั้งโลกได้สนทนากัน แบบฟรีๆ
+- [Slack](https://slack.com/downloads/linux) - สนทนาพูดคุยกันแบบทันใจ เก็บและค้นหาข้อความต่างๆ สำหรับทีมสมัยใหม่
+- [![Open-Source Software][OSS Icon]](https://github.com/telegramdesktop/tdesktop) [Telegram](https://desktop.telegram.org/) - ซอฟต์แวร์สนทนาที่เน้นทางด้าน ความเร็ว และ ความปลอดภัย และสามารถใช้ได้ฟรี
+- [Viber](https://www.viber.com/en/products/linux) - Viber สำหรับ ลินุกซ์ ให้คุณได้ส่งข้อความและโทรหาผู้ใช้ Viber คนอื่นได้ฟรี ทุกอุปกรณ์และเครือข่าย ทุกประเทศ
+- [![Open-Source Software][OSS Icon]](https://github.com/weechat) [Weechat](https://weechat.org/) - WeeChat คือซอฟต์แวร์สนทนาที่ทำงานได้เร็ว เล็กกระทัดรัด และเพิ่มเติมความสามารถได้
+- [![Open-Source Software][OSS Icon]](https://github.com/wireapp) [Wire](https://wire.com/en/) - สื่อสารอย่างปลอดภัย และรักษาความเป็นส่วนตัว
 
 ### Data Backup and Recovery
-- [![Open-Source Software][OSS Icon]](https://borgbackup.readthedocs.io/en/stable/development.html) [Borg Backup](https://borgbackup.readthedocs.io/en/stable/) - A nice tool to backup data.
-- [![Open-Source Software][OSS Icon]](https://launchpad.net/deja-dup) [Deja Dup](https://www.linux.com/learn/total-system-backup-and-recall-deja-dup) - A simple backup tool with built-in encryption
-- [![Open-Source Software][OSS Icon]](https://launchpad.net/duplicity) [Duplicity](http://duplicity.nongnu.org/) - Duplicity does directory backups by producing encrypted tar-format volumes and uploading them to a remote or local file server.
-- [![Open-Source Software][OSS Icon]](https://github.com/cgsecurity/testdisk) [Photorec](http://www.cgsecurity.org/wiki/PhotoRec) - PhotoRec is file data recovery software designed to recover lost files including video, documents and archives from hard disks, CD-ROMs, and lost pictures (thus the Photo Recovery name) from digital camera memory.
-- [![Open-Source Software][OSS Icon]](https://borgbackup.readthedocs.io/en/stable/) [Qt4-fsarchiver](https://sourceforge.net/projects/qt4-fsarchiver/) - qt4-fsarchiver is a GUI for the fsarchiver program to save/restore partitions, folders and even the MBR/GPT table. The program is for systems based on Debian, OpenSuse or Fedora.
-- [![Open-Source Software][OSS Icon]](https://github.com/ncw/rclone) [rclone](http://rclone.org/) - Rclone is a command line program to sync files and directories to and from various cloud storage solutions. It also allows encrypted backups.
-- [![Open-Source Software][OSS Icon]](https://github.com/rsnapshot/rsnapshot.git) [rsnapshot](http://rsnapshot.org/) - rsnapshot is a command line utility based on rsync to make periodic snapshots of local/remote machines. The code makes extensive use of hard links whenever possible to greatly reduce the disk space required.)
-- [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/systemrescuecd/files/sysresccd-x86/) [System Rescue CD](http://www.system-rescue-cd.org/SystemRescueCd_Homepage) - SystemRescueCd is a Linux system rescue disk available as a bootable CD-ROM or USB stick for administrating or repairing your system and data after a crash.
-- [![Open-Source Software][OSS Icon]](https://github.com/cgsecurity/testdisk) [Test Disk](http://www.cgsecurity.org/wiki/TestDisk) - TestDisk is powerful free data recovery software! It was primarily designed to help recover lost partitions and/or make non-booting disks bootable again when these symptoms are caused by faulty software.
-- [![Open-Source Software][OSS Icon]](https://code.launchpad.net/timeshift) [Timeshift](https://launchpad.net/timeshift) - TimeShift is a system restore utility which takes incremental snapshots of the system using rsync and hard-links. These snapshots can be restored at a later date to undo all changes that were made to the system after the snapshot was taken. Snapshots can be taken manually or at regular intervals using scheduled jobs.
+- [![Open-Source Software][OSS Icon]](https://borgbackup.readthedocs.io/en/stable/development.html) [Borg Backup](https://borgbackup.readthedocs.io/en/stable/) - เครื่องมือสำรองข้อมูลที่น่าใช้
+- [![Open-Source Software][OSS Icon]](https://launchpad.net/deja-dup) [Deja Dup](https://www.linux.com/learn/total-system-backup-and-recall-deja-dup) - เครื่องมือสำรองข้อมูลอย่างง่าย ที่รองรับการเข้ารหัสข้อมูลในตัว
+- [![Open-Source Software][OSS Icon]](https://launchpad.net/duplicity) [Duplicity](http://duplicity.nongnu.org/) - Duplicity สำรองข้อมูลทั้งไดเรกทอรี่ไว้ที่เครื่องเราเองหรือเซอร์ฟเวอร์อื่นๆ โดยเข้ารหัสในรูปแบบ tar
+- [![Open-Source Software][OSS Icon]](https://github.com/cgsecurity/testdisk) [Photorec](http://www.cgsecurity.org/wiki/PhotoRec) - PhotoRec คือซอฟต์แวร์กู้คืนไฟล์ โดยออกแบบมาสำหรับกู้คืนข้อมูลต่างๆ รวมไปถึงไฟล์วิดีโอ เอกสารและไฟล์ต่างๆ ในฮาร์ดดิสก์, แผ่นซีดีและไฟล์รูปภาพที่หายไป (ซึ่งเป็นที่มาของชื่อ Photo Recovery) จากหน่วยความจำในกล้องถ่ายรูป
+- [![Open-Source Software][OSS Icon]](https://borgbackup.readthedocs.io/en/stable/) [Qt4-fsarchiver](https://sourceforge.net/projects/qt4-fsarchiver/) - qt4-fsarchiver คือเครื่องมือสำรองและเรียกคืน พาร์ทิชันของดิสก์ โฟลเดอร์ หรือแม้กระทั่งตาราง MBR/GPT โดยโปรแกรมนี้รองรับระบบ Debian, OpenSuse และ Fedora
+- [![Open-Source Software][OSS Icon]](https://github.com/ncw/rclone) [rclone](http://rclone.org/) - Rclone คำโปรแกรมบรรทัดคำสั่งสำหรับซิงค์ไฟล์และไดเรกทอรี่ ทั้งจากและไปยัง พื้นที่เก็บไฟล์บนคลาวด์ต่างๆ และยังสามารถเข้ารหัสข้อมูลที่สำรองได้อีกด้วย
+- [![Open-Source Software][OSS Icon]](https://github.com/rsnapshot/rsnapshot.git) [rsnapshot](http://rsnapshot.org/) - rsnapshot เครื่องมือคำสั่งโดยมี rsync เป็นฐาน ซึ่งทำหน้าที่ snapshot เป็นช่วงเวลา ทั้งเครื่องเราเองและเครื่องรีโมทอื่นๆ ตัวโค้ดใช้ hard link ทุกที่ๆ เป็นไปได้ เพื่อลดการใช้เนื้อที่ในดิสก์
+- [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/systemrescuecd/files/sysresccd-x86/) [System Rescue CD](http://www.system-rescue-cd.org/SystemRescueCd_Homepage) - SystemRescueCd คือลินุกซ์ที่สำหรับกู้ชีพเครื่องคอมพิวเตอร์ สามารถบูตได้ผ่านแผ่นซีดีหรือแฟลชไดรฟ์ USB
+- [![Open-Source Software][OSS Icon]](https://github.com/cgsecurity/testdisk) [Test Disk](http://www.cgsecurity.org/wiki/TestDisk) - TestDisk คือซอฟต์แวร์กู้ข้อมูลประสิทธิภาพสูง ซึ่งออกแบบมาเพื่อกู้คืนพาร์ทิชันที่เสียหายเป็นหลัก และทำให้ดิสก์สามารถกลับมาบูตใหม่ได้อีกครั้ง
+- [![Open-Source Software][OSS Icon]](https://code.launchpad.net/timeshift) [Timeshift](https://launchpad.net/timeshift) - TimeShift คือเครื่องมือย้อนคืนระบบ โดยทำ snapshot ระบบ เก็บไว้เป็นระยะ โดยใช้ rsync และ hard-link โดย snapshot เหล่านี้สามารถย้อนคืนกลับได้ทีหลัง ซึ่งสิ่งที่เปลี่ยนแปลงไปหลังจาก snapshot จะไม่ถือว่าเกิดขึ้น โดย snapshot สามารถสร้างได้เองหรือกำหนดช่วงวันเวลาที่ต้องการสร้างได้
 
 ### Desktop Customization
 
