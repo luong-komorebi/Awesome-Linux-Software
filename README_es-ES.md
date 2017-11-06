@@ -62,15 +62,17 @@
    - [ArchLinux](#arch-linux)
    - [Bodhi](#bodhi)
    - [CentOS](#centos)
+   - [Fedora](#fedora)
    - [openSUSE](#opensuse)
    - [Ubuntu](#ubuntu)
 - [Los Foros](#los-Foros)
-   - [ArchLinux Foros](#arch-linux-Foros)
-   - [CentOS Foros](#centos-Foros)
-   - [Ubuntu Foros](#ubuntu-Foros)
-   - [openSUSE Foros](#opensuse-Foros)
-   - [Canals des IRC](#Canals-des-IRC)
-   - [Linux News, Aplicaciones y mucho más](#Linux-News,-Aplicaciones-y-mucho-más)
+   - [ArchLinux Foros](#arch-linux-foros)
+   - [CentOS Foros](#centos-foros)
+   - [Fedora Foros](#fedora-foros)
+   - [Ubuntu Foros](#ubuntu-foros)
+   - [openSUSE Foros](#opensuse-foros)
+   - [Canals des IRC](#canals-des-irc)
+   - [Linux News, Aplicaciones y mucho más](#Linux-News,-aplicaciones-y-mucho-más)
    - [Reddit](#reddit)
 - [Aprender linux](#aprender-linux)
 - [Desarrollo de linux](#desarrollo-de-linux)
@@ -708,6 +710,7 @@
 
 ### Intercambio de archivos
 - [![Open-Source Software][OSS Icon]](https://github.com/aria2/aria2) [aria2](https://aria2.github.io/) - aria2 es un programa de descarga de línea de comandos rápido y multiprotocolo y multi-fuente.
+- [Cloudtag](https://cloudtag.io/) - una aplicación simple que te facilita compartir archivos con tus amigos y familiares usando mac, windows o linux.
 - [CrossFTP](http://www.crossftp.com/ftp-client.htm) - CrossFTP es un programa que facilita la administración de FTP.
 - [D-lan](http://www.d-lan.net/) - Es un programa que te permite compartir archivos en un Red de área local
 - [![Open-Source Software][OSS Icon]](http://dev.deluge-torrent.org/wiki/Development#SourceCode) [Deluge](http://deluge-torrent.org/) - Deluge es un cliente multiplataforma rápido y de código abierto de bittorrent.
@@ -963,6 +966,13 @@
 - [consejos y trucos (Inglés)](https://wiki.centos.org/TipsAndTricks)
 - [Lista de preguntas frecuentes (Inglés)](https://www.centos.org/forums/faq.php?sid=4e6d260284c7936505dcf75564717272)
 
+### Fedora
+
+- [¿Qué es Fedora?](https://docs-old.fedoraproject.org/es-ES/index.html)
+- [Descargar Fedora (Inglés)](https://getfedora.org)
+- [Guía de instalación (Inglés)](https://docs.fedoraproject.org/f26/install-guide/install/Preparing_for_Installation.html)
+- [Preguntar Fedora](https://ask.fedoraproject.org/es/questions/)
+
 ### openSUSE
 
 - [¿Qué es OpenSUSE?](https://es.wikipedia.org/wiki/OpenSUSE)
@@ -997,6 +1007,10 @@
 ### CentOS Foros
 
 * [Foros de CentOS (Inglés)](https://www.centos.org/forums/)
+
+### Fedora Foros
+
+* [Foros de Fedora (Inglés)](https://forums.fedoraforum.org/index.php)
 
 ### Ubuntu Foros
 
@@ -1041,6 +1055,7 @@
 
 * [Arch Linux](https://www.reddit.com/r/archlinux/)
 * [CentOS](https://www.reddit.com/r/CentOS/)
+* [Fedora](https://www.reddit.com/r/Fedora/)
 * [Linux](https://www.reddit.com/r/linux/)
 * [Open Source](https://www.reddit.com/r/opensource/)
 * [Ubuntu](https://www.reddit.com/r/Ubuntu/)
