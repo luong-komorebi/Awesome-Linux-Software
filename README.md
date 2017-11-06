@@ -61,11 +61,13 @@
    - [ArchLinux](#arch-linux)
    - [Bodhi](#bodhi)
    - [CentOS](#centos)
+   - [Fedora](#fedora)
    - [openSUSE](#opensuse)
    - [Ubuntu](#ubuntu)
 - [Discussion Forums](#discussion-forums)
    - [ArchLinux Forums](#arch-linux-forums)
    - [CentOS Forums](#centos-forums)
+   - [Fedora Forums](#fedora-forums)
    - [Ubuntu Forums](#ubuntu-forums)
    - [openSUSE Forums](#opensuse-forums)
    - [IRC channels](#irc-channels)
@@ -984,6 +986,13 @@
 - [Tips and Tricks](https://wiki.centos.org/TipsAndTricks)
 - [FAQ](https://www.centos.org/forums/faq.php?sid=4e6d260284c7936505dcf75564717272)
 
+### Fedora
+
+- [What is Fedora?](https://docs.fedoraproject.org/fedora-project/project/fedora-overview.html)
+- [Where to download Fedora](https://getfedora.org)
+- [How do I install Fedora?](https://docs.fedoraproject.org/f26/install-guide/install/Preparing_for_Installation.html)
+- [Ask Fedora](https://ask.fedoraproject.org/en/questions/)
+
 ### openSUSE
 
 - [What is openSUSE](https://www.techopedia.com/definition/28543/opensuse)
@@ -1018,6 +1027,10 @@
 
 * [CentOS Forums](https://www.centos.org/forums/)
 
+### Fedora Forums
+
+* [Fedora Forums](https://forums.fedoraforum.org/index.php)
+
 ### Ubuntu Forums
 
 * [Ubuntu Forum](https://ubuntuforums.org/)
@@ -1030,6 +1043,7 @@
 
 
 ### IRC channels
+
 * [#linux](http://webchat.freenode.net/?channels=#linux)
 * [#ubuntu](https://webchat.freenode.net/?channels=ubuntu)
 * [#archlinux](http://webchat.freenode.net/?channels=archlinux)
@@ -1061,6 +1075,7 @@
 
 * [Arch Linux](https://www.reddit.com/r/archlinux/)
 * [CentOS](https://www.reddit.com/r/CentOS/)
+* [Fedora](https://www.reddit.com/r/Fedora/)
 * [Linux](https://www.reddit.com/r/linux/)
 * [Open Source](https://www.reddit.com/r/opensource/)
 * [Ubuntu](https://www.reddit.com/r/Ubuntu/)
