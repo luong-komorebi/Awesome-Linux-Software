@@ -725,6 +725,7 @@
 
 ### Sharing Files
 - [![Open-Source Software][OSS Icon]](https://github.com/aria2/aria2) [aria2](https://aria2.github.io/) - aria2 is a lightweight multi-protocol & multi-source command-line download utility.
+- [Cloudtag](https://cloudtag.io/) - a practical piece of software that makes it easy for you to share files with your friends, and family using your mac, windows or linux.
 - [CrossFTP](http://www.crossftp.com/ftp-client.htm) - CrossFTP makes it extremely simple to manage the FTP related tasks.
 - [D-lan](http://www.d-lan.net/) - A free LAN file sharing software.
 - [![Open-Source Software][OSS Icon]](http://dev.deluge-torrent.org/wiki/Development#SourceCode) [Deluge](http://deluge-torrent.org/) - Deluge is a lightweight, Free Software, cross-platform BitTorrent client.

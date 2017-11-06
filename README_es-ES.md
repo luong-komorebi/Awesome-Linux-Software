@@ -710,6 +710,7 @@
 
 ### Intercambio de archivos
 - [![Open-Source Software][OSS Icon]](https://github.com/aria2/aria2) [aria2](https://aria2.github.io/) - aria2 es un programa de descarga de línea de comandos rápido y multiprotocolo y multi-fuente.
+- [Cloudtag](https://cloudtag.io/) - una aplicación simple que te facilita compartir archivos con tus amigos y familiares usando mac, windows o linux.
 - [CrossFTP](http://www.crossftp.com/ftp-client.htm) - CrossFTP es un programa que facilita la administración de FTP.
 - [D-lan](http://www.d-lan.net/) - Es un programa que te permite compartir archivos en un Red de área local
 - [![Open-Source Software][OSS Icon]](http://dev.deluge-torrent.org/wiki/Development#SourceCode) [Deluge](http://deluge-torrent.org/) - Deluge es un cliente multiplataforma rápido y de código abierto de bittorrent.
