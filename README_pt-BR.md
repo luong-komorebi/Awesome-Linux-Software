@@ -72,6 +72,8 @@ Duas versões chinesas desta lista estão disponíveis [aqui](https://github.com
     - [Reddit](#reddit)
 - [Learn Linux](#learn-linux)
 - [Linux Hacking/Development](#linux-hackingdevelopment)
+- [Advanced Linux](#advanced-linux)
+- [Other Awesome Lists](#Other-Awesome-Lists)
 - [Contributors](#contributors)
 - [Guideline to Contribute](#guideline-to-contribute)
 
@@ -340,6 +342,7 @@ Ele foi projetado principalmente para ajudar a recuperar partições perdidas e/
 - [Gcompris](http://gcompris.net/index-en.html) - GCompris is a high quality educational software suite comprising of numerous activities for children aged 2 to 10. [![Open-Source Software][OSS Icon]](http://gcompris.net/wiki/Developer%27s_corner)
 - [Geogebra](https://www.geogebra.org/download) - The graphing calculator for functions, geometry, algebra, calculus, statistics and 3D mathematics. [![Open-Source Software][OSS Icon]](https://github.com/geogebra/geogebra)
 - [Gnome-dictionary](https://wiki.gnome.org/Apps/Dictionary) - A powerful dictionary for GNOME. [![Open-Source Software][OSS Icon]](https://wiki.gnome.org/Apps/Dictionary)
+- [![Open-Source Software][OSS Icon]](http://opensis.sourceforge.net/) [GNU Octave](http://www.gnu.org/software/octave/) - GNU Octave is a scientific programming language, primarily intended for numerical computations, that is mostly compatible with MATLAB.
 - [GNU Typist](https://www.gnu.org/software/gtypist/index.html) - ncurses-based free-software typing instructor [![Open-Source Software][OSS Icon]](http://ftp.gnu.org/gnu/gtypist/)
 - [GNUKhata](http://www.gnukhata.in/) - Open source accounting software. [![Open-Source Software][OSS Icon]](https://github.com/kinitrupti/GNUKhata)
 - [Google Earth](https://itsfoss.com/install-google-earth-ubunu/) - Google Earth is a virtual globe, map and geographical information program.
@@ -447,6 +450,7 @@ Ele foi projetado principalmente para ajudar a recuperar partições perdidas e/
 - [Heron Animation](https://www.heronanimation.brick-a-brack.com/#download) - A free stop animation making program.
 - [Inkscape](https://inkscape.org/en/) - A powerful, free design tool for you , whether you are an illustrator, designer, web designer or just someone who needs to create some vector imagery
 - [Karbon](https://www.calligra.org/karbon/) - An open source vector drawing program. [![Open-Source Software][OSS Icon]](https://www.kde.org/applications/graphics/karbon/development)
+- [![Open-Source Software][OSS Icon]](https://github.com/mbasaglia/Knotter) [Knotter](https://knotter.mattbas.org/Knotter) - A Program designed solely to help design and create Celtic Knots.
 - [Krita](https://krita.org/en/) - Open Source Software for Concept Artists, Digital Painters, and Illustrators[![Open-Source Software][OSS Icon]](https://github.com/KDE/krita)
 - [Mypaint](http://mypaint.org/about/) - Mypaint is a paint program for use with graphics tablets.  [![Open-Source Software][OSS Icon]](https://github.com/mypaint/mypaint/releases)
 - [Open DVD Producer](http://opendvdproducer.jonata.org/) - A modern, open source cross platform software to produce DVD images.  [![Open-Source Software][OSS Icon]](https://github.com/jonata/opendvdproducer)
@@ -897,8 +901,9 @@ Ele foi projetado principalmente para ajudar a recuperar partições perdidas e/
 ### Tiling window managers
 - [Bspwm](https://github.com/baskerville/bspwm/wiki) - bspwm is a tiling window manager that represents windows as the leaves of a full binary tree. [![Open-Source Software][OSS Icon]](https://github.com/baskerville/bspwm)
 - [Herbstluftwm](https://herbstluftwm.org) - Manual tiling window manager for X11 using Xlib and Glib. [![Open-Source Software][OSS Icon]](https://github.com/herbstluftwm/herbstluftwm)
-- [Qtile](http://www.qtile.org/) - qtile is a full-featured, hackable tiling window manager written and configured in Python [![Open-Source Software][OSS Icon]](https://github.com/qtile/qtile)
 - [i3 WM](https://i3wm.org/) - A better tiling and dynamic window manager. It's completely written from scratch. The target platforms are GNU/Linux and BSD operating systems. [![Open-Source Software][OSS Icon]](https://github.com/i3/i3)
+- [Qtile](http://www.qtile.org/) - qtile is a full-featured, hackable tiling window manager written and configured in Python [![Open-Source Software][OSS Icon]](https://github.com/qtile/qtile)
+- [![Open-Source Software][OSS Icon]](https://github.com/swaywm/sway) [Sway](http://swaywm.org) - Sway is tiling Wayland compositor and a drop-in replacement for the i3 window manager for X11.
 
 ### Dynamic window managers
 - [awesome](https://awesomewm.org) - Highly configurable, next generation framework window manager for X. [![Open-Source Software][OSS Icon]](https://github.com/awesomeWM/awesome)
@@ -1052,6 +1057,18 @@ Ele foi projetado principalmente para ajudar a recuperar partições perdidas e/
 - [Linux Kernel Internals (PDF)](http://www.tldp.org/LDP/lki/lki.pdf)
 - [Linux Kernel Mailing List Archive](https://lkml.org/)
 - [Linux Kernel Module Programming Guide (PDF)](http://www.tldp.org/LDP/lkmpg/2.6/lkmpg.pdf)
+
+## Advanced Linux
+
+- [Virtual Containers](https://github.com/Citrix-TechSpecialist/Docker-101)
+- [Virtualization with Virtualbox](https://www.virtualbox.org/manual/ch01.html)
+
+## Other Awesome Lists
+
+*These are the list that I highly recommended:*
+- [Awesome Linux Audio](https://github.com/nodiscc/awesome-linuxaudio)
+- [Awesome Self-hosted](https://github.com/kickball/awesome-selfhosted)
+- [Awesome Sysadmin](https://github.com/n1trux/awesome-sysadmin)
 
 ## Contribuintes
 
