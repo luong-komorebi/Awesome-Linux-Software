@@ -76,6 +76,7 @@
    - [Reddit](#reddit)
 - [Aprender linux](#aprender-linux)
 - [Desarrollo de linux](#desarrollo-de-linux)
+- [Linux avanzado](#Linux-avanzado)
 - [Los otros listas impresionantes](#los-otros-listas-impresionantes)
 - [Contribuidores](#contribuidores)
 - [Reglas para contribuir](#reglas-para-contribuir)
@@ -379,6 +380,7 @@
 - [![Open-Source Software][OSS Icon]](http://gcompris.net/wiki/Developer%27s_corner) [Gcompris](http://gcompris.net/index-en.html) - GCompris es un grupo de software con muchas actividades para niños de 2 a 10 años.
 - [![Open-Source Software][OSS Icon]](https://github.com/geogebra/geogebra) [Geogebra](https://www.geogebra.org/download) - Una calculadora gráfica para funciones, geometría, álgebra, cálculo y estadística. También puede hacer matemáticas en 3D.
 - [![Open-Source Software][OSS Icon]](https://wiki.gnome.org/Apps/Dictionary) [Gnome-dictionary](https://wiki.gnome.org/Apps/Dictionary) - Un diccionario capaz para GNOME.
+- [![Open-Source Software][OSS Icon]](http://opensis.sourceforge.net/) [GNU Octave](http://www.gnu.org/software/octave/) - GNU Octave es un lenguaje de programación matemático, diseñado para cálculos numéricos, que es principalmente compatible con MATLAB.
 - [![Open-Source Software][OSS Icon]](http://ftp.gnu.org/gnu/gtypist/) [GNU Typist](https://www.gnu.org/software/gtypist/index.html) - Una instrucción de escritura de código abierto basada en ncurses.
 - [![Open-Source Software][OSS Icon]](https://github.com/kinitrupti/GNUKhata) [GNUKhata](http://www.gnukhata.in/) - Software de cuenta que es de código abierto.
 - [Google Earth](https://itsfoss.com/install-google-earth-ubunu/) - Google Earth es un programa que te permite ver un globo virtual con mapas y características geográficas.
@@ -491,6 +493,7 @@
 - [Heron Animation](https://www.heronanimation.brick-a-brack.com/#download) - Es un programa de animación "Stop motion" gratuito.
 - [Inkscape](https://inkscape.org/en/) - Es una herramienta de diseño capaz y gratuita para imágenes vectoriales.
 - [![Open-Source Software][OSS Icon]](https://www.kde.org/applications/graphics/karbon/development) [Karbon](https://www.calligra.org/karbon/) - Es un programa de dibujo vectorial de código abierto.
+- [![Open-Source Software][OSS Icon]](https://github.com/mbasaglia/Knotter) [Knotter](https://knotter.mattbas.org/Knotter) - Knotter es un programa que ayuda a diseñar nudos celtas.
 - [![Open-Source Software][OSS Icon]](https://github.com/KDE/krita) [Krita](https://krita.org/en/) - Un programa de código abierto para artistas y pintores digitales.
 - [![Open-Source Software][OSS Icon]](https://github.com/mypaint/mypaint/releases) [Mypaint](http://mypaint.org/about/) - Mypaint es un programa de pintura que está diseñado para su uso con Tabletas digitalizadoras.
 - [![Open-Source Software][OSS Icon]](https://github.com/jonata/opendvdproducer) [Open DVD Producer](http://opendvdproducer.jonata.org/) - Es un software multiplataforma de código abierto y moderno que crea imágenes de DVD.
@@ -580,7 +583,8 @@
 - [Clipgrab](https://clipgrab.org/) - Un descargador fácil de usar para youtube y otros sitios web.
 - [Tor](https://www.torproject.org/) - Tor es un software libre y una red que le permite navegar en la privacidad.
 - [![Open-Source Software][OSS Icon]](https://github.com/rg3/youtube-dl) [youtube-dl](https://github.com/rg3/youtube-dl) - Es un programa que puede descargar videos de youtube.com y otros sitios web de video.
-- [![Open-Source Software][OSS Icon]](https://github.com/MrS0m30n3/youtube-dl-gui) [youtube-dlg](https://mrs0m30n3.github.io/youtube-dl-gui/#downloads) Youtube-dlg Es una GUI para youtube-dl que te permite copiar y pegar el enlace de un sitio web de video, y puede procesar las descargas en paralelo.
+- [![Open-Source Software][OSS Icon]](https://github.com/MrS0m30n3/youtube-dl-gui) [youtube-dlg](https://mrs0m30n3.github.io/youtube-dl-gui/#downloads) - Youtube-dlg Es una GUI para youtube-dl que te permite copiar y pegar el enlace de un sitio web de video, y puede procesar las descargas en paralelo.
+- [![Open-Source Software][OSS Icon]](https://github.com/zerotier/ZeroTierOne) [Zerotier](https://my.zerotier.com) - Zerotier es un programa que crea una red virtual solo para tus dispositivos, esta se envía completamente encriptada a través de Internet.
 
 #### Cliente de servicios web
 - [![Open-Source Software][OSS Icon]](https://github.com/baedert/corebird) [Corebird](http://corebird.baedert.org/) - Corebird es una aplicación diseñada en GTK + para twitter.
@@ -926,8 +930,9 @@
 ### Gestor de embaldosado
 - [![Open-Source Software][OSS Icon]](https://github.com/baskerville/bspwm) [Bspwm](https://github.com/baskerville/bspwm/wiki) - bspwm es un gestor de embaldosado que representa las ventanas como partes de un árbol.
 - [![Open-Source Software][OSS Icon]](https://github.com/herbstluftwm/herbstluftwm) [Herbstluftwm](https://herbstluftwm.org) - Es un manual gestor de embaldosado para X11.
-- [![Open-Source Software][OSS Icon]](https://github.com/qtile/qtile) [Qtile](http://www.qtile.org/) - qtile es un gestor de embaldosado hackable completo en python.
 - [![Open-Source Software][OSS Icon]](https://github.com/i3/i3) [i3 WM](https://i3wm.org/) - i3 WM es un gestor de ambaldosado y dinámico que es administrador de ventanas capaz escrito desde cero.
+- [![Open-Source Software][OSS Icon]](https://github.com/qtile/qtile) [Qtile](http://www.qtile.org/) - qtile es un gestor de embaldosado hackable completo en python.
+- [![Open-Source Software][OSS Icon]](https://github.com/swaywm/sway) [Sway](http://swaywm.org) - Sway está embaldosando el compositor Wayland y reemplazando al administrador de ventanas i3 para X11.
 
 ### Gestor de dinámico
 - [![Open-Source Software][OSS Icon]](https://github.com/awesomeWM/awesome) [awesome](https://awesomewm.org) - Un gestor de marcos configurable para X.
@@ -1080,6 +1085,11 @@
 - [Linux kernel interno (PDF) (Inglés)](http://www.tldp.org/LDP/lki/lki.pdf)
 - [Archivo de correo de Linux Kernel (Inglés)](https://lkml.org/)
 - [Guía de programación del módulo Linux Kernel (PDF) (Inglés)](http://www.tldp.org/LDP/lkmpg/2.6/lkmpg.pdf)
+
+## Linux avanzado
+
+- [Contenedores virtuales](https://github.com/Citrix-TechSpecialist/Docker-101)
+- [Virtualización con Virtualbox](https://www.virtualbox.org/manual/ch01.html)
 
 ## Los otros listas impresionantes
 
