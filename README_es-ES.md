@@ -263,7 +263,7 @@
 - [OmniDB](https://omnidb.org/en/) - Una herramienta basada en el navegador para crear, ver y administrar bases de datos.
 
 #### Golang
-- [Gogland](https://www.jetbrains.com/go/) - Gogland es el nombre en clave de un IDE comercial de la empresa Jetbrains.
+- [GoLand](https://www.jetbrains.com/go/) - GoLand es el nombre en clave de un IDE comercial de la empresa Jetbrains.
 
 #### Java
 - [![Open-Source Software][OSS Icon]](https://www.bluej.org/versions.html) [BlueJ](http://bluej.org/) - Un entorno de desarrollo Java de código abierto diseñado para nuevos usuarios.

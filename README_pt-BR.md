@@ -224,7 +224,7 @@ Ele foi projetado principalmente para ajudar a recuperar partições perdidas e/
 - [OmniDB](https://omnidb.org/en/) - Ferramenta baseada em navegador que visualmente cria, gerencia e exibe bancos de dados.
 
 #### Golang
-- [Gogland](https://www.jetbrains.com/go/) - Gogland é um codinome para uma nove IDE comercial feita pela JetBrains, destinada a prover um ambiente ergonômico para desenvolvedores de Go.
+- [GoLand](https://www.jetbrains.com/go/) - GoLand é um codinome para uma nove IDE comercial feita pela JetBrains, destinada a prover um ambiente ergonômico para desenvolvedores de Go.
 #### Java
 - [BlueJ](http://bluej.org/) - Um ambiente de desenvolvimento grátis para Java projetado para inicianetes, usado por milhões de pessoas ao redor do mundo. [![Open-Source Software][OSS Icon]](https://www.bluej.org/versions.html)
 - [Eclipse](https://eclipse.org/ide/) - Eclipse é famoso pelo nosso Ambiente de Desenvolvimento Integrado para Java (IDE), mas pode também fazer o download de packages que suportam IDE para C/C++ e para PHP.
