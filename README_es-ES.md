@@ -878,6 +878,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/tmux/tmux) [Tmux](https://tmux.github.io/) - un comando que le permite cambiar entre diferentes programas en un terminal, y adjuntar y separar las tareas de la línea de comandos.
 - [Las 10 mejores herramientas de línea de comandos.](http://lifehacker.com/399468/top-10-command-line-tools)
 - [![Open-Source Software][OSS Icon]](https://itsfoss.com/best-command-line-games-linux/) [Tron](https://itsfoss.com/best-command-line-games-linux/) - Un juego "Tron" para la línea de comandos.
+- [![Open-Source Software][OSS Icon]](https://github.com/jml/undistract-me) [undistract-me](https://github.com/jml/undistract-me) - Un programa de línea de comando que reproduce un sonido o envía una notificación cuando un comando largo ha terminado de ejecutarse en la línea de comando.
 - [wicd-curses](https://wiki.archlinux.org/index.php/wicd#Running_Wicd_in_Text_Mode) - Un encargado del wifi para la línea de comando.
 - [![Open-Source Software][OSS Icon]](https://github.com/rg3/youtube-dl) [youtube-dl](http://rg3.github.io/youtube-dl/) - youtube-dl es un programa que te permite descargar videos de Youtube.com y muchos otros sitios web de video.
 
@@ -949,6 +950,7 @@
 - [Términos básicos de linux (Inglés)](http://www.makeuseof.com/tag/linux-confusing-key-terms-definitions/)
 - [Elegir una buena distribución de Linux (Inglés)](http://i.imgur.com/TV21DgN.jpg)
 - [38 tareas después de instalar Ubuntu (Inglés)](https://www.lifewire.com/things-to-do-installing-ubuntu-2200611)
+- [¿Qué significan los comandos de línea de comando? (Inglés)](https://www.explainshell.com) [![Open-Source Software][OSS Icon]](https://github.com/idank/explainshell)
 
 ### Arch Linux
 

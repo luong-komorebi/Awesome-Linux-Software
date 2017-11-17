@@ -833,6 +833,7 @@ Ele foi projetado principalmente para ajudar a recuperar partições perdidas e/
 - [Tmux](https://tmux.github.io/) - It lets you switch easily between several programs in one terminal, detach them (they keep running in the background) and reattach them to a different terminal. And do a lot more. [![Open-Source Software][OSS Icon]](https://github.com/tmux/tmux)
 - [Top 10 command line tools](http://lifehacker.com/399468/top-10-command-line-tools)
 - [Tron](https://itsfoss.com/best-command-line-games-linux/) - Play the best action game, Tron in the command line. [![Open-Source Software][OSS Icon]](https://itsfoss.com/best-command-line-games-linux/)
+- [![Open-Source Software][OSS Icon]](https://github.com/jml/undistract-me) [undistract-me](https://github.com/jml/undistract-me) - A command line program that plays a sound or sends a notification when a long command has finished running in the command line.
 - [wicd-curses](https://wiki.archlinux.org/index.php/wicd#Running_Wicd_in_Text_Mode) - Command line WiFi connection manager.
 - [youtube-dl](http://rg3.github.io/youtube-dl/) - youtube-dl is a command-line program to download videos from YouTube.com and a few more sites. It requires the Python interpreter (2.6, 2.7, or 3.2+), and it is not platform specific. [![Open-Source Software][OSS Icon]](https://github.com/rg3/youtube-dl)
 
@@ -921,6 +922,7 @@ Ele foi projetado principalmente para ajudar a recuperar partições perdidas e/
 - [Basic Linux term](http://www.makeuseof.com/tag/linux-confusing-key-terms-definitions/)
 - [Choosing Distro that Suits You Best](http://i.imgur.com/TV21DgN.jpg)
 - [38 Things To Do After Installing Ubuntu](https://www.lifewire.com/things-to-do-installing-ubuntu-2200611)
+- [What do the commands on the command line mean?](https://www.explainshell.com) [![Open-Source Software][OSS Icon]](https://github.com/idank/explainshell)
 
 ### Arch Linux
 
