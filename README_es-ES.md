@@ -427,6 +427,8 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/MidnightCommander) [Midnight Commander](https://www.midnight-commander.org/) - Un administrador de archivos con muchas características, que le permite copiar, mover y eliminar archivos fácilmente.
 - [![Open-Source Software][OSS Icon]](https://github.com/GNOME/nautilus) [Nautilus](https://wiki.gnome.org/Apps/Nautilus) - Nautilus es el gestor de archivos oficial del entorno de escritorio GNOME, y es muy fácil de usar.
 - [![Open-Source Software][OSS Icon]](https://github.com/linuxmint/nemo) [Nemo](http://askubuntu.com/questions/294421/how-do-i-install-nemo-file-manager) - Nemo es el gestor de archivos predeterminado para el entorno de escritorio de Cinnamon. Es rápido y fácil de usar.
+- [![Open-Source Software][OSS Icon]](https://github.com/jarun/nnn) [nnn](https://github.com/jarun/nnn) - nnn es un programa que es un administrador de archivos muy rápido para la línea de comando.
+- [![Open-Source Software][OSS Icon]](https://github.com/teejee2008/polo) [Polo](https://github.com/teejee2008/polo) - Polo es un administrador de archivos moderno y rápido para Linux que admite múltiples pestañas, acceso a archivos y más.
 - [![Open-Source Software][OSS Icon]](https://github.com/shundhammer/qdirstat) [QDirStat](https://github.com/shundhammer/qdirstat#ubuntu) - QDirStat es un programa de estadísticas de directorios diseñado para permitirle comparar visualmente el tamaño de los archivos.
 - [![Open-Source Software][OSS Icon]](https://github.com/ranger/ranger) [Ranger](http://ranger.nongnu.org/) - Ranger es un gestor de archivos basado en la línea de comandos que tiene asignaciones de teclas como el editor de texto Vi. Viene con "Rifle" un programa que encuentra programas para abrir archivos.
 - [![Open-Source Software][OSS Icon]](https://github.com/luisgg/thunar) [Thunar](https://apps.ubuntu.com/cat/applications/precise/thunar/) - Thunar es el gestor de archivos predeterminado para el escritorio XFCE. Está diseñado para ser rápido y fácil de usar.
@@ -642,7 +644,7 @@
 - [![Open-Source Software][OSS Icon]](https://code.launchpad.net/plank) [Plank](https://launchpad.net/plank) - Plank es un programa muy simple que proporciona una barra de tareas para Linux.
 
 #### Busqueda local
-- [![Open-Source Software][OSS Icon]](https://github.com/ManuelSchneid3r/albert) [Albert](https://github.com/ManuelSchneid3r/albert/wiki/User-guide#how-to-install-albert) - Un lanzador de aplicaciones muy capaz para Linux.
+- [![Open-Source Software][OSS Icon]](https://github.com/albertlauncher/albert) [Albert](https://github.com/albertlauncher/albert) - Un lanzador de aplicaciones muy capaz para Linux.
 - [![Open-Source Software][OSS Icon]](https://github.com/DoTheEvo/ANGRYsearch) [AngrySearch](https://github.com/DoTheEvo/ANGRYsearch) - Un programa que busca archivos en linux, y funciona mientras escribe.
 - [![Open-Source Software][OSS Icon]](https://code.launchpad.net/catfish-search) [Catfish](https://launchpad.net/catfish-search) - Catfish es una herramienta de búsqueda muy versátil.
 - [![Open-Source Software][OSS Icon]](https://github.com/KELiON/cerebro) [Cerebro](https://cerebroapp.com/) - Un programa que es de código abierto y ayuda a aumentar la productividad.
@@ -785,7 +787,7 @@
 - [indicator-cpufreq](https://launchpad.net/indicator-cpufreq) - Programa que muestra la frecuencia actual de la CPU.
 - [indicator-multiload](https://launchpad.net/ubuntu/+source/indicator-multiload) - Un programa que muestra la carga actual del sistema.
 - [![Open-Source Software][OSS Icon]](https://github.com/fossfreedom/indicator-sysmonitor) [Indicator-SysMonitor](https://github.com/fossfreedom/indicator-sysmonitor) - Una aplicación que muestra la temperatura de la CPU, la memoria, la velocidad de red actual y más.
-- [![Open-Source Software][OSS Icon]](https://github.com/keepassxreboot/keepassxc) [KeePassXC](https://keepassxc.org/) - Un administrador de contraseñas multiplataforma, es una comunidad mantenida tenedor de: KeePassX([dead](https://github.com/keepassx/keepassx/pull/204))
+- [![Open-Source Software][OSS Icon]](https://github.com/keepassxreboot/keepassxc) [KeePassXC](https://keepassxc.org/) - Un administrador de contraseñas multiplataforma, es una comunidad mantenida bifurcacion de: KeePassX([dead](https://github.com/keepassx/keepassx/pull/204))
 - [KeePass](https://www.keepass.info/) - Un administrador de contraseñas centrado en Windows, pero también funciona en Linux.
 - [![Open-Source Software][OSS Icon]](https://github.com/keeweb/keeweb) [KeeWeb](https://github.com/keeweb/keeweb) - Un administrador de contraseñas multiplataforma.
 - [![Open-Source Software][OSS Icon]](https://github.com/iabem97/komorebi) [Komorebi](https://github.com/iabem97/komorebi/releases) - Komorebi es un gestor de fondo para Linux, que te permite usar el video como fondo.
@@ -882,7 +884,7 @@
 
 ## Los Entornos des escritorios
 - [![Open-Source Software][OSS Icon]](https://github.com/solus-project/budgie-desktop) [Budgie](http://www.omgubuntu.co.uk/2016/09/install-budgie-desktop-on-ubuntu) - Budgie es un entorno de escritorio diseñado para parecer moderno, y es simple y elegante.
-- [![Open-Source Software][OSS Icon]](https://github.com/linuxmint/Cinnamon) [Cinnamon](http://cinnamon.linuxmint.com/) - Cinnamon es un entorno de escritorio diseñado para ser tradicional. Cinnamon es un tenedor de GNOME 3.
+- [![Open-Source Software][OSS Icon]](https://github.com/linuxmint/Cinnamon) [Cinnamon](http://cinnamon.linuxmint.com/) - Cinnamon es un entorno de escritorio diseñado para ser tradicional. Cinnamon es un bifurcacion de GNOME 3.
 - [![Open-Source Software][OSS Icon]](https://github.com/linuxdeepin/dde-desktop) [Deepin DE](https://www.deepin.org/en/dde/) - DDE (Deepin escritorio diseñado) es el entorno de escritorio predeterminado de Linux Deepin. Es muy simple y se basa en una barra de tareas en la parte inferior de la pantalla.
 - [![Open-Source Software][OSS Icon]](https://git.enlightenment.org/core/efl.git) [Enlightenment](https://www.enlightenment.org/about) - Un entorno de escritorio rápido y hermoso que está diseñado para ser personalizable.
 - [![Open-Source Software][OSS Icon]](https://github.com/GNOME/gnome-flashback) [GNOME Flashback](https://wiki.gnome.org/Projects/GnomeFlashback) - GNOME Flashback es un entorno de escritorio diseñado para parecer GNOME 2.
@@ -890,7 +892,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/KDE/plasma-desktop) [KDE Plasma](https://www.kde.org/workspaces/plasmadesktop/) - El KDE Plasma escritorio diseñado está diseñado para parecer familiar. Tiene todas las herramientas que necesita para ser productivo.
 - [![Open-Source Software][OSS Icon]](https://github.com/lxde) [LXDE](http://lxde.org/) - El X11 escritorio está diseñado para ser rápido y ahorro de energía.
 - [![Open-Source Software][OSS Icon]](https://github.com/lxde/lxqt) [LXQt](http://lxqt.org/) - LXQt es el portal QT de LXDE, es un entorno de escritorio ligero.
-- [![Open-Source Software][OSS Icon]](https://github.com/mate-desktop/) [Mate](http://mate-desktop.com/) - Mate se nombra después de Yerba Mate argentino, está diseñado para ser intuitivo y atractivo. Es un tenedor de GNOME 2.
+- [![Open-Source Software][OSS Icon]](https://github.com/mate-desktop/) [Mate](http://mate-desktop.com/) - Mate se nombra después de Yerba Mate argentino, está diseñado para ser intuitivo y atractivo. Es un bifurcacion de GNOME 2.
 - [![Open-Source Software][OSS Icon]](https://github.com/BlankOn/manokwari) [Manokwari](http://manokwari.blankonlinux.or.id/) - Manokwari es un shell de escritorio para GNOME 3.
 - [Pantheon](https://elementary.io/) - Pantheon es el entorno de escritorio predeterminado creado para el sistema operativo "Elementary OS".
 - [Unity 8](http://www.omgubuntu.co.uk/2016/04/ubuntu-16-04-unity-8-desktop-progress-video) - Una guía sobre cómo instalar Unity 8 para Ubuntu 16.04
@@ -1088,8 +1090,8 @@
 
 ## Linux avanzado
 
-- [Contenedores virtuales](https://github.com/Citrix-TechSpecialist/Docker-101)
-- [Virtualización con Virtualbox](https://www.virtualbox.org/manual/ch01.html)
+- [Contenedores virtuales (Inglés)](https://github.com/Citrix-TechSpecialist/Docker-101)
+- [Virtualización con Virtualbox (Inglés)](https://www.virtualbox.org/manual/ch01.html)
 
 ## Los otros listas impresionantes
 
