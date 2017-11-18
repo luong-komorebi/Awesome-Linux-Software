@@ -787,6 +787,7 @@
 - [indicator-cpufreq](https://launchpad.net/indicator-cpufreq) - Programa que muestra la frecuencia actual de la CPU.
 - [indicator-multiload](https://launchpad.net/ubuntu/+source/indicator-multiload) - Un programa que muestra la carga actual del sistema.
 - [![Open-Source Software][OSS Icon]](https://github.com/fossfreedom/indicator-sysmonitor) [Indicator-SysMonitor](https://github.com/fossfreedom/indicator-sysmonitor) - Una aplicación que muestra la temperatura de la CPU, la memoria, la velocidad de red actual y más.
+- [![Open-Source Software][OSS Icon]](https://github.com/KDE/kdeconnect-kde) [KDE-Connect](https://community.kde.org/KDEConnect) - Un programa que le permite vincular un teléfono Android con un escritorio Linux y usar el teléfono como mouse, controlar un reproductor de música y más.
 - [![Open-Source Software][OSS Icon]](https://github.com/keepassxreboot/keepassxc) [KeePassXC](https://keepassxc.org/) - Un administrador de contraseñas multiplataforma, es una comunidad mantenida bifurcacion de: KeePassX([dead](https://github.com/keepassx/keepassx/pull/204))
 - [KeePass](https://www.keepass.info/) - Un administrador de contraseñas centrado en Windows, pero también funciona en Linux.
 - [![Open-Source Software][OSS Icon]](https://github.com/keeweb/keeweb) [KeeWeb](https://github.com/keeweb/keeweb) - Un administrador de contraseñas multiplataforma.
