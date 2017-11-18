@@ -58,11 +58,13 @@ Duas versões chinesas desta lista estão disponíveis [aqui](https://github.com
 - [Setup](#setup)
     - [ArchLinux](#arch-linux)
     - [CentOS](#centos)
+    - [Fedora](#fedora)
     - [openSUSE](#opensuse)
     - [Ubuntu](#ubuntu)
 - [Discussion Forums](#discussion-forums)
     - [ArchLinux Forums](#arch-linux-forums)
     - [CentOS Forums](#centos-forums)
+    - [Fedora Forums](#fedora-forums)
     - [Ubuntu Forums](#ubuntu-forums)
     - [openSUSE Forums](#opensuse-forums)
     - [IRC channels](#irc-channels)
@@ -121,6 +123,7 @@ Duas versões chinesas desta lista estão disponíveis [aqui](https://github.com
 - [RadioTray-NG](https://github.com/ebruck/radiotray-ng) - Um player de rádio na Internet para Linux. [![Open-Source Software][OSS Icon]](https://github.com/ebruck/radiotray-ng)
 - [Rhythmbox](https://wiki.gnome.org/Apps/Rhythmbox) - Reprodutor de música do GNOME. [![Open-Source Software][OSS Icon]](https://github.com/GNOME/rhythmbox)
 - [Sayonara Player](https://sayonara-player.com/downloads.php) - Sayonara é um pequeno, limpo e rápido reprodutor de música para Linux escrito em C++, supportado pelo framework Qt.[![Open-Source Software][OSS Icon]](https://sayonara-player.com/downloads.php#Source)
+- [Sonata](http://www.nongnu.org/sonata/) - Sonata é um elegante player de música GTK+. Atualmente, sua versão mais recente é a 1.6.2.1.
 - [Soundconverter](http://soundconverter.org/) - Líder da conversão de arquivos de aúdio, SoundConverter tem o intuito de ser simples de usar e muito rápido.[![Open-Source Software][OSS Icon]](https://launchpad.net/soundconverter/trunk/2.1.6)
 - [SoundJuicer](http://www.howtogeek.com/howto/20126/rip-audio-cds-with-sound-juicer/) - Ferramenta de rascunho de CD para GNOME
 - [Soundnode](http://www.soundnodeapp.com/) - Um aplicativo SoundCloud OpenSouce para Desktop. [![Open-Source Software][OSS Icon]](https://github.com/Soundnode/soundnode-app)
@@ -153,7 +156,7 @@ Duas versões chinesas desta lista estão disponíveis [aqui](https://github.com
 - [Telegram](https://desktop.telegram.org/) - Um aplicativo com foco na rapidez e segurança, é muito rápido, simples e gratuito. [![Open-Source Software][OSS Icon]](https://github.com/telegramdesktop/tdesktop)
 - [Viber](https://www.viber.com/en/products/linux) - O Viber para o Linux permite que você envie mensagens e faça ligações gratuitas para outros usuários Viber em qualquer dispositivo e rede, em qualquer país.
 - [Weechat](https://weechat.org/) - WeeChat é um rápido, leve e extensivel client de bate-papo. [![Open-Source Software][OSS Icon]](https://github.com/weechat)
-- [Wire](https://wire.com/en/) - Comunicação Segura. Privacidade total. [![Open-Source Software][OSS Icon]](https://github.com/wireapp) 
+- [Wire](https://wire.com/en/) - Comunicação Segura. Privacidade total. [![Open-Source Software][OSS Icon]](https://github.com/wireapp)
 
 ### Backup e recuperação de dados
 - [Borg Backup](https://borgbackup.readthedocs.io/en/stable/) - Uma ótima ferramenta para recuperação de dados.[![Open-Source Software][OSS Icon]](https://borgbackup.readthedocs.io/en/stable/development.html)
@@ -221,7 +224,7 @@ Ele foi projetado principalmente para ajudar a recuperar partições perdidas e/
 - [OmniDB](https://omnidb.org/en/) - Ferramenta baseada em navegador que visualmente cria, gerencia e exibe bancos de dados.
 
 #### Golang
-- [Gogland](https://www.jetbrains.com/go/) - Gogland é um codinome para uma nove IDE comercial feita pela JetBrains, destinada a prover um ambiente ergonômico para desenvolvedores de Go.
+- [GoLand](https://www.jetbrains.com/go/) - GoLand é um codinome para uma nove IDE comercial feita pela JetBrains, destinada a prover um ambiente ergonômico para desenvolvedores de Go.
 #### Java
 - [BlueJ](http://bluej.org/) - Um ambiente de desenvolvimento grátis para Java projetado para inicianetes, usado por milhões de pessoas ao redor do mundo. [![Open-Source Software][OSS Icon]](https://www.bluej.org/versions.html)
 - [Eclipse](https://eclipse.org/ide/) - Eclipse é famoso pelo nosso Ambiente de Desenvolvimento Integrado para Java (IDE), mas pode também fazer o download de packages que suportam IDE para C/C++ e para PHP.
@@ -241,21 +244,21 @@ Ele foi projetado principalmente para ajudar a recuperar partições perdidas e/
 - [Aptana](http://www.aptana.com/) - Aptana Studio aproveita a flexibilidade do Eclipse e foca isto em uma poderoso mecanismo de desenvolvimento web.
 - [KDevelop](https://www.kdevelop.org/) - Uma IDE de códio aberto livre, feature-full com plugin extensível da IDE para C/C++ e dentre outras linguagens de programação. [![Open-Source Software][OSS Icon]](https://phabricator.kde.org/dashboard/view/8/)
 - [MonoDevelop](http://www.monodevelop.com/) - IDE para as plataformas C#, F# e outras. [![Open-Source Software][OSS Icon]](http://www.monodevelop.com/developers/)
-- [Netbeans](https://netbeans.org/downloads/) - NetBeans IDE o permite rapidamente e facilmente desenvolver aplicações Java para desktop, mobile e aplicações web, também como aplicaçes HTML5 com HTML, Javascript e CSS. 
+- [Netbeans](https://netbeans.org/downloads/) - NetBeans IDE o permite rapidamente e facilmente desenvolver aplicações Java para desktop, mobile e aplicações web, também como aplicaçes HTML5 com HTML, Javascript e CSS.
 
 #### PHP
-- [PHPStorm](https://www.jetbrains.com/phpstorm/) - Uma IDE leve, inteligente e poderosa para PHP fornecida pela Jetbrain. 
+- [PHPStorm](https://www.jetbrains.com/phpstorm/) - Uma IDE leve, inteligente e poderosa para PHP fornecida pela Jetbrain.
 
 #### Python
 - [PyCharm](https://www.jetbrains.com/pycharm/) - IDE poderosa para Python.
 
 #### Shell
-- [Fish](https://fishshell.com/) - A smart and user-friendly command-line shell. [![Open-Source Software][OSS Icon]](https://github.com/fish-shell/fish-shell)
-- [Fisherman](https://github.com/fisherman/fisherman) - A plugin manager for fish shell. [![Open-Source Software][OSS Icon]](https://github.com/fisherman/fisherman)
-- [Ipython](https://ipython.org/) - Powerful Python shell. [![Open-Source Software][OSS Icon]](https://github.com/ipython/ipython)
-- [Oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - Provides various packages and themes to extend the functionality of your fish shell. [![Open-Source Software][OSS Icon]](https://github.com/oh-my-fish/oh-my-fish)
-- [Oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - A delightful community-driven framework for managing your zsh configuration.  [![Open-Source Software][OSS Icon]](https://github.com/robbyrussell/oh-my-zsh)
-- [Zsh](http://www.zsh.org/) -  A powerful command line shell. [![Open-Source Software][OSS Icon]](http://sourceforge.net/p/zsh/code/ci/master/tree/)
+- [Fish](https://fishshell.com/) - Um shell de linha de comando inteligente e amigável. [![Open-Source Software][OSS Icon]](https://github.com/fish-shell/fish-shell)
+- [Fisherman](https://github.com/fisherman/fisherman) - Um gerenciador de plugins para o Fish. [![Open-Source Software][OSS Icon]](https://github.com/fisherman/fisherman)
+- [Ipython](https://ipython.org/) - Um poderoso shell para Python. [![Open-Source Software][OSS Icon]](https://github.com/ipython/ipython)
+- [Oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - Fornece vários pacotes e temas para ampliar a funcionalidade do seu Fish shell. [![Open-Source Software][OSS Icon]](https://github.com/oh-my-fish/oh-my-fish)
+- [Oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - Uma excelente estrutura baseada na comunidade para gerenciar sua configuração zsh.  [![Open-Source Software][OSS Icon]](https://github.com/robbyrussell/oh-my-zsh)
+- [Zsh](http://www.zsh.org/) -  Um poderoso shell de linha de comando. [![Open-Source Software][OSS Icon]](http://sourceforge.net/p/zsh/code/ci/master/tree/)
 
 #### Supporting Tools
 - [Cscope](http://cscope.sourceforge.net/) - Cscope is a developer's tool for browsing source code. Although cmd-line application, it is nativelly integrated with Vim editor.  It allows searching code for symbols, definitions, functions (called/calling), regex, files. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/cscope/)
@@ -785,8 +788,8 @@ Ele foi projetado principalmente para ajudar a recuperar partições perdidas e/
 - [Zim](http://zim-wiki.org/) - Um editor de texto gráfico usado para manter uma coleção de páginas wiki, ótimo para documentos e anotações. Armazenado em texto plano para facilitar o controle de versão. [![Open-Source Software][OSS Icon]](https://launchpad.net/zim)
 
 ### Outros
-- [GrubCustomizer](https://launchpad.net/grub-customizer) - Grub Customizer is a graphical interface to configure the GRUB2/BURG settings and menuentries. [![Open-Source Software][OSS Icon]](https://code.launchpad.net/grub-customizer) 
-- [Infinality bundle & fonts](https://bohoomil.com/) - *Pre-note: Infinality is currently not maintained anymore by the creator, if on rolling release operating systems, expect breakage*. Infinality bundle & fonts is an Open Source project aimed at Linux administrators and individual users who are looking for a hassle-free way of improving the quality of font rendering. [![Open-Source Software][OSS Icon]](https://github.com/bohoomil/fontconfig-ultimate) 
+- [GrubCustomizer](https://launchpad.net/grub-customizer) - Grub Customizer is a graphical interface to configure the GRUB2/BURG settings and menuentries. [![Open-Source Software][OSS Icon]](https://code.launchpad.net/grub-customizer)
+- [Infinality bundle & fonts](https://bohoomil.com/) - *Pre-note: Infinality is currently not maintained anymore by the creator, if on rolling release operating systems, expect breakage*. Infinality bundle & fonts is an Open Source project aimed at Linux administrators and individual users who are looking for a hassle-free way of improving the quality of font rendering. [![Open-Source Software][OSS Icon]](https://github.com/bohoomil/fontconfig-ultimate)
 - [Mycroft](https://github.com/MycroftAI/mycroft-core) - A.I. for everyone. [![Open-Source Software][OSS Icon]](https://github.com/MycroftAI/mycroft-core)
 - [Polychromatic](https://github.com/lah7/polychromatic) - Graphical front end and tray applet for configuring Razer peripherals on GNU/Linux. [![Open-Source Software][OSS Icon]](https://github.com/lah7/polychromatic)
 
@@ -933,6 +936,13 @@ Ele foi projetado principalmente para ajudar a recuperar partições perdidas e/
 - [Tips and Tricks](https://wiki.centos.org/TipsAndTricks)
 - [FAQ](https://www.centos.org/forums/faq.php?sid=4e6d260284c7936505dcf75564717272)
 
+### Fedora
+
+- [What is Fedora?](https://docs.fedoraproject.org/fedora-project/project/fedora-overview.html)
+- [Where to download Fedora](https://getfedora.org)
+- [How do I install Fedora?](https://docs.fedoraproject.org/f26/install-guide/install/Preparing_for_Installation.html)
+- [Ask Fedora](https://ask.fedoraproject.org/en/questions/)
+
 ### openSUSE
 
 - [What is openSUSE](https://www.techopedia.com/definition/28543/opensuse)
@@ -968,6 +978,10 @@ Ele foi projetado principalmente para ajudar a recuperar partições perdidas e/
 ### CentOS Forums
 
 * [CentOS Forum](https://www.centos.org/forums/)
+
+### Fedora Forums
+
+* [Fedora Forums](https://forums.fedoraforum.org/index.php)
 
 ### Ubuntu Forums
 
@@ -1012,6 +1026,7 @@ Ele foi projetado principalmente para ajudar a recuperar partições perdidas e/
 
 * [Arch Linux](https://www.reddit.com/r/archlinux/)
 * [CentOS](https://www.reddit.com/r/CentOS/)
+* [Fedora](https://www.reddit.com/r/Fedora/)
 * [Linux](https://www.reddit.com/r/linux/)
 * [Open Source](https://www.reddit.com/r/opensource/)
 * [Ubuntu](https://www.reddit.com/r/Ubuntu/)
@@ -1065,7 +1080,7 @@ Muito obrigado a [**TODOS os contribuintes**](https://github.com/LewisVo/Awesome
 - [What is Markdown?](https://github.com/LewisVo/Markdown-Tutorial) - Markdown is the writing method used to create this list, if you want to know how to format properly, it's best that you learn how to use Github Markdown.
 - [Alternative Markdown Guide:](https://guides.github.com/features/mastering-markdown/)
 
-*Itens marcados com [![open-Source Software][OSS Icon] são software de código aberto e link para o código-fonte. Os itens marcados com ![Nonfree][Money Icon] são não livres (as in nonfree beer) e pode custar dinheiro para poder utilizá-lo.*
+*Itens marcados com ![open-Source Software][OSS Icon] são software de código aberto e link para o código-fonte. Os itens marcados com ![Nonfree][Money Icon] são não livres (as in nonfree beer) e pode custar dinheiro para poder utilizá-lo.*
 
 
 <br>
