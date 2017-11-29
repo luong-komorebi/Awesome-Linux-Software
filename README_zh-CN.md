@@ -468,7 +468,7 @@
 
 ### 实用工具
 - [Actionaz](http://actionaz.org/) - Ubuntu/Linux 下的任务自动化工具。![Freeware][Freeware Icon]
-- [Albert](https://github.com/ManuelSchneid3r/albert/wiki/User-guide#how-to-install-albert) - Linux 桌面超赞的应用启动器。 [![Open-Source Software][OSS Icon]](https://github.com/ManuelSchneid3r/albert) ![Freeware][Freeware Icon]
+- [Albert](https://github.com/albertlauncher/albert) - Linux 桌面超赞的应用启动器。 [![Open-Source Software][OSS Icon]](https://github.com/albertlauncher/albert) ![Freeware][Freeware Icon]
 - [Bleach bit](https://www.bleachbit.org/) - BleachBit 快速释放磁盘空间并不知疲倦地守卫你的隐私。释放缓存，删除 cookie，清除互联网浏览历史，清理临时文件，删除日志，以及更多功能... ![Freeware][Freeware Icon]
 - [Brasero](https://wiki.gnome.org/Apps/Brasero) - CD/DVD 烧录软件。![Freeware][Freeware Icon]
 - [Caffeine](https://launchpad.net/caffeine) - 防止 ubuntu 自动睡眠。![Freeware][Freeware Icon]

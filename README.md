@@ -75,6 +75,7 @@
    - [Reddit](#reddit)
 - [Learn Linux](#learn-linux)
 - [Linux Hacking/Development](#linux-hackingdevelopment)
+- [Advanced Linux](#advanced-linux)
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contributors](#contributors)
 - [Guideline to Contribute](#guideline-to-contribute)
@@ -501,6 +502,7 @@
 - [Heron Animation](https://www.heronanimation.brick-a-brack.com/#download) - A free stop animation making program.
 - [![Open-Source Software][OSS Icon]](https://github.com/inkscape/inkscape) [Inkscape](https://inkscape.org/en/) - A powerful, free design tool for you , whether you are an illustrator, designer, web designer or just someone who needs to create some vector imagery.
 - [![Open-Source Software][OSS Icon]](https://www.kde.org/applications/graphics/karbon/development) [Karbon](https://www.calligra.org/karbon/) - An open source vector drawing program.
+- [![Open-Source Software][OSS Icon]](https://github.com/mbasaglia/Knotter) [Knotter](https://knotter.mattbas.org/Knotter) - A Program designed solely to help design and create Celtic Knots.
 - [![Open-Source Software][OSS Icon]](https://github.com/KDE/krita) [Krita](https://krita.org/en/) - Open Source Software for Concept Artists, Digital Painters, and Illustrators.
 - [![Open-Source Software][OSS Icon]](https://github.com/mypaint/mypaint/releases) [Mypaint](http://mypaint.org/about/) - Mypaint is a paint program for use with graphics tablets.
 - [![Open-Source Software][OSS Icon]](https://github.com/jonata/opendvdproducer) [Open DVD Producer](http://opendvdproducer.jonata.org/) - A modern, open source cross platform software to produce DVD images.
@@ -594,7 +596,8 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/jarun/googler) [googler](https://github.com/jarun/googler) - Google any stuff right in the command line.
 - [Tor](https://www.torproject.org/) - Tor is free software and an open network that helps you defend against traffic analysis, a form of network surveillance that threatens personal freedom and privacy.
 - [![Open-Source Software][OSS Icon]](https://github.com/rg3/youtube-dl) [youtube-dl](https://github.com/rg3/youtube-dl) - It can download videos from youtube.com or other video platforms. It's really awesome, at least for me.
-- [![Open-Source Software][OSS Icon]](https://github.com/MrS0m30n3/youtube-dl-gui) [youtube-dlg](https://mrs0m30n3.github.io/youtube-dl-gui/#downloads) Youtube-dlg is a GUI for youtube-dl and allows for simple copy and paste from all youtube-dl compatible websites. It can auto-update youtube-dl as well as process a list of URL's in parallel.
+- [![Open-Source Software][OSS Icon]](https://github.com/MrS0m30n3/youtube-dl-gui) [youtube-dlg](https://mrs0m30n3.github.io/youtube-dl-gui/#downloads) - Youtube-dlg is a GUI for youtube-dl and allows for simple copy and paste from all youtube-dl compatible websites. It can auto-update youtube-dl as well as process a list of URL's in parallel.
+- [![Open-Source Software][OSS Icon]](https://github.com/zerotier/ZeroTierOne) [Zerotier](https://my.zerotier.com) - Zerotier is a program that creates a Virtual Network for only your devices with end to end encyrption over the internet. By default Zerotier will manage your virtual network but you can switch to a self-managed network if you prefer.
 
 #### Web Service Client
 - [![Open-Source Software][OSS Icon]](https://github.com/baedert/corebird) [Corebird](http://corebird.baedert.org/) - Corebird is native gtk+ twitter desktop client.
@@ -899,6 +902,7 @@
 - [Top 10 command line tools](http://lifehacker.com/399468/top-10-command-line-tools)
 - [![Open-Source Software][OSS Icon]](https://github.com/soimort/translate-shell) [translate-shell](https://www.soimort.org/translate-shell) - Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc.
 - [![Open-Source Software][OSS Icon]](https://itsfoss.com/best-command-line-games-linux/) [Tron](https://itsfoss.com/best-command-line-games-linux/) - Play the best action game, Tron in the command line.
+- [![Open-Source Software][OSS Icon]](https://github.com/jml/undistract-me) [undistract-me](https://github.com/jml/undistract-me) - A command line program that plays a sound or sends a notification when a long command has finished running in the command line.
 - [wicd-curses](https://wiki.archlinux.org/index.php/wicd#Running_Wicd_in_Text_Mode) - Command line WiFi connection manager.
 - [![Open-Source Software][OSS Icon]](https://github.com/rg3/youtube-dl) [youtube-dl](http://rg3.github.io/youtube-dl/) - youtube-dl is a command-line program to download videos from YouTube.com and a few more sites. It requires the Python interpreter (2.6, 2.7, or 3.2+), and it is not platform specific.
 
@@ -941,6 +945,7 @@
 
 ### Compositors
 - [![Open-Source Software][OSS Icon]](https://github.com/chjj/compton) [Compton](https://github.com/chjj/compton/wiki) - Compton is a standalone composite manager, suitable for use with window managers that do not natively provide compositing functionality.
+- [![Open-Source Software][OSS Icon]](https://github.com/swaywm/sway) [Sway](http://swaywm.org) - Sway is tiling Wayland compositor and a drop-in replacement for the i3 window manager for X11.
 - [![Open-Source Software][OSS Icon]](https://cgit.freedesktop.org/xorg/app/xcompmgr) [Xcompmgr](https://cgit.freedesktop.org/xorg/app/xcompmgr) - Xcompmgr is a simple composite manager capable of rendering drop shadows and, with the use of the transset utility, primitive window transparency.
 
 ### Stacking window managers
@@ -968,6 +973,7 @@
 - [Basic Linux terms](http://www.makeuseof.com/tag/linux-confusing-key-terms-definitions/)
 - [Choosing Distro that Suits You Best](http://i.imgur.com/TV21DgN.jpg)
 - [38 Things To Do After Installing Ubuntu](https://www.lifewire.com/things-to-do-installing-ubuntu-2200611)
+- [What do the commands on the command line mean?](https://www.explainshell.com) [![Open-Source Software][OSS Icon]](https://github.com/idank/explainshell)
 
 ### Arch Linux
 
@@ -1106,6 +1112,11 @@
 - [Linux Kernel Internals (PDF)](http://www.tldp.org/LDP/lki/lki.pdf)
 - [Linux Kernel Mailing List Archive](https://lkml.org/)
 - [Linux Kernel Module Programming Guide (PDF)](http://www.tldp.org/LDP/lkmpg/2.6/lkmpg.pdf)
+
+## Advanced Linux
+
+- [Virtual Containers](https://github.com/Citrix-TechSpecialist/Docker-101)
+- [Virtualization with Virtualbox](https://www.virtualbox.org/manual/ch01.html)
 
 ## Other Awesome Lists
 

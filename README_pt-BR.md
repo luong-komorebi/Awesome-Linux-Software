@@ -72,6 +72,8 @@ Duas versões chinesas desta lista estão disponíveis [aqui](https://github.com
     - [Reddit](#reddit)
 - [Learn Linux](#learn-linux)
 - [Linux Hacking/Development](#linux-hackingdevelopment)
+- [Advanced Linux](#advanced-linux)
+- [Other Awesome Lists](#Other-Awesome-Lists)
 - [Contributors](#contributors)
 - [Guideline to Contribute](#guideline-to-contribute)
 
@@ -331,6 +333,7 @@ Ele foi projetado principalmente para ajudar a recuperar partições perdidas e/
 - [Micro](https://micro-editor.github.io/) - Micro is a terminal-based text editor that aims to be easy to use and intuitive, while also taking advantage of the full capabilities of modern terminals. [![Open-Source Software][OSS Icon]](https://github.com/zyedidia/micro)
 
 ### Educação
+- [![Open-Source Software][OSS Icon]](https://apps.ankiweb.net/) [Anki](https://apps.ankiweb.net/) - Powerful, intelligent flash cards which makes remembering things easy.
 - [Artha](http://artha.sourceforge.net/wiki/index.php/Home) - Artha is a free cross-platform English thesaurus that works completely off-line and is based on WordNet. [![Open-Source Software][OSS Icon]](http://artha.sourceforge.net/wiki/index.php/Download#Source)
 - [BibleTime](http://bibletime.info/) - BibleTime is a Bible study application based on the Sword library and Qt toolkit. [![Open-Source Software][OSS Icon]](https://github.com/bibletime/bibletime)
 - [Celestia](http://celestiaproject.net/) - The free space simulation that lets you explore our universe in three dimensions. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/celestia/files/Celestia-source/1.6.1/celestia-1.6.1.tar.gz/download)
@@ -340,6 +343,7 @@ Ele foi projetado principalmente para ajudar a recuperar partições perdidas e/
 - [Gcompris](http://gcompris.net/index-en.html) - GCompris is a high quality educational software suite comprising of numerous activities for children aged 2 to 10. [![Open-Source Software][OSS Icon]](http://gcompris.net/wiki/Developer%27s_corner)
 - [Geogebra](https://www.geogebra.org/download) - The graphing calculator for functions, geometry, algebra, calculus, statistics and 3D mathematics. [![Open-Source Software][OSS Icon]](https://github.com/geogebra/geogebra)
 - [Gnome-dictionary](https://wiki.gnome.org/Apps/Dictionary) - A powerful dictionary for GNOME. [![Open-Source Software][OSS Icon]](https://wiki.gnome.org/Apps/Dictionary)
+- [![Open-Source Software][OSS Icon]](http://opensis.sourceforge.net/) [GNU Octave](http://www.gnu.org/software/octave/) - GNU Octave is a scientific programming language, primarily intended for numerical computations, that is mostly compatible with MATLAB.
 - [GNU Typist](https://www.gnu.org/software/gtypist/index.html) - ncurses-based free-software typing instructor [![Open-Source Software][OSS Icon]](http://ftp.gnu.org/gnu/gtypist/)
 - [GNUKhata](http://www.gnukhata.in/) - Open source accounting software. [![Open-Source Software][OSS Icon]](https://github.com/kinitrupti/GNUKhata)
 - [Google Earth](https://itsfoss.com/install-google-earth-ubunu/) - Google Earth is a virtual globe, map and geographical information program.
@@ -384,6 +388,8 @@ Ele foi projetado principalmente para ajudar a recuperar partições perdidas e/
 - [Midnight Commander](https://www.midnight-commander.org/) - A feature rich full-screen file manager that allows you to copy, move and delete files and whole directory trees. [![Open-Source Software][OSS Icon]](https://github.com/MidnightCommander)
 - [Nautilus](https://wiki.gnome.org/Apps/Nautilus) - Nautilus (Files) is a file manager designed to fit the Gnome desktop design and behaviour, giving the user a simple way to navigate and manage its files. [![Open-Source Software][OSS Icon]](https://github.com/GNOME/nautilus)
 - [Nemo](http://askubuntu.com/questions/294421/how-do-i-install-nemo-file-manager) - Nemo is the file manager for the Cinnamon desktop environment. [![Open-Source Software][OSS Icon]](https://github.com/linuxmint/nemo)
+- [![Open-Source Software][OSS Icon]](https://github.com/jarun/nnn) [nnn](https://github.com/jarun/nnn) - A very lightweight and fast terminal file browser with excellent desktop integration.
+- [![Open-Source Software][OSS Icon]](https://github.com/teejee2008/polo) [Polo](https://github.com/teejee2008/polo) - Polo is a modern, light-weight file manager for Linux with support for multiple panes and tabs; support for archives, and much more.
 - [QDirStat](https://github.com/shundhammer/qdirstat#ubuntu) - Qt-based directory statistics - KDirStat without any KDE, from the original KDirStat author. [![Open-Source Software][OSS Icon]](https://github.com/shundhammer/qdirstat)
 - [Ranger](http://ranger.nongnu.org/) - Ranger is a console file manager with VI key bindings. [![Open-Source Software][OSS Icon]](https://github.com/ranger/ranger)
 - [Thunar](https://apps.ubuntu.com/cat/applications/precise/thunar/) - Thunar is the file manager designed to be the default file manager of Xfce 4.6 It has been designed to be fast and easy to use.
@@ -447,6 +453,7 @@ Ele foi projetado principalmente para ajudar a recuperar partições perdidas e/
 - [Heron Animation](https://www.heronanimation.brick-a-brack.com/#download) - A free stop animation making program.
 - [Inkscape](https://inkscape.org/en/) - A powerful, free design tool for you , whether you are an illustrator, designer, web designer or just someone who needs to create some vector imagery
 - [Karbon](https://www.calligra.org/karbon/) - An open source vector drawing program. [![Open-Source Software][OSS Icon]](https://www.kde.org/applications/graphics/karbon/development)
+- [![Open-Source Software][OSS Icon]](https://github.com/mbasaglia/Knotter) [Knotter](https://knotter.mattbas.org/Knotter) - A Program designed solely to help design and create Celtic Knots.
 - [Krita](https://krita.org/en/) - Open Source Software for Concept Artists, Digital Painters, and Illustrators[![Open-Source Software][OSS Icon]](https://github.com/KDE/krita)
 - [Mypaint](http://mypaint.org/about/) - Mypaint is a paint program for use with graphics tablets.  [![Open-Source Software][OSS Icon]](https://github.com/mypaint/mypaint/releases)
 - [Open DVD Producer](http://opendvdproducer.jonata.org/) - A modern, open source cross platform software to produce DVD images.  [![Open-Source Software][OSS Icon]](https://github.com/jonata/opendvdproducer)
@@ -536,7 +543,8 @@ Ele foi projetado principalmente para ajudar a recuperar partições perdidas e/
 - [Clipgrab](https://clipgrab.org/) - A friendly downloader for YouTube and other sites.
 - [Tor](https://www.torproject.org/) - Tor is free software and an open network that helps you defend against traffic analysis, a form of network surveillance that threatens personal freedom and privacy.
 - [youtube-dl](https://github.com/rg3/youtube-dl) - It can download videos from youtube.com or other video platforms. It's really awesome, at least for me.  [![Open-Source Software][OSS Icon]](https://github.com/rg3/youtube-dl)
-- [youtube-dlg](https://mrs0m30n3.github.io/youtube-dl-gui/#downloads) Youtube-dlg is a GUI for youtube-dl and allows for simple copy and paste from all youtube-dl compatible websites. It can auto-update youtube-dl as well as process a list of URL's in parallel. [![Open-Source Software][OSS Icon]](https://github.com/MrS0m30n3/youtube-dl-gui)
+- [youtube-dlg](https://mrs0m30n3.github.io/youtube-dl-gui/#downloads) - Youtube-dlg is a GUI for youtube-dl and allows for simple copy and paste from all youtube-dl compatible websites. It can auto-update youtube-dl as well as process a list of URL's in parallel. [![Open-Source Software][OSS Icon]](https://github.com/MrS0m30n3/youtube-dl-gui)
+- [![Open-Source Software][OSS Icon]](https://github.com/zerotier/ZeroTierOne) [Zerotier](https://my.zerotier.com) - Zerotier is a program that creates a Virtual Network for only your devices with end to end encyrption over the internet. By default Zerotier will manage your virtual network but you can switch to a self-managed network if you prefer.
 
 #### Web Service Client
 - [Corebird](http://corebird.baedert.org/) - corebird is native gtk+ twitter desktop client.  [![Open-Source Software][OSS Icon]](https://github.com/baedert/corebird)
@@ -591,7 +599,7 @@ Ele foi projetado principalmente para ajudar a recuperar partições perdidas e/
 - [Plank](https://launchpad.net/plank) - Plank is meant to be the simplest dock of apps on the planet. [![Open-Source Software][OSS Icon]](https://code.launchpad.net/plank)
 
 #### Local Search
-- [Albert](https://github.com/ManuelSchneid3r/albert/wiki/User-guide#how-to-install-albert) - An awesome application launcher for the Linux desktop [![Open-Source Software][OSS Icon]](https://github.com/ManuelSchneid3r/albert)
+- [Albert](https://github.com/albertlauncher/albert) - An awesome application launcher for the Linux desktop [![Open-Source Software][OSS Icon]](https://github.com/albertlauncher/albert)
 - [AngrySearch](https://github.com/DoTheEvo/ANGRYsearch) - Linux file search, instant results as you type. [![Open-Source Software][OSS Icon]](https://github.com/DoTheEvo/ANGRYsearch)
 - [Catfish](https://launchpad.net/catfish-search) - Catfish is a versatile file searching tool. [![Open-Source Software][OSS Icon]](https://code.launchpad.net/catfish-search)
 - [Cerebro](https://cerebroapp.com/) - Open-source productivity booster with a brain / MacOS-Spotlight alternative. [![Open-Source Software][OSS Icon]](https://github.com/KELiON/cerebro)
@@ -626,6 +634,7 @@ Ele foi projetado principalmente para ajudar a recuperar partições perdidas e/
 #### Time and Task
 - [Alarm Clock](http://alarm-clock.pseudoberries.com/) - Alarm Clock is a fully-featured alarm clock for your GNOME panel or equivalent.  [![Open-Source Software][OSS Icon]](http://bazaar.launchpad.net/~joh/alarm-clock/trunk/files)
 - [California](https://wiki.gnome.org/Apps/California) - Complete Calendar app replacement which uses natural language for creating events.
+- ![Nonfree][Money Icon] [Everdo](https://everdo.net/linux) - TODO list and Getting Things Done® app for all platforms. Beautiful, powerful, not SaaS, free version available.
 - [Gnome Pomodoro](http://gnomepomodoro.org/#download) - A full-featured pomodoro timer for GNOME. [![Open-Source Software][OSS Icon]](https://github.com/codito/gnome-pomodoro)
 - [Go For It](http://manuel-kehl.de/projects/go-for-it/) - Go For It! is a simple and stylish productivity app, featuring a to-do list, merged with a timer that keeps your focus on the current task.
 - [My Todo](https://github.com/mohamed-aziz/mytodo) - Mytodo is an open source to-do list program that puts you, the user, in command of everything. [![Open-Source Software][OSS Icon]](https://github.com/mohamed-aziz/mytodo)
@@ -735,6 +744,7 @@ Ele foi projetado principalmente para ajudar a recuperar partições perdidas e/
 - [indicator-cpufreq](https://launchpad.net/indicator-cpufreq) -  It provides the same functionality as the Gnome CPU frequency applet, but doesn't require Gnome panel and works under Unity.
 - [indicator-multiload](https://launchpad.net/ubuntu/+source/indicator-multiload) - Graphical system load indicator for CPU, ram, etc.
 - [Indicator-SysMonitor](https://github.com/fossfreedom/indicator-sysmonitor) - An Application Indicator showing cpu temperature, memory, network speed, cpu usage,  public IP address and internet connection status. [![Open-Source Software][OSS Icon]](https://github.com/fossfreedom/indicator-sysmonitor)
+- [![Open-Source Software][OSS Icon]](https://github.com/KDE/kdeconnect-kde) [KDE-Connect](https://community.kde.org/KDEConnect) - A tool, that allows one to integrate the Linux desktop with an Android smartphone and can be used to send files to and from the phone and the linux desktop, use the phone as a trackpad, control the desktop media player using the phone, and lots more.
 - [KeePassXC](https://keepassxc.org/) - Cross platform password manager. A Community-maintained fork of KeePassX([dead](https://github.com/keepassx/keepassx/pull/204)) [![Open-Source Software][OSS Icon]](https://github.com/keepassxreboot/keepassxc)
 - [KeePass](https://www.keepass.info/) - Windows focused password manager, with some cross platform support through Mono.  
 - [KeeWeb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass [![Open-Source Software][OSS Icon]](https://github.com/keeweb/keeweb)
@@ -826,6 +836,7 @@ Ele foi projetado principalmente para ajudar a recuperar partições perdidas e/
 - [Tmux](https://tmux.github.io/) - It lets you switch easily between several programs in one terminal, detach them (they keep running in the background) and reattach them to a different terminal. And do a lot more. [![Open-Source Software][OSS Icon]](https://github.com/tmux/tmux)
 - [Top 10 command line tools](http://lifehacker.com/399468/top-10-command-line-tools)
 - [Tron](https://itsfoss.com/best-command-line-games-linux/) - Play the best action game, Tron in the command line. [![Open-Source Software][OSS Icon]](https://itsfoss.com/best-command-line-games-linux/)
+- [![Open-Source Software][OSS Icon]](https://github.com/jml/undistract-me) [undistract-me](https://github.com/jml/undistract-me) - A command line program that plays a sound or sends a notification when a long command has finished running in the command line.
 - [wicd-curses](https://wiki.archlinux.org/index.php/wicd#Running_Wicd_in_Text_Mode) - Command line WiFi connection manager.
 - [youtube-dl](http://rg3.github.io/youtube-dl/) - youtube-dl is a command-line program to download videos from YouTube.com and a few more sites. It requires the Python interpreter (2.6, 2.7, or 3.2+), and it is not platform specific. [![Open-Source Software][OSS Icon]](https://github.com/rg3/youtube-dl)
 
@@ -897,8 +908,9 @@ Ele foi projetado principalmente para ajudar a recuperar partições perdidas e/
 ### Tiling window managers
 - [Bspwm](https://github.com/baskerville/bspwm/wiki) - bspwm is a tiling window manager that represents windows as the leaves of a full binary tree. [![Open-Source Software][OSS Icon]](https://github.com/baskerville/bspwm)
 - [Herbstluftwm](https://herbstluftwm.org) - Manual tiling window manager for X11 using Xlib and Glib. [![Open-Source Software][OSS Icon]](https://github.com/herbstluftwm/herbstluftwm)
-- [Qtile](http://www.qtile.org/) - qtile is a full-featured, hackable tiling window manager written and configured in Python [![Open-Source Software][OSS Icon]](https://github.com/qtile/qtile)
 - [i3 WM](https://i3wm.org/) - A better tiling and dynamic window manager. It's completely written from scratch. The target platforms are GNU/Linux and BSD operating systems. [![Open-Source Software][OSS Icon]](https://github.com/i3/i3)
+- [Qtile](http://www.qtile.org/) - qtile is a full-featured, hackable tiling window manager written and configured in Python [![Open-Source Software][OSS Icon]](https://github.com/qtile/qtile)
+- [![Open-Source Software][OSS Icon]](https://github.com/swaywm/sway) [Sway](http://swaywm.org) - Sway is tiling Wayland compositor and a drop-in replacement for the i3 window manager for X11.
 
 ### Dynamic window managers
 - [awesome](https://awesomewm.org) - Highly configurable, next generation framework window manager for X. [![Open-Source Software][OSS Icon]](https://github.com/awesomeWM/awesome)
@@ -913,6 +925,7 @@ Ele foi projetado principalmente para ajudar a recuperar partições perdidas e/
 - [Basic Linux term](http://www.makeuseof.com/tag/linux-confusing-key-terms-definitions/)
 - [Choosing Distro that Suits You Best](http://i.imgur.com/TV21DgN.jpg)
 - [38 Things To Do After Installing Ubuntu](https://www.lifewire.com/things-to-do-installing-ubuntu-2200611)
+- [What do the commands on the command line mean?](https://www.explainshell.com) [![Open-Source Software][OSS Icon]](https://github.com/idank/explainshell)
 
 ### Arch Linux
 
@@ -1052,6 +1065,18 @@ Ele foi projetado principalmente para ajudar a recuperar partições perdidas e/
 - [Linux Kernel Internals (PDF)](http://www.tldp.org/LDP/lki/lki.pdf)
 - [Linux Kernel Mailing List Archive](https://lkml.org/)
 - [Linux Kernel Module Programming Guide (PDF)](http://www.tldp.org/LDP/lkmpg/2.6/lkmpg.pdf)
+
+## Advanced Linux
+
+- [Virtual Containers](https://github.com/Citrix-TechSpecialist/Docker-101)
+- [Virtualization with Virtualbox](https://www.virtualbox.org/manual/ch01.html)
+
+## Other Awesome Lists
+
+*These are the list that I highly recommended:*
+- [Awesome Linux Audio](https://github.com/nodiscc/awesome-linuxaudio)
+- [Awesome Self-hosted](https://github.com/kickball/awesome-selfhosted)
+- [Awesome Sysadmin](https://github.com/n1trux/awesome-sysadmin)
 
 ## Contribuintes
 
