@@ -425,7 +425,7 @@
 
 
 ### File Manager
-- [![Open-Source Software][OSS Icon]](https://github.com/pornel/7z) [7Zip](http://www.7-zip.org/download.html) - A vary capable program that can unzip nearly any file archiving format.
+- [![Open-Source Software][OSS Icon]](https://github.com/pornel/7z) [7Zip](http://www.7-zip.org/download.html) - A very capable program that can unzip nearly any file archiving format.
 - [![Open-Source Software][OSS Icon]](https://github.com/mate-desktop/caja) [Caja](https://mate-desktop.org/) - Is the default file manager for the MATE desktop environment, it is very fast and simple to use.
 - [![Open-Source Software][OSS Icon]](https://github.com/KDE/dolphin) [Dolphin](https://userbase.kde.org/Dolphin) - Dolphin is the default file manager of the KDE desktop environment featuring usability as well as functionality.
 - [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/doublecmd/) [Double Commander](http://doublecmd.sourceforge.net/) - Double Commander is a cross platform open source file manager with two panels side by side. It is inspired by Total Commander and features some new ideas.
