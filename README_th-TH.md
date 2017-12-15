@@ -153,7 +153,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/yakyak/yakyak) [YakYak](https://github.com/yakyak/yakyak) -  โปรแกรมสนทนา Google Hangouts บนเดสก์ท็อป
 
 #### All-in-One Client
-- [Franz](http://meetfranz.com/) - Franz แอปส่งข้อความฟรี โดยรวมทั้งการสนทนาและการส่งข้อความอยู่ในแอปพลิเคชันเดียว
+- [![Open-Source-Software][OSS Icon]](https://github.com/meetfranz/franz) [Franz](http://meetfranz.com/) - Franz แอปส่งข้อความฟรี โดยรวมทั้งการสนทนาและการส่งข้อความอยู่ในแอปพลิเคชันเดียว
 - [![Open-Source Software][OSS Icon]](https://developer.pidgin.im/) [Pidgin](https://pidgin.im/) - โปรแกรมสนทนาครอบจักรวาล
 - [![Open-Source Software][OSS Icon]](https://github.com/saenzramiro/rambox) [Rambox](http://rambox.pro/) - แพลตฟอร์มสำหรับส่งข้อความและอีเมล โดยรวมความสามารถของเว็บแอปต่างๆ เข้ามาเป็นหนึ่งเดียว
 
