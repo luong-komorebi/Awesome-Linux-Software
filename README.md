@@ -568,6 +568,7 @@
 - [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/minidlna) [ReadyMedia](http://minidlna.sourceforge.net/) - Formerly known as **MiniDLNA**, ReadyMedia is a is a simple, lightweight media server software, with the aim of being fully compliant with DLNA/UPnP-AV clients. The MiniDNLA daemon serves media files (music, pictures, and video) to clients on a network such as smartphones, portable media players, televisions, other computers and some gaming systems.
 
 #### Video editor
+- [![Open-Source Software][OSS Icon]](https://git.cinelerra-cv.org/gitweb?p=CinelerraCV.git;a=summary) [Cinelerra-cv](http://cinelerra.org/) - Professional video editing and compositing environment.
 - [![Open-Source Software][OSS Icon]](https://github.com/jliljebl/flowblade) [Flowblade](https://github.com/jliljebl/flowblade/releases/tag/1.12.2) - A multitrack non-linear video editor for Linux.
 - [![Open-Source Software][OSS Icon]](https://github.com/KDE/kdenlive) [Kdenlive](https://kdenlive.org/) - Kdenlive is a Non-Linear Video Editor, which is much more powerful than beginners’ (linear) editors.
 - ![Nonfree][Money Icon] [Lightworks](https://www.lwks.com/) - Professional non-linear video editing program with a free version available.
@@ -769,11 +770,12 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/GNOME) [GnomeTerminal](https://help.gnome.org/users/gnome-terminal/stable/) - A widely preinstalled terminal emulator in Linux world.
 - [![Open-Source Software][OSS Icon]](https://github.com/Guake/guake) [Guake](http://guake.org/) - Guake is a top-down terminal for Gnome.
 - [![Open-Source Software][OSS Icon]](https://github.com/zeit/hyper) [Hyper](https://hyper.is/) - A terminal built on web technologies.
+- [![Open-Source Software][OSS Icon]](https://github.com/kovidgoyal/kitty) [Kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature full, OpenGL based terminal emulator.
 - [![Open-Source Software][OSS Icon]](https://github.com/KDE/konsole) [Konsole](https://konsole.kde.org/) - An alternative terminal emulator for KDE desktop environment.
 - [![Open-Source Software][OSS Icon]](rxvt.http://cvs.schmorp.de/rxvt-unicode/) [RXVT-Unicode](http://software.schmorp.de/pkg/rxvt-unicode.html) - rxvt-unicode is a fork of the well known terminal emulator.
 - [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/rxvt/) [RXVT](http://rxvt.sourceforge.net/) - A terminal emulator for X11, a popular replacement for the standard ‘xterm’.
 - [![Open-Source Software][OSS Icon]](https://launchpad.net/sakura) [Sakura](https://launchpad.net/sakura) - Simple but powerful libvte based terminal emulator, supporting utf-8 and input methods as provided by gtk+ and pango libraries.
-- [Terminator](http://gnometerminator.blogspot.com/p/introduction.html) - It’s quite clear that the most powerful terminal emulator on Linux is the feature-filled Terminator.
+- [![Open-Source Software][OSS Icon]](https://launchpad.net/terminator) [Terminator](http://gnometerminator.blogspot.com/p/introduction.html) - Feature filled terminal emulator that supports tabs and grids.
 - [![Open-Source Software][OSS Icon]](https://github.com/billiob/terminology) [Terminology](https://www.enlightenment.org/about-terminology) - The pretty and lightweight terminal from the Enlightenment Desktop, it's highly configurable, it works in X11, under a Wayland compositor and even directly in the framebuffer on Linux. Replace your boring text-mode VT with a graphical one that requires no display system.
 - [![Open-Source Software][OSS Icon]](https://github.com/Eugeny/terminus) [Terminus](https://eugeny.github.io/terminus/) - modern, highly configurable terminal app based on web technologies.
 - [![Open-Source Software][OSS Icon]](https://github.com/thestinger/termite) [Termite](https://github.com/thestinger/termite) - A keyboard-centric VTE-based terminal, aimed at use within a window manager with tiling and/or tabbing support.
