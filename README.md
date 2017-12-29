@@ -589,7 +589,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/minbrowser/min) [Min](https://minbrowser.github.io/min) - A smarter, faster web browser.
 - [Opera](http://www.opera.com/) - Opera browser is everything you need to do more on the web.
 - [![Open-Source Software][OSS Icon]](https://github.com/qutebrowser/qutebrowser) [QuteBrowser](https://www.qutebrowser.org/) - A keyboard-driven, vim-like browser based on PyQt5.
-- [![Open-Source Software][OSS Icon]](https://vivaldi.com/source/?lang=en) [Vivaldi](https://vivaldi.com/?lang=en) - A new and rising browser with a lot of customizations.
+- [Vivaldi](https://vivaldi.com/?lang=en) - A new and rising browser with a lot of customizations.
 - [Yandex](https://browser.yandex.com/desktop/main/) - Fast and convenient browser.
 
 #### Supportive Tool
