@@ -112,6 +112,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/gpodder/gpodder) [Gpodder](https://gpodder.github.io/) - Un agregador de podcasts y cliente.
 - [![Open-Source Software][OSS Icon]](https://github.com/haecker-felix/gradio/releases/) [GRadio](https://github.com/haecker-felix/gradio/releases/) - Software de radio para Linux Ubuntu.
 - [![Open-Source Software][OSS Icon]](https://github.com/vincelwt/harmony) [Harmony](http://getharmony.xyz) - Un Reproductor de medios con una bonita interfaz & compatibilidad la nube.
+- [![Open-Source Software][OSS Icon]](https://github.com/mtytel/helm) [Helm](http://tytel.org/helm/) - Un Sintetizador en Software, que puede funcionar solo o con muchos complementos como: LV2, VST, VST3 o AU plugin.
 - [![Open-Source Software][OSS Icon]](https://github.com/hydrogen-music/hydrogen) [Hydrogen](http://www.hydrogen-music.org/hcms/node/21) - Uno caja de ritmos avanzado para GNU/Linux.
 - [![Open-Source Software][OSS Icon]](https://github.com/KDE/k3b) [K3b](http://www.k3b.org/) - Un creador de CD y DVD para linux, optimizado para KDE.
 - [Kid3Qt](https://apps.ubuntu.com/cat/applications/precise/kid3-qt/) - Para editar etiquetas de archivos, por ejemplo el nombre del artista, el álbum, el género y el año de los archivos de música.
@@ -160,6 +161,8 @@
 
 #### Clientes todo en uno
 - [![Open-Source-Software][OSS Icon]](https://github.com/meetfranz/franz) [Franz](http://meetfranz.com/) - Franz es un programa de mensajería que agrega muchos servicios de mensajería instantánea.
+- [![Open-Source-Software][OSS Icon]](https://github.com/lanmessenger/lanmessenger) [Lan Messenger](https://lanmessenger.github.io) -
+Lan Messenger es una aplicación de código abierto y gratuito que permite a los anfitriónes de Linux, Mac OS y Windows enviar mensajes instantáneos a través de una LAN.
 - [![Open-Source Software][OSS Icon]](https://developer.pidgin.im/) [Pidgin](https://pidgin.im/) - Un cliente de mensajería instantánea que es universal.
 - [![Open-Source Software][OSS Icon]](https://github.com/saenzramiro/rambox) [Rambox](http://rambox.pro/) - Un programa que es libre y de código abierto, Rambox agrega mensajería instantánea y correo electrónico en un solo lugar.
 
@@ -391,10 +394,12 @@
 - [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/klavaro) [Klavaro](http://klavaro.sourceforge.net/en/index.html) - Un programa que te enseña cómo escribir sin mirar el teclado. También le puede enseñar cómo escribir en las nuevas disposiciones de teclado.
 - [![Open-Source Software][OSS Icon]](https://github.com/KDE/ktouch) [Ktouch](https://github.com/KDE/ktouch) - KTouch es un programa que te enseña a escribir sin mirar el teclado.
 - ![Nonfree][Money icon] [MAPLE](http://www.maplesoft.com/products/maple/) - Maple es un software de matemáticas que es muy capaz, y tiene una interfaz fácil de usar para ayudar a explicar los problemas de matemáticas.
+- ![Nonfree][Money icon] [MapTiler](https://www.maptiler.com/) - MapTiler crea un mapa ráster ampliable a partir de imágenes en un sistema de coordenadas definido por el usuario.
 - ![Nonfree][Money icon] [MATLAB](http://www.mathworks.com/products/matlab/?requestedDomain=www.mathworks.com) - Matlab es un programa diseñado para resolver problemas de ingeniería y científicos. Le permite ejecutar análisis sobre los problemas con los equipos, o incluso los clústeres de computadora.
 - [![Open-Source Software][OSS Icon]](http://maxima.sourceforge.net/project.html) [Maxima](http://maxima.sourceforge.net/) - Maxima es un programa que te permite trabajar con expresiones simbólicas y numéricas. Esto incluye: diferenciación, integración, serie de Taylor, transformadas de Laplace, ecuaciones diferenciales ordinarias y sistemas de ecuaciones lineales.
 - [![Open-Source Software][OSS Icon]](https://github.com/moodle/moodle) [Moodle](https://download.moodle.org/) - Un sistema de gestión escolar para el aprendizaje en línea.
 - [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/openeuclide/) [OpenEuclid](http://coulon.publi.free.fr/openeuclide/) - OpenEuclide es un software de geometría de 2 dimensiones: y puede mostrar cifras dinámicamente dándole fórmulas.
+- [![Open-Source Software][OSS Icon]](https://github.com/openmaptiles) [OpenMapTiles](https://openmaptiles.org/) - OpenMapTiles es un conjunto de herramientas de código abierto para autohospedaje de OpenStreetMaps en más de 50 idiomas.
 - [OpenSIS](http://www.opensis.com/home) - Un software de administración escolar que ayuda a los estudiantes a tener éxito, y puede decirte cómo están haciendo los maestros.
 - [![Open-Source Software][OSS Icon]](http://pari.math.u-bordeaux.fr/cgi-bin/gitweb.cgi?p=pari.git;a=summary) [PARI/GP](http://pari.math.u-bordeaux.fr/) - Un programa para Algebra que es muy rápido, y trabaja con la teoría numérica.
 - [![Open-Source Software][OSS Icon]](https://git.sagemath.org/sage.git/) [SageMath](http://www.sagemath.org/) - Un software matemático que puede trabajar con álgebra, combinatoria, matemática numérica, teoría numérica y cálculo.
@@ -438,54 +443,55 @@
 ### Juegos
 
 #### Videojuego de estrategia en tiempo real
-- ![Open-Source Software][OSS Icon] [Warzone 2100](https://www.wz2100.net/) - Un juego que es de código abierto, es una estrategia en tiempo real que sucede después de una guerra nuclear.
-- ![Open-Source Software][OSS Icon] [Nethack](https://www.nethack.org/) - Un videojuego roguelike que es de código abierto y usa gráficos ASCII.
-- ![Open-Source Software][OSS Icon] [OpenRA](http://www.openra.net/) - Una selección de juegos clásicos de estrategia que es de código abierto.
-- ![Open-Source Software][OSS Icon] [Widelands](https://wl.widelands.org/) - Widelands es un juego de estrategia en tiempo real que tiene juego para un solo jugador y multijugador. Está inspirado en el juego: Settlers II.
-- ![Open-Source Software][OSS Icon] [0 AD](https://play0ad.com/) - Un juego que es mucho como "Age of Empires", pero es de código abierto, y sobre la guerra antigua.
-- ![Open-Source Software][OSS Icon] [TripleA](http://www.triplea-game.org/) - Un juego de estrategia de código abierto que es como "Axis and Allies".
-
+- [![Open-Source Software][OSS Icon]](http://releases.wildfiregames.com/) [0 AD](https://play0ad.com/) - Un juego que es mucho como "Age of Empires", pero es de código abierto, y sobre la guerra antigua.
+- [![Open-Source Software][OSS Icon]](https://sourceforge.net/p/nethack/NetHack/ci/NetHack-3.6.0/tree/) [Nethack](https://www.nethack.org/) - Un videojuego roguelike que es de código abierto y usa gráficos ASCII.
+- [![Open-Source Software][OSS Icon]](https://github.com/triplea-game/triplea/) [TripleA](http://www.triplea-game.org/) - Un juego de estrategia de código abierto que es como "Axis and Allies".
+- [![Open-Source Software][OSS Icon]](https://github.com/Warzone2100/warzone2100) [Warzone 2100](https://www.wz2100.net/) - Un juego que es de código abierto, es una estrategia en tiempo real que sucede después de una guerra nuclear.
+- [![Open-Source Software][OSS Icon]](https://bazaar.launchpad.net/~widelands-dev/widelands/trunk/changes) [Widelands](https://wl.widelands.org/) - Widelands es un juego de estrategia en tiempo real que tiene juego para un solo jugador y multijugador. Está inspirado en el juego: Settlers II.
 
 #### Videojuego de estrategia por turnos
-- ![Open-Source Software][OSS Icon] [Battle for Wesnoth](https://wesnoth.org/) - El Battle for Wesnoth es una fuente abierta, tiene un tema de Alta fantasía. Tiene un solo jugador y un modo multijugador.
-- ![Open-Source Software][OSS Icon] [FreeCiv](http://www.freeciv.org/) - Freeciv es un juego de estrategia de construcción de imperio de código abierto inspirado en la historia humana.
+- [![Open-Source Software][OSS Icon]](https://github.com/wesnoth/wesnoth) [Battle for Wesnoth](https://wesnoth.org/) - El Battle for Wesnoth es una fuente abierta, tiene un tema de Alta fantasía. Tiene un solo jugador y un modo multijugador.
+- [![Open-Source Software][OSS Icon]](https://github.com/freeciv/freeciv) [FreeCiv](http://www.freeciv.org/) - Freeciv es un juego de estrategia de construcción de imperio de código abierto inspirado en la historia humana.
 
 #### Videojuego de construcción de ciudades
-- ![Open-Source Software][OSS Icon] [Unknown Horizons](http://unknown-horizons.org/) - Es un juego 2D estrategia en tiempo real, donde se construye una ciudad y economía.
-- ![Open-Source Software][OSS Icon] [OpenTTD](hptts://www.openttd.org) - Un clon de código abierto de "Transport Tycoon Plus" con muchas mejoras que el original.
-- ![Open-Source Software][OSS Icon] [Simutrans](https://www.simutrans.com) - Simutrans es un simulador de transporte de código abierto.
+- [![Open-Source Software][OSS Icon]](https://svn.openttd.org/trunk/) [OpenTTD](hptts://www.openttd.org) - Un clon de código abierto de "Transport Tycoon Plus" con muchas mejoras que el original.
+- [![Open-Source Software][OSS Icon]](https://github.com/aburch/simutrans) [Simutrans](https://www.simutrans.com) - Simutrans es un simulador de transporte de código abierto.
+- [![Open-Source Software][OSS Icon]](https://github.com/unknown-horizons/unknown-horizons) [Unknown Horizons](http://unknown-horizons.org/) - Es un juego 2D estrategia en tiempo real, donde se construye una ciudad y economía.
 
 #### Videojuego de disparos en primera persona
-- [![Open-Source Software][OSS Icon] [Xonotic](http://www.xonotic.org/) - Es un juego inspirado en "Unreal Tournament" y "Quake".
-- [![Open-Source Software][OSS Icon] [Red Eclipse](https://redeclipse.net/) - Red Eclipse es un entretenido juego de tiro en primera persona. Tiene un tema de agilidad y velocidad.
-- [![Open-Source Software][OSS Icon] [Urban Terror](http://www.urbanterror.info) - Un juego de disparos tácticos que se basa en el realismo, pero no siempre.
-- [![Open-Source Software][OSS Icon] [Zandronum](http://zandronum.com/) - Un juego que es como "Doom", pero en línea y con muchas más características.
+- [![Open-Source Software][OSS Icon]](https://github.com/red-eclipse/base) [Red Eclipse](https://redeclipse.net/) - Red Eclipse es un entretenido juego de tiro en primera persona. Tiene un tema de agilidad y velocidad.
+- [![Open-Source Software][OSS Icon]] [Urban Terror](http://www.urbanterror.info) - Un juego de disparos tácticos que se basa en el realismo, pero no siempre.
+- [![Open-Source Software][OSS Icon]](https://gitlab.com/groups/xonotic) [Xonotic](http://www.xonotic.org/) - Es un juego inspirado en "Unreal Tournament" y "Quake".
+- [![Open-Source Software][OSS Icon]](https://bitbucket.org/Torr_Samaho/zandronum) [Zandronum](http://zandronum.com/) - Un juego que es como "Doom", pero en línea y con muchas más características.
 
 #### JDR
-- ![Open-Source Software][OSS Icon] [Tales of Maj'Eyal](https://te4.org/) - Tales of Maj’Eyal (ToME) es una exploración de mazmorras de código abierto JDR, que tiene un combate basado en turnos, y la construcción de personajes.
-- ![Open-Source Software][OSS Icon] [Zelda Classic](http://www.zeldaclassic.com/) - Un homenaje al juego de Nintendo "The Legend of Zelda".
-- ![Open-Source Software][OSS Icon] [Zelda: Mystery of Solarus DX](http://www.solarus-games.org) - Una secuela de "La leyenda de Zelda: un vínculo con el pasado" tiene los mismos gráficos, y utiliza la misma mecánica de juego.
+- [![Open-Source Software][OSS Icon]] [Tales of Maj'Eyal](https://te4.org/) - Tales of Maj’Eyal (ToME) es una exploración de mazmorras de código abierto JDR, que tiene un combate basado en turnos, y la construcción de personajes.
+- [![Open-Source Software][OSS Icon]] [Zelda Classic](http://www.zeldaclassic.com/) - Un homenaje al juego de Nintendo "The Legend of Zelda".
+- [![Open-Source Software][OSS Icon]] [Zelda: Mystery of Solarus DX](http://www.solarus-games.org) - Una secuela de "La leyenda de Zelda: un vínculo con el pasado" tiene los mismos gráficos, y utiliza la misma mecánica de juego.
 
 #### Vario
-- ![Open-Source Software][OSS Icon] [Cockatrice](https://cockatrice.github.io/) - Cockatrice es un programa multiplataforma de código abierto para jugar juegos de cartas en una red o en Internet.
-- [Minecraft](https://minecraft.net) - Minecraft es un juego sobre la colocación de bloques y la construcción de un mundo entero. Ha generado al azar mundos que son masivos en tamaño, donde se puede construir cualquier cosa.
-- ![Open-Source Software][OSS Icon] [Minetest](https://minetest.net) - Una versión de código abierto de "Minecraft" que está escrito en C ++ y tiene una API de modificación.
-- ![Open-Source Software][OSS Icon] [Mudlet](mudlet.org) - Un cliente multiplataforma y de código abierto para texto solo videojuego de rol multijugador masivo en línea.
+- [![Open-Source Software][OSS Icon]] [Cockatrice](https://cockatrice.github.io/) - Cockatrice es un programa multiplataforma de código abierto para jugar juegos de cartas en una red o en Internet.
+- ![Nonfree][Money icon] [Minecraft](https://minecraft.net) - Minecraft es un juego sobre la colocación de bloques y la construcción de un mundo entero. Ha generado al azar mundos que son masivos en tamaño, donde se puede construir cualquier cosa.
+- [![Open-Source Software][OSS Icon]](https://github.com/minetest/minetest/) [Minetest](https://minetest.net) - Una versión de código abierto de "Minecraft" que está escrito en C ++ y tiene una API de modificación.
+- [![Open-Source Software][OSS Icon]] [Mudlet](mudlet.org) - Un cliente multiplataforma y de código abierto para texto solo videojuego de rol multijugador masivo en línea.
 - [OhMyGiraffe](https://ohmygiraffe.com) - Un juego sobre la supervivencia, donde usted es una jirafa siendo perseguido por los leones.
 - [![Open-Source Software][OSS Icon]](https://github.com/alpcoskun/snake) [Snake Game](https://alpcoskun.com/snake/) - Un juego multiplataforma "snake" que está escrito en Node.js.
-- ![Open-Source Software][OSS Icon] [SuperTuxKart](https://supertuxkart.net) - SuperTuxKart es un juego de carreras de código abierto 3D con una variedad de pistas y modos para jugar.
+- [![Open-Source Software][OSS Icon]](https://github.com/supertuxkart/stk-code) [SuperTuxKart](https://supertuxkart.net) - SuperTuxKart es un juego de carreras de código abierto 3D con una variedad de pistas y modos para jugar.
 
 #### Re-creaciones de motor de juegos de video (Requiere el juego real)
-- ![Open-Source Software][OSS Icon] [OpenMW](http://openmw.org) - Una recreación del motor para el juego "Morrowind" Puede hacer más que el original, y puede jugar el juego real también.
-- ![Open-Source Software][OSS Icon] [OpenRCT2](https://openrct2.website/) - Una recreación del "Roller Coaster Tycoon 2" motor que requiere el juego original para jugar.
-- ![Open-Source Software][OSS Icon] [NXEngine](http://nxengine.sourceforge.net/) - Una versión de "Cave Story" que funciona en Linux.
+- [![Open-Source Software][OSS Icon]](https://github.com/SFTtech/openage) [openage](http://openage.sft.mx/) - un software libre e codigo abierto, este es un clon de Age of Empires, requiere compilación.
+- [![Open-Source Software][OSS Icon]] [OpenMW](http://openmw.org) - Una recreación del motor para el juego "Morrowind" Puede hacer más que el original, y puede jugar el juego real también.
+- [![Open-Source Software][OSS Icon]] [OpenRA](http://www.openra.net/) - Una selección de juegos clásicos de estrategia que es de código abierto.
+- [![Open-Source Software][OSS Icon]] [OpenRCT2](https://openrct2.website/) - Una recreación del "Roller Coaster Tycoon 2" motor que requiere el juego original para jugar.
+- [![Open-Source Software][OSS Icon]] [NXEngine](http://nxengine.sourceforge.net/) - Una versión de "Cave Story" que funciona en Linux.
 
 #### Aplicaciones de juego
-- ![Open-Source Software][OSS Icon] [Wine](https://www.winehq.org/) - Wine ("Wine Is Not an Emulator") es una capa de compatibilidad que permite que las aplicaciones de Windows funcionen en Linux. Los resultados dependen del programa que se esté utilizando.
-- ![Open-Source Software][OSS Icon] [PlayOnLinux](https://www.playonlinux.com) - Un programa que hace que "WINE" sea más fácil de usar.
-- [Steam](steampowered.com) - Una tienda de juegos donde puedes comprar juegos en línea.
-- ![Open-Source Software][OSS Icon] [RetroArch](http://www.retroarch.com/) - Un programa que te permite agregar emuladores de juego en un solo lugar.
+- [![Open-Source Software][OSS Icon]](https://github.com/itchio/itch) [itch](https://itch.io/) - Una mercado de juegos que centraliza tus descargas y las actualiza automáticamente. Un montón de juegos gratuitos están disponibles.
 - [![Open-Source Software][OSS Icon]](https://github.com/lutris/lutris) [Lutris](https://lutris.net/) - Lutris es una plataforma de código abierto para organizar juegos en Linux.
+- [![Open-Source Software][OSS Icon]] [PlayOnLinux](https://www.playonlinux.com) - Un programa que hace que "WINE" sea más fácil de usar.
+- [Steam](steampowered.com) - Una tienda de juegos donde puedes comprar juegos en línea.
+- [![Open-Source Software][OSS Icon]] [RetroArch](http://www.retroarch.com/) - Un programa que te permite agregar emuladores de juego en un solo lugar.
+- [![Open-Source Software][OSS Icon]] [Wine](https://www.winehq.org/) - Wine ("Wine Is Not an Emulator") es una capa de compatibilidad que permite que las aplicaciones de Windows funcionen en Linux. Los resultados dependen del programa que se esté utilizando.
 
 ### Gráficos
 
@@ -509,7 +515,7 @@
 
 #### Editor de imagen
 - ![Nonfree][Money icon] [Aftershot](http://www.aftershotpro.com/en/products/aftershot/pro/) - Una alternativa capaz e impresionante de "Adobe Photoshop".
-- [Darktable](http://www.darktable.org/) - Darktable es una aplicación de flujo de trabajo de código abierto para fotografía y imágenes en formato RAW.
+- [![Open-Source Software][OSS Icon]](https://github.com/darktable-org/darktable) [Darktable](http://www.darktable.org/) - Darktable es una aplicación de flujo de trabajo de código abierto para fotografía y imágenes en formato RAW.
 - [![Open-Source Software][OSS Icon]](https://github.com/GNOME/gimp) [GIMP](https://www.gimp.org/downloads/) - Es un programa Open Source para edición de fotos, composición de imágenes y creación de imágenes.
 - [Hugin](http://hugin.sourceforge.net/) - Es un programa multiplataforma fácil de usar para editar y trabajar con panoramas.
 - [ImageMagik](http://www.imagemagick.org/script/index.php) - ImageMagick es un grupo de programas para la línea de comandos para modificar imágenes.
@@ -551,6 +557,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/vkohaupt/vokoscreen) [Vokoscreen](http://www.kohaupt-online.de/hp/) - Una grabadora de screencast multilingüe de código abierto para Linux.
 
 #### Captura de pantalla
+- [![Open-Source Software][OSS Icon]](https://github.com/lupoDharkael/flameshot) [Flameshot](https://github.com/lupoDharkael/flameshot) - Un software de captura de pantalla fácil de usar y capaz.
 - [![Open-Source Software][OSS Icon]](https://github.com/olav-st/screencloud) [Screencloud](http://screencloud.net/) - ScreenCloud es una herramienta de captura de pantalla fácil de usar que te permite compartir las imágenes en línea. Funciona en múltiples plataformas.
 - [![Open-Source Software][OSS Icon]](https://github.com/binjospookie/--shots) [Shots](https://theshots.ru/) - Una aplicación de captura de pantalla de HTML / CSS / JS.
 - [Shutter](http://shutter-project.org/) - Shutter es un programa de captura de pantalla con muchas características para Linux.
@@ -559,6 +566,7 @@
 - [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/minidlna) [ReadyMedia](http://minidlna.sourceforge.net/) - El programa se llamaba **MiniDLNA** pero es un software de servidor de medios simple y rápido. Está diseñado para trabajar con clientes DLNA / UPnP-AV. Puede servir imágenes, música y video a teléfonos inteligentes, televisores, computadoras y algunas consolas de juegos.
 
 #### Editor de video
+- [![Open-Source Software][OSS Icon]](https://git.cinelerra-cv.org/gitweb?p=CinelerraCV.git;a=summary) [Cinelerra-cv](http://cinelerra.org/) - Un software profesional y de video y edición, que también es un entorno de composición.
 - [![Open-Source Software][OSS Icon]](https://github.com/jliljebl/flowblade) [Flowblade](https://github.com/jliljebl/flowblade/releases/tag/1.12.2) - Un editor de video multipista no lineal.
 - [![Open-Source Software][OSS Icon]](https://github.com/KDE/kdenlive) [Kdenlive](https://kdenlive.org/) - Kdenlive es un editor de vídeo no lineal, que es potente y muy capaz.
 - [![Nonfree][Money Icon] [Lightworks](https://www.lwks.com/) - Es un software de edición de vídeo profesional no lineal que también tiene una versión gratuita.
@@ -579,7 +587,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/minbrowser/min) [Min](https://minbrowser.github.io/min) - es un navegador web muy minimalista y elegante.
 - [Opera](http://www.opera.com/) - Es un navegador web capaz, también fue el primero en tener "Smart Dial" funcionalidad.
 - [![Open-Source Software][OSS Icon]](https://github.com/qutebrowser/qutebrowser) [QuteBrowser](https://www.qutebrowser.org/) - es un navegador diseñado para ser utilizado con el teclado, y tiene muchos VIM como atajos.
-- [![Open-Source Software][OSS Icon]](https://vivaldi.com/source/?lang=en) [Vivaldi](https://vivaldi.com/?lang=en) - Un navegador que está creciendo en popularidad, es el navegador más personalizable que puedes descargar.
+- [Vivaldi](https://vivaldi.com/?lang=en) - Un navegador que está creciendo en popularidad, es el navegador más personalizable que puedes descargar.
 - [Yandex](https://browser.yandex.com/desktop/main/) - un navegador web rápido y fácil de usar.
 
 #### Herramienta de navegador web
@@ -590,6 +598,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/zerotier/ZeroTierOne) [Zerotier](https://my.zerotier.com) - Zerotier es un programa que crea una red virtual solo para tus dispositivos, esta se envía completamente encriptada a través de Internet.
 
 #### Cliente de servicios web
+- [![Open-Source Software][OSS Icon]](http://choqok.gnufolks.org/) [Choqok](http://choqok.gnufolks.org/) - Choqok es un cliente escrito en QT5 para Twitter, GNU Social, Friendica y Pump.IO.
 - [![Open-Source Software][OSS Icon]](https://github.com/baedert/corebird) [Corebird](http://corebird.baedert.org/) - Corebird es una aplicación diseñada en GTK + para twitter.
 - [![Open-Source Software][OSS Icon]](https://github.com/jangernert/FeedReader) [FeedReader](https://github.com/jangernert/FeedReader) - Una aplicación de escritorio moderna que está diseñada para aceptar feeds RSS.
 - [![Open-Source Software][OSS Icon]](https://github.com/jeena/FeedTheMonkey) [FeedTheMonkey](https://github.com/jeena/FeedTheMonkey/releases) - FeedTheMonkey es un cliente de escritorio para TinyTinyRSS.
@@ -664,12 +673,15 @@
 #### Tomar nota
 - [![Open-Source Software][OSS Icon]](http://basket.kde.org/svnaccess.php) [Basket Note Pads](http://basket.kde.org/) - Esta es una aplicación multiuso para tomar notas.
 - [![Open-Source Software][OSS Icon]](https://github.com/BoostIO/Boostnote) [Boostnote](https://boostnote.io/) - Boostnote es una aplicación de notas de código abierto diseñada para programadores.
+- ![Nonfree][Money Icon] [Inkdrop](https://www.inkdrop.info/) - Una aplicación para tomar notas diseñadas para Markdown, tiene una interfaz simple y está orientado a la seguridad.
+- [![Open-Source Software][OSS Icon]](https://github.com/laurent22/joplin) [Joplin](http://joplin.cozic.net) - Una aplicación de toma de notas con una lista de tareas pendientes que se puede sincronizar en varios sistemas operativos.
 - [![Open-Source Software][OSS Icon]](https://sourceforge.net/p/nevernote/code/ci/master/tree/) [NixNote](https://sourceforge.net/projects/nevernote/) - Un cliente de código abierto para Evernote.
 - [![Open-Source Software][OSS Icon]](https://github.com/notepadqq/notepadqq) [Notepadqq](http://notepadqq.altervista.org/wp/) - Notepadqq es un Notepad ++ como editor para Linux.
 - [![Open-Source Software][OSS Icon]](https://github.com/nuttyartist/notes) [Notes](http://www.get-notes.com/) - Una simple aplicación de toma de notas para Linux.
 - [![Open-Source Software][OSS Icon]](https://github.com/patrikx3/onenote) [OneNote](https://pages.corifeus.com/github/onenote) - Un programa de toma de notas escrito en Electron para Linux. Es un cliente de escritorio para OneNote.
 - [![Open-Source Software][OSS Icon]](http://orgmode.org/cgit.cgi/org-mode.git/) [Org mode](http://orgmode.org/) - Org mode un programa para mantener notas, mantener listas de trabajo, planear proyectos y crear documentos.
 - [![Open-Source Software][OSS Icon]](https://github.com/Aseman-Land/Papyrus) [Papyrus](http://aseman.co/en/products/papyrus/) - Papyrus Es un organizador de notas que se centra en la seguridad, y una interfaz fácil de usar.
+- [![Open-Source Software][OSS Icon]](https://github.com/pbek/QOwnNotes) [QOwnNotes](https://github.com/pbek/QOwnNotes) - QOwnNotes es un administrador de listas de archivos, bloc de notas y tareas de texto sin formato que admite el descuento y puede integrarse con Nextcloud / Owncloud.
 - [Simplenote](https://simplenote.com/) - Un organizador de notas multiplataforma, que es un competidor de Evernote.
 - [![Open-Source Software][OSS Icon]](https://github.com/spsdco/notes) [Springseed](https://github.com/spsdco/notes) - Una nota simple y hermosa que toma el organizador para el uso diario.
 - [Stickynote](https://itsfoss.com/indicator-stickynotes-windows-like-sticky-note-app-for-ubuntu/) - Una aplicación de notas adhesivas para Linux.
@@ -733,13 +745,14 @@
 - [PushBullet](https://www.pushbullet.com/) - Pushbullet un servicio que conecta sus dispositivos para que pueda compartir archivos y mensajes y vínculos entre ellos.
 - [![Open-Source Software][OSS Icon]](https://github.com/qbittorrent/qBittorrent) [qBittorent](http://www.qbittorrent.org/) - qBittorrent es un cliente de bittorrent de código abierto que es similar a μTorrent.
 - [Quazaa](https://sourceforge.net/projects/quazaa/) - Un programa multiplataforma y red multipares para compartir archivos.
+- [![Open-Source Software][OSS Icon]](https://github.com/haiwen/seafile) [Seafile](https://www.seafile.com/en/home/) - Seafile es una plataforma de alojamiento de archivos empresariales con alta confiabilidad y rendimiento. Coloque archivos en su propio servidor. Sincronice y comparta archivos en diferentes dispositivos, o acceda a todos los archivos como un disco virtual.
 - [SpiderOak](https://spideroak.com/) - Un software de colaboración en tiempo real para equipos y empresas.
 - [![Open-Source Software][OSS Icon]](https://github.com/syncthing/syncthing) [Syncthing](https://syncthing.net/) - Syncthing es un programa que reemplaza los servicios estándar de sincronización y nube con uno que es de código abierto.
 - [Teamviewer](https://www.teamviewer.com/ ) - Un programa que permite el acceso remoto de otras computadoras a través de una red o el Internet.
+- [Tixati](https://www.tixati.com/) - Un cliente de torrents gratuito que tiene funciones avanzadas y también tiene una interfaz web.
 - [![Open-Source Software][OSS Icon]](https://trac.transmissionbt.com/browser/trunk) [Transmission](https://www.transmissionbt.com/download/) - un cliente multiplataforma simple y rápido para bittorrent.
 - [![Open-Source Software][OSS Icon]](https://github.com/leonsoft-kras/transmisson-remote-gui) [Transmission Remote GUI](https://sourceforge.net/projects/transgui/) - es un programa para controlar un "Transmission Bittorent Client" a través de una red vía RPC.
 - [![Open-Source Software][OSS Icon]](http://ugetdm.com/contribute/code) [uGet](http://ugetdm.com/) - Un gestor de descargas que puede controlar el portapapeles, y puede descargar varios archivos al mismo tiempo.
-- [uTorrent](http://www.utorrent.com) - Descarga de torrents elegante y eficiente.
 - [Vuze](http://www.vuze.com) - Un cliente bittorrent que tiene muchas características.
 - [![Open-Source Software][OSS Icon]](https://github.com/webtorrent/webtorrent-desktop) [Web Torrent Desktop](https://webtorrent.io/desktop/) - Es un cliente torrent para streaming torrent, y se conectará a bittorrent y webtorrent.
 - [![Open-Source Software][OSS Icon]](https://github.com/warner/magic-wormhole) [Wormhole](https://github.com/warner/magic-wormhole) - Un programa que te permite compartir archivos de cualquier tamaño o incluso texto de una computadora a otra.
@@ -750,11 +763,12 @@
 - [GnomeTerminal](https://help.gnome.org/users/gnome-terminal/stable/) - Un emulador de terminal Linux preinstalado muy común.
 - [Guake](http://guake.org/) - Guake es un terminal de arriba hacia abajo diseñado para GNOME.
 - [![Open-Source Software][OSS Icon]](https://github.com/zeit/hyper) [Hyper](https://hyper.is/) - Un terminal que está construido con tecnologías web.
+- [![Open-Source Software][OSS Icon]](https://github.com/kovidgoyal/kitty) [Kitty](https://github.com/kovidgoyal/kitty) - Un emulador de terminal rápido multiplataforma con muchas características.
 - [Konsole](https://konsole.kde.org/) - Un emulador de terminal alternativo para el entorno de escritorio KDE.
 - [![Open-Source Software][OSS Icon]](rxvt.http://cvs.schmorp.de/rxvt-unicode/) [RXVT-Unicode](http://software.schmorp.de/pkg/rxvt-unicode.html) - rxvt-unicode es una bifurcación de un emulador de terminal bien conocido.
 - [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/rxvt/) [RXVT](http://rxvt.sourceforge.net/) - Un emulador de terminal diseñado para el entorno X11. Es un reemplazo popular para "xterm".
 - [![Open-Source Software][OSS Icon]](https://launchpad.net/sakura) [Sakura](https://launchpad.net/sakura) - Un emulador de terminal potente compra sencillo basado en libvte.
-- [Terminator](http://gnometerminator.blogspot.com/p/introduction.html) - Terminator es un muy capaz, y poderoso emulador de terminal con un montón de características. Es muy popular.
+- [![Open-Source Software][OSS Icon]](https://launchpad.net/terminator) [Terminator](http://gnometerminator.blogspot.com/p/introduction.html) - Terminator es un muy capaz, y poderoso emulador de terminal con un montón de características. Es muy popular.
 - [![Open-Source Software][OSS Icon]](https://github.com/billiob/terminology) [Terminology](https://www.enlightenment.org/about-terminology) - La terminal bonita y rápida del escritorio Enlightenment. Tiene una cantidad sorprendente de características.
 - [![Open-Source Software][OSS Icon]](https://github.com/Eugeny/terminus) [Terminus](https://eugeny.github.io/terminus/) - Una aplicación terminal moderna y muy personalizable basada en tecnologías web.
 - [![Open-Source Software][OSS Icon]](https://github.com/thestinger/termite) [Termite](https://github.com/thestinger/termite) - Un terminal basado en VTE que se centra en el teclado..
@@ -883,7 +897,6 @@
 - [![Open-Source Software][OSS Icon]](https://itsfoss.com/best-command-line-games-linux/) [Tron](https://itsfoss.com/best-command-line-games-linux/) - Un juego "Tron" para la línea de comandos.
 - [![Open-Source Software][OSS Icon]](https://github.com/jml/undistract-me) [undistract-me](https://github.com/jml/undistract-me) - Un programa de línea de comando que reproduce un sonido o envía una notificación cuando un comando largo ha terminado de ejecutarse en la línea de comando.
 - [wicd-curses](https://wiki.archlinux.org/index.php/wicd#Running_Wicd_in_Text_Mode) - Un encargado del wifi para la línea de comando.
-- [![Open-Source Software][OSS Icon]](https://github.com/rg3/youtube-dl) [youtube-dl](http://rg3.github.io/youtube-dl/) - youtube-dl es un programa que te permite descargar videos de Youtube.com y muchos otros sitios web de video.
 
 
 ## Los Entornos des escritorios
