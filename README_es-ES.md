@@ -159,7 +159,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/Cog-Creators/Red-DiscordBot) [Red Discord Bot](https://cogs.red) - "Red Discord Bot" este una programa servidor auto-alojamiento para Discord. El Programa puede instalar más "Cogs" para funciones adicionales. Puede funcionar en un Raspberri Pi.
 
 #### Clientes todo en uno
-- [Franz](http://meetfranz.com/) - Franz es un programa de mensajería que agrega muchos servicios de mensajería instantánea.
+- [![Open-Source-Software][OSS Icon]](https://github.com/meetfranz/franz) [Franz](http://meetfranz.com/) - Franz es un programa de mensajería que agrega muchos servicios de mensajería instantánea.
 - [![Open-Source Software][OSS Icon]](https://developer.pidgin.im/) [Pidgin](https://pidgin.im/) - Un cliente de mensajería instantánea que es universal.
 - [![Open-Source Software][OSS Icon]](https://github.com/saenzramiro/rambox) [Rambox](http://rambox.pro/) - Un programa que es libre y de código abierto, Rambox agrega mensajería instantánea y correo electrónico en un solo lugar.
 
