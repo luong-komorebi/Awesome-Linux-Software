@@ -460,6 +460,7 @@ Lan Messenger es una aplicación de código abierto y gratuito que permite a los
 - [![Open-Source Software][OSS Icon]](https://github.com/unknown-horizons/unknown-horizons) [Unknown Horizons](http://unknown-horizons.org/) - Es un juego 2D estrategia en tiempo real, donde se construye una ciudad y economía.
 
 #### Videojuego de disparos en primera persona
+- [![Open-Source Software][OSS Icon]](https://gitlab.com/groups/xonotic) [ChaosEsqueAnthology Disc 1](https://sourceforge.net/projects/chaosesqueanthology/) [ChaosEsqueAnthology Disc 2](https://sourceforge.net/projects/chaosesqueanthologyvolume2/) - Una modificación de Xonotic que incluía armas extendidas, mapas, vehículos, edificios construibles, armas montadas, lanzamiento de hechizos, monstruos, personajes de jugadores, texturas y modo de juego (como colorwar (piense en guerra líquida))
 - [![Open-Source Software][OSS Icon]](https://github.com/red-eclipse/base) [Red Eclipse](https://redeclipse.net/) - Red Eclipse es un entretenido juego de tiro en primera persona. Tiene un tema de agilidad y velocidad.
 - [![Open-Source Software][OSS Icon]] [Urban Terror](http://www.urbanterror.info) - Un juego de disparos tácticos que se basa en el realismo, pero no siempre.
 - [![Open-Source Software][OSS Icon]](https://gitlab.com/groups/xonotic) [Xonotic](http://www.xonotic.org/) - Es un juego inspirado en "Unreal Tournament" y "Quake".
@@ -472,6 +473,7 @@ Lan Messenger es una aplicación de código abierto y gratuito que permite a los
 
 #### Vario
 - [![Open-Source Software][OSS Icon]] [Cockatrice](https://cockatrice.github.io/) - Cockatrice es un programa multiplataforma de código abierto para jugar juegos de cartas en una red o en Internet.
+- [![Open-Source Software][OSS Icon]](https://download.savannah.gnu.org/releases/galois/source/) [Galois](http://www.nongnu.org/galois/) - Galois es un juego de bloques que cae que usa tetrominoes y otras formas.
 - ![Nonfree][Money icon] [Minecraft](https://minecraft.net) - Minecraft es un juego sobre la colocación de bloques y la construcción de un mundo entero. Ha generado al azar mundos que son masivos en tamaño, donde se puede construir cualquier cosa.
 - [![Open-Source Software][OSS Icon]](https://github.com/minetest/minetest/) [Minetest](https://minetest.net) - Una versión de código abierto de "Minecraft" que está escrito en C ++ y tiene una API de modificación.
 - [![Open-Source Software][OSS Icon]] [Mudlet](mudlet.org) - Un cliente multiplataforma y de código abierto para texto solo videojuego de rol multijugador masivo en línea.
