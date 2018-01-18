@@ -562,6 +562,7 @@ Lan Messenger es una aplicación de código abierto y gratuito que permite a los
 #### Captura de pantalla
 - [![Open-Source Software][OSS Icon]](https://github.com/lupoDharkael/flameshot) [Flameshot](https://github.com/lupoDharkael/flameshot) - Un software de captura de pantalla fácil de usar y capaz.
 - [![Open-Source Software][OSS Icon]](https://github.com/olav-st/screencloud) [Screencloud](http://screencloud.net/) - ScreenCloud es una herramienta de captura de pantalla fácil de usar que te permite compartir las imágenes en línea. Funciona en múltiples plataformas.
+- [![Open-Source Software][OSS Icon]](https://github.com/ShareX/ShareX) [ShareX](https://getsharex.com) - ShareX es un programa gratuito y de código abierto que le permite capturar o grabar cualquier área de su pantalla y compartirla con solo presionar una tecla. También permite subir imágenes, texto u otros tipos de archivos a más de 80 destinos admitidos entre los que puede elegir.
 - [![Open-Source Software][OSS Icon]](https://github.com/binjospookie/--shots) [Shots](https://theshots.ru/) - Una aplicación de captura de pantalla de HTML / CSS / JS.
 - [Shutter](http://shutter-project.org/) - Shutter es un programa de captura de pantalla con muchas características para Linux.
 
@@ -614,6 +615,7 @@ Lan Messenger es una aplicación de código abierto y gratuito que permite a los
 
 #### Contabilidad
 - [![Open-Source Software][OSS Icon]](https://github.com/Gnucash/) [GnuCash](https://www.gnucash.org/) - GnuCash es un software de código abierto que es un sistema de contabilidad. Está diseñado para ser similar a Intuit Quicken.
+- [![Open-Source Software][OSS Icon]](https://code.launchpad.net/homebank) [HomeBank](http://homebank.free.fr/en/index.php) - HomeBank es un software gratuito que lo ayudará a administrar su contabilidad personal.
 - [![Open-Source Software][OSS Icon]](https://github.com/KDE/kmymoney) [KMyMoney](https://kmymoney.org/) - KMyMoney es un administrador de finanzas personales creado por el proyecto KDE.
 
 #### Suite ofimática
@@ -797,6 +799,7 @@ Lan Messenger es una aplicación de código abierto y gratuito que permite a los
 - [![Open-Source Software][OSS Icon]](https://github.com/OzymandiasTheGreat/emoji-keyboard) [Emoji Keyboard](https://github.com/OzymandiasTheGreat/emoji-keyboard) - Un teclado diseñado para emojis.
 - [![Open-Source Software][OSS Icon]](https://github.com/SpiderOak/Encryptr) [Encryptr](https://spideroak.com/encryptr/) - Encryptr es un fácil de usar e-wallet y administrador de contraseñas.
 - [Enpass](https://www.enpass.io/) - Enpass es un administrador de contraseñas y también puede almacenar otra información importante.
+- [![Open-Source Software][OSS Icon]](https://github.com/resin-io/etcher) [Etcher](https://etcher.io/) - Flash OS a tarjetas SD y unidades USB de forma segura y sencilla.
 - [![Open-Source Software][OSS Icon]](https://github.com/FreeRDP/FreeRDP) [FreeRDP](http://www.freerdp.com/) - FreeRDP es una implementación de código abierto del "Remote Desktop Protocol (RDP)".
 - [GD map](http://gdmap.sourceforge.net/) - Un programa que ayuda a visualizar el uso del disco.
 - [![Open-Source Software][OSS Icon]](https://github.com/antonio-malcolm/gloobus-preview) [Gloobus-Preview](https://github.com/antonio-malcolm/gloobus-preview) - Un programa que prevé sus archivos. Esto es similar a [Sushi](https://github.com/GNOME/sushi)
@@ -837,6 +840,7 @@ Lan Messenger es una aplicación de código abierto y gratuito que permite a los
 - [![Open-Source Software][OSS Icon]](https://github.com/gerardpuig/ubuntu-cleaner) [UbuntuCleaner](https://github.com/gerardpuig/ubuntu-cleaner) - Ubuntu Cleaner es una herramienta que ayuda a limpiar su sistema Ubuntu.
 - [![Open-Source Software][OSS Icon]](https://github.com/adgellida/ubunsys) [Ubunsys](https://github.com/adgellida/ubunsys) - Una aplicación diseñada para permitirle cambiar las características del sistema en profundidad sin la línea de comandos.
 - [![Open-Source Software][OSS Icon]](https://github.com/Ulauncher/Ulauncher/) [ULauncher](http://ulauncher.io/) - Un lanzador de aplicaciones para Linux.
+- [![Open-Source Software][OSS Icon]](https://github.com/unetbootin/unetbootin) [Unetbootin](https://unetbootin.github.io) - UNetbootin le permite crear unidades USB activas de arranque para Ubuntu y otras distribuciones de Linux. Puede dejar que UNetbootin descargue una de las muchas distribuciones admitidas de fábrica o suministrar su propio archivo .iso de Linux.
 - [USB network gate](https://www.eltima.com/products/usb-over-ip-linux/) - Un programa que le permite compartir un puerto USB a través de una red.
 - [![Open-Source Software][OSS Icon]](https://github.com/peterlevi/variety-slideshow) [Variety](http://peterlevi.com/variety/) - Variety es un programa que es de código abierto que cambia su papel tapiz automáticamente y puede aplicar efectos usando Imagemagick.
 - [![Open-Source Software][OSS Icon]](https://www.virtualbox.org/wiki/Contributor_information) [Virtualbox](https://www.virtualbox.org/wiki/Downloads) - VirtualBox es un programa de virtualización de uso general que es de código abierto.
@@ -874,6 +878,7 @@ Lan Messenger es una aplicación de código abierto y gratuito que permite a los
 - [![Open-Source Software][OSS Icon]](https://github.com/athityakumar/colorls) [Color LS](http://www.omgubuntu.co.uk/2017/07/add-bling-ls-bash-command-colorls) - Color LS es una "Ruby Gem" que hace que el comando 'ls' en Linux sea más bonito y muestre más información.
 - [![Open-Source Software][OSS Icon]](https://github.com/ssimunic/Daily-Reddit-Wallpaper) [Daily Reddit Wallpaper](https://github.com/ssimunic/Daily-Reddit-Wallpaper) - Un programa que cambia tu fondo de pantalla a la imagen más actualizada en /r/Wallpapers o cualquier subreddit en Reddit.
 - [![Open-Source Software][OSS Icon]](https://github.com/ogham/exa) [exa](https://the.exa.website/) - exa es un reemplazo moderno para el comando 'ls'.
+- [![Open-Source Software][OSS Icon]](https://github.com/resin-io/etcher) [Etcher CLI](https://etcher.io/cli/) - Etcher CLI es una herramienta de línea de comandos que tiene como objetivo proporcionar todos los beneficios de la aplicación de escritorio Etcher de una manera que se puede ejecutar desde un terminal, o incluso utilizar desde un script.
 - [![Open-Source Software][OSS Icon]](https://github.com/LubuntuFu/fishfry) [Fishfry](https://github.com/LubuntuFu/fishfry) - reemplaza el historial de la línea de comandos de pescado con uno diseñado para pentesters.
 - [fzf](https://github.com/junegunn/fzf) - Un programa de búsqueda que puede encontrar cualquier cosa, como un comando en el historial de línea de comandos, una imagen, un git commit o una dirección IP desde la línea de comandos.
 - [![Open-Source Software][OSS Icon]](https://github.com/heppu/gkill) [Gkill](https://github.com/heppu/gkill) - Un proceso asesino para Linux.
