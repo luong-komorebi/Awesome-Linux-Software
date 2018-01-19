@@ -156,7 +156,6 @@
 
 #### All-in-One Client
 - [![Open-Source-Software][OSS Icon]](https://github.com/meetfranz/franz) [Franz](http://meetfranz.com/) - Franz แอปส่งข้อความฟรี โดยรวมทั้งการสนทนาและการส่งข้อความอยู่ในแอปพลิเคชันเดียว
-- [![Open-Source-Software][OSS Icon]](https://github.com/lanmessenger/lanmessenger) [Lan Messenger](https://lanmessenger.github.io) - Lan Messenger is a free and open source application that allows Linux, Mac OS, and Windows hosts to send Instant messages across a LAN.
 - [![Open-Source Software][OSS Icon]](https://developer.pidgin.im/) [Pidgin](https://pidgin.im/) - โปรแกรมสนทนาครอบจักรวาล
 - [![Open-Source Software][OSS Icon]](https://github.com/saenzramiro/rambox) [Rambox](http://rambox.pro/) - แพลตฟอร์มสำหรับส่งข้อความและอีเมล โดยรวมความสามารถของเว็บแอปต่างๆ เข้ามาเป็นหนึ่งเดียว
 
@@ -169,6 +168,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/kvirc/KVIrc) [KVIrc](http://www.kvirc.net/) - KVIrc คือโปรแกรมสนทนา IRC สร้างจาก Qt
 
 #### Official Client
+- [![Open-Source-Software][OSS Icon]](hhttps://sourceforge.net/p/beebeep/code/HEAD/tree/) [BeeBEEP](http://beebeep.sourceforge.net) - BeeBEEP is an open source, peer to peer, lan messenger. You can talk and share files with anyone inside your local area network. You don't need a server, just download, unzip and start it. Simple, fast and secure.
 - [![Open-Source Software][OSS Icon]](https://github.com/dino/dino) [Dino](https://dino.im) - โปรแกรมสนทนาบน Jabber/XMPP ที่สวยงามเรียบง่าย
 - [Discord](https://discordapp.com/) - โปรแกรมหลากหลายฟังก์ชัน ทั้งข้อความและเสียง สำหรับนักเล่นเกม ที่ฟรี ปลอดภัย และใช้ได้ทั้งเดสก์ท็อปและโทรศัพท์มือถือ
 - [![Open-Source Software][OSS Icon]](https://github.com/gitterHQ/services) [Gitter](https://gitter.im/) - Gitter — ที่ๆ ซึ่งนักพัฒนามาสนทนากัน Gitter ถูกออกแบบเพื่อให้เข้ากับการสนทนาระดับชุมชน การทำงานร่วมกัน โดยต้องให้ใช้งานได้ง่ายและลื่นไหลที่สุด
@@ -187,6 +187,7 @@
 - [![Open-Source Software][OSS Icon]](https://borgbackup.readthedocs.io/en/stable/development.html) [Borg Backup](https://borgbackup.readthedocs.io/en/stable/) - เครื่องมือสำรองข้อมูลที่น่าใช้
 - [![Open-Source Software][OSS Icon]](https://launchpad.net/deja-dup) [Deja Dup](https://www.linux.com/learn/total-system-backup-and-recall-deja-dup) - เครื่องมือสำรองข้อมูลอย่างง่าย ที่รองรับการเข้ารหัสข้อมูลในตัว
 - [![Open-Source Software][OSS Icon]](https://launchpad.net/duplicity) [Duplicity](http://duplicity.nongnu.org/) - Duplicity สำรองข้อมูลทั้งไดเรกทอรี่ไว้ที่เครื่องเราเองหรือเซอร์ฟเวอร์อื่นๆ โดยเข้ารหัสในรูปแบบ tar
+- [![Open-Source Software][OSS Icon]](https://www.freefilesync.org/download.php) [FreeFileSync](https://www.freefilesync.org) - FreeFileSync is a folder comparison and synchronization software that creates and manages backup copies of all your important files. Instead of copying every file every time, FreeFileSync determines the differences between a source and a target folder and transfers only the minimum amount of data needed.
 - [![Open-Source Software][OSS Icon]](https://github.com/cgsecurity/testdisk) [Photorec](http://www.cgsecurity.org/wiki/PhotoRec) - PhotoRec คือซอฟต์แวร์กู้คืนไฟล์ โดยออกแบบมาสำหรับกู้คืนข้อมูลต่างๆ รวมไปถึงไฟล์วิดีโอ เอกสารและไฟล์ต่างๆ ในฮาร์ดดิสก์, แผ่นซีดีและไฟล์รูปภาพที่หายไป (ซึ่งเป็นที่มาของชื่อ Photo Recovery) จากหน่วยความจำในกล้องถ่ายรูป
 - [![Open-Source Software][OSS Icon]](https://borgbackup.readthedocs.io/en/stable/) [Qt4-fsarchiver](https://sourceforge.net/projects/qt4-fsarchiver/) - qt4-fsarchiver คือเครื่องมือสำรองและเรียกคืน พาร์ทิชันของดิสก์ โฟลเดอร์ หรือแม้กระทั่งตาราง MBR/GPT โดยโปรแกรมนี้รองรับระบบ Debian, OpenSuse และ Fedora
 - [![Open-Source Software][OSS Icon]](https://github.com/ncw/rclone) [rclone](http://rclone.org/) - Rclone คำโปรแกรมบรรทัดคำสั่งสำหรับซิงค์ไฟล์และไดเรกทอรี่ ทั้งจากและไปยัง พื้นที่เก็บไฟล์บนคลาวด์ต่างๆ และยังสามารถเข้ารหัสข้อมูลที่สำรองได้อีกด้วย
@@ -455,6 +456,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/freeciv/freeciv) [FreeCiv](http://www.freeciv.org/) - Freeciv is a Free and Open Source empire-building strategy game inspired by the history of human civilization.
 
 #### City Building Simulation
+- [Dwarf Fortress](http://www.bay12games.com/dwarves/) - A famously complex simulation of a High Fantasy Dwarf Fortress, fight goblins, and slay massive legendary beasts. Strike the earth!
 - [![Open-Source Software][OSS Icon]](https://svn.openttd.org/trunk/) [OpenTTD](https://www.openttd.org/) - An open-source clone of Transport Tycoon Plus with major improvements.
 - [![Open-Source Software][OSS Icon]](https://github.com/aburch/simutrans) [Simutrans](https://www.simutrans.com) - Simutrans is a freeware and open-source transportation simulator.
 - [![Open-Source Software][OSS Icon]](https://github.com/unknown-horizons/unknown-horizons) [Unknown Horizons](http://unknown-horizons.org/) - A 2D realtime strategy simulation with an emphasis on economy and city building. Multiplayer currently broken.

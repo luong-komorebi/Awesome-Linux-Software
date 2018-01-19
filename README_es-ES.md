@@ -162,8 +162,6 @@
 
 #### Clientes todo en uno
 - [![Open-Source-Software][OSS Icon]](https://github.com/meetfranz/franz) [Franz](http://meetfranz.com/) - Franz es un programa de mensajería que agrega muchos servicios de mensajería instantánea.
-- [![Open-Source-Software][OSS Icon]](https://github.com/lanmessenger/lanmessenger) [Lan Messenger](https://lanmessenger.github.io) -
-Lan Messenger es una aplicación de código abierto y gratuito que permite a los anfitriónes de Linux, Mac OS y Windows enviar mensajes instantáneos a través de una LAN.
 - [![Open-Source Software][OSS Icon]](https://developer.pidgin.im/) [Pidgin](https://pidgin.im/) - Un cliente de mensajería instantánea que es universal.
 - [![Open-Source Software][OSS Icon]](https://github.com/saenzramiro/rambox) [Rambox](http://rambox.pro/) - Un programa que es libre y de código abierto, Rambox agrega mensajería instantánea y correo electrónico en un solo lugar.
 
@@ -173,6 +171,7 @@ Lan Messenger es una aplicación de código abierto y gratuito que permite a los
 - [![Open-Source Software][OSS Icon]](https://github.com/kvirc/KVIrc) [KVIrc](http://www.kvirc.net/) - KVIrc es un cliente IRC gratuito diseñado a partir de QT.
 
 #### Clientes oficiales
+- [![Open-Source-Software][OSS Icon]](hhttps://sourceforge.net/p/beebeep/code/HEAD/tree/) [BeeBEEP](http://beebeep.sourceforge.net) - BeeBEEP es un mensajero instantáneo LAN de fuente abierta. Puede hablar y compartir archivos con cualquier persona dentro de su red de área local. No necesita un servidor, simplemente descárguelo, descomprímalo e inícielo. Simple, rápido y seguro.
 - [![Open-Source Software][OSS Icon]](https://github.com/dino/dino) [Dino](https://dino.im) - Un cliente de mensajería instantánea jabber / XMPP que es moderno.
 - [Discord](https://discordapp.com/) - y todo en una sola voz y servicio de mensajería instantánea de texto, diseñado para los jugadores, y funciona en computadoras y teléfonos celulares.
 - [![Open-Source Software][OSS Icon]](https://github.com/gitterHQ/services) [Gitter](https://gitter.im/) - Gitter, es un servicio para mensajería comunitaria, colaboración y descubrimiento de comunidades que es muy fácil de usar. Se centra en los desarrolladores.
@@ -191,6 +190,7 @@ Lan Messenger es una aplicación de código abierto y gratuito que permite a los
 - [![Open-Source Software][OSS Icon]](https://borgbackup.readthedocs.io/en/stable/development.html) [Borg Backup](https://borgbackup.readthedocs.io/en/stable/) - una herramienta sencilla para la copia de seguridad de datos.
 - [![Open-Source Software][OSS Icon]](https://launchpad.net/deja-dup) [Deja Dup](https://www.linux.com/learn/total-system-backup-and-recall-deja-dup) - Una sencilla herramienta de copia de seguridad que admite el cifrado.
 - [![Open-Source Software][OSS Icon]](https://launchpad.net/duplicity) [Duplicity](http://duplicity.nongnu.org/) - Duplicity crea copias de seguridad de directorios mediante la creación de archivos cifrados en el formato Tar.
+- [![Open-Source Software][OSS Icon]](https://www.freefilesync.org/download.php) [FreeFileSync](https://www.freefilesync.org) - FreeFileSync es un software de comparación y sincronización de carpetas que crea y administra copias de seguridad de todos sus archivos importantes. En lugar de copiar cada archivo cada vez, FreeFileSync determina las diferencias entre una carpeta de origen y de destino y transfiere solo la cantidad mínima de datos necesarios.
 - [![Open-Source Software][OSS Icon]](https://github.com/cgsecurity/testdisk) [Photorec](http://www.cgsecurity.org/wiki/PhotoRec) - Photorec es un software de recuperación de datos de archivos, diseñado para volver a crear archivos de datos incorrectos. Funciona en discos compactos y tarjetas de memoria de la cámara.
 - [![Open-Source Software][OSS Icon]](https://borgbackup.readthedocs.io/en/stable/) [Qt4-fsarchiver](https://sourceforge.net/projects/qt4-fsarchiver/) - Una GUI del programa de archivado para fsarchiver, está diseñada para guardar y restaurar particiones de disco, carpetas y tablas MBR / GPT. Funciona en Ubuntu, Opensuse y Fedora.
 - [![Open-Source Software][OSS Icon]](https://github.com/ncw/rclone) [rclone](http://rclone.org/) - Rclone es un programa de línea de comandos para sincronizar archivos y directorios de la nube. También permite copia de seguridad cifrada.
@@ -455,6 +455,7 @@ Lan Messenger es una aplicación de código abierto y gratuito que permite a los
 - [![Open-Source Software][OSS Icon]](https://github.com/freeciv/freeciv) [FreeCiv](http://www.freeciv.org/) - Freeciv es un juego de estrategia de construcción de imperio de código abierto inspirado en la historia humana.
 
 #### Videojuego de construcción de ciudades
+- [Dwarf Fortress](http://www.bay12games.com/dwarves/) - Una famosa simulación compleja de una Fortaleza Enana de Alta Fantasía, lucha contra los duendes y mata bestias legendarias masivas. ¡Golpea la tierra!
 - [![Open-Source Software][OSS Icon]](https://svn.openttd.org/trunk/) [OpenTTD](hptts://www.openttd.org) - Un clon de código abierto de "Transport Tycoon Plus" con muchas mejoras que el original.
 - [![Open-Source Software][OSS Icon]](https://github.com/aburch/simutrans) [Simutrans](https://www.simutrans.com) - Simutrans es un simulador de transporte de código abierto.
 - [![Open-Source Software][OSS Icon]](https://github.com/unknown-horizons/unknown-horizons) [Unknown Horizons](http://unknown-horizons.org/) - Es un juego 2D estrategia en tiempo real, donde se construye una ciudad y economía.
