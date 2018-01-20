@@ -109,7 +109,7 @@
 - [Chatty](http://chatty.github.io/) - Chatty 是一款 Twitch 聊天客户端，它是为那些想尝试不同于 web 聊天的新事物，又不想像 IRC 客户端那样复杂或错过 Twitch 特色功能的用户准备的。[![Open-Source Software][OSS Icon]](https://github.com/chatty/chatty) ![Freeware][Freeware Icon]
 - [Cutegram](http://aseman.co/en/products/cutegram/) - 提供比官方 Telegram 应用更多的特性。 [![Open-Source Software][OSS Icon]](https://github.com/Aseman-Land/Cutegram) ![Freeware][Freeware Icon]
 - [Discord](https://discordapp.com/) - 为玩家准备的多合一语音文本聊天工具，免费，安全，同时支持桌面和手机。 ![Freeware][Freeware Icon]
-- [Franz](http://meetfranz.com/) - Franz 是一个免费的消息应用，结合了许多聊天及消息服务到单独的一个客户端中。![Freeware][Freeware Icon]
+- [Franz](http://meetfranz.com/) - Franz 是一个免费的消息应用，结合了许多聊天及消息服务到单独的一个客户端中。[![Open-Source-Software][OSS Icon]](https://github.com/meetfranz/franz) ![Freeware][Freeware Icon]
 - [GhettoSkype](https://github.com/stanfieldr/ghetto-skype) - Skype 的开源 web 封装。 [![Open-Source Software][OSS Icon]](https://github.com/stanfieldr/ghetto-skype) ![Freeware][Freeware Icon]
 - [Gitter](https://gitter.im/) - Gitter — 开发者交流的地方。Gitter 的设计目标是让社区消息，协作和发现尽可能地简单。 [![Open-Source Software][OSS Icon]](https://github.com/gitterHQ/services) ![Freeware][Freeware Icon]
 - [HexChat](https://hexchat.github.io/) - HexChat 是一款基于 XChat 的 IRC 客户端，但和 XChat 不一样的是它对 Windows 和 Unix-like 系统都是完全自由的。[![Open-Source Software][OSS Icon]](https://github.com/hexchat) ![Freeware][Freeware Icon]
@@ -468,7 +468,7 @@
 
 ### 实用工具
 - [Actionaz](http://actionaz.org/) - Ubuntu/Linux 下的任务自动化工具。![Freeware][Freeware Icon]
-- [Albert](https://github.com/ManuelSchneid3r/albert/wiki/User-guide#how-to-install-albert) - Linux 桌面超赞的应用启动器。 [![Open-Source Software][OSS Icon]](https://github.com/ManuelSchneid3r/albert) ![Freeware][Freeware Icon]
+- [Albert](https://github.com/albertlauncher/albert) - Linux 桌面超赞的应用启动器。 [![Open-Source Software][OSS Icon]](https://github.com/albertlauncher/albert) ![Freeware][Freeware Icon]
 - [Bleach bit](https://www.bleachbit.org/) - BleachBit 快速释放磁盘空间并不知疲倦地守卫你的隐私。释放缓存，删除 cookie，清除互联网浏览历史，清理临时文件，删除日志，以及更多功能... ![Freeware][Freeware Icon]
 - [Brasero](https://wiki.gnome.org/Apps/Brasero) - CD/DVD 烧录软件。![Freeware][Freeware Icon]
 - [Caffeine](https://launchpad.net/caffeine) - 防止 ubuntu 自动睡眠。![Freeware][Freeware Icon]
