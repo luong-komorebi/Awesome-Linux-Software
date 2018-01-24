@@ -175,7 +175,6 @@
 - [Discord](https://discordapp.com/) - All-in-one voice and text chat for gamers that’s free, secure, and works on both your desktop and phone.
 - [![Open-Source Software][OSS Icon]](https://github.com/gitterHQ/services) [Gitter](https://gitter.im/) - Gitter — Where developers come to talk. Gitter is designed to make community messaging, collaboration and discovery as smooth and simple as possible.
 - [![Open-Source Software][OSS Icon]](https://github.com/jitsi) [Jitsi](https://jitsi.org/) - Jitsi is a free and open source multiplatform voice, videoconferencing and instant messaging application for Windows, Linux, Mac OS X and Android.
-- [![Open-Source-Software][OSS Icon]](https://github.com/lanmessenger/lanmessenger) [Lan Messenger](https://lanmessenger.github.io) - Lan Messenger is a free and open source application that allows Linux, Mac OS, and Windows hosts to send Instant messages across a LAN.
 - [![Open-Source Software][OSS Icon]](https://github.com/qTox/qTox) [qTox](https://qtox.github.io/) - A simple distributed, secure messenger with audio and video chat capabilities.
 - [![Open-Source Software][OSS Icon]](https://ring.cx/en/documentation/faq#node-106) [Ring](https://ring.cx/) - Chat. Talk. Share. Ring is a free and universal communication platform which preserves the users' privacy and freedoms.
 - [![Open-Source Software][OSS Icon]](https://github.com/vector-im/riot-web) [Riot](https://riot.im/) - A glossy Matrix collaboration client for the web.
