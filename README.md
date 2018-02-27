@@ -884,9 +884,8 @@
 
 ### Wiki software
 - [![Open-Source Software][OSS Icon]](https://git.joeyh.name/git/ikiwiki.git/) [ikiwiki](https://ikiwiki.info/) - ikiwiki is a wiki compiler. It converts wiki pages into HTML pages suitable for publishing on a website. Ikiwiki stores pages and history in a revision control system such as Subversion or Git.
+- [![Open-Source Software][OSS Icon]](https://github.com/Jermolene/TiddlyDesktop) [TiddlyDesktop](https://tiddlywiki.com/#TiddlyDesktop) - A desktop app for TiddlyWiki, an open-source personal wiki written in javascript, great if you're still searching for a good note-taking (and more) app.
 - [![Open-Source Software][OSS Icon]](https://launchpad.net/zim) [Zim](http://zim-wiki.org/) - A graphical text editor used to maintain a collection of wiki pages, great for notes and documents. Stored in plain text files for easy version control.
-- [![Open-Source Software][OSS Icon]](https://github.com/Jermolene/TiddlyDesktop) [TiddlyDesktop on GitHub](https://github.com/Jermolene/TiddlyDesktop) -  [TiddlyDesktop on TiddlyWiki.com](https://tiddlywiki.com/#TiddlyDesktop) - A desktop app for TiddlyWiki, an open-source personal wiki written in javascript, great if you're still searching for a good note-taking (and more) app.
-
 
 ### Others
 - [![Open-Source Software][OSS Icon]](https://code.launchpad.net/grub-customizer) [GrubCustomizer](https://launchpad.net/grub-customizer) - Grub Customizer is a graphical interface to configure the GRUB2/BURG settings and menuentries.
