@@ -86,6 +86,7 @@
 - [Google Play Music](https://www.googleplaymusicdesktopplayer.com/) - 非官方但很漂亮的跨平台 Google Play Music 桌面客户端。[![Open-Source Software][OSS Icon]](https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-) ![Freeware][Freeware Icon]
 - [Harmony](http://getharmony.xyz) - 有着整洁界面且兼容云的音乐播放器。 [![Open-Source Software][OSS Icon]](https://github.com/vincelwt/harmony) ![Freeware][Freeware Icon]
 - [Hydrogen](http://www.hydrogen-music.org/hcms/node/21) - GNU/Linux 上的高级电子鼓。 ![Freeware][Freeware Icon]
+- [ieaseMusic](https://github.com/trazyn/ieaseMusic) - 优雅的NeteaseMusic桌面应用程序，Rock with NeteaseMusic。 [![Open-Source Software][OSS Icon]](https://github.com/trazyn/ieaseMusic)![Freeware][Freeware Icon]
 - [K3b](http://www.k3b.org/) - K3b - Linux 上的 CD/DVD 创建工具 - 为 KDE 特别优化。[![Open-Source Software][OSS Icon]](https://github.com/KDE/k3b)![Freeware][Freeware Icon]
 - [Kid3Qt](https://apps.ubuntu.com/cat/applications/precise/kid3-qt/) - 编辑多媒体文件的标签，如一个专辑所有 mp3 文件的艺术家，专辑，年代，流派。![Freeware][Freeware Icon]
 - [KxStudio](http://kxstudio.linuxaudio.org/) - KXStudio 是专业声音创作应用和插件的集合。![Freeware][Freeware Icon]
