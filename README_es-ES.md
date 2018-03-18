@@ -364,6 +364,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/mawww/kakoune) [Kakoune](http://kakoune.org/) - Kakoune editor de código, fue inspirado por Vim. Es rápido y tiene buenos atajos de teclado para mejorar la eficiencia.
 - [![Open-Source Software][OSS Icon]](https://kate-editor.org/build-it/) [Kate](https://kate-editor.org/get-it/) - Kate es un editor de documentos múltiples que forma oficialmente parte de KDE.
 - [![Open-Source Software][OSS Icon]](https://github.com/Komodo/KomodoEdit) [Komodo Edit](https://github.com/Komodo/KomodoEdit) - Un entorno multilenguaje de código abierto, diseñado exclusivamente para el desarrollo.
+- [![Open-Source Software][OSS Icon]](https://github.com/GNOME/gnome-builder) [Gnome Builder](https://wiki.gnome.org/Apps/Builder) - Potente IDE para el desarrollo moderno de C / C ++ / Bash / JavaScript, hecho por Gnome Team. Uno de los mejores IDE para el desarrollo de C / C ++ (Cmake integrado).
 - [![Open-Source Software][OSS Icon]](https://github.com/LightTable/LightTable) [Lighttable](http://lighttable.com/) - El editor de código del futuro. Es compatible con la edición de código en vivo.
 - [![Open-Source Software][OSS Icon]](https://github.com/syl20bnr/spacemacs) [Spacemacs](http://spacemacs.org) - una versión desarrollada por la comunidad de emacs.
 - [Sublime](https://www.sublimetext.com/) -un editor de texto muy capaz con avanzadas habilidades de búsqueda. Puede instalar complementos para agregar más funcionalidad.
@@ -733,6 +734,7 @@
 - [![Open-Source Software][OSS Icon]](https://wiki.gnome.org/Apps/Seahorse) [Seahorse](https://wiki.gnome.org/Apps/Seahorse) - Una GUI de GNOME para GnuPG.
 - [![Open-Source Software][OSS Icon]](http://www.tcpdump.org/#source) [Tcpdump](http://www.tcpdump.org/) - Una herramienta de captura y depuración de TCP.
 - [![Open-Source Software][OSS Icon]](https://github.com/firehol/blocklist-ipsets) [Update-IPsets](https://iplists.firehol.org) - Un gestor de los ataques de ciberdelincuencia que puede descargar e instalar el netfilter `ipsets`.
+- [![Open-Source Software][OSS Icon]](https://github.com/usbkey9/uktools) [Uktools](https://github.com/usbkey9/uktools) - Mantenga su sistema actualizado con el último núcleo disponible. Posibilidad de limpiar kernel viejo también.
 
 ### Intercambio de archivos
 - [![Open-Source Software][OSS Icon]](https://github.com/aria2/aria2) [aria2](https://aria2.github.io/) - aria2 es un programa de descarga de línea de comandos rápido y multiprotocolo y multi-fuente.
