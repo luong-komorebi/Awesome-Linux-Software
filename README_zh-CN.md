@@ -425,7 +425,7 @@
 - [OpenSSH](http://www.openssh.com/) - OpenSSH 安全 Shell 服务器以及客户端。![Freeware][Freeware Icon]
 - [Seahorse](https://wiki.gnome.org/Apps/Seahorse) - GnuPG 的 Gnome 前端。![Freeware][Freeware Icon]
 - [Tcpdump](http://www.tcpdump.org/) - TCP 调试/抓包工具。![Freeware][Freeware Icon]
-- [Uktools](https://github.com/usbkey9) - 保持您的系统与最新的内核可用。 也可以清理旧内核。![Freeware][Freeware Icon]
+- [Uktools](https://github.com/usbkey9/uktools) - 保持您的系统与最新的内核可用。 也可以清理旧内核。![Freeware][Freeware Icon]
 
 ### 代理
 - [Privoxy](https://www.privoxy.org/) - Privoxy 是一款无缓存 web 代理，有高级过滤功能，用以加强隐私，修改 web 页面数据以及 HTTP 头部，访问控制，还有去广告和烦人的网络垃圾的功能。 [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/ijbswa/) ![Freeware][Freeware Icon]

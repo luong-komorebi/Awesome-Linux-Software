@@ -734,7 +734,7 @@
 - [![Open-Source Software][OSS Icon]](https://wiki.gnome.org/Apps/Seahorse) [Seahorse](https://wiki.gnome.org/Apps/Seahorse) - Una GUI de GNOME para GnuPG.
 - [![Open-Source Software][OSS Icon]](http://www.tcpdump.org/#source) [Tcpdump](http://www.tcpdump.org/) - Una herramienta de captura y depuración de TCP.
 - [![Open-Source Software][OSS Icon]](https://github.com/firehol/blocklist-ipsets) [Update-IPsets](https://iplists.firehol.org) - Un gestor de los ataques de ciberdelincuencia que puede descargar e instalar el netfilter `ipsets`.
-- [![Open-Source Software][OSS Icon]](https://github.com/usbkey9) [Uktools](https://github.com/usbkey9) - Mantenga su sistema actualizado con el último núcleo disponible. Posibilidad de limpiar kernel viejo también.
+- [![Open-Source Software][OSS Icon]](https://github.com/usbkey9/uktools) [Uktools](https://github.com/usbkey9/uktools) - Mantenga su sistema actualizado con el último núcleo disponible. Posibilidad de limpiar kernel viejo también.
 
 ### Intercambio de archivos
 - [![Open-Source Software][OSS Icon]](https://github.com/aria2/aria2) [aria2](https://aria2.github.io/) - aria2 es un programa de descarga de línea de comandos rápido y multiprotocolo y multi-fuente.

@@ -692,7 +692,7 @@ Ele foi projetado principalmente para ajudar a recuperar partições perdidas e/
 - [Tcpdump](http://www.tcpdump.org/) - TCP Debugging/Capture Tool[![Open-Source Software][OSS Icon]](http://www.tcpdump.org/#source)
 - [Update-IPsets](https://iplists.firehol.org) - A manager for all cybercrime IP feeds that can download, convert and install netfilter `ipsets`. [![Open-Source Software][OSS Icon]](https://github.com/firehol/blocklist-ipsets)
 - [ClamAV](https://www.clamav.net/) - Clam Anti Virus
-- [Uktools](https://github.com/usbkey9) - Mantenha seu sistema atualizado com o último kernel disponível. Possibilidade de limpar o kernel antigo também.
+- [Uktools](https://github.com/usbkey9/uktools) - Mantenha seu sistema atualizado com o último kernel disponível. Possibilidade de limpar o kernel antigo também.
 
 ### Compartilhamento de arquivos
 - [aria2](https://aria2.github.io/) - aria2 is a lightweight multi-protocol & multi-source command-line download utility. [![Open-Source Software][OSS Icon]](https://github.com/aria2/aria2)
