@@ -123,6 +123,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/emilioastarita/lyricfier) [Lyricfier](https://github.com/emilioastarita/lyricfier) - A Spotify Lyrics alternative app.
 - [![Open-Source Software][OSS Icon]](https://github.com/mixxxdj/mixxx) [Mixxx](http://www.mixxx.org/download/) - Free DJ software that gives you everything you need to perform live mixes; veritable alternative to Traktor.
 - [![Open-Source Software][OSS Icon]](https://github.com/ColinDuquesnoy/MellowPlayer) [Mellow Player](https://colinduquesnoy.github.io/MellowPlayer/) - Cloud music integration for your desktop.
+- [![Open-Source Software][OSS Icon]](https://github.com/mopidy/mopidy) [Mopidy](https://www.mopidy.com/) - An extensible music server written in Python.
 - [![Open-Source Software][OSS Icon]](https://github.com/KeitIG/museeks) [Museek](http://museeks.io/) - A simple, clean and cross-platform music player.
 - [![Open-Source Software][OSS Icon]](https://github.com/musescore/MuseScore) [MuseScore](https://musescore.org) - Create, play and print beautiful sheet music.
 - [![Open-Source Software][OSS Icon]](https://github.com/metabrainz/picard) [MusicBrainz Picard](https://picard.musicbrainz.org/) - Picard is a cross-platform music tagger written in Python.
@@ -228,6 +229,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/actionless/oomox) [Oomox theme generator](https://github.com/actionless/oomox) - A Graphical application for generating different color variations of a Numix-based and Flat-Plat themes (GTK2, GTK3), Gnome-Colors and Archdroid icons.
 - [![Open-Source Software][OSS Icon]](https://github.com/jaagr/polybar) [Polybar](https://github.com/jaagr/polybar) - Fast and easy-to-use status bar.
 - [![Open-Source Software][OSS Icon]](https://github.com/ianyh/Amethyst) [Unity Tweak Tool](https://apps.ubuntu.com/cat/applications/unity-tweak-tool/) - A Must-have app for Ubuntu Unity customization.
+- [![Open-Source Software][OSS Icon]](https://github.com/dylanaraps/pywal) [pywal](https://github.com/dylanaraps/pywal) - A script that takes an image (or a directory of images), generates a colorscheme (using imagemagick) and then changes all of your open terminal's colors to the new colorscheme on the fly.
 - [![Open-Source Software][OSS Icon]](https://github.com/deviantfero/wpgtk) [Wpgtk](http://deviantfero.github.io/wpgtk) - A universal theming software for all themes defined in text files, compatible with all terminals, with default themes for GTK2, GTK+, openbox and Tint2 that uses pywal as it's core for colorscheme generation.
 
 #### Desktop Icon Packs
@@ -522,6 +524,7 @@
 ### Graphics
 
 #### Graphic Creation
+- [![Open-Source Software][OSS Icon]](https://github.com/aseprite/aseprite/) [Aseprite](https://www.aseprite.org/) - Animated sprite editor & pixel art tool.
 - [![Open-Source Software][OSS Icon]](http://archive.blender.org/download/source-code/index.html) [Blender](https://www.blender.org/) - a free and open source complete 3D creation pipeline for artists and small teams.
 - [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/cinepaint/) [Cinepaint](http://www.cinepaint.org/) - Open source deep paint software.
 - [Gravit](https://www.designer.io/) - Gravit Designer is a full featured free vector design app right at your fingertip.
@@ -754,6 +757,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/fail2ban/fail2ban) [Fail2ban](http://www.fail2ban.org/wiki/index.php/Main_Page) - Fail2ban scans log files (e.g. /var/log/apache/error_log) and bans IPs that show the malicious signs -- too many password failures, seeking for exploits, etc.
 - [![Open-Source Software][OSS Icon]](https://github.com/firehol/firehol) [FireHOL](https://firehol.org) - Linux firewall (`iptables`) manager for humans.
 - [![Open-Source Software][OSS Icon]](https://firehol.org/tutorial/fireqos-new-user/) [FireQoS](https://github.com/firehol/netdata/wiki/You-should-install-QoS-on-all-your-servers) - Linux QoS (`tc`) manager for humans.
+- [![Open-Source Software][OSS Icon]](https://github.com/netblue30/firejail) [Firejail](https://firejail.wordpress.com/) - Firejail is a SUID program that reduces the risk of security breaches by restricting the running environment of untrusted applications using [Linux namespaces](https://lwn.net/Articles/531114/) and [seccomp-bpf](https://l3net.wordpress.com/2015/04/13/firejail-seccomp-guide/).
 - [![Open-Source Software][OSS Icon]](https://github.com/firewalld/firewalld) [Firewalld](https://github.com/firewalld/firewalld) - Firewalld provides a dynamically managed firewall with support for network or
  firewall zones to define the trust level of network connections or interfaces. [![Open-Source Software][OSS Icon]](https://github.com/firewalld/firewalld)
 - [![Open-Source Software][OSS Icon]](https://git.gnupg.org/) [GnuPG](https://www.gnupg.org/) - GnuPG allows to encrypt and sign your data and communication, features a versatile key management system as well as access modules for all kinds of public key directories.
