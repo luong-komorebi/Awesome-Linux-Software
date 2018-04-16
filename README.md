@@ -1149,6 +1149,7 @@
 - [Learn Linux](https://linuxjourney.com/)
 - [Linux Course](https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-0)
 - [Linux Pocket Guide](http://www.tldp.org/LDP/Pocket-Linux-Guide/Pocket-Linux-Guide.pdf)
+- [Programming Community Curated Resources for learning Linux](https://hackr.io/tutorials/learn-linux-system-administration)
 
 ## Linux Hacking/Development
 
