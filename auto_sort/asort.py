@@ -11,6 +11,7 @@
 from __future__ import print_function
 import os
 import shutil
+import re
 
 
 README_FILE = '../README.md'
@@ -20,6 +21,7 @@ TEMP_FILE = 'temp.md'
 BEGIN = '## Applications'
 END = '## Setup'
 
+regex = re.compile(r"[^[]*\[([^]]*)\]")
 
 def main():
     global README_FILE
@@ -47,23 +49,23 @@ def main():
             #     sort_enable = False
 
             if sort_enable:
-                line = line.strip()
-
-                # each item starts with a character '-' (maybe '*' and '+')
-                if line.startswith(('-', '*', '+')):
+                # each item starts with a character '-'
+                if line.startswith(('-')):
+                    line = line.strip()
                     items.append(line)
-                elif line.startswith('#'):
-                    sort_enable = False if END in line else True
-
+                # When no more items, blank line or new header
+                elif line is '\n':
                     # when we meet the next header, we should stop adding new item to the list.
-                    for item in sorted(items, key=lambda x: x.upper()):
+                    for item in sorted(items, key=lambda x: regex.findall(x.upper())[len(regex.findall(x.upper()))-1]):
                         # write the ordered list to the temporary file.
                         print(item, file=outfile)
-                    print('', file=outfile)
                     items.clear()
 
                     # remember to put the next header in the temporary file.
-                    print(line, file=outfile)
+                    print(line, end='', file=outfile)
+                elif line.startswith('#'):
+                    sort_enable = False if END in line else True
+                    print(line, end='', file=outfile)
                 else:
                     print(line, end='', file=outfile)
             else:
