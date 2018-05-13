@@ -86,6 +86,7 @@
 - [Google Play Music](https://www.googleplaymusicdesktopplayer.com/) - 非官方但很漂亮的跨平台 Google Play Music 桌面客户端。[![Open-Source Software][OSS Icon]](https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-) ![Freeware][Freeware Icon]
 - [Harmony](http://getharmony.xyz) - 有着整洁界面且兼容云的音乐播放器。 [![Open-Source Software][OSS Icon]](https://github.com/vincelwt/harmony) ![Freeware][Freeware Icon]
 - [Hydrogen](http://www.hydrogen-music.org/hcms/node/21) - GNU/Linux 上的高级电子鼓。 ![Freeware][Freeware Icon]
+- [ieaseMusic](https://github.com/trazyn/ieaseMusic) - 优雅的NeteaseMusic桌面应用程序，Rock with NeteaseMusic。 [![Open-Source Software][OSS Icon]](https://github.com/trazyn/ieaseMusic)![Freeware][Freeware Icon]
 - [K3b](http://www.k3b.org/) - K3b - Linux 上的 CD/DVD 创建工具 - 为 KDE 特别优化。[![Open-Source Software][OSS Icon]](https://github.com/KDE/k3b)![Freeware][Freeware Icon]
 - [Kid3Qt](https://apps.ubuntu.com/cat/applications/precise/kid3-qt/) - 编辑多媒体文件的标签，如一个专辑所有 mp3 文件的艺术家，专辑，年代，流派。![Freeware][Freeware Icon]
 - [KxStudio](http://kxstudio.linuxaudio.org/) - KXStudio 是专业声音创作应用和插件的集合。![Freeware][Freeware Icon]
@@ -228,6 +229,7 @@
 - [Gedit](https://wiki.gnome.org/Apps/Gedit) - gedit 是 GNOME 文本编辑器。尽管以简单易用为目标，gedit 仍然是个强大的多功能编辑器。![Freeware][Freeware Icon]
 - [Kakoune](http://kakoune.org/) - 受 Vim 启发。更少的击键次数带来更快的速度。多重选中。直角设计。它的命令与 vi 的相似，并且适用 Vi 的“快捷键作为文本编辑语言”模型。专注于交互，大部分命令提供直接和增量的结果，相对 Vim 还是很有竞争力的（击键次数上）。 [(Github)](https://github.com/mawww/kakoune)
 - [Kate](https://kate-editor.org/get-it/) - Kate 是一个多文档编辑器，从 KDE 2.2 开始就是 KDE 的一部分了。 [![Open-Source Software][OSS Icon]](https://kate-editor.org/build-it/)![Freeware][Freeware Icon]
+- [Gnome Builder](https://wiki.gnome.org/Apps/Builder) - 功能强大的IDE用于现代C / C ++ / Bash / JavaScript开发，由Gnome Team制作。 用于C / C ++开发的最佳IDE之一（Cmake集成） ![Freeware][Freeware Icon]
 - [Lighttable](http://lighttable.com/) - 下一代代码编辑器！支持实时编码。 ![Freeware][Freeware Icon]
 - [Spacemacs](http://spacemacs.org) - 社区驱动的 Emacs 版本。 [![Open-Source Software][OSS Icon]](https://github.com/syl20bnr/spacemacs)![Freeware][Freeware Icon]
 - [Sublime](https://www.sublimetext.com/) - 有史以来最好的编辑器之一。 ![Freeware][Freeware Icon]
@@ -423,6 +425,7 @@
 - [OpenSSH](http://www.openssh.com/) - OpenSSH 安全 Shell 服务器以及客户端。![Freeware][Freeware Icon]
 - [Seahorse](https://wiki.gnome.org/Apps/Seahorse) - GnuPG 的 Gnome 前端。![Freeware][Freeware Icon]
 - [Tcpdump](http://www.tcpdump.org/) - TCP 调试/抓包工具。![Freeware][Freeware Icon]
+- [Uktools](https://github.com/usbkey9/uktools) - 保持您的系统与最新的内核可用。 也可以清理旧内核。![Freeware][Freeware Icon]
 
 ### 代理
 - [Privoxy](https://www.privoxy.org/) - Privoxy 是一款无缓存 web 代理，有高级过滤功能，用以加强隐私，修改 web 页面数据以及 HTTP 头部，访问控制，还有去广告和烦人的网络垃圾的功能。 [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/ijbswa/) ![Freeware][Freeware Icon]
