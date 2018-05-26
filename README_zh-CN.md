@@ -287,7 +287,9 @@
 - [Ranger](http://ranger.nongnu.org/) - Ranger 是一款使用 VI 快捷键的终端文件管理器。[![Open-Source Software][OSS Icon]](https://github.com/ranger/ranger) ![Freeware][Freeware Icon]
 - [Synapse](https://launchpad.net/ubuntu/xenial/+source/synapse) - Linux 上最好的应用启动器。![Freeware][Freeware Icon]
 - [Thunar](https://apps.ubuntu.com/cat/applications/precise/thunar/) - Thunar 被设计成为 Xfce 4.6 的默认文件管理器，为快速和易用设计。 [![Open-Source Software][OSS Icon]](https://github.com/luisgg/thunar) ![Freeware][Freeware Icon]
+- [fsearch](https://github.com/cboxdoerfer/fsearch) - Unix-like 系统文件搜索 ，基于 GTK+3. 支持正则表达式，文件类型搜索等。 [![Open-Source Software][OSS Icon]](https://github.com/cboxdoerfer/fsearch) ![Freeware][Freeware Icon]
 
+ 
 ### 游戏
 - [0 A.D](https://play0ad.com/) - 类帝国时代的开源即时战略游戏。
 - [Civilization5](http://www.civilization5.com/) - 席德梅尔的文明®被认为是有史以来最伟大的策略经营类游戏之一。
@@ -431,6 +433,9 @@
 - [Privoxy](https://www.privoxy.org/) - Privoxy 是一款无缓存 web 代理，有高级过滤功能，用以加强隐私，修改 web 页面数据以及 HTTP 头部，访问控制，还有去广告和烦人的网络垃圾的功能。 [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/ijbswa/) ![Freeware][Freeware Icon]
 - [ProxyChains](https://github.com/haad/proxychains) - 强制指定的应用发起的任何 TCP 连接通过像 TOR 或其它 SOCKS4，SOCKS5 或 HTTP(S) 代理进行。 [![Open-Source Software][OSS Icon]](https://github.com/haad/proxychains) ![Freeware][Freeware Icon]
 - [Shadowsocks](https://shadowsocks.org/en/index.html) - 一个 socks5 代理工具，保护你的互联网流量。 [![Open-Source Software][OSS Icon]](https://github.com/shadowsocks/shadowsocks-qt5/releases) ![Freeware][Freeware Icon]
+
+- [electron-ssr](https://github.com/erguotou520/electron-ssr) - electron 版 跨平台 Shadowsocksr 桌面客户端。 [![Open-Source Software][OSS Icon]](https://github.com/erguotou520/electron-ssr/releases) ![Freeware][Freeware Icon]
+
 
 ### 文件共享
 - [aria2](https://aria2.github.io/) - aria2 是一个轻量级的多协议以及多来源命令行下载工具。 [![Open-Source Software][OSS Icon]](https://github.com/aria2/aria2) ![Freeware][Freeware Icon]
