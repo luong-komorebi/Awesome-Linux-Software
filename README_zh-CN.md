@@ -280,6 +280,7 @@
 - [AngrySearch](https://github.com/DoTheEvo/ANGRYsearch) - Linux 文件搜索，结果输入即得。 [![Open-Source Software][OSS Icon]](https://github.com/DoTheEvo/ANGRYsearch) ![Freeware][Freeware Icon]
 - [Dolphin](https://userbase.kde.org/Dolphin) - Dolphin 是 KDE 桌面环境的默认文件管理器，易用且功能强大。 [![Open-Source Software][OSS Icon]](https://github.com/KDE/dolphin) ![Freeware][Freeware Icon]
 - [Double Commander](http://doublecmd.sourceforge.net/) - Double Commander 是一款跨平台的开源双栏文件管理器。它受 Total Commander 启发并有自己的新想法。![Freeware][Freeware Icon]
+- [fsearch](https://github.com/cboxdoerfer/fsearch) - Unix-like 系统文件搜索 ，基于 GTK+3. 支持正则表达式，文件类型搜索等。 [![Open-Source Software][OSS Icon]](https://github.com/cboxdoerfer/fsearch) ![Freeware][Freeware Icon]
 - [Midnight Commander](https://www.midnight-commander.org/) - 一个功能丰富的全屏文件管理器，你可以复制，移动和删除文件以及整个文件夹树。 [![Open-Source Software][OSS Icon]](https://github.com/MidnightCommander) ![Freeware][Freeware Icon]
 - [Nautilus](https://wiki.gnome.org/Apps/Nautilus) - Nautilus（Files）鹦鹉螺是为适配 Gnome 桌面设计和行为所设计的文件管理器，给用户一个简单的方式导航和管理文件。![Freeware][Freeware Icon]
 - [Nemo](http://askubuntu.com/questions/294421/how-do-i-install-nemo-file-manager) - Nemo 是一款 Cinnamon 桌面环境下的文件管理器。[![Open-Source Software][OSS Icon]](https://github.com/linuxmint/nemo) ![Freeware][Freeware Icon]
@@ -287,7 +288,6 @@
 - [Ranger](http://ranger.nongnu.org/) - Ranger 是一款使用 VI 快捷键的终端文件管理器。[![Open-Source Software][OSS Icon]](https://github.com/ranger/ranger) ![Freeware][Freeware Icon]
 - [Synapse](https://launchpad.net/ubuntu/xenial/+source/synapse) - Linux 上最好的应用启动器。![Freeware][Freeware Icon]
 - [Thunar](https://apps.ubuntu.com/cat/applications/precise/thunar/) - Thunar 被设计成为 Xfce 4.6 的默认文件管理器，为快速和易用设计。 [![Open-Source Software][OSS Icon]](https://github.com/luisgg/thunar) ![Freeware][Freeware Icon]
-- [fsearch](https://github.com/cboxdoerfer/fsearch) - Unix-like 系统文件搜索 ，基于 GTK+3. 支持正则表达式，文件类型搜索等。 [![Open-Source Software][OSS Icon]](https://github.com/cboxdoerfer/fsearch) ![Freeware][Freeware Icon]
 
  
 ### 游戏
@@ -430,11 +430,11 @@
 - [GuFW](http://gufw.org/) - Linux 世界中最简单的防火墙之一。 ![Freeware][Freeware Icon][![Open-Source Software][OSS Icon]](https://code.launchpad.net/gui-ufw)
 
 ### 代理
+- [electron-ssr](https://github.com/erguotou520/electron-ssr) - electron 版 跨平台 Shadowsocksr 桌面客户端。 [![Open-Source Software][OSS Icon]](https://github.com/erguotou520/electron-ssr/releases) ![Freeware][Freeware Icon]
 - [Privoxy](https://www.privoxy.org/) - Privoxy 是一款无缓存 web 代理，有高级过滤功能，用以加强隐私，修改 web 页面数据以及 HTTP 头部，访问控制，还有去广告和烦人的网络垃圾的功能。 [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/ijbswa/) ![Freeware][Freeware Icon]
 - [ProxyChains](https://github.com/haad/proxychains) - 强制指定的应用发起的任何 TCP 连接通过像 TOR 或其它 SOCKS4，SOCKS5 或 HTTP(S) 代理进行。 [![Open-Source Software][OSS Icon]](https://github.com/haad/proxychains) ![Freeware][Freeware Icon]
 - [Shadowsocks](https://shadowsocks.org/en/index.html) - 一个 socks5 代理工具，保护你的互联网流量。 [![Open-Source Software][OSS Icon]](https://github.com/shadowsocks/shadowsocks-qt5/releases) ![Freeware][Freeware Icon]
 
-- [electron-ssr](https://github.com/erguotou520/electron-ssr) - electron 版 跨平台 Shadowsocksr 桌面客户端。 [![Open-Source Software][OSS Icon]](https://github.com/erguotou520/electron-ssr/releases) ![Freeware][Freeware Icon]
 
 
 ### 文件共享
