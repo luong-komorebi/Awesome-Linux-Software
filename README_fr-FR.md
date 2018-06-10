@@ -11,7 +11,7 @@
 
 *Mise à jour: Ce repo a été publié sur [Gitbook](https://voluong.gitbooks.io/awesome-linux-software/content/). Vous pouvez partager ce lien avec de nouveaux utilisateurs, ils peuvent trouver ça plus simpas que de le lire sur GitHub. Ou le télécharger au format pdf [ici](https://goo.gl/xhiKla).*
 
-**Reconnaissance:** *Tout ce qui est écrit ci dessous viens de ma propre expérience à la fac et aprés diverses lectures . Je ne suis ni un professionel ni un expert, mais un passioné. Tout le monde peut ouvrir une discution dans la partie issue, faire une pull request si quelque chose doit être modifié ou ajouté. Si vous trouvez mon travail de valeur, une [donation](#donation) est très appréciée.*
+**Reconnaissance:** *Tout ce qui est écrit ci dessous viens de ma propre expérience à la fac et aprés diverses lectures . Je ne suis ni un professionel ni un expert, mais un passioné. Tout le monde peut ouvrir une discussion dans la partie issue, faire une pull request si quelque chose doit être modifié ou ajouté. Si vous trouvez mon travail de valeur, une [donation](#donation) est très appréciée.*
 
 * Verion Brésilienne Portugaise : [ici](https://github.com/LewisVo/Awesome-Linux-Software/blob/master/README_pt-BR.md).
 * Version Chinoise: [ici](https://github.com/LewisVo/Awesome-Linux-Software/blob/master/README_zh-CN.md) or [ici](https://github.com/alim0x/Awesome-Linux-Software-zh_CN) or [here](https://github.com/0xE8551CCB/awesome-linux-software-cn).
