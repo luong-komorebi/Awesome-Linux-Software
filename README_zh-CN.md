@@ -272,7 +272,7 @@
 - [Mailnag](https://launchpad.net/~pulb/+archive/ubuntu/mailnag) - Mailnag 是一个向 POP3 和 IMAP 服务器检查新邮件的守护程序。 [![Open-Source Software][OSS Icon]](https://github.com/pulb/mailnag)![Freeware][Freeware Icon]
 - [N1](https://nylas.com/N1) - 在现代 web 上构建的可扩展桌面邮件应用。 [![Open-Source Software][OSS Icon]](https://github.com/nylas/N1) ![Freeware][Freeware Icon]
 - [Sylpheed](http://sylpheed.sraoss.jp/en/) - 轻量化，用户友好的电子邮件客户端。 [![Open-Source Software][OSS Icon]](http://sylpheed.sraoss.jp/en/download.html#stable)![Freeware][Freeware Icon]
-- [Thunderbird](https://www.mozilla.org/en-US/thunderbird/) - Thunderbird 是一款免费的电子油价客户端，设置以及个性化简单方便，功能强大。 ![Freeware][Freeware Icon]
+- [Thunderbird](https://www.mozilla.org/en-US/thunderbird/) - Thunderbird 是一款免费的电子邮件客户端，设置以及个性化简单方便，功能强大。 ![Freeware][Freeware Icon]
 - [Wmail](https://github.com/Thomas101/wmail) - Gmail & Google Inbox 的非官方 Linux 桌面客户端。 [![Open-Source Software][OSS Icon]](https://github.com/Thomas101/wmail)![Freeware][Freeware Icon]
 
 ### 文件管理器
