@@ -1136,6 +1136,7 @@
 * [Liliputing](http://liliputing.com/)
 * [FAMILUG](http://www.familug.org/)
 * [Ubuntu Geek](http://www.ubuntugeek.com/)
+* [EBblr](https://ebblr.com/)
 
 ### Reddit
 
