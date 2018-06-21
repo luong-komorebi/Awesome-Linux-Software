@@ -507,6 +507,7 @@
 - [OhMyGiraffe](https://ohmygiraffe.com) - A delightful game of survival. A game about a giraffe eating fruit while being chased by lions.
 - ![Open-Source Software][OSS Icon] [Pingus](https://pingus.seul.org/) - 2D puzzle game that clones the popular Lemmings. Your goal is to guide a group of penguins safely across the game map.
 - [![Open-Source Software][OSS Icon]](https://github.com/alpcoskun/snake) [Snake Game](https://alpcoskun.com/snake/) - Cross-platform Classic Snake Game based on Node.js.
+- ![Open-Source Software][OSS Icon] [SuperTux](http://www.supertux.org/) - Clone of the popular sidescrolling Super Mario games.
 - [![Open-Source Software][OSS Icon]](https://github.com/supertuxkart/stk-code) [SuperTuxKart](https://supertuxkart.net) - SuperTuxKart is a 3D open-source arcade racer with a variety characters, tracks, and modes to play.
 - ![Open-Source Software][OSS Icon] [XMoto](https://xmoto.tuxfamily.org/) - 2D motocross physics-based game requiring a lot of skill to master, with a built-in replay-recording and sharing system.
 
