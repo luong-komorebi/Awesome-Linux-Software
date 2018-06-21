@@ -467,6 +467,7 @@
 #### Turn Based Strategy
 - [![Open-Source Software][OSS Icon]](https://github.com/wesnoth/wesnoth) [Battle for Wesnoth](https://wesnoth.org/) - The Battle for Wesnoth is an open source, turn-based strategy game with a high fantasy theme. It features both singleplayer and online/hotseat multiplayer combat.
 - [![Open-Source Software][OSS Icon]](https://github.com/freeciv/freeciv) [FreeCiv](http://www.freeciv.org/) - Freeciv is a Free and Open Source empire-building strategy game inspired by the history of human civilization.
+- ![Open-Source Software][OSS Icon] [HedgeWars](https://www.hedgewars.org/) - 2D game where teams compete in the style of the popular Worms games.
 - ![Open-Source Software][OSS Icon] [Tanks of Freedom](https://w84death.itch.io/tanks-of-freedom) - Pixel-art military strategy implemented in Godot game engine.
 
 #### City Building Simulation
