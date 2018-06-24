@@ -5,7 +5,7 @@
 ![Tux](img/tux.png)
 
 
-🐧 Ce repos est une collection **d'Incroyables** outils et d'applications Linux pour **utilisateurs et développeur**.
+🐧 Ce repos est une collection **d'Incroyables** outils et d'applications Linux pour **utilisateurs et développeurs**.
 <br>
 🐧 N'hesitez pas à **contribuer** / **star** / **fork** / **pull request** . N'importe quelles **recommandations** et **suggestions** sont les bienvenus.
 
@@ -1025,59 +1025,59 @@
 
 ## Setup
 
-- [What is Linux](https://www.linux.com/what-is-linux)
-- [Basic Linux terms](http://www.makeuseof.com/tag/linux-confusing-key-terms-definitions/)
-- [Choosing Distro that Suits You Best](http://i.imgur.com/TV21DgN.jpg)
-- [38 Things To Do After Installing Ubuntu](https://www.lifewire.com/things-to-do-installing-ubuntu-2200611)
-- [What do the commands on the command line mean?](https://www.explainshell.com) [![Open-Source Software][OSS Icon]](https://github.com/idank/explainshell)
+- [C'est quoi Linux](https://www.linux.com/what-is-linux)
+- [Notions de base pour Linux ](http://www.makeuseof.com/tag/linux-confusing-key-terms-definitions/)
+- [Choisir une distribution qui vous convient le mieux](http://i.imgur.com/TV21DgN.jpg)
+- [38 choses à faire après l'installation d'Ubuntu](https://www.lifewire.com/things-to-do-installing-ubuntu-2200611)
+- [Que font ces commandes dans la ligne de commande?](https://www.explainshell.com) [![Open-Source Software][OSS Icon]](https://github.com/idank/explainshell)
 
 ### Arch Linux
 
-- [Getting and installing Arch](https://wiki.archlinux.org/index.php/Category:Getting_and_installing_Arch)
-- [Installation guide](https://wiki.archlinux.org/index.php/Installation_guide)
-- [General recommendations](https://wiki.archlinux.org/index.php/General_recommendations)
-- [List of applications](https://wiki.archlinux.org/index.php/List_of_applications)
+- [Obtenir et installer Arch](https://wiki.archlinux.org/index.php/Category:Getting_and_installing_Arch)
+- [Guide d'installation](https://wiki.archlinux.org/index.php/Installation_guide)
+- [Recommandations générales](https://wiki.archlinux.org/index.php/General_recommendations)
+- [Liste d'applications](https://wiki.archlinux.org/index.php/List_of_applications)
 
 ### Bodhi
 
-- [What is Bodhi](https://en.wikipedia.org/wiki/Bodhi_Linux)
-- [Where to download Bodhi](http://www.bodhilinux.com/download/)
-- [How do I install Bodhi](http://www.bodhilinux.com/w/installation-instructions/)
+- [C'est quoi Bodhi](https://en.wikipedia.org/wiki/Bodhi_Linux)
+- [Ou télécharger Bodhi](http://www.bodhilinux.com/download/)
+- [Comment installer Bodhi](http://www.bodhilinux.com/w/installation-instructions/)
 
 ### CentOS
 
-- [Official website](https://www.centos.org)
-- [About](https://wiki.centos.org/About)
-- [Downloads](https://wiki.centos.org/Download)
-- [Manuals](https://www.centos.org/docs/)
-- [Tips and Tricks](https://wiki.centos.org/TipsAndTricks)
+- [Site Officiel](https://www.centos.org)
+- [A propos](https://wiki.centos.org/About)
+- [Téléchargement](https://wiki.centos.org/Download)
+- [Manuels](https://www.centos.org/docs/)
+- [Trucs et astuces](https://wiki.centos.org/TipsAndTricks)
 - [FAQ](https://www.centos.org/forums/faq.php?sid=4e6d260284c7936505dcf75564717272)
 
 ### Fedora
 
-- [What is Fedora?](https://docs.fedoraproject.org/fedora-project/project/fedora-overview.html)
-- [Where to download Fedora](https://getfedora.org)
-- [How do I install Fedora?](https://docs.fedoraproject.org/f26/install-guide/install/Preparing_for_Installation.html)
+- [C'est quoi Fedora?](https://docs.fedoraproject.org/fedora-project/project/fedora-overview.html)
+- [Ou télécharger Fedora](https://getfedora.org)
+- [Comment j'installe Fedora?](https://docs.fedoraproject.org/f26/install-guide/install/Preparing_for_Installation.html)
 - [Ask Fedora](https://ask.fedoraproject.org/en/questions/)
 
 ### openSUSE
 
-- [What is openSUSE](https://www.techopedia.com/definition/28543/opensuse)
-- [Reasons to try openSUSE](http://www.pcworld.com/article/222065/5_reasons_to_try_opensuse_114.html)
-- [Beginner's FAQ](https://en.opensuse.org/openSUSE:OpenSUSE_for_beginners)
-- [How to install openSUSE](https://en.opensuse.org/Portal:Installation)
+- [C'est quoi openSUSE](https://www.techopedia.com/definition/28543/opensuse)
+- [Raisons d'essayer openSUSE](http://www.pcworld.com/article/222065/5_reasons_to_try_opensuse_114.html)
+- [FAQ du débutant](https://en.opensuse.org/openSUSE:OpenSUSE_for_beginners)
+- [Comment installer openSUSE](https://en.opensuse.org/Portal:Installation)
 - [Review](https://www.linux.com/news/opensuse-leap-421-review-most-mature-linux-distribution)
 
 ### Ubuntu
 
-- [What is Ubuntu](https://en.wikipedia.org/wiki/Ubuntu_(operating_system))
-- [How to install Ubuntu](http://www.ubuntu.com/download/desktop/install-ubuntu-desktop)
-- [How to dual-boot Ubuntu with Windows](http://www.everydaylinuxuser.com/2014/05/install-ubuntu-1404-alongside-windows.html)
-- [What to do after installing Ubuntu](http://www.omgubuntu.co.uk/2016/04/10-things-to-do-after-installing-ubuntu-16-04-lts)
+- [C'est quoi Ubuntu](https://en.wikipedia.org/wiki/Ubuntu_(operating_system))
+- [Comment installer Ubuntu](http://www.ubuntu.com/download/desktop/install-ubuntu-desktop)
+- [Comment créer un Dual-Boot Ubuntu - Windows](http://www.everydaylinuxuser.com/2014/05/install-ubuntu-1404-alongside-windows.html)
+- [Quoi faire aprés l'intallation d'Ubuntu](http://www.omgubuntu.co.uk/2016/04/10-things-to-do-after-installing-ubuntu-16-04-lts)
 
 ### Other distros
 
-> To be added later
+> A remplir plus tard
 
 ## Discussion Forums
 
@@ -1152,34 +1152,34 @@
 
 ## Learn Linux
 
-- [Beginner's guide to Linux](https://www.linux.com/learn/complete-beginners-guide-linux%20)
-- [Learn Linux Command](http://linuxcommand.org/)
-- [GNU/Linux Command-Line Tools Summary](http://tldp.org/LDP/GNU-Linux-Tools-Summary/html/book1.htm)
-- [Learn Linux](https://linuxjourney.com/)
-- [Linux Course](https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-0)
-- [Linux Pocket Guide](http://www.tldp.org/LDP/Pocket-Linux-Guide/Pocket-Linux-Guide.pdf)
-- [Programming Community Curated Resources for learning Linux](https://hackr.io/tutorials/learn-linux-system-administration)
+- [Guide du débutant pour Linux](https://www.linux.com/learn/complete-beginners-guide-linux%20)
+- [Apprendre les commandes Linux](http://linuxcommand.org/)
+- [Résumé des lignes de commande pour GNU/Linux](http://tldp.org/LDP/GNU-Linux-Tools-Summary/html/book1.htm)
+- [Apprendre Linux](https://linuxjourney.com/)
+- [Cours pour Linux ](https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-0)
+- [Guide de poche pour Linux](http://www.tldp.org/LDP/Pocket-Linux-Guide/Pocket-Linux-Guide.pdf)
+- [Ressources communautaires  pour l'apprentissage de  Linux](https://hackr.io/tutorials/learn-linux-system-administration)
 
 ## Linux Hacking/Development
 
-- [Kernel Newbies](https://kernelnewbies.org/)
-- [Linux Insides](https://0xax.gitbooks.io/linux-insides/content/index.html)
-- [The Linux Kernel](http://www.tldp.org/LDP/tlk/tlk.html)
-- [Linux Kernel Archives (Official Website)](https://www.kernel.org/)
-- [Linux Kernel Internals (PDF)](http://www.tldp.org/LDP/lki/lki.pdf)
-- [Linux Kernel Mailing List Archive](https://lkml.org/)
-- [Linux Kernel Module Programming Guide (PDF)](http://www.tldp.org/LDP/lkmpg/2.6/lkmpg.pdf)
+- [Le Noyau pour les nouveaux](https://kernelnewbies.org/)
+- [Dans le coueur de Linux](https://0xax.gitbooks.io/linux-insides/content/index.html)
+- [Le Noyau Linux](http://www.tldp.org/LDP/tlk/tlk.html)
+- [Archives du Noyau Linux (Site officiel)](https://www.kernel.org/)
+- [A l'intérieur du Noyau Linux (PDF)](http://www.tldp.org/LDP/lki/lki.pdf)
+- [Archive de la liste de diffusion du Noyau Linux](https://lkml.org/)
+- [Guide de programmation de module pour le Noyau Linux(PDF)](http://www.tldp.org/LDP/lkmpg/2.6/lkmpg.pdf)
 
 ## Advanced Linux
 
-- [Virtual Containers](https://github.com/Citrix-TechSpecialist/Docker-101)
-- [Virtualization with Virtualbox](https://www.virtualbox.org/manual/ch01.html)
+- [Virtualisation de Containeurs](https://github.com/Citrix-TechSpecialist/Docker-101)
+- [Virtualisation avec Virtualbox](https://www.virtualbox.org/manual/ch01.html)
 
 ## Other Awesome Lists
 
 *These are the list that I highly recommended:*
-- [Awesome Linux Audio](https://github.com/nodiscc/awesome-linuxaudio)
-- [Awesome Self-hosted](https://github.com/kickball/awesome-selfhosted)
+- [Awesome Audio Linux](https://github.com/nodiscc/awesome-linuxaudio)
+- [Awesome Auto-Hébergement](https://github.com/kickball/awesome-selfhosted)
 - [Awesome Sysadmin](https://github.com/n1trux/awesome-sysadmin)
 
 ## Contributeurs
