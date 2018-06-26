@@ -5,81 +5,82 @@
 ![Tux](img/tux.png)
 
 
-🐧 This repo is a collection of **AWESOME** Linux applications and tools for **any users/developers**.
+🐧 Ce repos est une collection **d'Incroyables** outils et d'applications Linux pour **utilisateurs et développeurs**.
 <br>
-🐧 Feel free to **contribute** / **star** / **fork** / **pull request** . Any **recommendations** and **suggestions** are welcome.
+🐧 N'hesitez pas à **contribuer** / **star** / **fork** / **pull request** . N'importe quelles **recommandations** et **suggestions** sont les bienvenus.
 
-*Update: This repo has been published on [Gitbook](https://voluong.gitbooks.io/awesome-linux-software/content/). You can share this link with new users, as they may find it friendlier to read than GitHub. Download as a pdf [here](https://goo.gl/xhiKla).*
+*Mise à jour: Ce repo a été publié sur [Gitbook](https://voluong.gitbooks.io/awesome-linux-software/content/). Vous pouvez partager ce lien avec de nouveaux utilisateurs, ils peuvent trouver ça plus simpas que de le lire sur GitHub. Ou le télécharger au format pdf [ici](https://goo.gl/xhiKla).*
 
-**Acknowledgement:** *Everything written below is from my own experience in college and after reading various materials. I am neither a professional nor an expert, but a passionate student. Anyone can open a discussion in the issue section, or a pull request if something should be modified or added. If you consider my work valuable, a [donation](#donation) is much appreciated.*
+**Reconnaissance:** *Tout ce qui est écrit ci dessous viens de ma propre expérience à la fac et aprés diverses lectures . Je ne suis ni un professionel ni un expert, mais un passioné. Tout le monde peut ouvrir une discussion dans la partie issue, faire une pull request si quelque chose doit être modifié ou ajouté. Si vous trouvez mon travail de valeur, une [donation](#donation) est très appréciée.*
 
-* Brazilian Portuguese version : [here](https://github.com/LewisVo/Awesome-Linux-Software/blob/master/README_pt-BR.md).
-* Chinese version : [here](https://github.com/LewisVo/Awesome-Linux-Software/blob/master/README_zh-CN.md) or [here](https://github.com/alim0x/Awesome-Linux-Software-zh_CN) or [here](https://github.com/0xE8551CCB/awesome-linux-software-cn).
-* Spanish version : [here](https://github.com/LewisVo/Awesome-Linux-Software/blob/master/README_es-ES.md) or [here](https://github.com/SaintFenix/Awesome-Linux-Software/blob/master/README_es-ES.md)
-* Thai version : [here](https://github.com/LewisVo/Awesome-Linux-Software/blob/master/README_th-TH.md).
+* Verion Brésilienne Portugaise : [ici](https://github.com/LewisVo/Awesome-Linux-Software/blob/master/README_pt-BR.md).
+* Version Chinoise: [ici](https://github.com/LewisVo/Awesome-Linux-Software/blob/master/README_zh-CN.md) or [ici](https://github.com/alim0x/Awesome-Linux-Software-zh_CN) or [here](https://github.com/0xE8551CCB/awesome-linux-software-cn).
+* Version Espagnole: [ici](https://github.com/LewisVo/Awesome-Linux-Software/blob/master/README_es-ES.md) or [ici](https://github.com/SaintFenix/Awesome-Linux-Software/blob/master/README_es-ES.md)
+* Version Thai : [ici](https://github.com/LewisVo/Awesome-Linux-Software/blob/master/README_th-TH.md).
+* Version Française: [ici](https://github.com/LewisVo/Awesome-Linux-Software/blob/master/README_fr-FR.md).
 
-## Table of Contents
+## Table des Matiéres
 
 - [Applications](#applications)
     - [Audio](#audio)
-    - [Chat Clients](#chat-clients)
-    - [Data Backup and Recovery](#data-backup-and-recovery)
-    - [Desktop Customization](#desktop-customization)
-    - [Development](#development)
-    - [E-Book Utilities](#e-book-utilities)
-    - [Editors](#editors)
+    - [Clients Discussions](#chat-clients)
+    - [Sauvegarde et récupartion de données](#data-backup-and-recovery)
+    - [Personnilation de Bureau](#desktop-customization)
+    - [Développement](#development)
+    - [Utilitaires E-Book](#e-book-utilities)
+    - [Editeurs](#editors)
     - [Education](#education)
-    - [Email Utilities](#email)
-    - [File Manager](#file-manager)
-    - [Games](#games)
-    - [Graphics](#graphics)
+    - [Utilitaires Email](#email)
+    - [Gestionnaire de fichiers](#file-manager)
+    - [Jeux](#games)
+    - [Graphique](#graphics)
     - [Internet](#internet)
-    - [Office](#office)
-    - [Productivity](#productivity)
+    - [Bureautique](#office)
+    - [Productivité](#productivity)
     - [Proxy](#proxy)
-    - [Security](#security)
-    - [Sharing Files](#sharing-files)
+    - [Securité](#security)
+    - [Partage de fichiers](#sharing-files)
     - [Terminal](#terminal)
-    - [Utilities](#utilities)
+    - [Utilitaires](#utilities)
     - [Video](#video)
-    - [Wiki software](#wiki-software)
-    - [Others](#others)
-- [Command Line Utilities](#command-line-utilities)
-- [Desktop Environments](#desktop-environments)
-- [Display Managers](#display-manager)
+    - [Logiciels Wiki](#wiki-software)
+    - [Autres](#others)
+- [Utilitaires de Ligne de Commande](#command-line-utilities)
+- [Environement de bureau](#desktop-environments)
+- [Gestionnaires d'affichage](#display-manager)
    - [Console](#console)
-   - [Graphic](#graphic)
-- [Window Managers](#window-managers)
-   - [Compositors](#compositors)
-   - [Stacking window managers](#stacking-window-managers)
-   - [Tiling window managers](#tiling-window-managers)
-   - [Dynamic window managers](#dynamic-window-managers)
+   - [Graphique](#graphic)
+- [Gestionnaires de fenêtres](#window-managers)
+   - [Compositeurs](#compositors)
+   - [Gestionnaires de fenêtres en Empilement](#stacking-window-managers)
+   - [Gestionnaires de fenêtres en Mosaïque](#tiling-window-managers)
+   - [Gestionnaires de fenêtres Dynamique](#dynamic-window-managers)
 
 ***********
 
-- [Setup](#setup)
+- [Installer](#setup)
    - [ArchLinux](#arch-linux)
    - [Bodhi](#bodhi)
    - [CentOS](#centos)
    - [Fedora](#fedora)
    - [openSUSE](#opensuse)
    - [Ubuntu](#ubuntu)
-- [Discussion Forums](#discussion-forums)
-   - [ArchLinux Forums](#arch-linux-forums)
-   - [CentOS Forums](#centos-forums)
-   - [Fedora Forums](#fedora-forums)
-   - [Ubuntu Forums](#ubuntu-forums)
-   - [openSUSE Forums](#opensuse-forums)
-   - [IRC channels](#irc-channels)
+- [Forums de Discution](#discussion-forums)
+   - [Forums ArchLinux](#arch-linux-forums)
+   - [Forums CentOS](#centos-forums)
+   - [Forums Fedora](#fedora-forums)
+   - [Forums Ubuntu](#ubuntu-forums)
+   - [Forums openSUSE](#opensuse-forums)
+   - [Canal IRC](#irc-channels)
    - [Linux News, Apps, and more ....](#linux-news-apps-and-more-)
    - [Reddit](#reddit)
-- [Learn Linux](#learn-linux)
-- [Linux Hacking/Development](#linux-hackingdevelopment)
-- [Advanced Linux](#advanced-linux)
-- [Other Awesome Lists](#other-awesome-lists)
-- [Contributors](#contributors)
-- [Guideline to Contribute](#guideline-to-contribute)
-- [How to Contribute](#unsure-how-to-contribute)
+- [Apprendre Linux](#learn-linux)
+- [Linux Hacking/Développement](#linux-hackingdevelopment)
+- [Linux Avancé](#advanced-linux)
+- [D'autres super listes](#other-awesome-lists)
+- [Contributeurs](#contributors)
+- [Guide pour Contribuer](#guideline-to-contribute)
+- [Comment Contibuer](#unsure-how-to-contribute)
 
 ***********
 
@@ -760,7 +761,7 @@
 - [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/ijbswa/) [Privoxy](https://www.privoxy.org/) - Privoxy is a non-caching web proxy with advanced filtering capabilities for enhancing privacy, modifying web page data and HTTP headers, controlling access, and removing ads and other obnoxious Internet junk.
 - [![Open-Source Software][OSS Icon]](https://github.com/haad/proxychains) [ProxyChains](https://github.com/haad/proxychains) - A tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy.
 - [![Open-Source Software][OSS Icon]](https://github.com/shadowsocks/shadowsocks-qt5/releases) [Shadowsocks](https://shadowsocks.org/en/index.html) - A secure socks5 proxy, designed to protect your Internet traffic.
- 
+
 
 ### Security
 - [![Open-Source Software][OSS Icon]](https://github.com/vrtadmin/clamav-devel/pulls) [ClamAV](https://www.clamav.net/) - ClamAV is an open source antivirus engine for detecting trojans, viruses, malware & other malicious threats.
@@ -1024,59 +1025,59 @@
 
 ## Setup
 
-- [What is Linux](https://www.linux.com/what-is-linux)
-- [Basic Linux terms](http://www.makeuseof.com/tag/linux-confusing-key-terms-definitions/)
-- [Choosing Distro that Suits You Best](http://i.imgur.com/TV21DgN.jpg)
-- [38 Things To Do After Installing Ubuntu](https://www.lifewire.com/things-to-do-installing-ubuntu-2200611)
-- [What do the commands on the command line mean?](https://www.explainshell.com) [![Open-Source Software][OSS Icon]](https://github.com/idank/explainshell)
+- [C'est quoi Linux](https://www.linux.com/what-is-linux)
+- [Notions de base pour Linux ](http://www.makeuseof.com/tag/linux-confusing-key-terms-definitions/)
+- [Choisir une distribution qui vous convient le mieux](http://i.imgur.com/TV21DgN.jpg)
+- [38 choses à faire après l'installation d'Ubuntu](https://www.lifewire.com/things-to-do-installing-ubuntu-2200611)
+- [Que font ces commandes dans la ligne de commande?](https://www.explainshell.com) [![Open-Source Software][OSS Icon]](https://github.com/idank/explainshell)
 
 ### Arch Linux
 
-- [Getting and installing Arch](https://wiki.archlinux.org/index.php/Category:Getting_and_installing_Arch)
-- [Installation guide](https://wiki.archlinux.org/index.php/Installation_guide)
-- [General recommendations](https://wiki.archlinux.org/index.php/General_recommendations)
-- [List of applications](https://wiki.archlinux.org/index.php/List_of_applications)
+- [Obtenir et installer Arch](https://wiki.archlinux.org/index.php/Category:Getting_and_installing_Arch)
+- [Guide d'installation](https://wiki.archlinux.org/index.php/Installation_guide)
+- [Recommandations générales](https://wiki.archlinux.org/index.php/General_recommendations)
+- [Liste d'applications](https://wiki.archlinux.org/index.php/List_of_applications)
 
 ### Bodhi
 
-- [What is Bodhi](https://en.wikipedia.org/wiki/Bodhi_Linux)
-- [Where to download Bodhi](http://www.bodhilinux.com/download/)
-- [How do I install Bodhi](http://www.bodhilinux.com/w/installation-instructions/)
+- [C'est quoi Bodhi](https://en.wikipedia.org/wiki/Bodhi_Linux)
+- [Ou télécharger Bodhi](http://www.bodhilinux.com/download/)
+- [Comment installer Bodhi](http://www.bodhilinux.com/w/installation-instructions/)
 
 ### CentOS
 
-- [Official website](https://www.centos.org)
-- [About](https://wiki.centos.org/About)
-- [Downloads](https://wiki.centos.org/Download)
-- [Manuals](https://www.centos.org/docs/)
-- [Tips and Tricks](https://wiki.centos.org/TipsAndTricks)
+- [Site Officiel](https://www.centos.org)
+- [A propos](https://wiki.centos.org/About)
+- [Téléchargement](https://wiki.centos.org/Download)
+- [Manuels](https://www.centos.org/docs/)
+- [Trucs et astuces](https://wiki.centos.org/TipsAndTricks)
 - [FAQ](https://www.centos.org/forums/faq.php?sid=4e6d260284c7936505dcf75564717272)
 
 ### Fedora
 
-- [What is Fedora?](https://docs.fedoraproject.org/fedora-project/project/fedora-overview.html)
-- [Where to download Fedora](https://getfedora.org)
-- [How do I install Fedora?](https://docs.fedoraproject.org/f26/install-guide/install/Preparing_for_Installation.html)
+- [C'est quoi Fedora?](https://docs.fedoraproject.org/fedora-project/project/fedora-overview.html)
+- [Ou télécharger Fedora](https://getfedora.org)
+- [Comment j'installe Fedora?](https://docs.fedoraproject.org/f26/install-guide/install/Preparing_for_Installation.html)
 - [Ask Fedora](https://ask.fedoraproject.org/en/questions/)
 
 ### openSUSE
 
-- [What is openSUSE](https://www.techopedia.com/definition/28543/opensuse)
-- [Reasons to try openSUSE](http://www.pcworld.com/article/222065/5_reasons_to_try_opensuse_114.html)
-- [Beginner's FAQ](https://en.opensuse.org/openSUSE:OpenSUSE_for_beginners)
-- [How to install openSUSE](https://en.opensuse.org/Portal:Installation)
+- [C'est quoi openSUSE](https://www.techopedia.com/definition/28543/opensuse)
+- [Raisons d'essayer openSUSE](http://www.pcworld.com/article/222065/5_reasons_to_try_opensuse_114.html)
+- [FAQ du débutant](https://en.opensuse.org/openSUSE:OpenSUSE_for_beginners)
+- [Comment installer openSUSE](https://en.opensuse.org/Portal:Installation)
 - [Review](https://www.linux.com/news/opensuse-leap-421-review-most-mature-linux-distribution)
 
 ### Ubuntu
 
-- [What is Ubuntu](https://en.wikipedia.org/wiki/Ubuntu_(operating_system))
-- [How to install Ubuntu](http://www.ubuntu.com/download/desktop/install-ubuntu-desktop)
-- [How to dual-boot Ubuntu with Windows](http://www.everydaylinuxuser.com/2014/05/install-ubuntu-1404-alongside-windows.html)
-- [What to do after installing Ubuntu](http://www.omgubuntu.co.uk/2016/04/10-things-to-do-after-installing-ubuntu-16-04-lts)
+- [C'est quoi Ubuntu](https://en.wikipedia.org/wiki/Ubuntu_(operating_system))
+- [Comment installer Ubuntu](http://www.ubuntu.com/download/desktop/install-ubuntu-desktop)
+- [Comment créer un Dual-Boot Ubuntu - Windows](http://www.everydaylinuxuser.com/2014/05/install-ubuntu-1404-alongside-windows.html)
+- [Quoi faire aprés l'intallation d'Ubuntu](http://www.omgubuntu.co.uk/2016/04/10-things-to-do-after-installing-ubuntu-16-04-lts)
 
 ### Other distros
 
-> To be added later
+> A remplir plus tard
 
 ## Discussion Forums
 
@@ -1151,82 +1152,82 @@
 
 ## Learn Linux
 
-- [Beginner's guide to Linux](https://www.linux.com/learn/complete-beginners-guide-linux%20)
-- [Learn Linux Command](http://linuxcommand.org/)
-- [GNU/Linux Command-Line Tools Summary](http://tldp.org/LDP/GNU-Linux-Tools-Summary/html/book1.htm)
-- [Learn Linux](https://linuxjourney.com/)
-- [Linux Course](https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-0)
-- [Linux Pocket Guide](http://www.tldp.org/LDP/Pocket-Linux-Guide/Pocket-Linux-Guide.pdf)
-- [Programming Community Curated Resources for learning Linux](https://hackr.io/tutorials/learn-linux-system-administration)
+- [Guide du débutant pour Linux](https://www.linux.com/learn/complete-beginners-guide-linux%20)
+- [Apprendre les commandes Linux](http://linuxcommand.org/)
+- [Résumé des lignes de commande pour GNU/Linux](http://tldp.org/LDP/GNU-Linux-Tools-Summary/html/book1.htm)
+- [Apprendre Linux](https://linuxjourney.com/)
+- [Cours pour Linux ](https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-0)
+- [Guide de poche pour Linux](http://www.tldp.org/LDP/Pocket-Linux-Guide/Pocket-Linux-Guide.pdf)
+- [Ressources communautaires  pour l'apprentissage de  Linux](https://hackr.io/tutorials/learn-linux-system-administration)
 
 ## Linux Hacking/Development
 
-- [Kernel Newbies](https://kernelnewbies.org/)
-- [Linux Insides](https://0xax.gitbooks.io/linux-insides/content/index.html)
-- [The Linux Kernel](http://www.tldp.org/LDP/tlk/tlk.html)
-- [Linux Kernel Archives (Official Website)](https://www.kernel.org/)
-- [Linux Kernel Internals (PDF)](http://www.tldp.org/LDP/lki/lki.pdf)
-- [Linux Kernel Mailing List Archive](https://lkml.org/)
-- [Linux Kernel Module Programming Guide (PDF)](http://www.tldp.org/LDP/lkmpg/2.6/lkmpg.pdf)
+- [Le Noyau pour les nouveaux](https://kernelnewbies.org/)
+- [Dans le coueur de Linux](https://0xax.gitbooks.io/linux-insides/content/index.html)
+- [Le Noyau Linux](http://www.tldp.org/LDP/tlk/tlk.html)
+- [Archives du Noyau Linux (Site officiel)](https://www.kernel.org/)
+- [A l'intérieur du Noyau Linux (PDF)](http://www.tldp.org/LDP/lki/lki.pdf)
+- [Archive de la liste de diffusion du Noyau Linux](https://lkml.org/)
+- [Guide de programmation de module pour le Noyau Linux(PDF)](http://www.tldp.org/LDP/lkmpg/2.6/lkmpg.pdf)
 
 ## Advanced Linux
 
-- [Virtual Containers](https://github.com/Citrix-TechSpecialist/Docker-101)
-- [Virtualization with Virtualbox](https://www.virtualbox.org/manual/ch01.html)
+- [Virtualisation de Containeurs](https://github.com/Citrix-TechSpecialist/Docker-101)
+- [Virtualisation avec Virtualbox](https://www.virtualbox.org/manual/ch01.html)
 
 ## Other Awesome Lists
 
 *These are the list that I highly recommended:*
-- [Awesome Linux Audio](https://github.com/nodiscc/awesome-linuxaudio)
-- [Awesome Self-hosted](https://github.com/kickball/awesome-selfhosted)
+- [Awesome Audio Linux](https://github.com/nodiscc/awesome-linuxaudio)
+- [Awesome Auto-Hébergement](https://github.com/kickball/awesome-selfhosted)
 - [Awesome Sysadmin](https://github.com/n1trux/awesome-sysadmin)
 
-## Contributors
+## Contributeurs
 
-Thanks to [**All of Github contributors**](https://github.com/LewisVo/Awesome-Linux-Software/graphs/contributors) for making this list possible and
-*Everyone @ reddit.com/r/linux & reddit.com/r/ubuntu & vozforums.com & other forums for many suggestions and compliments*
+Merci à [**Tous les Contributeurs Github**](https://github.com/LewisVo/Awesome-Linux-Software/graphs/contributors) pour avoir rendu cette liste possible et
+*Tout le monde sur @ reddit.com/r/linux & reddit.com/r/ubuntu & vozforums.com & et autres forums pour leurs mutltiples suggestions et compliments*
  ...
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆ Retour en haut](#table-of-contents)**
 
 
 <br>
 
-## Guidelines to contribute
+## Guide pour contribuer
 
-> Simply put the name of the **application** in the list.
-> Link to its **homepage** or a **guide** on how to install it.
-> Also write a **short description** for the application + add **icon**.
-> Make sure it is put under the **appropriate topic**.
-> If the application doesn't fit in any **existing topic**, make a **new one** for it.
-> Ensure everything is **alphabetically sorted**.
+> Mettez simplement le nom de l'**application** dans la liste.
+> Mettre un lien avec sa **homepage** ou un **guide** sur son installation.
+> Aussi ecrivez une **petite description** de l'application + ajouter une **icône**.
+> Faite bien attention de l'avoir placé dans **le topic approprié**.
+> Si l'application ne correspond à aucun **topic existant**, créez en **un nouveau** pour lui.
+> Faite en sorte que tout est bien **classé par ordre alphabétique**.
 
-## Unsure how to contribute?
+## Comment contribuer ?
 
-- [How to Use Github](https://guides.github.com/activities/forking/)
-- [How to Git from the Command Line](https://rogerdudler.github.io/git-guide/)
-- [What is Markdown?](https://github.com/LewisVo/Markdown-Tutorial) - Markdown is the writing method used to create this list, if you want to know how to format properly, it's best that you learn how to use Github Markdown.
-- [Alternative Markdown Guide:](https://guides.github.com/features/mastering-markdown/)
+- [Comment utiliser Github](https://guides.github.com/activities/forking/)
+- [Comment utiliser Git en Ligne de Commande](https://rogerdudler.github.io/git-guide/)
+- [Qu'est-ce que Markdown?](https://github.com/LewisVo/Markdown-Tutorial) - Markdown est le style d'écriture pour la création de cette liste, si vous voulez savoir comment bien le formater, il est préférable d'apprendre comment utiliser Github Markdown.
+- [Guide Alternatif pour Markdown:](https://guides.github.com/features/mastering-markdown/)
 
-*Items marked with ![Open-Source Software][OSS Icon] are open-source software and link to the source code. Items marked with [![Nonfree][Money Icon] are nonfree (as in nonfree beer) and may cost money to use.*
+*Les éléments marqués avec ![Open-Source Software][OSS Icon] sont des logiciels open-source et un lien vers le code source. Les éléments marqués avec [![Nonfree][Money Icon] sont payant(comme avec une biére qui n'est pas gratuite).*
 
 <br>
 
-*Author's note: Recently, I received feedbacks from you about the quality of some applications on this list. I myself tested them out a lot (not all of them, though). If you have any problems with the apps, please: -> head to the dev page (if available) -> make an issue for the dev there -> make an issue here so that I can consider whether I should get the app out of the list. Remember : Everything has its own quality, so there will never be anything like "best app" or "selective list" here, thank you.*
+*Note de l'auteur: Récemment, J'ai de reçu de votre part des retours sur la qualité de certaines applications. J'en ai moi même testé une grande quantité (mais pas toutes). Si vous avez des problèmes aves les applications, S'il vous plaît: -> diriger vous vers la page dev (si disponible) -> faites une issue pour le dev ici -> faire une issue ici comme ça je peux conciderer si je sort où pas l'application de la liste. Rappellez vous : Tout à sa propre qualité, donc il n'y aura jamais de "meilleur application" ou "de liste sélective" ici, merci.*
 
 <br>
 
 ## License
 
-[![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
+[![License Creative Commons](http://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
 
-This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+Ce travail est sous licence [Licence internationale Creative Commons Attribution 4.0](http://creativecommons.org/licenses/by/4.0/).
 
 <div id='donation'/>
 <a href="https://www.patreon.com/luongtranthanhvo"><img src="http://i.imgur.com/xrhJFXb.png" height="40px"></a> <a href="https://www.paypal.me/LuongTranThanhVo"><img src="http://i.imgur.com/O7lPSEP.png" height="40px" ></a> <a href="https://beerpay.io/LewisVo/Minitask"><img src="https://beerpay.io/LewisVo/Minitask/badge.svg" /></a>
 
 
-A beer in your country can buy a meal in mine.
+Une biére dans votre pays peut acheter un repase dans le mien.
 
 [chitchat]: https://github.com/stonesam92/ChitChat
 [OSS Icon]: https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg
