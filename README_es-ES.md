@@ -704,6 +704,7 @@
 
 #### Tiempo y tareas orientadas
 - [![Open-Source Software][OSS Icon]](http://bazaar.launchpad.net/~joh/alarm-clock/trunk/files) [Alarm Clock](http://alarm-clock.pseudoberries.com/) - Alarm Clock es un despertador con muchas características.
+- [![Open-Source Software][OSS Icon]](http://git.calcurse.org/calcurse.git/) [calcurse](http://calcurse.org/) - Un calendario y planificador para la línea de comando. 
 - [California](https://wiki.gnome.org/Apps/California) - Un reemplazo de la aplicación de calendario, que puede aceptar entrada de lenguaje natural.
 - ![Nonfree][Money Icon] [Everdo](https://everdo.net/linux) - Everdo es una aplicación para el desarrollo y la gestión del trabajo que es multiplataforma y no un Software como servicio.
 - [![Open-Source Software][OSS Icon]](https://github.com/codito/gnome-pomodoro) [Gnome Pomodoro](http://gnomepomodoro.org/#download) - Un temporizador Pomodoro para GNOME que tiene muchas características.
@@ -875,6 +876,7 @@
 - [![Open-Source Software][OSS Icon]](https://launchpad.net/zim) [Zim](http://zim-wiki.org/) - Un editor de texto gráfico que se puede utilizar para mantener páginas wiki, notas y documentos. Está diseñado para hacer páginas wiki fácil.
 
 ### Diverso
+- [![Open-Source Software][OSS Icon]](https://displaycal.net/#download) [DisplayCAL](https://displaycal.net/) - Una aplicación de código abierto para la calibración de monitores, con la tecnología de argyllCMS.
 - [![Open-Source Software][OSS Icon]](https://github.com/fontforge/fontforge) [FontForge](https://fontforge.github.io) - Una aplicación multiplataforma libre de la creación de fuentes.
 - [![Open-Source Software][OSS Icon]](https://code.launchpad.net/grub-customizer) [GrubCustomizer](https://launchpad.net/grub-customizer) - Grub Customizer es una interfaz gráfica para configurar los parámetros de GRUB2 / BURG.
 - [![Open-Source Software][OSS Icon]](https://github.com/bohoomil/fontconfig-ultimate) [Infinality bundle & fonts](https://github.com/bohoomil/fontconfig-ultimate) - *Pre-note: Infinality no es mantenido por un desarrollador, puede que no funcione en un futuro próximo.*. Infinality bundle & fonts es un proyecto de código abierto creado para administradores y usuarios de linux que desean mejorar la calidad de renderizado de fuentes en Linux.

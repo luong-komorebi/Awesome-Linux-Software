@@ -224,13 +224,14 @@
 - [Sigil](https://github.com/Sigil-Ebook/Sigil) - Sigil 是一款多平台 EPUB 电子书编辑器。[![Open-Source Software][OSS Icon]](https://github.com/Sigil-Ebook/Sigil) ![Freeware][Freeware Icon]
 
 ### 编辑器
-- [Kakoune](http://kakoune.org/) - 受 Vim 启发。更少的击键次数带来更快的速度。多重选中。直角设计。它的命令与 vi 的相似，并且适用 Vi 的“快捷键作为文本编辑语言”模型。专注于交互，大部分命令提供直接和增量的结果，相对 Vim 还是很有竞争力的（击键次数上）。 [(Github)](https://github.com/mawww/kakoune)
 - [Atom](https://atom.io/) - 21 世纪的可 hack 文本编辑器。 [![Open-Source Software][OSS Icon]](https://github.com/atom/atom) ![Freeware][Freeware Icon]
 - [Bluefish](http://bluefish.openoffice.nl/index.html) - Bluefish 是一款面向程序员和 web 开发者的强大编辑器，带有很多编写网站，脚本和代码的选项。![Freeware][Freeware Icon]
 - [Brackets](http://brackets.io/) - 懂 web 设计的现代文本编辑器。 [![Open-Source Software][OSS Icon]](https://github.com/adobe/brackets) ![Freeware][Freeware Icon]
 - [Emacs](https://www.gnu.org/software/emacs/) - 可扩展，可个性化，免费/自由的文本编辑器——还有更多。 [![Open-Source Software][OSS Icon]](https://github.com/emacs-mirror/emacs)![Freeware][Freeware Icon]
 - [Geany](https://www.geany.org/) - Geany 是一款使用了 GTK+ 工具集的文本编辑器，带有基本的集成开发环境功能。它的开发是为了成为一个小型又快速的 IDE，对其它包仅有不多的依赖。 [![Open-Source Software][OSS Icon]](https://www.geany.org/Download/Git)![Freeware][Freeware Icon]
 - [Gedit](https://wiki.gnome.org/Apps/Gedit) - gedit 是 GNOME 文本编辑器。尽管以简单易用为目标，gedit 仍然是个强大的多功能编辑器。![Freeware][Freeware Icon]
+- [![Open-Source Software][OSS Icon]](https://github.com/GNOME/gnome-builder) [Gnome Builder](https://wiki.gnome.org/Apps/Builder) - Powerful IDE for modern C / C++ / Bash / JavaScript development, made by Gnome Team. One of the best IDE for C/C++ developement (Cmake integrated).
+- [Kakoune](http://kakoune.org/) - 受 Vim 启发。更少的击键次数带来更快的速度。多重选中。直角设计。它的命令与 vi 的相似，并且适用 Vi 的“快捷键作为文本编辑语言”模型。专注于交互，大部分命令提供直接和增量的结果，相对 Vim 还是很有竞争力的（击键次数上）。 [(Github)](https://github.com/mawww/kakoune)
 - [Kate](https://kate-editor.org/get-it/) - Kate 是一个多文档编辑器，从 KDE 2.2 开始就是 KDE 的一部分了。 [![Open-Source Software][OSS Icon]](https://kate-editor.org/build-it/)![Freeware][Freeware Icon]
 - [Gnome Builder](https://wiki.gnome.org/Apps/Builder) - 功能强大的IDE用于现代C / C ++ / Bash / JavaScript开发，由Gnome Team制作。 用于C / C ++开发的最佳IDE之一（Cmake集成） ![Freeware][Freeware Icon]
 - [Lighttable](http://lighttable.com/) - 下一代代码编辑器！支持实时编码。 ![Freeware][Freeware Icon]
@@ -388,6 +389,7 @@
 - [Basket Note Pads](http://basket.kde.org/) - 这个多用途的笔记应用帮助你记下所有类型的笔记。 [![Open-Source Software][OSS Icon]](http://basket.kde.org/svnaccess.php) ![Freeware][Freeware Icon]
 - [Brightness](https://launchpad.net/indicator-brightness) - Ubuntu 下的一个亮度指示器。 ![Freeware][Freeware Icon]
 - [Cairo-Dock](http://glx-dock.org/) - Cairo-Dock 是一个可自定义 dock，插件，面板等的桌面界面。 [![Open-Source Software][OSS Icon]](https://github.com/Cairo-Dock) ![Freeware][Freeware Icon]
+- [![Open-Source Software][OSS Icon]](http://git.calcurse.org/calcurse.git/) [calcurse](http://calcurse.org/) - A calendar and scheduling application for the command line.
 - [California](https://wiki.gnome.org/Apps/California) - Calendar 应用的完整替代方案，可使用自然语言创建事件。![Freeware][Freeware Icon]
 - [Cerebro](https://cerebroapp.com/) - 开源生产力提升工具/MacOS Spotlight 替代工具。 [![Open-Source Software][OSS Icon]](https://github.com/KELiON/cerebro) ![Freeware][Freeware Icon]
 - [CopyQ](http://hluk.github.io/CopyQ/) -CopyQ 是一款高级剪贴板管理器，带有编辑和脚本功能。 ![Freeware][Freeware Icon]
@@ -431,7 +433,7 @@
 - [OpenSSH](http://www.openssh.com/) - OpenSSH 安全 Shell 服务器以及客户端。![Freeware][Freeware Icon]
 - [Seahorse](https://wiki.gnome.org/Apps/Seahorse) - GnuPG 的 Gnome 前端。![Freeware][Freeware Icon]
 - [Tcpdump](http://www.tcpdump.org/) - TCP 调试/抓包工具。![Freeware][Freeware Icon]
-- [Uktools](https://github.com/usbkey9/uktools) - 保持您的系统与最新的内核可用。 也可以清理旧内核。![Freeware][Freeware Icon]
+- [![Open-Source Software][OSS Icon]](https://github.com/usbkey9/uktools) [Uktools](https://github.com/usbkey9/uktools) - 保持您的系统与最新的内核可用。 也可以清理旧内核。![Freeware][Freeware Icon]
 - [GuFW](http://gufw.org/) - Linux 世界中最简单的防火墙之一。 ![Freeware][Freeware Icon][![Open-Source Software][OSS Icon]](https://code.launchpad.net/gui-ufw)
 
 ### 代理
@@ -443,7 +445,7 @@
 
 
 ### 文件共享
-- [aria2](https://aria2.github.io/) - aria2 是一个轻量级的多协议以及多来源命令行下载工具。 [![Open-Source Software][OSS Icon]](https://github.com/aria2/aria2) ![Freeware][Freeware Icon]
+- [](https://aria2.github.io/) - aria2 是一个轻量级的多协议以及多来源命令行下载工具。 [![Open-Source Software][OSS Icon]](https://github.com/aria2/aria2) ![Freeware][Freeware Icon]
 - [CrossFTP](http://www.crossftp.com/ftp-client.htm) - CrossFTP 让 FTP 相关的任务管理变得无比简单。![Freeware][Freeware Icon]
 - [D-lan](http://www.d-lan.net/) - 一个免费的局域网文件分享软件。![Freeware][Freeware Icon]
 - [Deluge](http://deluge-torrent.org/) - Deluge 是一款轻量级，免费的跨平台 BT 客户端。[![Open-Source Software][OSS Icon]](http://dev.deluge-torrent.org/wiki/Development#SourceCode)![Freeware][Freeware Icon]
@@ -541,6 +543,7 @@
 - [VLC](http://www.videolan.org/vlc/index.html) - VLC 是一个免费且开源的跨平台媒体播放器以及框架，可以播放大多数格式的多媒体文件以及 DVS，音频 CD，VCD，以及各种流媒体协议。 [![Open-Source Software][OSS Icon]](https://www.videolan.org/vlc/download-sources.html)![Freeware][Freeware Icon]
 
 ### 其它
+- [![Open-Source Software][OSS Icon]](https://displaycal.net/#download) [DisplayCAL](https://displaycal.net/) - Open Source Display Calibration and Characterization powered by ArgyllCMS.
 - [![Open-Source Software][OSS Icon]](https://github.com/fontforge/fontforge) [FontForge](https://fontforge.github.io) - Free (libre) font editor for Windows, Mac OS X and GNU+Linux.
 - [GrubCustomizer](https://launchpad.net/grub-customizer) - Grub Customizer 是一个让你可以配置 GRUB2/BURG 设置和启动项的图形化界面。 [![Open-Source Software][OSS Icon]](https://code.launchpad.net/grub-customizer) ![Freeware][Freeware Icon]
 - [Infinality bundle & fonts](https://bohoomil.com/) - *注：Infinality 目前开发者不再维护，如果在滚动发行版上，可能不可用*。Infinality bundle & fonts 是一个开源项目，致力于让 Linux 管理员和个人用户有个轻松的方式改善字体渲染质量。 ![Freeware][Freeware Icon]
