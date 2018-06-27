@@ -101,7 +101,7 @@
 - [![Open-Source Software][OSS Icon]](https://ardour.org/development.html) [Ardour](https://ardour.org/) - Grabar sonido, editarlo y remixar en Linux
 - [![Open-Source Software][OSS Icon]](http://audacious-media-player.org/developers) [Audacious](http://audacious-media-player.org/) - Una programa código abierto, poder reproductor de audio que no requiere muchos recursos.
 - [![Open-Source Software][OSS Icon]](https://github.com/audacity/audacity) [Audacity](http://www.audacityteam.org/download/linux/) - Gratis y código abierto, software Multiplataforma para grabar y editar sonido.
-- [Audio Recorder](https://launchpad.net/~audio-recorder/+archive/ubuntu/ppa) - una grabadora de audio fácil de usar disponible en los repositorios de software de ubuntu.
+- [![Open-Source Software][OSS Icon]](https://bazaar.launchpad.net/~audio-recorder/audio-recorder/trunk/files) [Audio Recorder](https://launchpad.net/~audio-recorder) - una grabadora de audio fácil de usar disponible en los repositorios de software de ubuntu.
 - [![Open-Source Software][OSS Icon]](https://github.com/Superjo149/auryo) [Auryo](http://auryo.com/) - Una programa Multiplataforma de SoundCloud® no oficial para linux.
 - [![Open-Source Software][OSS Icon]](https://github.com/CDrummond/cantata) [Cantata](https://www.linux-apps.com/content/show.php/Cantata?content=147733) - Una demonio programa de musico hecho con Qt5 hay un cliente para Linux, windows, macOS.
 - [![Open-Source Software][OSS Icon]](https://github.com/clementine-player/Clementine) [Clementine](https://www.clementine-player.org/) - Es útil para escuchar música con el algoritmo de compresión con o sin pérdida formatica de audio.
@@ -269,6 +269,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/percona/pmm-server) [Percona Monitoring](https://www.percona.com/software/database-tools/percona-monitoring-and-management) - Percona Monitoring and Management (PMM) es una plataforma de código abierto para administrar y supervisar el rendimiento de MySQL, MariaDB y MongoDB.
 - [![Open-Source Software][OSS Icon]](https://github.com/percona/percona-server) [Percona MySQL](https://www.percona.com/software/mysql-database/percona-server) - El servidor Percona para MySQL es un reemplazo de código abierto, compatible y fácil para el servidor MySQL que es muy rápido y tiene escalabilidad.
 - [![Open-Source Software][OSS Icon]](https://github.com/percona/percona-xtradb-cluster) [Percona XtraDB Cluster](https://www.percona.com/software/mysql-database/percona-xtradb-cluster) - Percona XtraDB Clúster tiene alta escalabilidad y es un programa de código abierto para un MySQL Clúster.
+- [![Open-Source Software][OSS Icon]](https://github.com/dbcli/pgcli) [pgcli](https://www.pgcli.com/) - Pgcli es una interfaz de línea de comando para Postgres que puede completar automáticamente y resaltar la sintaxis.
 - [![Open-Source Software][OSS Icon]](https://github.com/postgres/postgres) [PostgreSQL](https://www.postgresql.org/download/) - PostgreSQL es un sistema de base de datos capaz y codigo abierto.
 - [![Open-Source Software][OSS Icon]](https://www.sqlite.org/src/doc/trunk/README.md) [Sqlite](https://sqlite.org/download.html) - SQLite es una biblioteca de software que crea un motor de base de datos SQL sin servidor y autónomo.
 - [![Open-Source Software][OSS Icon]](https://github.com/sqlitebrowser/sqlitebrowser) [Sqlite Browser](http://sqlitebrowser.org/) - Un programa para crear visualmente, administrar y ver bases de datos sqlite.
@@ -286,7 +287,7 @@ La versión de la comunidad es un software de código abierto.
 - [Webstorm](https://www.jetbrains.com/webstorm/) - Un potente Entorno de desarrollo integrado para javascript moderno. Está hecho por la compañía Jetbrains.
 
 #### Microcomputadora y Sistema embebido
-- [Arduino IDE](https://www.arduino.cc/en/Main/Software) - El Arduino Oficial Entorno de desarrollo integrado.
+- [![Open-Source Software][OSS Icon]](https://github.com/arduino/Arduino) [Arduino IDE](https://www.arduino.cc/en/Main/Software) - El Arduino Oficial Entorno de desarrollo integrado.
 - [![Open-Source Software][OSS Icon]](https://github.com/fritzing/fritzing-app) [Fritzing](http://fritzing.org/) - Fritzing es un sitio web de hardware de código abierto que hace que la electrónica sea accesible para todos.
 - [![Open-Source Software][OSS Icon]](https://github.com/jantje/arduino-eclipse-plugin) [Sloeber IDE](http://eclipse.baeyens.it/) - Sloeber IDE. Un Arduino Entorno de desarrollo integrado para Eclipse.
 
@@ -317,8 +318,8 @@ La versión de la comunidad es un software de código abierto.
 - [Genymotion](https://www.genymotion.com/features/) - Genymotion es un emulador rápido que reemplaza al emulador predeterminado de Android.
 - [![Open-Source Software][OSS Icon]](https://git.gnome.org//browse/giggle/) [Giggle](https://wiki.gnome.org/action/show/Apps/giggle?action=show&redirect=giggle) - Giggle es una GUI para el Git Content Tracker.
 - [![Open-Source Software][OSS Icon]](https://github.com/Gisto/Gisto) [Gisto](http://www.gistoapp.com/) - Gisto es un administrador de fragmentos de código que opera en Github Gists. Agrega características como búsqueda, etiquetado y uso compartido.
-- [Git](https://git-scm.com/) - Git es un sistema de control de versiones distribuidas de código abierto que puede funcionar con proyectos grandes y pequeños, de manera eficiente.
-- [![Open-Source Software][OSS Icon]](http://git-cola.github.io/) [GitCola](http://git-cola.github.io/) - Git Cola es un elegante y potente cliente gráfico para Git. Es de código abierto y escrito en Python.
+- [![Open-Source Software][OSS Icon]](https://github.com/git/git) [Git](https://git-scm.com/) - Git es un sistema de control de versiones distribuidas de código abierto que puede funcionar con proyectos grandes y pequeños, de manera eficiente.
+- [![Open-Source Software][OSS Icon]](https://github.com/git-cola/git-cola) [GitCola](http://git-cola.github.io/) - Git Cola es un elegante y potente cliente gráfico para Git. Es de código abierto y escrito en Python.
 - [![Open-Source Software][OSS Icon]](https://wiki.gnome.org/Apps/Gitg#Development_Resources) [Gitg](https://wiki.gnome.org/Apps/Gitg) - gitg es un cliente de la GUI de GNOME para ver los Repositorios de Git.
 - [GitKraken](https://www.gitkraken.com/) - Un lujoso cliente Git que opera en Weendows, MacOS y Linux.
 - [![Open-Source Software][OSS Icon]](https://github.com/gitlabhq/gitlabhq) [GitLab](https://github.com/gitlabhq/gitlabhq) - GitLab es un gestor de repositorio Git basado en la web. Puede crear y administrar un wiki y realizar un seguimiento de los problemas.
@@ -337,7 +338,7 @@ La versión de la comunidad es un software de código abierto.
 - [![Open-Source Software][OSS Icon]](http://uncrustify.sourceforge.net) [Uncrustify](http://uncrustify.sourceforge.net/) - Un programa que hace que el código fuente se vea mejor. El programa funciona con C, C ++, Objetivo C, D, Java, Peón y VALA.
 - [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/universalindent/files/uigui/) [UniversalIndentGUI](http://universalindent.sourceforge.net/) - UniversalIndentGUI muestra una vista previa de la configuración de los indentadores.
 - [![Open-Source Software][OSS Icon]](https://www.gnu.org/software/wdiff/devguide) [Wdiff](https://www.gnu.org/software/wdiff/) - Es un programa GNU GUI para diff para comparar palabras entre archivos.
-- [Wireshark](https://www.wireshark.org/) - Wireshark es un analizador de protocolo de red muy popular.
+- [![Open-Source Software][OSS Icon]](https://code.wireshark.org/review/gitweb?p=wireshark.git;a=tree) [Wireshark](https://www.wireshark.org/) - Wireshark es un analizador de protocolo de red muy popular.
 - [![Open-Source Software][OSS Icon]](https://github.com/zealdocs/zeal) [Zeal](https://zealdocs.org/) - Zeal es un navegador de documentación para desarrolladores de software.
 
 ### Utilitarios des libros electrónicos
@@ -404,6 +405,7 @@ La versión de la comunidad es un software de código abierto.
 - [![Open-Source Software][OSS Icon]](https://github.com/KDE/ktouch) [Ktouch](https://github.com/KDE/ktouch) - KTouch es un programa que te enseña a escribir sin mirar el teclado.
 - ![Nonfree][Money icon] [MAPLE](http://www.maplesoft.com/products/maple/) - Maple es un software de matemáticas que es muy capaz, y tiene una interfaz fácil de usar para ayudar a explicar los problemas de matemáticas.
 - ![Nonfree][Money icon] [MapTiler](https://www.maptiler.com/) - MapTiler crea un mapa ráster ampliable a partir de imágenes en un sistema de coordenadas definido por el usuario.
+- [![Open-Source Software][OSS Icon]](https://cgit.kde.org/marble.git) [Marble](https://marble.kde.org/) - Marble es un mundo virtual y atlas.
 - ![Nonfree][Money icon] [MATLAB](http://www.mathworks.com/products/matlab/?requestedDomain=www.mathworks.com) - Matlab es un programa diseñado para resolver problemas de ingeniería y científicos. Le permite ejecutar análisis sobre los problemas con los equipos, o incluso los clústeres de computadora.
 - [![Open-Source Software][OSS Icon]](http://maxima.sourceforge.net/project.html) [Maxima](http://maxima.sourceforge.net/) - Maxima es un programa que te permite trabajar con expresiones simbólicas y numéricas. Esto incluye: diferenciación, integración, serie de Taylor, transformadas de Laplace, ecuaciones diferenciales ordinarias y sistemas de ecuaciones lineales.
 - [![Open-Source Software][OSS Icon]](https://github.com/moodle/moodle) [Moodle](https://download.moodle.org/) - Un sistema de gestión escolar para el aprendizaje en línea.
@@ -415,7 +417,6 @@ La versión de la comunidad es un software de código abierto.
 - [![Open-Source Software][OSS Icon]](https://scipy.org/stackspec.html#stackspec) [Scipy](https://scipy.org/install.html) - SciPy Un grupo basado en python de software para matemáticas, ciencias e ingeniería.
 - [![Open-Source Software][OSS Icon]](https://github.com/LLK/scratch-flash) [Scratch](https://scratch.mit.edu/) - Scratches es un programa que te permite crear historias interactivas, juegos y animaciones. También le permite compartir estas creaciones con personas en línea.
 - [![Open-Source Software][OSS Icon]](https://sourceforge.net/p/stellarium/code/HEAD/tree/) [Stellarium](http://www.stellarium.org/) - Es un programa de planetario de código abierto.
-- [![Open-Source Software][OSS Icon]](http://tux4kids.alioth.debian.org/dev.php) [Tux4Kids](http://tux4kids.alioth.debian.org/) - Tux4Kids es un sitio web que desarrolla programas para niños que son educativos.
 - [![Open-Source Software][OSS Icon]](https://github.com/ugeneunipro/ugene) [UGENE](http://ugene.net/) - UGENE es un software multiplataforma basado en GUI basado en la bioinformática.
 
 ### Herramientas para email
@@ -581,6 +582,7 @@ es un creador de imágenes GIF de código abierto.
 - [![Open-Source Software][OSS Icon]](https://github.com/jp9000/OBS) [OBS Studio](https://obsproject.com/) - Un programa de código abierto para la grabación de vídeo y transmisión en vivo. Es multiplataforma y puede crear muchos tipos diferentes de flujos en línea.
 - [![Open-Source Software][OSS Icon]](https://github.com/phw/peek) [Peek](https://github.com/phw/peek) - Un sencillo y fácil de usar grabador de escritorio GIF.
 - [![Open-Source Software][OSS Icon]](https://github.com/colinkeenan/silentcast) [Silentcast](https://github.com/colinkeenan/silentcast) - Una grabadora de escritorio que crea archivos MKV, y también puede hacer archivos GIF animados.
+- [![Open-Source Software][OSS Icon]](https://github.com/MaartenBaert/ssr) [SimpleScreenRecorder](http://www.maartenbaert.be/simplescreenrecorder/) - SimpleScreenRecorder, es una simple grabadora de escritorio para Linux.
 - [![Open-Source Software][OSS Icon]](https://github.com/vkohaupt/vokoscreen) [Vokoscreen](http://www.kohaupt-online.de/hp/) - Una grabadora de screencast multilingüe de código abierto para Linux.
 
 #### Captura de pantalla
@@ -588,7 +590,7 @@ es un creador de imágenes GIF de código abierto.
 - [![Open-Source Software][OSS Icon]](https://github.com/olav-st/screencloud) [Screencloud](http://screencloud.net/) - ScreenCloud es una herramienta de captura de pantalla fácil de usar que te permite compartir las imágenes en línea. Funciona en múltiples plataformas.
 - [![Open-Source Software][OSS Icon]](https://github.com/ShareX/ShareX) [ShareX](https://getsharex.com) - ShareX es un programa gratuito y de código abierto que le permite capturar o grabar cualquier área de su pantalla y compartirla con solo presionar una tecla. También permite subir imágenes, texto u otros tipos de archivos a más de 80 destinos admitidos entre los que puede elegir.
 - [![Open-Source Software][OSS Icon]](https://github.com/binjospookie/--shots) [Shots](https://theshots.ru/) - Una aplicación de captura de pantalla de HTML / CSS / JS.
-- [Shutter](http://shutter-project.org/) - Shutter es un programa de captura de pantalla con muchas características para Linux.
+- [![Open-Source Software][OSS Icon]](https://launchpad.net/shutter/) [Shutter](http://shutter-project.org/) - Shutter es un programa de captura de pantalla con muchas características para Linux.
 
 #### Transmisión
 - [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/minidlna) [ReadyMedia](http://minidlna.sourceforge.net/) - El programa se llamaba **MiniDLNA** pero es un software de servidor de medios simple y rápido. Está diseñado para trabajar con clientes DLNA / UPnP-AV. Puede servir imágenes, música y video a teléfonos inteligentes, televisores, computadoras y algunas consolas de juegos.
@@ -598,8 +600,8 @@ es un creador de imágenes GIF de código abierto.
 - [![Open-Source Software][OSS Icon]](https://github.com/jliljebl/flowblade) [Flowblade](https://github.com/jliljebl/flowblade/releases/tag/1.12.2) - Un editor de video multipista no lineal.
 - [![Open-Source Software][OSS Icon]](https://github.com/KDE/kdenlive) [Kdenlive](https://kdenlive.org/) - Kdenlive es un editor de vídeo no lineal, que es potente y muy capaz.
 - [![Nonfree][Money Icon] [Lightworks](https://www.lwks.com/) - Es un software de edición de vídeo profesional no lineal que también tiene una versión gratuita.
-- [OpenShot](http://www.openshot.org/) - OpenShot es un editor de video gratuito y fácil de usar para Linux.
-- [Pitivi](http://www.pitivi.org/) - es un editor de video gratuito que tiene una interfaz de usuario hermosa y fácil de usar. Tiene una comunidad muy amigable.
+- [![Open-Source Software][OSS Icon]](https://github.com/OpenShot/openshot-qt) [OpenShot](http://www.openshot.org/) - OpenShot es un editor de video gratuito y fácil de usar para Linux.
+- [![Open-Source Software][OSS Icon]](https://gitlab.gnome.org/GNOME/pitivi) [Pitivi](http://www.pitivi.org/) - es un editor de video gratuito que tiene una interfaz de usuario hermosa y fácil de usar. Tiene una comunidad muy amigable.
 - [![Open-Source Software][OSS Icon]](https://github.com/mltframework/shotcut) [Shotcut](https://www.shotcut.org/) - Shotcut es un editor de video multiplataforma de código abierto que soporta cientos de formatos de archivo de video y audio.
 - [![Open-Source Software][OSS Icon]](https://github.com/ozmartian/vidcutter) [Vidcutter](http://vidcutter.ozmartians.com/) - Una plataforma multiplataforma basada en QT5 diseña para la edición de vídeo pequeña y fácil.
 
@@ -620,13 +622,13 @@ es un creador de imágenes GIF de código abierto.
 
 #### Herramienta de navegador web
 - [Clipgrab](https://clipgrab.org/) - Un descargador fácil de usar para youtube y otros sitios web.
-- [![Open-Source Software][OSS Icon]](https://github.com/jarun/ddgr) [ddgr](https://github.com/jarun/ddgr) - Utiliza duckduckgo desde la línea de comandos.
-- [Tor](https://www.torproject.org/) - Tor es un software libre y una red que le permite navegar en la privacidad.
+- [![Open-Source Software][OSS Icon]](https://gitweb.torproject.org/tor.git) [Tor](https://www.torproject.org/) - Tor es un software libre y una red que le permite navegar en la privacidad.
 - [![Open-Source Software][OSS Icon]](https://github.com/rg3/youtube-dl) [youtube-dl](https://github.com/rg3/youtube-dl) - Es un programa que puede descargar videos de youtube.com y otros sitios web de video.
 - [![Open-Source Software][OSS Icon]](https://github.com/MrS0m30n3/youtube-dl-gui) [youtube-dlg](https://mrs0m30n3.github.io/youtube-dl-gui/#downloads) - Youtube-dlg Es una GUI para youtube-dl que te permite copiar y pegar el enlace de un sitio web de video, y puede procesar las descargas en paralelo.
 - [![Open-Source Software][OSS Icon]](https://github.com/zerotier/ZeroTierOne) [Zerotier](https://my.zerotier.com) - Zerotier es un programa que crea una red virtual solo para tus dispositivos, esta se envía completamente encriptada a través de Internet.
 
 #### Cliente de servicios web
+- [![Open-Source Software][OSS Icon]](https://cgit.kde.org/akregator.git/) [Akregator](https://userbase.kde.org/Akregator) - Un lector de feeds para KDE.
 - [![Open-Source Software][OSS Icon]](http://choqok.gnufolks.org/) [Choqok](http://choqok.gnufolks.org/) - Choqok es un cliente escrito en QT5 para Twitter, GNU Social, Friendica y Pump.IO.
 - [![Open-Source Software][OSS Icon]](https://github.com/baedert/corebird) [Corebird](http://corebird.baedert.org/) - Corebird es una aplicación diseñada en GTK + para twitter.
 - [![Open-Source Software][OSS Icon]](https://github.com/jangernert/FeedReader) [FeedReader](https://github.com/jangernert/FeedReader) - Una aplicación de escritorio moderna que está diseñada para aceptar feeds RSS.
@@ -642,6 +644,8 @@ es un creador de imágenes GIF de código abierto.
 - [![Open-Source Software][OSS Icon]](https://github.com/Gnucash/) [GnuCash](https://www.gnucash.org/) - GnuCash es un software de código abierto que es un sistema de contabilidad. Está diseñado para ser similar a Intuit Quicken.
 - [![Open-Source Software][OSS Icon]](https://code.launchpad.net/homebank) [HomeBank](http://homebank.free.fr/en/index.php) - HomeBank es un software gratuito que lo ayudará a administrar su contabilidad personal.
 - [![Open-Source Software][OSS Icon]](https://github.com/KDE/kmymoney) [KMyMoney](https://kmymoney.org/) - KMyMoney es un administrador de finanzas personales creado por el proyecto KDE.
+- [![Open-Source Software][OSS Icon]](https://cgit.kde.org/skrooge.git) [Skrooge](https://skrooge.org/) - Un gerente de finanzas personales para el escritorio de KDE.
+
 
 #### Suite ofimática
 - [Caligra Office](https://www.calligra.org/) - Un conjunto de ocho aplicaciones que permiten al usuario las necesidades de una hoja de cálculo, un procesador de textos y un gestor de presentaciones.
@@ -688,6 +692,7 @@ es un creador de imágenes GIF de código abierto.
 - [![Open-Source Software][OSS Icon]](https://github.com/DoTheEvo/ANGRYsearch) [AngrySearch](https://github.com/DoTheEvo/ANGRYsearch) - Un programa que busca archivos en linux, y funciona mientras escribe.
 - [![Open-Source Software][OSS Icon]](https://code.launchpad.net/catfish-search) [Catfish](https://launchpad.net/catfish-search) - Catfish es una herramienta de búsqueda muy versátil.
 - [![Open-Source Software][OSS Icon]](https://github.com/KELiON/cerebro) [Cerebro](https://cerebroapp.com/) - Un programa que es de código abierto y ayuda a aumentar la productividad.
+- [![Open-Source Software][OSS Icon]](https://github.com/cboxdoerfer/fsearch) [fsearch](https://github.com/cboxdoerfer/fsearch) - Una utilidad de búsqueda de archivos escrita en GTK + 3
 - [![Open-Source Software][OSS Icon]](https://github.com/p-e-w/plotinus) [Plotinus](https://github.com/p-e-w/plotinus) - Un programa que le permite buscar comandos válidos para cada aplicación GTK.
 
 #### Verio
@@ -820,7 +825,7 @@ es un programa SUID que crea seguridad mediante la restricción de aplicaciones 
 ### Herramientas
 - [![Open-Source Software][OSS Icon]](https://github.com/angryip/ipscan) [Angry IP Scanner](http://angryip.org/) - Un escáner de red rápido y fácil de usar.
 - [![Open-Source Software][OSS Icon]](https://code.launchpad.net/~teejee2008/apt-toolkit/trunk) [Aptik](http://www.teejeetech.in/2014/01/introducing-aptik.html) - Una herramienta que le permite organizar su PPA y paquetes favoritos fácilmente.
-- [Bleach bit](https://www.bleachbit.org/) - Este programa limpia los archivos adicionales e innecesarios. también puede eliminar las cookies del sitio web, borrar el historial de Internet y eliminar los registros.
+- [![Open-Source Software][OSS Icon]](https://github.com/bleachbit/bleachbit) [Bleach bit](https://www.bleachbit.org/) - Este programa limpia los archivos adicionales e innecesarios. también puede eliminar las cookies del sitio web, borrar el historial de Internet y eliminar los registros.
 - [![Open-Source Software][OSS Icon]](https://github.com/GNOME/brasero) [Brasero](https://wiki.gnome.org/Apps/Brasero) - Una grabadora de DVD fácil de usar y efectiva.
 - [![Open-Source Software][OSS Icon]](https://github.com/chrisallenlane/cheat) [Cheat](https://github.com/chrisallenlane/cheat) - es un programa que le permite ver una guía para comandos en la línea de comandos.
 - [![Open-Source Software][OSS Icon]](http://clonezilla.org/related-links/) [Clonezilla](http://clonezilla.org/) - Clonezilla es un programa de clonación de particiones y discos similar al Norton Ghost.
@@ -844,6 +849,7 @@ es un programa SUID que crea seguridad mediante la restricción de aplicaciones 
 - [![Open-Source Software][OSS Icon]](https://github.com/KDE/kdeconnect-kde) [KDE-Connect](https://community.kde.org/KDEConnect) - Un programa que le permite vincular un teléfono Android con un escritorio Linux y usar el teléfono como mouse, controlar un reproductor de música y más.
 - [KeePass](https://www.keepass.info/) - Un administrador de contraseñas centrado en Windows, pero también funciona en Linux.
 - [![Open-Source Software][OSS Icon]](https://github.com/keeweb/keeweb) [KeeWeb](https://github.com/keeweb/keeweb) - Un administrador de contraseñas multiplataforma.
+- [![Open-Source Software][OSS Icon]](https://github.com/jordansissel/keynav) [Keynav](http://www.semicomplete.com/projects/keynav/) - Keynav es un programa que le permite presionar una tecla para mover el cursor del mouse a un área específica de un escritorio.
 - [![Open-Source Software][OSS Icon]](https://github.com/iabem97/komorebi) [Komorebi](https://github.com/iabem97/komorebi/releases) - Komorebi es un gestor de fondo para Linux, que te permite usar el video como fondo.
 - [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/kvm/files/) [KVM](http://www.linux-kvm.org/page/Main_Page) - KVM (Kernel-based Virtual Machine) es un programa para la virtualización de computadoras en Linux y funciona con extensiones de virtualización de Intel VT o AMD-V.
 - [LastPass](https://lastpass.com/misc_download2.php) - LastPass es un servicio de gestión de contraseñas multiplataforma que almacena contraseñas.
@@ -860,7 +866,7 @@ es un programa SUID que crea seguridad mediante la restricción de aplicaciones 
 - [![Open-Source Software][OSS Icon]](http://git.wpitchoune.net/psensor.git/) [Psensor](http://wpitchoune.net/psensor/) - Un monitor gráfico de temperatura para Linux.
 - [Pulse Audio](https://wiki.ubuntu.com/PulseAudio) - Un programa que mejora el sonido de Linux con perfiles de audio.
 - [![Open-Source Software][OSS Icon]](https://github.com/FreeRDP/Remmina) [Remmina](http://www.remmina.org/wp/) - Una aplicación de escritorio remoto para Linux, también funciona con otros sistemas unix.
-- [![Open-Source Software][OSS Icon]](https://code.launchpad.net/~maarten-baert) [SimpleScreenRecorder](hhttp://www.maartenbaert.be/simplescreenrecorder/) - SimpleScreenRecorder es un programa diseñado para grabar tu pantalla, con muchas características.
+- [![Open-Source Software][OSS Icon]](https://github.com/sahib/rmlint) [rmlint](https://rmlint.readthedocs.io/en/latest/) - rmlint es un programa que encuentra espacio adicional en un sistema de archivos y lo hace disponible.
 - [![Open-Source Software][OSS Icon]](https://github.com/oguzhaninan/Stacer) [Stacer](https://github.com/oguzhaninan/Stacer) - Un popular programa utilizado para optimizar Ubuntu Linux.
 - [![Open-Source Software][OSS Icon]](https://github.com/antonio-malcolm/gloobus-preview) [Gloobus-Preview](https://github.com/antonio-malcolm/gloobus-preview) - Un programa que prevé sus archivos. Esto es similar a [Sushi](https://github.com/GNOME/sushi)
 - [![Open-Source Software][OSS Icon]](https://github.com/GNOME/sushi) [Sushi](https://github.com/GNOME/sushi) - Sushi es un previsualizador de archivos para Nautilus.
@@ -884,8 +890,9 @@ es un programa SUID que crea seguridad mediante la restricción de aplicaciones 
 - [![Open-Source Software][OSS Icon]](https://github.com/xylosper/bomi) [Bomi Player](https://bomi-player.github.io/) - Un reproductor multimedia capaz y fácil de usar.
 - [![Open-Source Software][OSS Icon]](https://github.com/GNOME/cheese) [Cheese](https://wiki.gnome.org/Apps/Cheese) - Es una aplicación que puede utilizar tu cámara web para tomar fotos y videos, y aplicar efectos especiales al resultado.
 - [![Open-Source Software][OSS Icon]](https://github.com/xbmc/xbmc) [Kodi](https://kodi.tv/about/) - Un programa de código abierto para reproducir videos, música, fotos, juegos y más en tu sala de estar.
-- [Miro](http://www.getmiro.com/) - Una aplicación gratuita que puede reproducir muchos canales de video y transmisiones en línea.
-- [MPlayer](http://www.mplayerhq.hu/design7/news.html) - MPlayer es un reproductor de películas que se ejecuta en muchos sistemas operativos, y puede reproducir muchos tipos de videos.
+- [![Open-Source Software][OSS Icon]](https://github.com/pculture/miro) [Miro](http://www.getmiro.com/) - Una aplicación gratuita que puede reproducir muchos canales de video y transmisiones en línea.
+- [![Open-Source Software][OSS Icon]](https://github.com/lettier/movie-monad) [Movie Monad](https://lettier.github.io/movie-monad) - Es un reproductor de video fácil de usar, escrito en haskell.
+- [![Open-Source Software][OSS Icon]](http://www.mplayerhq.hu/design7/dload.html) [MPlayer](http://www.mplayerhq.hu/design7/news.html) - MPlayer es un reproductor de películas que se ejecuta en muchos sistemas operativos, y puede reproducir muchos tipos de videos.
 - [![Open-Source Software][OSS Icon]](https://github.com/mpv-player/mpv) [MPV](https://www.mpv.io) - Un reproductor multimedia de código abierto y multiplataforma.
 - [![Open-Source Software][OSS Icon]](https://sourceforge.net/p/smplayer/code/HEAD/tree/) [SMPlayer](http://smplayer.sourceforge.net/) - Un reproductor multimedia gratuito con códecs incorporados.
 - [SVP](https://www.svp-team.com/w/index.php?title=Main_Page) - un programa que te permite ver videos en tu escritorio usando interpolación de cuadros.
@@ -908,6 +915,7 @@ es un programa SUID que crea seguridad mediante la restricción de aplicaciones 
 - [![Open-Source Software][OSS Icon]](https://github.com/jarun/Buku) [Buku](https://github.com/jarun/Buku) - Un administrador de marcadores para la línea de comandos.
 - [![Open-Source Software][OSS Icon]](https://github.com/athityakumar/colorls) [Color LS](http://www.omgubuntu.co.uk/2017/07/add-bling-ls-bash-command-colorls) - Color LS es una "Ruby Gem" que hace que el comando 'ls' en Linux sea más bonito y muestre más información.
 - [![Open-Source Software][OSS Icon]](https://github.com/ssimunic/Daily-Reddit-Wallpaper) [Daily Reddit Wallpaper](https://github.com/ssimunic/Daily-Reddit-Wallpaper) - Un programa que cambia tu fondo de pantalla a la imagen más actualizada en /r/Wallpapers o cualquier subreddit en Reddit.
+- [![Open-Source Software][OSS Icon]](https://github.com/jarun/ddgr) [ddgr](https://github.com/jarun/ddgr) - Utiliza duckduckgo desde la línea de comandos.
 - [![Open-Source Software][OSS Icon]](https://github.com/resin-io/etcher) [Etcher CLI](https://etcher.io/cli/) - Etcher CLI es una herramienta de línea de comandos que tiene como objetivo proporcionar todos los beneficios de la aplicación de escritorio Etcher de una manera que se puede ejecutar desde un terminal, o incluso utilizar desde un script.
 - [![Open-Source Software][OSS Icon]](https://github.com/ogham/exa) [exa](https://the.exa.website/) - exa es un reemplazo moderno para el comando 'ls'.
 - [![Open-Source Software][OSS Icon]](https://github.com/LubuntuFu/fishfry) [Fishfry](https://github.com/LubuntuFu/fishfry) - reemplaza el historial de la línea de comandos de pescado con uno diseñado para pentesters.

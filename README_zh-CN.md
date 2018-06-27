@@ -81,7 +81,7 @@
 - [Ardour](https://ardour.org/) - 在 Linux 上录音，编辑，和混音
 - [Audacious](http://audacious-media-player.org/) - 开源音频播放器，按你想要的方式播放你的音乐，不占用你其它任务的电脑资源。[![Open-Source Software][OSS Icon]](http://audacious-media-player.org/developers)
 - [Audacity](http://www.audacityteam.org/download/linux/) - 免费，开源，跨平台的声音录制、编辑软件。 [![Open-Source Software][OSS Icon]](https://github.com/audacity/audacity)
-- [Audio Recorder](https://launchpad.net/~audio-recorder/+archive/ubuntu/ppa) - 简单的声音录制软件，就在 ubuntu ppa。
+- [![Open-Source Software][OSS Icon]](https://bazaar.launchpad.net/~audio-recorder/audio-recorder/trunk/files) [Audio Recorder](https://launchpad.net/~audio-recorder) - 简单的声音录制软件，就在 ubuntu ppa。
 - [Clementine](https://www.clementine-player.org/) - 播放无数的有损和无损音频格式。 [![Open-Source Software][OSS Icon]](https://github.com/clementine-player/Clementine)
 - [Google Play Music](https://www.googleplaymusicdesktopplayer.com/) - 非官方但很漂亮的跨平台 Google Play Music 桌面客户端。[![Open-Source Software][OSS Icon]](https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-)
 - [Harmony](http://getharmony.xyz) - 有着整洁界面且兼容云的音乐播放器。 [![Open-Source Software][OSS Icon]](https://github.com/vincelwt/harmony)
@@ -164,7 +164,7 @@
 - [Clion](https://www.jetbrains.com/clion/) - 一款强大的跨平台 C 以及 C++ IDE。
 - [Android studio](https://developer.android.com/studio/index.html) - Android 的官方 IDE：Android Studio 提供在各种类型的安卓设备上构建应用最快的工具。
 - [Aptana](http://www.aptana.com/) - Aptana Studio 利用了 Eclipse 的灵活性并且专注于让它成为强大的 web 开发引擎。
-- [Arduino IDE](https://www.arduino.cc/en/Main/Software) - 开源的 Arduino 软件（IDE）让编写代码和上传代码到开发板变得简单。
+- [![Open-Source Software][OSS Icon]](https://github.com/arduino/Arduino) [Arduino IDE](https://www.arduino.cc/en/Main/Software) - 开源的 Arduino 软件（IDE）让编写代码和上传代码到开发板变得简单。
 - [BlueJ](http://bluej.org/) - 一款为新手设计的免费 Java 开发环境，世界范围内数百万人使用。
 - [Code::Blocks](http://www.codeblocks.org/) - Code::Blocks 是一款为满足大部分用户需求构建的免费的 C，C++ 以及 Fortran IDE。它可扩展并且可配置性强。
 - [Codelite](http://codelite.org/) - 一款免费，开源，跨平台的 C，C++，PHP，以及 Node.js IDE。
@@ -178,7 +178,8 @@
 - [Geany](https://www.geany.org/) - Geany 是一款基于 GTK+ 的文本编辑器，带有基本的集成开发环境特性。它的开发是为了提供一个小型并且快速的 IDE，对其它包只有很少的的依赖。 [![Open-Source Software][OSS Icon]](https://www.geany.org/Download/Git)
 - [Genymotion](https://www.genymotion.com/features/) - Genymotion 是一款可以用来替代默认安卓模拟器的第三方模拟器。
 - [Giggle](https://wiki.gnome.org/action/show/Apps/giggle?action=show&redirect=giggle) - Giggle 一款 git 内容追踪的图形化前端。 [![Open-Source Software][OSS Icon]](https://git.gnome.org//browse/giggle/)
-- [GitCola](http://git-cola.github.io/) - Git Cola 是一款整洁且强大的图形化 Git 客户端。用 Python 写就并签署于 GPL 协议。
+- [![Open-Source Software][OSS Icon]](https://github.com/git/git) [Git](https://git-scm.com/) - Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
+- [![Open-Source Software][OSS Icon]](https://github.com/git-cola/git-cola) [GitCola](http://git-cola.github.io/) - Git Cola 是一款整洁且强大的图形化 Git 客户端。用 Python 写就并签署于 GPL 协议。
 - [Gitg](https://wiki.gnome.org/Apps/Gitg) - gitg is the GNOME GUI client to view git repositories. [![Open-Source Software][OSS Icon]](https://wiki.gnome.org/Apps/Gitg#Development_Resources)
 - [GitKraken](https://www.gitkraken.com/) - 强大酷炫的 Git 图形化客户端，支持 Windows，Mac 以及 Linux。
 - [Git](https://git-scm.com/) - Git 是一款免费和开源的分布式版本管理系统，被设计用来快速和高效地处理从小项目到大项目的一切内容。
@@ -209,7 +210,7 @@
 - [Sqlite Browser](http://sqlitebrowser.org/) - 可视化创建，管理，以及查看 sqlite 数据库文件。  [![Open-Source Software][OSS Icon]](https://github.com/sqlitebrowser/sqlitebrowser)
 - [Zsh](http://www.zsh.org/) -  一款强大的命令行 shell。 [![Open-Source Software][OSS Icon]](http://sourceforge.net/p/zsh/code/ci/master/tree/)
 - [SmartGit](http://www.syntevo.com/smartgit/) - SmartGit 是一款 Git 客户端，支持 Github 的 Pull Requests 和评论以及 SVN。
-- [Wireshark](https://www.wireshark.org/) - Wireshark 是世界领先的网络协议分析器。它让你可以在微观层级观察你的网络上发生了什么。它是许多工业和教育行业事实上的（经常也是法律上的）标准。
+- [![Open-Source Software][OSS Icon]](https://code.wireshark.org/review/gitweb?p=wireshark.git;a=tree) [Wireshark](https://www.wireshark.org/) - Wireshark 是世界领先的网络协议分析器。它让你可以在微观层级观察你的网络上发生了什么。它是许多工业和教育行业事实上的（经常也是法律上的）标准。
 
 ### 电子书工具
 - [Buka](https://github.com/oguzhaninan/Buka/releases) - 电子书管理。 [![Open-Source Software][OSS Icon]](https://github.com/oguzhaninan/Buka)
@@ -265,7 +266,6 @@
 - [Scipy](https://scipy.org/install.html) - SciPy 是一个基于 Python 的开源软件生态系统，面向数学，科学，以及工程学。[![Open-Source Software][OSS Icon]](https://scipy.org/stackspec.html#stackspec)
 - [Scratch](https://scratch.mit.edu/) - 有了 Scratch，你可以编程你自己的互动故事，游戏，以及动画——并且在在线社区和其他人分享你的创造。
 - [Stellarium](http://www.stellarium.org/) - Stellarium 是一个为你电脑准备的免费开源天文馆。[![Open-Source Software][OSS Icon]](https://sourceforge.net/p/stellarium/code/HEAD/tree/)
-- [Tux4Kids](http://tux4kids.alioth.debian.org/) - Tux4Kids 为孩子们开发高质量软件，目标是将乐趣和学习结合到一起。 [![Open-Source Software][OSS Icon]](http://tux4kids.alioth.debian.org/dev.php)
 - [UGENE](http://ugene.net/) - UGENE 是一款免费开源，跨平台，基于图形界面的生物信息学软件。[![Open-Source Software][OSS Icon]](https://github.com/ugeneunipro/ugene)
 - [MAPLE](http://www.maplesoft.com/products/maple/) - Maple 是一款数学软件，它结合了世界上最强大的数学引擎以及一个让它十分易于分析，探索，可视化以及解决数学问题的界面。
 - [MATLAB](http://www.mathworks.com/products/matlab/?requestedDomain=www.mathworks.com) - MATLAB 平台专为剞劂工程和科学问题优化。MATLAB 让你的想法不仅仅停留在桌面。你可以在巨大的数据集上进行你的分析并按比例增加你的集群和云。
@@ -377,8 +377,8 @@
 - [Hugin](http://hugin.sourceforge.net/) - 基于 Panorama Tools 的一款易用的跨平台全景图像工具链。
 - [![Open-Source Software][OSS Icon]](https://github.com/inkscape/inkscape) [Inkscape](https://inkscape.org/en/) - 不管你是插画家，设计师，web 设计师还是仅仅是需要创建一些矢量图像，它都是一款强大，免费的设计工具
 - [Krita](https://krita.org/en/) - 面向概念艺术家，数字画家以及插画艺术家的开源软件。
-- [OpenShot](http://www.openshot.org/) - OpenShot 是一款免费，易用，功能丰富的 Linxu 视频编辑器。
-- [Pitivi](http://www.pitivi.org/) - 一款带有漂亮直观的用户界面的免费视频编辑器，有干净的代码库和出色的社区。
+- [![Open-Source Software][OSS Icon]](https://github.com/OpenShot/openshot-qt) [OpenShot](http://www.openshot.org/) - OpenShot 是一款免费，易用，功能丰富的 Linxu 视频编辑器。
+- [![Open-Source Software][OSS Icon]](https://gitlab.gnome.org/GNOME/pitivi) [Pitivi](http://www.pitivi.org/) - 一款带有漂亮直观的用户界面的免费视频编辑器，有干净的代码库和出色的社区。
 - [Radiance](http://www.radiance-online.org/) - Radiance - 一款经过验证的光照模拟工具
 - [Shotwell](https://wiki.gnome.org/Apps/Shotwell) - Shotwell 是 GNOME 3 的图片管理器。
 - [StopMotion](http://linuxstopmotion.org/) - Linux Stopmotion 是一款免费，开源的定格动画创作应用。它可以帮你捕捉和编辑你动画的帧，并导出为一个单独的文件。
@@ -404,7 +404,7 @@
 ### 互联网
 - [Chrome](https://www.google.com/chrome/browser/desktop/index.html) - 一款流行的浏览器，有着无数插件和应用。
 - [Opera](http://www.opera.com/) - Opera 浏览器是你畅游网络所需的一切。
-- [Tor](https://www.torproject.org/) - Tor 是免费软件和一个开放网络，帮助你对抗流量分析（一种网络检测的方式，威胁个人自由与隐私）。
+- [![Open-Source Software][OSS Icon]](https://gitweb.torproject.org/tor.git) [Tor](https://www.torproject.org/) - Tor 是免费软件和一个开放网络，帮助你对抗流量分析（一种网络检测的方式，威胁个人自由与隐私）。
 - [Vivaldi](https://vivaldi.com/?lang=en) - 一款新兴的浏览器，有着许多的个性化配置。
 - [Yandex](https://browser.yandex.com/desktop/main/) - 快速方便的浏览器。
 - [Anatine](https://github.com/sindresorhus/anatine) - 带有众多个性化的 twitter 桌面客户端。 [![Open-Source Software][OSS Icon]](https://github.com/sindresorhus/anatine)
@@ -431,6 +431,7 @@
 - [KMyMoney](https://kmymoney.org/) - KMyMoney 是 KDE 的一款个人金融管理器。它的操作类似 Microsoft Money 以及 Quicken。 [![Open-Source Software][OSS Icon]](https://github.com/KDE/kmymoney)
 - [LibreOffice](https://www.libreoffice.org/) - Linux 上的最佳办公套件。 [![Open-Source Software][OSS Icon]](https://www.libreoffice.org/about-us/source-code/)
 - [LyX](http://www.lyx.org/) - 成熟的 LaTeX 渲染文档编辑器。 [![Open-Source Software][OSS Icon]](https://github.com/yihui/lyx)
+- [![Open-Source Software][OSS Icon]](https://cgit.kde.org/skrooge.git) [Skrooge](https://skrooge.org/) - A personal finances manager, powered by KDE.
 - [TexLive](https://www.tug.org/texlive/) - TeX Live 是个轻松获取和运行 TeX 文档生产系统的好方式。  [![Open-Source Software][OSS Icon]](https://www.tug.org/texlive/build.html)
 
 ### 生产力
@@ -459,7 +460,7 @@
 - [Recent Noti](https://itsfoss.com/7-best-indicator-applets-for-ubuntu-13-10/) - 一款显示最近通知消息的指示器。
 - [Redshift](http://jonls.dk/redshift/) - Redshift 根据你的周边调整你屏幕的色温。当你夜晚在屏幕前工作时，它也许能帮助你减少对眼睛的伤害。[![Open-Source Software][OSS Icon]](https://github.com/jonls/redshift)
 - [Shots](https://theshots.ru/) - HTML/CSS/JS 截屏工具。 [![Open-Source Software][OSS Icon]](https://github.com/binjospookie/--shots)
-- [Shutter](http://shutter-project.org/) - Shutter 基于 Linux 的系统上（比如 Ubuntu）的一款功能丰富的截屏软件。
+- [![Open-Source Software][OSS Icon]](https://launchpad.net/shutter/) [Shutter](http://shutter-project.org/) - Shutter 基于 Linux 的系统上（比如 Ubuntu）的一款功能丰富的截屏软件。
 - [Simplenote](https://simplenote.com/) - 跨平台笔记软件。Evernote 的竞争者。
 - [SpeedCrunch](http://www.speedcrunch.org/) - 一个漂亮，开源，高精度的科学计算器。 [![Open-Source Software][OSS Icon]](http://www.speedcrunch.org/)
 - [Springseed](https://github.com/spsdco/notes) - 面向日常用户简单又漂亮的一款笔记软件。[![Open-Source Software][OSS Icon]](https://github.com/spsdco/notes)
@@ -538,7 +539,7 @@
 ### 实用工具
 - [Actionaz](http://actionaz.org/) - Ubuntu/Linux 下的任务自动化工具。
 - [Albert](https://github.com/albertlauncher/albert) - Linux 桌面超赞的应用启动器。 [![Open-Source Software][OSS Icon]](https://github.com/albertlauncher/albert)
-- [Bleach bit](https://www.bleachbit.org/) - BleachBit 快速释放磁盘空间并不知疲倦地守卫你的隐私。释放缓存，删除 cookie，清除互联网浏览历史，清理临时文件，删除日志，以及更多功能...
+- [![Open-Source Software][OSS Icon]](https://github.com/bleachbit/bleachbit) [Bleach bit](https://www.bleachbit.org/) - BleachBit 快速释放磁盘空间并不知疲倦地守卫你的隐私。释放缓存，删除 cookie，清除互联网浏览历史，清理临时文件，删除日志，以及更多功能...
 - [Brasero](https://wiki.gnome.org/Apps/Brasero) - CD/DVD 烧录软件。
 - [Caffeine](https://launchpad.net/caffeine) - 防止 ubuntu 自动睡眠。
 - [Convertall](https://sourceforge.net/projects/convertall/) - 全能单位换算。
@@ -564,9 +565,10 @@
 - [Pulse Audio](https://wiki.ubuntu.com/PulseAudio) - 通过个性化的配置改善 Linux 的音频。
 - [Remarkable](https://remarkableapp.github.io/) - Ubuntu/Linux 上最佳的 Markdown 编辑器。
 - [Remmina](http://www.remmina.org/wp/) - 一款功能丰富的远程桌面应用，支持 Linux 以及其它 Unix。[![Open-Source Software][OSS Icon]](https://github.com/FreeRDP/Remmina)
+- [![Open-Source Software][OSS Icon]](https://github.com/sahib/rmlint) [rmlint](https://rmlint.readthedocs.io/en/latest/) - rmlint finds space waste and other broken things on your filesystem and offers to remove it.
 - [Stacer](https://github.com/oguzhaninan/Stacer) - Ubuntu 系统优化器。 [![Open-Source Software][OSS Icon]](https://github.com/oguzhaninan/Stacer)
 - [Sushi](https://github.com/GNOME/sushi) - Sushi 是 GNOME 桌面文件管理器鹦鹉螺（Nautilus）的快速预览工具。 [![Open-Source Software][OSS Icon]](https://github.com/GNOME/sushi)
-- [SympleScreenRecorder](https://launchpad.net/~maarten-baert/+archive/ubuntu/simplescreenrecorder/) - SimpleScreenRecorder 是一款功能丰富的录屏软件，支持 X11 和 openGL。它拥有基于 Qt 的图形化用户界面。 [![Open-Source Software][OSS Icon]](https://code.launchpad.net/~maarten-baert)
+- [![Open-Source Software][OSS Icon]](https://github.com/MaartenBaert/ssr) [SimpleScreenRecorder](http://www.maartenbaert.be/simplescreenrecorder/) - SimpleScreenRecorder 是一款功能丰富的录屏软件，支持 X11 和 openGL。它拥有基于 Qt 的图形化用户界面。
 - [Synaptic](http://www.nongnu.org/synaptic/) - Synaptic 是一款图形化的 apt 包管理程序。
 - [Systemload](http://www.omgubuntu.co.uk/2014/06/system-monitor-indicator-ubuntu-ppa) - 在状态栏显示系统负载。
 - [TightVNC](http://www.tightvnc.com/) - 免费，轻量，快速且可靠的远程控制/远程桌面软件。 ![Open-Source Software][OSS Icon]
@@ -589,7 +591,8 @@
 - [Bomi Player](https://bomi-player.github.io/) - 一款强大易用的多媒体播放器。[![Open-Source Software][OSS Icon]](https://github.com/xylosper/bomi)
 - [Cheese](https://wiki.gnome.org/Apps/Cheese) - Cheese 用你的摄像头拍照和录像，还能加上神奇的特效，让你能够和别人分享快乐。 [![Open-Source Software][OSS Icon]](https://github.com/GNOME/cheese)
 - [Kodi](https://kodi.tv/about/) - 一款获得殊荣的免费开源（GPL）软件，支持视频，音乐，图片，游戏以及更多内容的媒体中心。[![Open-Source Software][OSS Icon]](https://github.com/xbmc/xbmc)
-- [Miro](http://www.getmiro.com/) - 免费，开放的视频，音乐以及互联网电视应用；它从成千上万的资源中带来视频频道，并且还有比其它平台更丰富的免费高清资源。
+- [![Open-Source Software][OSS Icon]](https://github.com/pculture/miro) [Miro](http://www.getmiro.com/) - 免费，开放的视频，音乐以及互联网电视应用；它从成千上万的资源中带来视频频道，并且还有比其它平台更丰富的免费高清资源。
+- [![Open-Source Software][OSS Icon]](https://github.com/lettier/movie-monad) [Movie Monad](https://lettier.github.io/movie-monad) - A free and simple to use video player made with Haskell.
 - [MPlayer](http://www.mplayerhq.hu/design7/news.html) - MPlayer 是一款支持多种系统和各种视频的视频播放器。
 - [MPV](https://www.mpv.io) - 一款免费，开源，跨平台的媒体播放器。[![Open-Source Software][OSS Icon]](https://github.com/mpv-player/mpv)
 - [SMPlayer](http://smplayer.sourceforge.net/) - 内置解码器的免费媒体播放器。可播放所有的音频和视频格式。[![Open-Source Software][OSS Icon]](https://sourceforge.net/p/smplayer/code/HEAD/tree/)
