@@ -279,7 +279,8 @@
 #### Java
 - [![Open-Source Software][OSS Icon]](https://www.bluej.org/versions.html) [BlueJ](http://bluej.org/) - Un entorno de desarrollo Java de código abierto diseñado para nuevos usuarios.
 - [Eclipse](https://eclipse.org/ide/) - Eclipse es un popular entorno de desarrollo integrado de Java. También puede descargar paquetes para soportar C, C ++ y PHP.
-- [IntelliJ IDEA](https://www.jetbrains.com/idea/) - Un IDE muy capaz para Java.
+- - [![Open-Source Software][OSS Icon]](https://github.com/JetBrains/intellij-community) [IntelliJ IDEA](https://www.jetbrains.com/idea/) - Un IDE muy capaz para Java.
+La versión de la comunidad es un software de código abierto.
 
 #### Javascript
 - [Webstorm](https://www.jetbrains.com/webstorm/) - Un potente Entorno de desarrollo integrado para javascript moderno. Está hecho por la compañía Jetbrains.
@@ -424,7 +425,7 @@
 - [Hiri](https://www.hiri.com/) - Hiri es un cliente de correo electrónico diseñado para negocios, que puede enviar y recibir correos electrónicos, administrar un calendario, establecer una lista de tareas y trabajar con contactos.
 - [![Open-Source Software][OSS Icon]](https://cgit.kde.org/kmail.git/) [KMail](https://www.kde.org/applications/internet/kmail/) - KMail es la parte de correo electrónico de Kontact, los gestores de información personal integrados en KDE.
 - [![Open-Source Software][OSS Icon]](https://github.com/pulb/mailnag) [Mailnag](https://launchpad.net/~pulb/+archive/ubuntu/mailnag) - Mailnag es un daemon que descarga correos electrónicos desde servidores POP3 e IMAP.
-- [![Open-Source Software][OSS Icon]](https://github.com/nylas/nylas-mail) [Nylas Mail](https://www.nylas.com/download) - es un programa extensible para el escritorio, está construido con tecnologías web.
+- [Mailspring](https://getmailspring.com/) - Mailspring es un cliente de correo electrónico hermoso y rápido.
 - [![Open-Source Software][OSS Icon]](http://sylpheed.sraoss.jp/en/download.html#stable) [Sylpheed](http://sylpheed.sraoss.jp/en/) - un cliente de correo electrónico rápido y fácil de usar.
 - [![Open-Source Software][OSS Icon]](https://releases.mozilla.org/pub/thunderbird/) [Thunderbird](https://www.mozilla.org/en-US/thunderbird/) - Thunderbird es una aplicación de correo electrónico de código abierto que es fácil de configurar y personalizar.
 - [![Open-Source Software][OSS Icon]](https://cgit.kde.org/trojita.git/) [Trojita](http://trojita.flaska.net/download.html) - Es un pequeño y rápido cliente de correo electrónico para Linux.
@@ -519,11 +520,13 @@
 
 #### Creación de gráficos
 - [![Open-Source Software][OSS Icon]](https://github.com/aseprite/aseprite/) [Aseprite](https://www.aseprite.org/) - Un programa para crear sprites animados.
-- [Blender](https://www.blender.org/) - Una fuente abierta y un flujo de trabajo completo para crear gráficos en 3D, diseñados para artistas solos o equipos enteros.
-- [Cinepaint](http://www.cinepaint.org/) - Un software de pintura capaz y de código abierto.
+-- [![Open-Source Software][OSS Icon]](http://archive.blender.org/download/source-code/index.html) [Blender](https://www.blender.org/) - Una fuente abierta y un flujo de trabajo completo para crear gráficos en 3D, diseñados para artistas solos o equipos enteros.
+- [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/cinepaint/) [Cinepaint](http://www.cinepaint.org/) - Un software de pintura capaz y de código abierto.
+- [![Open-Source Software][OSS Icon]](https://github.com/lettier/gifcurry) [Gifcurry](https://lettier.github.io/gifcurry/) -
+es un creador de imágenes GIF de código abierto.
 - [Gravit](https://www.designer.io/) - Gravit Designer es una aplicación de diseño vectorial libre.
 - [Heron Animation](https://www.heronanimation.brick-a-brack.com/#download) - Es un programa de animación "Stop motion" gratuito.
-- [Inkscape](https://inkscape.org/en/) - Es una herramienta de diseño capaz y gratuita para imágenes vectoriales.
+- [![Open-Source Software][OSS Icon]](https://github.com/inkscape/inkscape) [Inkscape](https://inkscape.org/en/) - Es una herramienta de diseño capaz y gratuita para imágenes vectoriales.
 - [![Open-Source Software][OSS Icon]](https://www.kde.org/applications/graphics/karbon/development) [Karbon](https://www.calligra.org/karbon/) - Es un programa de dibujo vectorial de código abierto.
 - [![Open-Source Software][OSS Icon]](https://github.com/mbasaglia/Knotter) [Knotter](https://knotter.mattbas.org/Knotter) - Knotter es un programa que ayuda a diseñar nudos celtas.
 - [![Open-Source Software][OSS Icon]](https://github.com/KDE/krita) [Krita](https://krita.org/en/) - Un programa de código abierto para artistas y pintores digitales.
@@ -540,6 +543,7 @@
 - ![Nonfree][Money icon] [Aftershot](http://www.aftershotpro.com/en/products/aftershot/pro/) - Una alternativa capaz e impresionante de "Adobe Photoshop".
 - [![Open-Source Software][OSS Icon]](https://github.com/darktable-org/darktable) [Darktable](http://www.darktable.org/) - Darktable es una aplicación de flujo de trabajo de código abierto para fotografía y imágenes en formato RAW.
 - [![Open-Source Software][OSS Icon]](https://github.com/GNOME/gimp) [GIMP](https://www.gimp.org/downloads/) - Es un programa Open Source para edición de fotos, composición de imágenes y creación de imágenes.
+- [![Open-Source Software][OSS Icon]](http://www.graphicsmagick.org/) [GraphicsMagick](http://www.graphicsmagick.org/) - GraphicsMagick es un programa de sistema de procesamiento de imágenes que permite transformaciones y cambios en las imágenes.
 - [Hugin](http://hugin.sourceforge.net/) - Es un programa multiplataforma fácil de usar para editar y trabajar con panoramas.
 - [ImageMagik](http://www.imagemagick.org/script/index.php) - ImageMagick es un grupo de programas para la línea de comandos para modificar imágenes.
 - [![Open-Source Software][OSS Icon]](https://github.com/LuminanceHDR/LuminanceHDR) [Luminance HDR](http://qtpfsgui.sourceforge.net/) - Luminance HDR es un programa de código abierto que proporciona un flujo de trabajo para imágenes HDR.
@@ -791,7 +795,7 @@ es un programa SUID que crea seguridad mediante la restricción de aplicaciones 
 ### Emulador de terminal
 - [![Open-Source Software][OSS Icon]](https://github.com/jwilm/alacritty) [Alacritty](https://github.com/jwilm/alacritty) - un multiplataforma y un acelerador de terminal acelerado por GPU.
 - [![Open-Source Software][OSS Icon]](https://github.com/Swordfish90/cool-retro-term) [Cool Retro Term](https://github.com/Swordfish90/cool-retro-term) - Un terminal diseñado para imitar la apariencia de una pantalla de cátodo.
-- [![Open-Source Software][OSS Icon]](https://github.com/railsware/upterm) [Upterm](https://github.com/railsware/upterm) - Upterm es un emulador de terminal que tiene características de Entorno de desarrollo integrado. Está basado en [Electron](https://electron.atom.io/).
+- [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/dban/) [DBAN](https://dban.org/) - Un ISO independiente que elimina información de los Unidades de discos duros y Unidades de estados sólidos en una computadora.
 - [GnomeTerminal](https://help.gnome.org/users/gnome-terminal/stable/) - Un emulador de terminal Linux preinstalado muy común.
 - [Guake](http://guake.org/) - Guake es un terminal de arriba hacia abajo diseñado para GNOME.
 - [![Open-Source Software][OSS Icon]](https://github.com/zeit/hyper) [Hyper](https://hyper.is/) - Un terminal que está construido con tecnologías web.
@@ -808,6 +812,8 @@ es un programa SUID que crea seguridad mediante la restricción de aplicaciones 
 - [Termius](https://www.termius.com/) - Un terminal multiplataforma con un cliente SSH incorporado y Telnet.
 - [![Open-Source Software][OSS Icon]](https://github.com/gnunn1/tilix) [Tilix](https://gnunn1.github.io/tilix-web/) - un emulador de terminal embaldosado usando GTK3.
 - [![Open-Source Software][OSS Icon]](https://github.com/tmux/tmux) [Tmux](https://tmux.github.io/) - Un programa que le permite multiplexar terminales en cualquier terminal.
+- [![Open-Source Software][OSS Icon]](https://github.com/cosmos72/twin) [Twin](https://github.com/cosmos72/twin/) - Un entorno de ventana de modo de texto rápido y liviano que admite el mouse. Tiene muchas características.
+- [![Open-Source Software][OSS Icon]](https://github.com/railsware/upterm) [Upterm](https://github.com/railsware/upterm) - Upterm es un emulador de terminal que tiene características de Entorno de desarrollo integrado. Está basado en [Electron](https://electron.atom.io/).
 - [Xterm](http://invisible-island.net/xterm/) - Xterm es un programa que es un emulador de terminal para el sistema de ventanas X.
 - [Yakuake](https://yakuake.kde.org/) - Un emulador de terminal en el estilo de "Quake" y basado en KDE Konsole.
 
