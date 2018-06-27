@@ -478,9 +478,20 @@
 - [![Open-Source Software][OSS Icon]] [Zelda Classic](http://www.zeldaclassic.com/) - Un homenaje al juego de Nintendo "The Legend of Zelda".
 - [![Open-Source Software][OSS Icon]] [Zelda: Mystery of Solarus DX](http://www.solarus-games.org) - Una secuela de "La leyenda de Zelda: un vínculo con el pasado" tiene los mismos gráficos, y utiliza la misma mecánica de juego.
 
+#### Juegos de Línea De Comando
+- [![Open-Source Software][OSS Icon]](https://itsfoss.com/best-command-line-games-linux/) [2048](https://itsfoss.com/best-command-line-games-linux/) - Un programa para jugar el famoso juego 2048 en la línea de comandos.
+- [![Open-Source Software][OSS Icon]](https://itsfoss.com/best-command-line-games-linux/) [Backgammon](https://itsfoss.com/best-command-line-games-linux/) - Un juego de backgammon de línea de comandos.
+- [![Open-Source Software][OSS Icon]](https://github.com/fph/bastet) [Bastet](https://github.com/fph/bastet) - Una línea de comandos tetris juego.
+- [![Open-Source Software][OSS Icon]](https://itsfoss.com/best-command-line-games-linux/) [Greed](https://itsfoss.com/best-command-line-games-linux/) - Un juego Tron para la línea de comandos.
+- [![Open-Source Software][OSS Icon]](https://itsfoss.com/best-command-line-games-linux/) [Ninvaders](https://itsfoss.com/best-command-line-games-linux/) - Un juego de 'Space invaders' para la línea de comandos.
+- [![Open-Source Software][OSS Icon]](https://itsfoss.com/best-command-line-games-linux/) [nSnake](https://itsfoss.com/best-command-line-games-linux/) - El juego 'snake' para la línea de comandos.
+- [![Open-Source Software][OSS Icon]](https://github.com/alexdantas/pacman4console.debian) [Pacman4console](https://launchpad.net/ubuntu/+source/pacman4console) - El juego 'pacman' para la línea de comandos.
+- [![Open-Source Software][OSS Icon]](https://itsfoss.com/best-command-line-games-linux/) [Tron](https://itsfoss.com/best-command-line-games-linux/) - Un juego "Tron" para la línea de comandos.
+
 #### Vario
 - [![Open-Source Software][OSS Icon]] [Cockatrice](https://cockatrice.github.io/) - Cockatrice es un programa multiplataforma de código abierto para jugar juegos de cartas en una red o en Internet.
 - [![Open-Source Software][OSS Icon]](https://download.savannah.gnu.org/releases/galois/source/) [Galois](http://www.nongnu.org/galois/) - Galois es un juego de bloques que cae que usa tetrominoes y otras formas.
+- [![Open-Source Software][OSS Icon]](https://wiki.gnome.org/action/show/Apps/gbrainy?action=show&redirect=gbrainy#Source_code) [GBrainy](https://wiki.gnome.org/action/show/Apps/gbrainy?action=show&redirect=gbrainy) - Gbrainy es un programa que mejora la memoria y resuelve acertijos de lógica.
 - ![Nonfree][Money icon] [Minecraft](https://minecraft.net) - Minecraft es un juego sobre la colocación de bloques y la construcción de un mundo entero. Ha generado al azar mundos que son masivos en tamaño, donde se puede construir cualquier cosa.
 - [![Open-Source Software][OSS Icon]](https://github.com/minetest/minetest/) [Minetest](https://minetest.net) - Una versión de código abierto de "Minecraft" que está escrito en C ++ y tiene una API de modificación.
 - [![Open-Source Software][OSS Icon]] [Mudlet](mudlet.org) - Un cliente multiplataforma y de código abierto para texto solo videojuego de rol multijugador masivo en línea.
@@ -704,7 +715,7 @@
 
 #### Tiempo y tareas orientadas
 - [![Open-Source Software][OSS Icon]](http://bazaar.launchpad.net/~joh/alarm-clock/trunk/files) [Alarm Clock](http://alarm-clock.pseudoberries.com/) - Alarm Clock es un despertador con muchas características.
-- [![Open-Source Software][OSS Icon]](http://git.calcurse.org/calcurse.git/) [calcurse](http://calcurse.org/) - Un calendario y planificador para la línea de comando. 
+- [![Open-Source Software][OSS Icon]](http://git.calcurse.org/calcurse.git/) [calcurse](http://calcurse.org/) - Un calendario y planificador para la línea de comando.
 - [California](https://wiki.gnome.org/Apps/California) - Un reemplazo de la aplicación de calendario, que puede aceptar entrada de lenguaje natural.
 - ![Nonfree][Money Icon] [Everdo](https://everdo.net/linux) - Everdo es una aplicación para el desarrollo y la gestión del trabajo que es multiplataforma y no un Software como servicio.
 - [![Open-Source Software][OSS Icon]](https://github.com/codito/gnome-pomodoro) [Gnome Pomodoro](http://gnomepomodoro.org/#download) - Un temporizador Pomodoro para GNOME que tiene muchas características.
@@ -884,9 +895,6 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/lah7/polychromatic) [Polychromatic](https://github.com/lah7/polychromatic) - Un GUI y un applet de bandeja para configurar Peripherals para Razer en Linux.
 
 ## Herramientas de línea de comandos
-- [![Open-Source Software][OSS Icon]](https://itsfoss.com/best-command-line-games-linux/) [2048](https://itsfoss.com/best-command-line-games-linux/) - Un programa para jugar el famoso juego 2048 en la línea de comandos.
-- [![Open-Source Software][OSS Icon]](https://itsfoss.com/best-command-line-games-linux/) [Backgammon](https://itsfoss.com/best-command-line-games-linux/) - Un juego de backgammon de línea de comandos.
-- [![Open-Source Software][OSS Icon]](https://github.com/fph/bastet) [Bastet](https://github.com/fph/bastet) - Una línea de comandos tetris juego.
 - [![Open-Source Software][OSS Icon]](https://github.com/jarun/Buku) [Buku](https://github.com/jarun/Buku) - Un administrador de marcadores para la línea de comandos.
 - [![Open-Source Software][OSS Icon]](https://github.com/athityakumar/colorls) [Color LS](http://www.omgubuntu.co.uk/2017/07/add-bling-ls-bash-command-colorls) - Color LS es una "Ruby Gem" que hace que el comando 'ls' en Linux sea más bonito y muestre más información.
 - [![Open-Source Software][OSS Icon]](https://github.com/ssimunic/Daily-Reddit-Wallpaper) [Daily Reddit Wallpaper](https://github.com/ssimunic/Daily-Reddit-Wallpaper) - Un programa que cambia tu fondo de pantalla a la imagen más actualizada en /r/Wallpapers o cualquier subreddit en Reddit.
@@ -897,7 +905,6 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/heppu/gkill) [Gkill](https://github.com/heppu/gkill) - Un proceso asesino para Linux.
 - [![Open-Source Software][OSS Icon]](https://github.com/nicolargo/glances) [Glances](https://nicolargo.github.io/glances/) - Glances es un sistema que supervisa la aplicación del terminal que puede mostrar el uso del disco, el uso del carnero y muchas más cosas en la línea de comandos.
 - [![Open-Source Software][OSS Icon]](https://github.com/jarun/googler) [Googler](https://itsfoss.com/review-googler-linux/) - Un programa que te dará resultados de google en la línea de comandos.
-- [![Open-Source Software][OSS Icon]](https://itsfoss.com/best-command-line-games-linux/) [Greed](https://itsfoss.com/best-command-line-games-linux/) - Un juego Tron para la línea de comandos.
 - [![Open-Source Software][OSS Icon]](https://github.com/aksakalli/gtop) [gtop](https://github.com/aksakalli/gtop) - Un panel de control de sistema para la línea de comandos. Puede mostrar más que el comando 'top'.
 - [![Open-Source Software][OSS Icon]](https://github.com/hishamhm/htop) [htop](http://hisham.hm/htop/) - Un visor de procesos que muestra más que el comando 'top'.
 - [Las 10 mejores herramientas de línea de comandos.](http://lifehacker.com/399468/top-10-command-line-tools)
@@ -906,16 +913,12 @@
 - [![Open-Source Software][OSS Icon]](https://dev.mutt.org/hg/mutt/file/tip) [Mutt](http://www.mutt.org/) - Un cliente basado en la línea de comandos para correo electrónico.
 - [![Open-Source Software][OSS Icon]](https://github.com/dylanaraps/neofetch) [Neofetch](https://github.com/dylanaraps/neofetch/releases) - Un script del sistema que puede mostrar información sobre su sistema, funciona en muchos sistemas operativos diferentes, tales como: Linux, MacOS, iOS, BSD, Solaris, Android, Haiku, GNU Hurd, MINIX, AIX y Windows.
 - [![Open-Source Software][OSS Icon]](https://github.com/akrennmair/newsbeuter/tree/master) [Newsbeuter](http://newsbeuter.org/) - Una lista RSS rápida y personalizable con claves para vim.
-- [![Open-Source Software][OSS Icon]](https://itsfoss.com/best-command-line-games-linux/) [Ninvaders](https://itsfoss.com/best-command-line-games-linux/) - Un juego de 'Space invaders' para la línea de comandos.
-- [![Open-Source Software][OSS Icon]](https://itsfoss.com/best-command-line-games-linux/) [nSnake](https://itsfoss.com/best-command-line-games-linux/) - El juego 'snake' para la línea de comandos.
-- [![Open-Source Software][OSS Icon]](https://github.com/alexdantas/pacman4console.debian) [Pacman4console](https://launchpad.net/ubuntu/+source/pacman4console) - El juego 'pacman' para la línea de comandos.
 - [PathPicker](https://github.com/facebook/PathPicker) - Un programa que le permite seleccionar la salida de un comando y buscarlo por archivos y luego permitirle ejecutar un comando en esos archivos.
 - [pywal](https://github.com/dylanaraps/pywal) - Es un script que cambia los colores de la línea de comandos para que coincida con el fondo de pantalla u otra imagen.
 - [![Open-Source Software][OSS Icon]](https://github.com/amanusk/s-tui) [s-tui](https://amanusk.github.io/s-tui/) - s-tui es un programa de línea de comandos que le permite controlar la temperatura de su CPU, la frecuencia de la CPU, y más de la línea de comandos.
 - [![Open-Source Software][OSS Icon]](https://github.com/ggreer/the_silver_searcher) [The Silver Searcher / Ag](https://github.com/ggreer/the_silver_searcher) - Una herramienta de búsqueda de código que es similar al comando 'ack'.
 - [![Open-Source Software][OSS Icon]](https://github.com/nvbn/thefuck) [TheFuck](https://github.com/nvbn/thefuck) - Una aplicación que corrige el comando anterior.
 - [![Open-Source Software][OSS Icon]](https://github.com/tmux/tmux) [Tmux](https://tmux.github.io/) - un comando que le permite cambiar entre diferentes programas en un terminal, y adjuntar y separar las tareas de la línea de comandos.
-- [![Open-Source Software][OSS Icon]](https://itsfoss.com/best-command-line-games-linux/) [Tron](https://itsfoss.com/best-command-line-games-linux/) - Un juego "Tron" para la línea de comandos.
 - [![Open-Source Software][OSS Icon]](https://github.com/jml/undistract-me) [undistract-me](https://github.com/jml/undistract-me) - Un programa de línea de comando que reproduce un sonido o envía una notificación cuando un comando largo ha terminado de ejecutarse en la línea de comando.
 - [wicd-curses](https://wiki.archlinux.org/index.php/wicd#Running_Wicd_in_Text_Mode) - Un encargado del wifi para la línea de comando.
 

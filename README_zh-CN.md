@@ -293,26 +293,73 @@
 - [Synapse](https://launchpad.net/ubuntu/xenial/+source/synapse) - Linux 上最好的应用启动器。![Freeware][Freeware Icon]
 - [Thunar](https://apps.ubuntu.com/cat/applications/precise/thunar/) - Thunar 被设计成为 Xfce 4.6 的默认文件管理器，为快速和易用设计。 [![Open-Source Software][OSS Icon]](https://github.com/luisgg/thunar) ![Freeware][Freeware Icon]
 
-
 ### 游戏
-- [0 A.D](https://play0ad.com/) - 类帝国时代的开源即时战略游戏。
+
+#### RTS
+- [![Open-Source Software][OSS Icon]](http://releases.wildfiregames.com/) [0 A.D](https://play0ad.com/) - 类帝国时代的开源即时战略游戏。
+- [![Open-Source Software][OSS Icon]](https://sourceforge.net/p/nethack/NetHack/ci/NetHack-3.6.0/tree/) [Nethack](https://www.nethack.org/) - Open-source rogue-like with ASCII graphics.
+- [![Open-Source Software][OSS Icon]](https://github.com/triplea-game/triplea/) [TripleA](http://www.triplea-game.org/) - 世界著名的开源策略游戏。
+- [![Open-Source Software][OSS Icon]](https://github.com/Warzone2100/warzone2100) [Warzone2100](https://wz2100.net/) - 开源即时策略/即时战术游戏。
+- [![Open-Source Software][OSS Icon]](https://bazaar.launchpad.net/~widelands-dev/widelands/trunk/changes) [Widelands](https://wl.widelands.org/) - Widelands is a open source RTS game with singleplayer campaigns and a multiplayer mode inspired by Settlers II.
+
+#### Turn Based Strategy
+- [![Open-Source Software][OSS Icon]](https://github.com/wesnoth/wesnoth) [The Battle for Wesnoth](http://www.wesnoth.org/) - 免费，回合制策略游戏，幻想世界主题，有单人以及在线多人对战模式。
 - [Civilization5](http://www.civilization5.com/) - 席德梅尔的文明®被认为是有史以来最伟大的策略经营类游戏之一。
-- [Desura](http://www.desura.com/about) - *注：Desura 暂时不可用，但它可能在近期重新发布*。Desura 是一个社区驱动的游戏玩家数字分发服务，将来自开发者的最好的游戏，模组，以及可下载内容放在玩家的指尖，随时可以购买和游玩。
-- [Cockatrice](https://cockatrice.github.io/) - Cockatrice 是一个开源的多平台网络桌面卡牌游戏支持程序。[![Open-Source Software][OSS Icon]](https://github.com/Cockatrice) ![Freeware][Freeware Icon]
-- [GBrainy](https://wiki.gnome.org/action/show/Apps/gbrainy?action=show&redirect=gbrainy) - Gbrainy 是一个脑筋急转弯游戏，获得乐趣并且锻炼你的大脑。 [![Open-Source Software][OSS Icon]](https://wiki.gnome.org/action/show/Apps/gbrainy?action=show&redirect=gbrainy#Source_code) ![Freeware][Freeware Icon]
-- [Minecraft](https://minecraft.net/en/download/?ref=m) - Minecraft 是一个关于放置方块和冒险的游戏。探索随机生成的世界，建造惊奇的事物，从最简单的家到最伟大的城堡。![Freeware][Freeware Icon]
-- [Minetest](http://www.minetest.net/) -  开源的 Minecraft 实现，由 C++ 写就（占用更少的资源），还包含模组扩展 API。 [![Open-Source Software][OSS Icon]](https://github.com/minetest) ![Freeware][Freeware Icon]
-- [PlayOnLinux](https://www.playonlinux.com/en/) - 在 Linux 玩 Windows 游戏。 [![Open-Source Software][OSS Icon]](https://github.com/PlayOnLinux/POL-POM-4) ![Freeware][Freeware Icon]
-- [Red Eclipse](https://redeclipse.net/) - Red Eclipse是一款免费、开源的FPS游戏，支持单人和多人游戏模式，是已中断的Blood Frontier项目的延续。[![Open-Source Software][OSS Icon]](https://github.com/red-eclipse/base) ![Freeware][Freeware Icon]
-- [Simutrans](https://www.simutrans.com/en/) - Simutrans 是一个免费而且开源的运输模拟器。 [![Open-Source Software][OSS Icon]](https://www.simutrans.com/en/develop/) ![Freeware][Freeware Icon]
-- [Steam](http://store.steampowered.com/) - 超赞的游戏平台，打开众多游戏的大门。![Freeware][Freeware Icon]
-- [SuperTuxCar](https://supertuxkart.net/Main_Page) - SuperTuxKart 是一款 3D 开源的赛车竞技游戏，有不同的人物，赛道以及模式。[![Open-Source Software][OSS Icon]](https://github.com/supertuxkart/stk-code) ![Freeware][Freeware Icon]
-- [The Battle for Wesnoth](http://www.wesnoth.org/) - 免费，回合制策略游戏，幻想世界主题，有单人以及在线多人对战模式。 [![Open-Source Software][OSS Icon]](https://github.com/wesnoth/wesnoth) ![Freeware][Freeware Icon]
-- [TripleA](http://www.triplea-game.org/) - 世界著名的开源策略游戏。 [![Open-Source Software][OSS Icon]](https://github.com/triplea-game/triplea) ![Freeware][Freeware Icon]
-- [Warzone2100](https://wz2100.net/) - 开源即时策略/即时战术游戏。 [![Open-Source Software][OSS Icon]](http://developer.wz2100.net/) ![Freeware][Freeware Icon]
-- [Wine](https://www.winehq.org/) - Wine（“Wine Is Not an Emulator”的首字母缩写）是一个兼容层，可以在若干 POSIX 兼容的系统上运行 Windows 程序，比如 Linux，Mac OS X，以及 BSD [![Open-Source Software][OSS Icon]](https://github.com/wine-mirror/wine) ![Freeware][Freeware Icon]
-- [Xonotic](http://xonotic.org/) - 受 Unreal Tournament 以及 Quake 启发的竞技场射击游戏。 [![Open-Source Software][OSS Icon]](https://gitlab.com/groups/xonotic) ![Freeware][Freeware Icon]
+- [![Open-Source Software][OSS Icon]](https://github.com/freeciv/freeciv) [FreeCiv](http://www.freeciv.org/) - Freeciv is a Free and Open Source empire-building strategy game inspired by the history of human civilization.
+
+#### City Building Simulation
+- [Dwarf Fortress](http://www.bay12games.com/dwarves/) - A famously complex simulation of a High Fantasy Dwarf Fortress, fight goblins, and slay massive legendary beasts. Strike the earth!
+- [![Open-Source Software][OSS Icon]](https://svn.openttd.org/trunk/) [OpenTTD](https://www.openttd.org/) - An open-source clone of Transport Tycoon Plus with major improvements.
+- [![Open-Source Software][OSS Icon]](https://github.com/aburch/simutrans) [Simutrans](https://www.simutrans.com/en/) - Simutrans 是一个免费而且开源的运输模拟器。
+- [![Open-Source Software][OSS Icon]](https://github.com/unknown-horizons/unknown-horizons) [Unknown Horizons](http://unknown-horizons.org/) - A 2D realtime strategy simulation with an emphasis on economy and city building. Multiplayer currently broken.
+
+#### FPS
+- [![Open-Source Software][OSS Icon]](https://gitlab.com/groups/xonotic) [ChaosEsqueAnthology Disc 1](https://sourceforge.net/projects/chaosesqueanthology/) [ChaosEsqueAnthology Disc 2](https://sourceforge.net/projects/chaosesqueanthologyvolume2/) - A modification of Xonotic which included extended weapons, maps, vehicles, buildable buildings, mounted weapons, spell casting, monsters, player characters, textures, and game mode (such as colorwar (think liquidwar))
+- [![Open-Source Software][OSS Icon]](https://github.com/red-eclipse/base) [Red Eclipse](https://redeclipse.net/) - Red Eclipse是一款免费、开源的FPS游戏，支持单人和多人游戏模式，是已中断的Blood Frontier项目的延续。
+- ![Open-Source Software][OSS Icon] [Urban Terror](http://www.urbanterror.info) - A "Hollywood" tactical shooter - realism based, but the motto is "fun over realism".
+- [![Open-Source Software][OSS Icon]](https://gitlab.com/groups/xonotic) [Xonotic](http://xonotic.org/) - 受 Unreal Tournament 以及 Quake 启发的竞技场射击游戏。
+- [![Open-Source Software][OSS Icon]](https://bitbucket.org/Torr_Samaho/zandronum) [Zandronum](http://zandronum.com/) - Leading the way in newschool multiplayer Doom online.
+
+#### RPG
+- ![Open-Source Software][OSS Icon] [Tales of Maj'Eyal](https://te4.org/) - Tales of Maj’Eyal (ToME) is a free, open source roguelike RPG, featuring tactical turn-based combat and advanced character building.
+- ![Open-Source Software][OSS Icon] [Zelda Classic](http://www.zeldaclassic.com/) - A tribute to Nintendo's The Legend of Zelda with additional quests, items and challenges.
+- ![Open-Source Software][OSS Icon] [Zelda: Mystery of Solarus DX](http://www.solarus-games.org) - A direct sequel to The Legend of Zelda: A Link to the Past on the SNES, using the same graphics and game mechanisms.
+
+#### Command Line Games
+- [![Open-Source Software][OSS Icon]](https://itsfoss.com/best-command-line-games-linux/) [2048](https://itsfoss.com/best-command-line-games-linux/) - Play the famous 2048 in commandline.
+- [![Open-Source Software][OSS Icon]](https://itsfoss.com/best-command-line-games-linux/) [Backgammon](https://itsfoss.com/best-command-line-games-linux/) - Play Backgammon in commandline.
+- [![Open-Source Software][OSS Icon]](https://github.com/fph/bastet) [Bastet](https://github.com/fph/bastet) - Play Tetris in commandline.
+- [![Open-Source Software][OSS Icon]](https://itsfoss.com/best-command-line-games-linux/) [Greed](https://itsfoss.com/best-command-line-games-linux/) - Tron game in the linux command line.
+- [![Open-Source Software][OSS Icon]](https://itsfoss.com/best-command-line-games-linux/) [Ninvaders](https://itsfoss.com/best-command-line-games-linux/) - Play Space Invaders on the command line.
+- [![Open-Source Software][OSS Icon]](https://itsfoss.com/best-command-line-games-linux/) [nSnake](https://itsfoss.com/best-command-line-games-linux/) - Play the classic Nokia snake game on the command line.
+- [![Open-Source Software][OSS Icon]](https://github.com/alexdantas/pacman4console.debian) [Pacman4console](https://launchpad.net/ubuntu/+source/pacman4console) - Play Pacman game in console.
+- [![Open-Source Software][OSS Icon]](https://itsfoss.com/best-command-line-games-linux/) [Tron](https://itsfoss.com/best-command-line-games-linux/) - Play the best action game, Tron in the command line.
+
+#### Miscellaneous
+- ![Open-Source Software][OSS Icon] [Cockatrice](https://cockatrice.github.io/) - Cockatrice 是一个开源的多平台网络桌面卡牌游戏支持程序。[![Open-Source Software][OSS Icon]](https://github.com/Cockatrice)
+- [![Open-Source Software][OSS Icon]](https://download.savannah.gnu.org/releases/galois/source/) [Galois](http://www.nongnu.org/galois/) - Galois is a Falling Blocks type game that isn't limited to the standard tetrominoes that most games in it's genre are limited to.
+- [![Open-Source Software][OSS Icon]](https://wiki.gnome.org/action/show/Apps/gbrainy?action=show&redirect=gbrainy#Source_code) [GBrainy](https://wiki.gnome.org/action/show/Apps/gbrainy?action=show&redirect=gbrainy) - Gbrainy 是一个脑筋急转弯游戏，获得乐趣并且锻炼你的大脑。
+- ![Nonfree][Money icon] [Minecraft](https://minecraft.net/en/download/?ref=m) - Minecraft 是一个关于放置方块和冒险的游戏。探索随机生成的世界，建造惊奇的事物，从最简单的家到最伟大的城堡
+- [![Open-Source Software][OSS Icon]](https://github.com/minetest/minetest/) [Minetest](http://www.minetest.net/) -  开源的 Minecraft 实现，由 C++ 写就（占用更少的资源），还包含模组扩展 API。
+- ![Open-Source Software][OSS Icon] [Mudlet](mudlet.org) - A cross-platform, open source, and super fast MUD (text-only MMORPGs) client with scripting in Lua.
 - [OhMyGiraffe](http://www.ohmygiraffe.com/) - 令人愉快的生存游戏。一款关于吃水果和被狮子吃的长颈鹿的游戏。
+- [![Open-Source Software][OSS Icon]](https://github.com/alpcoskun/snake) [Snake Game](https://alpcoskun.com/snake/) - Cross-platform Classic Snake Game based on Node.js.
+- [![Open-Source Software][OSS Icon]](https://github.com/supertuxkart/stk-code) [SuperTuxCar](https://supertuxkart.net/Main_Page) - SuperTuxKart 是一款 3D 开源的赛车竞技游戏，有不同的人物，赛道以及模式。
+
+#### Engine Re-creations (require the actual game)
+- ![Open-Source Software][OSS Icon] [NXEngine](http://nxengine.sourceforge.net/) - A source port of Cave Story that runs natively on Linux, source needs to be built.
+- [![Open-Source Software][OSS Icon]](https://github.com/SFTtech/openage) [openage](http://openage.sft.mx/) - Free (as in freedom) open source clone of the Age of Empires II engine, source needs to be built.
+- [![Open-Source Software][OSS Icon]](https://github.com/OpenMW/openmw) [OpenMW](http://openmw.org) - A recreation of the Morrowind engine, expanding upon the original. It can be used to play legitimate copies of original game.
+- [![Open-Source Software][OSS Icon]](https://github.com/OpenRA/OpenRA) [OpenRA](http://www.openra.net/) - Classic strategy games, rebuilt for the modern era. Open source.
+- [![Open-Source Software][OSS Icon]](https://github.com/OpenRCT2/OpenRCT2) [OpenRCT2](https://openrct2.website/) - A recreation of the Rollercoaster Tycoon 2 engine. Requires the original games assests.
+
+#### Gaming Applications
+- [![Open-Source Software][OSS Icon]](https://github.com/itchio/itch) [itch](https://itch.io/) - The itch.io app. All of your downloads are kept in a single place and are automatically updated. Plenty of free games.
+- [![Open-Source Software][OSS Icon]](https://github.com/lutris/lutris) [Lutris](https://lutris.net/) - Lutris is an open gaming platform for Linux. It helps you install and manage your games in a unified interface.
+- [![Open-Source Software][OSS Icon]](http://repository.playonlinux.com/) [PlayOnLinux](https://www.playonlinux.com/en/) - 在 Linux 玩 Windows 游戏。
+- [![Open-Source Software][OSS Icon]](https://github.com/libretro/RetroArch) [RetroArch](http://www.retroarch.com/) - A front-end for a lot of game emulators.
+[Steam](http://store.steampowered.com/) - 超赞的游戏平台，打开众多游戏的大门。
+- [![Open-Source Software][OSS Icon]](https://dl.winehq.org/wine/source/) [Wine](https://www.winehq.org/) - Wine（“Wine Is Not an Emulator”的首字母缩写）是一个兼容层，可以在若干 POSIX 兼容的系统上运行 Windows 程序，比如 Linux，Mac OS X，以及 BSD
 
 ### 图形
 - [Aftershot](http://www.aftershotpro.com/en/products/aftershot/pro/) - 一个强大的 Adobe Photoshop 替代品！

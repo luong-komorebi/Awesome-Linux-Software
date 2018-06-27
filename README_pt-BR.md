@@ -437,9 +437,20 @@ Ele foi projetado principalmente para ajudar a recuperar partições perdidas e/
 - ![Open-Source Software][OSS Icon] [Zelda Classic](http://www.zeldaclassic.com/) - A tribute to Nintendo's The Legend of Zelda with additional quests, items and challenges.
 - ![Open-Source Software][OSS Icon] [Zelda: Mystery of Solarus DX](http://www.solarus-games.org) - A direct sequel to The Legend of Zelda: A Link to the Past on the SNES, using the same graphics and game mechanisms.
 
+#### Command Line
+- [![Open-Source Software][OSS Icon]](https://itsfoss.com/best-command-line-games-linux/) [2048](https://itsfoss.com/best-command-line-games-linux/) - Play the famous 2048 in commandline.
+- [![Open-Source Software][OSS Icon]](https://github.com/fph/bastet) [Bastet](https://github.com/fph/bastet) - Play Tetris in commandline.
+- [![Open-Source Software][OSS Icon]](https://itsfoss.com/best-command-line-games-linux/) [Backgammon](https://itsfoss.com/best-command-line-games-linux/) - Play Backgammon in commandline.
+- [![Open-Source Software][OSS Icon]](https://itsfoss.com/best-command-line-games-linux/) [Greed](https://itsfoss.com/best-command-line-games-linux/) - Tron game in the linux command line.
+- [![Open-Source Software][OSS Icon]](https://itsfoss.com/best-command-line-games-linux/) [Ninvaders](https://itsfoss.com/best-command-line-games-linux/) - Play Space Invaders on the command line.
+- [![Open-Source Software][OSS Icon]](https://itsfoss.com/best-command-line-games-linux/) [nSnake](https://itsfoss.com/best-command-line-games-linux/) - Play the classic Nokia snake game on the command line.
+- [![Open-Source Software][OSS Icon]](https://github.com/alexdantas/pacman4console.debian) [Pacman4console](https://launchpad.net/ubuntu/+source/pacman4console) - Play Pacman game in console.
+- [![Open-Source Software][OSS Icon]](https://itsfoss.com/best-command-line-games-linux/) [Tron](https://itsfoss.com/best-command-line-games-linux/) - Play the best action game, Tron in the command line.
+
 #### Variados
 - ![Open-Source Software][OSS Icon] [Cockatrice](https://cockatrice.github.io/) - Cockatrice is an open-source multiplatform supported program for playing tabletop card games over a network.
 - [![Open-Source Software][OSS Icon]](https://download.savannah.gnu.org/releases/galois/source/) [Galois](http://www.nongnu.org/galois/) - Galois is a Falling Blocks type game that isn't limited to the standard tetrominoes that most games in it's genre are limited to.
+- [![Open-Source Software][OSS Icon]](https://wiki.gnome.org/action/show/Apps/gbrainy?action=show&redirect=gbrainy#Source_code) [GBrainy](https://wiki.gnome.org/action/show/Apps/gbrainy?action=show&redirect=gbrainy) - Gbrainy is a brain teaser game with logic puzzles and memory trainers.
 - ![Nonfree][Money icon] [Minecraft](https://minecraft.net) - Minecraft is a game about placing blocks and going on adventures. Explore randomly generated worlds and build amazing things from the simplest of homes to the grandest of castles.
 - [![Open-Source Software][OSS Icon]](https://github.com/minetest/minetest/) [Minetest](https://minetest.net) - Open-source Minecraft written in C++ (uses less resources) and includes modding API.
 - ![Open-Source Software][OSS Icon] [Mudlet](mudlet.org) - A cross-platform, open source, and super fast MUD (text-only MMORPGs) client with scripting in Lua.
@@ -842,9 +853,6 @@ Ele foi projetado principalmente para ajudar a recuperar partições perdidas e/
 
 ## Utilitário de Linha de Comando
 
-- [2048](https://itsfoss.com/best-command-line-games-linux/) - Play the famous 2048 in commandline. [![Open-Source Software][OSS Icon]](https://itsfoss.com/best-command-line-games-linux/)
-- [Bastet](https://github.com/fph/bastet) - Play Tetris in commandline. [![Open-Source Software][OSS Icon]](https://github.com/fph/bastet)
-- [Backgammon](https://itsfoss.com/best-command-line-games-linux/) - Play Backgammon in commandline. [![Open-Source Software][OSS Icon]](https://itsfoss.com/best-command-line-games-linux/)
 - [Buku](https://github.com/jarun/Buku) - Command line bookmark managers. [![Open-Source Software][OSS Icon]](https://github.com/jarun/Buku)
 - [Color LS](http://www.omgubuntu.co.uk/2017/07/add-bling-ls-bash-command-colorls) - Color Ls is a Ruby Gem that spices up the ls command and shows more visually than ls does without additional commands. [![Open-Source Software][OSS Icon]](https://github.com/athityakumar/colorls)
 - [Daily Reddit Wallpaper](https://github.com/ssimunic/Daily-Reddit-Wallpaper) - Change your wallpaper to the most upvoted image of the day from /r/wallpapers or any other subreddit on system startup. [![Open-Source Software][OSS Icon]](https://github.com/ssimunic/Daily-Reddit-Wallpaper)
@@ -855,7 +863,6 @@ Ele foi projetado principalmente para ajudar a recuperar partições perdidas e/
 - [Gkill](https://github.com/heppu/gkill) - Interactive process killer for Linux. [![Open-Source Software][OSS Icon]](https://github.com/heppu/gkill)
 - [Googler](https://itsfoss.com/review-googler-linux/) - Google any stuff right in the command line. [![Open-Source Software][OSS Icon]](https://github.com/jarun/googler)
 - [Glances](https://nicolargo.github.io/glances/) - Glances is a system monitoring terminal application that shows you your disk usage, ram usage, and cpu usage in a very friendly way using the Ncurses programming library. It is tolerant to windows resizing, and very low on system ram useage. [![Open-Source Software][OSS Icon]](https://github.com/nicolargo/glances)
-- [Greed](https://itsfoss.com/best-command-line-games-linux/) - Tron game in the linux command line. [![Open-Source Software][OSS Icon]](https://itsfoss.com/best-command-line-games-linux/)
 - [gtop](https://github.com/aksakalli/gtop) - System monitoring dashboard for terminal. Think 'graphical top', with bar charts, line graphs, pie charts etc [![Open-Source Software][OSS Icon]](https://github.com/aksakalli/gtop)
 - [htop](http://hisham.hm/htop/) - an interactive process viewer for Unix systems with improved features and user experience [![Open-Source Software][OSS Icon]](https://github.com/hishamhm/htop)
 - [Liquidprompt](https://github.com/nojhan/liquidprompt) - A full-featured & carefully designed adaptive prompt for Bash & Zsh [![Open-Source Software][OSS Icon]](https://github.com/nojhan/liquidprompt)
@@ -863,9 +870,6 @@ Ele foi projetado principalmente para ajudar a recuperar partições perdidas e/
 - [Mutt](http://www.mutt.org/) - A terminal based mail client with vim keybindings and great flexibility and customizability. [![Open-Source Software][OSS Icon]](https://dev.mutt.org/hg/mutt/file/tip)
 - [Neofetch](https://github.com/dylanaraps/neofetch/releases) -  A fast, highly customizable system info script that supports Linux, MacOS, iOS, BSD, Solaris, Android, Haiku, GNU Hurd, MINIX, AIX and Windows. [![Open-Source Software][OSS Icon]](https://github.com/dylanaraps/neofetch)
 - [Newsbeuter](http://newsbeuter.org/) - A fast and customizable RSS feed reader with vim keybindings. [![Open-Source Software][OSS Icon]](https://github.com/akrennmair/newsbeuter/tree/master)
-- [Ninvaders](https://itsfoss.com/best-command-line-games-linux/) - Play Space Invaders on the command line. [![Open-Source Software][OSS Icon]](https://itsfoss.com/best-command-line-games-linux/)
-- [nSnake](https://itsfoss.com/best-command-line-games-linux/) - Play the classic Nokia snake game on the command line. [![Open-Source Software][OSS Icon]](https://itsfoss.com/best-command-line-games-linux/)
-- [Pacman4console](https://launchpad.net/ubuntu/+source/pacman4console) - Play Pacman game in console. [![Open-Source Software][OSS Icon]](https://github.com/alexdantas/pacman4console.debian)
 - [PathPicker](https://github.com/facebook/PathPicker) - Accepts a wide range of input -- output from git commands, grep results, searches
 - [pywal](https://github.com/dylanaraps/pywal) - pywal is a script that takes an image (or a directory of images), generates a colorscheme (using imagemagick) and then changes all of your open terminal's colors to the new colorscheme on the fly, allowing you to have your terminal colors change with your wallpaper, or other criteria.
 - [s-tui](https://amanusk.github.io/s-tui/) - s-tui is an UI for monitoring your computer's CPU temperature, frequency and utilization in a graphical way from the terminal. [![Open-Source Software][OSS Icon]](https://github.com/amanusk/s-tui)
@@ -873,7 +877,6 @@ Ele foi projetado principalmente para ajudar a recuperar partições perdidas e/
 - [The Silver Searcher / Ag](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster. [![Open-Source Software][OSS Icon]](https://github.com/ggreer/the_silver_searcher)
 - [Tmux](https://tmux.github.io/) - It lets you switch easily between several programs in one terminal, detach them (they keep running in the background) and reattach them to a different terminal. And do a lot more. [![Open-Source Software][OSS Icon]](https://github.com/tmux/tmux)
 - [Top 10 command line tools](http://lifehacker.com/399468/top-10-command-line-tools)
-- [Tron](https://itsfoss.com/best-command-line-games-linux/) - Play the best action game, Tron in the command line. [![Open-Source Software][OSS Icon]](https://itsfoss.com/best-command-line-games-linux/)
 - [![Open-Source Software][OSS Icon]](https://github.com/jml/undistract-me) [undistract-me](https://github.com/jml/undistract-me) - A command line program that plays a sound or sends a notification when a long command has finished running in the command line.
 - [wicd-curses](https://wiki.archlinux.org/index.php/wicd#Running_Wicd_in_Text_Mode) - Command line WiFi connection manager.
 - [youtube-dl](http://rg3.github.io/youtube-dl/) - youtube-dl is a command-line program to download videos from YouTube.com and a few more sites. It requires the Python interpreter (2.6, 2.7, or 3.2+), and it is not platform specific. [![Open-Source Software][OSS Icon]](https://github.com/rg3/youtube-dl)
