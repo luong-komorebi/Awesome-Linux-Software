@@ -222,7 +222,9 @@ Ele foi projetado principalmente para ajudar a recuperar partições perdidas e/
 - [MariaDB](https://mariadb.org/) - Um dos servidores de banco de dados mais populares. Feito pelos desenvolvedores originais do MySQL. [![Open-Source Software][OSS Icon]](https://mariadb.org/get-involved/getting-started-for-developers/)
 - [MongoDB](https://www.mongodb.com/) - MongoDB é uma aplicação de código aberto, de alta performance, sem esquemas, orientado a documentos. [![Open-Source Software][OSS Icon]](https://github.com/mongodb/mongo)
 - [MySQL](https://dev.mysql.com/doc/refman/5.7/en/linux-installation.html) - O MySQL é o principal banco de dados de código aberto do mundo graças ao seu desempenho comprovado, confiabilidade e facilidade de uso. Ele é usado por grandes empresas da internet, incluindo Facebook, Twitter, YouTube, Yahoo! e muitos mais. [![Open-Source Software][OSS Icon]](https://github.com/mysql/mysql-server)
+- [![Open-Source Software][OSS Icon]](https://github.com/mysql/mysql-workbench) [MySQL Workbench](https://www.mysql.com/products/workbench/) - MySQL Workbench is a unified visual tool for database architects, developers, and DBAs. MySQL Workbench provides data modeling, SQL development, and comprehensive administration tools for server configuration, user administration, backup, and much more.
 - [MyCLI](http://www.mycli.net/) - MyCLI é uma interface de linha de comando para MySQL, MariaDB e Percona com auto-complete e sintaxe destacada. [![Open-Source Software][OSS Icon]](https://github.com/dbcli/mycli)
+- [OmniDB](https://omnidb.org/en/) - Ferramenta baseada em navegador que visualmente cria, gerencia e exibe bancos de dados.
 - [OracleDB](http://www.oracle.com/technetwork/database/enterprise-edition/downloads/index.html) - Sistema de gerenciamento de banco de dados objeto-relacional produzido e comercializado pela Oracle Corporation, um dos mecanismos de banco de dados relacionais mais confiáveis e amplamente utilizados.
 - [Percona MongoDB](https://www.percona.com/software/mongo-database/percona-server-for-mongodb) - O Servidor Percona para MongoDB fornece todos os recursos e benefícios do MongoDB Community Server. [![Open-Source Software][OSS Icon]](https://github.com/percona/percona-server-mongodb)
 - [Percona Monitoring](https://www.percona.com/software/database-tools/percona-monitoring-and-management) - Percona Monitoring and Management (PMM) é uma plataforma gratuita e de código aberto para gerenciar e monitorar o desempenho do MySQL, MariaDB e MongoDB. Você pode executar o PMM em seu próprio ambiente para obter a máxima segurança e confiabilidade. Ele fornece uma análise minuciosa baseada no tempo para servidores MySQL, MariaDB e MongoDB para garantir que seus dados funcionem o mais eficientemente possível. [![Open-Source Software][OSS Icon]](https://github.com/percona/pmm-server)
@@ -231,7 +233,6 @@ Ele foi projetado principalmente para ajudar a recuperar partições perdidas e/
 - [PostgreSQL](https://www.postgresql.org/download/) - O PostgreSQL é um poderoso sistema de banco de dados de objeto-relacional de código aberto com mais de 15 anos de desenvolvimento. O PostgreSQL não é controlado por qualquer corporação ou outra entidade privada e o código fonte está disponível gratuitamente. [![Open-Source Software][OSS Icon]](https://github.com/postgres/postgres)
 - [Sqlite](https://sqlite.org/download.html) - O SQLite é uma biblioteca em processo que implementa um mecanismo de banco de dados SQL transacional autônomo, sem servidor, de configuração zero. [![Open-Source Software][OSS Icon]](https://www.sqlite.org/src/doc/trunk/README.md)
 - [Sqlite Browser](http://sqlitebrowser.org/) - Visualmente crie, gerencie e visualize arquivos de banco de dados do SQLite.  [![Open-Source Software][OSS Icon]](https://github.com/sqlitebrowser/sqlitebrowser)
-- [OmniDB](https://omnidb.org/en/) - Ferramenta baseada em navegador que visualmente cria, gerencia e exibe bancos de dados.
 
 #### Golang
 - [GoLand](https://www.jetbrains.com/go/) - GoLand é um codinome para uma nove IDE comercial feita pela JetBrains, destinada a prover um ambiente ergonômico para desenvolvedores de Go.
@@ -561,6 +562,7 @@ Ele foi projetado principalmente para ajudar a recuperar partições perdidas e/
 
 #### Supportive Tool
 - [Clipgrab](https://clipgrab.org/) - A friendly downloader for YouTube and other sites.
+- [![Open-Source Software][OSS Icon]](https://github.com/jarun/ddgr) [ddgr](https://github.com/jarun/ddgr) - DuckDuckGo from the command line.
 - [Tor](https://www.torproject.org/) - Tor is free software and an open network that helps you defend against traffic analysis, a form of network surveillance that threatens personal freedom and privacy.
 - [![Open-Source Software][OSS Icon]](https://github.com/rg3/youtube-dl) [youtube-dl](https://github.com/rg3/youtube-dl) - Command line video downloader from youtube.com and about other thousand video platforms. It's really awesome, at least for me.
 - [youtube-dlg](https://mrs0m30n3.github.io/youtube-dl-gui/#downloads) - Youtube-dlg is a GUI for youtube-dl and allows for simple copy and paste from all youtube-dl compatible websites. It can auto-update youtube-dl as well as process a list of URL's in parallel. [![Open-Source Software][OSS Icon]](https://github.com/MrS0m30n3/youtube-dl-gui)
@@ -831,6 +833,7 @@ Ele foi projetado principalmente para ajudar a recuperar partições perdidas e/
 - [Zim](http://zim-wiki.org/) - Um editor de texto gráfico usado para manter uma coleção de páginas wiki, ótimo para documentos e anotações. Armazenado em texto plano para facilitar o controle de versão. [![Open-Source Software][OSS Icon]](https://launchpad.net/zim)
 
 ### Outros
+- [![Open-Source Software][OSS Icon]](https://github.com/fontforge/fontforge) [FontForge](https://fontforge.github.io) - Free (libre) font editor for Windows, Mac OS X and GNU+Linux.
 - [GrubCustomizer](https://launchpad.net/grub-customizer) - Grub Customizer is a graphical interface to configure the GRUB2/BURG settings and menuentries. [![Open-Source Software][OSS Icon]](https://code.launchpad.net/grub-customizer)
 - [Infinality bundle & fonts](https://bohoomil.com/) - *Pre-note: Infinality is currently not maintained anymore by the creator, if on rolling release operating systems, expect breakage*. Infinality bundle & fonts is an Open Source project aimed at Linux administrators and individual users who are looking for a hassle-free way of improving the quality of font rendering. [![Open-Source Software][OSS Icon]](https://github.com/bohoomil/fontconfig-ultimate)
 - [Mycroft](https://github.com/MycroftAI/mycroft-core) - A.I. for everyone. [![Open-Source Software][OSS Icon]](https://github.com/MycroftAI/mycroft-core)
