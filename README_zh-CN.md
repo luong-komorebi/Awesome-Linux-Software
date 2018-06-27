@@ -272,13 +272,13 @@
 - [OpenSIS](http://www.opensis.com/home) - 学校管理软件。
 
 ### 电子邮件
-- [Evolution](https://wiki.gnome.org/Apps/Evolution/) - Evolution 是一款个人信息管理应用，集成了邮件，日历以及地址簿功能。
-- [Geary](https://wiki.gnome.org/Apps/Geary) - Geary 是一款为 GNOME 3 构建的电子邮件应用。它让你可以在一个简单，现代的界面上阅读和发送邮件。
-- [Mailnag](https://launchpad.net/~pulb/+archive/ubuntu/mailnag) - Mailnag 是一个向 POP3 和 IMAP 服务器检查新邮件的守护程序。 [![Open-Source Software][OSS Icon]](https://github.com/pulb/mailnag)
-- [Mailspring](https://getmailspring.com/) - A beautiful, fast and maintained fork of Nylas Mail by one of the original authors.
-- [Sylpheed](http://sylpheed.sraoss.jp/en/) - 轻量化，用户友好的电子邮件客户端。 [![Open-Source Software][OSS Icon]](http://sylpheed.sraoss.jp/en/download.html#stable)
-- [Thunderbird](https://www.mozilla.org/en-US/thunderbird/) - Thunderbird 是一款免费的电子油价客户端，设置以及个性化简单方便，功能强大。
-- [Wmail](https://github.com/Thomas101/wmail) - Gmail & Google Inbox 的非官方 Linux 桌面客户端。 [![Open-Source Software][OSS Icon]](https://github.com/Thomas101/wmail)
+- [Evolution](https://wiki.gnome.org/Apps/Evolution/) - Evolution 是一款个人信息管理应用，集成了邮件，日历以及地址簿功能。 ![Freeware][Freeware Icon]
+- [Geary](https://wiki.gnome.org/Apps/Geary) - Geary 是一款为 GNOME 3 构建的电子邮件应用。它让你可以在一个简单，现代的界面上阅读和发送邮件。![Freeware][Freeware Icon]
+- [Mailnag](https://launchpad.net/~pulb/+archive/ubuntu/mailnag) - Mailnag 是一个向 POP3 和 IMAP 服务器检查新邮件的守护程序。 [![Open-Source Software][OSS Icon]](https://github.com/pulb/mailnag)![Freeware][Freeware Icon]
+- [N1](https://nylas.com/N1) - 在现代 web 上构建的可扩展桌面邮件应用。 [![Open-Source Software][OSS Icon]](https://github.com/nylas/N1) ![Freeware][Freeware Icon]
+- [Sylpheed](http://sylpheed.sraoss.jp/en/) - 轻量化，用户友好的电子邮件客户端。 [![Open-Source Software][OSS Icon]](http://sylpheed.sraoss.jp/en/download.html#stable)![Freeware][Freeware Icon]
+- [Thunderbird](https://www.mozilla.org/en-US/thunderbird/) - Thunderbird 是一款免费的电子邮件客户端，设置以及个性化简单方便，功能强大。 ![Freeware][Freeware Icon]
+- [Wmail](https://github.com/Thomas101/wmail) - Gmail & Google Inbox 的非官方 Linux 桌面客户端。 [![Open-Source Software][OSS Icon]](https://github.com/Thomas101/wmail)![Freeware][Freeware Icon]
 
 ### 文件管理器
 - [7Zip](http://www.7-zip.org/download.html) - 解压任何压缩文件
