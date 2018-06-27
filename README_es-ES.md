@@ -115,6 +115,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/vincelwt/harmony) [Harmony](http://getharmony.xyz) - Un Reproductor de medios con una bonita interfaz & compatibilidad la nube.
 - [![Open-Source Software][OSS Icon]](https://github.com/mtytel/helm) [Helm](http://tytel.org/helm/) - Un Sintetizador en Software, que puede funcionar solo o con muchos complementos como: LV2, VST, VST3 o AU plugin.
 - [![Open-Source Software][OSS Icon]](https://github.com/hydrogen-music/hydrogen) [Hydrogen](http://www.hydrogen-music.org/hcms/node/21) - Uno caja de ritmos avanzado para GNU/Linux.
+- [![Open-Source Software][OSS Icon]](https://github.com/trazyn/ieaseMusic) [ieaseMusic](https://github.com/trazyn/ieaseMusic) - es una aplicación multiplataforma para escuchar música en la música de NetEase.
 - [![Open-Source Software][OSS Icon]](https://github.com/KDE/k3b) [K3b](http://www.k3b.org/) - Un creador de CD y DVD para linux, optimizado para KDE.
 - [Kid3Qt](https://apps.ubuntu.com/cat/applications/precise/kid3-qt/) - Para editar etiquetas de archivos, por ejemplo el nombre del artista, el álbum, el género y el año de los archivos de música.
 - [KxStudio](http://kxstudio.linuxaudio.org/) - Una colección de aplicaciones y plugins para la producción de audio profesional.
@@ -125,6 +126,8 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/ColinDuquesnoy/MellowPlayer) [Mellow Player](https://colinduquesnoy.github.io/MellowPlayer/) - Una aplicación integrada en la nube para reproductor de medios para tu PC.
 - [![Open-Source Software][OSS Icon]](https://github.com/mixxxdj/mixxx) [Mixxx](http://www.mixxx.org/download/) - Uno software gratis Disc-jockey para crear música y es una alternativa de Traktor.
 - [![Open-Source Software][OSS Icon]](https://github.com/KeitIG/museeks) [Museek](http://museeks.io/) - Un reproductor de música multi-plataforma simple.
+- [![Open-Source Software][OSS Icon]](https://github.com/musescore/MuseScore) [MuseScore](https://musescore.org) - una aplicación para la creación, reproducción e impresión de partituras.
+- [![Open-Source Software][OSS Icon]](https://github.com/metabrainz/picard) [MusicBrainz Picard](https://picard.musicbrainz.org/) - Picard es una aplicación multiplataforma para edición de multidatos de música.
 - [![Open-Source Software][OSS Icon]](https://about.musixmatch.com/apps/) [MusixMatch](https://about.musixmatch.com/apps/) - Una programa capaz para buscando las letras des musicas. Se puede sincronizar con la música.
 - [Netease Music](http://music.163.com/#/download) - Un reproductor de música para netease - un servicio de música en china.
 - [![Open-Source Software][OSS Icon]](https://github.com/nukeop/nuclear) [Nuclear](http://nuclear.gumblert.tech/) - Basado en Electron, Nuclear es una programa multiplatforma para el reproductor de medios puede utilizar múltiples fuentes para la reproducción.
@@ -253,6 +256,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/apache?query=couchdb) [CouchDB](http://couchdb.apache.org/) - CouchDB se sincroniza fácilmente entre diferentes bases de datos y es capaz de ejecutarse en hardware de nube y hardware móvil, tiene una intuitiva HTTP / JSON APT y está diseñado para la fiabilidad.
 - [DataGrip](https://www.jetbrains.com/datagrip/) - Datagrip es uno Entorno de desarrollo integrado que está diseñado para ayudar a los analistas y desarrolladores de bases de datos que trabajan con bases de datos SQL. Datagrip puede trabajar con DB2, Derby, H2, HSQLDB, MySQL, Oracle, PostgreSQL, SQL Server, Sqlite y Sybase
 - [![Open-Source Software][OSS Icon]](https://github.com/serge-rider/dbeaver/) [DBeaver](http://dbeaver.jkiss.org/) - Un cliente de base de datos universal que es multiplataforma y puede soportar diferentes bases de datos.
+- [![Open-Source Software][OSS Icon]](https://cgit.kde.org/kexi.git/about/) [Kexi](http://kexi-project.org/) - Kexi es un creador de aplicaciones de bases de datos visuales de código abierto.
 - [![Open-Source Software][OSS Icon]](https://mariadb.org/get-involved/getting-started-for-developers/) [MariaDB](https://mariadb.org/) - Un servidor de base de datos muy popular, fue creado por los desarrolladores originales de MySQL.
 - [![Open-Source Software][OSS Icon]](https://github.com/mongodb/mongo) [MongoDB](https://www.mongodb.com/) - MongoDB es un programa de código abierto, que es multiplataforma y orientado a documentos.
 - [![Open-Source Software][OSS Icon]](https://github.com/dbcli/mycli) [MyCLI](http://www.mycli.net/) - MyCLI es una interfaz de línea de comandos para MySQL, MariaDB y Percona. Cuenta con auto-completar y resaltado de sintaxis.
@@ -704,6 +708,7 @@
 - [Go For It](http://manuel-kehl.de/projects/go-for-it/) - Go For It! es una simple lista de tareas, y el programa de temporizador.
 - [![Open-Source Software][OSS Icon]](https://github.com/mohamed-aziz/mytodo) [My Todo](https://github.com/mohamed-aziz/mytodo) - Mytodo es una lista de tareas pendientes de código abierto que le da un control completo.
 - ![Nonfree][Money Icon] [Pomodone App](http://pomodoneapp.com/) - PomoDoneApp es una aplicación que gestiona su flujo de trabajo utilizando la técnica Pomodoro.
+- [![Open-Source Software][OSS Icon]](https://userbase.kde.org/RSIBreak) [RSIBreak](https://userbase.kde.org/RSIBreak) - RSIBreak es una aplicación para la salud a las muñecas, para prevenir Lesiones por esfuerzo repetitivo.
 - [![Open-Source Software][OSS Icon]](https://git.tasktools.org/projects) [TaskWarrior](https://taskwarrior.org/) - Taskwarrior es un software de código abierto que gestiona una lista de tareas desde la línea de comandos.
 - [Todo.txt](http://todotxt.com/) - todo.txt- editores de texto que le ayudan a administrar sus tareas con el menor número de pulsaciones de teclas posible.
 - [![Open-Source Software][OSS Icon]](https://github.com/kamhix/todoist-linux) [Todoist](https://github.com/kamhix/todoist-linux) - Un cliente no oficial de Todoist, es una lista de tareas y organizador multiplataforma.
@@ -864,8 +869,8 @@
 
 ### Wiki software
 - [![Open-Source Software][OSS Icon]](https://git.joeyh.name/git/ikiwiki.git/) [ikiwiki](https://ikiwiki.info/) - es un compilador para wiki. Convierte las páginas wiki en HTML para su publicación en un sitio web.
+- [![Open-Source Software][OSS Icon]](https://github.com/Jermolene/TiddlyDesktop) [TiddlyDesktop on GitHub](https://github.com/TiddlyDesktop) -  [TiddlyDesktop on TiddlyWiki.com](https://github.com/TiddlyDesktop) -un software de escritorio para TiddlyWiki, una aplicación de código abierto para escribir en JavaScript.
 - [![Open-Source Software][OSS Icon]](https://launchpad.net/zim) [Zim](http://zim-wiki.org/) - Un editor de texto gráfico que se puede utilizar para mantener páginas wiki, notas y documentos. Está diseñado para hacer páginas wiki fácil.
-
 
 ### Diverso
 - [![Open-Source Software][OSS Icon]](https://code.launchpad.net/grub-customizer) [GrubCustomizer](https://launchpad.net/grub-customizer) - Grub Customizer es una interfaz gráfica para configurar los parámetros de GRUB2 / BURG.

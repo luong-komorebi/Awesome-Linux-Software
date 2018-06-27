@@ -107,6 +107,7 @@ Duas versões chinesas desta lista estão disponíveis [aqui](https://github.com
 - [Harmony](http://getharmony.xyz) - Reprodutor de música com interface elegante e compatibilidade com a nuvem. [![Open-Source Software][OSS Icon]](https://github.com/vincelwt/harmony)
 - [![Open-Source Software][OSS Icon]](https://github.com/mtytel/helm) [Helm](http://tytel.org/helm/) - A software synthesizer, that runs either standalone, or as an LV2, VST, VST3 or AU plugin.
 - [Hydrogen](http://www.hydrogen-music.org/hcms/node/21) - Bateria avançada paraa GNU/Linux.
+- [![Open-Source Software][OSS Icon]](https://github.com/trazyn/ieaseMusic) [ieaseMusic](https://github.com/trazyn/ieaseMusic) - iEaseMusic is a multiplatform program built in electron for listening to NetEase Music.
 - [K3b](http://www.k3b.org/) - K3b - Criador de CD/DVD para Linux - otimizado para o KDE.[![Open-Source Software][OSS Icon]](https://github.com/KDE/k3b)
 - [Kid3Qt](https://apps.ubuntu.com/cat/applications/precise/kid3-qt/) - Edite tags de vários arquivos, por exemplo o artista, albúm, ano e genêro de todos os arquivos mp3 de um albúm.
 - [KxStudio](http://kxstudio.linuxaudio.org/) - O KXStudio é uma coleção de aplicativos e plugins para produção de áudio profissional.
@@ -116,6 +117,8 @@ Duas versões chinesas desta lista estão disponíveis [aqui](https://github.com
 - [Lyricfier](https://github.com/emilioastarita/lyricfier) - Um aplicativo alternativo de letras do Spotify. [![Open-Source Software][OSS Icon]](https://github.com/emilioastarita/lyricfier)
 - [Mixxx](http://www.mixxx.org/download/) - Software de DJ gratuito que oferece tudo o que você precisa para realizar mixagens ao vivo, verdadeira alternativa ao Traktor. [![Open-Source Software][OSS Icon]](https://github.com/mixxxdj/mixxx)
 - [Museek](http://museeks.io/) - Um reprodutor de música simples, limpo e multiplataforma. [![Open-Source Software][OSS Icon]](https://github.com/KeitIG/museeks)
+- [![Open-Source Software][OSS Icon]](https://github.com/musescore/MuseScore) [MuseScore](https://musescore.org) - Create, play and print beautiful sheet music.
+- [![Open-Source Software][OSS Icon]](https://github.com/metabrainz/picard) [MusicBrainz Picard](https://picard.musicbrainz.org/) - Picard is a cross-platform music tagger written in Python.
 - [Netease Music](http://music.163.com/#/download) -  Um reprodutor de música do Netease
 - [Nuclear](http://nuclear.gumblert.tech/) - Um aplicativo de reprodução de música multiplataforma baseado em eletrônicos que transmite para várias fontes. [![Open-Source Software][OSS Icon]](https://github.com/nukeop/nuclear)
 - [Ocenaudio](http://www.ocenaudio.com/whatis) - ocenaudio é um editor de áudio multiplataforma, fácil de usar rápido e funcional. É o software ideal para quem precisa analisar e editar arquivos de áudio.
@@ -215,6 +218,7 @@ Ele foi projetado principalmente para ajudar a recuperar partições perdidas e/
 - [Cassandra](http://cassandra.apache.org/) - O banco de dados Apache Cassandra é a escolha certa quando você precisa de escalabilidade e alta disponibilidade sem comprometer o desempenho. A escalabilidade linear e a comprovada tolerância a falhas em hardware de commodities ou nuvem tornam a plataforma perfeita para dados de missão crítica. [![Open-Source Software][OSS Icon]](https://github.com/apache/cassandra)
 - [CouchDB](http://couchdb.apache.org/) - Sincronização multi-master perfeita, que escala de Big Data para Mobile, com uma API intuitiva HTTP/JSON e projetada para confiabilidade. [![Open-Source Software][OSS Icon]](https://github.com/apache?query=couchdb)
 - [DBeaver](http://dbeaver.jkiss.org/) - Um client de banco de dados universal para suportar múltiplas plataformas e bases de dados. [![Open-Source Software][OSS Icon]](https://github.com/serge-rider/dbeaver/)
+- [![Open-Source Software][OSS Icon]](https://cgit.kde.org/kexi.git/about/) [Kexi](http://kexi-project.org/) - Kexi is an open source visual database applications creator, a long-awaited competitor for programs like MS Access or Filemaker.
 - [MariaDB](https://mariadb.org/) - Um dos servidores de banco de dados mais populares. Feito pelos desenvolvedores originais do MySQL. [![Open-Source Software][OSS Icon]](https://mariadb.org/get-involved/getting-started-for-developers/)
 - [MongoDB](https://www.mongodb.com/) - MongoDB é uma aplicação de código aberto, de alta performance, sem esquemas, orientado a documentos. [![Open-Source Software][OSS Icon]](https://github.com/mongodb/mongo)
 - [MySQL](https://dev.mysql.com/doc/refman/5.7/en/linux-installation.html) - O MySQL é o principal banco de dados de código aberto do mundo graças ao seu desempenho comprovado, confiabilidade e facilidade de uso. Ele é usado por grandes empresas da internet, incluindo Facebook, Twitter, YouTube, Yahoo! e muitos mais. [![Open-Source Software][OSS Icon]](https://github.com/mysql/mysql-server)
@@ -660,6 +664,7 @@ Ele foi projetado principalmente para ajudar a recuperar partições perdidas e/
 - [Go For It](http://manuel-kehl.de/projects/go-for-it/) - Go For It! is a simple and stylish productivity app, featuring a to-do list, merged with a timer that keeps your focus on the current task.
 - [My Todo](https://github.com/mohamed-aziz/mytodo) - Mytodo is an open source to-do list program that puts you, the user, in command of everything. [![Open-Source Software][OSS Icon]](https://github.com/mohamed-aziz/mytodo)
 - [Pomodone App](http://pomodoneapp.com/) - PomoDoneApp is the easiest way to track your workflow using Pomodoro techniqueÂ®, on top of your current task management service.![Nonfree][Money Icon]
+- [![Open-Source Software][OSS Icon]](https://userbase.kde.org/RSIBreak) [RSIBreak](https://userbase.kde.org/RSIBreak) - RSIBreak takes care of your health and regularly breaks your work to avoid repetitive strain injury.
 - [TaskWarrior](https://taskwarrior.org/) - Taskwarrior is Free and Open Source Software that manages your TODO list from the command line. [![Open-Source Software][OSS Icon]](https://git.tasktools.org/projects)
 - [Todo.txt](http://todotxt.com/) - todo.txt-focused editors which help you manage your tasks with as few keystrokes and taps possible.
 - [Todoist](https://github.com/kamhix/todoist-linux) - Unofficial client of Todoist, the cross-platform to-do manager with mobile apps, great UI and has some optional premium features. [![Open-Source Software][OSS Icon]](https://github.com/kamhix/todoist-linux)
@@ -822,6 +827,7 @@ Ele foi projetado principalmente para ajudar a recuperar partições perdidas e/
 
 ### Wiki software
 - [ikiwiki](https://ikiwiki.info/) - ikiwiki é um compilador wiki. Ele converte páginas wiki em HTML pronto para publicação em websites. Ikiwiki armazena páginas e histrias em um sistema de controle de versão como Subversion ou Git. [![Open-Source Software][OSS Icon]](https://git.joeyh.name/git/ikiwiki.git/)
+- [![Open-Source Software][OSS Icon]](https://github.com/Jermolene/TiddlyDesktop) [TiddlyDesktop on GitHub](https://github.com/TiddlyDesktop) -  [TiddlyDesktop on TiddlyWiki.com](https://github.com/TiddlyDesktop) - A desktop app for TiddlyWiki, an open-source personal wiki written in javascript, great if you're still searching for a good note-taking (and more) app.
 - [Zim](http://zim-wiki.org/) - Um editor de texto gráfico usado para manter uma coleção de páginas wiki, ótimo para documentos e anotações. Armazenado em texto plano para facilitar o controle de versão. [![Open-Source Software][OSS Icon]](https://launchpad.net/zim)
 
 ### Outros

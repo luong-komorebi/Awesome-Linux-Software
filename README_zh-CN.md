@@ -95,6 +95,8 @@
 - [Lyricfier](https://github.com/emilioastarita/lyricfier) - 一个 Spotify Lyrics 的替代选择。 [![Open-Source Software][OSS Icon]](https://github.com/emilioastarita/lyricfier) ![Freeware][Freeware Icon]
 - [Mixxx](http://www.mixxx.org/download/) - 免费的 DJ 软件，给你一切现场混音所需要的，名副其实的 Traktor 替代品。 [![Open-Source Software][OSS Icon]](https://github.com/mixxxdj/mixxx) ![Freeware][Freeware Icon]
 - [Museek](http://museeks.io/) - 一款简单，干净，跨平台的音乐播放器。 [![Open-Source Software][OSS Icon]](https://github.com/KeitIG/museeks) ![Freeware][Freeware Icon]
+- [![Open-Source Software][OSS Icon]](https://github.com/musescore/MuseScore) [MuseScore](https://musescore.org) - Create, play and print beautiful sheet music.
+- [![Open-Source Software][OSS Icon]](https://github.com/metabrainz/picard) [MusicBrainz Picard](https://picard.musicbrainz.org/) - Picard is a cross-platform music tagger written in Python.
 - [Netease Music](http://music.163.com/#/download) - 网易云音乐播放器 ![Freeware][Freeware Icon]
 - [Oceanaudio](http://www.ocenaudio.com/whatis) - ocenaudio 是一款跨平台，易用，快速且功能强大的音频编辑器。对需要编辑和分析音频文件的人来说是个理想的软件。![Freeware][Freeware Icon]
 - [OSD Lyrics](https://aur.archlinux.org/packages/osdlyrics-git/) - 与你最爱的媒体播放器显示歌词。 [![Open-Source Software][OSS Icon]](https://github.com/PedroHLC/osdlyrics) ![Freeware][Freeware Icon]
@@ -166,6 +168,7 @@
 - [Code::Blocks](http://www.codeblocks.org/) - Code::Blocks 是一款为满足大部分用户需求构建的免费的 C，C++ 以及 Fortran IDE。它可扩展并且可配置性强。 ![Freeware][Freeware Icon]
 - [Codelite](http://codelite.org/) - 一款免费，开源，跨平台的 C，C++，PHP，以及 Node.js IDE。 ![Freeware][Freeware Icon]
 - [DBeaver](http://dbeaver.jkiss.org/) - 一款通用数据库客户端，支持多个平台及多种数据库。 [![Open-Source Software][OSS Icon]](https://github.com/serge-rider/dbeaver/) ![Freeware][Freeware Icon]
+- [![Open-Source Software][OSS Icon]](https://cgit.kde.org/kexi.git/about/) [Kexi](http://kexi-project.org/) - Kexi is an open source visual database applications creator, a long-awaited competitor for programs like MS Access or Filemaker.
 - [Eclipse](https://eclipse.org/ide/) - Eclipse 以 Java 集成开发环境而闻名，但它的 C/C++ IDE 和 PHP IDE 同样出色。![Freeware][Freeware Icon]
 - [Fisherman](https://github.com/fisherman/fisherman) - 一款 fish shell 插件管理器。 [![Open-Source Software][OSS Icon]](https://github.com/fisherman/fisherman) ![Freeware][Freeware Icon]
 - [Fish](https://fishshell.com/) - 一款智能且用户友好的命令行 shell。 [![Open-Source Software][OSS Icon]](https://github.com/fish-shell/fish-shell) ![Freeware][Freeware Icon]
@@ -289,7 +292,7 @@
 - [Synapse](https://launchpad.net/ubuntu/xenial/+source/synapse) - Linux 上最好的应用启动器。![Freeware][Freeware Icon]
 - [Thunar](https://apps.ubuntu.com/cat/applications/precise/thunar/) - Thunar 被设计成为 Xfce 4.6 的默认文件管理器，为快速和易用设计。 [![Open-Source Software][OSS Icon]](https://github.com/luisgg/thunar) ![Freeware][Freeware Icon]
 
- 
+
 ### 游戏
 - [0 A.D](https://play0ad.com/) - 类帝国时代的开源即时战略游戏。
 - [Civilization5](http://www.civilization5.com/) - 席德梅尔的文明®被认为是有史以来最伟大的策略经营类游戏之一。
@@ -399,6 +402,7 @@
 - [Notes](http://www.get-notes.com/) - 一款干净又简单的 Linux 笔记应用。[![Open-Source Software][OSS Icon]](https://github.com/nuttyartist/notes) ![Freeware][Freeware Icon]
 - [Papyrus](http://aseman.co/en/products/papyrus/) - Papyrus 是一款不一样的笔记管理器，它专注于安全和更佳的用户界面。Papyrus 尝试给用户提供一个易用和智能的用户界面。 [![Open-Source Software][OSS Icon]](https://github.com/Aseman-Land/Papyrus) ![Freeware][Freeware Icon]
 - [Pomodone App](http://pomodoneapp.com/) - PomoDoneApp 使用番茄钟技术®，是在你当前任务管理服务上追踪你的工作流最简单的方法。![Freeware][Freeware Icon]
+- [![Open-Source Software][OSS Icon]](https://userbase.kde.org/RSIBreak) [RSIBreak](https://userbase.kde.org/RSIBreak) - RSIBreak takes care of your health and regularly breaks your work to avoid repetitive strain injury.
 - [Recent Noti](https://itsfoss.com/7-best-indicator-applets-for-ubuntu-13-10/) - 一款显示最近通知消息的指示器。![Freeware][Freeware Icon]
 - [Redshift](http://jonls.dk/redshift/) - Redshift 根据你的周边调整你屏幕的色温。当你夜晚在屏幕前工作时，它也许能帮助你减少对眼睛的伤害。[![Open-Source Software][OSS Icon]](https://github.com/jonls/redshift) ![Freeware][Freeware Icon]
 - [Shots](https://theshots.ru/) - HTML/CSS/JS 截屏工具。 [![Open-Source Software][OSS Icon]](https://github.com/binjospookie/--shots) ![Freeware][Freeware Icon]
@@ -408,6 +412,7 @@
 - [Springseed](https://github.com/spsdco/notes) - 面向日常用户简单又漂亮的一款笔记软件。[![Open-Source Software][OSS Icon]](https://github.com/spsdco/notes) ![Freeware][Freeware Icon]
 - [Stickynote](https://itsfoss.com/indicator-stickynotes-windows-like-sticky-note-app-for-ubuntu/) - Linux 桌面的便利贴。![Freeware][Freeware Icon]
 - [TaskWarrior](https://taskwarrior.org/) - Taskwarrior 是一款免费，开源的的软件，它可以从命令行管理你的待办事项列表。[![Open-Source Software][OSS Icon]](https://git.tasktools.org/projects) ![Freeware][Freeware Icon]
+- [![Open-Source Software][OSS Icon]](https://github.com/Jermolene/TiddlyDesktop) [TiddlyDesktop on GitHub](https://github.com/TiddlyDesktop) -  [TiddlyDesktop on TiddlyWiki.com](https://github.com/TiddlyDesktop) - A desktop app for TiddlyWiki, an open-source personal wiki written in javascript, great if you're still searching for a good note-taking (and more) app.
 - [Todo.txt](http://todotxt.com/) - todo.txt-专注的编辑器，用最少的组合键和点击帮助你管理你的任务。![Freeware][Freeware Icon]
 - [Todoist](https://github.com/kamhix/todoist-linux) - Todoist 的非官方客户端。Todoist 是带有移动客户端的跨平台待办事项管理器，有着优秀的用户界面以及一些可选的高级特性。[![Open-Source Software][OSS Icon]](https://github.com/kamhix/todoist-linux) ![Freeware][Freeware Icon]
 - [Tomboy](https://wiki.gnome.org/Apps/Tomboy) - Tomboy 是一款简单易用的桌面笔记应用。 [![Open-Source Software][OSS Icon]](https://wiki.gnome.org/Apps/Tomboy) ![Freeware][Freeware Icon]
