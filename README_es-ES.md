@@ -125,6 +125,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/emilioastarita/lyricfier) [Lyricfier](https://github.com/emilioastarita/lyricfier) - Un programa para encontrar letras paraSpotify.
 - [![Open-Source Software][OSS Icon]](https://github.com/ColinDuquesnoy/MellowPlayer) [Mellow Player](https://colinduquesnoy.github.io/MellowPlayer/) - Una aplicación integrada en la nube para reproductor de medios para tu PC.
 - [![Open-Source Software][OSS Icon]](https://github.com/mixxxdj/mixxx) [Mixxx](http://www.mixxx.org/download/) - Uno software gratis Disc-jockey para crear música y es una alternativa de Traktor.
+- [![Open-Source Software][OSS Icon]](https://github.com/mopidy/mopidy) [Mopidy](https://www.mopidy.com/) - Un servidor de música extensible escrito en python.
 - [![Open-Source Software][OSS Icon]](https://github.com/KeitIG/museeks) [Museek](http://museeks.io/) - Un reproductor de música multi-plataforma simple.
 - [![Open-Source Software][OSS Icon]](https://github.com/musescore/MuseScore) [MuseScore](https://musescore.org) - una aplicación para la creación, reproducción e impresión de partituras.
 - [![Open-Source Software][OSS Icon]](https://github.com/metabrainz/picard) [MusicBrainz Picard](https://picard.musicbrainz.org/) - Picard es una aplicación multiplataforma para edición de multidatos de música.
@@ -517,6 +518,7 @@
 ### Gráficos
 
 #### Creación de gráficos
+- [![Open-Source Software][OSS Icon]](https://github.com/aseprite/aseprite/) [Aseprite](https://www.aseprite.org/) - Un programa para crear sprites animados.
 - [Blender](https://www.blender.org/) - Una fuente abierta y un flujo de trabajo completo para crear gráficos en 3D, diseñados para artistas solos o equipos enteros.
 - [Cinepaint](http://www.cinepaint.org/) - Un software de pintura capaz y de código abierto.
 - [Gravit](https://www.designer.io/) - Gravit Designer es una aplicación de diseño vectorial libre.
@@ -741,6 +743,8 @@
 - [ClamAV](https://www.clamav.net/) - Clamav es un antivirus que es de código abierto y puede proteger un equipo contra virus.
 - [Fail2ban](http://www.fail2ban.org/wiki/index.php/Main_Page) - Fail2ban puede escanear archivos de registro y prohibir las direcciones IP que muestren signos maliciosos, como demasiados intentos de contraseña, o cavar para exploits.
 - [![Open-Source Software][OSS Icon]](https://github.com/firehol/firehol) [FireHOL](https://firehol.org) - Un controlador de firewall para (`iptables`) Linux, que es fácil de usar.
+- [![Open-Source Software][OSS Icon]](https://github.com/netblue30/firejail) [Firejail](https://firejail.wordpress.com/) -
+es un programa SUID que crea seguridad mediante la restricción de aplicaciones que utilizan espacios de nombres de Linux. [Espacios de Nombres de Linux](https://lwn.net/Articles/531114/) e [seccomp-bpf](https://l3net.wordpress.com/2015/04/13/firejail-seccomp-guide/).
 - [![Open-Source Software][OSS Icon]](https://firehol.org/tutorial/fireqos-new-user/) [FireQoS](https://github.com/firehol/netdata/wiki/You-should-install-QoS-on-all-your-servers) - Un firewall de Linux QoS (Calidad de servicio) de gestión que es fácil de usar.
 - [![Open-Source Software][OSS Icon]](https://github.com/firewalld/firewalld) [Firewalld](https://github.com/firewalld/firewalld) - Firewalld es un firewall gestionado dinámicamente con soporte para zonas de red y firewall, para proporcionar diferentes niveles de confianza para diferentes conexiones.
 - [GnuPG](https://www.gnupg.org/) - GnuPG le permite cifrar sus archivos con un sistema de gestión de claves.

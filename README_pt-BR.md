@@ -116,6 +116,7 @@ Duas versões chinesas desta lista estão disponíveis [aqui](https://github.com
 - [Lollypop](http://gnumdk.github.io/lollypop-web) - Lollypop é uma nova aplicação de reprodução de música GNOME. [![Open-Source Software][OSS Icon]](https://github.com/gnumdk/lollypop)
 - [Lyricfier](https://github.com/emilioastarita/lyricfier) - Um aplicativo alternativo de letras do Spotify. [![Open-Source Software][OSS Icon]](https://github.com/emilioastarita/lyricfier)
 - [Mixxx](http://www.mixxx.org/download/) - Software de DJ gratuito que oferece tudo o que você precisa para realizar mixagens ao vivo, verdadeira alternativa ao Traktor. [![Open-Source Software][OSS Icon]](https://github.com/mixxxdj/mixxx)
+- [![Open-Source Software][OSS Icon]](https://github.com/mopidy/mopidy) [Mopidy](https://www.mopidy.com/) - An extensible music server written in Python.
 - [Museek](http://museeks.io/) - Um reprodutor de música simples, limpo e multiplataforma. [![Open-Source Software][OSS Icon]](https://github.com/KeitIG/museeks)
 - [![Open-Source Software][OSS Icon]](https://github.com/musescore/MuseScore) [MuseScore](https://musescore.org) - Create, play and print beautiful sheet music.
 - [![Open-Source Software][OSS Icon]](https://github.com/metabrainz/picard) [MusicBrainz Picard](https://picard.musicbrainz.org/) - Picard is a cross-platform music tagger written in Python.
@@ -476,6 +477,7 @@ Ele foi projetado principalmente para ajudar a recuperar partições perdidas e/
 ### Gráficos
 
 #### Criação de Gráficos
+- [![Open-Source Software][OSS Icon]](https://github.com/aseprite/aseprite/) [Aseprite](https://www.aseprite.org/) - Animated sprite editor & pixel art tool.
 - [Blender](https://www.blender.org/) - a free and open source complete 3D creation pipeline for artists and small teams.
 - [Cinepaint](http://www.cinepaint.org/) - Open source deep paint software
 - [Gravit](https://www.designer.io/) - Gravit Designer is a full featured free vector design app right at your fingertip.
@@ -697,6 +699,7 @@ Ele foi projetado principalmente para ajudar a recuperar partições perdidas e/
 - [ClamAV](https://www.clamav.net/) - Clam Anti Virus
 - [Fail2ban](http://www.fail2ban.org/wiki/index.php/Main_Page) - Fail2ban scans log files (e.g. /var/log/apache/error_log) and bans IPs that show the malicious signs -- too many password failures, seeking for exploits, etc.
 - [FireHOL](https://firehol.org) - Linux firewall (`iptables`) manager for humans. [![Open-Source Software][OSS Icon]](https://github.com/firehol/firehol)
+- [![Open-Source Software][OSS Icon]](https://github.com/netblue30/firejail) [Firejail](https://firejail.wordpress.com/) - Firejail is a SUID program that reduces the risk of security breaches by restricting the running environment of untrusted applications using [Linux namespaces](https://lwn.net/Articles/531114/) and [seccomp-bpf](https://l3net.wordpress.com/2015/04/13/firejail-seccomp-guide/).
 - [FireQoS](https://github.com/firehol/netdata/wiki/You-should-install-QoS-on-all-your-servers) - Linux QoS (`tc`) manager for humans. [![Open-Source Software][OSS Icon]](https://firehol.org/tutorial/fireqos-new-user/)
 - [Firewalld](https://github.com/firewalld/firewalld) - Firewalld provides a dynamically managed firewall with support for network or
   firewall zones to define the trust level of network connections or interfaces. [![Open-Source Software][OSS Icon]](https://github.com/firewalld/firewalld)

@@ -94,6 +94,7 @@
 - [Lollypop](http://gnumdk.github.io/lollypop-web) - Lollypop 是一款新的 GNOME 音乐播放应用。 [![Open-Source Software][OSS Icon]](https://github.com/gnumdk/lollypop) ![Freeware][Freeware Icon]
 - [Lyricfier](https://github.com/emilioastarita/lyricfier) - 一个 Spotify Lyrics 的替代选择。 [![Open-Source Software][OSS Icon]](https://github.com/emilioastarita/lyricfier) ![Freeware][Freeware Icon]
 - [Mixxx](http://www.mixxx.org/download/) - 免费的 DJ 软件，给你一切现场混音所需要的，名副其实的 Traktor 替代品。 [![Open-Source Software][OSS Icon]](https://github.com/mixxxdj/mixxx) ![Freeware][Freeware Icon]
+- [![Open-Source Software][OSS Icon]](https://github.com/mopidy/mopidy) [Mopidy](https://www.mopidy.com/) - An extensible music server written in Python.
 - [Museek](http://museeks.io/) - 一款简单，干净，跨平台的音乐播放器。 [![Open-Source Software][OSS Icon]](https://github.com/KeitIG/museeks) ![Freeware][Freeware Icon]
 - [![Open-Source Software][OSS Icon]](https://github.com/musescore/MuseScore) [MuseScore](https://musescore.org) - Create, play and print beautiful sheet music.
 - [![Open-Source Software][OSS Icon]](https://github.com/metabrainz/picard) [MusicBrainz Picard](https://picard.musicbrainz.org/) - Picard is a cross-platform music tagger written in Python.
@@ -364,6 +365,7 @@
 ### 图形
 - [Aftershot](http://www.aftershotpro.com/en/products/aftershot/pro/) - 一个强大的 Adobe Photoshop 替代品！
 - [Agave](http://home.gna.org/colorscheme/) - Agave 是 GNOME 桌面下一个很简单的程序，让你可以从一个颜色开始生成各种不同的配色方案![Freeware][Freeware Icon]
+- [![Open-Source Software][OSS Icon]](https://github.com/aseprite/aseprite/) [Aseprite](https://www.aseprite.org/) - Animated sprite editor & pixel art tool.
 - [Blender](https://www.blender.org/) - 面向艺术家和小团队的免费开源的完整 3D 创作流水线。![Freeware][Freeware Icon]
 - [Cinepaint](http://www.cinepaint.org/) - 开源绘画软件 ![Freeware][Freeware Icon]
 - [Darktable](http://www.darktable.org/) - darktable 是一个开源的摄影处理软件，支持 RAW 文件处理![Freeware][Freeware Icon]
