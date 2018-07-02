@@ -114,6 +114,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/vincelwt/harmony) [Harmony](http://getharmony.xyz) - Music player with sleek interface & cloud compatibility.
 - [![Open-Source Software][OSS Icon]](https://github.com/mtytel/helm) [Helm](http://tytel.org/helm/) - A software synthesizer, that runs either standalone, or as an LV2, VST, VST3 or AU plugin.
 - [![Open-Source Software][OSS Icon]](https://github.com/hydrogen-music/hydrogen) [Hydrogen](http://www.hydrogen-music.org/hcms/node/21) - Advanced drum machine for GNU/Linux.
+- [![Open-Source Software][OSS Icon]](https://github.com/trazyn/ieaseMusic) [ieaseMusic](https://github.com/trazyn/ieaseMusic) - iEaseMusic is a multiplatform program built in electron for listening to NetEase Music.
 - [![Open-Source Software][OSS Icon]](https://github.com/KDE/k3b) [K3b](http://www.k3b.org/) - The CD/DVD Kreator for Linux, optimized for KDE.
 - [![Open-Source Software][OSS Icon]](https://kid3.sourceforge.io/) [Kid3Qt](https://apps.ubuntu.com/cat/applications/precise/kid3-qt/) - Edit tags of multiple files, e.g. the artist, album, year and genre of all mp3 files of an album.
 - [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/kxstudio/) [KxStudio](http://kxstudio.linuxaudio.org/) - A collection of applications and plugins for professional audio production.
@@ -229,7 +230,6 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/opendesktop/ocsstore) [OCS store](https://github.com/opendesktop/ocsstore) - Desktop app of openDesktop.org, which is one of the largest communities where developers and artists share applications, themes and other content.
 - [![Open-Source Software][OSS Icon]](https://github.com/actionless/oomox) [Oomox theme generator](https://github.com/actionless/oomox) - A Graphical application for generating different color variations of a Numix-based and Flat-Plat themes (GTK2, GTK3), Gnome-Colors and Archdroid icons.
 - [![Open-Source Software][OSS Icon]](https://github.com/jaagr/polybar) [Polybar](https://github.com/jaagr/polybar) - Fast and easy-to-use status bar.
-- [![Open-Source Software][OSS Icon]](https://github.com/dylanaraps/pywal) [pywal](https://github.com/dylanaraps/pywal) - A script that takes an image (or a directory of images), generates a colorscheme (using imagemagick) and then changes all of your open terminal's colors to the new colorscheme on the fly.
 - [![Open-Source Software][OSS Icon]](https://github.com/ianyh/Amethyst) [Unity Tweak Tool](https://apps.ubuntu.com/cat/applications/unity-tweak-tool/) - A Must-have app for Ubuntu Unity customization.
 - [![Open-Source Software][OSS Icon]](https://github.com/deviantfero/wpgtk) [Wpgtk](http://deviantfero.github.io/wpgtk) - A universal theming software for all themes defined in text files, compatible with all terminals, with default themes for GTK2, GTK+, openbox and Tint2 that uses pywal as it's core for colorscheme generation.
 
@@ -282,7 +282,7 @@
 #### Java
 - [![Open-Source Software][OSS Icon]](https://www.bluej.org/versions.html) [BlueJ](http://bluej.org/) - A free Java Development Environment designed for beginners, used by millions worldwide.
 - [Eclipse](https://eclipse.org/ide/) - Eclipse is famous for our Java Integrated Development Environment (IDE), but can also download packages to support C/C++ IDE and PHP IDE.
-- [IntelliJ IDEA](https://www.jetbrains.com/idea/) - Powerful IDE for JAVA. Community version is [open sourced](https://github.com/JetBrains/intellij-community).
+- [![Open-Source Software][OSS Icon]](https://github.com/JetBrains/intellij-community) [IntelliJ IDEA](https://www.jetbrains.com/idea/) - Powerful IDE for JAVA. The Community version is open sourced.
 
 #### Javascript
 - [Webstorm](https://www.jetbrains.com/webstorm/) - Powerful IDE for modern JavaScript development, made by JetBrains.
@@ -486,7 +486,7 @@
 - ![Open-Source Software][OSS Icon] [Zelda Classic](http://www.zeldaclassic.com/) - A tribute to Nintendo's The Legend of Zelda with additional quests, items and challenges.
 - ![Open-Source Software][OSS Icon] [Zelda: Mystery of Solarus DX](http://www.solarus-games.org) - A direct sequel to The Legend of Zelda: A Link to the Past on the SNES, using the same graphics and game mechanisms.
 
-#### Command Line
+#### Command Line Games
 - [![Open-Source Software][OSS Icon]](https://itsfoss.com/best-command-line-games-linux/) [2048](https://itsfoss.com/best-command-line-games-linux/) - Play the famous 2048 in commandline.
 - [![Open-Source Software][OSS Icon]](https://itsfoss.com/best-command-line-games-linux/) [Backgammon](https://itsfoss.com/best-command-line-games-linux/) - Play Backgammon in commandline.
 - [![Open-Source Software][OSS Icon]](https://github.com/fph/bastet) [Bastet](https://github.com/fph/bastet) - Play Tetris in commandline.
@@ -499,6 +499,7 @@
 #### Miscellaneous
 - ![Open-Source Software][OSS Icon] [Cockatrice](https://cockatrice.github.io/) - Cockatrice is an open-source multiplatform supported program for playing tabletop card games over a network.
 - [![Open-Source Software][OSS Icon]](https://download.savannah.gnu.org/releases/galois/source/) [Galois](http://www.nongnu.org/galois/) - Galois is a Falling Blocks type game that isn't limited to the standard tetrominoes that most games in it's genre are limited to.
+- [![Open-Source Software][OSS Icon]](https://wiki.gnome.org/action/show/Apps/gbrainy?action=show&redirect=gbrainy#Source_code) [GBrainy](https://wiki.gnome.org/action/show/Apps/gbrainy?action=show&redirect=gbrainy) - Gbrainy is a brain teaser game with logic puzzles and memory trainers.
 - ![Nonfree][Money icon] [Minecraft](https://minecraft.net) - Minecraft is a game about placing blocks and going on adventures. Explore randomly generated worlds and build amazing things from the simplest of homes to the grandest of castles.
 - [![Open-Source Software][OSS Icon]](https://github.com/minetest/minetest/) [Minetest](https://minetest.net) - Open-source Minecraft written in C++ (uses less resources) and includes modding API.
 - ![Open-Source Software][OSS Icon] [Mudlet](mudlet.org) - A cross-platform, open source, and super fast MUD (text-only MMORPGs) client with scripting in Lua.
@@ -631,8 +632,6 @@
 #### Supportive Tool
 - [![Open-Source Software][OSS Icon]](https://github.com/jarun/Buku) [Buku](https://github.com/jarun/Buku) - Command line bookmark manager.
 - [Clipgrab](https://clipgrab.org/) - A friendly downloader for YouTube and other sites.
-- [![Open-Source Software][OSS Icon]](https://github.com/jarun/ddgr) [ddgr](https://github.com/jarun/ddgr) - DuckDuckGo from the command line.
-- [![Open-Source Software][OSS Icon]](https://github.com/jarun/googler) [googler](https://github.com/jarun/googler) - Google any stuff right in the command line.
 - [![Open-Source Software][OSS Icon]](https://gitweb.torproject.org/tor.git) [Tor](https://www.torproject.org/) - Tor is free software and an open network that helps you defend against traffic analysis, a form of network surveillance that threatens personal freedom and privacy.
 - [![Open-Source Software][OSS Icon]](https://github.com/rg3/youtube-dl) [youtube-dl](https://github.com/rg3/youtube-dl) - Command line video downloader from youtube.com and about other thousand video platforms. It's really awesome, at least for me.
 - [![Open-Source Software][OSS Icon]](https://github.com/MrS0m30n3/youtube-dl-gui) [youtube-dlg](https://mrs0m30n3.github.io/youtube-dl-gui/#downloads) - Youtube-dlg is a GUI for youtube-dl and allows for simple copy and paste from all youtube-dl compatible websites. It can auto-update youtube-dl as well as process a list of URL's in parallel.
@@ -760,12 +759,15 @@
 - [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/ijbswa/) [Privoxy](https://www.privoxy.org/) - Privoxy is a non-caching web proxy with advanced filtering capabilities for enhancing privacy, modifying web page data and HTTP headers, controlling access, and removing ads and other obnoxious Internet junk.
 - [![Open-Source Software][OSS Icon]](https://github.com/haad/proxychains) [ProxyChains](https://github.com/haad/proxychains) - A tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy.
 - [![Open-Source Software][OSS Icon]](https://github.com/shadowsocks/shadowsocks-qt5/releases) [Shadowsocks](https://shadowsocks.org/en/index.html) - A secure socks5 proxy, designed to protect your Internet traffic.
- 
+- [![Open-Source Software][OSS Icon]](https://github.com/erguotou520/electron-ssr/releases) [electron-ssr](https://github.com/erguotou520/electron-ssr) - Cross platform Shadowsocksr desktop client using electron.  
+
+
 
 ### Security
 - [![Open-Source Software][OSS Icon]](https://github.com/vrtadmin/clamav-devel/pulls) [ClamAV](https://www.clamav.net/) - ClamAV is an open source antivirus engine for detecting trojans, viruses, malware & other malicious threats.
 - [![Open-Source Software][OSS Icon]](https://github.com/fail2ban/fail2ban) [Fail2ban](http://www.fail2ban.org/wiki/index.php/Main_Page) - Fail2ban scans log files (e.g. /var/log/apache/error_log) and bans IPs that show the malicious signs -- too many password failures, seeking for exploits, etc.
 - [![Open-Source Software][OSS Icon]](https://github.com/firehol/firehol) [FireHOL](https://firehol.org) - Linux firewall (`iptables`) manager for humans.
+- [![Open-Source Software][OSS Icon]](https://github.com/netblue30/firejail) [Firejail](https://firejail.wordpress.com/) - Firejail is a SUID program that reduces the risk of security breaches by restricting the running environment of untrusted applications using [Linux namespaces](https://lwn.net/Articles/531114/) and [seccomp-bpf](https://l3net.wordpress.com/2015/04/13/firejail-seccomp-guide/).
 - [![Open-Source Software][OSS Icon]](https://firehol.org/tutorial/fireqos-new-user/) [FireQoS](https://github.com/firehol/netdata/wiki/You-should-install-QoS-on-all-your-servers) - Linux QoS (`tc`) manager for humans.
 - [![Open-Source Software][OSS Icon]](https://github.com/firewalld/firewalld) [Firewalld](https://github.com/firewalld/firewalld) - Firewalld provides a dynamically managed firewall with support for network or firewall zones to define the trust level of network connections or interfaces.
 - [![Open-Source Software][OSS Icon]](https://git.gnupg.org/) [GnuPG](https://www.gnupg.org/) - GnuPG allows to encrypt and sign your data and communication, features a versatile key management system as well as access modules for all kinds of public key directories.
@@ -777,7 +779,6 @@
 - [![Open-Source Software][OSS Icon]](https://git.zx2c4.com/password-store/) [Pass](https://www.passwordstore.org/) - The standard Unix password manager.
 - [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/passwordsafe/) [Password Safe](https://pwsafe.org/) - Password Safe allows you to safely and easily create a secured and encrypted user name/password list.
 - [![Open-Source Software][OSS Icon]](https://wiki.gnome.org/Apps/Seahorse) [Seahorse](https://wiki.gnome.org/Apps/Seahorse) - A Gnome frontend for GnuPG.
-- [![Open-Source Software][OSS Icon]](https://github.com/netblue30/firejail) [Firejail](https://firejail.wordpress.com/) - Firejail is a SUID program that reduces the risk of security breaches by restricting the running environment of untrusted applications using [Linux namespaces](https://lwn.net/Articles/531114/) and [seccomp-bpf](https://l3net.wordpress.com/2015/04/13/firejail-seccomp-guide/).
 - [![Open-Source Software][OSS Icon]](http://www.tcpdump.org/#source) [Tcpdump](http://www.tcpdump.org/) - TCP Debugging/Capture Tool.
 - [![Open-Source Software][OSS Icon]](https://github.com/usbkey9/uktools) [Uktools](https://github.com/usbkey9/uktools) - Keep your system up-to-date with last kernel available. Possibility to clean old kernel too.
 - [![Open-Source Software][OSS Icon]](https://github.com/firehol/blocklist-ipsets) [Update-IPsets](https://iplists.firehol.org) - A manager for all cybercrime IP feeds that can download, convert and install netfilter `ipsets`.
@@ -816,7 +817,6 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/jwilm/alacritty) [Alacritty](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator.
 - [![Open-Source Software][OSS Icon]](https://github.com/Swordfish90/cool-retro-term) [Cool Retro Term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal that mimicks the old cathode display.
 - [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/dban/) [DBAN](https://dban.org/) - Delete information stored on hard disk drives (HDDs) in PC laptops, desktops or servers.
-- [![Open-Source Software][OSS Icon]](https://github.com/railsware/upterm) [Upterm](https://github.com/railsware/upterm) - Upterm (formerly Black Screen) is an IDE in the world of terminals. Strictly speaking, it's both a terminal emulator and an interactive shell based on [Electron](https://electron.atom.io/).
 - [![Open-Source Software][OSS Icon]](https://github.com/GNOME) [GnomeTerminal](https://help.gnome.org/users/gnome-terminal/stable/) - A widely preinstalled terminal emulator in Linux world.
 - [![Open-Source Software][OSS Icon]](https://github.com/Guake/guake) [Guake](http://guake.org/) - Guake is a top-down terminal for Gnome.
 - [![Open-Source Software][OSS Icon]](https://github.com/zeit/hyper) [Hyper](https://hyper.is/) - A terminal built on web technologies.
@@ -834,6 +834,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/gnunn1/tilix) [Tilix](https://gnunn1.github.io/tilix-web/) - A tiling terminal emulator for Linux using GTK+ 3.
 - [![Open-Source Software][OSS Icon]](https://github.com/tmux/tmux) [Tmux](https://tmux.github.io/) - It lets you switch easily between several programs in one terminal, detach them (they keep running in the background) and reattach them to a different terminal. And do a lot more.
 - [![Open-Source Software][OSS Icon]](https://github.com/cosmos72/twin) [Twin](https://github.com/cosmos72/twin/) - Fast, lightweight text-mode window environment with mouse support. Enables multiple terminals in a single Linux console, terminal or X11 window. It can be detached (keeps running in background) and reattached to a different console, terminal or X11 server. Works on Linux, Mac OS X and BSD
+- [![Open-Source Software][OSS Icon]](https://github.com/railsware/upterm) [Upterm](https://github.com/railsware/upterm) - Upterm (formerly Black Screen) is an IDE in the world of terminals. Strictly speaking, it's both a terminal emulator and an interactive shell based on [Electron](https://electron.atom.io/).
 - [![Open-Source Software][OSS Icon]](http://invisible-island.net/xterm/) [Xterm](http://invisible-island.net/xterm/) - The Xterm program is a terminal emulator for the X Window System. It provides DEC VT102 and Tektronix 4014 compatible terminals for programs that can't use the window system directly.
 - [![Open-Source Software][OSS Icon]](https://www.kde.org/applications/system/yakuake/development) [Yakuake](https://yakuake.kde.org/) - A Quake-style terminal emulator based on KDE Konsole technology.
 
@@ -907,7 +908,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/xylosper/bomi) [Bomi Player](https://bomi-player.github.io/) - A powerful and easy-to-use multimedia player.
 - [![Open-Source Software][OSS Icon]](https://github.com/GNOME/cheese) [Cheese](https://wiki.gnome.org/Apps/Cheese) - Cheese uses your webcam to take photos and videos, applies fancy special effects and lets you share the fun with others.
 - [![Open-Source Software][OSS Icon]](https://github.com/xbmc/xbmc) [Kodi](https://kodi.tv/about/) - An award-winning free and open source (GPL) software media center for playing videos, music, pictures, games, and more.
-- [![Open-Source Software][OSS Icon]](http://www.getmiro.com) [Miro](http://www.getmiro.com/) - Free, and open video, music and internet TV application; it brings video channels from thousands of sources and has more free HD than any other platform.
+- [![Open-Source Software][OSS Icon]](https://github.com/pculture/miro) [Miro](http://www.getmiro.com/) - Free, and open video, music and internet TV application; it brings video channels from thousands of sources and has more free HD than any other platform.
 - [![Open-Source Software][OSS Icon]](https://github.com/lettier/movie-monad) [Movie Monad](https://lettier.github.io/movie-monad) - A free and simple to use video player made with Haskell.
 - [![Open-Source Software][OSS Icon]](http://www.mplayerhq.hu/design7/dload.html) [MPlayer](http://www.mplayerhq.hu/design7/news.html) - MPlayer is a movie player which runs on many systems, play any kind of videos.
 - [![Open-Source Software][OSS Icon]](https://github.com/mpv-player/mpv) [MPV](https://www.mpv.io) - A free, open source, and cross-platform media player.
@@ -935,6 +936,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/athityakumar/colorls) [Color LS](http://www.omgubuntu.co.uk/2017/07/add-bling-ls-bash-command-colorls) - Color Ls is a Ruby Gem that spices up the ls command and shows more visually than ls does without additional commands.
 - [![Open-Source Software][OSS Icon]](https://github.com/chronitis/curseradio) [curseradio](https://github.com/chronitis/curseradio) - Command line radio player.
 - [![Open-Source Software][OSS Icon]](https://github.com/ssimunic/Daily-Reddit-Wallpaper) [Daily Reddit Wallpaper](https://github.com/ssimunic/Daily-Reddit-Wallpaper) - Change your wallpaper to the most upvoted image of the day from /r/wallpapers or any other subreddit on system startup.
+- [![Open-Source Software][OSS Icon]](https://github.com/jarun/ddgr) [ddgr](https://github.com/jarun/ddgr) - DuckDuckGo from the command line.
 - [![Open-Source Software][OSS Icon]](https://github.com/resin-io/etcher) [Etcher CLI](https://etcher.io/cli/) - The Etcher CLI is a command-line tool that aims to provide all the benefits of the Etcher desktop application in a way that can be run from a terminal, or even used from a script.
 - [![Open-Source Software][OSS Icon]](https://github.com/ogham/exa) [exa](https://the.exa.website/) - exa is a modern replacement for ls.
 - [![Open-Source Software][OSS Icon]](https://github.com/LubuntuFu/fishfry) [Fishfry](https://github.com/LubuntuFu/fishfry) - replaces fish history with a history tailored to pentesters for efficiency and newbie pentesters for learning.
