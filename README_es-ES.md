@@ -490,6 +490,18 @@ La versión de la comunidad es un software de código abierto.
 - [Steam](steampowered.com) - Una tienda de juegos donde puedes comprar juegos en línea.
 - [![Open-Source Software][OSS Icon]] [Wine](https://www.winehq.org/) - Wine ("Wine Is Not an Emulator") es una capa de compatibilidad que permite que las aplicaciones de Windows funcionen en Linux. Los resultados dependen del programa que se esté utilizando.
 
+#### Emulador de videoconsola
+- [![Open-Source Software][OSS Icon]](https://github.com/dolphin-emu/dolphin) [Dolphin Emulator](https://dolphin-emu.org/) - Dolphin es un emulador de Gamecube / Wii que te permite jugar estos juegos en Linux.
+- [![Open-Source Software][OSS Icon]](https://sourceforge.net/p/fuse-emulator/fuse/ci/master/tree/) [Fuse](http://fuse-emulator.sourceforge.net/) - Fuse es un emulador de espectro ZX para Linux.
+- [![Open-Source Software][OSS Icon]](https://gitlab.com/higan/higan) [Higan](https://byuu.org/emulation/higan/) - Higan
+es un emulador multiplataforma para estas consolas: NES, SNES, GameBoy, GameBoy Color, Gameboy Advance, NEC PC Engine, Sega Master System y más. Esta es una guía para instalarlo en inglés. [Instalación de Higan en inglés](https://higan.readthedocs.io/en/stable/install/linux/)
+- [![Open-Source Software][OSS Icon]](https://github.com/mamedev/mame) [MAME](http://mamedev.org/) - MAME es un emulador de arcade que puede jugar muchos juegos antiguos de arcade.
+- [![Open-Source Software][OSS Icon]](https://github.com/0ldsk00l/nestopia) [nestopia](http://0ldsk00l.ca/nestopia/) - nestopia es un emulador de Nintendo.
+- [![Open-Source Software][OSS Icon]](https://github.com/snes9xgit/snes9x) [Snes9x](http://www.snes9x.com/) - Snes9x es un emulador de SNES multiplataforma que existe desde hace mucho tiempo.
+- [![Open-Source Software][OSS Icon]](https://github.com/stella-emu/stella) [Stella](https://stella-emu.github.io/) - Stella es un emulador ATARI 2600 que está disponible en múltiples plataformas.
+- [![Open-Source Software][OSS Icon]](https://github.com/visualboyadvance-m/visualboyadvance-m) [Visual Boy Advance-M](http://vba-m.com/) - Un emulador para Gameboy y Gameboy Advance, que también puede simular dos sistemas de enlace.
+- [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/zsnes/files/zsnes/ZSNES%20v1.51/) [ZSNES](http://www.zsnes.com/) - Un emulador de SNES capaz y popular.
+
 #### Vario
 - [![Open-Source Software][OSS Icon]] [Cockatrice](https://cockatrice.github.io/) - Cockatrice es un programa multiplataforma de código abierto para jugar juegos de cartas en una red o en Internet.
 - [![Open-Source Software][OSS Icon]](https://download.savannah.gnu.org/releases/galois/source/) [Galois](http://www.nongnu.org/galois/) - Galois es un juego de bloques que cae que usa tetrominoes y otras formas.
@@ -955,8 +967,7 @@ es un programa SUID que crea seguridad mediante la restricción de aplicaciones 
 - [![Open-Source Software][OSS Icon]](https://github.com/BlankOn/manokwari) [Manokwari](http://manokwari.blankonlinux.or.id/) - Manokwari es un shell de escritorio para GNOME 3.
 - [![Open-Source Software][OSS Icon]](https://github.com/mate-desktop/) [Mate](http://mate-desktop.com/) - Mate se nombra después de Yerba Mate argentino, está diseñado para ser intuitivo y atractivo. Es un bifurcacion de GNOME 2.
 - [Pantheon](https://elementary.io/) - Pantheon es el entorno de escritorio predeterminado creado para el sistema operativo "Elementary OS".
-- [![Open-Source Software][OSS Icon]](https://github.com/ubports/unity8) [Unity](https://unity8.io/) - Unity is a shell for GNOME designed by Canonical for Ubuntu. A [guide](http://www.omgubuntu.co.uk/2016/04/ubuntu-16-04-unity-8-desktop-progress-video) on how to install unity 8 on Ubuntu 16.04.
-- [Unity](https://unity.ubuntu.com/) - Unity es el entorno de escritorio predeterminado para Ubuntu. Se basa en GNOME 3. [Una guia de la instalación](http://www.omgubuntu.co.uk/2016/04/ubuntu-16-04-unity-8-desktop-progress-video) - Una guía sobre cómo instalar Unity 8 para Ubuntu 16.04
+- [Unity](https://unity.ubuntu.com/) - Unity es el entorno de escritorio predeterminado para Ubuntu. Se basa en GNOME 3. [Una guia de la instalación inglés](http://www.omgubuntu.co.uk/2016/04/ubuntu-16-04-unity-8-desktop-progress-video) - Una guía sobre cómo instalar Unity 8 para Ubuntu 16.04
 - [![Open-Source Software][OSS Icon]](https://github.com/xfce-mirror) [Xfce](https://www.xfce.org/) - Xfce es un entorno de escritorio ligero diseñado para ser modular y muy personalizable.
 
 ## Gestores de pantallas
