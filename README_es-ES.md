@@ -147,6 +147,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/Soundnode/soundnode-app) [Soundnode](http://www.soundnodeapp.com/) - un aplicacion código abierto para SoundCloud.
 - [![Open-Source Software][OSS Icon]](https://github.com/devinhalladay/spotio) [Spotio](https://github.com/devinhalladay/spotio) - un tema inspirado en Rdio para la aplicación del applicacion Spotify oficial.
 - [![Open-Source Software][OSS Icon]](https://github.com/tomahawk-player/tomahawk) [Tomahawk](https://www.tomahawk-player.org/) - un nuevo reproductor de medios que agrega radio por Internet, descargas, almacenamiento de música en la nube, listas de reproducción de música y mucho más.
+- [![Open-Source Software][OSS Icon]](https://github.com/VCVRack/Rack) [VCV Rack](https://vcvrack.com/) - Un sintetizador modular virtual de código abierto.
 - [![Open-Source Software][OSS Icon]](https://github.com/needle-and-thread/vocal) [Vocal](http://vocalproject.net/) - Un cliente para podcastos para el moderno escritorio.
 
 
@@ -399,7 +400,6 @@ La versión de la comunidad es un software de código abierto.
 - [![Open-Source Software][OSS Icon]](https://github.com/kinitrupti/GNUKhata) [GNUKhata](http://www.gnukhata.in/) - Software de cuenta que es de código abierto.
 - [Google Earth](https://itsfoss.com/install-google-earth-ubunu/) - Google Earth es un programa que te permite ver un globo virtual con mapas y características geográficas.
 - [![Open-Source Software][OSS Icon]](http://gperiodic.seul.org/cvs/) [GPeriodic](http://gperiodic.seul.org/) - GPeriodic es un programa que muestra una tabla periódica, para Linux.
-- [![Open-Source Software][OSS Icon]](https://github.com/iTALC/italc) [ITalc](https://github.com/iTALC/italc/releases) - iTALC es un software de gestión informática para aulas, que permite a un profesor controlar las computadoras de los estudiantes y guiar a los estudiantes a través de una red de ordenadores.
 - [KDE Edu Suite](https://edu.kde.org/) - Un software libre diseñado para la educación. Está diseñado con KDE.
 - [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/klavaro) [Klavaro](http://klavaro.sourceforge.net/en/index.html) - Un programa que te enseña cómo escribir sin mirar el teclado. También le puede enseñar cómo escribir en las nuevas disposiciones de teclado.
 - [![Open-Source Software][OSS Icon]](https://github.com/KDE/ktouch) [Ktouch](https://github.com/KDE/ktouch) - KTouch es un programa que te enseña a escribir sin mirar el teclado.
@@ -418,6 +418,7 @@ La versión de la comunidad es un software de código abierto.
 - [![Open-Source Software][OSS Icon]](https://github.com/LLK/scratch-flash) [Scratch](https://scratch.mit.edu/) - Scratches es un programa que te permite crear historias interactivas, juegos y animaciones. También le permite compartir estas creaciones con personas en línea.
 - [![Open-Source Software][OSS Icon]](https://sourceforge.net/p/stellarium/code/HEAD/tree/) [Stellarium](http://www.stellarium.org/) - Es un programa de planetario de código abierto.
 - [![Open-Source Software][OSS Icon]](https://github.com/ugeneunipro/ugene) [UGENE](http://ugene.net/) - UGENE es un software multiplataforma basado en GUI basado en la bioinformática.
+- [![Open-Source Software][OSS Icon]](https://github.com/veyon/veyon) [Veyon](https://github.com/veyon/veyon/releases) - veyon es un software de gestión informática para aulas, que permite a un profesor controlar las computadoras de los estudiantes y guiar a los estudiantes a través de una red de ordenadores.
 
 ### Herramientas para email
 - [![Open-Source Software][OSS Icon]](http://git.claws-mail.org/) [Claws](http://www.claws-mail.org/) - Claws es un cliente de correo electrónico y lector de noticias, tiene una interfaz impresionante, es fácil de configurar, y tiene muchas características.
@@ -452,34 +453,11 @@ La versión de la comunidad es un software de código abierto.
 
 ### Juegos
 
-#### Videojuego de estrategia en tiempo real
-- [![Open-Source Software][OSS Icon]](http://releases.wildfiregames.com/) [0 AD](https://play0ad.com/) - Un juego que es mucho como "Age of Empires", pero es de código abierto, y sobre la guerra antigua.
-- [![Open-Source Software][OSS Icon]](https://sourceforge.net/p/nethack/NetHack/ci/NetHack-3.6.0/tree/) [Nethack](https://www.nethack.org/) - Un videojuego roguelike que es de código abierto y usa gráficos ASCII.
-- [![Open-Source Software][OSS Icon]](https://github.com/triplea-game/triplea/) [TripleA](http://www.triplea-game.org/) - Un juego de estrategia de código abierto que es como "Axis and Allies".
-- [![Open-Source Software][OSS Icon]](https://github.com/Warzone2100/warzone2100) [Warzone 2100](https://www.wz2100.net/) - Un juego que es de código abierto, es una estrategia en tiempo real que sucede después de una guerra nuclear.
-- [![Open-Source Software][OSS Icon]](https://bazaar.launchpad.net/~widelands-dev/widelands/trunk/changes) [Widelands](https://wl.widelands.org/) - Widelands es un juego de estrategia en tiempo real que tiene juego para un solo jugador y multijugador. Está inspirado en el juego: Settlers II.
-
-#### Videojuego de estrategia por turnos
-- [![Open-Source Software][OSS Icon]](https://github.com/wesnoth/wesnoth) [Battle for Wesnoth](https://wesnoth.org/) - El Battle for Wesnoth es una fuente abierta, tiene un tema de Alta fantasía. Tiene un solo jugador y un modo multijugador.
-- [![Open-Source Software][OSS Icon]](https://github.com/freeciv/freeciv) [FreeCiv](http://www.freeciv.org/) - Freeciv es un juego de estrategia de construcción de imperio de código abierto inspirado en la historia humana.
-
 #### Videojuego de construcción de ciudades
 - [Dwarf Fortress](http://www.bay12games.com/dwarves/) - Una famosa simulación compleja de una Fortaleza Enana de Alta Fantasía, lucha contra los duendes y mata bestias legendarias masivas. ¡Golpea la tierra!
 - [![Open-Source Software][OSS Icon]](https://svn.openttd.org/trunk/) [OpenTTD](hptts://www.openttd.org) - Un clon de código abierto de "Transport Tycoon Plus" con muchas mejoras que el original.
 - [![Open-Source Software][OSS Icon]](https://github.com/aburch/simutrans) [Simutrans](https://www.simutrans.com) - Simutrans es un simulador de transporte de código abierto.
 - [![Open-Source Software][OSS Icon]](https://github.com/unknown-horizons/unknown-horizons) [Unknown Horizons](http://unknown-horizons.org/) - Es un juego 2D estrategia en tiempo real, donde se construye una ciudad y economía.
-
-#### Videojuego de disparos en primera persona
-- [![Open-Source Software][OSS Icon]](https://gitlab.com/groups/xonotic) [ChaosEsqueAnthology Disc 1](https://sourceforge.net/projects/chaosesqueanthology/) [ChaosEsqueAnthology Disc 2](https://sourceforge.net/projects/chaosesqueanthologyvolume2/) - Una modificación de Xonotic que incluía armas extendidas, mapas, vehículos, edificios construibles, armas montadas, lanzamiento de hechizos, monstruos, personajes de jugadores, texturas y modo de juego (como colorwar (piense en guerra líquida))
-- [![Open-Source Software][OSS Icon]](https://github.com/red-eclipse/base) [Red Eclipse](https://redeclipse.net/) - Red Eclipse es un entretenido juego de tiro en primera persona. Tiene un tema de agilidad y velocidad.
-- [![Open-Source Software][OSS Icon]] [Urban Terror](http://www.urbanterror.info) - Un juego de disparos tácticos que se basa en el realismo, pero no siempre.
-- [![Open-Source Software][OSS Icon]](https://gitlab.com/groups/xonotic) [Xonotic](http://www.xonotic.org/) - Es un juego inspirado en "Unreal Tournament" y "Quake".
-- [![Open-Source Software][OSS Icon]](https://bitbucket.org/Torr_Samaho/zandronum) [Zandronum](http://zandronum.com/) - Un juego que es como "Doom", pero en línea y con muchas más características.
-
-#### JDR
-- [![Open-Source Software][OSS Icon]] [Tales of Maj'Eyal](https://te4.org/) - Tales of Maj’Eyal (ToME) es una exploración de mazmorras de código abierto JDR, que tiene un combate basado en turnos, y la construcción de personajes.
-- [![Open-Source Software][OSS Icon]] [Zelda Classic](http://www.zeldaclassic.com/) - Un homenaje al juego de Nintendo "The Legend of Zelda".
-- [![Open-Source Software][OSS Icon]] [Zelda: Mystery of Solarus DX](http://www.solarus-games.org) - Una secuela de "La leyenda de Zelda: un vínculo con el pasado" tiene los mismos gráficos, y utiliza la misma mecánica de juego.
 
 #### Juegos de Línea De Comando
 - [![Open-Source Software][OSS Icon]](https://itsfoss.com/best-command-line-games-linux/) [2048](https://itsfoss.com/best-command-line-games-linux/) - Un programa para jugar el famoso juego 2048 en la línea de comandos.
@@ -490,6 +468,44 @@ La versión de la comunidad es un software de código abierto.
 - [![Open-Source Software][OSS Icon]](https://itsfoss.com/best-command-line-games-linux/) [nSnake](https://itsfoss.com/best-command-line-games-linux/) - El juego 'snake' para la línea de comandos.
 - [![Open-Source Software][OSS Icon]](https://github.com/alexdantas/pacman4console.debian) [Pacman4console](https://launchpad.net/ubuntu/+source/pacman4console) - El juego 'pacman' para la línea de comandos.
 - [![Open-Source Software][OSS Icon]](https://itsfoss.com/best-command-line-games-linux/) [Tron](https://itsfoss.com/best-command-line-games-linux/) - Un juego "Tron" para la línea de comandos.
+
+#### Re-creaciones de motor de juegos de video (Requiere el juego real)
+- [![Open-Source Software][OSS Icon]] [NXEngine](http://nxengine.sourceforge.net/) - Una versión de "Cave Story" que funciona en Linux.
+- [![Open-Source Software][OSS Icon]](https://github.com/SFTtech/openage) [openage](http://openage.sft.mx/) - un software libre e codigo abierto, este es un clon de Age of Empires, requiere compilación.
+- [![Open-Source Software][OSS Icon]] [OpenMW](http://openmw.org) - Una recreación del motor para el juego "Morrowind" Puede hacer más que el original, y puede jugar el juego real también.
+- [![Open-Source Software][OSS Icon]] [OpenRA](http://www.openra.net/) - Una selección de juegos clásicos de estrategia que es de código abierto.
+- [![Open-Source Software][OSS Icon]] [OpenRCT2](https://openrct2.website/) - Una recreación del "Roller Coaster Tycoon 2" motor que requiere el juego original para jugar.
+
+#### Videojuego de disparos en primera persona
+- [![Open-Source Software][OSS Icon]](https://gitlab.com/groups/xonotic) [ChaosEsqueAnthology Disc 1](https://sourceforge.net/projects/chaosesqueanthology/) [ChaosEsqueAnthology Disc 2](https://sourceforge.net/projects/chaosesqueanthologyvolume2/) - Una modificación de Xonotic que incluía armas extendidas, mapas, vehículos, edificios construibles, armas montadas, lanzamiento de hechizos, monstruos, personajes de jugadores, texturas y modo de juego (como colorwar (piense en guerra líquida))
+- [![Open-Source Software][OSS Icon]](https://github.com/freedoom/freedoom) [Freedoom](https://freedoom.github.io/) - Freedoom es un puerto de código abierto de archivos de juegos doom, que pronto tendrá un motor de dooms de código abierto.
+- [![Open-Source Software][OSS Icon]](https://github.com/red-eclipse/base) [Red Eclipse](https://redeclipse.net/) - Red Eclipse es un entretenido juego de tiro en primera persona. Tiene un tema de agilidad y velocidad.
+- [![Open-Source Software][OSS Icon]] [Urban Terror](http://www.urbanterror.info) - Un juego de disparos tácticos que se basa en el realismo, pero no siempre.
+- [![Open-Source Software][OSS Icon]](https://gitlab.com/groups/xonotic) [Xonotic](http://www.xonotic.org/) - Es un juego inspirado en "Unreal Tournament" y "Quake".
+- [![Open-Source Software][OSS Icon]](https://bitbucket.org/Torr_Samaho/zandronum) [Zandronum](http://zandronum.com/) - Un juego que es como "Doom", pero en línea y con muchas más características.
+- [![Open-Source Software][OSS Icon]](https://github.com/coelckers/gzdoom) [Zdoom](https://zdoom.org/index) - Zdoom es un puerto de origen de condena moderno que es de código abierto y es muy personalizable.
+
+#### Aplicaciones de juego
+- [![Open-Source Software][OSS Icon]](https://github.com/itchio/itch) [itch](https://itch.io/) - Una mercado de juegos que centraliza tus descargas y las actualiza automáticamente. Un montón de juegos gratuitos están disponibles.
+- [![Open-Source Software][OSS Icon]](https://github.com/lutris/lutris) [Lutris](https://lutris.net/) - Lutris es una plataforma de código abierto para organizar juegos en Linux.
+- [![Open-Source Software][OSS Icon]] [PlayOnLinux](https://www.playonlinux.com) - Un programa que hace que "WINE" sea más fácil de usar.
+- [![Open-Source Software][OSS Icon]] [RetroArch](http://www.retroarch.com/) - Un programa que te permite agregar emuladores de juego en un solo lugar.
+- [Steam](steampowered.com) - Una tienda de juegos donde puedes comprar juegos en línea.
+- [![Open-Source Software][OSS Icon]] [Wine](https://www.winehq.org/) - Wine ("Wine Is Not an Emulator") es una capa de compatibilidad que permite que las aplicaciones de Windows funcionen en Linux. Los resultados dependen del programa que se esté utilizando.
+
+#### Emulador de videoconsola e plataformas
+- [![Open-Source Software][OSS Icon]](https://github.com/dolphin-emu/dolphin) [Dolphin Emulator](https://dolphin-emu.org/) - Dolphin es un emulador de Gamecube / Wii que te permite jugar estos juegos en Linux.
+- [![Open-Source Software][OSS Icon]](https://sourceforge.net/p/fuse-emulator/fuse/ci/master/tree/) [Fuse](http://fuse-emulator.sourceforge.net/) - Fuse es un emulador de espectro ZX para Linux.
+- [![Open-Source Software][OSS Icon]](https://github.com/GNOME/gnome-video-arcade) [GNOME Video Arcade](https://wiki.gnome.org/action/show/Apps/GnomeVideoArcade?action=show&redirect=GnomeVideoArcade) - GNOME Video Arcade is a simple Mame frontend for any freedesktop.org compliant desktop environment.
+- [![Open-Source Software][OSS Icon]](https://gitlab.com/higan/higan) [Higan](https://byuu.org/emulation/higan/) - Higan
+es un emulador multiplataforma para estas consolas: NES, SNES, GameBoy, GameBoy Color, Gameboy Advance, NEC PC Engine, Sega Master System y más. Esta es una guía para instalarlo en inglés. [Instalación de Higan en inglés](https://higan.readthedocs.io/en/stable/install/linux/)
+- [![Open-Source Software][OSS Icon]](https://github.com/mamedev/mame) [MAME](http://mamedev.org/) - MAME es un emulador de arcade que puede jugar muchos juegos antiguos de arcade.
+- [![Open-Source Software][OSS Icon]](https://github.com/0ldsk00l/nestopia) [nestopia](http://0ldsk00l.ca/nestopia/) - nestopia es un emulador de Nintendo.
+- [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/qmc2/files/qmc2/) [qmc2](https://qmc2.batcom-it.net/) - QMC2 is the successor to QMamecat, it is a gui for MAME and a ROM manager.
+- [![Open-Source Software][OSS Icon]](https://github.com/snes9xgit/snes9x) [Snes9x](http://www.snes9x.com/) - Snes9x es un emulador de SNES multiplataforma que existe desde hace mucho tiempo.
+- [![Open-Source Software][OSS Icon]](https://github.com/stella-emu/stella) [Stella](https://stella-emu.github.io/) - Stella es un emulador ATARI 2600 que está disponible en múltiples plataformas.
+- [![Open-Source Software][OSS Icon]](https://github.com/visualboyadvance-m/visualboyadvance-m) [Visual Boy Advance-M](http://vba-m.com/) - Un emulador para Gameboy y Gameboy Advance, que también puede simular dos sistemas de enlace.
+- [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/zsnes/files/zsnes/ZSNES%20v1.51/) [ZSNES](http://www.zsnes.com/) - Un emulador de SNES capaz y popular.
 
 #### Vario
 - [![Open-Source Software][OSS Icon]] [Cockatrice](https://cockatrice.github.io/) - Cockatrice es un programa multiplataforma de código abierto para jugar juegos de cartas en una red o en Internet.
@@ -502,20 +518,21 @@ La versión de la comunidad es un software de código abierto.
 - [![Open-Source Software][OSS Icon]](https://github.com/alpcoskun/snake) [Snake Game](https://alpcoskun.com/snake/) - Un juego multiplataforma "snake" que está escrito en Node.js.
 - [![Open-Source Software][OSS Icon]](https://github.com/supertuxkart/stk-code) [SuperTuxKart](https://supertuxkart.net) - SuperTuxKart es un juego de carreras de código abierto 3D con una variedad de pistas y modos para jugar.
 
-#### Re-creaciones de motor de juegos de video (Requiere el juego real)
-- [![Open-Source Software][OSS Icon]] [NXEngine](http://nxengine.sourceforge.net/) - Una versión de "Cave Story" que funciona en Linux.
-- [![Open-Source Software][OSS Icon]](https://github.com/SFTtech/openage) [openage](http://openage.sft.mx/) - un software libre e codigo abierto, este es un clon de Age of Empires, requiere compilación.
-- [![Open-Source Software][OSS Icon]] [OpenMW](http://openmw.org) - Una recreación del motor para el juego "Morrowind" Puede hacer más que el original, y puede jugar el juego real también.
-- [![Open-Source Software][OSS Icon]] [OpenRA](http://www.openra.net/) - Una selección de juegos clásicos de estrategia que es de código abierto.
-- [![Open-Source Software][OSS Icon]] [OpenRCT2](https://openrct2.website/) - Una recreación del "Roller Coaster Tycoon 2" motor que requiere el juego original para jugar.
+#### JDR
+- [![Open-Source Software][OSS Icon]] [Tales of Maj'Eyal](https://te4.org/) - Tales of Maj’Eyal (ToME) es una exploración de mazmorras de código abierto JDR, que tiene un combate basado en turnos, y la construcción de personajes.
+- [![Open-Source Software][OSS Icon]] [Zelda Classic](http://www.zeldaclassic.com/) - Un homenaje al juego de Nintendo "The Legend of Zelda".
+- [![Open-Source Software][OSS Icon]] [Zelda: Mystery of Solarus DX](http://www.solarus-games.org) - Una secuela de "La leyenda de Zelda: un vínculo con el pasado" tiene los mismos gráficos, y utiliza la misma mecánica de juego.
 
-#### Aplicaciones de juego
-- [![Open-Source Software][OSS Icon]](https://github.com/itchio/itch) [itch](https://itch.io/) - Una mercado de juegos que centraliza tus descargas y las actualiza automáticamente. Un montón de juegos gratuitos están disponibles.
-- [![Open-Source Software][OSS Icon]](https://github.com/lutris/lutris) [Lutris](https://lutris.net/) - Lutris es una plataforma de código abierto para organizar juegos en Linux.
-- [![Open-Source Software][OSS Icon]] [PlayOnLinux](https://www.playonlinux.com) - Un programa que hace que "WINE" sea más fácil de usar.
-- [![Open-Source Software][OSS Icon]] [RetroArch](http://www.retroarch.com/) - Un programa que te permite agregar emuladores de juego en un solo lugar.
-- [Steam](steampowered.com) - Una tienda de juegos donde puedes comprar juegos en línea.
-- [![Open-Source Software][OSS Icon]] [Wine](https://www.winehq.org/) - Wine ("Wine Is Not an Emulator") es una capa de compatibilidad que permite que las aplicaciones de Windows funcionen en Linux. Los resultados dependen del programa que se esté utilizando.
+#### Videojuego de estrategia en tiempo real
+- [![Open-Source Software][OSS Icon]](http://releases.wildfiregames.com/) [0 AD](https://play0ad.com/) - Un juego que es mucho como "Age of Empires", pero es de código abierto, y sobre la guerra antigua.
+- [![Open-Source Software][OSS Icon]](https://sourceforge.net/p/nethack/NetHack/ci/NetHack-3.6.0/tree/) [Nethack](https://www.nethack.org/) - Un videojuego roguelike que es de código abierto y usa gráficos ASCII.
+- [![Open-Source Software][OSS Icon]](https://github.com/triplea-game/triplea/) [TripleA](http://www.triplea-game.org/) - Un juego de estrategia de código abierto que es como "Axis and Allies".
+- [![Open-Source Software][OSS Icon]](https://github.com/Warzone2100/warzone2100) [Warzone 2100](https://www.wz2100.net/) - Un juego que es de código abierto, es una estrategia en tiempo real que sucede después de una guerra nuclear.
+- [![Open-Source Software][OSS Icon]](https://bazaar.launchpad.net/~widelands-dev/widelands/trunk/changes) [Widelands](https://wl.widelands.org/) - Widelands es un juego de estrategia en tiempo real que tiene juego para un solo jugador y multijugador. Está inspirado en el juego: Settlers II.
+
+#### Videojuego de estrategia por turnos
+- [![Open-Source Software][OSS Icon]](https://github.com/wesnoth/wesnoth) [Battle for Wesnoth](https://wesnoth.org/) - El Battle for Wesnoth es una fuente abierta, tiene un tema de Alta fantasía. Tiene un solo jugador y un modo multijugador.
+- [![Open-Source Software][OSS Icon]](https://github.com/freeciv/freeciv) [FreeCiv](http://www.freeciv.org/) - Freeciv es un juego de estrategia de construcción de imperio de código abierto inspirado en la historia humana.
 
 ### Gráficos
 
@@ -913,6 +930,7 @@ es un programa SUID que crea seguridad mediante la restricción de aplicaciones 
 
 ## Herramientas de línea de comandos
 - [![Open-Source Software][OSS Icon]](https://github.com/jarun/Buku) [Buku](https://github.com/jarun/Buku) - Un administrador de marcadores para la línea de comandos.
+- [Cloc](https://github.com/AlDanial/cloc) - un programa que cuenta las líneas de código en un archivo de texto.
 - [![Open-Source Software][OSS Icon]](https://github.com/athityakumar/colorls) [Color LS](http://www.omgubuntu.co.uk/2017/07/add-bling-ls-bash-command-colorls) - Color LS es una "Ruby Gem" que hace que el comando 'ls' en Linux sea más bonito y muestre más información.
 - [![Open-Source Software][OSS Icon]](https://github.com/ssimunic/Daily-Reddit-Wallpaper) [Daily Reddit Wallpaper](https://github.com/ssimunic/Daily-Reddit-Wallpaper) - Un programa que cambia tu fondo de pantalla a la imagen más actualizada en /r/Wallpapers o cualquier subreddit en Reddit.
 - [![Open-Source Software][OSS Icon]](https://github.com/jarun/ddgr) [ddgr](https://github.com/jarun/ddgr) - Utiliza duckduckgo desde la línea de comandos.
@@ -954,8 +972,7 @@ es un programa SUID que crea seguridad mediante la restricción de aplicaciones 
 - [![Open-Source Software][OSS Icon]](https://github.com/BlankOn/manokwari) [Manokwari](http://manokwari.blankonlinux.or.id/) - Manokwari es un shell de escritorio para GNOME 3.
 - [![Open-Source Software][OSS Icon]](https://github.com/mate-desktop/) [Mate](http://mate-desktop.com/) - Mate se nombra después de Yerba Mate argentino, está diseñado para ser intuitivo y atractivo. Es un bifurcacion de GNOME 2.
 - [Pantheon](https://elementary.io/) - Pantheon es el entorno de escritorio predeterminado creado para el sistema operativo "Elementary OS".
-- [Unity](https://unity.ubuntu.com/) - Unity es el entorno de escritorio predeterminado para Ubuntu. Se basa en GNOME 3.
-- [Unity 8](http://www.omgubuntu.co.uk/2016/04/ubuntu-16-04-unity-8-desktop-progress-video) - Una guía sobre cómo instalar Unity 8 para Ubuntu 16.04
+- [Unity](https://unity.ubuntu.com/) - Unity es el entorno de escritorio predeterminado para Ubuntu. Se basa en GNOME 3. [Una guia de la instalación inglés](http://www.omgubuntu.co.uk/2016/04/ubuntu-16-04-unity-8-desktop-progress-video) - Una guía sobre cómo instalar Unity 8 para Ubuntu 16.04
 - [![Open-Source Software][OSS Icon]](https://github.com/xfce-mirror) [Xfce](https://www.xfce.org/) - Xfce es un entorno de escritorio ligero diseñado para ser modular y muy personalizable.
 
 ## Gestores de pantallas
