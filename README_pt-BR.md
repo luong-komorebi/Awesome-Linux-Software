@@ -1,15 +1,10 @@
 # IMPRESSIONANTES aplicativos para Linux
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://awesome.re/)
-
 ![Tux](img/tux.png)
-
 
 🐧 Este repositório é uma coleção de **IMPRESSIONANTES** aplicativos e ferramentas Linux para **usuários/desenvolvedores**.
 <br>
 🐧 Sinta-se livre para **contribuir** / **star** / **fork** / **pull request**. Qualquer **recomendação** e **sugestão** será bem-vinda.
-
-*Atualização: Este resumo foi publicado em [Gitbook](https://voluong.gitbooks.io/awesome-linux-software/content/). Você pode compartilhar esse link para novos usuários, pois podem achar mais amigável ler do que o github. Download em pdf [aqui](https://goo.gl/xhiKla).*
 
 **Reconhecimento:** *Tudo escrito abaixo é da minha própria experiência na faculdade e depois de ler vários materiais. Eu não sou profissional nem especialista, mas um aluno que tem uma grande paixão.
 Qualquer um pode abrir uma discussão na seção de problemas, ou enviar um pull request, caso algo seja modificado ou adicionado. Se você considerar meu trabalho valioso, uma [doação](#doação) será muito bem-vinda.*
@@ -1193,11 +1188,5 @@ Muito obrigado a [**TODOS os contribuintes**](https://github.com/LewisVo/Awesome
 
 Este projeto trabalha sob a licença [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
-<div id='donation'/>
-<a href="https://www.patreon.com/luongtranthanhvo"><img src="http://i.imgur.com/xrhJFXb.png" height="40px"></a> <a href="https://www.paypal.me/LuongTranThanhVo"><img src="http://i.imgur.com/O7lPSEP.png" height="40px" ></a> <a href="https://beerpay.io/LewisVo/Minitask"><img src="https://beerpay.io/LewisVo/Minitask/badge.svg" /></a>  
-
-Uma cerveja no seu país pode comprar uma refeição na minha.
-
-[chitchat]: https://github.com/stonesam92/ChitChat
 [OSS Icon]: https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg
 [Money Icon]: https://rawgit.com/LewisVo/Awesome-Linux-Software/master/img/money.svg

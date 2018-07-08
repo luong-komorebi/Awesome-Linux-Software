@@ -1,15 +1,12 @@
 # 超赞的 Linux 软件
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://awesome.re/)
-
 ![Tux](img/tux.png)
-
 
 🐧 这个仓库收集了对**任何用户/开发者**都**超赞**的 Linux 应用软件。
 <br>
 🐧 请随意 **contribute** / **star** / **fork** / **pull request**。欢迎一切**推荐**和**建议**。
 
-*更新：原英文库已经在 [Gitbook](https://voluong.gitbooks.io/awesome-linux-software/content/) 上发布，中文版阅读地址戳[这里](https://alim0x.gitbooks.io/awesome-linux-software-zh_cn/content/)。你可以将这个链接分享给新用户，因为在上面阅读相比于在 github 上阅读会更加友好。可以在[这里](https://goo.gl/xhiKla)下载英文 pdf 版本。*
+*更新：原英文库已经在 [Gitbook](https://luongvo209.gitlab.io/Awesome-Linux-Software) 上发布，中文版阅读地址戳[这里](https://alim0x.gitbooks.io/awesome-linux-software-zh_cn/content/)。你可以将这个链接分享给新用户，因为在上面阅读相比于在 github 上阅读会更加友好。可以在[这里](https://goo.gl/xhiKla)下载英文 pdf 版本。*
 
 ## 目录
 
@@ -887,6 +884,5 @@
 
 该作品签署于 [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/)。
 
-[chitchat]: https://github.com/stonesam92/ChitChat
 [OSS Icon]: https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg
 [Freeware Icon]: https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/free.svg

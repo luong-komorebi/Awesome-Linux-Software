@@ -1,15 +1,10 @@
 # Increíbles Softwares de Linux
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://awesome.re/)
-
 ![Tux](img/tux.png)
-
 
 🐧 este repositorio es una colección de **increíble** aplicaciones Linux y herramientas para **usuarios y desarrolladores**.
 <br>
 🐧 usted está alentado **contribuyas** / **estrella** / **bifurcacion** / **solicitud de llevar**. Cualquier **recomendaciones** y **sugerencias** son bienvenidos.
-
-*Actualización: este repositorio ha sido publicado en [Gitbook](https://voluong.gitbooks.io/awesome-linux-software/content/). Puedes compartir este enlace con nuevos usuarios. Puedes ser más fácil de leer que github. Descargar un pdf [aquí](https://goo.gl/xhiKla).*
 
 **reconocimiento:** *todo lo escrito a continuación es de la experiencia del usuario, y traducido de la fuente de material [aquí:](https://github.com/LewisVo/Awesome-Linux-Software) español no es mi primer idioma, así que la ayuda es apreciada.
 
@@ -1218,12 +1213,5 @@ Muchas gracias a [**Todos los colaboradores de Github**](https://github.com/Lewi
 
 Este trabajo está licenciado con [Creative Commons Reconocimiento 4.0 Internacional](https://creativecommons.org/licenses/by/4.0/deed.es_ES).
 
-<div id='donation'/>
-<a href="https://www.patreon.com/luongtranthanhvo"><img src="http://i.imgur.com/xrhJFXb.png" height="40px"></a> <a href="https://www.paypal.me/LuongTranThanhVo"><img src="http://i.imgur.com/O7lPSEP.png" height="40px" ></a> <a href="https://beerpay.io/LewisVo/Minitask"><img src="https://beerpay.io/LewisVo/Minitask/badge.svg" /></a>
-
-
-Una cerveza en su país, puede pagar por comida en la mía.
-
-[chitchat]: https://github.com/stonesam92/ChitChat
 [OSS Icon]: https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg
 [Money Icon]: https://rawgit.com/LewisVo/Awesome-Linux-Software/master/img/money.svg
