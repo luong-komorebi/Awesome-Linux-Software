@@ -1,15 +1,12 @@
 # Awesome Linux Software
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://awesome.re/)
-
 ![Tux](img/tux.png)
-
 
 🐧 This repo is a collection of **AWESOME** Linux applications and tools for **any users/developers**.
 <br>
 🐧 Feel free to **contribute** / **star** / **fork** / **pull request** . Any **recommendations** and **suggestions** are welcome.
 
-*Update: This repo has been published on [Gitbook](https://voluong.gitbooks.io/awesome-linux-software/content/). You can share this link with new users, as they may find it friendlier to read than GitHub. Download as a pdf [here](https://goo.gl/xhiKla).*
+*Update: This repo has a friendlier version available [here](https://luongvo209.gitlab.io/Awesome-Linux-Software).*
 
 **Acknowledgement:** *Everything written below is from my own experience in college and after reading various materials. I am neither a professional nor an expert, but a passionate student. Anyone can open a discussion in the issue section, or a pull request if something should be modified or added. If you consider my work valuable, a [donation](#donation) is much appreciated.*
 
