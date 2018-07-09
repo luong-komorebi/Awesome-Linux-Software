@@ -129,7 +129,7 @@
 - [Skype](https://www.skype.com/en/) - Skype 让世界保持沟通，免费的。
 - [Slack](https://slack.com/downloads/linux) - 现代团队的即时通讯，归档及搜索沟通工具。
 - [Telegram](https://desktop.telegram.org/) - 一款专注于速度和安全的消息应用，它非常快，简单而且免费。 [![Open-Source Software][OSS Icon]](https://github.com/telegramdesktop/tdesktop)
-- [Tim](https://github.com/askme765cs/Wine-QQ-TIM) -  Appimage打包的QQ客户端,开箱即用
+- [Tim](https://github.com/askme765cs/Wine-QQ-TIM) -  Appimage打包的Tim客户端,开箱即用
 - [Viber](https://www.viber.com/en/products/linux) - Viber for Linux 让你在任何设备，网络和国家给其他 Viber 用户免费发送消息和通话。
 - [Weechat](https://weechat.org/) - WeeChat 是一款快速，轻量级，可扩展的聊天客户端。 [![Open-Source Software][OSS Icon]](https://github.com/weechat)
 
