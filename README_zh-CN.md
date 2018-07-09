@@ -107,12 +107,15 @@
 - [SoundJuicer](http://www.howtogeek.com/howto/20126/rip-audio-cds-with-sound-juicer/) - CD 抓取工具，for GNOME
 - [Soundnode](http://www.soundnodeapp.com/) - 一款开源的 SoundCloud 桌面应用。 [![Open-Source Software][OSS Icon]](https://github.com/Soundnode/soundnode-app)
 - [Spotio](https://github.com/devinhalladay/spotio) - 受 Rdio 启发的 Spotify 桌面应用亮色主题。 [![Open-Source Software][OSS Icon]](https://github.com/devinhalladay/spotio)
+- [Spotify](http://spotify.com/) - 目前全球最大的流音乐服务商，提供包括[Sony Music](https://zh.wikipedia.org/wiki/Sony_Music)、[EMI](https://zh.wikipedia.org/wiki/EMI)、[Warner Music Group](https://zh.wikipedia.org/wiki/Warner_Music_Group)和[Universal](https://zh.wikipedia.org/wiki/Universal_Music_Group)四大唱片公司及众多独立厂牌所授权、由[数字版权管理](https://zh.wikipedia.org/wiki/%E6%95%B0%E5%AD%97%E7%89%88%E6%9D%83%E7%AE%A1%E7%90%86)（DRM）保护的音乐。
 - [Tomahawk](https://www.tomahawk-player.org/) - 一种新的音乐播放器，集合你所有的流媒体，下载，音乐云存储，播放列表，电台等。 [![Open-Source Software][OSS Icon]](https://github.com/tomahawk-player/tomahawk)
 
 ### 聊天客户端
+- [QQ](https://github.com/askme765cs/Wine-QQ-TIM) - Appimage打包的QQ客户端,开箱即用
 - [Chatty](http://chatty.github.io/) - Chatty 是一款 Twitch 聊天客户端，它是为那些想尝试不同于 web 聊天的新事物，又不想像 IRC 客户端那样复杂或错过 Twitch 特色功能的用户准备的。[![Open-Source Software][OSS Icon]](https://github.com/chatty/chatty)
 - [Cutegram](http://aseman.co/en/products/cutegram/) - 提供比官方 Telegram 应用更多的特性。 [![Open-Source Software][OSS Icon]](https://github.com/Aseman-Land/Cutegram)
 - [Discord](https://discordapp.com/) - 为玩家准备的多合一语音文本聊天工具，免费，安全，同时支持桌面和手机。
+- [Electronic-Wechat](https://github.com/geeeeeeeeek/electronic-wechat) - 基于Web端的一款Wechat应用。 [![Open-Source Software][OSS Icon]](https://github.com/geeeeeeeeek/electronic-wechat)
 - [Franz](http://meetfranz.com/) - Franz 是一个免费的消息应用，结合了许多聊天及消息服务到单独的一个客户端中。[![Open-Source-Software][OSS Icon]](https://github.com/meetfranz/franz)
 - [GhettoSkype](https://github.com/stanfieldr/ghetto-skype) - Skype 的开源 web 封装。 [![Open-Source Software][OSS Icon]](https://github.com/stanfieldr/ghetto-skype)
 - [Gitter](https://gitter.im/) - Gitter — 开发者交流的地方。Gitter 的设计目标是让社区消息，协作和发现尽可能地简单。 [![Open-Source Software][OSS Icon]](https://github.com/gitterHQ/services)
@@ -126,6 +129,7 @@
 - [Skype](https://www.skype.com/en/) - Skype 让世界保持沟通，免费的。
 - [Slack](https://slack.com/downloads/linux) - 现代团队的即时通讯，归档及搜索沟通工具。
 - [Telegram](https://desktop.telegram.org/) - 一款专注于速度和安全的消息应用，它非常快，简单而且免费。 [![Open-Source Software][OSS Icon]](https://github.com/telegramdesktop/tdesktop)
+- [Tim](https://github.com/askme765cs/Wine-QQ-TIM) -  Appimage打包的QQ客户端,开箱即用
 - [Viber](https://www.viber.com/en/products/linux) - Viber for Linux 让你在任何设备，网络和国家给其他 Viber 用户免费发送消息和通话。
 - [Weechat](https://weechat.org/) - WeeChat 是一款快速，轻量级，可扩展的聊天客户端。 [![Open-Source Software][OSS Icon]](https://github.com/weechat)
 
@@ -144,6 +148,7 @@
 - [Adapta Theme](https://github.com/tista500/Adapta) - 一款自适应的 Gtk+ 主题，遵循 Material 设计指南。![Open-Source Software][OSS Icon]
 - [Arc Icon Theme](https://github.com/horst3180/arc-icon-theme) - 一款可以和 Moka 图标主题一同使用的现代图标主题。 ![Open-Source Software][OSS Icon]
 - [Arc Theme](https://github.com/horst3180/arc-theme) - 带有透明元素的扁平化主题 ![Open-Source Software][OSS Icon]
+- [Canta-Theme](https://github.com/vinceliuice/Canta-theme) - Canta是GTK 3，GTK 2和Gnome-Shell的平面Material Design主题，支持基于GTK 3和GTK 2的桌面环境，如Gnome，Unity，Budgie，Pantheon，XFCE，Mate等。[![Open-Source Software][OSS Icon]](https://github.com/vinceliuice/Canta-theme)
 - [Compiz Config settings manager](https://apps.ubuntu.com/cat/applications/compizconfig-settings-manager/) - OpenCompositing 项目带来的提高 X Window 系统可用性和生产力的 3D 桌面视觉特效。
 - [Conky](https://github.com/brndnmtthws/conky) - Conky 是 X 下一款免费，轻量的系统监视器，可以在你桌面显示任何类型的信息。 [![Open-Source Software][OSS Icon]](https://github.com/brndnmtthws/conky)
 - [Flatabulous Arc Theme](https://github.com/andreisergiu98/arc-flatabulous-theme) - 我最爱的 ubuntu 主题。[![Open-Source Software][OSS Icon]](https://github.com/andreisergiu98/arc-flatabulous-theme)
@@ -168,6 +173,7 @@
 - [BlueJ](http://bluej.org/) - 一款为新手设计的免费 Java 开发环境，世界范围内数百万人使用。
 - [Code::Blocks](http://www.codeblocks.org/) - Code::Blocks 是一款为满足大部分用户需求构建的免费的 C，C++ 以及 Fortran IDE。它可扩展并且可配置性强。
 - [Codelite](http://codelite.org/) - 一款免费，开源，跨平台的 C，C++，PHP，以及 Node.js IDE。
+- [dbKoda](https://www.dbkoda.com/) - 一款基于 (JavaScript/Electron)的免费，开源MongoDB IDE。![Open-Source Software][OSS Icon](https://github.com/SouthbankSoftware/dbkoda)
 - [DBeaver](http://dbeaver.jkiss.org/) - 一款通用数据库客户端，支持多个平台及多种数据库。 [![Open-Source Software][OSS Icon]](https://github.com/serge-rider/dbeaver/)
 - [![Open-Source Software][OSS Icon]](https://cgit.kde.org/kexi.git/about/) [Kexi](http://kexi-project.org/) - Kexi is an open source visual database applications creator, a long-awaited competitor for programs like MS Access or Filemaker.
 - [Eclipse](https://eclipse.org/ide/) - Eclipse 以 Java 集成开发环境而闻名，但它的 C/C++ IDE 和 PHP IDE 同样出色。
@@ -199,6 +205,7 @@
 - [QT Creator](https://www.qt.io/ide/) - 全功能跨平台集成开发环境，轻松创建互联设备，用户界面以及应用程序。
 - [Rabbit VCS](http://rabbitvcs.org/) - RabbitVCS 是一个图形工具的集合，提供一个与你使用的版本控制系统简单而直接的访问方式。 [![Open-Source Software][OSS Icon]](https://github.com/rabbitvcs/rabbitvcs)
 - [Sloeber IDE](http://eclipse.baeyens.it/) - Sloeber IDE。Eclipse 的 Arduino IDE。我很喜欢它。 [![Open-Source Software][OSS Icon]](https://github.com/jantje/arduino-eclipse-plugin)
+- [SpaceVim](https://spacevim.org/cn/) - 一个社区驱动的模块化 Vim IDE，以模块的方式组织管理插件以及相关配置， 为不同的语言开发量身定制了相关的开发模块，该模块提供代码自动补全， 语法检查、格式化、调试、REPL 等特性。用户仅需载入相关语言的模块即可得到一个开箱即用的Vim-IDE。[![Open-Source Software][OSS Icon]](https://github.com/SpaceVim/SpaceVim)
 - [StarUML](http://staruml.io/) - 一款精致的软件塑造者。
 - [Swift](https://swift.org/download/) - Swift 是一个通用编程语言，基于更现代的安全，性能，和软件设计模式为目标设计。
 - [Ubuntu-SDK](https://developer.ubuntu.com/en/phone/platform/sdk/installing-the-sdk/) - Ubuntu 官方 SDK。
@@ -417,6 +424,7 @@
 - [Kaku](https://github.com/EragonJ/Kaku/releases) - Ubuntu 开源 youtube 音乐播放器。  [![Open-Source Software][OSS Icon]](https://github.com/EragonJ/Kaku)
 - [Midori](http://midori-browser.org/) - 一款轻量级的免费浏览器，在低端机器上可以完美运行。  [![Open-Source Software][OSS Icon]](https://launchpad.net/~midori/+archive/ubuntu/ppa).
 - [Min](https://minbrowser.github.io/min) - 智能，快速的 web 浏览器。  [![Open-Source Software][OSS Icon]](https://github.com/minbrowser/min)
+- [Winds](https://getstream.io/winds/) - 一款基于React/Redux/Node的开源,美观的RSS阅读器和Podcast应用程序。  [![Open-Source Software][OSS Icon]](https://github.com/GetStream/Winds).
 - [youtube-dl](https://github.com/rg3/youtube-dl) -  YouTube 视频下载神器，是一个 Python 编写的命令行视频下载器，同时支持其它一些视频网站或平台。注意：国内用户若要下载 YouTube 视频，需要给它添加 --proxy 参数，指定代理下载。  [![Open-Source Software][OSS Icon]](https://github.com/rg3/youtube-dl).
 
 ### 办公
@@ -461,6 +469,7 @@
 - [Redshift](http://jonls.dk/redshift/) - Redshift 根据你的周边调整你屏幕的色温。当你夜晚在屏幕前工作时，它也许能帮助你减少对眼睛的伤害。[![Open-Source Software][OSS Icon]](https://github.com/jonls/redshift)
 - [Shots](https://theshots.ru/) - HTML/CSS/JS 截屏工具。 [![Open-Source Software][OSS Icon]](https://github.com/binjospookie/--shots)
 - [![Open-Source Software][OSS Icon]](https://launchpad.net/shutter/) [Shutter](http://shutter-project.org/) - Shutter 基于 Linux 的系统上（比如 Ubuntu）的一款功能丰富的截屏软件。
+- ![Open-Source Software][OSS Icon][Flameshot](https://github.com/lupoDharkael/flameshot) - 一款开源截屏软件新秀，其操作简单、直观，功能强大，关键是符合很多 Windows 用户的使用习惯。
 - [Simplenote](https://simplenote.com/) - 跨平台笔记软件。Evernote 的竞争者。
 - [SpeedCrunch](http://www.speedcrunch.org/) - 一个漂亮，开源，高精度的科学计算器。 [![Open-Source Software][OSS Icon]](http://www.speedcrunch.org/)
 - [Springseed](https://github.com/spsdco/notes) - 面向日常用户简单又漂亮的一款笔记软件。[![Open-Source Software][OSS Icon]](https://github.com/spsdco/notes)
@@ -497,7 +506,7 @@
 
 
 ### 文件共享
-- [](https://aria2.github.io/) - aria2 是一个轻量级的多协议以及多来源命令行下载工具。 [![Open-Source Software][OSS Icon]](https://github.com/aria2/aria2)
+- [Aria2](https://aria2.github.io/) - aria2 是一个轻量级的多协议以及多来源命令行下载工具。 [![Open-Source Software][OSS Icon]](https://github.com/aria2/aria2)
 - [CrossFTP](http://www.crossftp.com/ftp-client.htm) - CrossFTP 让 FTP 相关的任务管理变得无比简单。
 - [D-lan](http://www.d-lan.net/) - 一个免费的局域网文件分享软件。
 - [Deluge](http://deluge-torrent.org/) - Deluge 是一款轻量级，免费的跨平台 BT 客户端。[![Open-Source Software][OSS Icon]](http://dev.deluge-torrent.org/wiki/Development#SourceCode)
