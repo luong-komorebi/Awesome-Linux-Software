@@ -173,8 +173,8 @@
 - [BlueJ](http://bluej.org/) - 一款为新手设计的免费 Java 开发环境，世界范围内数百万人使用。
 - [Code::Blocks](http://www.codeblocks.org/) - Code::Blocks 是一款为满足大部分用户需求构建的免费的 C，C++ 以及 Fortran IDE。它可扩展并且可配置性强。
 - [Codelite](http://codelite.org/) - 一款免费，开源，跨平台的 C，C++，PHP，以及 Node.js IDE。
-- [dbKoda](https://www.dbkoda.com/) - 一款基于 (JavaScript/Electron)的免费，开源MongoDB IDE。![Open-Source Software][OSS Icon](https://github.com/SouthbankSoftware/dbkoda)
-- [DBeaver](http://dbeaver.jkiss.org/) - 一款通用数据库客户端，支持多个平台及多种数据库。 [![Open-Source Software][OSS Icon](https://github.com/serge-rider/dbeaver/)
+- [dbKoda](https://www.dbkoda.com/) - 一款基于 (JavaScript/Electron)的免费，开源MongoDB IDE。 [![Open-Source Software][OSS Icon]](https://github.com/SouthbankSoftware/dbkoda)
+- [DBeaver](http://dbeaver.jkiss.org/) - 一款通用数据库客户端，支持多个平台及多种数据库。[![Open-Source Software][OSS Icon]](https://github.com/serge-rider/dbeaver/)
 - [![Open-Source Software][OSS Icon]](https://cgit.kde.org/kexi.git/about/) [Kexi](http://kexi-project.org/) - Kexi is an open source visual database applications creator, a long-awaited competitor for programs like MS Access or Filemaker.
 - [Eclipse](https://eclipse.org/ide/) - Eclipse 以 Java 集成开发环境而闻名，但它的 C/C++ IDE 和 PHP IDE 同样出色。
 - [Fisherman](https://github.com/fisherman/fisherman) - 一款 fish shell 插件管理器。 [![Open-Source Software][OSS Icon]](https://github.com/fisherman/fisherman)
