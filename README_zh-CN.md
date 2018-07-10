@@ -500,11 +500,12 @@
 - [GuFW](http://gufw.org/) - Linux 世界中最简单的防火墙之一。 [![Open-Source Software][OSS Icon]](https://code.launchpad.net/gui-ufw)
 
 ### 代理
-- [electron-ssr](https://github.com/erguotou520/electron-ssr) - electron 版 跨平台 Shadowsocksr 桌面客户端。 [![Open-Source Software][OSS Icon]](https://github.com/erguotou520/electron-ssr/releases)
+- [Electron-ssr](https://github.com/erguotou520/electron-ssr) - electron 版 跨平台 Shadowsocksr 桌面客户端。 [![Open-Source Software][OSS Icon]](https://github.com/erguotou520/electron-ssr/releases)
 - [Privoxy](https://www.privoxy.org/) - Privoxy 是一款无缓存 web 代理，有高级过滤功能，用以加强隐私，修改 web 页面数据以及 HTTP 头部，访问控制，还有去广告和烦人的网络垃圾的功能。 [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/ijbswa/)
 - [ProxyChains](https://github.com/haad/proxychains) - 强制指定的应用发起的任何 TCP 连接通过像 TOR 或其它 SOCKS4，SOCKS5 或 HTTP(S) 代理进行。 [![Open-Source Software][OSS Icon]](https://github.com/haad/proxychains)
 - [Shadowsocks](https://shadowsocks.org/en/index.html) - 一个 socks5 代理工具，保护你的互联网流量。 [![Open-Source Software][OSS Icon]](https://github.com/shadowsocks/shadowsocks-qt5/releases)
 - [Shadowsocks-QT5](https://github.com/shadowsocks/shadowsocks-qt5) - Linux下的shadowsocks GUI版本，不支持shadowsocksR。 [![Open-Source Software][OSS Icon]](https://github.com/shadowsocks/shadowsocks-qt5)
+- [V2ray](https://www.v2ray.com/) - 支持 Socks、HTTP、Shadowsocks、VMess 等协议的代理工具。 [![Open-Source Software][OSS Icon]](https://github.com/v2ray)
 
 
 
@@ -549,6 +550,7 @@
 - [Yakuake](https://yakuake.kde.org/) - 一款基于 KDE Konsole 技术的 Quake 风格的终端模拟器。
 
 ### 实用工具
+- [Anbox](https://anbox.io/) - 安卓模拟器,由于处于Beta版,可能会存在bug。 [![Open-Source Software][OSS Icon]](https://github.com/anbox/anbox)
 - [Actionaz](http://actionaz.org/) - Ubuntu/Linux 下的任务自动化工具。
 - [Albert](https://github.com/albertlauncher/albert) - Linux 桌面超赞的应用启动器。 [![Open-Source Software][OSS Icon]](https://github.com/albertlauncher/albert)
 - [![Open-Source Software][OSS Icon]](https://github.com/bleachbit/bleachbit) [Bleach bit](https://www.bleachbit.org/) - BleachBit 快速释放磁盘空间并不知疲倦地守卫你的隐私。释放缓存，删除 cookie，清除互联网浏览历史，清理临时文件，删除日志，以及更多功能...
