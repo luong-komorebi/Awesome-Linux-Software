@@ -927,6 +927,14 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/GNOME/gparted) [GParted](http://gparted.org/) - Disk Partition utility for Linux.
 - [![Open-Source Software][OSS Icon]](https://github.com/unetbootin/unetbootin) [Unetbootin](https://unetbootin.github.io) - UNetbootin allows you to create bootable Live USB drives for Ubuntu and other Linux distributions. You can either let UNetbootin download one of the many distributions supported out-of-the-box for you, or supply your own Linux .iso file.
 
+#### System Maintainance
+- [![Open-Source Software][OSS Icon]](https://code.launchpad.net/~teejee2008/apt-toolkit/trunk) [Aptik](http://www.teejeetech.in/2014/01/introducing-aptik.html) - A tool for you to organize your Favorite PPAs and manage Packages Easily.
+- [![Open-Source Software][OSS Icon]](https://github.com/bleachbit/bleachbit) [Bleach bit](https://www.bleachbit.org/) - BleachBit quickly frees disk space and tirelessly guards your privacy. Free cache, delete cookies, clear Internet history, shred temporary files, delete logs, and more.
+- [![Open-Source Software][OSS Icon]](https://github.com/sahib/rmlint) [rmlint](https://rmlint.readthedocs.io/en/latest/) - rmlint finds space waste and other broken things on your filesystem and offers to remove it.
+- [![Open-Source Software][OSS Icon]](https://github.com/oguzhaninan/Stacer) [Stacer](https://github.com/oguzhaninan/Stacer) - The most well known Ubuntu System Optimizer.
+- [![Open-Source Software][OSS Icon]](http://download.savannah.nongnu.org/releases/synaptic/) [Synaptic](http://www.nongnu.org/synaptic/) - Synaptic is a graphical package management program for apt.
+- [![Open-Source Software][OSS Icon]](https://github.com/gerardpuig/ubuntu-cleaner) [UbuntuCleaner](https://github.com/gerardpuig/ubuntu-cleaner) - Ubuntu Cleaner is a tool that makes it easy to clean your Ubuntu system.
+
 #### System Monitoring
 - [![Open-Source Software][OSS Icon]](https://launchpad.net/cpug) [CPU-G](http://www.omgubuntu.co.uk/2016/09/monitor-battery-life-ubuntu-cpu-g) - Easy monitoring the battery life of your Ubuntu laptop.
 - [GD map](http://gdmap.sourceforge.net/) - A tool to visualize disk usage.
@@ -942,8 +950,6 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/mildred/alien) [Alien Package Converter](https://sourceforge.net/projects/alien-pkg-convert/) - Package converter. Converts between RPM, DPKG, SLP, and TGZ package formats.
 - [![Open-Source Software][OSS Icon]](https://github.com/angryip/ipscan) [Angry IP Scanner](http://angryip.org/) - Fast and friendly network scanner.
 - ![Open-Source Software][OSS Icon] [antimicro](https://github.com/AntiMicro/antimicro/releases) - Bind controller button presses and joystick movement to keyboard and mouse actions with an intuitive GUI. Allows saving profiles into files.
-- [![Open-Source Software][OSS Icon]](https://code.launchpad.net/~teejee2008/apt-toolkit/trunk) [Aptik](http://www.teejeetech.in/2014/01/introducing-aptik.html) - A tool for you to organize your Favorite PPAs and manage Packages Easily.
-- [![Open-Source Software][OSS Icon]](https://github.com/bleachbit/bleachbit) [Bleach bit](https://www.bleachbit.org/) - BleachBit quickly frees disk space and tirelessly guards your privacy. Free cache, delete cookies, clear Internet history, shred temporary files, delete logs, and more.
 - [![Open-Source Software][OSS Icon]](https://github.com/chrisallenlane/cheat) [Cheat](https://github.com/chrisallenlane/cheat) - Cheat allows you to create and view interactive cheatsheets on the command-line.
 - [![Open-Source Software][OSS Icon]](http://convertall.bellz.org/download.html) [Convertall](https://sourceforge.net/projects/convertall/) - A program that can convert many units of measurement to other units.
 - [![Open-Source Software][OSS Icon]](https://github.com/chamfay/Curlew) [Curlew](https://github.com/chamfay/Curlew) - A GTK media converter for the GNOME desktop.
@@ -965,16 +971,12 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/fenrus75/powertop) [Powertop](https://01.org/powertop/downloads) - A tool that can help diagnose issues with power consumption in Linux.
 - [![Open-Source Software][OSS Icon]](https://github.com/pulseaudio/pulseaudio) [Pulse Audio](https://wiki.ubuntu.com/PulseAudio) - Improve Linux Audio with customized Profiles.
 - [![Open-Source Software][OSS Icon]](https://github.com/FreeRDP/Remmina) [Remmina](http://www.remmina.org/wp/) - A feature-rich remote desktop application for Linux and other UNIXes.
-- [![Open-Source Software][OSS Icon]](https://github.com/sahib/rmlint) [rmlint](https://rmlint.readthedocs.io/en/latest/) - rmlint finds space waste and other broken things on your filesystem and offers to remove it.
-- [![Open-Source Software][OSS Icon]](https://github.com/oguzhaninan/Stacer) [Stacer](https://github.com/oguzhaninan/Stacer) - The most well known Ubuntu System Optimizer.
 - [![Open-Source Software][OSS Icon]](https://github.com/antonio-malcolm/gloobus-preview) [Gloobus-Preview](https://github.com/antonio-malcolm/gloobus-preview) - It gives you a quick preview of your files. It's similar to [Sushi](https://github.com/GNOME/sushi)
 - [![Open-Source Software][OSS Icon]](https://github.com/GNOME/sushi) [Sushi](https://github.com/GNOME/sushi) - Sushi is a quick previewer for Nautilus, the GNOME desktop file manager.
-- [![Open-Source Software][OSS Icon]](http://download.savannah.nongnu.org/releases/synaptic/) [Synaptic](http://www.nongnu.org/synaptic/) - Synaptic is a graphical package management program for apt.
 - ![Open-Source Software][OSS Icon] [TightVNC](http://www.tightvnc.com/) - A Free, Lightweight, Fast and Reliable Remote Control / Remote Desktop Software.
 - [TLP](http://linrunner.de/en/tlp/docs/tlp-linux-advanced-power-management.html) - An application that can help optimize battery life on Linux.
 - [![Open-Source Software][OSS Icon]](https://github.com/Kilian/Trimage) [Trimage](https://trimage.org/) - A cross-platform tool for losslessly optimizing PNG and JPG files.
 - [![Open-Source Software][OSS Icon]](https://github.com/adgellida/ubunsys) [Ubunsys](https://github.com/adgellida/ubunsys) - An application designed to allow you to change in-depth system features without the command line.
-- [![Open-Source Software][OSS Icon]](https://github.com/gerardpuig/ubuntu-cleaner) [UbuntuCleaner](https://github.com/gerardpuig/ubuntu-cleaner) - Ubuntu Cleaner is a tool that makes it easy to clean your Ubuntu system.
 - [![Open-Source Software][OSS Icon]](https://github.com/Ulauncher/Ulauncher/) [ULauncher](http://ulauncher.io/) - An application launcher for Linux.
 - [USB network gate](https://www.eltima.com/products/usb-over-ip-linux/) - Allows you to share USB ports over a Network on Linux.
 - [![Open-Source Software][OSS Icon]](https://github.com/peterlevi/variety-slideshow) [Variety](http://peterlevi.com/variety/) - Variety is an open-source wallpaper changer for Linux, packed with great features, yet slim and easy to use.
