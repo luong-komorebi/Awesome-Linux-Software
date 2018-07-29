@@ -484,6 +484,7 @@
 - ![Open-Source Software][OSS Icon] [Urban Terror](http://www.urbanterror.info) - A "Hollywood" tactical shooter - realism based, but the motto is "fun over realism".
 - [![Open-Source Software][OSS Icon]](https://gitlab.com/groups/xonotic) [Xonotic](http://www.xonotic.org/) - Arena shooter inspired by Unreal Tournament and Quake.
 - [![Open-Source Software][OSS Icon]](https://bitbucket.org/Torr_Samaho/zandronum) [Zandronum](http://zandronum.com/) - Leading the way in newschool multiplayer Doom online.
+- [![Open-Source Software][OSS Icon]](https://github.com/coelckers/gzdoom) [Zdoom](https://zdoom.org/index) - ZDoom is a source port for the modern era, supporting current hardware and operating systems and sporting a vast array of user options.
 
 #### RPG
 - ![Open-Source Software][OSS Icon] [FLARE](http://flarerpg.org/) - Singleplayer Diablo clone with beautiful original graphics.
@@ -526,15 +527,6 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/OpenMW/openmw) [OpenMW](http://openmw.org) - A recreation of the Morrowind engine, expanding upon the original. It can be used to play legitimate copies of original game.
 - [![Open-Source Software][OSS Icon]](https://github.com/OpenRA/OpenRA) [OpenRA](http://www.openra.net/) - Classic strategy games, rebuilt for the modern era. Open source.
 - [![Open-Source Software][OSS Icon]](https://github.com/OpenRCT2/OpenRCT2) [OpenRCT2](https://openrct2.website/) - A recreation of the Rollercoaster Tycoon 2 engine. Requires the original games assests.
-
-#### FPS
-- [![Open-Source Software][OSS Icon]](https://gitlab.com/groups/xonotic) [ChaosEsqueAnthology Disc 1](https://sourceforge.net/projects/chaosesqueanthology/) [ChaosEsqueAnthology Disc 2](https://sourceforge.net/projects/chaosesqueanthologyvolume2/) - A modification of Xonotic which included extended weapons, maps, vehicles, buildable buildings, mounted weapons, spell casting, monsters, player characters, textures, and game mode (such as colorwar (think liquidwar))
-- [![Open-Source Software][OSS Icon]](https://github.com/freedoom/freedoom) [Freedoom](https://freedoom.github.io/) - The Freedoom project aims to create a complete free content game based on the Doom engine.
-- [![Open-Source Software][OSS Icon]](https://github.com/red-eclipse/base) [Red Eclipse](https://redeclipse.net/) - Red Eclipse is a fun-filled new take on the first person arena shooter, which lends itself toward a balanced gameplay, with a general theme of agility in a variety of environments.
-- ![Open-Source Software][OSS Icon] [Urban Terror](http://www.urbanterror.info) - A "Hollywood" tactical shooter - realism based, but the motto is "fun over realism".
-- [![Open-Source Software][OSS Icon]](https://gitlab.com/groups/xonotic) [Xonotic](http://www.xonotic.org/) - Arena shooter inspired by Unreal Tournament and Quake.
-- [![Open-Source Software][OSS Icon]](https://bitbucket.org/Torr_Samaho/zandronum) [Zandronum](http://zandronum.com/) - Leading the way in newschool multiplayer Doom online.
-- [![Open-Source Software][OSS Icon]](https://github.com/coelckers/gzdoom) [Zdoom](https://zdoom.org/index) - ZDoom is a source port for the modern era, supporting current hardware and operating systems and sporting a vast array of user options.
 
 #### Gaming Applications
 - [![Open-Source Software][OSS Icon]](https://github.com/itchio/itch) [itch](https://itch.io/) - The itch.io app. All of your downloads are kept in a single place and are automatically updated. Plenty of free games.
