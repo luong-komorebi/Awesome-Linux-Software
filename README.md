@@ -828,20 +828,36 @@
 
 
 ### Security
+
+#### Compartmentalization
+- [![Open-Source Software][OSS Icon]](https://github.com/netblue30/firejail) [Firejail](https://firejail.wordpress.com/) - Firejail is a SUID program that reduces the risk of security breaches by restricting the running environment of untrusted applications using [Linux namespaces](https://lwn.net/Articles/531114/) and [seccomp-bpf](https://l3net.wordpress.com/2015/04/13/firejail-seccomp-guide/).
+- [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/kvm/files/) [KVM](http://www.linux-kvm.org/page/Main_Page) - KVM (for Kernel-based Virtual Machine) is a full virtualization solution for Linux on x86 hardware containing virtualization extensions (Intel VT or AMD-V).
+- [![Open-Source Software][OSS Icon]](https://www.virtualbox.org/wiki/Contributor_information) [Virtualbox](https://www.virtualbox.org/wiki/Downloads) - VirtualBox is a general-purpose full virtualizer for x86 hardware, targeted at server, desktop and embedded use.
+
+#### Firewall
+- [![Open-Source Software][OSS Icon]](https://github.com/firehol/firehol) [FireHOL](https://firehol.org) - Linux firewall (`iptables`) manager for humans.
+- [![Open-Source Software][OSS Icon]](https://github.com/firewalld/firewalld) [Firewalld](https://github.com/firewalld/firewalld) - Firewalld provides a dynamically managed firewall with support for network or firewall zones to define the trust level of network connections or interfaces.
+- [![Open-Source Software][OSS Icon]](https://code.launchpad.net/gui-ufw) [GuFW](http://gufw.org/) - One of the easiest firewalls in the world of Linux.
+
+#### Password Manager
+- [![Open-Source Software][OSS Icon]](https://github.com/SpiderOak/Encryptr) [Encryptr](https://spideroak.com/encryptr/) - Encryptr is a zero-knowledge, cloud-based e-wallet / password manager powered by Crypton.
+- [Enpass](https://www.enpass.io/) - Enpass makes your life easy by securely managing your passwords and important information.
+- [![Open-Source Software][OSS Icon]](https://git.zx2c4.com/password-store/) [Pass](https://www.passwordstore.org/) - The standard Unix password manager.
+- [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/passwordsafe/) [Password Safe](https://pwsafe.org/) - Password Safe allows you to safely and easily create a secured and encrypted user name/password list.
+- [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/keepass/files/KeePass%202.x/) [KeePass](https://www.keepass.info/) - Windows focused password manager, with some cross platform support through Mono.
+- [![Open-Source Software][OSS Icon]](https://github.com/keepassxreboot/keepassxc) [KeePassXC](https://keepassxc.org/) - Cross platform password manager. A Community-maintained fork of KeePassX([dead](https://github.com/keepassx/keepassx/pull/204))
+- [![Open-Source Software][OSS Icon]](https://github.com/keeweb/keeweb) [KeeWeb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass
+- [LastPass](https://lastpass.com/misc_download2.php) - LastPass is a crossplatform freemium password management service that stores encrypted passwords in private accounts.
+
+#### Other
 - [![Open-Source Software][OSS Icon]](https://github.com/vrtadmin/clamav-devel/pulls) [ClamAV](https://www.clamav.net/) - ClamAV is an open source antivirus engine for detecting trojans, viruses, malware & other malicious threats.
 - [![Open-Source Software][OSS Icon]](https://github.com/fail2ban/fail2ban) [Fail2ban](http://www.fail2ban.org/wiki/index.php/Main_Page) - Fail2ban scans log files (e.g. /var/log/apache/error_log) and bans IPs that show the malicious signs -- too many password failures, seeking for exploits, etc.
-- [![Open-Source Software][OSS Icon]](https://github.com/firehol/firehol) [FireHOL](https://firehol.org) - Linux firewall (`iptables`) manager for humans.
-- [![Open-Source Software][OSS Icon]](https://github.com/netblue30/firejail) [Firejail](https://firejail.wordpress.com/) - Firejail is a SUID program that reduces the risk of security breaches by restricting the running environment of untrusted applications using [Linux namespaces](https://lwn.net/Articles/531114/) and [seccomp-bpf](https://l3net.wordpress.com/2015/04/13/firejail-seccomp-guide/).
 - [![Open-Source Software][OSS Icon]](https://firehol.org/tutorial/fireqos-new-user/) [FireQoS](https://github.com/firehol/netdata/wiki/You-should-install-QoS-on-all-your-servers) - Linux QoS (`tc`) manager for humans.
-- [![Open-Source Software][OSS Icon]](https://github.com/firewalld/firewalld) [Firewalld](https://github.com/firewalld/firewalld) - Firewalld provides a dynamically managed firewall with support for network or firewall zones to define the trust level of network connections or interfaces.
 - [![Open-Source Software][OSS Icon]](https://git.gnupg.org/) [GnuPG](https://www.gnupg.org/) - GnuPG allows to encrypt and sign your data and communication, features a versatile key management system as well as access modules for all kinds of public key directories.
-- [![Open-Source Software][OSS Icon]](https://code.launchpad.net/gui-ufw) [GuFW](http://gufw.org/) - One of the easiest firewalls in the world of Linux.
 - [![Open-Source Software][OSS Icon]](https://github.com/firehol/iprange) [IPrange](https://github.com/firehol/iprange) - A very fast command line utility for processing IP lists (merge, compare, exclude, etc).
 - [![Open-Source Software][OSS Icon]](https://github.com/jarun/keysniffer) [keysniffer](https://github.com/jarun/keysniffer) - Linux kernel mode debugfs keylogger.
 - [![Open-Source Software][OSS Icon]](https://github.com/CISOfy/lynis) [Lynis](https://cisofy.com/lynis/) - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
 - [![Open-Source Software][OSS Icon]](https://www.openbsd.org/anoncvs.html) [OpenSSH](http://www.openssh.com/) - OpenSSH Secure Shell Server and Client
-- [![Open-Source Software][OSS Icon]](https://git.zx2c4.com/password-store/) [Pass](https://www.passwordstore.org/) - The standard Unix password manager.
-- [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/passwordsafe/) [Password Safe](https://pwsafe.org/) - Password Safe allows you to safely and easily create a secured and encrypted user name/password list.
 - [![Open-Source Software][OSS Icon]](https://wiki.gnome.org/Apps/Seahorse) [Seahorse](https://wiki.gnome.org/Apps/Seahorse) - A Gnome frontend for GnuPG.
 - [![Open-Source Software][OSS Icon]](http://www.tcpdump.org/#source) [Tcpdump](http://www.tcpdump.org/) - TCP Debugging/Capture Tool.
 - [![Open-Source Software][OSS Icon]](https://github.com/usbkey9/uktools) [Uktools](https://github.com/usbkey9/uktools) - Keep your system up-to-date with last kernel available. Possibility to clean old kernel too.
@@ -904,67 +920,66 @@
 
 ### Utilities
 
-- [![Open-Source Software][OSS Icon]](https://github.com/mildred/alien) [Alien Package Converter](https://sourceforge.net/projects/alien-pkg-convert/) - Package converter. Converts between RPM, DPKG, SLP, and TGZ package formats.
-- [![Open-Source Software][OSS Icon]](https://github.com/angryip/ipscan) [Angry IP Scanner](http://angryip.org/) - Fast and friendly network scanner.
-- ![Open-Source Software][OSS Icon] [antimicro](https://github.com/AntiMicro/antimicro/releases) - Bind controller button presses and joystick movement to keyboard and mouse actions with an intuitive GUI. Allows saving profiles into files.
+#### Disk Utilities
+- [![Open-Source Software][OSS Icon]](https://github.com/GNOME/brasero) [Brasero](https://wiki.gnome.org/Apps/Brasero) - A capable CD/DVD burner.
+- [![Open-Source Software][OSS Icon]](http://clonezilla.org/related-links/) [Clonezilla](http://clonezilla.org/) - Clonezilla is a partition and disk imaging/cloning program similar to True Image® or Norton Ghost®.
+- [![Open-Source Software][OSS Icon]](https://github.com/resin-io/etcher) [Etcher](https://etcher.io/) - Flash OS images to SD cards & USB drives, safely and easily.
+- [![Open-Source Software][OSS Icon]](https://github.com/GNOME/gparted) [GParted](http://gparted.org/) - Disk Partition utility for Linux.
+- [![Open-Source Software][OSS Icon]](https://github.com/unetbootin/unetbootin) [Unetbootin](https://unetbootin.github.io) - UNetbootin allows you to create bootable Live USB drives for Ubuntu and other Linux distributions. You can either let UNetbootin download one of the many distributions supported out-of-the-box for you, or supply your own Linux .iso file.
+
+#### System Maintainance
 - [![Open-Source Software][OSS Icon]](https://code.launchpad.net/~teejee2008/apt-toolkit/trunk) [Aptik](http://www.teejeetech.in/2014/01/introducing-aptik.html) - A tool for you to organize your Favorite PPAs and manage Packages Easily.
 - [![Open-Source Software][OSS Icon]](https://github.com/bleachbit/bleachbit) [Bleach bit](https://www.bleachbit.org/) - BleachBit quickly frees disk space and tirelessly guards your privacy. Free cache, delete cookies, clear Internet history, shred temporary files, delete logs, and more.
-- [![Open-Source Software][OSS Icon]](https://github.com/GNOME/brasero) [Brasero](https://wiki.gnome.org/Apps/Brasero) - A capable CD/DVD burner.
-- [![Open-Source Software][OSS Icon]](https://github.com/chrisallenlane/cheat) [Cheat](https://github.com/chrisallenlane/cheat) - Cheat allows you to create and view interactive cheatsheets on the command-line.
-- [![Open-Source Software][OSS Icon]](http://clonezilla.org/related-links/) [Clonezilla](http://clonezilla.org/) - Clonezilla is a partition and disk imaging/cloning program similar to True Image® or Norton Ghost®.
-- [![Open-Source Software][OSS Icon]](http://convertall.bellz.org/download.html) [Convertall](https://sourceforge.net/projects/convertall/) - A program that can convert many units of measurement to other units.
+- [![Open-Source Software][OSS Icon]](https://github.com/sahib/rmlint) [rmlint](https://rmlint.readthedocs.io/en/latest/) - rmlint finds space waste and other broken things on your filesystem and offers to remove it.
+- [![Open-Source Software][OSS Icon]](https://github.com/oguzhaninan/Stacer) [Stacer](https://github.com/oguzhaninan/Stacer) - The most well known Ubuntu System Optimizer.
+- [![Open-Source Software][OSS Icon]](http://download.savannah.nongnu.org/releases/synaptic/) [Synaptic](http://www.nongnu.org/synaptic/) - Synaptic is a graphical package management program for apt.
+- [![Open-Source Software][OSS Icon]](https://github.com/gerardpuig/ubuntu-cleaner) [UbuntuCleaner](https://github.com/gerardpuig/ubuntu-cleaner) - Ubuntu Cleaner is a tool that makes it easy to clean your Ubuntu system.
+
+#### System Monitoring
 - [![Open-Source Software][OSS Icon]](https://launchpad.net/cpug) [CPU-G](http://www.omgubuntu.co.uk/2016/09/monitor-battery-life-ubuntu-cpu-g) - Easy monitoring the battery life of your Ubuntu laptop.
-- [![Open-Source Software][OSS Icon]](https://github.com/chamfay/Curlew) [Curlew](https://github.com/chamfay/Curlew) - A GTK media converter for the GNOME desktop.
-- [![Open-Source Software][OSS Icon]](https://github.com/keepassxreboot/keepassxc) [KeePassXC](https://keepassxc.org/) - Cross platform password manager. A Community-maintained fork of KeePassX([dead](https://github.com/keepassx/keepassx/pull/204))
-- [![Open-Source Software][OSS Icon]](https://github.com/thjaeger/easystroke) [EasyStroke](https://github.com/thjaeger/easystroke/wiki#download) - Easystroke is a gesture-recognition application for X11.
-- [![Open-Source Software][OSS Icon]](https://github.com/OzymandiasTheGreat/emoji-keyboard) [Emoji Keyboard](https://github.com/OzymandiasTheGreat/emoji-keyboard) - Virtual keyboard-like emoji picker for Linux.
-- [![Open-Source Software][OSS Icon]](https://github.com/SpiderOak/Encryptr) [Encryptr](https://spideroak.com/encryptr/) - Encryptr is a zero-knowledge, cloud-based e-wallet / password manager powered by Crypton.
-- [Enpass](https://www.enpass.io/) - Enpass makes your life easy by securely managing your passwords and important information.
-- [![Open-Source Software][OSS Icon]](https://github.com/resin-io/etcher) [Etcher](https://etcher.io/) - Flash OS images to SD cards & USB drives, safely and easily.
-- [![Open-Source Software][OSS Icon]](https://github.com/FreeRDP/FreeRDP) [FreeRDP](http://www.freerdp.com/) - FreeRDP is a free implementation of the Remote Desktop Protocol (RDP).
 - [GD map](http://gdmap.sourceforge.net/) - A tool to visualize disk usage.
-- [![Open-Source Software][OSS Icon]](http://simmesimme.github.io/news/2016/08/24/gnome-pie-069) [GnomePie](http://simmesimme.github.io/news/2016/08/24/gnome-pie-069) - the circular app launcher for Linux desktops.
-- [![Open-Source Software][OSS Icon]](https://github.com/GNOME/gparted) [GParted](http://gparted.org/) - Disk Partition utility for Linux.
-- [![Open-Source Software][OSS Icon]](https://github.com/gramps-project/gramps) [Gramps](https://github.com/gramps-project/gramps) - Research, organize and share your family tree with Gramps.
 - [![Open-Source Software][OSS Icon]](https://launchpad.net/indicator-cpufreq) [indicator-cpufreq](https://launchpad.net/indicator-cpufreq) - It provides the same functionality as the Gnome CPU frequency applet, but doesn't require Gnome panel and works under Unity.
 - [![Open-Source Software][OSS Icon]](https://launchpad.net/ubuntu/+source/indicator-multiload) [indicator-multiload](https://launchpad.net/ubuntu/+source/indicator-multiload) - Graphical system load indicator for CPU, ram, etc.
 - [![Open-Source Software][OSS Icon]](https://github.com/fossfreedom/indicator-sysmonitor) [Indicator-SysMonitor](https://github.com/fossfreedom/indicator-sysmonitor) - An Application Indicator showing cpu temperature, memory, network speed, cpu usage, public IP address and internet connection status.
-- [![Open-Source Software][OSS Icon]](https://github.com/KDE/kdeconnect-kde) [KDE-Connect](https://community.kde.org/KDEConnect) - A tool, that allows one to integrate the Linux desktop with an Android smartphone and can be used to send files to and from the phone and the linux desktop, use the phone as a trackpad, control the desktop media player using the phone, and lots more.
-- [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/keepass/files/KeePass%202.x/) [KeePass](https://www.keepass.info/) - Windows focused password manager, with some cross platform support through Mono.
-- [![Open-Source Software][OSS Icon]](https://github.com/keeweb/keeweb) [KeeWeb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass
-- [![Open-Source Software][OSS Icon]](https://github.com/jordansissel/keynav) [Keynav](http://www.semicomplete.com/projects/keynav/) - Keynav is a piece of an on-going experiment to make pointer-driven interfaces easier and faster for users to operate. It lets you move the pointer quickly to most points on the screen with only a few key strokes.
-- [![Open-Source Software][OSS Icon]](https://github.com/iabem97/komorebi) [Komorebi](https://github.com/iabem97/komorebi/releases) - Komorebi is a background manager for all Linux platforms, provides fully customizeable backgrounds that can be tweaked at any time.
-- [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/kvm/files/) [KVM](http://www.linux-kvm.org/page/Main_Page) - KVM (for Kernel-based Virtual Machine) is a full virtualization solution for Linux on x86 hardware containing virtualization extensions (Intel VT or AMD-V).
-- [LastPass](https://lastpass.com/misc_download2.php) - LastPass is a crossplatform freemium password management service that stores encrypted passwords in private accounts.
-- [![Open-Source Software][OSS Icon]](https://github.com/mobile-shell/mosh) [Mosh](https://mosh.org/#getting) - Mosh is a Remote terminal application that allows roaming, supports intermittent connectivity, and provides intelligent local echo and line editing of user keystrokes.
-- [![Open-Source Software][OSS Icon]](https://github.com/jiahaog/nativefier) [Nativefier](https://github.com/jiahaog/nativefier) - Make any web page a desktop application
 - [![Open-Source Software][OSS Icon]](https://g.blicky.net/ncdu.git/) [Ncdu](https://dev.yorhel.nl/ncdu) - A disk usage analyzer with an ncurses interface.
 - [![Open-Source Software][OSS Icon]](https://github.com/firehol/netdata) [NetData](https://my-netdata.io) - Next-gen web based real-time performance and health monitoring for physical and virtual servers, containers and IoT devices. It is also a distributed `statsd` server with automatic visualization for APM (applications performance monitoring).
+- [![Open-Source Software][OSS Icon]](http://git.wpitchoune.net/psensor.git/) [Psensor](http://wpitchoune.net/psensor/) - A graphical hardware temperature monitor for Linux.
+- [![Open-Source Software][OSS Icon]](https://launchpad.net/indicator-multiload) [Systemload](http://www.omgubuntu.co.uk/2014/06/system-monitor-indicator-ubuntu-ppa) - A program that shows current system load in a status bar.
+
+#### Other
+- [![Open-Source Software][OSS Icon]](https://github.com/mildred/alien) [Alien Package Converter](https://sourceforge.net/projects/alien-pkg-convert/) - Package converter. Converts between RPM, DPKG, SLP, and TGZ package formats.
+- [![Open-Source Software][OSS Icon]](https://github.com/angryip/ipscan) [Angry IP Scanner](http://angryip.org/) - Fast and friendly network scanner.
+- ![Open-Source Software][OSS Icon] [antimicro](https://github.com/AntiMicro/antimicro/releases) - Bind controller button presses and joystick movement to keyboard and mouse actions with an intuitive GUI. Allows saving profiles into files.
+- [![Open-Source Software][OSS Icon]](https://github.com/chrisallenlane/cheat) [Cheat](https://github.com/chrisallenlane/cheat) - Cheat allows you to create and view interactive cheatsheets on the command-line.
+- [![Open-Source Software][OSS Icon]](http://convertall.bellz.org/download.html) [Convertall](https://sourceforge.net/projects/convertall/) - A program that can convert many units of measurement to other units.
+- [![Open-Source Software][OSS Icon]](https://github.com/chamfay/Curlew) [Curlew](https://github.com/chamfay/Curlew) - A GTK media converter for the GNOME desktop.
+- [![Open-Source Software][OSS Icon]](https://github.com/thjaeger/easystroke) [EasyStroke](https://github.com/thjaeger/easystroke/wiki#download) - Easystroke is a gesture-recognition application for X11.
+- [![Open-Source Software][OSS Icon]](https://github.com/OzymandiasTheGreat/emoji-keyboard) [Emoji Keyboard](https://github.com/OzymandiasTheGreat/emoji-keyboard) - Virtual keyboard-like emoji picker for Linux.
+- [![Open-Source Software][OSS Icon]](https://github.com/FreeRDP/FreeRDP) [FreeRDP](http://www.freerdp.com/) - FreeRDP is a free implementation of the Remote Desktop Protocol (RDP).
+- [![Open-Source Software][OSS Icon]](http://simmesimme.github.io/news/2016/08/24/gnome-pie-069) [GnomePie](http://simmesimme.github.io/news/2016/08/24/gnome-pie-069) - the circular app launcher for Linux desktops.
+- [![Open-Source Software][OSS Icon]](https://github.com/gramps-project/gramps) [Gramps](https://github.com/gramps-project/gramps) - Research, organize and share your family tree with Gramps.
+- [![Open-Source Software][OSS Icon]](https://github.com/KDE/kdeconnect-kde) [KDE-Connect](https://community.kde.org/KDEConnect) - A tool, that allows one to integrate the Linux desktop with an Android smartphone and can be used to send files to and from the phone and the linux desktop, use the phone as a trackpad, control the desktop media player using the phone, and lots more.
+- [![Open-Source Software][OSS Icon]](https://github.com/jordansissel/keynav) [Keynav](http://www.semicomplete.com/projects/keynav/) - Keynav is a piece of an on-going experiment to make pointer-driven interfaces easier and faster for users to operate. It lets you move the pointer quickly to most points on the screen with only a few key strokes.
+- [![Open-Source Software][OSS Icon]](https://github.com/iabem97/komorebi) [Komorebi](https://github.com/iabem97/komorebi/releases) - Komorebi is a background manager for all Linux platforms, provides fully customizeable backgrounds that can be tweaked at any time.
+- [![Open-Source Software][OSS Icon]](https://github.com/mobile-shell/mosh) [Mosh](https://mosh.org/#getting) - Mosh is a Remote terminal application that allows roaming, supports intermittent connectivity, and provides intelligent local echo and line editing of user keystrokes.
+- [![Open-Source Software][OSS Icon]](https://github.com/jiahaog/nativefier) [Nativefier](https://github.com/jiahaog/nativefier) - Make any web page a desktop application
 - [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/peaextractor/) [PeaExtractor](http://www.peazip.org/peaextractor-unace-unrar-unzip.html) A utility designed to unzip files and be as frictionless as possible, and easy to use as possible.
 - [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/peautils/) [PeaUtilities](http://www.peazip.org/peautils-hash-secure-delete.html) PeaUtils is a suite of file management utilities, including hash checksums, secure delete, and file comparisons.
 - [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/peazip/files/Resources/) [Peazip](http://www.peazip.org/) - A utility to unzip any of a huge variety of compression formats.
 - [![Open-Source Software][OSS Icon]](https://github.com/pi-hole/pi-hole) [Pi-Hole](https://pi-hole.net) - Network-wide ad blocking via your own Linux hardware, using DNS filtering and re-direction Pi-Hole can block ads on a whole network, so Smartphones and Game Consoles can benefit from it in addition to computers.
 - [PlexyDesk](http://www.omgubuntu.co.uk/2016/09/plexydesk-widgets-linux-desktop-ppa) - Plexydesk supports multiple widget workspaces/desktops on Linux.
 - [![Open-Source Software][OSS Icon]](https://github.com/fenrus75/powertop) [Powertop](https://01.org/powertop/downloads) - A tool that can help diagnose issues with power consumption in Linux.
-- [![Open-Source Software][OSS Icon]](http://git.wpitchoune.net/psensor.git/) [Psensor](http://wpitchoune.net/psensor/) - A graphical hardware temperature monitor for Linux.
 - [![Open-Source Software][OSS Icon]](https://github.com/pulseaudio/pulseaudio) [Pulse Audio](https://wiki.ubuntu.com/PulseAudio) - Improve Linux Audio with customized Profiles.
 - [![Open-Source Software][OSS Icon]](https://github.com/FreeRDP/Remmina) [Remmina](http://www.remmina.org/wp/) - A feature-rich remote desktop application for Linux and other UNIXes.
-- [![Open-Source Software][OSS Icon]](https://github.com/sahib/rmlint) [rmlint](https://rmlint.readthedocs.io/en/latest/) - rmlint finds space waste and other broken things on your filesystem and offers to remove it.
-- [![Open-Source Software][OSS Icon]](https://github.com/oguzhaninan/Stacer) [Stacer](https://github.com/oguzhaninan/Stacer) - The most well known Ubuntu System Optimizer.
 - [![Open-Source Software][OSS Icon]](https://github.com/antonio-malcolm/gloobus-preview) [Gloobus-Preview](https://github.com/antonio-malcolm/gloobus-preview) - It gives you a quick preview of your files. It's similar to [Sushi](https://github.com/GNOME/sushi)
 - [![Open-Source Software][OSS Icon]](https://github.com/GNOME/sushi) [Sushi](https://github.com/GNOME/sushi) - Sushi is a quick previewer for Nautilus, the GNOME desktop file manager.
-- [![Open-Source Software][OSS Icon]](http://download.savannah.nongnu.org/releases/synaptic/) [Synaptic](http://www.nongnu.org/synaptic/) - Synaptic is a graphical package management program for apt.
-- [![Open-Source Software][OSS Icon]](https://launchpad.net/indicator-multiload) [Systemload](http://www.omgubuntu.co.uk/2014/06/system-monitor-indicator-ubuntu-ppa) - A program that shows current system load in a status bar.
 - ![Open-Source Software][OSS Icon] [TightVNC](http://www.tightvnc.com/) - A Free, Lightweight, Fast and Reliable Remote Control / Remote Desktop Software.
 - [TLP](http://linrunner.de/en/tlp/docs/tlp-linux-advanced-power-management.html) - An application that can help optimize battery life on Linux.
 - [![Open-Source Software][OSS Icon]](https://github.com/Kilian/Trimage) [Trimage](https://trimage.org/) - A cross-platform tool for losslessly optimizing PNG and JPG files.
 - [![Open-Source Software][OSS Icon]](https://github.com/adgellida/ubunsys) [Ubunsys](https://github.com/adgellida/ubunsys) - An application designed to allow you to change in-depth system features without the command line.
-- [![Open-Source Software][OSS Icon]](https://github.com/gerardpuig/ubuntu-cleaner) [UbuntuCleaner](https://github.com/gerardpuig/ubuntu-cleaner) - Ubuntu Cleaner is a tool that makes it easy to clean your Ubuntu system.
 - [![Open-Source Software][OSS Icon]](https://github.com/Ulauncher/Ulauncher/) [ULauncher](http://ulauncher.io/) - An application launcher for Linux.
-- [![Open-Source Software][OSS Icon]](https://github.com/unetbootin/unetbootin) [Unetbootin](https://unetbootin.github.io) - UNetbootin allows you to create bootable Live USB drives for Ubuntu and other Linux distributions. You can either let UNetbootin download one of the many distributions supported out-of-the-box for you, or supply your own Linux .iso file.
 - [USB network gate](https://www.eltima.com/products/usb-over-ip-linux/) - Allows you to share USB ports over a Network on Linux.
 - [![Open-Source Software][OSS Icon]](https://github.com/peterlevi/variety-slideshow) [Variety](http://peterlevi.com/variety/) - Variety is an open-source wallpaper changer for Linux, packed with great features, yet slim and easy to use.
-- [![Open-Source Software][OSS Icon]](https://www.virtualbox.org/wiki/Contributor_information) [Virtualbox](https://www.virtualbox.org/wiki/Downloads) - VirtualBox is a general-purpose full virtualizer for x86 hardware, targeted at server, desktop and embedded use.
 - [![Open-Source Software][OSS Icon]](http://melloristudio.com/wallch/#code) [WallpaperChange](https://apps.ubuntu.com/cat/applications/raring/wallch/) - Automatically change your wallpaper.
 - [![Open-Source Software][OSS Icon]](https://github.com/rcaelers/workrave) [Workrave](http://www.workrave.org/) - A program that assists in the recovery and prevention of Repetitive Strain Injury (RSI).
 - [![Open-Source Software][OSS Icon]](https://github.com/KaOS-Community-Packages/xdm) [Xtreme Download Manager](http://xdman.sourceforge.net/) - A good download manager with fresh UI for Linux.
@@ -995,7 +1010,6 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/lah7/polychromatic) [Polychromatic](https://github.com/lah7/polychromatic) - Graphical front end and tray applet for configuring Razer peripherals on GNU/Linux.
 
 ## Command Line Utilities
-
 - [![Open-Source Software][OSS Icon]](https://github.com/jarun/Buku) [Buku](https://github.com/jarun/Buku) - A Command line bookmark manager.
 - [![Open-Source Software][OSS Icon]](https://github.com/AlDanial/cloc) [Cloc](https://github.com/AlDanial/cloc) - Count Lines of Code: cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
 - [![Open-Source Software][OSS Icon]](https://github.com/athityakumar/colorls) [Color LS](http://www.omgubuntu.co.uk/2017/07/add-bling-ls-bash-command-colorls) - Color Ls is a Ruby Gem that spices up the ls command and shows more visually than ls does without additional commands.
