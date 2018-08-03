@@ -696,6 +696,7 @@
 - [![Open-Source Software][OSS Icon]](https://www.tug.org/texlive/build.html) [TexLive](https://www.tug.org/texlive/) - TeX Live is an easy way to get up and running with the TeX document production system.
 - [![Open-Source Software][OSS Icon]](https://savannah.gnu.org/projects/texmacs) [TeXmacs](http://www.texmacs.org/) - Free scientific text editor, inspired by TeX and GNU Emacs. WYSIWYG editor and CAS-interface.
 - [![Open-Source Software][OSS Icon]](http://www.xm1math.net/texmaker/download.html) [Texmaker](http://www.xm1math.net/texmaker/) - Free cross-platform LaTeX editor.
+- [![Open-Source Software][OSS Icon]](https://github.com/texstudio-org/texstudio) [TeXstudio](https://www.texstudio.org/) - TeXstudio's goal is to make writing LaTeX documents as easy and comfortable as possible.
 - [![Open-Source Software][OSS Icon]](https://github.com/TeXworks/texworks) [TeXworks](https://www.tug.org/texworks/) - TeXworks is an environment for authoring TeX (LaTeX, ConTeXt, etc) documents, with a Unicode-based, TeX-aware editor, integrated PDF viewer, and a clean, simple interface accessible to casual and non-technical users.
 
 #### Markdown
