@@ -761,6 +761,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/spsdco/notes) [Springseed](https://github.com/spsdco/notes) - Simple and beautiful note taking app for daily user.
 - [Stickynote](https://itsfoss.com/indicator-stickynotes-windows-like-sticky-note-app-for-ubuntu/) - Sticky notes on your Linux desktop.
 - [![Open-Source Software][OSS Icon]](https://wiki.gnome.org/Apps/Tomboy) [Tomboy](https://wiki.gnome.org/Apps/Tomboy) - Tomboy is a desktop note-taking application which is simple and easy to use.
+- [![Open-Source Software][OSS Icon]](https://github.com/klauscfhq/tusk) [Tusk](https://github.com/klauscfhq/tusk) - Refined Evernote desktop app.
 - [![Open-Source Software][OSS Icon]](https://github.com/CellarD0-0r/whatever) [Whatever](https://github.com/CellarD0-0r/whatever) - An unofficial Evernote desktop client for Linux.
 - [![Open-Source Software][OSS Icon]](https://github.com/wizteam/wizqtclient) [WizNote](https://github.com/wizteam/wizqtclient) - A cross-platform cloud based note-taking client.
 
