@@ -1011,7 +1011,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/jml/undistract-me) [undistract-me](https://github.com/jml/undistract-me) - A command line program that plays a sound or sends a notification when a long command has finished running in the command line.
 - [wicd-curses](https://wiki.archlinux.org/index.php/wicd#Running_Wicd_in_Text_Mode) - Command line WiFi connection manager.
 - [![Open-Source Software][OSS Icon]](https://github.com/rg3/youtube-dl) [youtube-dl](http://rg3.github.io/youtube-dl/) - youtube-dl is a command-line program to download videos from YouTube.com and a few more sites. It requires the Python interpreter (2.6, 2.7, or 3.2+), and it is not platform specific.
-
+- [![Open-Source Software][OSS Icon]](https://github.com/oguzhaninan/korkut) [korkut](https://github.com/oguzhaninan/korkut) -  Quick and simple image processing at the command line.
 
 ## Desktop Environments
 - [![Open-Source Software][OSS Icon]](https://github.com/solus-project/budgie-desktop) [Budgie](http://www.omgubuntu.co.uk/2016/09/install-budgie-desktop-on-ubuntu) - Budgie is a desktop environment designed with the modern user in mind, it focuses on simplicity and elegance.
