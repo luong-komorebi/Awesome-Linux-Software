@@ -21,8 +21,8 @@
    - [Clientes de mensajería instantánea](#clientes-de-mensajería-instantánea)
    - [Copia de seguridad y recuperación](#copia-de-seguridad-y-recuperación)
    - [Personalización del escritorio](#personalización-del-escritorio)
-   - [desarrollo de software](#desarrollo-de-software)
-   - [utilitarios des libros electrónicos](#utilitarios-des-Libros-electrónicos)
+   - [Desarrollo de software](#desarrollo-de-software)
+   - [Utilitarios de libros electrónicos](#utilitarios-de-Libros-electrónicos)
    - [Editor de texto](#editor-de-texto)
    - [Software educativo](#software-educativo)
    - [Herramientas para email](#herramientas-para-email)
@@ -42,7 +42,7 @@
    - [Diverso](#diverso)
 - [Herramientas de línea de comandos](#Herramientas-de-línea-de-comandos)
 - [Los Entornos des escritorios](#Los-Entornos-des-escritorios)
-- [Gestors des pantallas](#Gestors-des-pantallas)
+- [Gestors de pantallas](#Gestors-de-pantallas)
    - [Console](#console)
    - [Gráficos](#gráficos)
 - [Gestor de ventanas](#gestor-de-ventanas)
@@ -66,13 +66,13 @@
    - [Fedora Foros](#fedora-foros)
    - [Ubuntu Foros](#ubuntu-foros)
    - [openSUSE Foros](#opensuse-foros)
-   - [Canals des IRC](#canals-des-irc)
+   - [Canales de IRC](#canales-de-irc)
    - [Linux News, Aplicaciones y mucho más](#Linux-News,-aplicaciones-y-mucho-más)
    - [Reddit](#reddit)
 - [Aprender linux](#aprender-linux)
 - [Desarrollo de linux](#desarrollo-de-linux)
 - [Linux avanzado](#Linux-avanzado)
-- [Los otros listas impresionantes](#los-otros-listas-impresionantes)
+- [Las otras listas impresionantes](#las-otras-listas-impresionantes)
 - [Contribuidores](#contribuidores)
 - [Reglas para contribuir](#reglas-para-contribuir)
 - [Cómo contribuir](#cómo-contribuir)
@@ -135,15 +135,15 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/quodlibet/quodlibet) [Quod Libet](https://quodlibet.readthedocs.io) - Un reproductor de medios GTK +, fue diseñado para grandes colecciones de música. tiene algoritmos de búsqueda capaces y puede reproducir podcastos y radio del Internet.
 - [![Open-Source Software][OSS Icon]](https://github.com/ebruck/radiotray-ng) [RadioTray-NG](https://github.com/ebruck/radiotray-ng) - Un reproductor de medios de internet para Linux.
 - [![Open-Source Software][OSS Icon]](https://github.com/GNOME/rhythmbox) [Rhythmbox](https://wiki.gnome.org/Apps/Rhythmbox) - Un reproductor de medios de GNOME.
-- [![Open-Source Software][OSS Icon]](https://sayonara-player.com/downloads.php#Source) [Sayonara Player](https://sayonara-player.com/downloads.php) - un pequeño y rápido reproductor de medios para Linux. Fue escrito en C ++, y es apoyado por el marco QT.
+- [![Open-Source Software][OSS Icon]](https://sayonara-player.com/downloads.php#Source) [Sayonara Player](https://sayonara-player.com/downloads.php) - Un pequeño y rápido reproductor de medios para Linux. Fue escrito en C ++, y es apoyado por el marco QT.
 - [![Open-Source Software][OSS Icon]](https://github.com/multani/sonata/) [Sonata](http://www.nongnu.org/sonata/) - Sonata es un reproductor de música con una interfaz fácil de usar, para reproducir su colección de música del "Music Player Daemon" (MPD).
 - [![Open-Source Software][OSS Icon]](https://launchpad.net/soundconverter/trunk/2.1.6) [Soundconverter](http://soundconverter.org/) - un popular convertidor de archivos de audio. Es fácil de usar, y muy rápido.
 - [![Open-Source Software][OSS Icon]](https://wiki.gnome.org/Apps/SoundJuicer) [SoundJuicer](http://www.howtogeek.com/howto/20126/rip-audio-cds-with-sound-juicer/) - una programa para Ripear uno CD para GNOME.
-- [![Open-Source Software][OSS Icon]](https://github.com/Soundnode/soundnode-app) [Soundnode](http://www.soundnodeapp.com/) - un aplicacion código abierto para SoundCloud.
-- [![Open-Source Software][OSS Icon]](https://github.com/devinhalladay/spotio) [Spotio](https://github.com/devinhalladay/spotio) - un tema inspirado en Rdio para la aplicación del applicacion Spotify oficial.
-- [![Open-Source Software][OSS Icon]](https://github.com/tomahawk-player/tomahawk) [Tomahawk](https://www.tomahawk-player.org/) - un nuevo reproductor de medios que agrega radio por Internet, descargas, almacenamiento de música en la nube, listas de reproducción de música y mucho más.
+- [![Open-Source Software][OSS Icon]](https://github.com/Soundnode/soundnode-app) [Soundnode](http://www.soundnodeapp.com/) - Una aplicacion de código abierto para SoundCloud.
+- [![Open-Source Software][OSS Icon]](https://github.com/devinhalladay/spotio) [Spotio](https://github.com/devinhalladay/spotio) - Un tema inspirado en Rdio para la aplicación del applicacion Spotify oficial.
+- [![Open-Source Software][OSS Icon]](https://github.com/tomahawk-player/tomahawk) [Tomahawk](https://www.tomahawk-player.org/) - Un nuevo reproductor de medios que agrega radio por Internet, descargas, almacenamiento de música en la nube, listas de reproducción de música y mucho más.
 - [![Open-Source Software][OSS Icon]](https://github.com/VCVRack/Rack) [VCV Rack](https://vcvrack.com/) - Un sintetizador modular virtual de código abierto.
-- [![Open-Source Software][OSS Icon]](https://github.com/needle-and-thread/vocal) [Vocal](http://vocalproject.net/) - Un cliente para podcastos para el moderno escritorio.
+- [![Open-Source Software][OSS Icon]](https://github.com/needle-and-thread/vocal) [Vocal](http://vocalproject.net/) - Un cliente para podcasts para el moderno escritorio.
 
 
 ### Clientes de mensajería instantánea
@@ -187,7 +187,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/wireapp) [Wire](https://wire.com/en/) - Una aplicación de mensajería instantánea con comunicación segura y completa privacidad.
 
 ### Copia de seguridad y recuperación
-- [![Open-Source Software][OSS Icon]](https://borgbackup.readthedocs.io/en/stable/development.html) [Borg Backup](https://borgbackup.readthedocs.io/en/stable/) - una herramienta sencilla para la copia de seguridad de datos.
+- [![Open-Source Software][OSS Icon]](https://borgbackup.readthedocs.io/en/stable/development.html) [Borg Backup](https://borgbackup.readthedocs.io/en/stable/) - Una herramienta sencilla para la copia de seguridad de datos.
 - [![Open-Source Software][OSS Icon]](https://launchpad.net/deja-dup) [Deja Dup](https://www.linux.com/learn/total-system-backup-and-recall-deja-dup) - Una sencilla herramienta de copia de seguridad que admite el cifrado.
 - [![Open-Source Software][OSS Icon]](https://launchpad.net/duplicity) [Duplicity](http://duplicity.nongnu.org/) - Duplicity crea copias de seguridad de directorios mediante la creación de archivos cifrados en el formato Tar.
 - [![Open-Source Software][OSS Icon]](https://www.freefilesync.org/download.php) [FreeFileSync](https://www.freefilesync.org) - FreeFileSync es un software de comparación y sincronización de carpetas que crea y administra copias de seguridad de todos sus archivos importantes. En lugar de copiar cada archivo cada vez, FreeFileSync determina las diferencias entre una carpeta de origen y de destino y transfiere solo la cantidad mínima de datos necesarios.
@@ -203,7 +203,7 @@
 
 #### Los temas de escritorio
 
-- [![Open-Source Software][OSS Icon]](https://github.com/adapta-project/adapta-gtk-theme) [Adapta Theme](https://github.com/tista500/Adapta) - un tema adaptativo hecho de GTK + se basa en las directrices de Google Material Design.
+- [![Open-Source Software][OSS Icon]](https://github.com/adapta-project/adapta-gtk-theme) [Adapta Theme](https://github.com/tista500/Adapta) - Un tema adaptativo hecho de GTK + se basa en las directrices de Google Material Design.
 - [![Open-Source Software][OSS Icon]](https://github.com/EliverLara/Ant) [Ant Theme](http://www.omgubuntu.co.uk/2017/09/ant-flat-gtk-theme-bloody-bite) - Ant es un diseño plano de GTK para Ubuntu y otros escritorios Linux basados en GNOME. Tiene tres variedades: vanilla, Bloody, y Dracula.
 - [![Open-Source Software][OSS Icon]](https://github.com/horst3180/arc-theme) [Arc Theme](https://github.com/horst3180/arc-theme) - Un tema plano con elementos transparentes.
 - [![Open-Source Software][OSS Icon]](https://github.com/solus-project/evopop-gtk-theme) [EvoPop Theme](https://github.com/solus-project/evopop-gtk-theme) - Evopop es un moderno tema de escritorio para Solus Linux. Es un tema plano con algún uso de sombras.
@@ -243,7 +243,7 @@
 - [Android studio](https://developer.android.com/studio/index.html) - El Entorno oficial de desarrollo integrado de Android.
 
 #### C\+\+
-- ![Nonfree][Money Icon] [Clion](https://www.jetbrains.com/clion/) - una plataforma multi-plataforma y capaz Entorno de desarrollo integrado para C y C++.
+- ![Nonfree][Money Icon] [Clion](https://www.jetbrains.com/clion/) - Una plataforma multi-plataforma y capaz Entorno de desarrollo integrado para C y C++.
 - [Code::Blocks](http://www.codeblocks.org/) - Code::Blocks es un Entorno de desarrollo integrado gratuito para C, C++ y Fortran. Está diseñado para ser extensible y muy personalizable.
 - [Codelite](http://codelite.org/) - Un IDE de plataforma multiplataforma código abierto para C,C++,PHP and Node.js.
 - [![Open-Source Software][OSS Icon]](https://github.com/qt-creator/qt-creator) [QT Creator](https://www.qt.io/ide/) - Una multiplataforma Entorno de desarrollo integrado para la fácil creación de dispositivos conectados en varias plataformas, Interfaz de usuario y aplicaciones.
@@ -258,7 +258,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/mongodb/mongo) [MongoDB](https://www.mongodb.com/) - MongoDB es un programa de código abierto, que es multiplataforma y orientado a documentos.
 - [![Open-Source Software][OSS Icon]](https://github.com/dbcli/mycli) [MyCLI](http://www.mycli.net/) - MyCLI es una interfaz de línea de comandos para MySQL, MariaDB y Percona. Cuenta con auto-completar y resaltado de sintaxis.
 - [![Open-Source Software][OSS Icon]](https://github.com/mysql/mysql-server) [MySQL](https://dev.mysql.com/doc/refman/5.7/en/linux-installation.html) - MySQL es el software de base de datos más popular del mundo. Es fiable, rápido y fácil de usar. Muchos sitios web famosos lo utilizan, como Facebook, Twitter, Youtube, y Yahoo!.
-- [![Open-Source Software][OSS Icon]](https://github.com/mysql/mysql-workbench) [MySQL Workbench](https://www.mysql.com/products/workbench/) - es una herramienta visual unificada para arquitectos de bases de datos visuales, desarrolladores y asistentes de bases de datos.
+- [![Open-Source Software][OSS Icon]](https://github.com/mysql/mysql-workbench) [MySQL Workbench](https://www.mysql.com/products/workbench/) - Es una herramienta visual unificada para arquitectos de bases de datos visuales, desarrolladores y asistentes de bases de datos.
 - [OmniDB](https://omnidb.org/en/) - Una herramienta basada en el navegador para crear, ver y administrar bases de datos.
 - [OracleDB](http://www.oracle.com/technetwork/database/enterprise-edition/downloads/index.html) - Un sistema de gestión de bases de datos producido por Oracle Corporation. Es una base de datos basada en objetos.
 - [![Open-Source Software][OSS Icon]](https://github.com/percona/percona-server-mongodb) [Percona MongoDB](https://www.percona.com/software/mongo-database/percona-server-for-mongodb) - El servidor Percona para MongoDB es un servidor alternativo para MongoDB.
@@ -316,7 +316,7 @@ La versión de la comunidad es un software de código abierto.
 - [![Open-Source Software][OSS Icon]](https://github.com/Gisto/Gisto) [Gisto](http://www.gistoapp.com/) - Gisto es un administrador de fragmentos de código que opera en Github Gists. Agrega características como búsqueda, etiquetado y uso compartido.
 - [![Open-Source Software][OSS Icon]](https://github.com/git/git) [Git](https://git-scm.com/) - Git es un sistema de control de versiones distribuidas de código abierto que puede funcionar con proyectos grandes y pequeños, de manera eficiente.
 - [![Open-Source Software][OSS Icon]](https://github.com/git-cola/git-cola) [GitCola](http://git-cola.github.io/) - Git Cola es un elegante y potente cliente gráfico para Git. Es de código abierto y escrito en Python.
-- [![Open-Source Software][OSS Icon]](https://wiki.gnome.org/Apps/Gitg#Development_Resources) [Gitg](https://wiki.gnome.org/Apps/Gitg) - gitg es un cliente de la GUI de GNOME para ver los Repositorios de Git.
+- [![Open-Source Software][OSS Icon]](https://wiki.gnome.org/Apps/Gitg#Development_Resources) [Gitg](https://wiki.gnome.org/Apps/Gitg) - Gitg es un cliente de la GUI de GNOME para ver los Repositorios de Git.
 - [GitKraken](https://www.gitkraken.com/) - Un lujoso cliente Git que opera en Weendows, MacOS y Linux.
 - [![Open-Source Software][OSS Icon]](https://github.com/gitlabhq/gitlabhq) [GitLab](https://github.com/gitlabhq/gitlabhq) - GitLab es un gestor de repositorio Git basado en la web. Puede crear y administrar un wiki y realizar un seguimiento de los problemas.
 - [![Open-Source Software][OSS Icon]](https://github.com/sitaramc/gitolite) [Gitolite](http://gitolite.com/gitolite/index.html) - Gitolite le permite configurar git hosting en un servidor central, con controles de acceso seguros y muchas más características de gran alcance.
@@ -363,7 +363,7 @@ La versión de la comunidad es un software de código abierto.
 - [![Open-Source Software][OSS Icon]](https://sourceforge.net/p/bluefish/code/HEAD/tree/trunk/bluefish/) [Bluefish](http://bluefish.openoffice.nl/index.html) - Bluefish es un editor de texto capaz dirigido a programadores y desarrolladores web.
 - [![Open-Source Software][OSS Icon]](https://github.com/adobe/brackets) [Brackets](http://brackets.io/) - Un editor de texto moderno que entiende el diseño web.
 - [![Open-Source Software][OSS Icon]](https://github.com/emacs-mirror/emacs) [Emacs](https://www.gnu.org/software/emacs/) - Un editor de texto extensible, personalizable y de código abierto.
-- [![Open-Source Software][OSS Icon]](https://www.geany.org/Download/Git) [Geany](https://www.geany.org/) - es un editor de texto escrito GTK + toolkit, que tiene las características básicas de un Entorno de desarrollo integrado. Fue desarrollado para ser pequeño y rápido.
+- [![Open-Source Software][OSS Icon]](https://www.geany.org/Download/Git) [Geany](https://www.geany.org/) - Es un editor de texto escrito GTK + toolkit, que tiene las características básicas de un Entorno de desarrollo integrado. Fue desarrollado para ser pequeño y rápido.
 - [Gedit](https://wiki.gnome.org/Apps/Gedit) -gedit es el editor de texto oficial de GNOME, está diseñado para ser fácil de usar, y para ser un editor de propósito general.
 - [![Open-Source Software][OSS Icon]](https://github.com/GNOME/gnome-builder) [Gnome Builder](https://wiki.gnome.org/Apps/Builder) - Potente IDE para el desarrollo moderno de C / C ++ / Bash / JavaScript, hecho por Gnome Team. Uno de los mejores IDE para el desarrollo de C / C ++ (Cmake integrado).
 - [![Open-Source Software][OSS Icon]](https://github.com/mawww/kakoune) [Kakoune](http://kakoune.org/) - Kakoune editor de código, fue inspirado por Vim. Es rápido y tiene buenos atajos de teclado para mejorar la eficiencia.
@@ -372,11 +372,11 @@ La versión de la comunidad es un software de código abierto.
 - [![Open-Source Software][OSS Icon]](https://github.com/LightTable/LightTable) [Lighttable](http://lighttable.com/) - El editor de código del futuro. Es compatible con la edición de código en vivo.
 - [![Open-Source Software][OSS Icon]](http://git.savannah.gnu.org/cgit/nano.git/) [Nano](https://www.nano-editor.org/) - GNU Nano Es un editor de texto que pretende ser un simple editor de texto de línea de comandos.
 - [![Open-Source Software][OSS Icon]](https://github.com/neovim/neovim) [Neovim](https://neovim.io/) - Neovim es una forma de vim que espera mejorar la experiencia del usuario, a través de complementos, y con una variedad de interfaces gráficas.
-- [![Open-Source Software][OSS Icon]](https://github.com/syl20bnr/spacemacs) [Spacemacs](http://spacemacs.org) - una versión desarrollada por la comunidad de emacs.
+- [![Open-Source Software][OSS Icon]](https://github.com/syl20bnr/spacemacs) [Spacemacs](http://spacemacs.org) - Una versión desarrollada por la comunidad de emacs.
 - [Sublime](https://www.sublimetext.com/) -un editor de texto muy capaz con avanzadas habilidades de búsqueda. Puede instalar complementos para agregar más funcionalidad.
 - [![Open-Source Software][OSS Icon]](https://foicica.com/hg/textadept) [Textadept](https://foicica.com/textadept) - Un editor de texto minimalista para programadores, Text adept es extensible con plugins de lenguaje de programación Lua.
 - [![Open-Source Software][OSS Icon]](https://github.com/vim/vim) [Vim](http://www.vim.org/download.php) -Es un editor de texto avanzado que busca proporcionar el poder de vi pero con más capacidades.
-- [![Open-Source Software][OSS Icon]](https://github.com/Microsoft/vscode) [VSCode](https://code.visualstudio.com) - es un rápido editor de código fuente que funciona en Windows, MacOS y Linux. Es compatible con muchos lenguajes de programación diferentes.
+- [![Open-Source Software][OSS Icon]](https://github.com/Microsoft/vscode) [VSCode](https://code.visualstudio.com) - Es un rápido editor de código fuente que funciona en Windows, MacOS y Linux. Es compatible con muchos lenguajes de programación diferentes.
 
 
 ### Software educativo
@@ -423,11 +423,11 @@ La versión de la comunidad es un software de código abierto.
 - [![Open-Source Software][OSS Icon]](https://cgit.kde.org/kmail.git/) [KMail](https://www.kde.org/applications/internet/kmail/) - KMail es la parte de correo electrónico de Kontact, los gestores de información personal integrados en KDE.
 - [![Open-Source Software][OSS Icon]](https://github.com/pulb/mailnag) [Mailnag](https://launchpad.net/~pulb/+archive/ubuntu/mailnag) - Mailnag es un daemon que descarga correos electrónicos desde servidores POP3 e IMAP.
 - [Mailspring](https://getmailspring.com/) - Mailspring es un cliente de correo electrónico hermoso y rápido.
-- [![Open-Source Software][OSS Icon]](http://sylpheed.sraoss.jp/en/download.html#stable) [Sylpheed](http://sylpheed.sraoss.jp/en/) - un cliente de correo electrónico rápido y fácil de usar.
+- [![Open-Source Software][OSS Icon]](http://sylpheed.sraoss.jp/en/download.html#stable) [Sylpheed](http://sylpheed.sraoss.jp/en/) - Un cliente de correo electrónico rápido y fácil de usar.
 - [![Open-Source Software][OSS Icon]](https://releases.mozilla.org/pub/thunderbird/) [Thunderbird](https://www.mozilla.org/en-US/thunderbird/) - Thunderbird es una aplicación de correo electrónico de código abierto que es fácil de configurar y personalizar.
 - [![Open-Source Software][OSS Icon]](https://cgit.kde.org/trojita.git/) [Trojita](http://trojita.flaska.net/download.html) - Es un pequeño y rápido cliente de correo electrónico para Linux.
-- [![Open-Source Software][OSS Icon]](https://github.com/danchoi/vmail) [Vmail](http://danielchoi.com/software/vmail.html) - un cliente de Gmail diseñado para funcionar como el editor de texto de Vim.
-- [![Open-Source Software][OSS Icon]](https://github.com/Thomas101/wmail) [Wmail](https://github.com/Thomas101/wmail) - un cliente para Gmail y Google Inbox que no es oficial.
+- [![Open-Source Software][OSS Icon]](https://github.com/danchoi/vmail) [Vmail](http://danielchoi.com/software/vmail.html) - Un cliente de Gmail diseñado para funcionar como el editor de texto de Vim.
+- [![Open-Source Software][OSS Icon]](https://github.com/Thomas101/wmail) [Wmail](https://github.com/Thomas101/wmail) - Un cliente para Gmail y Google Inbox que no es oficial.
 
 
 ### Administrador de archivos
@@ -919,7 +919,7 @@ es un programa SUID que crea seguridad mediante la restricción de aplicaciones 
 - [![Open-Source Software][OSS Icon]](https://displaycal.net/#download) [DisplayCAL](https://displaycal.net/) - Una aplicación de código abierto para la calibración de monitores, con la tecnología de argyllCMS.
 - [![Open-Source Software][OSS Icon]](https://github.com/fontforge/fontforge) [FontForge](https://fontforge.github.io) - Una aplicación multiplataforma libre de la creación de fuentes.
 - [![Open-Source Software][OSS Icon]](https://code.launchpad.net/grub-customizer) [GrubCustomizer](https://launchpad.net/grub-customizer) - Grub Customizer es una interfaz gráfica para configurar los parámetros de GRUB2 / BURG.
-- [![Open-Source Software][OSS Icon]](https://github.com/bohoomil/fontconfig-ultimate) [Infinality bundle & fonts](https://github.com/bohoomil/fontconfig-ultimate) - *Pre-note: Infinality no es mantenido por un desarrollador, puede que no funcione en un futuro próximo.*. Infinality bundle & fonts es un proyecto de código abierto creado para administradores y usuarios de linux que desean mejorar la calidad de renderizado de fuentes en Linux.
+- [![Open-Source Software][OSS Icon]](https://github.com/bohoomil/fontconfig-ultimate) [Infinality bundle & fonts](https://github.com/bohoomil/fontconfig-ultimate) - *Preámbulo: Infinality no es mantenido por un desarrollador, puede que no funcione en un futuro próximo.*. Infinality bundle & fonts es un proyecto de código abierto creado para administradores y usuarios de linux que desean mejorar la calidad de renderizado de fuentes en Linux.
 - [![Open-Source Software][OSS Icon]](https://github.com/MycroftAI/mycroft-core) [Mycroft](https://github.com/MycroftAI/mycroft-core) - Mycroft es un asistente de voz de código abierto.
 - [![Open-Source Software][OSS Icon]](https://github.com/lah7/polychromatic) [Polychromatic](https://github.com/lah7/polychromatic) - Un GUI y un applet de bandeja para configurar Peripherals para Razer en Linux.
 
@@ -931,7 +931,7 @@ es un programa SUID que crea seguridad mediante la restricción de aplicaciones 
 - [![Open-Source Software][OSS Icon]](https://github.com/jarun/ddgr) [ddgr](https://github.com/jarun/ddgr) - Utiliza duckduckgo desde la línea de comandos.
 - [![Open-Source Software][OSS Icon]](https://github.com/resin-io/etcher) [Etcher CLI](https://etcher.io/cli/) - Etcher CLI es una herramienta de línea de comandos que tiene como objetivo proporcionar todos los beneficios de la aplicación de escritorio Etcher de una manera que se puede ejecutar desde un terminal, o incluso utilizar desde un script.
 - [![Open-Source Software][OSS Icon]](https://github.com/ogham/exa) [exa](https://the.exa.website/) - exa es un reemplazo moderno para el comando 'ls'.
-- [![Open-Source Software][OSS Icon]](https://github.com/LubuntuFu/fishfry) [Fishfry](https://github.com/LubuntuFu/fishfry) - reemplaza el historial de la línea de comandos de pescado con uno diseñado para pentesters.
+- [![Open-Source Software][OSS Icon]](https://github.com/LubuntuFu/fishfry) [Fishfry](https://github.com/LubuntuFu/fishfry) - Reemplaza el historial de la línea de comandos de pescado con uno diseñado para pentesters.
 - [fzf](https://github.com/junegunn/fzf) - Un programa de búsqueda que puede encontrar cualquier cosa, como un comando en el historial de línea de comandos, una imagen, un git commit o una dirección IP desde la línea de comandos.
 - [![Open-Source Software][OSS Icon]](https://github.com/heppu/gkill) [Gkill](https://github.com/heppu/gkill) - Un proceso asesino para Linux.
 - [![Open-Source Software][OSS Icon]](https://github.com/nicolargo/glances) [Glances](https://nicolargo.github.io/glances/) - Glances es un sistema que supervisa la aplicación del terminal que puede mostrar el uso del disco, el uso del carnero y muchas más cosas en la línea de comandos.
@@ -939,8 +939,8 @@ es un programa SUID que crea seguridad mediante la restricción de aplicaciones 
 - [![Open-Source Software][OSS Icon]](https://github.com/aksakalli/gtop) [gtop](https://github.com/aksakalli/gtop) - Un panel de control de sistema para la línea de comandos. Puede mostrar más que el comando 'top'.
 - [![Open-Source Software][OSS Icon]](https://github.com/hishamhm/htop) [htop](http://hisham.hm/htop/) - Un visor de procesos que muestra más que el comando 'top'.
 - [Las 10 mejores herramientas de línea de comandos.](http://lifehacker.com/399468/top-10-command-line-tools)
-- [![Open-Source Software][OSS Icon]](https://github.com/nojhan/liquidprompt) [Liquidprompt](https://github.com/nojhan/liquidprompt) - un símbolo de comando multipropósito diseñado para Bash y Zsh.
-- [![Open-Source Software][OSS Icon]](https://github.com/mps-youtube/mps-youtube) [mps-youtube](https://github.com/mps-youtube/mps-youtube) - un programa diseñado para buscar y reproducir música para la línea de comandos. Encuentra esta música de Youtube.
+- [![Open-Source Software][OSS Icon]](https://github.com/nojhan/liquidprompt) [Liquidprompt](https://github.com/nojhan/liquidprompt) - Un símbolo de comando multipropósito diseñado para Bash y Zsh.
+- [![Open-Source Software][OSS Icon]](https://github.com/mps-youtube/mps-youtube) [mps-youtube](https://github.com/mps-youtube/mps-youtube) - Un programa diseñado para buscar y reproducir música para la línea de comandos. Encuentra esta música de Youtube.
 - [![Open-Source Software][OSS Icon]](https://dev.mutt.org/hg/mutt/file/tip) [Mutt](http://www.mutt.org/) - Un cliente basado en la línea de comandos para correo electrónico.
 - [![Open-Source Software][OSS Icon]](https://github.com/dylanaraps/neofetch) [Neofetch](https://github.com/dylanaraps/neofetch/releases) - Un script del sistema que puede mostrar información sobre su sistema, funciona en muchos sistemas operativos diferentes, tales como: Linux, MacOS, iOS, BSD, Solaris, Android, Haiku, GNU Hurd, MINIX, AIX y Windows.
 - [![Open-Source Software][OSS Icon]](https://github.com/akrennmair/newsbeuter/tree/master) [Newsbeuter](http://newsbeuter.org/) - Una lista RSS rápida y personalizable con claves para vim.
