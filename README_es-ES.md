@@ -4,7 +4,7 @@
 
 🐧 este repositorio es una colección de **increíbles** aplicaciones Linux y herramientas para **cualquier usuario y desarrollador**.
 <br>
-🐧 Siéntete libre de **contribuir** / **dar star** / **hacer fork** / **crear un pull request**. Cualquier **recomendacion** y **sugerencia** son bienvenidos.
+🐧 Siéntete libre de **contribuir** / **dar star** / **hacer fork** / **crear un pull request**. Cualquier **recomendación** y **sugerencia** son bienvenidos.
 
 *Actualización: Este repositorio tiene una versión más amigable disponible [aquí](https://luongvo209.gitlab.io/Awesome-Linux-Software).*
 
