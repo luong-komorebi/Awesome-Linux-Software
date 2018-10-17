@@ -1,12 +1,14 @@
-# Increíbles Softwares de Linux
+# Increíble Software de Linux
 
 ![Tux](img/tux.png)
 
-🐧 este repositorio es una colección de **increíble** aplicaciones Linux y herramientas para **usuarios y desarrolladores**.
+🐧 este repositorio es una colección de **increíbles** aplicaciones Linux y herramientas para **cualquier usuario y desarrollador**.
 <br>
-🐧 usted está alentado **contribuyas** / **estrella** / **bifurcacion** / **solicitud de llevar**. Cualquier **recomendaciones** y **sugerencias** son bienvenidos.
+🐧 Siéntete libre de **contribuir** / **dar star** / **hacer fork** / **crear un pull request**. Cualquier **recomendación** y **sugerencia** son bienvenidos.
 
-**reconocimiento:** *todo lo escrito a continuación es de la experiencia del usuario, y traducido de la fuente de material [aquí:](https://github.com/LewisVo/Awesome-Linux-Software) español no es mi primer idioma, así que la ayuda es apreciada.
+*Actualización: Este repositorio tiene una versión más amigable disponible [aquí](https://luongvo209.gitlab.io/Awesome-Linux-Software).*
+
+**Reconocimiento:** *Todo lo escrito a continuación es desde mi propia experiencia en la escuela y después leyendo varios materiales. No soy ni un profesional ni un experto, pero un estudiante apasionado. Cualquiera puede abrir una discusión en la sección "Issues", o hacer un "pull request" si considera que algo debe ser modificado o agregado.*
 
 * versión china : [aquí](https://github.com/LewisVo/Awesome-Linux-Software/blob/master/README_zh-CN.md) o [aquí](https://github.com/alim0x/Awesome-Linux-Software-zh_CN) o [aquí](https://github.com/0xE8551CCB/awesome-linux-software-cn).
 * versión alternativa en español : [aqui](https://github.com/SaintFenix/Awesome-Linux-Software/blob/master/README_es-ES.md).
@@ -14,7 +16,7 @@
 * versión inglesa : [aquí](https://github.com/LewisVo/Awesome-Linux-Software/blob/master/README.md).
 * versión tailandés : [aquí](https://github.com/LewisVo/Awesome-Linux-Software/blob/master/README_th-TH.md).
 
-## El índice de contenidos
+## Índice de Contenidos
 
 - [Aplicaciones](#aplicaciones)
    - [Audio](#audio)
@@ -1174,36 +1176,36 @@ es un programa SUID que crea seguridad mediante la restricción de aplicaciones 
 
 ## Contribuidores
 
-Muchas gracias a [**Todos los colaboradores de Github**](https://github.com/LewisVo/Awesome-Linux-Software/graphs/contributors) para hacer esta lista posible y
-*todos en reddit.com/r/linux y reddit.com/r/ubuntu y vozforums.com y otros foros para todas las sugerencias y elogios.*
+Muchas gracias a [**Todos los colaboradores de Github**](https://github.com/LewisVo/Awesome-Linux-Software/graphs/contributors) por hacer esta lista posible y
+*todos en reddit.com/r/linux y reddit.com/r/ubuntu y vozforums.com y otros foros por todas las sugerencias y elogios.*
  ...  
 
-**[⬆ volver a la cima](#el-índice-de-contenidos)**
+**[⬆ volver arriba](#el-índice-de-contenidos)**
 
 
 <br>
 
 ## Reglas para contribuir
 
-> Simplemente cree el nombre de la **aplicación** en la lista.
-> Enlace a su **página de inicio** o **una guía** sobre cómo instalarlo.
-> Escriba también una **breve descripción** para la aplicación + añadir **icono**.
-> Asegúrese de que se pone bajo el **tema apropiado**.
-> Si la aplicación no encaja en ningún **tema existente**, haga un **nuevo** para ello.
+> Simplemente agregue el nombre de la **aplicación** en la lista.
+> Enlace a su **página de inicio** o una **guía** sobre cómo instalarlo.
+> Escriba también una **breve descripción** para la aplicación y añada un **icono**.
+> Asegúrese de ponerlo bajo el **tema apropiado**.
+> Si la aplicación no encaja en ningún **tema existente**, haga uno **nuevo**.
 > Asegúrese de que todo esté **ordenado alfabéticamente**.
 
 ## Cómo contribuir
 
 - [Cómo usar github (Inglés)](https://guides.github.com/activities/forking/)
 - [Cómo utilizar Git desde la línea de comandos.](https://rogerdudler.github.io/git-guide/index.es.html)
-- [Una guía alternativa para Markdown (Inglés)](https://guides.github.com/features/mastering-markdown/)
-- [¿Qué es Markdown?](https://github.com/LewisVo/Markdown-Tutorial/blob/master/Translation:Spanish.md) - Markdown es un tipo de código utilizado para crear esta lista, que utiliza un tipo específico llamado: GitHub Markdown.
+- [¿Qué es Markdown?](https://github.com/LewisVo/Markdown-Tutorial/blob/master/Translation:Spanish.md) - Markdown es el método de escritura usado para crear esta lista, si quieres aprender el formato apropiado, lo mejor es que aprendas cómo usar Github Markdown.
+- [Guía alternativa para Markdown (Inglés)](https://guides.github.com/features/mastering-markdown/)
 
-*Artículos marcados ![Open-Source Software][OSS Icon] son software de código abierto y tienen un enlace al código fuente. Artículos marcados [![Nonfree][Money Icon] cuesta dinero (como en cerveza que cuesta dinero).*
+*Los artículos marcados ![Open-Source Software][OSS Icon] son software de código abierto y tienen un enlace al código fuente. Los artículos marcados [![Nonfree][Money Icon] cuesta dinero (como en cerveza que cuesta dinero).*
 
 <br>
 
-*Nota del autor: Recientemente, recibí comentarios de usted sobre la calidad de algunas aplicaciones en esta lista. Yo mismo los probé mucho (no todos ellos, sin embargo). Si tienes algún problema con las aplicaciones, por favor: -> ir a la página de dev (si está disponible) -> hacer un problema para el dev allí -> hacer un problema aquí para que pueda considerar si debo sacar la aplicación de la lista. Recuerde: Todo tiene su propia calidad, por lo que nunca habrá algo como "mejor aplicación" o "lista selectiva" aquí, gracias.*
+*Nota del autor: Recientemente, recibí comentarios de ustedes sobre la calidad de algunas aplicaciones en esta lista. Yo mismo probé muchas de ellas, pero no todas. Si tienes algún problema con las aplicaciones, por favor: -> ve a la página del dev (si está disponible) -> Levanta un "issue" para el dev allí -> haz un "issue" aquí para que pueda considerar si debo sacar la aplicación de la lista. Recuerde: Todo tiene su propia calidad, por lo que nunca habrá algo como "mejor aplicación" o "lista selectiva" aquí, gracias.*
 
 <br>
 
