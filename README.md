@@ -509,6 +509,7 @@
 - [![Open-Source Software][OSS Icon]](https://itsfoss.com/best-command-line-games-linux/) [Tron](https://itsfoss.com/best-command-line-games-linux/) - Play the best action game, Tron in the command line.
 
 #### Miscellaneous
+- [![Open-Source Software][OSS Icon]](https://github.com/viewizard/astromenace) [AstroMenace](https://viewizard.com/) - Hardcore 3D space scroll-shooter with spaceship upgrade possibilities.
 - ![Open-Source Software][OSS Icon] [Cockatrice](https://cockatrice.github.io/) - Cockatrice is an open-source multiplatform supported program for playing tabletop card games over a network.
 - ![Open-Source Software][OSS Icon] [C-Dogs SDL](https://cxong.github.io/cdogs-sdl/) - Classic overhead run-and-gun game in beautiful pixel-art.
 - ![Open-Source Software][OSS Icon] [FlightGear](http://home.flightgear.org/) - Professional quality 3D flight simulator.
