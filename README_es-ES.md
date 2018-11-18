@@ -993,7 +993,7 @@ es un programa SUID que crea seguridad mediante la restricción de aplicaciones 
 ## Gestor de ventanas
 
 ### Gestors de composiciónes
-- [![Open-Source Software][OSS Icon]](https://github.com/chjj/compton) [Compton](https://github.com/chjj/compton/wiki) - Compton es un gestor compuesto independiente, que puede trabajar con gestores de ventanas que no tienen composición.
+- [![Open-Source Software][OSS Icon]](https://github.com/yshui/compton) [Compton](https://github.com/yshui/compton) - Compton es un gestor compuesto independiente, que puede trabajar con gestores de ventanas que no tienen composición.
 - [![Open-Source Software][OSS Icon]](https://cgit.freedesktop.org/xorg/app/xcompmgr) [Xcompmgr](https://cgit.freedesktop.org/xorg/app/xcompmgr) - Xcompmgr es un gestor compuesto simple que puede renderizar, sombras, y otros efectos.
 
 ### Gestor de apilables
