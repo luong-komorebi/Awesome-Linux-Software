@@ -677,7 +677,7 @@
 ## 窗口管理
 
 ### 合成器
-- [Compton](https://github.com/chjj/compton/wiki) - Compton 是一款独立的合成管理器，适合同没有原生提供合成功能的窗口管理器一同使用。 [![Open-Source Software][OSS Icon]]
+- [Compton](https://github.com/yshui/compton) - Compton 是一款独立的合成管理器，适合同没有原生提供合成功能的窗口管理器一同使用。 [![Open-Source Software][OSS Icon]]
 - [Xcompmgr](https://cgit.freedesktop.org/xorg/app/xcompmgr) - Xcompmgr 是一个简单的合成管理器，能够渲染下拉阴影，使用 transset 工具的话，还可以实现简单的窗口透明。 [![Open-Source Software][OSS Icon]](https://cgit.freedesktop.org/xorg/app/xcompmgr)
 
 ### 叠加式窗口管理器
