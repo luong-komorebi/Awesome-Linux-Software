@@ -142,7 +142,7 @@
 ### 桌面个性化
 - [Adapta Theme](https://github.com/tista500/Adapta) - 一款自适应的 Gtk+ 主题，遵循 Material 设计指南。![Open-Source Software][OSS Icon]
 - [Arc Icon Theme](https://github.com/horst3180/arc-icon-theme) - 一款可以和 Moka 图标主题一同使用的现代图标主题。 ![Open-Source Software][OSS Icon]
-- [Arc Theme](https://github.com/horst3180/arc-theme) - 带有透明元素的扁平化主题 ![Open-Source Software][OSS Icon]
+- [Arc Theme](https://github.com/NicoHood/arc-theme) - 带有透明元素的扁平化主题 ![Open-Source Software][OSS Icon]
 - [Compiz Config settings manager](https://apps.ubuntu.com/cat/applications/compizconfig-settings-manager/) - OpenCompositing 项目带来的提高 X Window 系统可用性和生产力的 3D 桌面视觉特效。
 - [Conky](https://github.com/brndnmtthws/conky) - Conky 是 X 下一款免费，轻量的系统监视器，可以在你桌面显示任何类型的信息。 [![Open-Source Software][OSS Icon]](https://github.com/brndnmtthws/conky)
 - [Flatabulous Arc Theme](https://github.com/andreisergiu98/arc-flatabulous-theme) - 我最爱的 ubuntu 主题。[![Open-Source Software][OSS Icon]](https://github.com/andreisergiu98/arc-flatabulous-theme)
