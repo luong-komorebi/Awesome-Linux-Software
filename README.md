@@ -1045,6 +1045,7 @@
 ### Console
 - [![Open-Source Software][OSS Icon]](https://github.com/ghost1227/cdm) [CDM](https://github.com/ghost1227/cdm) - A ultra-minimalistic, yet full-featured login manager written in Bash.
 - [![Open-Source Software][OSS Icon]](https://github.com/dopsi/console-tdm) [Console TDM](https://github.com/dopsi/console-tdm) - An extension for xinit written in pure Bash.
+- [![Open-Source Software][OSS Icon]](https://github.com/cylgom/ly) [Ly](https://github.com/cylgom/ly) - Ly is a lightweight, TUI (ncurses-like) display manager for Linux.
 - [![Open-Source Software][OSS Icon]](https://github.com/spanezz/nodm) [nodm](https://github.com/spanezz/nodm) - A minimalistic display manager for automatic logins.
 
 ### Graphic
