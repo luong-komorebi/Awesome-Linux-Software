@@ -1,5 +1,5 @@
 # requiring the environment of NodeJS 8.9.x LTS (carbon)
-image: node:8.9
+image: node:10
 
 # add 'node_modules' to cache for speeding up builds
 cache:
@@ -8,20 +8,11 @@ cache:
 
 before_script:
   - npm install gitbook-cli -g # install gitbook
-  - gitbook fetch latest # fetch latest stable version
+  - gitbook fetch 3.2.3 # fetch latest stable version
   - gitbook install # add any requested plugins in book.json
   #- gitbook fetch pre # fetch latest pre-release version
   #- gitbook fetch 2.6.7 # fetch specific version
 
-test:
-  stage: test
-  script:
-    - gitbook build . public # build to public path
-  only:
-    - branches # this job will affect only the 'master' branch
-  except:
-    - master
-    
 # the 'pages' job will deploy and build your site to the 'public' path
 pages:
   stage: deploy
