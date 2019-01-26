@@ -110,7 +110,6 @@
 
 ### 聊天客户端
 - [Chatty](http://chatty.github.io/) - Chatty 是一款 Twitch 聊天客户端，它是为那些想尝试不同于 web 聊天的新事物，又不想像 IRC 客户端那样复杂或错过 Twitch 特色功能的用户准备的。[![Open-Source Software][OSS Icon]](https://github.com/chatty/chatty)
-- [Cutegram](http://aseman.co/en/products/cutegram/) - 提供比官方 Telegram 应用更多的特性。 [![Open-Source Software][OSS Icon]](https://github.com/Aseman-Land/Cutegram)
 - [Discord](https://discordapp.com/) - 为玩家准备的多合一语音文本聊天工具，免费，安全，同时支持桌面和手机。
 - [Franz](http://meetfranz.com/) - Franz 是一个免费的消息应用，结合了许多聊天及消息服务到单独的一个客户端中。[![Open-Source-Software][OSS Icon]](https://github.com/meetfranz/franz)
 - [GhettoSkype](https://github.com/stanfieldr/ghetto-skype) - Skype 的开源 web 封装。 [![Open-Source Software][OSS Icon]](https://github.com/stanfieldr/ghetto-skype)
