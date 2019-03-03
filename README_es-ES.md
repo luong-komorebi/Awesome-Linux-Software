@@ -153,7 +153,6 @@
 #### Clientes no oficiales
 - [![Open-Source Software][OSS Icon]](https://github.com/sindresorhus/caprine) [Caprine](https://sindresorhus.com/caprine) - Un programa que está muy bien diseñado para facebook.
 - [![Open-Source Software][OSS Icon]](https://github.com/chatty/chatty) [Chatty](http://chatty.github.io/) - Chatty es una a cliente twitch para mensajes.
-- [![Open-Source Software][OSS Icon]](https://github.com/Aseman-Land/Cutegram) [Cutegram](http://aseman.co/en/products/cutegram/) - Este programa tiene más capacidad que el programa oficial de Telegram.
 - [![Open-Source Software][OSS Icon]](https://github.com/stanfieldr/ghetto-skype) [GhettoSkype](https://github.com/stanfieldr/ghetto-skype) - Un Software código abierto envoltura el programma web para Skype.
 - [![Open-Source Software][OSS Icon]](https://github.com/Aluxian/Facebook-Messenger-Desktop) [Messenger for Desktop](https://messengerfordesktop.com/#download) - Una Programa para mensajería instantánea de Facebook.
 - [![Open-Source Software][OSS Icon]](https://github.com/raelgc/scudcloud/) [ScudCloud](https://github.com/raelgc/scudcloud/) - Un Cliente para slack no oficial para Linux.
@@ -1178,7 +1177,7 @@ es un programa SUID que crea seguridad mediante la restricción de aplicaciones 
 
 Muchas gracias a [**Todos los colaboradores de Github**](https://github.com/LewisVo/Awesome-Linux-Software/graphs/contributors) por hacer esta lista posible y
 *todos en reddit.com/r/linux y reddit.com/r/ubuntu y vozforums.com y otros foros por todas las sugerencias y elogios.*
- ...  
+ ...
 
 **[⬆ volver arriba](#el-índice-de-contenidos)**
 
