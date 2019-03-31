@@ -520,6 +520,7 @@
 - [![Open-Source Software][OSS Icon]](https://xmoto.tuxfamily.org/index.php) [XMoto](https://xmoto.tuxfamily.org/) - 2D motocross physics-based game requiring a lot of skill to master, with a built-in replay-recording and sharing system.
 
 #### Engine Re-creations (require the actual game)
+- [![Open-Source Software][OSS Icon]](https://github.com/wheybags/freeablo) [Freeablo](https://freeablo.org/) - A free recreation of the original Diablo game engine that runs natively on Linux. Requires the original game assets.
 - [![Open-Source Software][OSS Icon]](http://nxengine.sourceforge.net/) [NXEngine](http://nxengine.sourceforge.net/) - A source port of Cave Story that runs natively on Linux, source needs to be built.
 - [![Open-Source Software][OSS Icon]](https://github.com/SFTtech/openage) [openage](https://openage.sft.mx/) - Free (as in freedom) open source clone of the Age of Empires II engine, source needs to be built.
 - [![Open-Source Software][OSS Icon]](https://github.com/OpenMW/openmw) [OpenMW](https://openmw.org) - A recreation of the Morrowind engine, expanding upon the original. It can be used to play legitimate copies of original game.
