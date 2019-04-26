@@ -395,6 +395,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/OpenShot/openshot-qt) [OpenShot](http://www.openshot.org/) - OpenShot 是一款免费，易用，功能丰富的 Linxu 视频编辑器。
 - [![Open-Source Software][OSS Icon]](https://gitlab.gnome.org/GNOME/pitivi) [Pitivi](http://www.pitivi.org/) - 一款带有漂亮直观的用户界面的免费视频编辑器，有干净的代码库和出色的社区。
 - [Radiance](http://www.radiance-online.org/) - Radiance - 一款经过验证的光照模拟工具
+- [![Open-Source Software][OSS Icon]](https://github.com/mltframework/shotcut) [Shotcut](https://www.shotcut.org/) - Shotcut 是一款免费，开源，跨平台的视频编辑器。
 - [Shotwell](https://wiki.gnome.org/Apps/Shotwell) - Shotwell 是 GNOME 3 的图片管理器。
 - [StopMotion](http://linuxstopmotion.org/) - Linux Stopmotion 是一款免费，开源的定格动画创作应用。它可以帮你捕捉和编辑你动画的帧，并导出为一个单独的文件。
 - [Xara Extreme](http://www.xaraxtreme.org/) - Xara Xtreme for Linux 是一款强大，通用，适用于 Unix 平台（包括 Linux， FreeBSD）的图形处理程序。
