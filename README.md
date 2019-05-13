@@ -804,6 +804,7 @@
 - [![Open-Source Software][OSS Icon]](https://code.launchpad.net/gui-ufw) [GuFW](https://gufw.org/) - One of the easiest firewalls in the world of Linux.
 
 #### Password Manager
+- [![Open-Source Software][OSS Icon]](https://bitwarden.com/) [Bitwarden](https://bitwarden.com/) - A cross-platform password management service which also support self-hosting.
 - [![Open-Source Software][OSS Icon]](https://github.com/SpiderOak/Encryptr) [Encryptr](https://spideroak.com/encryptr/) - Encryptr is a zero-knowledge, cloud-based e-wallet / password manager powered by Crypton.
 - [Enpass](https://www.enpass.io/) - Enpass makes your life easy by securely managing your passwords and important information.
 - [![Open-Source Software][OSS Icon]](https://git.zx2c4.com/password-store/) [Pass](https://www.passwordstore.org/) - The standard Unix password manager.
