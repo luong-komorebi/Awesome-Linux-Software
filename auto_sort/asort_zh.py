@@ -54,7 +54,7 @@ def main():
                     line = line.strip()
                     items.append(line)
                 # When no more items, blank line or new header
-                elif line is '\n':
+                elif line == '\n':
                     # when we meet the next header, we should stop adding new item to the list.
                     for item in sorted(items, key=lambda x: regex.findall(x.upper())[len(regex.findall(x.upper()))-1]):
                         # write the ordered list to the temporary file.
