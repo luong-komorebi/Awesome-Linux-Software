@@ -54,26 +54,8 @@
 
 ***********
 
-- [Setup](#setup)
-   - [ArchLinux](#arch-linux)
-   - [Bodhi](#bodhi)
-   - [CentOS](#centos)
-   - [Fedora](#fedora)
-   - [openSUSE](#opensuse)
-   - [Ubuntu](#ubuntu)
-- [Discussion Forums](#discussion-forums)
-   - [ArchLinux Forums](#arch-linux-forums)
-   - [CentOS Forums](#centos-forums)
-   - [Fedora Forums](#fedora-forums)
-   - [Ubuntu Forums](#ubuntu-forums)
-   - [openSUSE Forums](#opensuse-forums)
-   - [IRC channels](#irc-channels)
-   - [Linux News, Apps, and more ....](#linux-news-apps-and-more-)
-   - [Reddit](#reddit)
-- [Learn Linux](#learn-linux)
-- [Linux Hacking/Development](#linux-hackingdevelopment)
-- [Advanced Linux](#advanced-linux)
-- [Other Awesome Lists](#other-awesome-lists)
+- [Linux News, Apps, and more ....](#linux-news-apps-and-more-)
+- [Reddit](#reddit)
 - [Contributors](#contributors)
 - [Guideline to Contribute](#guideline-to-contribute)
 - [How to Contribute](#unsure-how-to-contribute)
@@ -1082,101 +1064,6 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/conformal/spectrwm) [spectrwm](https://github.com/conformal/spectrwm) - A small dynamic tiling window manager for X11, largely inspired by xmonad and dwm.
 - [![Open-Source Software][OSS Icon]](https://github.com/xmonad/xmonad) [xmonad](https://xmonad.org) - A dynamically tiling X11 window manager that is written and configured in Haskell.
 
-## Setup
-
-- [What is Linux](https://www.linux.com/what-is-linux)
-- [Basic Linux terms](https://www.makeuseof.com/tag/linux-confusing-key-terms-definitions/)
-- [Choosing Distro that Suits You Best](https://i.imgur.com/TV21DgN.jpg)
-- [38 Things To Do After Installing Ubuntu](https://www.lifewire.com/things-to-do-installing-ubuntu-2200611)
-- [What do the commands on the command line mean?](https://www.explainshell.com) [![Open-Source Software][OSS Icon]](https://github.com/idank/explainshell)
-
-### Arch Linux
-
-- [Getting and installing Arch](https://wiki.archlinux.org/index.php/Category:Installation_process)
-- [Installation guide](https://wiki.archlinux.org/index.php/Installation_guide)
-- [General recommendations](https://wiki.archlinux.org/index.php/General_recommendations)
-- [List of applications](https://wiki.archlinux.org/index.php/List_of_applications)
-
-### Bodhi
-
-- [What is Bodhi](https://en.wikipedia.org/wiki/Bodhi_Linux)
-- [Where to download Bodhi](https://www.bodhilinux.com/download/)
-- [How do I install Bodhi](https://www.bodhilinux.com/w/installation-instructions/)
-
-### CentOS
-
-- [Official website](https://www.centos.org)
-- [About](https://wiki.centos.org/About)
-- [Downloads](https://wiki.centos.org/Download)
-- [Manuals](https://docs.centos.org/en-US/docs/)
-- [Tips and Tricks](https://wiki.centos.org/TipsAndTricks)
-- [FAQ](https://www.centos.org/forums/app.php/help/faq)
-
-### Fedora
-
-- [What is Fedora?](https://docs.fedoraproject.org/en-US/project/)
-- [Where to download Fedora](https://getfedora.org)
-- [How do I install Fedora?](https://docs.fedoraproject.org/en-US/fedora/f26/install-guide/install/Preparing_for_Installation/index.html)
-- [Ask Fedora](https://ask.fedoraproject.org/en/questions/)
-
-### openSUSE
-
-- [What is openSUSE](https://www.techopedia.com/definition/28543/opensuse)
-- [Reasons to try openSUSE](https://www.pcworld.com/article/222065/5_reasons_to_try_opensuse_114.html)
-- [Beginner's FAQ](https://en.opensuse.org/openSUSE:OpenSUSE_for_beginners)
-- [How to install openSUSE](https://en.opensuse.org/Portal:Installation)
-- [Review](https://www.linux.com/news/opensuse-leap-421-review-most-mature-linux-distribution)
-
-### Ubuntu
-
-- [What is Ubuntu](https://en.wikipedia.org/wiki/Ubuntu_(operating_system))
-- [How to install Ubuntu](https://tutorials.ubuntu.com/tutorial/tutorial-install-ubuntu-desktop)
-- [What to do after installing Ubuntu](https://www.omgubuntu.co.uk/2016/04/10-things-to-do-after-installing-ubuntu-16-04-lts)
-
-### Other distros
-
-> To be added later
-
-## Discussion Forums
-
-### Arch Linux Forums
-
-* [Arch Linux Forums](https://bbs.archlinux.org/)
-* [Arch Linux ARM Forums](https://archlinuxarm.org/forum/viewforum.php?f=31)
-
-### Bodhi Linux Forums
-
-* [Bodhi Linux Forums](https://www.linuxquestions.org/questions/bodhi-92/)
-
-### CentOS Forums
-
-* [CentOS Forums](https://www.centos.org/forums/)
-
-### Fedora Forums
-
-* [Fedora Forums](https://forums.fedoraforum.org/index.php)
-
-### Ubuntu Forums
-
-* [Ubuntu Forum](https://ubuntuforums.org/)
-* [Ask Ubuntu](https://askubuntu.com/)
-
-### openSUSE Forums
-
-* [openSUSE Forum](https://forums.opensuse.org/forum.php)
-
-
-
-### IRC channels
-
-* [#linux](http://webchat.freenode.net/?channels=#linux)
-* [#ubuntu](https://webchat.freenode.net/?channels=ubuntu)
-* [#archlinux](http://webchat.freenode.net/?channels=archlinux)
-* [#debian](http://webchat.freenode.net/?channels=debian)
-* [#gentoo](http://webchat.freenode.net/?channels=gentoo)
-* [#docker](http://webchat.freenode.net/?channels=docker)
-* [#bash](http://webchat.freenode.net/?channels=bash)
-
 ### Linux News, Apps, and more:
 
 * [OMG!Ubuntu](https://www.omgubuntu.co.uk/)
@@ -1207,39 +1094,6 @@
 * [Unix Porn](https://www.reddit.com/r/unixporn/)
 * [Linux Kernel](https://www.reddit.com/r/kernel/)
 * [Linux Gaming](https://www.reddit.com/r/linux_gaming/)
-
-## Learn Linux
-
-- [Beginner's guide to Linux](https://www.linux.com/learn/complete-beginners-guide-linux%20)
-- [Learn Linux Command](http://linuxcommand.org/)
-- [GNU/Linux Command-Line Tools Summary](https://tldp.org/LDP/GNU-Linux-Tools-Summary/html/book1.htm)
-- [Learn Linux](https://linuxjourney.com/)
-- [Linux Course](https://www.edx.org/course/introduction-to-linux)
-- [Linux Pocket Guide](https://www.tldp.org/LDP/Pocket-Linux-Guide/Pocket-Linux-Guide.pdf)
-- [Programming Community Curated Resources for learning Linux](https://hackr.io/tutorials/learn-linux-system-administration)
-
-## Linux Hacking/Development
-
-- [Kernel Newbies](https://kernelnewbies.org/)
-- [Linux Insides](https://0xax.gitbooks.io/linux-insides/content/index.html)
-- [The Linux Kernel](https://www.tldp.org/LDP/tlk/tlk.html)
-- [Linux Kernel Archives (Official Website)](https://www.kernel.org/)
-- [Linux Kernel Internals (PDF)](https://www.tldp.org/LDP/lki/lki.pdf)
-- [Linux Kernel Mailing List Archive](https://lkml.org/)
-- [Linux Kernel Module Programming Guide (PDF)](https://www.tldp.org/LDP/lkmpg/2.6/lkmpg.pdf)
-
-## Advanced Linux
-
-- [Virtual Containers](https://github.com/Citrix-TechSpecialist/Docker-101)
-- [Virtualization with Virtualbox](https://www.virtualbox.org/manual/ch01.html)
-
-## Other Awesome Lists
-
-*These are the list that I highly recommended:*
-- [Awesome Linux Audio](https://github.com/nodiscc/awesome-linuxaudio)
-- [Awesome Self-hosted](https://github.com/kickball/awesome-selfhosted)
-- [Awesome Sysadmin](https://github.com/n1trux/awesome-sysadmin)
-
 ## Contributors
 
 Thanks to [**All of Github contributors**](https://github.com/LewisVo/Awesome-Linux-Software/graphs/contributors) for making this list possible and
