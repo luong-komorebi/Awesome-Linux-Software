@@ -892,7 +892,7 @@
 #### Disk Utilities
 - [![Open-Source Software][OSS Icon]](https://github.com/GNOME/brasero) [Brasero](https://wiki.gnome.org/Apps/Brasero) - A capable CD/DVD burner.
 - [![Open-Source Software][OSS Icon]](http://clonezilla.org/related-links/) [Clonezilla](https://clonezilla.org/) - Clonezilla is a partition and disk imaging/cloning program similar to True Image® or Norton Ghost®.
-- [![Open-Source Software][ISS Icon]](https://github.com/zevv/duc) [Duc](https://duc.zevv.nl/) - Dude, where are my bytes: Duc, a library and suite of tools for inspecting disk usage.
+- [![Open-Source Software][ISS Icon]](https://github.com/zevv/duc) [Duc](https://duc.zevv.nl/) - Duc, a library and suite of tools for indexing, and visualizing inspecting disk usage.
 - [![Open-Source Software][OSS Icon]](https://github.com/balena-io/etcher) [Etcher](https://www.balena.io/etcher/) - Flash OS images to SD cards & USB drives, safely and easily.
 - [![Open-Source Software][OSS Icon]](https://github.com/GNOME/gparted) [GParted](https://gparted.org/) - Disk Partition utility for Linux.
 - [![Open-Source Software][OSS Icon]](https://github.com/unetbootin/unetbootin) [Unetbootin](https://unetbootin.github.io) - UNetbootin allows you to create bootable Live USB drives for Ubuntu and other Linux distributions. You can either let UNetbootin download one of the many distributions supported out-of-the-box for you, or supply your own Linux .iso file.
