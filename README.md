@@ -191,6 +191,7 @@
 
 ### Desktop Customization
 
+
 #### Desktop Themes
 
 - [![Open-Source Software][OSS Icon]](https://github.com/adapta-project/adapta-gtk-theme) [Adapta Theme](https://github.com/tista500/Adapta) - An adaptive Gtk+ theme based on Material Design Guidelines. 
