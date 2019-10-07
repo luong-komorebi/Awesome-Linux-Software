@@ -692,7 +692,7 @@ es un creador de imágenes GIF de código abierto.
 
 #### Automatización
 - [Actionaz](http://actionaz.org/) - Un programa para automatizar tareas en Linux.
-- [Autokey](https://code.google.com/archive/p/autokey/) - Un programa para Linux, que le permite asignar scripts y abreviaturas a las teclas de acceso rápido.
+- [Autokey](https://github.com/autokey/autokey) - Un programa para Linux, que le permite asignar scripts y abreviaturas a las teclas de acceso rápido.
 - [Caffeine](https://launchpad.net/caffeine) - Un programa que evita que Linux se quede dormido.
 
 #### Barra de tareas

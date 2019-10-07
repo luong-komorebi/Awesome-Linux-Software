@@ -644,7 +644,7 @@ Ele foi projetado principalmente para ajudar a recuperar partições perdidas e/
 ### Produtividade
 #### Automation
 - [Actionaz](http://actionaz.org/) - Automation tasks utility for Ubuntu/Linux
-- [Autokey](https://code.google.com/archive/p/autokey/) - A desktop automation utility for Linux allows you to manage collection of scripts and phrases, and assign abbreviations and hotkeys to these.
+- [Autokey](https://github.com/autokey/autokey) - A desktop automation utility for Linux allows you to manage collection of scripts and phrases, and assign abbreviations and hotkeys to these.
 - [Caffeine](https://launchpad.net/caffeine) - Prevents Ubuntu from automatically going to sleep.
 
 #### Dock
