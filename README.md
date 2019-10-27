@@ -857,6 +857,7 @@
 - [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/dban/) [DBAN](https://dban.org/) - Delete information stored on hard disk drives (HDDs) in PC laptops, desktops or servers.
 - [![Open-Source Software][OSS Icon]](https://github.com/GitSquared/edex-ui) [eDEX-UI](https://github.com/GitSquared/edex-ui) - eDEX-UI is a fullscreen, cross-platform terminal emulator and system monitor that looks and feels like a sci-fi computer interface.
 - [![Open-Source Software][OSS Icon]](https://github.com/GNOME) [GnomeTerminal](https://help.gnome.org/users/gnome-terminal/stable/) - A widely preinstalled terminal emulator in Linux world.
+- [![Open-Source Software][OSS Icon]](https://github.com/Mayccoll/Gogh) [Gogh](http://mayccoll.github.io/Gogh/) - Color schemes for Ubuntu, Linux Mint, Elementary OS and all distributions that use Gnome Terminal, Pantheon Terminal, Tilix, or XFCE4 Terminal.
 - [![Open-Source Software][OSS Icon]](https://github.com/Guake/guake) [Guake](http://guake.org/) - Guake is a top-down terminal for Gnome.
 - [![Open-Source Software][OSS Icon]](https://github.com/zeit/hyper) [Hyper](https://hyper.is/) - A terminal built on web technologies.
 - [![Open-Source Software][OSS Icon]](https://github.com/KeyLo99/k3rmit) [K3rmit](https://github.com/KeyLo99/k3rmit) - A VTE-based terminal emulator that aims to be simple, fast and effective.
