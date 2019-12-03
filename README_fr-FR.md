@@ -2,11 +2,11 @@
 
 ![Tux](img/tux.png)
 
-🐧 Ce repos est une collection **d'Incroyables** outils et d'applications Linux pour **utilisateurs et développeurs**.
+🐧 Ce repos est une collection **d'Incroyables** outils et applications Linux pour **utilisateurs et développeurs**.
 <br>
 🐧 N'hesitez pas à **contribuer** / **star** / **fork** / **pull request** . N'importe quelles **recommandations** et **suggestions** sont les bienvenus.
 
-**Reconnaissance:** *Tout ce qui est écrit ci dessous viens de ma propre expérience à la fac et aprés diverses lectures . Je ne suis ni un professionel ni un expert, mais un passioné. Tout le monde peut ouvrir une discussion dans la partie issue, faire une pull request si quelque chose doit être modifié ou ajouté.*
+**Reconnaissance:** *Tout ce qui est écrit ci-dessous viens de ma propre expérience à la fac et après diverses lectures . Je ne suis ni un professionel ni un expert, mais un passioné. Tout le monde peut ouvrir une discussion dans la partie issue, faire une pull request si quelque chose doit être modifié ou ajouté.*
 
 * Verion Brésilienne Portugaise : [ici](https://github.com/LewisVo/Awesome-Linux-Software/blob/master/README_pt-BR.md).
 * Version Chinoise: [ici](https://github.com/LewisVo/Awesome-Linux-Software/blob/master/README_zh-CN.md) or [ici](https://github.com/alim0x/Awesome-Linux-Software-zh_CN) or [here](https://github.com/0xE8551CCB/awesome-linux-software-cn).
@@ -14,30 +14,30 @@
 * Version Thai : [ici](https://github.com/LewisVo/Awesome-Linux-Software/blob/master/README_th-TH.md).
 * Version Française: [ici](https://github.com/LewisVo/Awesome-Linux-Software/blob/master/README_fr-FR.md).
 
-## Table des Matiéres
+## Table des Matières
 
 - [Applications](#applications)
     - [Audio](#audio)
     - [Clients Discussions](#chat-clients)
-    - [Sauvegarde et récupartion de données](#data-backup-and-recovery)
-    - [Personnilation de Bureau](#desktop-customization)
+    - [Sauvegarde et récupération de données](#data-backup-and-recovery)
+    - [Personnalisation de Bureau](#desktop-customization)
     - [Développement](#development)
     - [Utilitaires E-Book](#e-book-utilities)
-    - [Editeurs](#editors)
-    - [Education](#education)
+    - [Éditeurs](#editors)
+    - [Éducation](#education)
     - [Utilitaires Email](#email)
     - [Gestionnaire de fichiers](#file-manager)
     - [Jeux](#games)
-    - [Graphique](#graphics)
+    - [Graphiques](#graphics)
     - [Internet](#internet)
     - [Bureautique](#office)
     - [Productivité](#productivity)
     - [Proxy](#proxy)
-    - [Securité](#security)
+    - [Sécurité](#security)
     - [Partage de fichiers](#sharing-files)
     - [Terminal](#terminal)
     - [Utilitaires](#utilities)
-    - [Video](#video)
+    - [Vidéo](#video)
     - [Logiciels Wiki](#wiki-software)
     - [Autres](#others)
 - [Utilitaires de Ligne de Commande](#command-line-utilities)
@@ -60,14 +60,14 @@
    - [Fedora](#fedora)
    - [openSUSE](#opensuse)
    - [Ubuntu](#ubuntu)
-- [Forums de Discution](#discussion-forums)
+- [Forums de Discussion](#discussion-forums)
    - [Forums ArchLinux](#arch-linux-forums)
    - [Forums CentOS](#centos-forums)
    - [Forums Fedora](#fedora-forums)
    - [Forums Ubuntu](#ubuntu-forums)
    - [Forums openSUSE](#opensuse-forums)
    - [Canal IRC](#irc-channels)
-   - [Linux News, Apps, and more ....](#linux-news-apps-and-more-)
+   - [Nouvelles Linux, Apps, et plus ....](#linux-news-apps-and-more-)
    - [Reddit](#reddit)
 - [Apprendre Linux](#learn-linux)
 - [Linux Hacking/Développement](#linux-hackingdevelopment)
