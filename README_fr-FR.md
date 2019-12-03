@@ -91,62 +91,60 @@
 ## Applications
 
 ### Audio
-*For a more comprehensive/advanced/better categorized/... list of Linux audio software, you may want to click [here](https://github.com/nodiscc/awesome-linuxaudio)*
-- [![Open-Source Software][OSS Icon]](https://github.com/sourcefabric/Airtime) [Airtime](https://www.sourcefabric.org/en/airtime/download/) - The open broadcast software for scheduling and remote station management
-- [![Open-Source Software][OSS Icon]](https://ardour.org/development.html) [Ardour](https://ardour.org/) - Record, Edit, and Mix on Linux
-- [![Open-Source Software][OSS Icon]](http://audacious-media-player.org/developers) [Audacious](http://audacious-media-player.org/) - An open source audio player that plays your music how you want it, without stealing away your computer’s resources from other tasks.
-- [![Open-Source Software][OSS Icon]](https://github.com/audacity/audacity) [Audacity](http://www.audacityteam.org/download/linux/) - Free, open source, cross-platform software for recording and editing sounds.
-- [![Open-Source Software][OSS Icon]](https://bazaar.launchpad.net/~audio-recorder/audio-recorder/trunk/files) [Audio Recorder](https://launchpad.net/~audio-recorder) - Simple audio recorder available in an Ubuntu PPA.
-- [![Open-Source Software][OSS Icon]](https://github.com/Superjo149/auryo) [Auryo](http://auryo.com/) - Unofficial multiplatform SoundCloud® app for your desktop.
-- [![Open-Source Software][OSS Icon]](https://github.com/CDrummond/cantata) [Cantata](https://www.linux-apps.com/content/show.php/Cantata?content=147733) - Qt5 Graphical MPD (Music Player Daemon) Client for Linux, Windows, MacOS.
-- [![Open-Source Software][OSS Icon]](https://github.com/clementine-player/Clementine) [Clementine](https://www.clementine-player.org/) - Play numerous lossy and lossless audio formats.
-- [![Open-Source Software][OSS Icon]](https://github.com/cmus/cmus) [Cmus](https://cmus.github.io/#download) - A small, fast and powerful console music player for Unix-like operating systems.
-- [![Open-Source Software][OSS Icon]](https://github.com/linuxdeepin/deepin-music) [Deepin Music](https://www.deepin.org/en/original/deepin-music/) - An application, developed by Deepin Technology Team, which focused on local music playing.
-- [![Open-Source Software][OSS Icon]](https://github.com/enzo1982/freac) [fre:ac](https://www.freac.org/index.php) - fre:ac is a free audio converter and CD ripper with support for various popular formats and encoders. It currently converts between MP3, MP4/M4A, WMA, Ogg Vorbis, FLAC, AAC, WAV and Bonk formats.
-- [![Open-Source Software][OSS Icon]](http://gnormalize.sourceforge.net/) [Gnormalize](http://gnormalize.sourceforge.net/) - An audio converter and CD ripper with ReplayGain normalization algorithms, a metadata (tag) editor and an audio player. It uses gtk2-perl under GNU/Linux.
-- [![Open-Source Software][OSS Icon]](https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-) [Google Play Music](https://www.googleplaymusicdesktopplayer.com/) - Unofficial but beautiful cross-platform desktop player for Google Play Music.
-- [![Open-Source Software][OSS Icon]](https://github.com/gpodder/gpodder) [Gpodder](https://gpodder.github.io/) - Media aggregator and podcast client.
-- [![Open-Source Software][OSS Icon]](https://github.com/haecker-felix/gradio/releases/) [GRadio](https://github.com/haecker-felix/gradio/releases/) - Radio software for Ubuntu Linux.
-- [![Open-Source Software][OSS Icon]](https://github.com/vincelwt/harmony) [Harmony](http://getharmony.xyz) - Music player with sleek interface & cloud compatibility.
-- [![Open-Source Software][OSS Icon]](https://github.com/mtytel/helm) [Helm](http://tytel.org/helm/) - A software synthesizer, that runs either standalone, or as an LV2, VST, VST3 or AU plugin.
-- [![Open-Source Software][OSS Icon]](https://github.com/hydrogen-music/hydrogen) [Hydrogen](http://www.hydrogen-music.org/hcms/node/21) - Advanced drum machine for GNU/Linux.
-- [![Open-Source Software][OSS Icon]](https://github.com/trazyn/ieaseMusic) [ieaseMusic](https://github.com/trazyn/ieaseMusic) - iEaseMusic is a multiplatform program built in electron for listening to NetEase Music.
-- [![Open-Source Software][OSS Icon]](https://github.com/KDE/k3b) [K3b](http://www.k3b.org/) - The CD/DVD Kreator for Linux, optimized for KDE.
-- [![Open-Source Software][OSS Icon]](https://kid3.sourceforge.io/) [Kid3Qt](https://apps.ubuntu.com/cat/applications/precise/kid3-qt/) - Edit tags of multiple files, e.g. the artist, album, year and genre of all mp3 files of an album.
-- [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/kxstudio/) [KxStudio](http://kxstudio.linuxaudio.org/) - A collection of applications and plugins for professional audio production.
-- [![Open-Source Software][OSS Icon]](https://github.com/LibreTime/libretime) [Libretime](http://libretime.org/) - The open broadcast software for scheduling and remote station management; forked from Airtime.
-- [![Open-Source Software][OSS Icon]](https://github.com/LMMS/lmms) [LMMS](https://lmms.io/download/#linux) - Making music on your PC by creating melodies and beats, synthesizing and mixing sounds, arranging samples and much more.
-- [![Open-Source Software][OSS Icon]](https://github.com/gnumdk/lollypop) [Lollypop](http://gnumdk.github.io/lollypop-web) - A GNOME music playing application.
-- [![Open-Source Software][OSS Icon]](https://github.com/emilioastarita/lyricfier) [Lyricfier](https://github.com/emilioastarita/lyricfier) - A Spotify Lyrics alternative app.
-- [![Open-Source Software][OSS Icon]](https://github.com/ColinDuquesnoy/MellowPlayer) [Mellow Player](https://colinduquesnoy.github.io/MellowPlayer/) - Cloud music integration for your desktop.
-- [![Open-Source Software][OSS Icon]](https://github.com/mixxxdj/mixxx) [Mixxx](http://www.mixxx.org/download/) - Free DJ software that gives you everything you need to perform live mixes; veritable alternative to Traktor.
-- [![Open-Source Software][OSS Icon]](https://github.com/mopidy/mopidy) [Mopidy](https://www.mopidy.com/) - An extensible music server written in Python.
-- [![Open-Source Software][OSS Icon]](https://github.com/KeitIG/museeks) [Museek](http://museeks.io/) - A simple, clean and cross-platform music player.
-- [![Open-Source Software][OSS Icon]](https://github.com/musescore/MuseScore) [MuseScore](https://musescore.org) - Create, play and print beautiful sheet music.
-- [![Open-Source Software][OSS Icon]](https://github.com/metabrainz/picard) [MusicBrainz Picard](https://picard.musicbrainz.org/) - Picard is a cross-platform music tagger written in Python.
-- [![Open-Source Software][OSS Icon]](https://github.com/metabrainz/picard) [MusicBrainz Picard](https://picard.musicbrainz.org/) - Picard is a cross-platform music tagger written in Python.
-- [![Open-Source Software][OSS Icon]](https://about.musixmatch.com/apps/) [MusixMatch](https://about.musixmatch.com/apps/) - A Capable lyrics app with synchronized lyrics function.
-- [Netease Music](http://music.163.com/#/download) - A music player of Netease - a cloud music service in China.
-- [![Open-Source Software][OSS Icon]](https://github.com/nukeop/nuclear) [Nuclear](http://nuclear.gumblert.tech/) - An Electron-based, multiplatform music player app that streams from multiple sources.
-- [Ocenaudio](http://www.ocenaudio.com/whatis) - A cross-platform, easy to use, fast and functional audio editor. It is the ideal software for people who need to edit and analyze audio files.
-- [![Open-Source Software][OSS Icon]](https://github.com/PedroHLC/osdlyrics) [OSD Lyrics](https://aur.archlinux.org/packages/osdlyrics-git/) - Show lyrics with your favorite media player.
-- [![Open-Source Software][OSS Icon]](https://github.com/gkarsay/parlatype) [Parlatype](http://gkarsay.github.io/parlatype/) - GNOME audio player for transcription.
-- [![Open-Source Software][OSS Icon]](https://github.com/pithos/pithos) [Pithos](https://pithos.github.io/) - A native Pandora client for Linux.
-- [![Open-Source Software][OSS Icon]](https://github.com/wwmm/pulseeffects) [PulseEffect](https://github.com/wwmm/pulseeffects) - Limiter, compressor, reverberation, equalizer and auto volume effects for Pulseaudio applications.
-- [![Open-Source Software][OSS Icon]](https://github.com/quodlibet/quodlibet) [Quod Libet](https://quodlibet.readthedocs.io) - GTK+ music player written with huge libraries in mind. Supports search-based dynamic playlists, regular expressions, tagging, Replay Gain, podcasts & Internet radio.
-- [![Open-Source Software][OSS Icon]](https://github.com/ebruck/radiotray-ng) [RadioTray-NG](https://github.com/ebruck/radiotray-ng) - An Internet radio player for Linux.
-- [![Open-Source Software][OSS Icon]](https://github.com/GNOME/rhythmbox) [Rhythmbox](https://wiki.gnome.org/Apps/Rhythmbox) - Music player from GNOME.
-- [![Open-Source Software][OSS Icon]](https://sayonara-player.com/downloads.php#Source) [Sayonara Player](https://sayonara-player.com/downloads.php) - A small, clear and fast audio player for Linux written in C++, supported by the Qt framework.
-- [![Open-Source Software][OSS Icon]](https://github.com/multani/sonata/) [Sonata](http://www.nongnu.org/sonata/) - A Music player that is designed to be an elegant and intuitive interface for your music collection via the Music Player Daemon (MPD).
-- [![Open-Source Software][OSS Icon]](https://launchpad.net/soundconverter/trunk/2.1.6) [Soundconverter](http://soundconverter.org/) - Leading audio file converter. Aims to be simple to use, and very fast.
-- [![Open-Source Software][OSS Icon]](https://wiki.gnome.org/Apps/SoundJuicer) [SoundJuicer](http://www.howtogeek.com/howto/20126/rip-audio-cds-with-sound-juicer/) - CD Ripping tool for GNOME.
-- [![Open-Source Software][OSS Icon]](https://github.com/Soundnode/soundnode-app) [Soundnode](http://www.soundnodeapp.com/) - An opensource SoundCloud app for desktop.
-- [![Open-Source Software][OSS Icon]](https://github.com/devinhalladay/spotio) [Spotio](https://github.com/devinhalladay/spotio) - A Rdio-inspired light theme for the Spotify desktop app.
-- [![Open-Source Software][OSS Icon]](https://github.com/tomahawk-player/tomahawk) [Tomahawk](https://www.tomahawk-player.org/) - A new kind of music player that invites all your streams, downloads, cloud music storage, playlists, radio stations and more.
-- [![Open-Source Software][OSS Icon]](https://github.com/VCVRack/Rack) [VCV Rack](https://vcvrack.com/) - An open-source virtual modular synthesizer.
-- [![Open-Source Software][OSS Icon]](https://github.com/needle-and-thread/vocal) [Vocal](http://vocalproject.net/) - Podcast client for the modern desktop.
-- [![Open-Source Software][OSS Icon]](https://github.com/yktoo/indicator-sound-switcher) [Yktoo Sound Switcher Indicator](https://yktoo.com/en/software/indicator-sound-switcher) - Sound input/output selector indicator for Ubuntu/Unity.
-
+*Pour une liste plus compréhensible/avancée/mieux catégorisée/etc... de logiciels audio sur Linux(en anglais), vous voudriez peut-être cliquer [ici](https://github.com/nodiscc/awesome-linuxaudio)*
+- [![Open-Source Software][OSS Icon]](https://github.com/sourcefabric/Airtime) [Airtime](https://www.sourcefabric.org/en/airtime/download/) - Le logiciel de diffusion ouvert pour la planification et la gestion de stations distantes
+- [![Open-Source Software][OSS Icon]](https://ardour.org/development.html) [Ardour](https://ardour.org/) - Enregistrer, modifier et mixer sur Linux
+- [![Open-Source Software][OSS Icon]](http://audacious-media-player.org/developers) [Audacious](http://audacious-media-player.org/) - Un lecteur audio open source qui lit votre musique comme vous le souhaitez, sans dérober les ressources de votre ordinateur à d’autres tâches.
+- [![Open-Source Software][OSS Icon]](https://github.com/audacity/audacity) [Audacity](http://www.audacityteam.org/download/linux/) - Logiciel gratuit, open source et multiplateforme pour l'enregistrement et l'édition de sons.
+- [![Open-Source Software][OSS Icon]](https://bazaar.launchpad.net/~audio-recorder/audio-recorder/trunk/files) [Audio Recorder](https://launchpad.net/~audio-recorder) - Enregistreur audio simple disponible dans un PPA Ubuntu.
+- [![Open-Source Software][OSS Icon]](https://github.com/Superjo149/auryo) [Auryo](http://auryo.com/) - Application SoundCloud® multiplateforme non officielle pour votre bureau.
+- [![Open-Source Software][OSS Icon]](https://github.com/CDrummond/cantata) [Cantata](https://www.linux-apps.com/content/show.php/Cantata?content=147733) - Qt5 Client graphique MPD (Music Player Daemon) pour Linux, Windows, MacOS.
+- [![Open-Source Software][OSS Icon]](https://github.com/clementine-player/Clementine) [Clementine](https://www.clementine-player.org/) - Jouez de nombreux formats audio avec et sans perte.
+- [![Open-Source Software][OSS Icon]](https://github.com/cmus/cmus) [Cmus](https://cmus.github.io/#download) - Un lecteur de musique console petit, rapide et puissant pour les systèmes d'exploitation de type Unix.
+- [![Open-Source Software][OSS Icon]](https://github.com/linuxdeepin/deepin-music) [Deepin Music](https://www.deepin.org/en/original/deepin-music/) - Une application développée par Deepin Technology Team, axée sur la musique locale.
+- [![Open-Source Software][OSS Icon]](https://github.com/enzo1982/freac) [fre:ac](https://www.freac.org/index.php) - fre: ac est un convertisseur audio gratuit et un extracteur de CD prenant en charge divers formats et encodeurs populaires. Il convertit actuellement les formats MP3, MP4 / M4A, WMA, Ogg Vorbis, FLAC, AAC, WAV et Bonk.
+- [![Open-Source Software][OSS Icon]](http://gnormalize.sourceforge.net/) [Gnormalize](http://gnormalize.sourceforge.net/) - Un convertisseur audio et un extracteur de CD avec des algorithmes de normalisation ReplayGain, un éditeur de métadonnées (balises) et un lecteur audio. Il utilise gtk2-perl sous GNU / Linux.
+- [![Open-Source Software][OSS Icon]](https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-) [Google Play Music](https://www.googleplaymusicdesktopplayer.com/) - Lecteur de bureau multiplateforme non officiel mais magnifique pour Google Play Music.
+- [![Open-Source Software][OSS Icon]](https://github.com/gpodder/gpodder) [Gpodder](https://gpodder.github.io/) - Agrégateur de médias et client podcast.
+- [![Open-Source Software][OSS Icon]](https://github.com/haecker-felix/gradio/releases/) [GRadio](https://github.com/haecker-felix/gradio/releases/) - Logiciel de radio pour Ubuntu Linux.
+- [![Open-Source Software][OSS Icon]](https://github.com/vincelwt/harmony) [Harmony](http://getharmony.xyz) - Lecteur de musique avec interface élégante et compatibilité cloud.
+- [![Open-Source Software][OSS Icon]](https://github.com/mtytel/helm) [Helm](http://tytel.org/helm/) - Un synthétiseur logiciel, qui s'exécute de manière autonome ou sous forme de plug-in LV2, VST, VST3 ou AU.
+- [![Open-Source Software][OSS Icon]](https://github.com/hydrogen-music/hydrogen) [Hydrogen](http://www.hydrogen-music.org/hcms/node/21) - Machine drum avancée pour GNU / Linux.
+- [![Open-Source Software][OSS Icon]](https://github.com/trazyn/ieaseMusic) [ieaseMusic](https://github.com/trazyn/ieaseMusic) - iEaseMusic est un programme multiplateforme intégré à électron permettant d'écouter NetEase Music.
+- [![Open-Source Software][OSS Icon]](https://github.com/KDE/k3b) [K3b](http://www.k3b.org/) -Le Kreateur CD / DVD pour Linux, optimisé pour KDE.
+- [![Open-Source Software][OSS Icon]](https://kid3.sourceforge.io/) [Kid3Qt](https://apps.ubuntu.com/cat/applications/precise/kid3-qt/) - Modifier les balises de plusieurs fichiers, par exemple l'artiste, l'album, l'année et le genre de tous les fichiers mp3 d'un album.
+- [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/kxstudio/) [KxStudio](http://kxstudio.linuxaudio.org/) - Une collection d'applications et de plugins pour la production audio professionnelle.
+- [![Open-Source Software][OSS Icon]](https://github.com/LibreTime/libretime) [Libretime](http://libretime.org/) - Le logiciel de diffusion ouvert pour la planification et la gestion des stations à distance; un embranchement de Airtime.
+- [![Open-Source Software][OSS Icon]](https://github.com/LMMS/lmms) [LMMS](https://lmms.io/download/#linux) - Créez de la musique sur votre PC en créant des mélodies et des rythmes, en synthétisant et en mélangeant des sons, en organisant des échantillons et bien plus encore.
+- [![Open-Source Software][OSS Icon]](https://github.com/gnumdk/lollypop) [Lollypop](http://gnumdk.github.io/lollypop-web) - Une application de lecture de musique GNOME.
+- [![Open-Source Software][OSS Icon]](https://github.com/emilioastarita/lyricfier) [Lyricfier](https://github.com/emilioastarita/lyricfier) - Une application alternative de Spotify Lyrics.
+- [![Open-Source Software][OSS Icon]](https://github.com/ColinDuquesnoy/MellowPlayer) [Mellow Player](https://colinduquesnoy.github.io/MellowPlayer/) - Intégration de musique dans le nuage pour votre bureau.
+- [![Open-Source Software][OSS Icon]](https://github.com/mixxxdj/mixxx) [Mixxx](http://www.mixxx.org/download/) - Logiciel DJ gratuit qui vous donne tout ce dont vous avez besoin pour effectuer des mixages en direct; véritable alternative à Traktor.
+- [![Open-Source Software][OSS Icon]](https://github.com/mopidy/mopidy) [Mopidy](https://www.mopidy.com/) - Un serveur de musique extensible écrit en Python.
+- [![Open-Source Software][OSS Icon]](https://github.com/KeitIG/museeks) [Museek](http://museeks.io/) - Un lecteur de musique simple, propre et multi-plateforme.
+- [![Open-Source Software][OSS Icon]](https://github.com/musescore/MuseScore) [MuseScore](https://musescore.org) - Créez, jouez et imprimez de belles partitions.
+- [![Open-Source Software][OSS Icon]](https://github.com/metabrainz/picard) [MusicBrainz Picard](https://picard.musicbrainz.org/) - Picard est un tagueur de musique multi-plateforme écrit en Python.
+- [![Open-Source Software][OSS Icon]](https://about.musixmatch.com/apps/) [MusixMatch](https://about.musixmatch.com/apps/) - Une application Capable Lyrics avec fonction de paroles synchronisées.
+- [Netease Music](http://music.163.com/#/download) - Un lecteur de musique de Netease - un service de musique en nuage en Chine.
+- [![Open-Source Software][OSS Icon]](https://github.com/nukeop/nuclear) [Nuclear](http://nuclear.gumblert.tech/) - Un lecteur de musique multiplateforme basé sur Electron qui diffuse depuis plusieurs sources.
+- [Ocenaudio](http://www.ocenaudio.com/whatis) - Un éditeur audio multi-plateforme, facile à utiliser, rapide et fonctionnel. C'est le logiciel idéal pour les personnes qui ont besoin d'éditer et d'analyser des fichiers audio.
+- [![Open-Source Software][OSS Icon]](https://github.com/PedroHLC/osdlyrics) [OSD Lyrics](https://aur.archlinux.org/packages/osdlyrics-git/) - Afficher les paroles avec votre lecteur multimédia préféré.
+- [![Open-Source Software][OSS Icon]](https://github.com/gkarsay/parlatype) [Parlatype](http://gkarsay.github.io/parlatype/) - Lecteur audio GNOME pour la transcription.
+- [![Open-Source Software][OSS Icon]](https://github.com/pithos/pithos) [Pithos](https://pithos.github.io/) - Un client Pandora natif pour Linux.
+- [![Open-Source Software][OSS Icon]](https://github.com/wwmm/pulseeffects) [PulseEffect](https://github.com/wwmm/pulseeffects) - Effets de limiteur, compresseur, réverbération, égaliseur et volume automatique pour les applications Pulseaudio.
+- [![Open-Source Software][OSS Icon]](https://github.com/quodlibet/quodlibet) [Quod Libet](https://quodlibet.readthedocs.io) - Lecteur de musique GTK + écrit avec d’énormes bibliothèques à l’esprit. Prend en charge les listes de lecture dynamiques basées sur la recherche, les expressions régulières, le balisage, le gain de relecture, les podcasts et la radio Internet.
+- [![Open-Source Software][OSS Icon]](https://github.com/ebruck/radiotray-ng) [RadioTray-NG](https://github.com/ebruck/radiotray-ng) - Un lecteur de radio Internet pour Linux.
+- [![Open-Source Software][OSS Icon]](https://github.com/GNOME/rhythmbox) [Rhythmbox](https://wiki.gnome.org/Apps/Rhythmbox) - Lecteur de musique de GNOME.
+- [![Open-Source Software][OSS Icon]](https://sayonara-player.com/downloads.php#Source) [Sayonara Player](https://sayonara-player.com/downloads.php) - Un petit lecteur audio clair et rapide pour Linux écrit en C ++, pris en charge par le framework Qt.
+- [![Open-Source Software][OSS Icon]](https://github.com/multani/sonata/) [Sonata](http://www.nongnu.org/sonata/) - Un lecteur de musique conçu pour être une interface élégante et intuitive pour votre collection de musique via le démon de lecteur de musique (MPD).
+- [![Open-Source Software][OSS Icon]](https://launchpad.net/soundconverter/trunk/2.1.6) [Soundconverter](http://soundconverter.org/) - Premier convertisseur de fichier audio. Vise à être simple à utiliser et très rapide.
+- [![Open-Source Software][OSS Icon]](https://wiki.gnome.org/Apps/SoundJuicer) [SoundJuicer](http://www.howtogeek.com/howto/20126/rip-audio-cds-with-sound-juicer/) - Outil d'extraction de CD pour GNOME.
+- [![Open-Source Software][OSS Icon]](https://github.com/Soundnode/soundnode-app) [Soundnode](http://www.soundnodeapp.com/) - Une application opensource SoundCloud pour le bureau.
+- [![Open-Source Software][OSS Icon]](https://github.com/devinhalladay/spotio) [Spotio](https://github.com/devinhalladay/spotio) - Un thème lumineux inspiré de Rdio pour l'application de bureau Spotify.
+- [![Open-Source Software][OSS Icon]](https://github.com/tomahawk-player/tomahawk) [Tomahawk](https://www.tomahawk-player.org/) - Un nouveau type de lecteur de musique qui invite tous vos flux, téléchargements, stockage de musique en nuage, listes de lecture, stations de radio et plus.
+- [![Open-Source Software][OSS Icon]](https://github.com/VCVRack/Rack) [VCV Rack](https://vcvrack.com/) - Un synthétiseur modulaire virtuel open-source.
+- [![Open-Source Software][OSS Icon]](https://github.com/needle-and-thread/vocal) [Vocal](http://vocalproject.net/) - Client Podcast pour le bureau moderne.
+- [![Open-Source Software][OSS Icon]](https://github.com/yktoo/indicator-sound-switcher) [Yktoo Sound Switcher Indicator](https://yktoo.com/en/software/indicator-sound-switcher) - Indicateur de sélecteur d’entrée / sortie sonore pour Ubuntu / Unity.
 
 
 ### Chat Clients
