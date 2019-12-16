@@ -241,8 +241,8 @@
 ### Development
 
 #### Android
-- [![Open-Source Software][OSS Icon]](https://github.com/anbox/anbox) [Anbox](https://anbox.io) - Run Android applications on any GNU/Linux operating system.
-- [Android studio](https://developer.android.com/studio/index.html) - The Official IDE for Android: Android Studio provides the fastest tools for building apps on every type of Android device.
+- [![Open-Source Software][OSS Icon]](https://github.com/anbox/anbox) [Anbox](https://anbox.io) - Exécutez les applications Android sur n'importe quel système d'exploitation GNU / Linux.
+- [Android studio](https://developer.android.com/studio/index.html) - L'IDE officiel pour Android: Android Studio fournit les outils les plus rapides pour créer des applications sur tous les types d'appareils Android.
 
 #### C\+\+
 - [Code::Blocks](http://www.codeblocks.org/) - Code::Blocks is a free C, C++ and Fortran IDE built to meet the most demanding needs of its users. It is designed to be very extensible and fully configurable.
