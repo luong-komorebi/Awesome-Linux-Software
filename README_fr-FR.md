@@ -245,10 +245,10 @@
 - [Android studio](https://developer.android.com/studio/index.html) - L'IDE officiel pour Android: Android Studio fournit les outils les plus rapides pour créer des applications sur tous les types d'appareils Android.
 
 #### C\+\+
-- [Code::Blocks](http://www.codeblocks.org/) - Code::Blocks is a free C, C++ and Fortran IDE built to meet the most demanding needs of its users. It is designed to be very extensible and fully configurable.
-- [Codelite](http://codelite.org/) - A Free, open source, cross platform C,C++,PHP and Node.js IDE.
-- ![Non Free][Money Icon] [Clion](https://www.jetbrains.com/clion/) - A cross-platform and powerful IDE for C and C++! [Nonfree][Money Icon]
-- [![Open-Source Software][OSS Icon]](https://github.com/qt-creator/qt-creator) [QT Creator](https://www.qt.io/ide/) - Fully-stocked cross-platform integrated development environment for easy creation of connected devices, UIs and applications.
+- [Code::Blocks](http://www.codeblocks.org/) - Code :: Blocks est un IDE C, C ++ et Fortran gratuit conçu pour répondre aux besoins les plus exigeants de ses utilisateurs. Il est conçu pour être très extensible et entièrement configurable.
+- [Codelite](http://codelite.org/) - Un IDE C, C ++, PHP et Node.js multiplateforme gratuit et open source.
+- ![Non Free][Money Icon] [Clion](https://www.jetbrains.com/clion/) - Un IDE multiplateforme et puissant pour C et C ++! [Nonfree][Money Icon]
+- [![Open-Source Software][OSS Icon]](https://github.com/qt-creator/qt-creator) [QT Creator](https://www.qt.io/ide/) - Environnement de développement intégré multiplateforme entièrement stocké pour créer facilement des appareils connectés, des interfaces utilisateur et des applications.
 
 #### Database
 - [![Open-Source Software][OSS Icon]](https://github.com/apache/cassandra) [Cassandra](http://cassandra.apache.org/) - Apache Cassandra database is the right choice when you need scalability and high availability without compromising performance. Linear scalability and proven fault-tolerance on commodity hardware or cloud infrastructure make it the perfect platform for mission-critical data.
