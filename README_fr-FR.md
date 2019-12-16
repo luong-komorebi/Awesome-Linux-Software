@@ -171,20 +171,20 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/kvirc/KVIrc) [KVIrc](http://www.kvirc.net/) - KVIrc est un client IRC portable gratuit basé sur l'excellente boîte à outils Qt GUI.
 
 #### Official Client
-- [![Open-Source-Software][OSS Icon]](hhttps://sourceforge.net/p/beebeep/code/HEAD/tree/) [BeeBEEP](http://beebeep.sourceforge.net) - BeeBEEP is an open source, peer to peer, lan messenger. You can talk and share files with anyone inside your local area network. You don't need a server, just download, unzip and start it. Simple, fast and secure.
-- [![Open-Source Software][OSS Icon]](https://github.com/dino/dino) [Dino](https://dino.im) - Clean and modern Jabber/XMPP chat client
-- [Discord](https://discordapp.com/) - All-in-one voice and text chat for gamers that’s free, secure, and works on both your desktop and phone.
-- [![Open-Source Software][OSS Icon]](https://github.com/gitterHQ/services) [Gitter](https://gitter.im/) - Gitter — Where developers come to talk. Gitter is designed to make community messaging, collaboration and discovery as smooth and simple as possible.
-- [![Open-Source Software][OSS Icon]](https://github.com/jitsi) [Jitsi](https://jitsi.org/) - Jitsi is a free and open source multiplatform voice, videoconferencing and instant messaging application for Windows, Linux, Mac OS X and Android.
-- [![Open-Source Software][OSS Icon]](https://github.com/qTox/qTox) [qTox](https://qtox.github.io/) - A simple distributed, secure messenger with audio and video chat capabilities.
-- [![Open-Source Software][OSS Icon]](https://ring.cx/en/documentation/faq#node-106) [Ring](https://ring.cx/) - Chat. Talk. Share. Ring is a free and universal communication platform which preserves the users' privacy and freedoms.
-- [![Open-Source Software][OSS Icon]](https://github.com/vector-im/riot-web) [Riot](https://riot.im/) - A glossy Matrix collaboration client for the web.
-- [Skype](https://www.skype.com/en/) - Skype keeps the world talking, for free.
-- [Slack](https://slack.com/downloads/linux) - real-time messaging, archiving and search for modern teams.
-- [![Open-Source Software][OSS Icon]](https://github.com/telegramdesktop/tdesktop) [Telegram](https://desktop.telegram.org/) - A messaging app with a focus on speed and security, it’s super fast, simple and free.
-- [Viber](https://www.viber.com/en/products/linux) - Viber for Linux lets you send free messages and make free calls to other Viber users on any device and network, in any country.
-- [![Open-Source Software][OSS Icon]](https://github.com/weechat) [Weechat](https://weechat.org/) - WeeChat is a fast, light and extensible chat client.
-- [![Open-Source Software][OSS Icon]](https://github.com/wireapp) [Wire](https://wire.com/en/) - Secure communication. Full privacy.
+- [![Open-Source-Software][OSS Icon]](hhttps://sourceforge.net/p/beebeep/code/HEAD/tree/) [BeeBEEP](http://beebeep.sourceforge.net) - BeeBEEP est un messager lan open source, pair à pair. Vous pouvez parler et partager des fichiers avec n'importe qui au sein de votre réseau local. Vous n'avez pas besoin d'un serveur, téléchargez, décompressez et démarrez-le. Simple, rapide et sécurisé.
+- [![Open-Source Software][OSS Icon]](https://github.com/dino/dino) [Dino](https://dino.im) - Client de chat Jabber / XMPP propre et moderne.
+- [Discord](https://discordapp.com/) - Chat vocal et textuel tout-en-un pour les joueurs, gratuit, sécurisé et compatible avec votre ordinateur de bureau et votre téléphone.
+- [![Open-Source Software][OSS Icon]](https://github.com/gitterHQ/services) [Gitter](https://gitter.im/) - Gitter — Où les développeurs viennent parler. Gitter est conçu pour rendre la messagerie, la collaboration et la découverte communautaires aussi fluides et simples que possible.
+- [![Open-Source Software][OSS Icon]](https://github.com/jitsi) [Jitsi](https://jitsi.org/) - Jitsi est une application vocale, de vidéoconférence et de messagerie instantanée multiplateforme gratuite et open source pour Windows, Linux, Mac OS X et Android.
+- [![Open-Source Software][OSS Icon]](https://github.com/qTox/qTox) [qTox](https://qtox.github.io/) - Un simple messager distribué et sécurisé avec des capacités de chat audio et vidéo.
+- [![Open-Source Software][OSS Icon]](https://ring.cx/en/documentation/faq#node-106) [Ring](https://ring.cx/) - Chat. Parler. Partager. Ring est une plateforme de communication gratuite et universelle qui préserve la vie privée et les libertés des utilisateurs.
+- [![Open-Source Software][OSS Icon]](https://github.com/vector-im/riot-web) [Riot](https://riot.im/) - Un client de collaboration Matrix brillant pour le Web.
+- [Skype](https://www.skype.com/en/) - Skype fait parler le monde gratuitement.
+- [Slack](https://slack.com/downloads/linux) - Messagerie en temps réel, archivage et recherche d'équipes modernes.
+- [![Open-Source Software][OSS Icon]](https://github.com/telegramdesktop/tdesktop) [Telegram](https://desktop.telegram.org/) - Une application de messagerie axée sur la vitesse et la sécurité, elle est super rapide, simple et gratuite.
+- [Viber](https://www.viber.com/en/products/linux) - Viber pour Linux vous permet d'envoyer des messages gratuits et de passer des appels gratuits vers d'autres utilisateurs Viber sur n'importe quel appareil et réseau, dans n'importe quel pays.
+- [![Open-Source Software][OSS Icon]](https://github.com/weechat) [Weechat](https://weechat.org/) - WeeChat est un client de chat rapide, léger et extensible.
+- [![Open-Source Software][OSS Icon]](https://github.com/wireapp) [Wire](https://wire.com/en/) - Communication sécurisée. Intimité totale.
 
 ### Data Backup and Recovery
 - [![Open-Source Software][OSS Icon]](https://borgbackup.readthedocs.io/en/stable/development.html) [Borg Backup](https://borgbackup.readthedocs.io/en/stable/) - A nice tool to backup data.
