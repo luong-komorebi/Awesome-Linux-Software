@@ -163,7 +163,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/saenzramiro/rambox) [Rambox](http://rambox.pro/) - Application de chat et de messagerie gratuite, Open Source et multiplateforme qui combine des applications Web courantes en une seule.
 
 #### Chat Client Utilities
-- [![Open-Source Software][OSS Icon]](https://github.com/Cog-Creators/Red-DiscordBot) [Red Discord Bot](https://cogs.red) - Red Discord Bot is a self-hosted music/chat/trivia bot that can run on a Raspberry Pi and a variety of OS's. It's extensible through a system of "Cogs" that allow it to do more.
+- [![Open-Source Software][OSS Icon]](https://github.com/Cog-Creators/Red-DiscordBot) [Red Discord Bot](https://cogs.red) - Red Discord Bot est un bot de musique / chat / trivia auto-hébergé qui peut fonctionner sur un Raspberry Pi et une variété d'OS. Il est extensible grâce à un système de "Cogs" qui lui permet d'en faire plus.
 
 #### IRC Client
 - [![Open-Source Software][OSS Icon]](https://github.com/hexchat) [HexChat](https://hexchat.github.io/) - HexChat is an IRC client based on XChat, but unlike XChat it’s completely free for both Windows and Unix-like system.
