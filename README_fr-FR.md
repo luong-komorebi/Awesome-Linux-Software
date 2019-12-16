@@ -273,15 +273,15 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/sqlitebrowser/sqlitebrowser) [Sqlite Browser](http://sqlitebrowser.org/) - Créez, gérez et affichez visuellement des fichiers de base de données sqlite.
 
 #### Golang
-- [GoLand](https://www.jetbrains.com/go/) - GoLand is the codename for a new commercial IDE by JetBrains aimed at providing an ergonomic environment for Go development.
+- [GoLand](https://www.jetbrains.com/go/) - GoLang est le nom de code d'un nouvel IDE commercial par JetBrains visant à fournir un environnement ergonomique pour le développement Go.
 
 #### Java
-- [![Open-Source Software][OSS Icon]](https://www.bluej.org/versions.html) [BlueJ](http://bluej.org/) - A free Java Development Environment designed for beginners, used by millions worldwide.
-- [Eclipse](https://eclipse.org/ide/) - Eclipse is famous for our Java Integrated Development Environment (IDE), but can also download packages to support C/C++ IDE and PHP IDE.
-- [![Open-Source Software][OSS Icon]](https://github.com/JetBrains/intellij-community) [IntelliJ IDEA](https://www.jetbrains.com/idea/) - Powerful IDE for JAVA. The Community version is open sourced.
+- [![Open-Source Software][OSS Icon]](https://www.bluej.org/versions.html) [BlueJ](http://bluej.org/) - Un environnement de développement Java gratuit conçu pour les débutants, utilisé par des millions de personnes dans le monde.
+- [Eclipse](https://eclipse.org/ide/) - Eclipse est célèbre pour notre environnement de développement intégré Java (IDE), mais peut également télécharger des packages pour prendre en charge l'IDE C / C ++ et l'IDE PHP.
+- [![Open-Source Software][OSS Icon]](https://github.com/JetBrains/intellij-community) [IntelliJ IDEA](https://www.jetbrains.com/idea/) - IDE puissant pour JAVA. La version communautaire est open source.
 
 #### Javascript
-- [Webstorm](https://www.jetbrains.com/webstorm/) - Powerful IDE for modern JavaScript development, made by JetBrains.
+- [Webstorm](https://www.jetbrains.com/webstorm/) - IDE puissant pour le développement JavaScript moderne, fabriqué par JetBrains.
 
 
 #### Microcomputer and Embedded Devices
