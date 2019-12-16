@@ -204,15 +204,15 @@
 
 #### Desktop Themes
 
-- [![Open-Source Software][OSS Icon]](https://github.com/adapta-project/adapta-gtk-theme) [Adapta Theme](https://github.com/tista500/Adapta) - An adaptive Gtk+ theme based on Material Design Guidelines.
-- [![Open-Source Software][OSS Icon]](https://github.com/EliverLara/Ant) [Ant Theme](http://www.omgubuntu.co.uk/2017/09/ant-flat-gtk-theme-bloody-bite) - Ant is a flat GTK theme for Ubuntu and other GNOME-based Linux desktops it comes in three varieties: vanilla, Bloody, or Dracula.
-- [![Open-Source Software][OSS Icon]](https://github.com/NicoHood/arc-theme) [Arc Theme](https://github.com/NicoHood/arc-theme) - A flat theme with transparent elements
-- [![Open-Source Software][OSS Icon]](https://github.com/solus-project/evopop-gtk-theme) [EvoPop Theme](https://github.com/solus-project/evopop-gtk-theme) - EvoPop is a modern desktop theme suite build for the Solus Project. Its design is mostly flat with a minimal use of shadows for depth.
-- [![Open-Source Software][OSS Icon]](https://github.com/anmoljagetia/Flatabulous) [Flatabulous](https://github.com/anmoljagetia/Flatabulous) - This is a Flat theme for Ubuntu and other Gnome based Linux Systems.
-- [![Open-Source Software][OSS Icon]](https://github.com/andreisergiu98/arc-flatabulous-theme) [Flatabulous Arc Theme](https://github.com/andreisergiu98/arc-flatabulous-theme) - A flat and blue GTK theme that also comes in darker versions.
-- [![Open-Source Software][OSS Icon]](https://github.com/bsundman/Irradiance) [Irradiance Theme](https://github.com/bsundman/Irradiance) - A Unity theme inspired by OSX Yosemite based on Radiance.
-- [![Open-Source Software][OSS Icon]](https://github.com/numixproject/numix-gtk-theme) [Numix Theme](https://itsfoss.com/install-numix-ubuntu/) - A flat and colorful GTK-Theme.
-- [![Open-Source Software][OSS Icon]](https://github.com/bsundman/Yosembiance) [Yosembiance theme](https://github.com/bsundman/Yosembiance) - A modified Ambiance theme (loosely) inspired by OSX Yosemite.
+- [![Open-Source Software][OSS Icon]](https://github.com/adapta-project/adapta-gtk-theme) [Adapta Theme](https://github.com/tista500/Adapta) - Un thème Gtk + adaptatif basé sur les directives de conception des matériaux.
+- [![Open-Source Software][OSS Icon]](https://github.com/EliverLara/Ant) [Ant Theme](http://www.omgubuntu.co.uk/2017/09/ant-flat-gtk-theme-bloody-bite) - Ant est un thème GTK flat pour Ubuntu et d'autres ordinateurs de bureau Linux basés sur GNOME, il existe en trois variétés: vanilla, Bloody ou Dracula.
+- [![Open-Source Software][OSS Icon]](https://github.com/NicoHood/arc-theme) [Arc Theme](https://github.com/NicoHood/arc-theme) - Un thème flat avec des éléments transparents
+- [![Open-Source Software][OSS Icon]](https://github.com/solus-project/evopop-gtk-theme) [EvoPop Theme](https://github.com/solus-project/evopop-gtk-theme) - EvoPop est une suite de thèmes de bureau moderne conçue pour le projet Solus. Son design est principalement plat avec une utilisation minimale d'ombres pour la profondeur.
+- [![Open-Source Software][OSS Icon]](https://github.com/anmoljagetia/Flatabulous) [Flatabulous](https://github.com/anmoljagetia/Flatabulous) - Il s'agit d'un thème Flat pour Ubuntu et d'autres systèmes Linux basés sur Gnome.
+- [![Open-Source Software][OSS Icon]](https://github.com/andreisergiu98/arc-flatabulous-theme) [Flatabulous Arc Theme](https://github.com/andreisergiu98/arc-flatabulous-theme) - Un thème GTK plat et bleu qui existe également en versions plus sombres.
+- [![Open-Source Software][OSS Icon]](https://github.com/bsundman/Irradiance) [Irradiance Theme](https://github.com/bsundman/Irradiance) - Un thème Unity inspiré par OSX Yosemite basé sur Radiance.
+- [![Open-Source Software][OSS Icon]](https://github.com/numixproject/numix-gtk-theme) [Numix Theme](https://itsfoss.com/install-numix-ubuntu/) - Un thème GTK Flat et coloré.
+- [![Open-Source Software][OSS Icon]](https://github.com/bsundman/Yosembiance) [Yosembiance theme](https://github.com/bsundman/Yosembiance) - Un thème Ambiance modifié (vaguement) inspiré par OSX Yosemite.
 
 #### Desktop Widgets and Theme Utilities
 
