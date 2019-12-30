@@ -129,7 +129,7 @@
 - [![Open-Source Software][OSS Icon]](https://about.musixmatch.com/apps/) [MusixMatch](https://about.musixmatch.com/apps/) - Una programa para búsqueda de las letras de canciones. Se puede sincronizar con la música.
 - [Netease Music](http://music.163.com/#/download) - Un reproductor de música para netease - un servicio de música en China.
 - [![Open-Source Software][OSS Icon]](https://github.com/nukeop/nuclear) [Nuclear](http://nuclear.gumblert.tech/) - Basado en Electron, Nuclear es una programa multiplatforma para el reproductor de medios puede utilizar múltiples fuentes para la reproducción.
-- [Ocenaudio](http://www.ocenaudio.com/whatis) - Una programa multiplatforma fácil, es rápido e funcional editor de música. Es un buen programa para editar y analizar archivos de música.
+- [Ocenaudio](http://www.ocenaudio.com/whatis) - Una programa multiplataforma fácil, es rápido e funcional editor de música. Es un buen programa para editar y analizar archivos de música.
 - [![Open-Source Software][OSS Icon]](https://github.com/PedroHLC/osdlyrics) [OSD Lyrics](https://aur.archlinux.org/packages/osdlyrics-git/) - El programa muestra letras para otros reproductores des medios.
 - [![Open-Source Software][OSS Icon]](https://github.com/gkarsay/parlatype) [Parlatype](http://gkarsay.github.io/parlatype/) - Un reproductor de audio para transcribir escrito para GNOME.
 - [![Open-Source Software][OSS Icon]](https://github.com/pithos/pithos) [Pithos](https://pithos.github.io/) - Un cliente nativo para Pandora en linux.
