@@ -909,7 +909,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/netdata/netdata) [NetData](https://my-netdata.io) - Next-gen web based real-time performance and health monitoring for physical and virtual servers, containers and IoT devices. It is also a distributed `statsd` server with automatic visualization for APM (applications performance monitoring).
 - [![Open-Source Software][OSS Icon]](http://git.wpitchoune.net/psensor.git/) [Psensor](https://wpitchoune.net/psensor/) - A graphical hardware temperature monitor for Linux.
 - [![Open-Source Software][OSS Icon]](https://bazaar.launchpad.net/~indicator-multiload/indicator-multiload/trunk/files) [Systemload](https://launchpad.net/indicator-multiload) - A program that shows current system load in a status bar.
-- [![Open-Source Software][OSS Icon]](https://github.com/imsnif/what) [what](https://github.com/imsnif/what) - A terminal network bandwidth monitor.
+- [![Open-Source Software][OSS Icon]](https://github.com/imsnif/bandwhich) [what](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool.
 
 #### Other
 - [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/alien-pkg-convert/files/) [Alien Package Converter](https://sourceforge.net/projects/alien-pkg-convert/) - Package converter. Converts between RPM, DPKG, SLP, and TGZ package formats.
