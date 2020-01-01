@@ -901,6 +901,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/gerardpuig/ubuntu-cleaner) [UbuntuCleaner](https://github.com/gerardpuig/ubuntu-cleaner) - Ubuntu Cleaner is a tool that makes it easy to clean your Ubuntu system.
 
 #### System Monitoring
+- [![Open-Source Software][OSS Icon]](https://github.com/imsnif/bandwhich) [bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool.
 - [![Open-Source Software][OSS Icon]](https://bazaar.launchpad.net/~cpug-devs/cpug/main/files) [CPU-G](https://launchpad.net/cpug) - Easy monitoring the battery life of your Ubuntu laptop.
 - [GD map](http://gdmap.sourceforge.net/) - A tool to visualize disk usage.
 - [![Open-Source Software][OSS Icon]](https://bazaar.launchpad.net/~artfwo/indicator-cpufreq/trunk/files) [indicator-cpufreq](https://launchpad.net/indicator-cpufreq) - It provides the same functionality as the Gnome CPU frequency applet, but doesn't require Gnome panel and works under Unity.
