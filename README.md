@@ -1147,4 +1147,4 @@ Thanks to [**All of Github contributors**](https://github.com/LewisVo/Awesome-Li
 This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
 [OSS Icon]: ./img/oss.svg
-[Money Icon]: https://rawgit.com/LewisVo/Awesome-Linux-Software/master/img/money.svg
+[Money Icon]: ./img/money.svg
