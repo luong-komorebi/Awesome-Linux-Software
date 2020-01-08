@@ -722,6 +722,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/KELiON/cerebro) [Cerebro](https://cerebroapp.com/) - Open-source productivity booster with a brain / MacOS-Spotlight alternative.
 - [![Open-Source Software][OSS Icon]](https://github.com/cboxdoerfer/fsearch) [fsearch](https://github.com/cboxdoerfer/fsearch) - A fast file search utility for Unix-like systems based on GTK+3. Wildcard support, RegEx support, Filter support.
 - [![Open-Source Software][OSS Icon]](https://github.com/p-e-w/plotinus) [Plotinus](https://github.com/p-e-w/plotinus) - A searchable command palette in every modern GTK+ application.
+- [![Open-Source Software][OSS Icon]](https://git.launchpad.net/synapse-project) [Synapse](https://launchpad.net/synapse-project) - Synapse is a semantic launcher written in Vala that you can use to start applications as well as find and access relevant documents and files by making use of the Zeitgeist engine.
 
 #### Miscellaneous
 - [![Open-Source Software][OSS Icon]](https://code.launchpad.net/anoise) [Ambient Noise](https://anoise.tuxfamily.org/) - An ambient noise generator for Linux.
