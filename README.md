@@ -289,6 +289,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/ipython/ipython) [Ipython](https://ipython.org/) - Powerful Python shell.
 - [![Open-Source Software][OSS Icon]](https://github.com/oh-my-fish/oh-my-fish) [Oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - Provides various packages and themes to extend the functionality of your fish shell.
 - [![Open-Source Software][OSS Icon]](https://github.com/robbyrussell/oh-my-zsh) [Oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - A delightful community-driven framework for managing your zsh configuration.
+- [![Open-Source Software][OSS Icon]](https://github.com/koalaman/shellcheck) [Shellcheck](https://www.shellcheck.net/) - ShellCheck, a static analysis tool for shell scripts.
 - [![Open-Source Software][OSS Icon]](http://sourceforge.net/p/zsh/code/ci/master/tree/) [Zsh](https://www.zsh.org/) - A powerful command line shell.
 
 #### Supporting Tools
