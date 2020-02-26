@@ -186,6 +186,7 @@
 - [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/systemrescuecd/) [System Rescue CD](http://www.system-rescue-cd.org/) - SystemRescueCd is a Linux system rescue disk available as a bootable CD-ROM or USB stick for administrating or repairing your system and data after a crash.
 - [![Open-Source Software][OSS Icon]](https://github.com/cgsecurity/testdisk) [Test Disk](https://www.cgsecurity.org/wiki/TestDisk) - TestDisk is powerful free data recovery software! It was primarily designed to help recover lost partitions and/or make non-booting disks bootable again when these symptoms are caused by faulty software.
 - [![Open-Source Software][OSS Icon]](https://github.com/teejee2008/timeshift) [Timeshift](https://launchpad.net/timeshift) - TimeShift is a system restore utility which takes incremental snapshots of the system using rsync and hard-links. These snapshots can be restored at a later date to undo all changes that were made to the system after the snapshot was taken. Snapshots can be taken manually or at regular intervals using scheduled jobs.
+- [![Open-Source Software][OSS Icon]](https://github.com/Fitus/Zaloha.sh) [Zaloha.sh](https://github.com/Fitus/Zaloha.sh) - A minimalistic directory synchronizer. Snapshots are possible via add-on script.
 
 ### Desktop Customization
 
