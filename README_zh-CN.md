@@ -475,7 +475,6 @@
 - [![Open-Source Software][OSS Icon]](https://userbase.kde.org/RSIBreak) [RSIBreak](https://userbase.kde.org/RSIBreak) - RSIBreak takes care of your health and regularly breaks your work to avoid repetitive strain injury.
 - [Recent Noti](https://itsfoss.com/7-best-indicator-applets-for-ubuntu-13-10/) - 一款显示最近通知消息的指示器。
 - [![Open-Source Software][OSS Icon]](https://github.com/jonls/redshift) [Redshift](http://jonls.dk/redshift/) - Redshift 根据你的周边调整你屏幕的色温。当你夜晚在屏幕前工作时，它也许能帮助你减少对眼睛的伤害。
-- [![Open-Source Software][OSS Icon]](https://github.com/binjospookie/--shots) [Shots](https://theshots.ru/) - HTML/CSS/JS 截屏工具。 
 - [![Open-Source Software][OSS Icon]](https://launchpad.net/shutter/) [Shutter](http://shutter-project.org/) - Shutter 基于 Linux 的系统上（比如 Ubuntu）的一款功能丰富的截屏软件。
 - [Simplenote](https://simplenote.com/) - 跨平台笔记软件。Evernote 的竞争者。
 - [![Open-Source Software][OSS Icon]](http://www.speedcrunch.org/) [SpeedCrunch](http://www.speedcrunch.org/) - 一个漂亮，开源，高精度的科学计算器。 

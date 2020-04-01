@@ -602,8 +602,7 @@ es un creador de imágenes GIF de código abierto.
 - [![Open-Source Software][OSS Icon]](https://github.com/lupoDharkael/flameshot) [Flameshot](https://github.com/lupoDharkael/flameshot) - Un software de captura de pantalla fácil de usar y capaz.
 - [![Open-Source Software][OSS Icon]](https://github.com/olav-st/screencloud) [Screencloud](http://screencloud.net/) - ScreenCloud es una herramienta de captura de pantalla fácil de usar que te permite compartir las imágenes en línea. Funciona en múltiples plataformas.
 - [![Open-Source Software][OSS Icon]](https://github.com/ShareX/ShareX) [ShareX](https://getsharex.com) - ShareX es un programa gratuito y de código abierto que le permite capturar o grabar cualquier área de su pantalla y compartirla con solo presionar una tecla. También permite subir imágenes, texto u otros tipos de archivos a más de 80 destinos admitidos entre los que puede elegir.
-- [![Open-Source Software][OSS Icon]](https://github.com/binjospookie/--shots) [Shots](https://theshots.ru/) - Una aplicación de captura de pantalla de HTML / CSS / JS.
-- [![Open-Source Software][OSS Icon]](https://launchpad.net/shutter/) [Shutter](http://shutter-project.org/) - Shutter es un programa de captura de pantalla con muchas características para Linux.
+-[![Open-Source Software][OSS Icon]](https://launchpad.net/shutter/) [Shutter](http://shutter-project.org/) - Shutter es un programa de captura de pantalla con muchas características para Linux.
 
 #### Transmisión
 - [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/minidlna) [ReadyMedia](http://minidlna.sourceforge.net/) - El programa se llamaba **MiniDLNA** pero es un software de servidor de medios simple y rápido. Está diseñado para trabajar con clientes DLNA / UPnP-AV. Puede servir imágenes, música y video a teléfonos inteligentes, televisores, computadoras y algunas consolas de juegos.
