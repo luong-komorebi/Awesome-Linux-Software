@@ -274,6 +274,7 @@
 ### 电子邮件
 - [Evolution](https://wiki.gnome.org/Apps/Evolution/) - Evolution 是一款个人信息管理应用，集成了邮件，日历以及地址簿功能。
 - [Geary](https://wiki.gnome.org/Apps/Geary) - Geary 是一款为 GNOME 3 构建的电子邮件应用。它让你可以在一个简单，现代的界面上阅读和发送邮件。
+- [Kmail](https://kde.org/applications/internet/org.kde.kmail2) - Kmail 是 KDE Plasma 套件中的邮件客户端，支持POP3在内的多种协议，支持收发附件，是一款功能完善的邮件应用。
 - [![Open-Source Software][OSS Icon]](https://github.com/pulb/mailnag) [Mailnag](https://launchpad.net/~pulb/+archive/ubuntu/mailnag) - Mailnag 是一个向 POP3 和 IMAP 服务器检查新邮件的守护程序。 
 - [![Open-Source Software][OSS Icon]](https://github.com/nylas/N1)[N1](https://nylas.com/N1) - 在现代 web 上构建的可扩展桌面邮件应用。 
 - [![Open-Source Software][OSS Icon]](http://sylpheed.sraoss.jp/en/download.html#stable) [Sylpheed](http://sylpheed.sraoss.jp/en/) - 轻量化，用户友好的电子邮件客户端。 
@@ -392,6 +393,7 @@
 - [Hugin](http://hugin.sourceforge.net/) - 基于 Panorama Tools 的一款易用的跨平台全景图像工具链。
 - [![Open-Source Software][OSS Icon]](https://github.com/inkscape/inkscape) [Inkscape](https://inkscape.org/en/) - 不管你是插画家，设计师，web 设计师还是仅仅是需要创建一些矢量图像，它都是一款强大，免费的设计工具
 - [Krita](https://krita.org/en/) - 面向概念艺术家，数字画家以及插画艺术家的开源软件。
+- [KColorChooser](https://kde.org/applications/graphics/org.kde.kcolorchooser) - KColorChooser是 KDE Plasma 桌面套件中的取色器工具。
 - [![Open-Source Software][OSS Icon]](https://github.com/OpenShot/openshot-qt) [OpenShot](http://www.openshot.org/) - OpenShot 是一款免费，易用，功能丰富的 Linxu 视频编辑器。
 - [![Open-Source Software][OSS Icon]](https://gitlab.gnome.org/GNOME/pitivi) [Pitivi](http://www.pitivi.org/) - 一款带有漂亮直观的用户界面的免费视频编辑器，有干净的代码库和出色的社区。
 - [Radiance](http://www.radiance-online.org/) - Radiance - 一款经过验证的光照模拟工具
@@ -419,6 +421,9 @@
 
 ### 互联网
 - [Chrome](https://www.google.com/chrome/browser/desktop/index.html) - 一款流行的浏览器，有着无数插件和应用。
+- [Falkon](https://www.falkon.org) - Falkon 是基于Qt技术构建的网络浏览器，在力求资源占用低的前提下，具有丰富的功能，是相对火狐和Chrome浏览器来讲十分轻量的选择。
+- [Konqueror](https://kde.org/applications/internet/org.kde.konqueror) - Konqueror 是 KDE Plasma 桌面环境中集成了文件管理和网络浏览器的工具，使用Khtml内核渲染网页。
+- [![Open-Source Software][OSS Icon]](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide) [Firefox](https://www.mozilla.org/en-US/firefox/new/) - 一款流行的浏览器，有着无数插件和应用。 
 - [Opera](http://www.opera.com/) - Opera 浏览器是你畅游网络所需的一切。
 - [![Open-Source Software][OSS Icon]](https://gitweb.torproject.org/tor.git) [Tor](https://www.torproject.org/) - Tor 是免费软件和一个开放网络，帮助你对抗流量分析（一种网络检测的方式，威胁个人自由与隐私）。
 - [Vivaldi](https://vivaldi.com/?lang=en) - 一款新兴的浏览器，有着许多的个性化配置。
@@ -428,7 +433,6 @@
 - [![Open-Source Software][OSS Icon]](https://www.chromium.org/) [Chromium](http://askubuntu.com/questions/250773/how-do-i-install-chromium-from-the-command-line) - Chromium 是一个开源浏览器项目，专注于为所有用户带来更安全、快速和稳定的 web 体验。 
 - [![Open-Source Software][OSS Icon]](https://github.com/baedert/corebird) [Corebird](http://corebird.baedert.org/) - corebird 是一款原生 gtk+ twitter 桌面客户端。  
 - [![Open-Source Software][OSS Icon]](https://github.com/jangernert/FeedReader) [FeedReader](https://github.com/jangernert/FeedReader) -  一款现代的桌面应用，被设计用于补充已有的基于 web 的 RSS 账户，将所有的 web 服务优势集中到一个现代桌面应用中。   
-- [![Open-Source Software][OSS Icon]](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide) [Firefox](https://www.mozilla.org/en-US/firefox/new/) - 一款流行的浏览器，有着无数插件和应用。 
 - [![Open-Source Software][OSS Icon]](https://github.com/vinszent/gnome-twitch) [GnomeTwitch](http://gnome-twitch.vinszent.com/) - 在你的 GNU/Linux 桌面上用这款非 Adobe-flash Twitch 客户端享受 Twitch。  
 - [![Open-Source Software][OSS Icon]](https://github.com/EragonJ/Kaku) [Kaku](https://github.com/EragonJ/Kaku/releases) - Ubuntu 开源 youtube 音乐播放器。  
 - [![Open-Source Software][OSS Icon]](https://launchpad.net/~midori/+archive/ubuntu/ppa). [Midori](http://midori-browser.org/) - 一款轻量级的免费浏览器，在低端机器上可以完美运行。  
@@ -436,6 +440,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/rg3/youtube-dl). [youtube-dl](https://github.com/rg3/youtube-dl) -  YouTube 视频下载神器，是一个 Python 编写的命令行视频下载器，同时支持其它一些视频网站或平台。注意：国内用户若要下载 YouTube 视频，需要给它添加 --proxy 参数，指定代理下载。  
 
 ### 办公
+- [Akregator](https://kde.org/applications/internet/org.kde.akregator) - Akregator是一个RSS新闻订阅客户端，能够让用户跟踪新闻或学术网站，而不必手动用浏览器检查内容更新。Akregator的设计方便实用，可以快速搜索和存档页面内容，内部整合了网页浏览器，可以不调用外部浏览器而阅读内容。
 - [Caligra Office](https://www.calligra.org/) - 提供满足办公，图形以及管理需要的综合应用套件。
 - [![Open-Source Software][OSS Icon]](https://git.gnome.org/browse/latexila) [LaTeXila](https://wiki.gnome.org/Apps/LaTeXila) - LaTeXila 是一款 GNOME 桌面下的 LaTeX 编辑器。 
 - [![Open-Source Software][OSS Icon]](https://savannah.gnu.org/projects/texmacs) [TeXmacs](http://www.texmacs.org/) - 一款所见即所得的科学文本编辑器，并可用作一系列计算机代数系统的前端。 
@@ -645,6 +650,7 @@
 ## 桌面环境
 - [![Open-Source Software][OSS Icon]](https://github.com/solus-project/budgie-desktop) [Budgie](https://solus-project.com/budgie/) - Budgie 是一个面向现代用户思想设计的桌面环境，专注于简洁与优雅。
 - [![Open-Source Software][OSS Icon]](https://github.com/linuxmint/Cinnamon) [Cinammon](http://cinnamon.linuxmint.com/) - Cinnamon 努力提供一种传统的用户体验。Cinnamon 是一个 GNOME 3 的 fork。
+- [Enlightenment](https://www.enlightenment.org) - Enlightenment 源自1996年的X11桌面管理器项目，整体外观颇具复古风尚，桌面布局可以使用经典（类Windows）和Dock（类Mac）两种，也可以自定义布局和风格，是KDE和Gnome之外，不可多得的优秀桌面环境项目，但项目目前仍在开发阶段，最新版本为0.23.1。
 - [![Open-Source Software][OSS Icon]](https://github.com/GNOME/gnome-flashback) [GNOME Flashback](https://wiki.gnome.org/Projects/GnomeFlashback) - GNOME Flashback 是 GNOME 3 的一个 shell，最初叫 GNOME fallback 模式。桌面的布局和底层技术都与 GNOME 2 相似。
 - [![Open-Source Software][OSS Icon]](https://github.com/GNOME/gnome-desktop) [Gnome](https://www.gnome.org/gnome-3/) - GNOME 桌面环境是一个有吸引力且直观的的桌面，同时有现代（GNOME）和经典（GNOME Classic）会话模式。 
 - [![Open-Source Software][OSS Icon]](https://github.com/KDE/plasma-desktop) [KDE Plasma](https://www.kde.org/workspaces/plasmadesktop/) - KDE Plasma 桌面环境是一个熟悉的工作环境。Plasma Desktop 提供现代桌面环境体验所需的所有工具，所以你可以从开始就充满生产力。
@@ -711,19 +717,20 @@
 
 ### CentOS
 
- - [官方网站](https://www.centos.org)
- - [关于](https://wiki.centos.org/About)
- - [下载](https://wiki.centos.org/Download)
- - [指南](https://www.centos.org/docs/)
- - [提示和技巧](https://wiki.centos.org/TipsAndTricks)
- - [常见问题](https://www.centos.org/forums/faq.php?sid=4e6d260284c7936505dcf75564717272)
+- [官方网站](https://www.centos.org)
+- [关于](https://wiki.centos.org/About)
+- [下载](https://wiki.centos.org/Download)
+- [指南](https://www.centos.org/docs/)
+- [提示和技巧](https://wiki.centos.org/TipsAndTricks)
+- [常见问题](https://www.centos.org/forums/faq.php?sid=4e6d260284c7936505dcf75564717272)
 
 ### openSUSE
-
+- [openSUSE 社区官网]（https://www.opensuse.org）
 - [什么是 openSUSE](https://www.techopedia.com/definition/28543/opensuse)
 - [尝试 openSUSE 的理由](http://www.pcworld.com/article/222065/5_reasons_to_try_opensuse_114.html)
 - [新手常见问题解答](https://en.opensuse.org/openSUSE:OpenSUSE_for_beginners)
 - [如何安装 openSUSE](https://en.opensuse.org/Portal:Installation)
+- [openSUSE 容器化: Kubic(基于openSUSE MicroOS)](https://kubic.opensuse.org)
 - [评测](https://www.linux.com/news/opensuse-leap-421-review-most-mature-linux-distribution)
 
 ### Ubuntu
