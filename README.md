@@ -932,6 +932,7 @@
 - [![Open-Source Software][OSS Icon]](https://convertall.bellz.org/download.html) [Convertall](https://sourceforge.net/projects/convertall/) - A program that can convert many units of measurement to other units.
 - [![Open-Source Software][OSS Icon]](https://github.com/chamfay/Curlew) [Curlew](https://github.com/chamfay/Curlew) - A GTK media converter for the GNOME desktop.
 - [![Open-Source Software][OSS Icon]](https://git.suckless.org/dmenu/) [dmenu](https://tools.suckless.org/dmenu/) - dmenu is a dynamic menu for X, originally designed for dwm. It manages large numbers of user-defined menu items efficiently.
+- [![Open-Source Software][OSS Icon]](https://github.com/aramg/droidcam/tree/master/linux)[Droidcam](https://www.dev47apps.com/) - DroidCam turns your Android device into a wireless webcam for your PC.
 - [![Open-Source Software][OSS Icon]](https://github.com/thjaeger/easystroke) [EasyStroke](https://github.com/thjaeger/easystroke) - Easystroke is a gesture-recognition application for X11.
 - [![Open-Source Software][OSS Icon]](https://github.com/OzymandiasTheGreat/emoji-keyboard) [Emoji Keyboard](https://github.com/OzymandiasTheGreat/emoji-keyboard) - Virtual keyboard-like emoji picker for Linux.
 - [![Open-Source Software][OSS Icon]](https://github.com/FreeRDP/FreeRDP) [FreeRDP](https://www.freerdp.com/) - FreeRDP is a free implementation of the Remote Desktop Protocol (RDP).
@@ -1027,9 +1028,11 @@
 - [Top 10 command line tools](https://lifehacker.com/top-10-command-line-tools-399468)
 - [![Open-Source Software][OSS Icon]](https://github.com/soimort/translate-shell) [translate-shell](https://www.soimort.org/translate-shell) - Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc.
 - [![Open-Source Software][OSS Icon]](https://github.com/jml/undistract-me) [undistract-me](https://github.com/jml/undistract-me) - A command line program that plays a sound or sends a notification when a long command has finished running in the command line.
+- [![Open-Source Software][OSS Icon]](https://github.com/hashicorp/vagrant) [vagrant](https://www.vagrantup.com/) - Vagrant is a tool for building and distributing development environments.
 - [wicd-curses](https://wiki.archlinux.org/index.php/wicd#Running_Wicd_in_Text_Mode) - Command line WiFi connection manager.
 - [![Open-Source Software][OSS Icon]](https://github.com/BurntSushi/xsv) [xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
 - [![Open-Source Software][OSS Icon]](https://github.com/rg3/youtube-dl) [youtube-dl](https://rg3.github.io/youtube-dl/) - youtube-dl is a command-line program to download videos from YouTube.com and a few more sites. It requires the Python interpreter (2.6, 2.7, or 3.2+), and it is not platform specific.
+- [![Open-Source Software][OSS Icon]](https://github.com/skywind3000/z.lua) [z.lua](https://github.com/skywind3000/z.lua) - A new cd command that helps you navigate faster by learning your habits.
 
 ## Desktop Environments
 - [![Open-Source Software][OSS Icon]](https://github.com/solus-project/budgie-desktop) [Budgie](https://github.com/solus-project/budgie-desktop) - Budgie is a desktop environment designed with the modern user in mind, it focuses on simplicity and elegance.
