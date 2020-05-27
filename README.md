@@ -2,63 +2,64 @@
 
 ![Tux](img/tux.png)
 
-🐧 This repo is a collection of **AWESOME** Linux applications and tools for **any users/developers**.
+🐧 이 레포지토리는 **훌륭한** 리눅스 어플리케이션 모음들과 **어느 유저 및 개발자**들을 위한 도구들 입니다. 
+
 <br>
-🐧 Feel free to **contribute** / **star** / **fork** / **pull request** . Any **recommendations** and **suggestions** are welcome.
+🐧 자유롭게 **기여** / **즐겨찾기** / **포크** / **풀 리퀘스트** 를 해주시기 바라며 어느 **추천**과 **제안**은 언제든지 환영됩니다.
 
 *Update: This repo has a friendlier version available [here](https://luong_komorebi.gitlab.io/Awesome-Linux-Software).*
 
-**Acknowledgement:** *Everything written below is from my own experience in college and after reading various materials. I am neither a professional nor an expert, but a passionate student. Anyone can open a discussion in the issue section, or a pull request if something should be modified or added.*
+**Acknowledgement:** *아래에 쓰여진 모든 것은 대학에서의 나의 경험과 다양한 자료를 읽고 난 후의 경험에서 나온 것입니다. 저는 전문가나 대가는 아니지만 열정적인 학생입니다. 아무나 이슈 섹션에서 토론을 열 수 있으며, 만약 몇몇이 수정되거나 추가된다면 풀 리퀘스트를 할 수 있습니다.*
 
-* Brazilian Portuguese version : [here](https://github.com/LewisVo/Awesome-Linux-Software/blob/master/README_pt-BR.md).
-* Chinese version : [here](https://github.com/LewisVo/Awesome-Linux-Software/blob/master/README_zh-CN.md) or [here](https://github.com/alim0x/Awesome-Linux-Software-zh_CN).
-* Spanish version : [here](https://github.com/LewisVo/Awesome-Linux-Software/blob/master/README_es-ES.md) or [here](https://github.com/SaintFenix/Awesome-Linux-Software/blob/master/README_es-ES.md)
-* Thai version : [here](https://github.com/LewisVo/Awesome-Linux-Software/blob/master/README_th-TH.md).
+* 브라질어 버전 : [here](https://github.com/LewisVo/Awesome-Linux-Software/blob/master/README_pt-BR.md).
+* 중국어 버전 : [here](https://github.com/LewisVo/Awesome-Linux-Software/blob/master/README_zh-CN.md) or [here](https://github.com/alim0x/Awesome-Linux-Software-zh_CN).
+* 스페인어 버전 : [here](https://github.com/LewisVo/Awesome-Linux-Software/blob/master/README_es-ES.md) or [here](https://github.com/SaintFenix/Awesome-Linux-Software/blob/master/README_es-ES.md)
+* 태국어 버전 : [here](https://github.com/LewisVo/Awesome-Linux-Software/blob/master/README_th-TH.md).
 
 ## Table of Contents
 
 - [Applications](#applications)
-    - [Audio](#audio)
-    - [Chat Clients](#chat-clients)
-    - [Data Backup and Recovery](#data-backup-and-recovery)
-    - [Desktop Customization](#desktop-customization)
-    - [Development](#development)
-    - [E-Book Utilities](#e-book-utilities)
-    - [Editors](#editors)
-    - [Education](#education)
-    - [Email Utilities](#email)
-    - [File Manager](#file-manager)
-    - [Games](#games)
-    - [Graphics](#graphics)
-    - [Internet](#internet)
-    - [Office](#office)
-    - [Productivity](#productivity)
-    - [Proxy](#proxy)
-    - [Security](#security)
-    - [Sharing Files](#sharing-files)
-    - [Terminal](#terminal)
-    - [Utilities](#utilities)
-    - [Video](#video)
-    - [Wiki software](#wiki-software)
-    - [Others](#others)
-- [Command Line Utilities](#command-line-utilities)
-- [Desktop Environments](#desktop-environments)
-- [Display Managers](#display-manager)
-   - [Console](#console)
-   - [Graphic](#graphic)
-- [Window Managers](#window-managers)
-   - [Compositors](#compositors)
-   - [Stacking window managers](#stacking-window-managers)
-   - [Tiling window managers](#tiling-window-managers)
-   - [Dynamic window managers](#dynamic-window-managers)
+    - [오디오](#audio)
+    - [Chat clients](#chat-clients)
+    - [데이터 백업과 리커버리](#data-backup-and-recovery)
+    - [데스크톱 커스터마이징](#desktop-customization)
+    - [개발](#development)
+    - [E-북 유틸리티들](#e-book-utilities)
+    - [수정가들](#editors)
+    - [교육](#education)
+    - [이메일](#email)
+    - [파일 매니저](#file-manager)
+    - [게임들](#games)
+    - [그래픽들](#graphics)
+    - [인터넷들](#internet)
+    - [사무실](#office)
+    - [생산력](#productivity)
+    - [대리](#proxy)
+    - [보안](#security)
+    - [파일 공유](#sharing-files)
+    - [터미널](#terminal)
+    - [유틸리티들](#utilities)
+    - [비디오](#video)
+    - [위키 소프트웨어](#wiki-software)
+    - [기타](#others)
+- [유틸리티 커맨드](#command-line-utilities)
+- [데스크톱 환경](#desktop-environments)
+- [디스플레이 관리](#display-manager)
+   - [콘솔](#console)
+   - [그래픽](#graphic)
+- [윈도우 관리](#window-managers)
+   - [합성자](#compositors)
+   - [여러 윈도우 창 관리](#stacking-window-managers)
+   - [바둑판 식 윈도우 창 관리](#tiling-window-managers)
+   - [다이나믹 윈도우 창 관리](#dynamic-window-managers)
 
 ***********
 
-- [Linux News, Apps, and more ....](#linux-news-apps-and-more-)
-- [Reddit](#reddit)
-- [Contributors](#contributors)
-- [Guideline to Contribute](#guideline-to-contribute)
-- [How to Contribute](#unsure-how-to-contribute)
+- [리눅스 뉴스, 어플리케이션들, 그 외 다수 ....](#linux-news-apps-and-more-)
+- [레딧](#reddit)
+- [기여자들](#contributors)
+- [기여를 위한 설명서](#guideline-to-contribute)
+- [어떻게 기여하는가?](#unsure-how-to-contribute)
 
 ***********
 
