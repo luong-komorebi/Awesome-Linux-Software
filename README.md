@@ -6,7 +6,7 @@
 <br>
 🐧 Feel free to **contribute** / **star** / **fork** / **pull request** . Any **recommendations** and **suggestions** are welcome.
 
-*Update: This repo has a friendlier version available [here](https://luong_komorebi.gitlab.io/Awesome-Linux-Software).*
+*Update: This repo has a friendlier version available [here](https://luong-komorebi.gitlab.io/Awesome-Linux-Software).*
 
 **Acknowledgement:** *Everything written below is from my own experience in college and after reading various materials. I am neither a professional nor an expert, but a passionate student. Anyone can open a discussion in the issue section, or a pull request if something should be modified or added.*
 
