@@ -718,6 +718,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/Jmgr/actiona) [Actiona](https://wiki.actiona.tools/doku.php?id=:en:start) - An utility for task automation Ubuntu/Linux. (Previously Actionaz)
 - [![Open-Source Software][OSS Icon]](https://github.com/autokey/autokey) [Autokey](https://github.com/autokey/autokey) - A desktop automation utility for Linux allows you to manage collection of scripts and phrases, and assign abbreviations and hotkeys to these.
 - [![Open-Source Software][OSS Icon]](https://code.launchpad.net/caffeine) [Caffeine](https://launchpad.net/caffeine) - Prevents Ubuntu from automatically going to sleep.
+- [![Open-Source Software][OSS Icon]](https://github.com/federico-terzi/espanso) [espanso](https://espanso.org/) - Cross-platform Text Expander written in Rust
 
 #### Dock
 - [![Open-Source Software][OSS Icon]](https://github.com/Cairo-Dock) [Cairo-Dock](https://glx-dock.org/) - Cairo-Dock is a desktop interface that takes the shape of docks, desklets, panel, etc.
