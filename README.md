@@ -920,6 +920,7 @@
 #### System Monitoring
 - [![Open-Source Software][OSS Icon]](https://github.com/imsnif/bandwhich) [bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool.
 - [![Open-Source Software][OSS Icon]](https://bazaar.launchpad.net/~cpug-devs/cpug/main/files) [CPU-G](https://launchpad.net/cpug) - Easy monitoring the battery life of your Ubuntu laptop.
+- [![Open-Source Software][OSS Icon]](https://github.com/vagnum08/cpupower-gui) [cpupower-gui](https://github.com/vagnum08/cpupower-gui) - Graphical program to easily change the frequency limits and governors of the CPU, similar to cpupower. 
 - [GD map](http://gdmap.sourceforge.net/) - A tool to visualize disk usage.
 - [![Open-Source Software][OSS Icon]](https://bazaar.launchpad.net/~artfwo/indicator-cpufreq/trunk/files) [indicator-cpufreq](https://launchpad.net/indicator-cpufreq) - It provides the same functionality as the Gnome CPU frequency applet, but doesn't require Gnome panel and works under Unity.
 - [![Open-Source Software][OSS Icon]](https://launchpad.net/ubuntu/+source/indicator-multiload) [indicator-multiload](https://launchpad.net/ubuntu/+source/indicator-multiload) - Graphical system load indicator for CPU, ram, etc.
