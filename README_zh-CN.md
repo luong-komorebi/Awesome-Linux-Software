@@ -646,6 +646,8 @@
 - [PathPicker](https://github.com/facebook/PathPicker) - 一个简单的命令行工具，用来处理选择bash 文件输出时的问题
 - [wicd-curses](https://wiki.archlinux.org/index.php/wicd#Running_Wicd_in_Text_Mode) - 命令行 WiFi 连接管理器。
 - [十佳命令行工具](http://lifehacker.com/399468/top-10-command-line-tools)
+- [![Open-Source Software][OSS Icon]](https://g.blicky.net/ncdu.git/) [Ncdu](https://dev.yorhel.nl/ncdu) - 一个基于ncurses界面的磁盘空间分析器
+- [![Open-Source Software][OSS Icon]](https://github.com/bastengao/gncdu) [gncdu](https://github.com/bastengao/gncdu) - 一个go写的基于ncurses界面的磁盘空间分析器
 
 ## 桌面环境
 - [![Open-Source Software][OSS Icon]](https://github.com/solus-project/budgie-desktop) [Budgie](https://solus-project.com/budgie/) - Budgie 是一个面向现代用户思想设计的桌面环境，专注于简洁与优雅。
