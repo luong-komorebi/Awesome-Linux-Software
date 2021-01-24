@@ -75,6 +75,7 @@
 
 ### Audio
 *For a more comprehensive/advanced/better categorized/... list of Linux audio software, you may want to click [here](https://github.com/nodiscc/awesome-linuxaudio)*
+
 - [![Open-Source Software][OSS Icon]](https://github.com/sourcefabric/Airtime) [Airtime](https://www.airtime.pro/) - The open broadcast software for scheduling and remote station management.
 - [![Open-Source Software][OSS Icon]](https://ardour.org/development.html) [Ardour](https://ardour.org/) - Record, Edit, and Mix on Linux.
 - [![Open-Source Software][OSS Icon]](https://audacious-media-player.org/developers) [Audacious](https://audacious-media-player.org/) - An open source audio player that plays your music how you want it, without stealing away your computer’s resources from other tasks.
@@ -226,10 +227,10 @@
 
 #### Android
 - [![Open-Source Software][OSS Icon]](https://github.com/anbox/anbox) [Anbox](https://anbox.io) - Run Android applications on any GNU/Linux operating system.
-- [Android studio](https://developer.android.com/studio/) - The Official IDE for Android: Android Studio provides the fastest tools for building apps on every type of Android device.
+- [![Open-Source Software][OSS Icon]](https://android.googlesource.com/platform/tools/base/+/studio-master-dev/source.md) [Android studio](https://developer.android.com/studio/) - The Official IDE for Android: Android Studio provides the fastest tools for building apps on every type of Android device.
 
 #### C\+\+
-- [Code::Blocks](http://www.codeblocks.org/) - Code::Blocks is a free C/C++ and Fortran IDE built to meet the most demanding needs of its users. It is designed to be very extensible and fully configurable.
+- [![Open-Source Software][OSS Icon]](https://sourceforge.net/p/codeblocks/code/HEAD/tree/) [Code::Blocks](http://www.codeblocks.org/) - Code::Blocks is a free C/C++ and Fortran IDE built to meet the most demanding needs of its users. It is designed to be very extensible and fully configurable.
 - [![Open-Source Software][OSS Icon]](https://wiki.codelite.org/pmwiki.php/Main/Repositories) [Codelite](https://codelite.org/) - A Free, open source, cross platform C/C++, PHP and Node.js IDE.
 - ![Non Free][Money Icon] [Clion](https://www.jetbrains.com/clion/) - A cross-platform and powerful IDE for C/C++.
 - [![Open-Source Software][OSS Icon]](https://github.com/qt-creator/qt-creator) [QT Creator](https://www.qt.io/qt-features-libraries-apis-tools-and-ide/) - Fully-stocked cross-platform integrated development environment for easy creation of connected devices, UIs and applications.
@@ -939,7 +940,7 @@
 - [![Open-Source Software][OSS Icon]](https://convertall.bellz.org/download.html) [Convertall](https://sourceforge.net/projects/convertall/) - A program that can convert many units of measurement to other units.
 - [![Open-Source Software][OSS Icon]](https://github.com/chamfay/Curlew) [Curlew](https://github.com/chamfay/Curlew) - A GTK media converter for the GNOME desktop.
 - [![Open-Source Software][OSS Icon]](https://git.suckless.org/dmenu/) [dmenu](https://tools.suckless.org/dmenu/) - dmenu is a dynamic menu for X, originally designed for dwm. It manages large numbers of user-defined menu items efficiently.
-- [![Open-Source Software][OSS Icon]](https://github.com/aramg/droidcam/tree/master/linux)[Droidcam](https://www.dev47apps.com/) - DroidCam turns your Android device into a wireless webcam for your PC.
+- [![Open-Source Software][OSS Icon]](https://github.com/aramg/droidcam/tree/master/linux) [Droidcam](https://www.dev47apps.com/) - DroidCam turns your Android device into a wireless webcam for your PC.
 - [![Open-Source Software][OSS Icon]](https://github.com/thjaeger/easystroke) [EasyStroke](https://github.com/thjaeger/easystroke) - Easystroke is a gesture-recognition application for X11.
 - [![Open-Source Software][OSS Icon]](https://github.com/OzymandiasTheGreat/emoji-keyboard) [Emoji Keyboard](https://github.com/OzymandiasTheGreat/emoji-keyboard) - Virtual keyboard-like emoji picker for Linux.
 - [![Open-Source Software][OSS Icon]](https://github.com/FreeRDP/FreeRDP) [FreeRDP](https://www.freerdp.com/) - FreeRDP is a free implementation of the Remote Desktop Protocol (RDP).
