@@ -1123,6 +1123,7 @@
 * [Liliputing](https://liliputing.com/)
 * [FAMILUG](https://www.familug.org/)
 * [Ubuntu Geek](https://www.ubuntugeek.com/)
+* [LinuxStans](https://linuxstans.com/)
 
 ### Reddit
 
