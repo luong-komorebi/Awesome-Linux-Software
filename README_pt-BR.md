@@ -99,7 +99,6 @@ Duas versões chinesas desta lista estão disponíveis [aqui](https://github.com
 - [![Open-Source Software][OSS Icon]](https://github.com/enzo1982/freac) [fre:ac](https://www.freac.org/index.php) - fre:ac is a free audio converter and CD ripper with support for various popular formats and encoders. It currently converts between MP3, MP4/M4A, WMA, Ogg Vorbis, FLAC, AAC, WAV and Bonk formats.
 - [Google Play Music](https://www.googleplaymusicdesktopplayer.com/) - Não é oficial, mas é um bonito reprodutor multiplataforma para Google Play Music.[![Open-Source Software][OSS Icon]](https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-)
 - [Gpodder](https://gpodder.github.io/) - Agregador de mídia e cliente de podcast. [![Open-Source Software][OSS Icon]](https://github.com/gpodder/gpodder)
-- [Harmony](http://getharmony.xyz) - Reprodutor de música com interface elegante e compatibilidade com a nuvem. [![Open-Source Software][OSS Icon]](https://github.com/vincelwt/harmony)
 - [![Open-Source Software][OSS Icon]](https://github.com/mtytel/helm) [Helm](http://tytel.org/helm/) - A software synthesizer, that runs either standalone, or as an LV2, VST, VST3 or AU plugin.
 - [Hydrogen](http://www.hydrogen-music.org/hcms/node/21) - Bateria avançada paraa GNU/Linux.
 - [![Open-Source Software][OSS Icon]](https://github.com/trazyn/ieaseMusic) [ieaseMusic](https://github.com/trazyn/ieaseMusic) - iEaseMusic is a multiplatform program built in electron for listening to NetEase Music.

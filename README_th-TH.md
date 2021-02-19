@@ -106,7 +106,6 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-) [Google Play Music](https://www.googleplaymusicdesktopplayer.com/) - โปรแกรมสำหรับเล่นเพลงจาก Google Play Music โดยนักพัฒนาภายนอก รองรับหลายระบบปฏิบัติการสำหรับเครื่องเดสก์ท็อป
 - [![Open-Source Software][OSS Icon]](https://github.com/gpodder/gpodder) [Gpodder](https://gpodder.github.io/) - โปรแกรมสำหรับฟัง podcast และรวบรวมไฟล์มีเดียต่างๆ
 - [![Open-Source Software][OSS Icon]](https://github.com/haecker-felix/gradio/releases/) [GRadio](https://github.com/haecker-felix/gradio/releases/) - ซอฟต์แวร์ที่เกียวข้องกับวิทยุสำหรับ Ubuntu Linux
-- [![Open-Source Software][OSS Icon]](https://github.com/vincelwt/harmony) [Harmony](http://getharmony.xyz) - โปรแกรมเล่นเพลงหน้าตาดี และเล่นไฟล์เพลงที่อยู่บนคลาวด์ได้
 - [![Open-Source Software][OSS Icon]](https://github.com/mtytel/helm) [Helm](http://tytel.org/helm/) - ซอฟต์แวร์สำหรังสังเคราะห์เสียง สามารถใช้ได้ทั้งแบบ stand alone และเป็นแบบปลั๊กอิน LV2, VST, VST3 และ AU
 - [![Open-Source Software][OSS Icon]](https://github.com/hydrogen-music/hydrogen) [Hydrogen](http://www.hydrogen-music.org/hcms/node/21) - เครื่องมือสำหรับกลองขั้นสูงสำหรับ GNU/Linux
 - [![Open-Source Software][OSS Icon]](https://github.com/trazyn/ieaseMusic) [ieaseMusic](https://github.com/trazyn/ieaseMusic) - iEaseMusic is a multiplatform program built in electron for listening to NetEase Music.

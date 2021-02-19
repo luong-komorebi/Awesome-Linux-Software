@@ -81,7 +81,6 @@
 - [![Open-Source Software][OSS Icon]](https://bazaar.launchpad.net/~audio-recorder/audio-recorder/trunk/files) [Audio Recorder](https://launchpad.net/~audio-recorder) - 简单的声音录制软件，就在 ubuntu ppa。
 - [![Open-Source Software][OSS Icon]](https://github.com/clementine-player/Clementine) [Clementine](https://www.clementine-player.org/) - 播放无数的有损和无损音频格式。 
 - [![Open-Source Software][OSS Icon]](https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-) [Google Play Music](https://www.googleplaymusicdesktopplayer.com/) - 非官方但很漂亮的跨平台 Google Play Music 桌面客户端。
-- [![Open-Source Software][OSS Icon]](https://github.com/vincelwt/harmony) [Harmony](http://getharmony.xyz) - 有着整洁界面且兼容云的音乐播放器。 
 - [Hydrogen](http://www.hydrogen-music.org/hcms/node/21) - GNU/Linux 上的高级电子鼓。
 - [![Open-Source Software][OSS Icon]](https://github.com/trazyn/ieaseMusic) [ieaseMusic](https://github.com/trazyn/ieaseMusic) - 优雅的NeteaseMusic桌面应用程序，Rock with NeteaseMusic。 
 - [![Open-Source Software][OSS Icon]](https://github.com/KDE/k3b) [K3b](http://www.k3b.org/) - K3b - Linux 上的 CD/DVD 创建工具 - 为 KDE 特别优化。
