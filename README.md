@@ -1024,6 +1024,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/aksakalli/gtop) [gtop](https://github.com/aksakalli/gtop) - A system monitoring dashboard for terminal. Think 'graphical top', with bar charts, line graphs, pie charts, and etc.
 - [![Open-Source Software][OSS Icon]](https://github.com/hishamhm/htop) [htop](https://hisham.hm/htop/) - An interactive process viewer for Unix systems with improved features and user experience.
 - [![Open-Source Software][OSS Icon]](https://github.com/sharkdp/hyperfine) [hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool.
+- [![Open-Source Software][OSS Icon]](https://github.com/orhun/kmon) [kmon](https://github.com/orhun/kmon) - Linux Kernel Manager and Activity Monitor.
 - [![Open-Source Software][OSS Icon]](https://github.com/oguzhaninan/korkut) [korkut](https://github.com/oguzhaninan/korkut) - Quick and simple image processing at the command line.
 - [![Open-Source Software][OSS Icon]](https://github.com/nojhan/liquidprompt) [Liquidprompt](https://github.com/nojhan/liquidprompt) - A full-featured & carefully designed adaptive prompt for Bash & Zsh.
 - [![Open-Source Software][OSS Icon]](https://github.com/Peltoche/lsd) [lsd](https://github.com/Peltoche/lsd) - The next gen ls command.
