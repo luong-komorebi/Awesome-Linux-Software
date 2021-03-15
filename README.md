@@ -54,7 +54,7 @@
 
 ***********
 
-- [Linux News, Apps, and more ....](#linux-news-apps-and-more-)
+- [Linux News, Apps, and more ....](#linux-news-apps-and-more)
 - [Reddit](#reddit)
 - [Contributors](#contributors)
 - [Guideline to Contribute](#guideline-to-contribute)
@@ -1105,6 +1105,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/i3/i3) [i3 WM](https://i3wm.org/) - A better tiling and dynamic window manager. It's completely written from scratch. The target platforms are GNU/Linux and BSD operating systems.
 - [![Open-Source Software][OSS Icon]](https://github.com/Airblader/i3) [i3-gaps](https://github.com/Airblader/i3) - i3-gaps is i3 with more features.
 - [![Open-Source Software][OSS Icon]](https://github.com/qtile/qtile) [Qtile](http://www.qtile.org/) - qtile is a full-featured, hackable tiling window manager written and configured in Python.
+- [![Open-Source Software][OSS Icon]](https://github.com/pop-os/shell) [Pop!_OS Shell](https://github.com/pop-os/shell) - Pop Shell is a keyboard-driven auto-tiling window manager that run on top of the GNOME shell.
 
 ### Dynamic window managers
 - [![Open-Source Software][OSS Icon]](https://github.com/awesomeWM/awesome) [awesome](https://awesomewm.org) - A highly configurable, next generation framework window manager for X.
@@ -1131,6 +1132,16 @@
 * [FAMILUG](https://www.familug.org/)
 * [Ubuntu Geek](https://www.ubuntugeek.com/)
 * [LinuxStans](https://linuxstans.com/)
+* [9To5Linux](https://9to5linux.com/)
+* [UbuntuHandbook](https://ubuntuhandbook.org/)
+* [LinuxHandbook](https://linuxhandbook.com/)
+* [Open Source](https://opensource.com/)
+* [Slashdot](https://linux.slashdot.org/)
+* [LWN](https://lwn.net/)
+* [GamingOnLinux](https://www.gamingonlinux.com/)
+* [DistroTube](https://distrotube.com/)
+* [LinuxLinks](https://www.linuxlinks.com/)
+* [LinuxSmartphones](https://linuxsmartphones.com/)
 
 ### Reddit
 
