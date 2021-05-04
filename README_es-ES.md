@@ -6,8 +6,6 @@
 <br>
 🐧 Siéntete libre de **contribuir** / **dar star** / **hacer fork** / **crear un pull request**. Cualquier **recomendación** y **sugerencia** son bienvenidos.
 
-*Actualización: Este repositorio tiene una versión más amigable disponible [aquí](https://luongvo209.gitlab.io/Awesome-Linux-Software).*
-
 **Reconocimiento:** *Todo lo escrito a continuación es desde mi propia experiencia en la escuela y después leyendo varios materiales. No soy ni un profesional ni un experto, pero un estudiante apasionado. Cualquiera puede abrir una discusión en la sección "Issues", o hacer un "pull request" si considera que algo debe ser modificado o agregado.*
 
 * versión china : [aquí](https://github.com/LewisVo/Awesome-Linux-Software/blob/master/README_zh-CN.md) o [aquí](https://github.com/alim0x/Awesome-Linux-Software-zh_CN) o [aquí](https://github.com/0xE8551CCB/awesome-linux-software-cn).
