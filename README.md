@@ -725,6 +725,7 @@
 #### Dock
 - [![Open-Source Software][OSS Icon]](https://github.com/Cairo-Dock) [Cairo-Dock](https://glx-dock.org/) - Cairo-Dock is a desktop interface that takes the shape of docks, desklets, panel, etc.
 - [![Open-Source Software][OSS Icon]](https://code.launchpad.net/docky) [Docky](https://launchpad.net/docky) - Docky is a full fledged dock application that makes opening common applications and managing windows easier and quicker.
+- [![Open-Source Software][OSS Icon]](https://invent.kde.org/plasma/latte-dock) [LatteDock](https://store.kde.org/p/1169519/) - Latte is a dock based on plasma frameworks that provides an elegant and intuitive experience for your tasks and plasmoids. 
 - [![Open-Source Software][OSS Icon]](https://git.launchpad.net/plank) [Plank](https://launchpad.net/plank) - Plank is meant to be the simplest dock of apps on the planet.
 
 #### Local Search
