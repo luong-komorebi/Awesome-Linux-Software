@@ -1130,6 +1130,7 @@
 * [ITSFOSS](https://itsfoss.com/)
 * [Lemmy c/Linux](https://lemmy.ml/c/linux)
 * [Liliputing](https://liliputing.com/)
+* [Linoxide](https://linoxide.com/)
 * [LinuxHandbook](https://linuxhandbook.com/)
 * [LinuxLinks](https://www.linuxlinks.com/)
 * [Linux official](https://www.linux.com/)
