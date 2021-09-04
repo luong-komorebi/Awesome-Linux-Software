@@ -230,8 +230,8 @@
 
 #### C\+\+
 - [![Open-Source Software][OSS Icon]](https://sourceforge.net/p/codeblocks/code/HEAD/tree/) [Code::Blocks](http://www.codeblocks.org/) - Code::Blocks is a free C/C++ and Fortran IDE built to meet the most demanding needs of its users. It is designed to be very extensible and fully configurable.
-- [![Open-Source Software][OSS Icon]](https://wiki.codelite.org/pmwiki.php/Main/Repositories) [Codelite](https://codelite.org/) - A Free, open source, cross platform C/C++, PHP and Node.js IDE.
-- ![Non Free][Money Icon] [Clion](https://www.jetbrains.com/clion/) - A cross-platform and powerful IDE for C/C++.
+- [![Open-Source Software][OSS Icon]](https://wiki.codelite.org/pmwiki.php/Main/Repositories) [CodeLite](https://codelite.org/) - A Free, open source, cross platform C/C++, PHP and Node.js IDE.
+- ![Non Free][Money Icon] [CLion](https://www.jetbrains.com/clion/) - A cross-platform and powerful IDE for C/C++.
 - [![Open-Source Software][OSS Icon]](https://github.com/qt-creator/qt-creator) [QT Creator](https://www.qt.io/qt-features-libraries-apis-tools-and-ide/) - Fully-stocked cross-platform integrated development environment for easy creation of connected devices, UIs and applications.
 
 #### Database
