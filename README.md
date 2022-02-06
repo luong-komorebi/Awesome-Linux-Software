@@ -1051,6 +1051,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/hashicorp/vagrant) [vagrant](https://www.vagrantup.com/) - Vagrant is a tool for building and distributing development environments.
 - [wicd-curses](https://wiki.archlinux.org/index.php/wicd#Running_Wicd_in_Text_Mode) - Command line WiFi connection manager.
 - [![Open-Source Software][OSS Icon]](https://github.com/BurntSushi/xsv) [xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
+- [![Open-Source Software][OSS Icon]](https://github.com/iamtalhaasghar/yewtube) [yewtube](https://github.com/iamtalhaasghar/yewtube) -  Terminal based YouTube player and downloader. No Youtube API key required. Forked from mps-youtube. Can be installed using pip as described [here](https://github.com/iamtalhaasghar/yewtube#using-pip).
 - [![Open-Source Software][OSS Icon]](https://github.com/rg3/youtube-dl) [youtube-dl](https://rg3.github.io/youtube-dl/) - youtube-dl is a command-line program to download videos from YouTube.com and a few more sites. It requires the Python interpreter (2.6, 2.7, or 3.2+), and it is not platform specific.
 - [![Open-Source Software][OSS Icon]](https://github.com/skywind3000/z.lua) [z.lua](https://github.com/skywind3000/z.lua) - A new cd command that helps you navigate faster by learning your habits.
 - [![Open-Source Software][OSS Icon]](https://github.com/ajeetdsouza/zoxide) [zoxide](https://github.com/ajeetdsouza/zoxide) - A better way to navigate your filesystem written in Rust.
