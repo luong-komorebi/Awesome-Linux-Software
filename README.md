@@ -659,6 +659,7 @@
 - [![Open-Source Software][OSS Icon]](https://cgit.kde.org/falkon.git) [Falkon](https://www.falkon.org/) - Falkon aims to be a lightweight web browser available through all major platforms.
 - [![Open-Source Software][OSS Icon]](https://github.com/qutebrowser/qutebrowser) [QuteBrowser](https://www.qutebrowser.org/) - A keyboard-driven, vim-like browser based on PyQt5.
 - [Vivaldi](https://vivaldi.com) - A new and rising browser with a lot of customizations.
+- [Wavebox](https://wavebox.io) - A feature-rich Chromium browser that's built for productive working across Google Workspaces, Microsoft Teams, ClickUp, Monday, Atlassian, Asana, AirTable, Slack, and every other web app you use to get work done.
 - [Yandex](https://browser.yandex.com) - Fast and convenient browser.
 
 #### Supportive Tool
