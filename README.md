@@ -796,8 +796,10 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/dail8859/NotepadNext) [Notepad Next](https://github.com/dail8859/NotepadNext) - A cross-platform, reimplementation of Notepad++.
 - [![Open-Source Software][OSS Icon]](https://github.com/notepadqq/notepadqq) [Notepadqq](https://notepadqq.com/wp/) - Notepadqq is a Notepad++-like editor for the Linux desktop.
 - [![Open-Source Software][OSS Icon]](https://github.com/nuttyartist/notes) [Notes](https://www.get-notes.com/) - A clean simple note taking app for Linux.
+- [Obsidian](https://obsidian.md/) - Obsidian is a powerful knowledge base on top of a local folder of plain text Markdown files.
 - [![Open-Source Software][OSS Icon]](https://github.com/patrikx3/onenote) [OneNote](https://www.corifeus.com/onenote) - Linux Electron OneNote.
 - [![Open-Source Software][OSS Icon]](http://orgmode.org/) [Org mode](https://orgmode.org/) - Org mode is for keeping notes, maintaining TODO lists, planning projects, and authoring documents with a fast and effective plain-text system.
+- [![Open-Source Software][OSS Icon]](https://github.com/alainm23/planner) [Planner](https://useplanner.com/) - Planner keeps track of all your tasks, projects, and goals in one beautifully simple place.
 - [![Open-Source Software][OSS Icon]](https://github.com/pbek/QOwnNotes) [QOwnNotes](https://github.com/pbek/QOwnNotes) - QOwnNotes is a plain-text file notepad and todo-list manager with markdown support and ownCloud / Nextcloud integration.
 - [Simplenote](https://simplenote.com/) - A Cross platform notetaking app and Evernote competitor.
 - [![Open-Source Software][OSS Icon]](https://github.com/spsdco/notes) [Springseed](https://github.com/spsdco/notes) - Simple and beautiful note taking app for daily user.
@@ -848,9 +850,12 @@
 
 #### Compartmentalization
 - [![Open-Source Software][OSS Icon]](https://github.com/netblue30/firejail) [Firejail](https://firejail.wordpress.com/) - Firejail is a SUID program that reduces the risk of security breaches by restricting the running environment of untrusted applications using [Linux namespaces](https://lwn.net/Articles/531114/) and [seccomp-bpf](https://l3net.wordpress.com/2015/04/13/firejail-seccomp-guide/).
+- [![Open-Source Software][OSS Icon]](https://gitlab.gnome.org/GNOME/gnome-boxes) [Gnome Boxes](https://apps.gnome.org/app/org.gnome.Boxes/) - Virtualization made simple.
 - [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/kvm/files/) [KVM](https://www.linux-kvm.org/page/Main_Page) - KVM (for Kernel-based Virtual Machine) is a full virtualization solution for Linux on x86 hardware containing virtualization extensions (Intel VT or AMD-V).
 - [![Open-Source Software][OSS Icon]](https://github.com/nanovms/ops/) [ops](https://github.com/nanovms/ops) - OPS is a tool that builds, runs and deploys ordinary linux applications as unikernels.
+- [![Open-Source Software][OSS Icon]](https://github.com/quickemu-project/quickemu) [Quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
 - [![Open-Source Software][OSS Icon]](https://www.virtualbox.org/wiki/Contributor_information) [Virtualbox](https://www.virtualbox.org/wiki/Downloads) - VirtualBox is a general-purpose full virtualizer for x86 hardware, targeted at server, desktop and embedded use.
+- [![Open-Source Software][OSS Icon]](https://github.com/virt-manager/virt-manager) [Virtual Machine Manager](https://virt-manager.org/) - Desktop tool for managing virtual machines via libvirt.
 
 #### Firewall
 - [![Open-Source Software][OSS Icon]](https://github.com/firehol/firehol) [FireHOL](https://firehol.org) - Linux firewall (`iptables`) manager for humans.
@@ -1029,6 +1034,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/xylosper/bomi) [Bomi Player](https://bomi-player.github.io/) - A powerful and easy-to-use multimedia player.
 - [![Open-Source Software][OSS Icon]](https://github.com/celluloid-player/celluloid) [Celluloid](https://celluloid-player.github.io/) -  Simple GTK+ frontend for mpv.
 - [![Open-Source Software][OSS Icon]](https://github.com/GNOME/cheese) [Cheese](https://wiki.gnome.org/Apps/Cheese) - Cheese uses your webcam to take photos and videos, applies fancy special effects and lets you share the fun with others.
+- [![Open-Source Software][OSS Icon]](https://github.com/Rafostar/clapper) [Clapper](https://rafostar.github.io/clapper/) - A GNOME media player built using GJS with GTK4 toolkit and powered by GStreamer with OpenGL rendering.
 - [![Open-Source Software][OSS Icon]](https://github.com/FFmpeg/FFmpeg) [FFmpeg](https://www.ffmpeg.org/) - FFmpeg is a collection of libraries and tools to process multimedia content such as audio, video, subtitles and related metadata.
 - [![Open-Source Software][OSS Icon]](https://github.com/xbmc/xbmc) [Kodi](https://kodi.tv/about/) - An award-winning free and open source (GPL) software media center for playing videos, music, pictures, games, and more.
 - [![Open-Source Software][OSS Icon]](https://github.com/pculture/miro) [Miro](https://www.getmiro.com/) - Free, and open video, music and internet TV application; it brings video channels from thousands of sources and has more free HD than any other platform.
