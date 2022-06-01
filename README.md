@@ -705,6 +705,7 @@ the WebKit rendering engine.
 #### Supportive Tool
 - [Clipgrab](https://clipgrab.org/) - A friendly downloader for YouTube and other sites.
 - [![Open-Source Software][OSS Icon]](https://gitweb.torproject.org/tor.git) [Tor](https://www.torproject.org/) - Tor is free software and an open network that helps you defend against traffic analysis, a form of network surveillance that threatens personal freedom and privacy.
+- [![Open-Source Software][OSS Icon]](https://github.com/Unrud/video-downloader) [Video Downloader](https://github.com/Unrud/video-downloader) - Download videos from websites like YouTube and many others (based on yt-dlp).
 - [![Open-Source Software][OSS Icon]](https://github.com/rg3/youtube-dl) [youtube-dl](https://github.com/rg3/youtube-dl) - Command line video downloader from youtube.com and about other thousand video platforms. It's really awesome, at least for me.
 - [![Open-Source Software][OSS Icon]](https://github.com/MrS0m30n3/youtube-dl-gui) [youtube-dlg](https://mrs0m30n3.github.io/youtube-dl-gui/#downloads) - Youtube-dlg is a GUI for youtube-dl and allows for simple copy and paste from all youtube-dl compatible websites. It can auto-update youtube-dl as well as process a list of URL's in parallel.
 - [![Open-Source Software][OSS Icon]](https://github.com/zerotier/ZeroTierOne) [Zerotier](https://my.zerotier.com) - Zerotier is a program that creates a Virtual Network for only your devices with end to end encryption over the internet. By default Zerotier will manage your virtual network but you can switch to a self-managed network if you prefer.
@@ -829,6 +830,7 @@ the WebKit rendering engine.
 
 #### Time and Task
 - [![Open-Source Software][OSS Icon]](http://bazaar.launchpad.net/~joh/alarm-clock/trunk/files) [Alarm Clock](http://alarm-clock.pseudoberries.com/) - Alarm Clock is a fully-featured alarm clock for your GNOME panel or equivalent.
+- [![Open-Source Software][OSS Icon]](https://gitlab.gnome.org/GNOME/gnome-break-timer/) [Break Timer](https://wiki.gnome.org/Apps/BreakTimer) - A break timer application for GNOME.
 - [![Open-Source Software][OSS Icon]](http://git.calcurse.org/calcurse.git/) [calcurse](https://calcurse.org/) - A calendar and scheduling application for the command line.
 - [![Open-Source Software][OSS Icon]](https://gitlab.gnome.org/GNOME/california) [California](https://wiki.gnome.org/Apps/California) - Complete Calendar app replacement which uses natural language for creating events.
 - ![Nonfree][Money Icon] [Everdo](https://everdo.net/) - TODO list and Getting Things Done® app for all platforms. Beautiful, powerful, not SaaS, free version available.
@@ -893,7 +895,9 @@ the WebKit rendering engine.
 - [![Open-Source Software][OSS Icon]](https://github.com/dani-garcia/vaultwarden) [VaultWarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs.
 
 #### Other
+- [![Open-Source Software][OSS Icon]](https://gitlab.gnome.org/World/Authenticator) [Authenticator](https://gitlab.gnome.org/World/Authenticator) - Simple application for generating Two-Factor Authentication Codes.
 - [![Open-Source Software][OSS Icon]](https://github.com/Cisco-Talos/clamav-devel) [ClamAV](https://www.clamav.net/) - ClamAV is an open source antivirus engine for detecting trojans, viruses, malware & other malicious threats.
+- [![Open-Source Software][OSS Icon]](https://gitlab.gnome.org/World/decoder/) [Decoder](https://gitlab.gnome.org/World/decoder/) - Fancy yet simple QR Codes scanner and generator.
 - [![Open-Source Software][OSS Icon]](https://github.com/fail2ban/fail2ban) [Fail2ban](https://www.fail2ban.org/wiki/index.php/Main_Page) - Fail2ban scans log files (e.g. /var/log/apache/error_log) and bans IPs that show the malicious signs -- too many password failures, seeking for exploits, etc.
 - [![Open-Source Software][OSS Icon]](https://firehol.org/tutorial/fireqos-new-user/) [FireQoS](https://docs.netdata.cloud/collectors/tc.plugin/#tcplugin) - Linux QoS (`tc`) manager for humans.
 - [![Open-Source Software][OSS Icon]](https://git.gnupg.org/) [GnuPG](https://www.gnupg.org/) - GnuPG allows to encrypt and sign your data and communication, features a versatile key management system as well as access modules for all kinds of public key directories.
@@ -1112,6 +1116,7 @@ the WebKit rendering engine.
 - [![Open-Source Software][OSS Icon]](https://github.com/facebook/PathPicker) [PathPicker](https://github.com/facebook/PathPicker) - A command that lets you select files that were output from a previous command in the command line, so you can then run another command or edit them.
 - [![Open-Source Software][OSS Icon]](https://github.com/dylanaraps/pywal) [pywal](https://github.com/dylanaraps/pywal) - pywal is a script that takes an image (or a directory of images), generates a colorscheme (using imagemagick) and then changes all of your open terminal's colors to the new colorscheme on the fly, allowing you to have your terminal colors change with your wallpaper, or other criteria.
 - [![Open-Source Software][OSS Icon]](https://github.com/orakaro/rainbowstream) [Rainbow Stream](https://github.com/orakaro/rainbowstream) - A smart and nice Twitter client on terminal written in Python.
+- [![Open-Source Software][OSS Icon]](https://github.com/BurntSushi/ripgrep) [ripgrep](https://github.com/BurntSushi/ripgrep) - Ripgrep is a line-oriented search tool that recursively searches the current directory for a regex pattern.
 - [![Open-Source Software][OSS Icon]](https://github.com/michael-lazar/rtv) [RTV](https://github.com/michael-lazar/rtv) - Browse Reddit from your terminal .
 - [![Open-Source Software][OSS Icon]](https://github.com/amanusk/s-tui) [s-tui](https://amanusk.github.io/s-tui/) - s-tui is an UI for monitoring your computer's CPU temperature, frequency and utilization in a graphical way from the terminal.
 - [![Open-Source Software][OSS Icon]](https://github.com/ggreer/the_silver_searcher) [The Silver Searcher / Ag](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
