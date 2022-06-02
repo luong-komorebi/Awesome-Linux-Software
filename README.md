@@ -224,6 +224,7 @@
 #### Desktop Widgets and Theme Utilities
 
 - [![Open-Source Software][OSS Icon]](https://github.com/brndnmtthws/conky) [Conky](https://github.com/brndnmtthws/conky) - Conky is a free, light-weight system monitor for X, that displays any kind of information on your desktop.
+- [![Open-Source Software][OSS Icon]](https://github.com/mjakeman/extension-manager) [Extension Manager](https://github.com/mjakeman/extension-manager) - A utility for browsing and installing GNOME Shell Extensions.
 - [Gnome Extensions](https://extensions.gnome.org/) - Extensions for the Gnome Desktop Environment.
 - [Gnome Look](https://www.gnome-look.org/) - A website that hosts a Large amounts of community created icons, shell themes, fonts, and many more assets that can be used to customize your Gnome desktop environment.
 - [![Open-Source Software][OSS Icon]](https://github.com/bilelmoussaoui/Hardcode-Tray) [Hardcode Tray](https://github.com/bilelmoussaoui/Hardcode-Tray) - This script fixes hardcoded tray icons in Linux by automatically detecting your default theme, the right icon size, the hard-coded applications, the right icons for each indicator and fix them.
@@ -569,6 +570,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/Heroic-Games-Launcher) [Heroic Games Launcher](https://heroicgameslauncher.com/) - A Native GOG and Epic Games Launcher for Linux, Windows and Mac.
 - [![Open-Source Software][OSS Icon]](https://github.com/itchio/itch) [itch](https://itch.io/) - The itch.io app. All of your downloads are kept in a single place and are automatically updated. Plenty of free games.
 - [![Open-Source Software][OSS Icon]](https://github.com/lutris/lutris) [Lutris](https://lutris.net/) - Lutris is an open gaming platform for Linux. It helps you install and manage your games in a unified interface.
+- [![Open-Source Software][OSS Icon]](https://github.com/flightlessmango/MangoHud) [MangoHud](https://github.com/flightlessmango/MangoHud) - A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more.
 - [![Open-Source Software][OSS Icon]](https://github.com/MultiMC/Launcher/) [MultiMC](https://multimc.org/) - MultiMC is an alternative launcher for Minecraft. It allows you to have multiple, cleanly separated instances of Minecraft (each with their own mods, resource packs, saves, etc) and helps you manage them and their associated options with a simple and powerful interface.
 - [![Open-Source Software][OSS Icon]](https://repository.playonlinux.com/) [PlayOnLinux](https://www.playonlinux.com) - A front-end for Wine.
 - [![Open-Source Software][OSS Icon]](https://github.com/PolyMC/PolyMC) [PolyMC](https://polymc.org/) - An Open Source Minecraft launcher with the ability to manage multiple instances, accounts and mods. Focused on user freedom and free redistributability.
@@ -736,6 +738,7 @@ the WebKit rendering engine.
 - [![Open-Source Software][OSS Icon]](https://github.com/EragonJ/Kaku) [Kaku](https://github.com/EragonJ/Kaku) - An opensource youtube music player for Ubuntu.
 - [![Open-Source Software][OSS Icon]](https://gitlab.com/news-flash/news_flash_gtk) [NewsFlash](https://gitlab.com/news-flash/news_flash_gtk) - NewsFlash is a program designed to complement an already existing web-based RSS reader account.
 - [![Open-Source Software][OSS Icon]](https://github.com/popcorn-official/popcorn-desktop) [Popcorntime](https://github.com/popcorn-official/popcorn-desktop) - Watch torrent movies instantly.
+- [![Open-Source Software][OSS Icon]](https://github.com/martinrotter/rssguard) [RSS Guard](https://github.com/martinrotter/rssguard) - Feed reader which supports RSS/ATOM/JSON and many web-based feed services.
 
 
 ### Office
