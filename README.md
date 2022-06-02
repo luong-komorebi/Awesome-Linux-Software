@@ -1105,6 +1105,8 @@ the WebKit rendering engine.
 - [![Open-Source Software][OSS Icon]](https://git.launchpad.net/grub-customizer) [GrubCustomizer](https://launchpad.net/grub-customizer) - Grub Customizer is a graphical interface to configure the GRUB2/BURG settings and menuentries.
 - [![Open-Source Software][oss icon]](https://cgit.kde.org/labplot.git) [Labplot](https://labplot.kde.org/) - LabPlot is a KDE-application for interactive graphing and analysis of scientific data.
 - [![Open-Source Software][OSS Icon]](https://github.com/MycroftAI/mycroft-core) [Mycroft](https://github.com/MycroftAI/mycroft-core) - Mycroft is a hackable open source voice assistant.
+- [![Open-Source Software][OSS Icon]](https://gitlab.com/CalcProgrammer1/OpenRGB) [OpenRGB](https://openrgb.org/) - Open source RGB lighting control that doesn't depend on manufacturer software. For Windows, Linux, MacOS.
+- [![Open-Source Software][OSS Icon]](https://github.com/libratbag/piper) [Piper](https://github.com/libratbag/piper) - Piper is a GTK+ application to configure gaming mice.
 - [![Open-Source Software][OSS Icon]](https://github.com/polychromatic/polychromatic) [Polychromatic](https://polychromatic.app/) - Graphical front end and tray applet for configuring Razer peripherals on GNU/Linux.
 - [![Open-Source Software][OSS Icon]](https://github.com/z411/trackma) [trackma](https://z411.github.io/trackma/) - Open multi-site list manager for Unix-like systems.
 
@@ -1255,6 +1257,7 @@ the WebKit rendering engine.
 * [OMG!Ubuntu](https://www.omgubuntu.co.uk/)
 * [Open Source](https://opensource.com/)
 * [Phoronix](https://www.phoronix.com/)
+* [ProtonDB](https://www.protondb.com/)
 * [Repology](https://repology.org/)
 * [Slashdot](https://linux.slashdot.org/)
 * [TecMint](https://www.tecmint.com/)
