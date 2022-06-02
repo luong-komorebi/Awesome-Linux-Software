@@ -423,6 +423,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/bibletime/bibletime) [BibleTime](http://bibletime.info/) - BibleTime is a Bible study application based on the Sword library and Qt toolkit.
 - [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/celestia/) [Celestia](https://celestia.space) - The free space simulation that lets you explore our universe in three dimensions.
 - [![Open-Source Software][OSS Icon]](https://github.com/opp11/chemtool/) [Chemtool](http://ruby.chemie.uni-freiburg.de/~martin/chemtool/) - Chemtool is a small program for drawing chemical structures on Linux.
+- [![Open-Source Software][OSS Icon]](http://github.com/colobot) [Colobot](https://colobot.info/) - Colobot: Gold Edition is a real-time strategy game, where you can program your units (bots) in a language called CBOT, which is similar to C++ and Java.
 - [![Open-Source Software][OSS Icon]](https://code.launchpad.net/epoptes) [Epoptes](https://epoptes.org/) - An open source computer lab management and monitoring tool.
 - [![Open-Source Software][OSS Icon]](https://github.com/gap-system/gap) [GAP](https://www.gap-system.org/) - A computer algebra system for computational discrete algebra with particular emphasis on computational group theory.
 - [![Open-Source Software][OSS Icon]](http://gcompris.net/wiki/Developer%27s_corner) [Gcompris](https://gcompris.net/index-en.html) - GCompris is a high quality educational software suite comprising of numerous activities for children aged 2 to 10.
