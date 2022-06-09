@@ -312,6 +312,7 @@
 - [![Open-Source Software][OSS Icon]](https://phabricator.kde.org/dashboard/view/8/) [KDevelop](https://www.kdevelop.org/) - It is a free, open source IDE, feature-full, plugin extensible IDE for C/C++ and other programming languages.
 - [![Open-Source Software][OSS Icon]](http://www.monodevelop.com/developers/) [MonoDevelop](https://www.monodevelop.com/) - Cross platform IDE for C#, F# and more.
 - [![Open-Source Software][OSS Icon]](https://netbeans.apache.org/participate/index.html) [Netbeans](https://netbeans.apache.org/download/index.html) - NetBeans IDE lets you quickly and easily develop Java desktop, mobile, and web applications, as well as HTML5 applications with HTML, JavaScript, and CSS.
+- [![Open-Source Software][OSS Icon]](https://pantsbuild.org/) [Pants Build](https://www.pantsbuild.org/) - Powerful build system for Python, JVM, Go and more, relies on static analysis instead of boilerplate to make adoption and use easy.
 
 #### PHP
 - [PHPStorm](https://www.jetbrains.com/phpstorm/) - Lightning-smart and powerful PHP IDE from Jetbrain.
