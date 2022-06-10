@@ -315,6 +315,7 @@
 - [![Open-Source Software][OSS Icon]](https://invent.kde.org/kdevelop/kdevelop) [KDevelop](https://www.kdevelop.org/) - It is a free, open source IDE, feature-full, plugin extensible IDE for C/C++ and other programming languages.
 - [![Open-Source Software][OSS Icon]](http://www.monodevelop.com/developers/) [MonoDevelop](https://www.monodevelop.com/) - Cross platform IDE for C#, F# and more.
 - [![Open-Source Software][OSS Icon]](https://netbeans.apache.org/participate/index.html) [Netbeans](https://netbeans.apache.org/download/index.html) - NetBeans IDE lets you quickly and easily develop Java desktop, mobile, and web applications, as well as HTML5 applications with HTML, JavaScript, and CSS.
+- [![Open-Source Software][OSS Icon]](https://pantsbuild.org/) [Pants Build](https://www.pantsbuild.org/) - Powerful build system for Python, JVM, Go and more, relies on static analysis instead of boilerplate to make adoption and use easy.
 
 #### PHP
 - [PHPStorm](https://www.jetbrains.com/phpstorm/) - Lightning-smart and powerful PHP IDE from Jetbrain.
@@ -858,6 +859,7 @@ the WebKit rendering engine.
 - [Simplenote](https://simplenote.com/) - A Cross platform notetaking app and Evernote competitor.
 - [![Open-Source Software][OSS Icon]](https://github.com/spsdco/notes) [Springseed](https://github.com/spsdco/notes) - Simple and beautiful note taking app for daily user.
 - [![Open-Source Software][OSS Icon]](https://github.com/standardnotes/) [Standard Notes](https://standardnotes.com/) - Standard Notes is an end-to-end encrypted note-taking app for digitalists and professionals. Capture your notes, files, and life’s work all in one secure place.
+- [![Open-Source Software][OSS Icon]](https://github.com/Standard-Unix-Notes/unix-notes) [Standard Unix Notes](https://github.com/Standard-Unix-Notes/unix-notes) - GPG Encrypted Notes/Notebook manager for BSD/Linux
 - [![Open-Source Software][OSS Icon]](https://bazaar.launchpad.net/~umang/indicator-stickynotes/trunk/files) [Stickynote](https://launchpad.net/indicator-stickynotes) - Sticky notes on your Linux desktop.
 - [![Open-Source Software][OSS Icon]](https://github.com/tomboy-notes/tomboy) [Tomboy](https://wiki.gnome.org/Apps/Tomboy) - Tomboy is a desktop note-taking application which is simple and easy to use.
 - [![Open-Source Software][OSS Icon]](https://github.com/zadam/trilium) [Trilium Notes](https://github.com/zadam/trilium) - Trilium Notes is a hierarchical note taking application with focus on building large personal knowledge bases.
