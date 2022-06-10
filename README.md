@@ -132,6 +132,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/Soundux/Soundux) [Soundux](https://soundux.rocks/) - A cross-platform soundboard.
 - [![Open-Source Software][OSS Icon]](https://gitlab.gnome.org/GNOME/sound-juicer) [SoundJuicer](https://wiki.gnome.org/Apps/SoundJuicer/Documentation#Installing) - CD Ripping tool for GNOME.
 - [![Open-Source Software][OSS Icon]](https://github.com/Soundnode/soundnode-app) [Soundnode](http://www.soundnodeapp.com/) - An opensource SoundCloud app for desktop.
+- [Spotify](https://www.spotify.com/us/) - Spotify is the best way to listen to music and podcasts on pc, mobile or tablet.
 - [![Open-Source Software][OSS Icon]](https://github.com/devinhalladay/spotio) [Spotio](https://github.com/devinhalladay/spotio) - A Rdio-inspired light theme for the Spotify desktop app.
 - [![Open-Source Software][OSS Icon]](https://github.com/VCVRack/Rack) [VCV Rack](https://vcvrack.com/) - An open-source virtual modular synthesizer.
 - [![Open-Source Software][OSS Icon]](https://github.com/Audio4Linux/Viper4Linux-GUI) [Viper4Linux](https://github.com/Audio4Linux/Viper4Linux-GUI) - An audio effect processor based on Viper4Android.
@@ -145,13 +146,13 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/chatterino/chatterino2) [Chatterino](https://chatterino.com/) - Chatterino is a chat client for Twitch chat. It aims to be an improved/extended version of the Twitch web chat.
 - [![Open-Source Software][OSS Icon]](https://github.com/chatty/chatty) [Chatty](https://chatty.github.io/) - Chatty is a Twitch chat client for everyone who wants to try something new and different from the webchat, but doesn't want the complexity of an IRC client or miss out on the Twitch specific features.
 - [![Open-Source Software][OSS Icon]](https://gitlab.gnome.org/GNOME/fractal) [Fractal](https://wiki.gnome.org/Apps/Fractal) - Fractal is a Matrix messaging app for GNOME written in Rust. Its interface is optimized for collaboration in large groups, such as free software projects.
-- [![Open-Source Software][OSS Icon]](https://github.com/stanfieldr/ghetto-skype) [GhettoSkype](https://github.com/stanfieldr/ghetto-skype) - open source web wrapper for Skype.
+- [![Open-Source Software][OSS Icon]](https://github.com/stanfieldr/ghetto-skype) [GhettoSkype](https://github.com/stanfieldr/ghetto-skype) - Open source web wrapper for Skype.
 - [![Open-Source Software][OSS Icon]](https://github.com/dangeredwolf/ModernDeck) [ModernDeck](https://moderndeck.org/) - A beautiful, powerful Twitter client for desktop.
-- [![Open-Source Software][OSS Icon]](https://github.com/yakyak/yakyak) [YakYak](https://github.com/yakyak/yakyak) -  Desktop chat client for Google Hangouts.
+- [![Open-Source Software][OSS Icon]](https://github.com/yakyak/yakyak) [YakYak](https://github.com/yakyak/yakyak) - Desktop chat client for Google Hangouts.
 
 #### All-in-One Client
-- [![Open-Source-Software][OSS Icon]](https://github.com/meetfranz/franz) [Franz](https://meetfranz.com/) - Franz is a free messaging app that combines many chat & messaging services into one application.
 - [![Open-Source-Software][OSS Icon]](https://github.com/ferdium/ferdium-app) [Ferdium](https://ferdium.org/) - Fork of Ferdi/Franz. Ferdium is a desktop app that helps you organize how you use your favourite apps by combining them into one application.
+- [![Open-Source-Software][OSS Icon]](https://github.com/meetfranz/franz) [Franz](https://meetfranz.com/) - Franz is a free messaging app that combines many chat & messaging services into one application.
 - [![Open-Source Software][OSS Icon]](https://developer.pidgin.im/) [Pidgin](https://pidgin.im/) - A universal chat client.
 - [![Open-Source Software][OSS Icon]](https://github.com/ramboxapp/community-edition) [Rambox](https://rambox.pro/) - Free, Open Source and Cross Platform messaging and emailing app that combines common web applications into one.
 - [![Open-Source Software][OSS Icon]](https://github.com/sonnyp/Tangram) [Tangram](https://github.com/sonnyp/Tangram) - Tangram is a new kind of browser. It is designed to organize and run your Web applications.
@@ -606,6 +607,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/GNOME/gnome-video-arcade) [GNOME Video Arcade](https://wiki.gnome.org/action/show/Apps/GnomeVideoArcade) - GNOME Video Arcade is a simple Mame frontend for any freedesktop.org compliant desktop environment.
 - [![Open-Source Software][OSS Icon]](https://github.com/byuu/higan) [Higan](https://github.com/higan-emu/higan) - Higan is a multi-system emulator that supports emulating a huge number of different systems including: NES, SNES, GameBoy, GameBoy Color, Gameboy Advance, NEC PC Engine, Sega Master System, and more. Here is a guide to install it on Linux [Higan Installation](https://higan.readthedocs.io/en/stable/install/linux/).
 - [![Open-Source Software][OSS Icon]](https://github.com/mamedev/mame) [MAME](https://mamedev.org/) - MAME is an Arcade Cabinet emulator that strives for accuracy, and can play a huge number of different arcade games.
+- [![Open-Source Software][OSS Icon]](https://github.com/Arisotura/melonDS) [melonDS](https://melonds.kuribo64.net/) - melonDS aims at providing fast and accurate Nintendo DS emulation.
 - [![Open-Source Software][OSS Icon]](https://github.com/mgba-emu) [mGBA](https://mgba.io/) - mGBA is an open-source Game Boy Advance emulator.
 - [![Open-Source Software][OSS Icon]](https://github.com/0ldsk00l/nestopia) [nestopia](http://0ldsk00l.ca/nestopia/) - nestopia is a Nintendo Entertainment System/Famicon emulator.
 - [![Open-Source Software][OSS Icon]](https://github.com/PCSX2) [PCSX2](https://pcsx2.net/) - PCSX2 is a free and open-source PlayStation 2 (PS2) emulator.
@@ -889,7 +891,7 @@ the WebKit rendering engine.
 
 #### Widget and Indicator
 - [![Open-Source Software][OSS Icon]](https://bazaar.launchpad.net/~indicator-brightness/indicator-brightness/trunk/files) [Brightness](https://launchpad.net/indicator-brightness) - Brightness indicator for Ubuntu.
-- [![Open-Source Software][OSS Icon]](https://git.launchpad.net/my-weather-indicator) [My Weather Indicator](https://launchpad.net/my-weather-indicator) - Weather indicator and widget for ubuntu.
+- [![Open-Source Software][OSS Icon]](https://git.launchpad.net/my-weather-indicator) [My Weather Indicator](https://launchpad.net/my-weather-indicator) - Weather indicator and widget for Ubuntu.
 - [![Open-Source Software][OSS Icon]](https://bazaar.launchpad.net/~jconti/recent-notifications/trunk/files) [Recent Noti](https://launchpad.net/recent-notifications) - An indicator for recent notification.
 
 ### Proxy
@@ -1309,7 +1311,9 @@ the WebKit rendering engine.
 
 * [Alma Linux](https://www.reddit.com/r/AlmaLinux/)
 * [Arch Linux](https://www.reddit.com/r/archlinux/)
+* [AwesomeWM](https://www.reddit.com/r/awesomewm/)
 * [CentOS](https://www.reddit.com/r/CentOS/)
+* [Cinnamon DE](https://www.reddit.com/r/CinnamonDE/)
 * [Debian](https://www.reddit.com/r/debian/)
 * [elementary OS](https://www.reddit.com/r/elementaryos/)
 * [EndeavourOS](https://www.reddit.com/r/EndeavourOS/)
@@ -1318,6 +1322,7 @@ the WebKit rendering engine.
 * [Garuda Linux](https://www.reddit.com/r/GarudaLinux/)
 * [Gentoo Linux](https://www.reddit.com/r/Gentoo/)
 * [GNOME](https://www.reddit.com/r/gnome/)
+* [i3 Window Manager](https://www.reddit.com/r/i3wm/)
 * [Kali Linux](https://www.reddit.com/r/Kalilinux/)
 * [KDE](https://www.reddit.com/r/kde/)
 * [Kubuntu](https://www.reddit.com/r/Kubuntu/)
@@ -1339,9 +1344,11 @@ the WebKit rendering engine.
 * [Rocky Linux](https://www.reddit.com/r/RockyLinux/)
 * [Slackware](https://www.reddit.com/r/slackware/)
 * [Solus Project](https://www.reddit.com/r/SolusProject/)
+* [Sway Window Manager](https://www.reddit.com/r/swaywm/)
 * [Ubuntu](https://www.reddit.com/r/Ubuntu/)
 * [Unix Porn](https://www.reddit.com/r/unixporn/)
 * [Void Linux](https://www.reddit.com/r/voidlinux/)
+* [Xfce](https://www.reddit.com/r/xfce/)
 * [Xubuntu](https://www.reddit.com/r/xubuntu/)
 * [Zorin OS](https://www.reddit.com/r/zorinos/)
 
