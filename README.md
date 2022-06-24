@@ -1001,7 +1001,7 @@ the WebKit rendering engine.
 - [![Open-Source Software][OSS Icon]](https://trac.transmissionbt.com/browser/trunk) [Transmission](https://www.transmissionbt.com/download/) - Simple, lightweight, multi-platform torrent client.
 - [![Open-Source Software][OSS Icon]](https://github.com/transmission-remote-gui/transgui) [Transmission Remote GUI](https://sourceforge.net/projects/transgui/) - Transmission Remote GUI is a feature rich cross platform front-end to remotely control a Transmission Bit-Torrent client daemon via its RPC protocol.
 - [![Open-Source Software][OSS Icon]](https://sourceforge.net/p/urlget/uget2/ci/master/tree/) [uGet](https://ugetdm.com/) - A download manager that can monitor the clipboard for downloadable links, and can create a list of downloads, and run them in parallel.
-- [Vuze](https://www.vuze.com) - Bittorrent Client is an end-to-end software application for all your torrent needs.
+- [Vuze](https://www.vuze.com) - Vuze is a BitTorrent client used to transfer files via the BitTorrent protocol.
 - [![Open-Source Software][OSS Icon]](https://gitlab.gnome.org/World/warp) [Warp](https://gitlab.gnome.org/World/warp) - Warp allows you to securely send files to each other via the internet or local network by exchanging a word-based code.
 - [![Open-Source Software][OSS Icon]](https://github.com/webtorrent/webtorrent-desktop) [Web Torrent Desktop](https://webtorrent.io/desktop/) - Web Torrent Desktop is for streaming torrents which connects to both BitTorrent and WebTorrent peers.
 - [![Open-Source Software][OSS Icon]](https://github.com/warner/magic-wormhole) [Wormhole](https://github.com/warner/magic-wormhole) - get arbitrary-sized files and directories (or short pieces of text) from one computer to another safely.
