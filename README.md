@@ -92,7 +92,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/wwmm/easyeffects) [EasyEffects](https://github.com/wwmm/easyeffects) - EasyEffects is an advanced audio manipulation tool. It includes an equalizer, limiter, compressor and a reverberation tool, just to mention a few. To complement this there is also a built in spectrum analyzer.
 - [![Open-Source Software][OSS Icon]](https://invent.kde.org/multimedia/elisa) [Elisa](https://elisa.kde.org/) - Elisa is a music player developed by the KDE community that strives to be simple and nice to use.
 - [![Open-Source Software][OSS Icon]](https://github.com/enzo1982/freac) [fre:ac](https://www.freac.org) - fre:ac is a free audio converter and CD ripper with support for various popular formats and encoders. It currently converts between MP3, MP4/M4A, WMA, Ogg Vorbis, FLAC, AAC, WAV and Bonk formats.
-- [![Open-Source Software][OSS Icon]](http://gnormalize.sourceforge.net/) [Gnormalize](http://gnormalize.sourceforge.net/) - An audio converter and CD ripper with ReplayGain normalization algorithms, a metadata (tag) editor and an audio player. It uses gtk2-perl under GNU/Linux.
+- [![Open-Source Software][OSS Icon]](https://gitlab.gnome.org/neithern/g4music) [G4Music](https://gitlab.gnome.org/neithern/g4music) - A fast, fluent, light weight music player written in GTK4.
 - [![Open-Source Software][OSS Icon]](https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-) [Google Play Music Desktop Player](https://www.googleplaymusicdesktopplayer.com/) - Unofficial but beautiful cross-platform desktop player for Google Play Music.
 - [![Open-Source Software][OSS Icon]](https://github.com/gpodder/gpodder) [Gpodder](https://gpodder.github.io/) - Media aggregator and podcast client.
 - [![Open-Source Software][OSS Icon]](https://github.com/mtytel/helm) [Helm](https://tytel.org/helm/) - A software synthesizer, that runs either standalone, or as an LV2, VST, VST3 or AU plugin.
@@ -150,6 +150,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/stanfieldr/ghetto-skype) [GhettoSkype](https://github.com/stanfieldr/ghetto-skype) - Open source web wrapper for Skype.
 - [![Open-Source Software][OSS Icon]](https://github.com/dangeredwolf/ModernDeck) [ModernDeck](https://moderndeck.org/) - A beautiful, powerful Twitter client for desktop.
 - [![Open-Source Software][OSS Icon]](https://invent.kde.org/network/neochat) [NeoChat](https://apps.kde.org/neochat/) - NeoChat is a Matrix client. It allows you to send text messages, videos and audio files to your family, colleagues and friends using the Matrix protocol.
+- [![Open-Source Software][OSS Icon]](https://invent.kde.org/network/tokodon) [Tokodon](https://apps.kde.org/tokodon/) - Tokodon is a Mastodon client for Plasma and Plasma Mobile.
 - [![Open-Source Software][OSS Icon]](https://github.com/yakyak/yakyak) [YakYak](https://github.com/yakyak/yakyak) - Desktop chat client for Google Hangouts.
 
 #### All-in-One Client
