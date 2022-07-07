@@ -1025,13 +1025,7 @@ the WebKit rendering engine.
 - [![Open-Source Software][OSS Icon]](https://sourceforge.net/p/urlget/uget2/ci/master/tree/) [uGet](https://ugetdm.com/) - A download manager that can monitor the clipboard for downloadable links, and can create a list of downloads, and run them in parallel.
 - [![Open-Source Software][OSS Icon]](https://github.com/subhra74/xdm) [Xtreme Download Manager](https://xtremedownloadmanager.com/) - A good download manager with fresh UI for Linux.
 
-#### Remote Desktop
-- [AnyDesk](https://anydesk.com/en) - AnyDesk ensures secure and reliable remote desktop connections for IT professionals and on-the-go individuals alike.
-- [![Open-Source Software][OSS Icon]](https://gitlab.gnome.org/GNOME/connections) [Connections](https://gitlab.gnome.org/GNOME/connections) - Connections allows you to connect to and use other desktops. This can be a great way to access content or software on a different desktop operating system.
-- [![Open-Source Software][OSS Icon]](https://github.com/rustdesk/rustdesk) [Rustdesk](https://rustdesk.com/) - Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative.
-- [Teamviewer](https://www.teamviewer.com/ ) - PC remote control/remote access software, free for personal use.
-
-#### Sharing Software
+#### File Sharing
 - [![Open-Source Software][OSS Icon]](https://github.com/schollz/croc) [croc](https://schollz.com/blog/croc6/) - Easily and securely send things from one computer to another.
 - [CrossFTP](https://www.crossftp.com/ftp-client.htm) - CrossFTP makes it extremely simple to manage the FTP related tasks.
 - [D-lan](http://www.d-lan.net/) - A free LAN file sharing software.
@@ -1039,13 +1033,19 @@ the WebKit rendering engine.
 - [![Open-Source Software][OSS Icon]](http://git.igalia.com/meiga.git) [Meiga](https://meiga.igalia.com/) - A tool that makes possible to share selected local directories via web.
 - [![Open-Source Software][OSS Icon]](https://github.com/nitroshare/nitroshare-desktop) [NitroShare](https://nitroshare.net/) - Cross-Platform network file transfer application.
 - [![Open-Source Software][OSS Icon]](https://github.com/micahflee/onionshare) [OnionShare](https://onionshare.org/) - Securely and anonymously share a file of any size.
-- [PushBullet](https://www.pushbullet.com/) - Pushbullet connects your devices, making them feel like one.
 - [![Open-Source Software][OSS Icon]](https://github.com/sidneys/pb-for-desktop) [PushBullet for desktop](https://sidneys.github.io/pb-for-desktop/) - The missing Desktop application for Pushbullet.
 - [Quazaa](https://sourceforge.net/projects/quazaa/) - A cross platform multi-network peer-to-peer (P2P) file-sharing client.
 - [SpiderOak](https://spideroak.com/) - Real-time collaboration for teams and businesses that care about privacy.
 - [![Open-Source Software][OSS Icon]](https://github.com/syncthing/syncthing) [Syncthing](https://syncthing.net/) - Syncthing replaces proprietary sync and cloud services with something open, trustworthy and decentralized.
 - [![Open-Source Software][OSS Icon]](https://gitlab.gnome.org/World/warp) [Warp](https://gitlab.gnome.org/World/warp) - Warp allows you to securely send files to each other via the internet or local network by exchanging a word-based code.
 - [![Open-Source Software][OSS Icon]](https://github.com/warner/magic-wormhole) [Wormhole](https://github.com/warner/magic-wormhole) - Get arbitrary-sized files and directories (or short pieces of text) from one computer to another safely.
+
+#### Remote Desktop
+- [AnyDesk](https://anydesk.com/en) - AnyDesk ensures secure and reliable remote desktop connections for IT professionals and on-the-go individuals alike.
+- [![Open-Source Software][OSS Icon]](https://gitlab.gnome.org/GNOME/connections) [Connections](https://gitlab.gnome.org/GNOME/connections) - Connections allows you to connect to and use other desktops. This can be a great way to access content or software on a different desktop operating system.
+- [PushBullet](https://www.pushbullet.com/) - Pushbullet connects your devices, making them feel like one.
+- [![Open-Source Software][OSS Icon]](https://github.com/rustdesk/rustdesk) [Rustdesk](https://rustdesk.com/) - Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative.
+- [Teamviewer](https://www.teamviewer.com/ ) - PC remote control/remote access software, free for personal use.
 
 #### Torrent Client
 - [![Open-Source Software][OSS Icon]](https://git.deluge-torrent.org/deluge) [Deluge](https://deluge-torrent.org/) - Deluge is a lightweight, Free Software, cross-platform BitTorrent client.
