@@ -204,6 +204,7 @@
 
 ### Data Backup and Recovery
 - [![Open-Source Software][OSS Icon]](https://github.com/bit-team/backintime/) [Back In Time](https://github.com/bit-team/backintime/) - A simple backup tool for Linux, inspired by "flyback project".
+- [![Open-Source Software][OSS Icon]](https://github.com/vdbsh/backy) [backy](https://github.com/vdbsh/backy) - A tiny multiprocessing utility for file backups.
 - [![Open-Source Software][OSS Icon]](https://borgbackup.readthedocs.io/en/stable/development.html) [BorgBackup](https://borgbackup.readthedocs.io/en/stable/) - A deduplicating backup program with compression and authenticated encryption.
 - [![Open-Source Software][OSS Icon]](https://github.com/bup/bup) [bup](https://bup.github.io/) - Very efficient backup system based on the git packfile format, providing fast incremental saves and global deduplication (among and within files, including virtual machine images).
 - [![Open-Source Software][OSS Icon]](https://gitlab.gnome.org/World/deja-dup) [Deja Dup](https://launchpad.net/deja-dup) - A simple backup tool with built-in encryption.
