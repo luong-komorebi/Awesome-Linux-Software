@@ -154,18 +154,20 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/sindresorhus/caprine) [Caprine](https://sindresorhus.com/caprine) - Elegant Facebook Messenger desktop app.
 - [![Open-Source Software][OSS Icon]](https://github.com/chatterino/chatterino2) [Chatterino](https://chatterino.com/) - Chatterino is a chat client for Twitch chat. It aims to be an improved/extended version of the Twitch web chat.
 - [![Open-Source Software][OSS Icon]](https://github.com/chatty/chatty) [Chatty](https://chatty.github.io/) - Chatty is a Twitch chat client for everyone who wants to try something new and different from the webchat, but doesn't want the complexity of an IRC client or miss out on the Twitch specific features.
+- [![Open-Source Software][OSS Icon]](https://github.com/baedert/corebird) [Corebird](https://corebird.baedert.org/) - Corebird is native gtk+ twitter desktop client.
 - [![Open-Source Software][OSS Icon]](https://gitlab.gnome.org/GNOME/fractal) [Fractal](https://wiki.gnome.org/Apps/Fractal) - Fractal is a Matrix messaging app for GNOME written in Rust. Its interface is optimized for collaboration in large groups, such as free software projects.
 - [![Open-Source Software][OSS Icon]](https://github.com/stanfieldr/ghetto-skype) [GhettoSkype](https://github.com/stanfieldr/ghetto-skype) - Open source web wrapper for Skype.
 - [![Open-Source Software][OSS Icon]](https://github.com/dangeredwolf/ModernDeck) [ModernDeck](https://moderndeck.org/) - A beautiful, powerful Twitter client for desktop.
 - [![Open-Source Software][OSS Icon]](https://invent.kde.org/network/neochat) [NeoChat](https://apps.kde.org/neochat/) - NeoChat is a Matrix client. It allows you to send text messages, videos and audio files to your family, colleagues and friends using the Matrix protocol.
 - [![Open-Source Software][OSS Icon]](https://invent.kde.org/network/tokodon) [Tokodon](https://apps.kde.org/tokodon/) - Tokodon is a Mastodon client for Plasma and Plasma Mobile.
+- [![Open-Source Software][OSS Icon]](https://github.com/SpacingBat3/WebCord) [WebCord](https://github.com/SpacingBat3/WebCord) - A Discord and Fosscord web-based client made with the electron.
 - [![Open-Source Software][OSS Icon]](https://github.com/yakyak/yakyak) [YakYak](https://github.com/yakyak/yakyak) - Desktop chat client for Google Hangouts.
 
 #### All-in-One Client
 - [![Open-Source-Software][OSS Icon]](https://github.com/ferdium/ferdium-app) [Ferdium](https://ferdium.org/) - Fork of Ferdi/Franz. Ferdium is a desktop app that helps you organize how you use your favourite apps by combining them into one application.
 - [![Open-Source-Software][OSS Icon]](https://github.com/meetfranz/franz) [Franz](https://meetfranz.com/) - Franz is a free messaging app that combines many chat & messaging services into one application.
 - [![Open-Source Software][OSS Icon]](https://developer.pidgin.im/) [Pidgin](https://pidgin.im/) - A universal chat client.
-- [![Open-Source Software][OSS Icon]](https://github.com/ramboxapp/community-edition) [Rambox](https://rambox.pro/) - Free, Open Source and Cross Platform messaging and emailing app that combines common web applications into one.
+- [![Open-Source Software][OSS Icon]](https://github.com/ramboxapp/community-edition) [Rambox](https://rambox.pro/) - Free and Cross Platform messaging and emailing app that combines common web applications into one. (FOSS Edition Discontinued)
 - [![Open-Source Software][OSS Icon]](https://github.com/sonnyp/Tangram) [Tangram](https://github.com/sonnyp/Tangram) - Tangram is a new kind of browser. It is designed to organize and run your Web applications.
 
 #### Chat Client Utilities
@@ -301,6 +303,7 @@
 
 #### Game Engines
 - [![Open-Source Software][OSS Icon]](https://github.com/defold/defold) [Defold](https://defold.com/) - Defold is a completely free to use game engine for development of desktop, mobile and web games.
+- [![Open-Source Software][OSS Icon]](https://github.com/AchetaGames/Epic-Asset-Manager) [Epic Asset Manager](https://github.com/AchetaGames/Epic-Asset-Manager) - An unofficial client to install Unreal Engine, download and manage purchased assets, projects, plugins and games from the Epic Games Store.
 - [GameMaker](https://gamemaker.io/en/gamemaker) - The Ultimate 2D Game Development Environment.
 - [![Open-Source Software][OSS Icon]](https://github.com/godotengine) [Godot Engine](https://godotengine.org/) - Godot provides a huge set of common tools, so you can just focus on making your game without reinventing the wheel.
 - [![Open-Source Software][OSS Icon]](https://github.com/o3de/o3de/) [Open 3D Engine](https://www.o3de.org/) - Open 3D Engine (O3DE) is a modular, open source, cross-platform 3D engine built to power anything from AAA games to cinema-quality 3D worlds to high-fidelity simulations.
@@ -433,6 +436,8 @@
 - [![Open-Source Software][OSS Icon]](https://invent.kde.org/utilities/kate) [KWrite](https://apps.kde.org/kwrite/) - KWrite is a text editor by KDE, based on the Kate's editor component.
 - [![Open-Source Software][OSS Icon]](https://github.com/lapce/lapce) [Lapce](https://lapce.dev/) - Lightning-fast and Powerful Code Editor written in Rust.
 - [![Open-Source Software][OSS Icon]](https://github.com/LightTable/LightTable) [Lighttable](http://lighttable.com/) - The next generation code editor! Support live coding.
+- [![Open-Source Software][OSS Icon]](https://github.com/dail8859/NotepadNext) [Notepad Next](https://github.com/dail8859/NotepadNext) - A cross-platform, reimplementation of Notepad++.
+- [![Open-Source Software][OSS Icon]](https://github.com/notepadqq/notepadqq) [Notepadqq](https://notepadqq.com/wp/) - Notepadqq is a Notepad++-like editor for the Linux desktop.
 - [Sublime](https://www.sublimetext.com/) - A very capable text editor with advanced search capabilities, and many powerful plugins to improve its functionality.
 - [![Open-Source Software][OSS Icon]](https://foicica.com/hg/textadept) [Textadept](https://foicica.com/textadept) - Minimalist text editor for programmers. Textadept is extensible with Lua programming language.
 - [![Open-Source Software][OSS Icon]](https://github.com/Microsoft/vscode) [VSCode](https://code.visualstudio.com) - Visual Studio Code is a lightweight but powerful source code editor which runs on your desktop and is available for Windows, OS X and Linux. It comes with built-in support for JavaScript, TypeScript and Node.js and has a rich ecosystem of extensions for other languages (C++, C#, Python, PHP, Golang) and runtimes.
@@ -618,7 +623,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/benjamimgois/goverlay) [GOverlay](https://github.com/benjamimgois/goverlay) - GOverlay is an open source project that aims to create a Graphical UI to help manage Linux overlays.
 - [![Open-Source Software][OSS Icon]](https://github.com/flightlessmango/MangoHud) [MangoHud](https://github.com/flightlessmango/MangoHud) - A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more.
 
-##### W.I.N.E
+##### W.I.N.E.
 - [![Open-Source Software][OSS Icon]](https://github.com/GloriousEggroll/proton-ge-custom) [GE-Proton](https://github.com/GloriousEggroll/proton-ge-custom) - Compatibility tool for Steam Play based on Wine and additional components.
 - [![Open-Source Software][OSS Icon]](https://github.com/Matoking/protontricks) [Protontricks](https://github.com/Matoking/protontricks) - This is a wrapper script that allows you to easily run Winetricks commands for Steam Play/Proton games among other common Wine features, such as launching external Windows executables.
 - [![Open-Source Software][OSS Icon]](https://github.com/DavidoTek/ProtonUp-Qt) [ProtonUp-Qt](https://davidotek.github.io/protonup-qt/) - Install and manage Proton-GE and Luxtorpeda for Steam and Wine-GE for Lutris with this graphical user interface.
@@ -630,6 +635,8 @@
 #### Machine Emulators
 
 ##### All-in-One
+- [![Open-Source Software][OSS Icon]](https://github.com/ares-emulator/ares) [ares](https://ares-emu.net/) - A multi-system console emulation suite.
+- [![Open-Source Software][OSS Icon]](https://github.com/dragoonDorise/EmuDeck) [EmuDeck](https://www.emudeck.com/) - Emulator configurator for Steam Deck.
 - [![Open-Source Software][OSS Icon]](https://github.com/GNOME/gnome-video-arcade) [GNOME Video Arcade](https://wiki.gnome.org/action/show/Apps/GnomeVideoArcade) - GNOME Video Arcade is a simple Mame frontend for any freedesktop.org compliant desktop environment.
 - [![Open-Source Software][OSS Icon]](https://github.com/byuu/higan) [Higan](https://github.com/higan-emu/higan) - Higan is a multi-system emulator that supports emulating a huge number of different systems including: NES, SNES, GameBoy, GameBoy Color, Gameboy Advance, NEC PC Engine, Sega Master System, and more. Here is a guide to install it on Linux [Higan Installation](https://higan.readthedocs.io/en/stable/install/linux/).
 - [![Open-Source Software][OSS Icon]](https://github.com/mamedev/mame) [MAME](https://mamedev.org/) - MAME is an Arcade Cabinet emulator that strives for accuracy, and can play a huge number of different arcade games.
@@ -658,7 +665,10 @@
 
 ##### Sony
 - [![Open-Source Software][OSS Icon]](https://github.com/PCSX2) [PCSX2](https://pcsx2.net/) - PCSX2 is a free and open-source PlayStation 2 (PS2) emulator.
+- [![Open-Source Software][OSS Icon]](https://github.com/jpd002/Play-) [Play!](https://purei.org/) - Play! is a PlayStation2 emulator for Windows, macOS, UNIX, Android, iOS and web browser platforms.
+- [![Open-Source Software][OSS Icon]](https://github.com/hrydgard/ppsspp) [PPSSPP](https://www.ppsspp.org/) - PPSSPP is a PSP emulator that can run games full HD resolution. It can even upscale textures that would otherwise be too blurry as they were made for the small screen of the original PSP.
 - [![Open-Source Software][OSS Icon]](https://github.com/rpcs3) [RPCS3](https://rpcs3.net/) - RPCS3 is a multi-platform open-source Sony PlayStation 3 emulator and debugger written in C++ for Windows, Linux, macOS and FreeBSD.
+- [![Open-Source Software][OSS Icon]](https://github.com/Vita3K/Vita3K) [Vita3K](https://vita3k.org/) - Vita3K is an experimental PlayStation Vita emulator for Windows and Linux.
 
 ##### ZX Spectrum
 - [![Open-Source Software][OSS Icon]](https://sourceforge.net/p/fuse-emulator/) [Fuse](http://fuse-emulator.sourceforge.net/) - Fuse (the Free Unix Spectrum Emulator) is a ZX Spectrum emulator for Unix.
@@ -755,7 +765,7 @@
 - [![Open-Source Software][OSS Icon]](https://gitlab.gnome.org/World/boatswain) [Boatswain](https://gitlab.gnome.org/World/boatswain) - Control your Elgato Stream Deck devices.
 - [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/minidlna) [ReadyMedia](http://minidlna.sourceforge.net/) - Formerly known as **MiniDLNA**, ReadyMedia is a is a simple, lightweight media server software, with the aim of being fully compliant with DLNA/UPnP-AV clients. The MiniDNLA daemon serves media files (music, pictures, and video) to clients on a network such as smartphones, portable media players, televisions, other computers and some gaming systems.
 
-#### Video editor
+#### Video Editor
 - [![Open-Source Software][OSS Icon]](https://git.cinelerra-cv.org/gitweb?p=CinelerraCV.git;a=summary) [Cinelerra-cv](https://cinelerra.org/) - Professional video editing and compositing environment.
 - ![Nonfree][Money Icon] [Davinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) - Revolutionary tools for editing, color correction, audio post and now visual effects, all in a single application.
 - [![Open-Source Software][OSS Icon]](https://github.com/jliljebl/flowblade) [Flowblade](https://github.com/jliljebl/flowblade) - A multitrack non-linear video editor for Linux.
@@ -800,7 +810,6 @@ the WebKit rendering engine.
 #### Web Service Client
 - [![Open-Source Software][OSS Icon]](https://cgit.kde.org/akregator.git/) [Akregator](https://userbase.kde.org/Akregator) - A KDE Feed Reader.
 - [![Open-Source Software][OSS Icon]](https://choqok.kde.org/) [Choqok](https://choqok.kde.org/) - Choqok is a Qt5 client for Twitter, GNU Social, Friendica and Pump.IO.
-- [![Open-Source Software][OSS Icon]](https://github.com/baedert/corebird) [Corebird](https://corebird.baedert.org/) - Corebird is native gtk+ twitter desktop client.
 - [![Open-Source Software][OSS Icon]](https://github.com/jeena/FeedTheMonkey) [FeedTheMonkey](https://github.com/jeena/FeedTheMonkey) - FeedTheMonkey is a desktop client for TinyTinyRSS.
 - [![Open-Source Software][OSS Icon]](https://github.com/yang991178/fluent-reader) [Fluent Reader](https://hyliu.me/fluent-reader/) - Modern desktop RSS reader built with Electron, React, and Fluent UI.
 - [![Open-Source Software][OSS Icon]](https://github.com/FreeTubeApp/FreeTube) [FreeTube](https://freetubeapp.io/) - FreeTube is a YouTube client for Windows, Mac, and Linux built around using YouTube more privately.
@@ -808,7 +817,7 @@ the WebKit rendering engine.
 - [![Open-Source Software][OSS Icon]](https://gitlab.com/news-flash/news_flash_gtk) [NewsFlash](https://gitlab.com/news-flash/news_flash_gtk) - NewsFlash is a program designed to complement an already existing web-based RSS reader account.
 - [![Open-Source Software][OSS Icon]](https://github.com/popcorn-official/popcorn-desktop) [Popcorntime](https://github.com/popcorn-official/popcorn-desktop) - Watch torrent movies instantly.
 - [![Open-Source Software][OSS Icon]](https://github.com/martinrotter/rssguard) [RSS Guard](https://github.com/martinrotter/rssguard) - Feed reader which supports RSS/ATOM/JSON and many web-based feed services.
-- [![Open-Source Software][OSS Icon]](https://streamlink.github.io/streamlink-twitch-gui/) [Streamlink Twitch GUI](https://streamlink.github.io/streamlink-twitch-gui/) - A multi platform Twitch.tv browser for [Streamlink](https://github.com/streamlink/streamlink).
+- [![Open-Source Software][OSS Icon]](https://streamlink.github.io/streamlink-twitch-gui/) [Streamlink Twitch GUI](https://streamlink.github.io/streamlink-twitch-gui/) - A multi platform Twitch.tv browser for [Streamlink](https://streamlink.github.io/).
 
 ### Office
 
@@ -863,12 +872,12 @@ the WebKit rendering engine.
 #### Dock
 - [![Open-Source Software][OSS Icon]](https://github.com/Cairo-Dock) [Cairo-Dock](https://glx-dock.org/) - Cairo-Dock is a desktop interface that takes the shape of docks, desklets, panel, etc.
 - [![Open-Source Software][OSS Icon]](https://code.launchpad.net/docky) [Docky](https://launchpad.net/docky) - Docky is a full fledged dock application that makes opening common applications and managing windows easier and quicker.
-- [![Open-Source Software][OSS Icon]](https://invent.kde.org/plasma/latte-dock) [LatteDock](https://store.kde.org/p/1169519/) - Latte is a dock based on plasma frameworks that provides an elegant and intuitive experience for your tasks and plasmoids.
+- [![Open-Source Software][OSS Icon]](https://invent.kde.org/plasma/latte-dock) [Latte Dock](https://store.kde.org/p/1169519/) - Latte is a dock based on plasma frameworks that provides an elegant and intuitive experience for your tasks and plasmoids.
 - [![Open-Source Software][OSS Icon]](https://git.launchpad.net/plank) [Plank](https://launchpad.net/plank) - Plank is meant to be the simplest dock of apps on the planet.
 
 #### Local Search
 - [![Open-Source Software][OSS Icon]](https://github.com/albertlauncher/albert) [Albert](https://github.com/albertlauncher/albert) - An awesome keyboard launcher for the Linux desktop.
-- [![Open-Source Software][OSS Icon]](https://github.com/DoTheEvo/ANGRYsearch) [AngrySearch](https://github.com/DoTheEvo/ANGRYsearch) - Linux file search, instant results as you type.
+- [![Open-Source Software][OSS Icon]](https://github.com/DoTheEvo/ANGRYsearch) [ANGRYsearch](https://github.com/DoTheEvo/ANGRYsearch) - Linux file search, instant results as you type.
 - [![Open-Source Software][OSS Icon]](https://code.launchpad.net/catfish-search) [Catfish](https://launchpad.net/catfish-search) - Catfish is a versatile file searching tool.
 - [![Open-Source Software][OSS Icon]](https://github.com/KELiON/cerebro) [Cerebro](https://cerebroapp.com/) - Open-source productivity booster with a brain / MacOS-Spotlight alternative.
 - [![Open-Source Software][OSS Icon]](https://github.com/cboxdoerfer/fsearch) [fsearch](https://github.com/cboxdoerfer/fsearch) - A fast file search utility for Unix-like systems based on GTK+3. Wildcard support, RegEx support, Filter support.
@@ -897,8 +906,6 @@ the WebKit rendering engine.
 - [![Open-Source Software][OSS Icon]](https://github.com/logseq/logseq) [Logseq](https://logseq.com/) - Logseq is a privacy-first, open-source knowledge base that works on top of local plain-text Markdown and Org-mode files. Use it to write, organize and share your thoughts, keep your to-do list, and build your own digital garden.
 - [![Open-Source Software][OSS Icon]](https://github.com/dvorka/mindforger) [Mindforger](https://www.mindforger.com/) - Thinking notebook and Markdown editor.
 - [![Open-Source Software][OSS Icon]](https://sourceforge.net/p/nevernote/code/ci/master/tree/) [NixNote](https://sourceforge.net/projects/nevernote/) - An open source client for Evernote.
-- [![Open-Source Software][OSS Icon]](https://github.com/dail8859/NotepadNext) [Notepad Next](https://github.com/dail8859/NotepadNext) - A cross-platform, reimplementation of Notepad++.
-- [![Open-Source Software][OSS Icon]](https://github.com/notepadqq/notepadqq) [Notepadqq](https://notepadqq.com/wp/) - Notepadqq is a Notepad++-like editor for the Linux desktop.
 - [![Open-Source Software][OSS Icon]](https://github.com/nuttyartist/notes) [Notes](https://www.get-notes.com/) - A clean simple note taking app for Linux.
 - [Obsidian](https://obsidian.md/) - Obsidian is a powerful knowledge base on top of a local folder of plain text Markdown files.
 - [![Open-Source Software][OSS Icon]](https://github.com/patrikx3/onenote) [OneNote](https://www.corifeus.com/onenote) - Linux Electron OneNote.
@@ -1021,6 +1028,8 @@ the WebKit rendering engine.
 #### Download Manager
 - [![Open-Source Software][OSS Icon]](https://github.com/aria2/aria2) [aria2](https://aria2.github.io/) - aria2 is a lightweight multi-protocol & multi-source command-line download utility.
 - [Flareget](https://flareget.com/) - Full featured, multi-threaded download manager and accelerator.
+- [Free Download Manager](https://www.freedownloadmanager.org/) - Free Download Manager is a powerful modern cross-platform download accelerator and organizer for Windows, Mac and Linux.
+- [JDownloader](https://jdownloader.org/) - JDownloader is a free download management tool with a huge community of developers that makes downloading as easy and fast as it should be.
 - [![Open-Source Software][OSS Icon]](https://invent.kde.org/network/kget) [KGet](https://apps.kde.org/kget/) - KGet is a versatile and user-friendly download manager.
 - [![Open-Source Software][OSS Icon]](https://sourceforge.net/p/urlget/uget2/ci/master/tree/) [uGet](https://ugetdm.com/) - A download manager that can monitor the clipboard for downloadable links, and can create a list of downloads, and run them in parallel.
 - [![Open-Source Software][OSS Icon]](https://github.com/subhra74/xdm) [Xtreme Download Manager](https://xtremedownloadmanager.com/) - A good download manager with fresh UI for Linux.
@@ -1060,23 +1069,24 @@ the WebKit rendering engine.
 
 ### Terminal
 - [![Open-Source Software][OSS Icon]](https://github.com/jwilm/alacritty) [Alacritty](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator.
+- [![Open-Source Software][OSS Icon]](https://github.com/contour-terminal/contour/) [Contour](https://github.com/contour-terminal/contour/) - Contour is a modern and actually fast, modal, virtual terminal emulator, for everyday use. It is aiming for power users with a modern feature mindset.
 - [![Open-Source Software][OSS Icon]](https://github.com/Swordfish90/cool-retro-term) [Cool Retro Term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal that mimicks the old cathode display.
 - [![Open-Source Software][OSS Icon]](https://github.com/GitSquared/edex-ui) [eDEX-UI](https://github.com/GitSquared/edex-ui) - eDEX-UI is a fullscreen, cross-platform terminal emulator and system monitor that looks and feels like a sci-fi computer interface.
-- [![Open-Source Software][OSS Icon]](https://github.com/GNOME) [GnomeTerminal](https://help.gnome.org/users/gnome-terminal/stable/) - A widely preinstalled terminal emulator in Linux world.
+- [![Open-Source Software][OSS Icon]](https://github.com/GNOME) [Gnome Terminal](https://help.gnome.org/users/gnome-terminal/stable/) - A widely preinstalled terminal emulator in Linux world.
 - [![Open-Source Software][OSS Icon]](https://github.com/Guake/guake) [Guake](http://guake.org/) - Guake is a top-down terminal for Gnome.
 - [![Open-Source Software][OSS Icon]](https://github.com/zeit/hyper) [Hyper](https://hyper.is/) - A terminal built on web technologies.
 - [![Open-Source Software][OSS Icon]](https://github.com/orhun/kermit) [Kermit](https://github.com/orhun/kermit) - A VTE-based, simple and froggy terminal emulator.
 - [![Open-Source Software][OSS Icon]](https://github.com/kovidgoyal/kitty) [Kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature full, OpenGL based terminal emulator.
 - [![Open-Source Software][OSS Icon]](https://github.com/KDE/konsole) [Konsole](https://konsole.kde.org/) - An alternative terminal emulator for KDE desktop environment.
 - [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/rxvt/) [RXVT](http://rxvt.sourceforge.net/) - A terminal emulator for X11, a popular replacement for the standard ‘xterm’.
-- [![Open-Source Software][OSS Icon]](http://dist.schmorp.de/rxvt-unicode/) [RXVT-Unicode](http://software.schmorp.de/pkg/rxvt-unicode.html) - rxvt-unicode is a fork of the well known terminal emulator.
+- [![Open-Source Software][OSS Icon]](http://dist.schmorp.de/rxvt-unicode/) [rxvt-unicode](http://software.schmorp.de/pkg/rxvt-unicode.html) - rxvt-unicode is a fork of the well known terminal emulator.
 - [![Open-Source Software][OSS Icon]](https://bazaar.launchpad.net/~dabisu/sakura/sakura/files) [Sakura](https://launchpad.net/sakura) - Simple but powerful libvte based terminal emulator, supporting utf-8 and input methods as provided by gtk+ and pango libraries.
 - [![Open-Source Software][OSS Icon]](https://git.suckless.org/st) [st](https://st.suckless.org) - st is a simple terminal implementation for X.
 - [![Open-Source Software][OSS Icon]](https://bazaar.launchpad.net/~gnome-terminator/terminator/gtk3/files) [Terminator](https://launchpad.net/terminator) - Feature filled terminal emulator that supports tabs and grids.
 - [![Open-Source Software][OSS Icon]](https://github.com/billiob/terminology) [Terminology](https://www.enlightenment.org/about-terminology) - The pretty and lightweight terminal from the Enlightenment Desktop, it's highly configurable, it works in X11, under a Wayland compositor and even directly in the framebuffer on Linux. Replace your boring text-mode VT with a graphical one that requires no display system.
 - [![Open-Source Software][OSS Icon]](https://github.com/Eugeny/terminus) [Terminus](https://eugeny.github.io/terminus/) - Modern, highly configurable terminal app based on web technologies.
 - [![Open-Source Software][OSS Icon]](https://github.com/nonstop/termit) [Termit](https://github.com/nonstop/termit) - Simple terminal emulator based on vte library, extensible via Lua.
-- [Termius](https://www.termius.com/) - cross-platform terminal with built-in SSH and Telnet.
+- [Termius](https://www.termius.com/) - Cross-platform terminal with built-in SSH and Telnet.
 - [![Open-Source Software][OSS Icon]](https://github.com/lanoxx/tilda) [Tilda](https://github.com/lanoxx/tilda) - A Gtk based drop down terminal for Linux and Unix.
 - [![Open-Source Software][OSS Icon]](https://github.com/gnunn1/tilix) [Tilix](https://gnunn1.github.io/tilix-web/) - A tiling terminal emulator for Linux using GTK+ 3.
 - [![Open-Source Software][OSS Icon]](https://github.com/tmux/tmux) [Tmux](https://github.com/tmux/tmux) - It lets you switch easily between several programs in one terminal, detach them (they keep running in the background) and reattach them to a different terminal. And do a lot more.
@@ -1104,6 +1114,7 @@ the WebKit rendering engine.
 #### System Maintenance
 - [![Open-Source Software][OSS Icon]](https://code.launchpad.net/~teejee2008/apt-toolkit/trunk) [Aptik](https://launchpad.net/apt-toolkit) - A tool for you to organize your Favorite PPAs and manage Packages Easily.
 - [![Open-Source Software][OSS Icon]](https://github.com/TheAssassin/AppImageLauncher) [AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) - Helper application for Linux distributions serving as a kind of "entry point" for running and integrating AppImages.
+- [![Open-Source Software][OSS Icon]](https://github.com/prateekmedia/appimagepool) [AppImage Pool](https://github.com/prateekmedia/appimagepool) - A simple, modern AppImageHub Client.
 - [![Open-Source Software][OSS Icon]](https://github.com/bleachbit/bleachbit) [BleachBit](https://www.bleachbit.org/) - BleachBit quickly frees disk space and tirelessly guards your privacy. Free cache, delete cookies, clear Internet history, shred temporary files, delete logs, and more.
 - [![Open-Source Software][OSS Icon]](https://gitlab.com/volian/nala) [Nala](https://gitlab.com/volian/nala) - Nala is a front-end for libapt-pkg. Specifically we interface using the python-apt api.Especially for newer users it can be hard to understand what apt is trying to do when installing or upgrading.
 - [![Open-Source Software][OSS Icon]](https://github.com/NixOS/nix) [Nix](https://nixos.org/download.html) - Nix is a powerful package manager for Linux and other Unix systems that makes package management reliable and reproducible.
@@ -1145,6 +1156,7 @@ the WebKit rendering engine.
 - [![Open-Source Software][OSS Icon]](https://github.com/FreeRDP/FreeRDP) [FreeRDP](https://www.freerdp.com/) - FreeRDP is a free implementation of the Remote Desktop Protocol (RDP).
 - [![Open-Source Software][OSS Icon]](https://github.com/Simmesimme/Gnome-Pie) [GnomePie](https://github.com/Simmesimme/Gnome-Pie) - The circular app launcher for Linux desktops.
 - [![Open-Source Software][OSS Icon]](https://github.com/gramps-project/gramps) [Gramps](https://github.com/gramps-project/gramps) - Research, organize and share your family tree with Gramps.
+- [![Open-Source Software][OSS Icon]](https://github.com/GSConnect/gnome-shell-extension-gsconnect) [GSConnect](https://extensions.gnome.org/extension/1319/gsconnect/) - KDE Connect implementation for GNOME.
 - [![Open-Source Software][OSS Icon]](https://gitlab.gnome.org/GabMus/HydraPaper) [HydraPaper](https://hydrapaper.gabmus.org/) - Wallpaper manager with multi monitor support.
 - [![Open-Source Software][OSS Icon]](https://github.com/KDE/kdeconnect-kde) [KDE-Connect](https://community.kde.org/KDEConnect) - A tool, that allows one to integrate the Linux desktop with an Android smartphone and can be used to send files to and from the phone and the linux desktop, use the phone as a trackpad, control the desktop media player using the phone, and lots more.
 - [![Open-Source Software][OSS Icon]](https://github.com/jordansissel/keynav) [Keynav](https://www.semicomplete.com/projects/keynav/) - Keynav is a piece of an on-going experiment to make pointer-driven interfaces easier and faster for users to operate. It lets you move the pointer quickly to most points on the screen with only a few keystrokes.
@@ -1292,7 +1304,7 @@ the WebKit rendering engine.
 - [![Open-Source Software][OSS Icon]](https://github.com/zen-kernel/zen-kernel) [Zen](https://github.com/zen-kernel/zen-kernel) - Result of a collaborative effort of kernel hackers to provide the best Linux kernel possible for everyday systems.
 
 ## Desktop Environments
-- [![Open-Source Software][OSS Icon]](https://github.com/BuddiesOfBudgie/budgie-desktop) [Budgie](https://github.com/BuddiesOfBudgie/budgie-desktop) - Budgie is a desktop environment designed with the modern user in mind, it focuses on simplicity and elegance.
+- [![Open-Source Software][OSS Icon]](https://github.com/BuddiesOfBudgie/budgie-desktop) [Budgie](https://blog.buddiesofbudgie.org/) - Budgie is a desktop environment designed with the modern user in mind, it focuses on simplicity and elegance.
 - [![Open-Source Software][OSS Icon]](https://github.com/linuxmint/Cinnamon) [Cinnamon](https://developer.linuxmint.com/) - Cinnamon strives to provide a traditional user experience. Cinnamon is a fork of GNOME 3.
 - [![Open-Source Software][OSS Icon]](https://github.com/linuxdeepin/dde-file-manager/tree/develop2.0) [Deepin DE](https://www.deepin.org/en/dde/) - DDE (Deepin Desktop Environment) is the default desktop environment originally created for the Linux Deepin distribution.
 - [![Open-Source Software][OSS Icon]](https://git.enlightenment.org/core/efl.git) [Enlightenment](https://www.enlightenment.org/about) - A lightweight and pretty desktop environment that is designed to run fast and look good, while retaining a large degree of customization.
@@ -1360,7 +1372,7 @@ the WebKit rendering engine.
 - [![Open-Source Software][OSS Icon]](https://github.com/codic12/worm) [Worm](https://github.com/codic12/worm) - A dynamic, tag-based window manager written in Nim.
 - [![Open-Source Software][OSS Icon]](https://github.com/xmonad/xmonad) [xmonad](https://xmonad.org) - A dynamically tiling X11 window manager that is written and configured in Haskell.
 
-### Linux News, Apps, and more:
+## Linux News, Apps, and more:
 
 * [9To5Linux](https://9to5linux.com/)
 * [AllTop](https://linux.alltop.com/)
@@ -1401,7 +1413,7 @@ the WebKit rendering engine.
 * [Webupd8](http://www.webupd8.org/)
 * [WineDB](https://appdb.winehq.org/)
 
-### Reddit
+## Reddit
 
 * [Alma Linux](https://www.reddit.com/r/AlmaLinux/)
 * [Arch Linux](https://www.reddit.com/r/archlinux/)
@@ -1484,7 +1496,9 @@ Thanks to [**All of Github contributors**](https://github.com/LewisVo/Awesome-Li
 *Items marked with ![Open-Source Software][OSS Icon] are open-source software and link to the source code. Items marked with ![Nonfree][Money Icon] are nonfree (as in nonfree beer) and may cost money to use.*
 
 <br>
+
 *Author's note: Recently, I received feedback from you about the quality of some of the applications on this list. I have tested a lot of these, but not all. If you have any problems with the apps, please: -> head to the dev page (if available) -> make an issue for the dev there -> make an issue here so that I can consider whether I should remove the app from the list. Remember : Every piece of software has it's own merits, so there will never be anything like "best app" or "selective list" here, thank you.*
+
 <br>
 
 ## License
