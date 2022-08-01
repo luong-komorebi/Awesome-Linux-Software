@@ -515,6 +515,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/mate-desktop/caja) [Caja](https://mate-desktop.org/) - Is the default file manager for the MATE desktop environment, it is very fast and simple to use.
 - [![Open-Source Software][OSS Icon]](https://github.com/KDE/dolphin) [Dolphin](https://userbase.kde.org/Dolphin) - Dolphin is the default file manager of the KDE desktop environment featuring usability as well as functionality.
 - [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/doublecmd/) [Double Commander](https://doublecmd.sourceforge.io/) - Double Commander is a cross platform open source file manager with two panels side by side. It is inspired by Total Commander and features some new ideas.
+- [![Open-Source Software][OSS Icon]](https://invent.kde.org/network/konqueror) [Konqueror](https://apps.kde.org/konqueror/) - Konqueror is KDE's Webbrowser and swiss-army-knife for any kind of file-management and file previewing.
 - [![Open-Source Software][OSS Icon]](https://krusader.org/get-involved/index.html) [Krusader](https://krusader.org) - Krusader is an advanced twin panel (commander style) file manager for KDE and other desktops in the \*nix world, similar to Midnight or Total Commander.
 - [![Open-Source Software][OSS Icon]](https://github.com/MidnightCommander/mc) [Midnight Commander](https://www.midnight-commander.org/) - A feature rich full-screen file manager that allows you to copy, move and delete files and whole directory trees.
 - [![Open-Source Software][OSS Icon]](https://github.com/GNOME/nautilus) [Nautilus](https://wiki.gnome.org/Apps/Files) - Nautilus (Files) is a file manager designed to fit the Gnome desktop design and behaviour, giving the user a simple way to navigate and manage its files.
@@ -788,7 +789,6 @@
 - [![Open-Source Software][OSS Icon]](https://gitlab.gnome.org/GNOME/epiphany) [GNOME Web](https://wiki.gnome.org/Apps/Web) - GNOME Web (codename: Epiphany) is a GNOME web browser based on
 the WebKit rendering engine.
 - [![Open-Source Software][OSS Icon]](https://git.savannah.gnu.org/cgit/gnuzilla.git) [IceCat](https://www.gnu.org/software/gnuzilla/) - GNU version of Firefox built for privacy, using only free software and free of trademarks.
-- [![Open-Source Software][OSS Icon]](https://invent.kde.org/network/konqueror) [Konqueror](https://apps.kde.org/konqueror/) - Konqueror is KDE's Webbrowser and swiss-army-knife for any kind of file-management and file previewing.
 - [![Open-Source Software][OSS Icon]](https://gitlab.com/librewolf-community) [LibreWolf](https://librewolf.net/) - Fork of Firefox, with the primary goals of privacy, security and user freedom.
 - [Microsoft Edge](https://www.microsoft.com/en-us/edge) - Microsoft Edge is a cross-platform web browser created and developed by Microsoft.
 - [![Open-Source Software][OSS Icon]](https://launchpad.net/~midori/+archive/ubuntu/ppa) [Midori](https://astian.org/en/midori-browser/) - A lightweight free browser that runs well on low spec systems.
