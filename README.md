@@ -788,6 +788,7 @@
 - [![Open-Source Software][OSS Icon]](https://gitlab.gnome.org/GNOME/epiphany) [GNOME Web](https://wiki.gnome.org/Apps/Web) - GNOME Web (codename: Epiphany) is a GNOME web browser based on
 the WebKit rendering engine.
 - [![Open-Source Software][OSS Icon]](https://git.savannah.gnu.org/cgit/gnuzilla.git) [IceCat](https://www.gnu.org/software/gnuzilla/) - GNU version of Firefox built for privacy, using only free software and free of trademarks.
+- [![Open-Source Software][OSS Icon]](https://invent.kde.org/network/konqueror) [Konqueror](https://apps.kde.org/konqueror/) - Konqueror is KDE's Webbrowser and swiss-army-knife for any kind of file-management and file previewing.
 - [![Open-Source Software][OSS Icon]](https://gitlab.com/librewolf-community) [LibreWolf](https://librewolf.net/) - Fork of Firefox, with the primary goals of privacy, security and user freedom.
 - [Microsoft Edge](https://www.microsoft.com/en-us/edge) - Microsoft Edge is a cross-platform web browser created and developed by Microsoft.
 - [![Open-Source Software][OSS Icon]](https://launchpad.net/~midori/+archive/ubuntu/ppa) [Midori](https://astian.org/en/midori-browser/) - A lightweight free browser that runs well on low spec systems.
