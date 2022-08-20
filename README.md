@@ -1257,6 +1257,7 @@ the WebKit rendering engine.
 - [![Open-Source Software][OSS Icon]](https://github.com/yt-dlp/yt-dlp) [yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes.
 
 ### System Info / Monitoring
+- [![Open-Source Software][OSS Icon]](https://github.com/aristocratos/bpytop) [bpytop](https://github.com/aristocratos/bpytop) - Resource monitor that shows usage and stats for processor, memory, disks, network and processes. Python port and continuation of bashtop.
 - [![Open-Source Software][OSS Icon]](https://github.com/aristocratos/btop) [btop](https://github.com/aristocratos/btop) - Resource monitor that shows usage and stats for processor, memory, disks, network and processes.
 - [![Open-Source Software][OSS Icon]](https://github.com/nicolargo/glances) [Glances](https://nicolargo.github.io/glances/) - Glances is a system monitoring terminal application that shows you your disk usage, ram usage, and cpu usage in a very friendly way using the Ncurses programming library. It is tolerant to windows resizing, and very low on system ram usage.
 - [![Open-Source Software][OSS Icon]](https://github.com/aksakalli/gtop) [gtop](https://github.com/aksakalli/gtop) - A system monitoring dashboard for terminal. Think 'graphical top', with bar charts, line graphs, pie charts, and etc.
