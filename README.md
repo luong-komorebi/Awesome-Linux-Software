@@ -1418,7 +1418,7 @@ the WebKit rendering engine.
 
 ## Reddit
 
-* [Alma Linux](https://www.reddit.com/r/AlmaLinux/)
+* [AlmaLinux](https://www.reddit.com/r/AlmaLinux/)
 * [Arch Linux](https://www.reddit.com/r/archlinux/)
 * [Asahi Linux](https://www.reddit.com/r/AsahiLinux/)
 * [AwesomeWM](https://www.reddit.com/r/awesomewm/)
