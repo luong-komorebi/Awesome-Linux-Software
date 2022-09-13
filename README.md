@@ -869,6 +869,7 @@ the WebKit rendering engine.
 - [![Open-Source Software][OSS Icon]](https://github.com/rafaelmardojai/blanket) [Blanket](https://github.com/rafaelmardojai/blanket) - Improve focus and increase your productivity by listening to different sounds.
 - [![Open-Source Software][OSS Icon]](https://code.launchpad.net/caffeine) [Caffeine](https://launchpad.net/caffeine) - Prevents Ubuntu from automatically going to sleep.
 - [![Open-Source Software][OSS Icon]](https://github.com/federico-terzi/espanso) [espanso](https://espanso.org/) - Cross-platform Text Expander written in Rust.
+- [![Open-Source Software][OSS Icon]](https://github.com/mautosoft/maxautoclicker/) [Max Auto Clicker](https://maxautoclicker.blogspot.com/) - Automate your mouse clicks easily with this awesome cross-platform application (for Windows and Linux Desktops).
 - [![Open-Source Software][OSS Icon]](https://github.com/robiot/xclicker) [XClicker](https://xclicker.xyz/) - A blazing fast gui autoclicker for linux.
 
 #### Dock
