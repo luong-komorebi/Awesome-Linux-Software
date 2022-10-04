@@ -350,6 +350,7 @@
 - [![Open-Source Software][OSS Icon]](http://sourceforge.net/p/zsh/code/ci/master/tree/) [Zsh](https://www.zsh.org/) - A powerful command line shell.
 
 #### Supporting Tools
+- [![Open-Source Software][OSS Icon]](https://github.com/kspalaiologos/bzip3) [bzip3](https://github.com/kspalaiologos/bzip3) - A versatile statistical compressor with better compression ratio than standard Linux tools (gzip, bzip2, etc...)
 - [![Open-Source Software][OSS Icon]](https://github.com/GeopJr/Collision) [Collision](https://collision.geopjr.dev/) - Collision comes with a simple & clean UI, allowing anyone, from any age and experience group, to generate, compare and verify MD5, SHA-256, SHA-512 and SHA-1 hashes.
 - [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/cscope/) [Cscope](http://cscope.sourceforge.net/) - Cscope is a developer's tool for browsing source code. Although cmd-line application, it is nativelly integrated with Vim editor. It allows searching code for symbols, definitions, functions (called/calling), regex, files.
 - [![Open-Source Software][OSS Icon]](https://github.com/Huluti/Curtail) [Curtail](https://github.com/Huluti/Curtail) - Curtail is an useful image compressor, supporting PNG, JPEG and WEBP file types.
