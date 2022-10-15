@@ -725,7 +725,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/jonls/redshift) [Redshift](http://jonls.dk/redshift/) - Redshift adjusts the color temperature of your screen according to your surroundings. This may help your eyes hurt less if you are working in front of the screen at night.
 - [![Open-Source Software][OSS Icon]](http://www.speedcrunch.org/) [SpeedCrunch](http://www.speedcrunch.org/) - A nice, open source, high-precision scientific calculator.
 - [![Open-Source Software][OSS Icon]](https://github.com/jml/undistract-me) [Undistract me](https://github.com/jml/undistract-me) - Notifies you when long-running terminal commands complete.
-- [![Open-Source Software][OSS Icon]](https://github.com/xmindltd/xmind) [Xmind](http://www.xmind.net/) - A mind mapping tool.
+- [Xmind](http://www.xmind.net/) - A mind mapping tool.
 
 #### Note Taking
 - [![Open-Source Software][OSS Icon]](http://basket.kde.org/svnaccess.php) [Basket Note Pads](http://basket.kde.org/) - This multi-purpose note-taking application helps you to easily take all sort of notes.
