@@ -901,7 +901,7 @@ the WebKit rendering engine.
 - [![Open-Source Software][OSS Icon]](https://github.com/jonls/redshift) [Redshift](http://jonls.dk/redshift/) - Redshift adjusts the color temperature of your screen according to your surroundings. This may help your eyes hurt less if you are working in front of the screen at night.
 - [![Open-Source Software][OSS Icon]](http://www.speedcrunch.org/) [SpeedCrunch](https://www.speedcrunch.org/) - A nice, open source, high-precision scientific calculator.
 - [![Open-Source Software][OSS Icon]](https://github.com/jml/undistract-me) [Undistract me](https://github.com/jml/undistract-me) - Notifies you when long-running terminal commands complete.
-- [![Open-Source Software][OSS Icon]](https://github.com/xmindltd/xmind) [Xmind](https://www.xmind.net/) - A mind mapping tool.
+- [Xmind](https://www.xmind.net/) - A mind mapping tool.
 
 #### Note Taking
 - [![Open-Source Software][OSS Icon]](https://basket-notepads.github.io/download.html) [Basket Note Pads](https://basket-notepads.github.io/) - This multi-purpose note-taking application helps you to easily take all sort of notes.
