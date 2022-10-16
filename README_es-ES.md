@@ -755,7 +755,7 @@ es un creador de imágenes GIF de código abierto.
 ### Proxy
 - [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/ijbswa/) [Privoxy](https://www.privoxy.org/) - Privoxy es un proxy web no caché que tiene filtros para mejorar la privacidad.
 - [![Open-Source Software][OSS Icon]](https://github.com/haad/proxychains) [ProxyChains](https://github.com/haad/proxychains) - una herramienta que puede hacer una conexión tcp pasar por TOR, o un proxy.
-- [![Open-Source Software][OSS Icon]](https://github.com/shadowsocks/shadowsocks-qt5/releases) [Shadowsocks](https://shadowsocks.org/en/index.html) - un proxy SOCKS5 diseñado para ofrecer privacidad en línea.
+- [![Open-Source Software][OSS Icon]](https://github.com/shadowsocks/shadowsocks-qt5/releases) [Shadowsocks](https://shadowsocks.org/) - un proxy SOCKS5 diseñado para ofrecer privacidad en línea.
 
 ### Seguridad
 - [ClamAV](https://www.clamav.net/) - Clamav es un antivirus que es de código abierto y puede proteger un equipo contra virus.
