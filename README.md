@@ -850,7 +850,7 @@ the WebKit rendering engine.
 - [![Open-Source Software][OSS Icon]](https://github.com/TeXworks/texworks) [TeXworks](https://www.tug.org/texworks/) - TeXworks is an environment for authoring TeX (LaTeX, ConTeXt, etc) documents, with a Unicode-based, TeX-aware editor, integrated PDF viewer, and a clean, simple interface accessible to casual and non-technical users.
 
 #### Markdown
-- [![Open-Source Software][OSS Icon]](http://github.com/wereturtle/ghostwriter) [Ghost Writer](http://wereturtle.github.io/ghostwriter/) - A distraction-free Markdown editor for Windows and Linux.
+- [![Open-Source Software][OSS Icon]](http://github.com/wereturtle/ghostwriter) [Ghost Writer](https://ghostwriter.kde.org/) - A distraction-free Markdown editor for Windows and Linux.
 - [![Open-Source Software][OSS Icon]](https://github.com/fabiocolacio/Marker) [Marker](https://github.com/fabiocolacio/Marker) - Marker is a markdown editor for linux made with GTK+-3.0.
 - [![Open-Source Software][OSS Icon]](https://github.com/marktext/marktext) [MarkText](https://marktext.app/) - MarkText is a free and open-source realtime preview markdown editor which support both CommonMark Spec and GitHub Flavored Markdown Spec. It is a concise text editor, dedicated to improving your writing efficiency.
 - [![Open-Source Software][OSS Icon]](https://github.com/jamiemcg/remarkable) [Remarkable](https://remarkableapp.github.io/) - A capable markdown editor that uses a variant of GitHub Flavored Markdown (GFM).

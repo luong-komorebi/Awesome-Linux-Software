@@ -672,7 +672,7 @@ es un creador de imágenes GIF de código abierto.
 - [![Open-Source Software][OSS Icon]](https://github.com/TeXworks/texworks) [TeXworks](https://www.tug.org/texworks/) - TeXworks es un entorno para la creación de archivos de documentos TeX. Incluye un visor de PDF, y tiene una interfaz fácil de usar.
 
 #### Markdown
-- [![Open-Source Software][OSS Icon]](http://github.com/wereturtle/ghostwriter). [Ghost Writer](http://wereturtle.github.io/ghostwriter/) - Un editor de Markdown que no tiene distracciones. Funciona en Windows y Linux.
+- [![Open-Source Software][OSS Icon]](http://github.com/wereturtle/ghostwriter). [Ghost Writer](https://ghostwriter.kde.org/) - Un editor de Markdown que no tiene distracciones. Funciona en Windows y Linux.
 - [![Open-Source Software][OSS Icon]](https://github.com/jamiemcg/remarkable) [Remarkable](https://remarkableapp.github.io/) - Un editor de Markdown capaz de usar una versión diferente de GitHub Markdown.
 - [Typora](https://typora.io/) - Un editor de Markdown mínimo y fácil de usar.
 
