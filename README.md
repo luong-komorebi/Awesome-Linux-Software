@@ -1047,7 +1047,6 @@ the WebKit rendering engine.
 - [CrossFTP](https://www.crossftp.com/ftp-client.htm) - CrossFTP makes it extremely simple to manage the FTP related tasks.
 - [D-lan](http://www.d-lan.net/) - A free LAN file sharing software.
 - [![Open-Source Software][OSS Icon]](https://svn.filezilla-project.org/filezilla/FileZilla3/) [Filezilla](https://filezilla-project.org/) - The free FTP solution.
-- [![Open-Source Software][OSS Icon]](http://git.igalia.com/meiga.git) [Meiga](https://meiga.igalia.com/) - A tool that makes possible to share selected local directories via web.
 - [![Open-Source Software][OSS Icon]](https://github.com/nitroshare/nitroshare-desktop) [NitroShare](https://nitroshare.net/) - Cross-Platform network file transfer application.
 - [![Open-Source Software][OSS Icon]](https://github.com/micahflee/onionshare) [OnionShare](https://onionshare.org/) - Securely and anonymously share a file of any size.
 - [![Open-Source Software][OSS Icon]](https://github.com/sidneys/pb-for-desktop) [PushBullet for desktop](https://sidneys.github.io/pb-for-desktop/) - The missing Desktop application for Pushbullet.
