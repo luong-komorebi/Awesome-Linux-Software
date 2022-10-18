@@ -532,7 +532,7 @@ es un emulador multiplataforma para estas consolas: NES, SNES, GameBoy, GameBoy 
 #### Creación de gráficos
 - [![Open-Source Software][OSS Icon]](https://github.com/aseprite/aseprite/) [Aseprite](https://www.aseprite.org/) - Un programa para crear sprites animados.
 -- [![Open-Source Software][OSS Icon]](http://archive.blender.org/download/source-code/index.html) [Blender](https://www.blender.org/) - Una fuente abierta y un flujo de trabajo completo para crear gráficos en 3D, diseñados para artistas solos o equipos enteros.
-- [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/cinepaint/) [Cinepaint](http://www.cinepaint.org/) - Un software de pintura capaz y de código abierto.
+- [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/cinepaint/) [Cinepaint](http://cinepaint.org/) - Un software de pintura capaz y de código abierto.
 - [![Open-Source Software][OSS Icon]](https://github.com/lettier/gifcurry) [Gifcurry](https://lettier.github.io/gifcurry/) -
 es un creador de imágenes GIF de código abierto.
 - [Gravit](https://www.designer.io/) - Gravit Designer es una aplicación de diseño vectorial libre.

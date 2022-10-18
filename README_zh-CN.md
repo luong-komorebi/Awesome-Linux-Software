@@ -382,7 +382,7 @@
 - [Agave](http://home.gna.org/colorscheme/) - Agave 是 GNOME 桌面下一个很简单的程序，让你可以从一个颜色开始生成各种不同的配色方案
 - [![Open-Source Software][OSS Icon]](https://github.com/aseprite/aseprite/) [Aseprite](https://www.aseprite.org/) - Animated sprite editor & pixel art tool.
 - [![Open-Source Software][OSS Icon]](http://archive.blender.org/download/source-code/index.html) [Blender](https://www.blender.org/) - 面向艺术家和小团队的免费开源的完整 3D 创作流水线。
-- [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/cinepaint/) [Cinepaint](http://www.cinepaint.org/) - 开源绘画软件
+- [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/cinepaint/) [Cinepaint](http://cinepaint.org/) - 开源绘画软件
 - [Darktable](http://www.darktable.org/) - darktable 是一个开源的摄影处理软件，支持 RAW 文件处理
 - [Digikam](http://www.digikam.org/) - digiKam 是一个高级的 Linux 数字相片管理应用
 - [Fotoxx](http://www.kornelix.net/fotoxx/fotoxx.html) - Fotoxx 是一个免费开源的图像编辑和收藏管理程序。
