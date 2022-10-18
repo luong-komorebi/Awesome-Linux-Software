@@ -448,7 +448,7 @@ La versión de la comunidad es un software de código abierto.
 
 #### Videojuego de construcción de ciudades
 - [Dwarf Fortress](http://www.bay12games.com/dwarves/) - Una famosa simulación compleja de una Fortaleza Enana de Alta Fantasía, lucha contra los duendes y mata bestias legendarias masivas. ¡Golpea la tierra!
-- [![Open-Source Software][OSS Icon]](https://svn.openttd.org/trunk/) [OpenTTD](hptts://www.openttd.org) - Un clon de código abierto de "Transport Tycoon Plus" con muchas mejoras que el original.
+- [![Open-Source Software][OSS Icon]](https://github.com/OpenTTD/OpenTTD) [OpenTTD](hptts://www.openttd.org) - Un clon de código abierto de "Transport Tycoon Plus" con muchas mejoras que el original.
 - [![Open-Source Software][OSS Icon]](https://github.com/aburch/simutrans) [Simutrans](https://www.simutrans.com) - Simutrans es un simulador de transporte de código abierto.
 - [![Open-Source Software][OSS Icon]](https://github.com/unknown-horizons/unknown-horizons) [Unknown Horizons](http://unknown-horizons.org/) - Es un juego 2D estrategia en tiempo real, donde se construye una ciudad y economía.
 
