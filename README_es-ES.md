@@ -475,7 +475,7 @@ La versión de la comunidad es un software de código abierto.
 - [![Open-Source Software][OSS Icon]](https://github.com/red-eclipse/base) [Red Eclipse](https://redeclipse.net/) - Red Eclipse es un entretenido juego de tiro en primera persona. Tiene un tema de agilidad y velocidad.
 - [![Open-Source Software][OSS Icon]] [Urban Terror](http://www.urbanterror.info) - Un juego de disparos tácticos que se basa en el realismo, pero no siempre.
 - [![Open-Source Software][OSS Icon]](https://gitlab.com/groups/xonotic) [Xonotic](http://www.xonotic.org/) - Es un juego inspirado en "Unreal Tournament" y "Quake".
-- [![Open-Source Software][OSS Icon]](https://bitbucket.org/Torr_Samaho/zandronum) [Zandronum](http://zandronum.com/) - Un juego que es como "Doom", pero en línea y con muchas más características.
+- [![Open-Source Software][OSS Icon]](https://osdn.net/projects/zandronum/scm/) [Zandronum](http://zandronum.com/) - Un juego que es como "Doom", pero en línea y con muchas más características.
 - [![Open-Source Software][OSS Icon]](https://github.com/coelckers/gzdoom) [Zdoom](https://zdoom.org/index) - Zdoom es un puerto de origen de condena moderno que es de código abierto y es muy personalizable.
 
 #### Aplicaciones de juego
