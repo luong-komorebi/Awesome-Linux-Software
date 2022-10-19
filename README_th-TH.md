@@ -391,7 +391,7 @@
 - [![Open-Source Software][OSS Icon]](https://wiki.gnome.org/Apps/Dictionary) [Gnome-dictionary](https://wiki.gnome.org/Apps/Dictionary) - A powerful dictionary for GNOME.
 - [![Open-Source Software][OSS Icon]](http://opensis.sourceforge.net/) [GNU Octave](http://www.gnu.org/software/octave/) - GNU Octave is a scientific programming language, primarily intended for numerical computations, that is mostly compatible with MATLAB.
 - [![Open-Source Software][OSS Icon]](http://ftp.gnu.org/gnu/gtypist/) [GNU Typist](https://www.gnu.org/software/gtypist/index.html) - ncurses-based free-software typing instructor
-- [![Open-Source Software][OSS Icon]](https://github.com/kinitrupti/GNUKhata) [GNUKhata](http://www.gnukhata.in/) - Open source accounting software.
+- [![Open-Source Software][OSS Icon]](https://gitlab.com/gnukhata) [GNUKhata](http://www.gnukhata.in/) - Open source accounting software.
 - [Google Earth](https://itsfoss.com/install-google-earth-ubunu/) - Google Earth is a virtual globe, map and geographical information program.
 - [![Open-Source Software][OSS Icon]](http://gperiodic.seul.org/cvs/) [GPeriodic](http://gperiodic.seul.org/) - GPeriodic is a periodic table application for Linux.
 - [KDE Edu Suite](https://edu.kde.org/) - Free Educational Software based on the KDE technologies.
