@@ -369,7 +369,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/LightTable/LightTable) [Lighttable](http://lighttable.com/) - The next generation code editor! Support live coding.
 - [![Open-Source Software][OSS Icon]](https://github.com/syl20bnr/spacemacs) [Spacemacs](http://spacemacs.org) - ชุดซอฟต์แวร์ Emacs ที่ร่วมกันพัฒนาโดยชุมชน
 - [Sublime](https://www.sublimetext.com/) - ซอฟต์แวร์แก้ไขข้อความมากประสิทธิภาพ มีฟีเจอร์ค้นหาขั้นสูง และเพิ่มประสิทธิภาพด้านอื่นผ่านปลั๊กอิน
-- [![Open-Source Software][OSS Icon]](https://foicica.com/hg/textadept) [Textadept](https://foicica.com/textadept) - Minimalist text editor for programmers. Textadept is extensible with Lua programming language.
+- [![Open-Source Software][OSS Icon]](https://foicica.com/hg/textadept) [Textadept](https://orbitalquark.github.io/textadept/) - Minimalist text editor for programmers. Textadept is extensible with Lua programming language.
 - [![Open-Source Software][OSS Icon]](https://github.com/vim/vim) [Vim](http://www.vim.org/download.php) - Vim คือซอฟต์แวร์แก้ไขข้อความขั้นสูง ซึ่งมุ่งไปที่การให้ประสิทธิภาพเช่นเดียวกับ ซอฟต์แวร์ 'Vi' ที่ใช้แพร่หลายใน Unix แต่มีฟีเจอร์ที่ครบครันกว่า เหมาะสำหรับผู้ที่ใช้ vi เป็นปกติอยู่แล้ว
 - [![Open-Source Software][OSS Icon]](https://github.com/Microsoft/vscode) [VSCode](https://code.visualstudio.com) - Visual Studio Code คือซอฟต์แวร์แก้ไขโค้ดขนาดเล็ก แต่มีประสิทธิภาพ ซึ่งสามารถใช้บนเดสก์ท็อปได้ ทั้ง Windows, OS X และ Linux, ตัวซอฟต์แวร์รองรับ JavaScript, TypeScript และ Node.js ในตัว และยังสามารถรองรับภาษาอื่นๆ ได้ (C++, C#, Python, PHP, Golang)
 - [![Open-Source Software][OSS Icon]](http://git.savannah.gnu.org/cgit/nano.git/) [Nano](https://www.nano-editor.org/) - GNU Nano คือซอฟต์แวร์แก้ไขข้อความอย่างง่าย ที่ใช้งานบนคอนโซลได้ง่าย
