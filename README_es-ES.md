@@ -407,7 +407,7 @@ La versión de la comunidad es un software de código abierto.
 - [OpenSIS](http://www.opensis.com/home) - Un software de administración escolar que ayuda a los estudiantes a tener éxito, y puede decirte cómo están haciendo los maestros.
 - [![Open-Source Software][OSS Icon]](http://pari.math.u-bordeaux.fr/cgi-bin/gitweb.cgi?p=pari.git;a=summary) [PARI/GP](http://pari.math.u-bordeaux.fr/) - Un programa para Algebra que es muy rápido, y trabaja con la teoría numérica.
 - [![Open-Source Software][OSS Icon]](https://git.sagemath.org/sage.git/) [SageMath](http://www.sagemath.org/) - Un software matemático que puede trabajar con álgebra, combinatoria, matemática numérica, teoría numérica y cálculo.
-- [![Open-Source Software][OSS Icon]](https://scipy.org/stackspec.html#stackspec) [Scipy](https://scipy.org/install.html) - SciPy Un grupo basado en python de software para matemáticas, ciencias e ingeniería.
+- [![Open-Source Software][OSS Icon]](https://github.com/scipy/scipy) [Scipy](https://scipy.org/install.html) - SciPy Un grupo basado en python de software para matemáticas, ciencias e ingeniería.
 - [![Open-Source Software][OSS Icon]](https://github.com/LLK/scratch-flash) [Scratch](https://scratch.mit.edu/) - Scratches es un programa que te permite crear historias interactivas, juegos y animaciones. También le permite compartir estas creaciones con personas en línea.
 - [![Open-Source Software][OSS Icon]](https://sourceforge.net/p/stellarium/code/HEAD/tree/) [Stellarium](http://www.stellarium.org/) - Es un programa de planetario de código abierto.
 - [![Open-Source Software][OSS Icon]](https://github.com/ugeneunipro/ugene) [UGENE](http://ugene.net/) - UGENE es un software multiplataforma basado en GUI basado en la bioinformática.
