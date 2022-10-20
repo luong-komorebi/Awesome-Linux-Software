@@ -385,7 +385,7 @@ Ele foi projetado principalmente para ajudar a recuperar partições perdidas e/
 - [Mailspring](https://getmailspring.com/) - A beautiful, fast and maintained fork of Nylas Mail by one of the original authors.
 - [Sylpheed](http://sylpheed.sraoss.jp/en/) - Cliente de e-mail leve e amigável. [![Open-Source Software][OSS Icon]](http://sylpheed.sraoss.jp/en/download.html#stable)
 - [Thunderbird](https://www.mozilla.org/en-US/thunderbird/) - O Thunderbird é um aplicativo de e-mail gratuito que é fácil de configurar e personalizar e ele está carregado com excelentes recursos. [![Open-Source Software][OSS Icon]](https://releases.mozilla.org/pub/thunderbird/)
-- [Trojita](http://trojita.flaska.net/download.html) - Um cliente de email para Linux super rápido. [![Open-Source Software][OSS Icon]](https://cgit.kde.org/trojita.git/)
+- [Trojita](http://trojita.flaska.net/download.html) - Um cliente de email para Linux super rápido. [![Open-Source Software][OSS Icon]](https://github.com/KDE/trojita)
 - [Vmail](http://danielchoi.com/software/vmail.html) - Um cliente Vim-Like para Gmail. [![Open-Source Software][OSS Icon]](https://github.com/danchoi/vmail)
 - [Wmail](https://github.com/Thomas101/wmail) - Cliente de desktop não oficial do Gmail e Google Inbox para o linux. [![Open-Source Software][OSS Icon]](https://github.com/Thomas101/wmail)
 
