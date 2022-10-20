@@ -249,7 +249,7 @@
 - [![Open-Source Software][OSS Icon]](http://gcompris.net/wiki/Developer%27s_corner) [Gcompris](http://gcompris.net/index-en.html) - GCompris 是一款高质量教育软件，由无数适合 2 到 10 岁儿童的活动组成。
 - [Geogebra](https://www.geogebra.org/download) - 图形计算器，支持函数，几何，代数，微积分，统计以及 3D 数学。
 - [![Open-Source Software][OSS Icon]](http://ftp.gnu.org/gnu/gtypist/) [GNU Typist](https://www.gnu.org/software/gtypist/index.html) - 基于 ncurses 的免费打字教学软件 
-- [![Open-Source Software][OSS Icon]](https://github.com/kinitrupti/GNUKhata) [GNUKhata](http://www.gnukhata.in/) - 开源会计软件。 
+- [![Open-Source Software][OSS Icon]](https://gitlab.com/gnukhata) [GNUKhata](http://www.gnukhata.in/) - 开源会计软件。 
 - [Google Earth](https://itsfoss.com/install-google-earth-ubunu/) - Google Earth 是一款虚拟地球，地图以及地理信息程序。
 - [GPeriodic](http://gperiodic.seul.org/) - GPeriodic 是一个 Linux 上的元素周期表应用。
 

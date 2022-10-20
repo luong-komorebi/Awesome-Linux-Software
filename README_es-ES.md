@@ -390,7 +390,7 @@ La versión de la comunidad es un software de código abierto.
 - [![Open-Source Software][OSS Icon]](https://wiki.gnome.org/Apps/Dictionary) [Gnome-dictionary](https://wiki.gnome.org/Apps/Dictionary) - Un diccionario capaz para GNOME.
 - [![Open-Source Software][OSS Icon]](http://opensis.sourceforge.net/) [GNU Octave](http://www.gnu.org/software/octave/) - GNU Octave es un lenguaje de programación matemático, diseñado para cálculos numéricos, que es principalmente compatible con MATLAB.
 - [![Open-Source Software][OSS Icon]](http://ftp.gnu.org/gnu/gtypist/) [GNU Typist](https://www.gnu.org/software/gtypist/index.html) - Una instrucción de escritura de código abierto basada en ncurses.
-- [![Open-Source Software][OSS Icon]](https://github.com/kinitrupti/GNUKhata) [GNUKhata](http://www.gnukhata.in/) - Software de cuenta que es de código abierto.
+- [![Open-Source Software][OSS Icon]](https://gitlab.com/gnukhata) [GNUKhata](http://www.gnukhata.in/) - Software de cuenta que es de código abierto.
 - [Google Earth](https://itsfoss.com/install-google-earth-ubunu/) - Google Earth es un programa que te permite ver un globo virtual con mapas y características geográficas.
 - [![Open-Source Software][OSS Icon]](http://gperiodic.seul.org/cvs/) [GPeriodic](http://gperiodic.seul.org/) - GPeriodic es un programa que muestra una tabla periódica, para Linux.
 - [KDE Edu Suite](https://edu.kde.org/) - Un software libre diseñado para la educación. Está diseñado con KDE.
