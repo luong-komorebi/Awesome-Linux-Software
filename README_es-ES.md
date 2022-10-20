@@ -372,7 +372,7 @@ La versión de la comunidad es un software de código abierto.
 - [![Open-Source Software][OSS Icon]](https://github.com/neovim/neovim) [Neovim](https://neovim.io/) - Neovim es una forma de vim que espera mejorar la experiencia del usuario, a través de complementos, y con una variedad de interfaces gráficas.
 - [![Open-Source Software][OSS Icon]](https://github.com/syl20bnr/spacemacs) [Spacemacs](http://spacemacs.org) - Una versión desarrollada por la comunidad de emacs.
 - [Sublime](https://www.sublimetext.com/) -un editor de texto muy capaz con avanzadas habilidades de búsqueda. Puede instalar complementos para agregar más funcionalidad.
-- [![Open-Source Software][OSS Icon]](https://foicica.com/hg/textadept) [Textadept](https://orbitalquark.github.io/textadept/) - Un editor de texto minimalista para programadores, Text adept es extensible con plugins de lenguaje de programación Lua.
+- [![Open-Source Software][OSS Icon]](https://github.com/orbitalquark/textadept) [Textadept](https://orbitalquark.github.io/textadept/) - Un editor de texto minimalista para programadores, Text adept es extensible con plugins de lenguaje de programación Lua.
 - [![Open-Source Software][OSS Icon]](https://github.com/vim/vim) [Vim](http://www.vim.org/download.php) -Es un editor de texto avanzado que busca proporcionar el poder de vi pero con más capacidades.
 - [![Open-Source Software][OSS Icon]](https://github.com/Microsoft/vscode) [VSCode](https://code.visualstudio.com) - Es un rápido editor de código fuente que funciona en Windows, MacOS y Linux. Es compatible con muchos lenguajes de programación diferentes.
 
