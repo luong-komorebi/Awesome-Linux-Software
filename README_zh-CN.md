@@ -236,7 +236,7 @@
 - [Lighttable](http://lighttable.com/) - 下一代代码编辑器！支持实时编码。
 - [![Open-Source Software][OSS Icon]](https://github.com/syl20bnr/spacemacs) [Spacemacs](http://spacemacs.org) - 社区驱动的 Emacs 版本。 
 - [Sublime](https://www.sublimetext.com/) - 有史以来最好的编辑器之一。
-- [![Open-Source Software][OSS Icon]](https://foicica.com/hg/textadept) [Textadept](https://foicica.com/textadept) - 程序员的极简编辑器。支持 Lua 编程语言扩展。 
+- [![Open-Source Software][OSS Icon]](https://foicica.com/hg/textadept) [Textadept](https://orbitalquark.github.io/textadept/) - 程序员的极简编辑器。支持 Lua 编程语言扩展。 
 - [![Open-Source Software][OSS Icon]](https://github.com/vim/vim) [Vim](http://www.vim.org/download.php) -Vim 是一个高级文本编辑器，寻求以更完整的功能集提供事实上的 Unix 编辑器“Vi”的强大功能。无论你已经在使用 vi 或其它编辑器，它都十分有用。
 - [VSCode](https://code.visualstudio.com) - Visual Studio Code 是一款轻量但强大的代码编辑器，提供 Windows，OS X 以及 Linux 版本。它内置了 JavaScript，TypeScript 以及 Node.js 支持，并且对其它语言（C++，C#，Python，PHP）还有丰富的插件系统和运行环境。
 
