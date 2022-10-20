@@ -398,7 +398,7 @@ La versión de la comunidad es un software de código abierto.
 - [![Open-Source Software][OSS Icon]](https://github.com/KDE/ktouch) [Ktouch](https://github.com/KDE/ktouch) - KTouch es un programa que te enseña a escribir sin mirar el teclado.
 - ![Nonfree][Money icon] [MAPLE](http://www.maplesoft.com/products/maple/) - Maple es un software de matemáticas que es muy capaz, y tiene una interfaz fácil de usar para ayudar a explicar los problemas de matemáticas.
 - ![Nonfree][Money icon] [MapTiler](https://www.maptiler.com/) - MapTiler crea un mapa ráster ampliable a partir de imágenes en un sistema de coordenadas definido por el usuario.
-- [![Open-Source Software][OSS Icon]](https://cgit.kde.org/marble.git) [Marble](https://marble.kde.org/) - Marble es un mundo virtual y atlas.
+- [![Open-Source Software][OSS Icon]](https://github.com/KDE/marble) [Marble](https://marble.kde.org/) - Marble es un mundo virtual y atlas.
 - ![Nonfree][Money icon] [MATLAB](http://www.mathworks.com/products/matlab/?requestedDomain=www.mathworks.com) - Matlab es un programa diseñado para resolver problemas de ingeniería y científicos. Le permite ejecutar análisis sobre los problemas con los equipos, o incluso los clústeres de computadora.
 - [![Open-Source Software][OSS Icon]](http://maxima.sourceforge.net/project.html) [Maxima](http://maxima.sourceforge.net/) - Maxima es un programa que te permite trabajar con expresiones simbólicas y numéricas. Esto incluye: diferenciación, integración, serie de Taylor, transformadas de Laplace, ecuaciones diferenciales ordinarias y sistemas de ecuaciones lineales.
 - [![Open-Source Software][OSS Icon]](https://github.com/moodle/moodle) [Moodle](https://download.moodle.org/) - Un sistema de gestión escolar para el aprendizaje en línea.
