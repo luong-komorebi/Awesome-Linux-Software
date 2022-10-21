@@ -105,7 +105,6 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/linuxdeepin/deepin-music) [Deepin Music](https://www.deepin.org/en/original/deepin-music/) - An application, developed by Deepin Technology Team, which focused on local music playing.
 - [![Open-Source Software][OSS Icon]](https://invent.kde.org/multimedia/elisa) [Elisa](https://elisa.kde.org/) - Elisa is a music player developed by the KDE community that strives to be simple and nice to use.
 - [![Open-Source Software][OSS Icon]](https://gitlab.gnome.org/neithern/g4music) [G4Music](https://gitlab.gnome.org/neithern/g4music) - A fast, fluent, light weight music player written in GTK4.
-- [![Open-Source Software][OSS Icon]](https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-) [Google Play Music Desktop Player](https://www.googleplaymusicdesktopplayer.com/) - Unofficial but beautiful cross-platform desktop player for Google Play Music.
 - [![Open-Source Software][OSS Icon]](https://github.com/gpodder/gpodder) [Gpodder](https://gpodder.github.io/) - Media aggregator and podcast client.
 - [![Open-Source Software][OSS Icon]](https://github.com/trazyn/ieaseMusic) [ieaseMusic](https://github.com/trazyn/ieaseMusic) - iEaseMusic is a multiplatform program built in electron for listening to NetEase Music.
 - [![Open-Source Software][OSS Icon]](https://github.com/LibreTime/libretime) [Libretime](https://libretime.org/) - The open broadcast software for scheduling and remote station management; forked from Airtime.
