@@ -264,7 +264,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/LemonBoy/bar) [Lemonbar](https://github.com/LemonBoy/bar) - Super fast, lightweight, and mnml status bar for Linux.
 - [![Open-Source Software][OSS Icon]](https://github.com/realmazharhussain/gdm-settings) [Login Manager Settings](https://realmazharhussain.github.io/gdm-settings/) - A settings app for GNOME's Login Manager, GDM.
 - [![Open-Source Software][OSS Icon]](https://github.com/themix-project/oomox) [Oomox theme generator](https://github.com/themix-project/oomox) - A Graphical application for generating different color variations of a Numix-based and Flat-Plat themes (GTK2, GTK3), GNOME-Colors and Archdroid icons.
-- [![Open-Source Software][OSS Icon]](https://www.opencode.net/dfn2/pling-store-development) [Pling Store](https://www.opendesktop.org/p/1175480/) - Desktop app of openDesktop.org, which is one of the largest communities where developers and artists share applications, themes and other content.
+- [![Open-Source Software][OSS Icon]](https://www.opencode.net/dfn2/pling-store-development) [Pling Store](https://www.pling.com/) - Desktop app of openDesktop.org, which is one of the largest communities where developers and artists share applications, themes and other content.
 - [![Open-Source Software][OSS Icon]](https://github.com/jaagr/polybar) [Polybar](https://github.com/jaagr/polybar) - Fast and easy-to-use status bar.
 - [![Open-Source Software][OSS Icon]](https://github.com/deviantfero/wpgtk) [Wpgtk](https://deviantfero.github.io/wpgtk) - A universal theming software for all themes defined in text files, compatible with all terminals, with default themes for GTK2, GTK+, openbox and Tint2 that uses pywal as it's core for colorscheme generation.
 
