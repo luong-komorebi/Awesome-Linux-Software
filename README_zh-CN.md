@@ -522,7 +522,6 @@
 - [Dropbox](https://www.dropbox.com/install?os=lnx) - Dropbox 是一个免费的云存储服务，让你可以将照片，文档和视频带到任何地方并轻松分享。
 - [![Open-Source Software][OSS Icon]](https://filezilla-project.org/sourcecode.php)[Filezilla](https://filezilla-project.org/) - 免费的 FTP 解决方案 
 - [Flareget](https://flareget.com/) - 全功能，多线程下载管理器以及加速器。
-- [![Open-Source Software][OSS Icon]](http://git.igalia.com/meiga.git)[Meiga](http://meiga.igalia.com/) - 一个让你可以通过 web 共享你选定的本地文件夹的工具。 
 - [ownCloud](https://owncloud.com/products/desktop-clients/) - ownCloud 的目标是不论在哪都能让你访问到你的文件。
 - [PushBullet](https://www.pushbullet.com/) - Pushbullet 将你的设备连接，让它们感觉像是一体的。
 - [![Open-Source Software][OSS Icon]](https://github.com/qbittorrent/qBittorrent)[qBittorent](http://www.qbittorrent.org/) - qBittorrent 计划的目标是提提供一个 µTorrent 的自由软件替代方案。
