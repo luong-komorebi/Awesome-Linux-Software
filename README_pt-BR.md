@@ -378,7 +378,7 @@ Ele foi projetado principalmente para ajudar a recuperar partições perdidas e/
 - [Evolution](https://wiki.gnome.org/Apps/Evolution/) - O Evolution é um aplicativo de gerenciamento de informações pessoais que fornece funcionalidades integradas de email, calendário e caderno de endereços. [![Open-Source Software][OSS Icon]](https://wiki.gnome.org/Apps/Evolution/#Get_the_Source_Code)
 - [Geary](https://wiki.gnome.org/Apps/Geary) - Geary é um aplicativo de e-mail criado para o GNOME 3. Ele permite que você leia e envie e-mails com uma interface simples e moderna. [![Open-Source Software][OSS Icon]](https://git.gnome.org//browse/geary/)
 - [Hiri](https://www.hiri.com/) - Hiri é um cliente de e-mail de desktop focado no negócio para enviar e receber e-mails, gerenciando calendários, contatos e tarefas.
-- [KMail](https://www.kde.org/applications/internet/kmail/) - KMail é o componente de email do Kontact, o gerenciador de informações pessoais integrado do KDE. [![Open-Source Software][OSS Icon]](https://cgit.kde.org/kmail.git/)
+- [KMail](https://apps.kde.org/de/kmail2/) - KMail é o componente de email do Kontact, o gerenciador de informações pessoais integrado do KDE. [![Open-Source Software][OSS Icon]](https://cgit.kde.org/kmail.git/)
 - [Mailnag](https://launchpad.net/~pulb/+archive/ubuntu/mailnag) - Mailnag é um programa daemon que verifica servidores POP3 e IMAP para novas mensagens. [![Open-Source Software][OSS Icon]](https://github.com/pulb/mailnag)
 - [Mailspring](https://getmailspring.com/) - A beautiful, fast and maintained fork of Nylas Mail by one of the original authors.
 - [Sylpheed](http://sylpheed.sraoss.jp/en/) - Cliente de e-mail leve e amigável. [![Open-Source Software][OSS Icon]](http://sylpheed.sraoss.jp/en/download.html#stable)
