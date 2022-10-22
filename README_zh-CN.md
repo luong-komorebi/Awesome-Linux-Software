@@ -532,7 +532,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/syncthing/syncthing)[Syncthing](https://syncthing.net/) - Syncthing 用开放，值得信赖，去中心化的方案取代专有的同步和云服务。
 - [Teamviewer](https://www.teamviewer.com/ ) - PC 远程控制/远程访问软件，对个人使用免费。
 - [![Open-Source Software][OSS Icon]](https://trac.transmissionbt.com/browser/trunk) [Transmission](https://www.transmissionbt.com/download/) - 简单，轻量级，多平台的 torrent 客户端。 
-- [![Open-Source Software][OSS Icon]](http://ugetdm.com/contribute/code) [uGet](http://ugetdm.com/) - Linux 下最好的下载管理器。 
+- [![Open-Source Software][OSS Icon]](https://ugetdm.com/downloads/source-code/) [uGet](http://ugetdm.com/) - Linux 下最好的下载管理器。 
 - [uTorrent](http://www.utorrent.com) - 优雅，高效的 torrent 下载。
 - [Vuze](http://www.vuze.com) - Bittorrent 点对点下载客户端，满足你的所有 torrent 下载需要。
 - [![Open-Source Software][OSS Icon]](https://github.com/meganz/MEGAsync) [Mega](https://mega.nz/#sync) - 在你的电脑和 MEGA 云存储间轻松自动同步。 
