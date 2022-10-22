@@ -322,7 +322,6 @@ La versión de la comunidad es un software de código abierto.
 - [![Open-Source Software][OSS Icon]](https://jupyter.readthedocs.io/en/latest/install.html) [Jupyter Notebook](https://jupyter.org/) - Un programa de código abierto que proporciona información interactiva de datos e información científica sobre más de 40 lenguajes de programación.
 - [![Open-Source Software][OSS Icon]](http://meldmerge.org/development.html) [Meld](http://meldmerge.org/) - Meld es una herramienta de modelado de diferencias visuales diseñada para ayudar a comparar archivos, directorios y proyectos controlados por versiones.
 - [Mockingbot](https://mockingbot.in/?) - Mockingbot es una herramienta de prototipado simple de utilizar.
-- [![Open-Source Software][OSS Icon]](https://github.com/GNOME/nemiver) [Nemiver](https://github.com/GNOME/nemiver) - Nemiver es un proyecto para escribir un depurador gráfico independiente que funciona con el ambiente de escritorio de GNOME.
 - [![Open-Source Software][OSS Icon]](https://github.com/evolus/pencil) [Pencil](http://pencil.evolus.vn/) - Una herramienta de creación de prototipos GUI de código abierto, que funciona en diferentes plataformas.
 - [![Open-Source Software][OSS Icon]](https://github.com/stuartlangridge/ColourPicker) [Pick](http://kryogenix.org/code/pick/) - Un selector de color.
 - [Postman](https://www.getpostman.com) - Postman, permite a un usuario desarrollar y probar API rápidamente.

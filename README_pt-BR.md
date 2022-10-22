@@ -285,7 +285,6 @@ Ele foi projetado principalmente para ajudar a recuperar partições perdidas e/
 - [Jupyter Notebook](https://jupyter.org/) - An open source program that provides interactive data and scientific computing information across over 40 programming languages. [![Open-Source Software][OSS Icon]](https://jupyter.readthedocs.io/en/latest/install.html)
 - [Meld](http://meldmerge.org/) - Meld is a visual diff and merge tool that helps you compare files, directories, and version controlled projects.  [![Open-Source Software][OSS Icon]](http://meldmerge.org/development.html)
 - [Mockingbot](https://mockingbot.in/?) - Mockingbot is an easy-to-use prototyping tool.
-- [Nemiver](https://github.com/GNOME/nemiver) - Nemiver is a project to write a standalone graphical debugger that integrates well in the GNOME desktop environment. [![Open-Source Software][OSS Icon]](https://github.com/GNOME/nemiver)
 - [Pencil](http://pencil.evolus.vn/) - An open-source GUI prototyping tool that's available for ALL platforms.  [![Open-Source Software][OSS Icon]](https://github.com/evolus/pencil)
 - [Pick](http://kryogenix.org/code/pick/) - Simple color picker.  [![Open-Source Software][OSS Icon]](https://github.com/stuartlangridge/ColourPicker)
 - [Postman](https://www.getpostman.com) - Postman, allows a user to develop and test APIs quickly.
