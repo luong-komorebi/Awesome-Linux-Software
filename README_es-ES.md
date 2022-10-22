@@ -541,7 +541,7 @@ es un creador de imágenes GIF de código abierto.
 - [![Open-Source Software][OSS Icon]](https://github.com/KDE/krita) [Krita](https://krita.org/en/) - Un programa de código abierto para artistas y pintores digitales.
 - [![Open-Source Software][OSS Icon]](https://github.com/mypaint/mypaint/releases) [Mypaint](http://mypaint.org/about/) - Mypaint es un programa de pintura que está diseñado para su uso con Tabletas digitalizadoras.
 - [![Open-Source Software][OSS Icon]](https://github.com/jonata/opendvdproducer) [Open DVD Producer](http://opendvdproducer.jonata.org/) - Es un software multiplataforma de código abierto y moderno que crea imágenes de DVD.
-- [![Open-Source Software][OSS Icon]](https://pinta-project.com/pintaproject/pinta/contribute) [Pinta](https://pinta-project.com/pintaproject/pinta/) - Pinta Es un programa de código abierto para dibujar y editar imágenes.
+- [![Open-Source Software][OSS Icon]](https://github.com/PintaProject/Pinta) [Pinta](https://pinta-project.com/pintaproject/pinta/) - Pinta Es un programa de código abierto para dibujar y editar imágenes.
 - [![Open-Source Software][OSS Icon]](https://launchpad.net/lsm) [StopMotion](http://linuxstopmotion.org/) - Linux Stopmotion es una aplicación de código abierto para crear animaciones "Stop Motion". Puede ayudar en cada paso del proceso.
 - [![Open-Source Software][OSS Icon]](https://github.com/synfig/synfig) [Synfig Studio](http://www.synfig.org/) - Es un software de animación 2D de código abierto.
 - [Vectr](https://vectr.com/) - Vectr es un software gráfico gratuito y fácil de usar para crear imágenes vectoriales. Es multi plataforma y funciona en una computadora, así como en la web.

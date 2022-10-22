@@ -410,7 +410,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/peterlevi/ojo) [Ojo](https://github.com/peterlevi/ojo) - 一款快速且漂亮的图像查看器。  
 - [![Open-Source Software][OSS Icon]](https://github.com/jonata/opendvdproducer) [Open DVD Producer](http://opendvdproducer.jonata.org/) - 现代，开源，跨平台的 DVD 镜像生产软件。  
 - [![Open-Source Software][OSS Icon]](https://github.com/oferkv/phototonic) [Photonic](https://github.com/oferkv/phototonic) - Phototonic 是一款图片查看和组织工具。  
-- [![Open-Source Software][OSS Icon]](https://pinta-project.com/pintaproject/pinta/contribute)[Pinta](https://pinta-project.com/pintaproject/pinta/) - Pinta 是一款免费，开源的绘画及图片编辑程序。 
+- [![Open-Source Software][OSS Icon]](https://github.com/PintaProject/Pinta)[Pinta](https://pinta-project.com/pintaproject/pinta/) - Pinta 是一款免费，开源的绘画及图片编辑程序。 
 - [![Open-Source Software][OSS Icon]](https://github.com/terkelg/ramme) [Ramme](https://github.com/terkelg/ramme) - 非官方 Instagram 桌面应用。  
 - [![Open-Source Software][OSS Icon]](https://github.com/Beep6581/RawTherapee) [RawTherapee](http://rawtherapee.com/) - 一款漂亮的但不那么著名的照片编辑应用。 
 - [![Open-Source Software][OSS Icon]](https://github.com/synfig/synfig) [Synfig Studio](http://www.synfig.org/) - 开源 2D 动画软件。  
