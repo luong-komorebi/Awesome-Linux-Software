@@ -788,7 +788,7 @@ Ele foi projetado principalmente para ajudar a recuperar partições perdidas e/
 
 ### Utilitários
 - [Angry IP Scanner](http://angryip.org/) - Scanner de rede rápido e amigável. [![Open-Source Software][OSS Icon]](https://github.com/angryip/ipscan)
-- [Aptik](http://www.teejeetech.in/2014/01/introducing-aptik.html) - Uma ferramenta para você organizar seus PPAs favoritos e controlar pacotes facilmente. [![Open-Source Software][OSS Icon]](https://code.launchpad.net/~teejee2008/apt-toolkit/trunk)
+- [Aptik](https://teejeetech.com/2019/07/14/aptik-v19-07/) - Uma ferramenta para você organizar seus PPAs favoritos e controlar pacotes facilmente. [![Open-Source Software][OSS Icon]](https://code.launchpad.net/~teejee2008/apt-toolkit/trunk)
 - [![Open-Source Software][OSS Icon]](https://github.com/bleachbit/bleachbit) [Bleach bit](https://www.bleachbit.org/) - BleachBit libera rapidamente espaço em disco e protege incansavelmente sua privacidade. Free cache, delete cookies, clear Internet history, shred temporary files, delete logs, and more ...
 - [Brasero](https://wiki.gnome.org/Apps/Brasero) - Gravador de CD/DVD.
 - [Cheat](https://github.com/chrisallenlane/cheat) - Cheat permite você criar e visualizar interativamente comandos na linha de comando.`Simplify man tool`[![Open-Source Software][OSS Icon]](https://github.com/chrisallenlane/cheat)
