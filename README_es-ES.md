@@ -798,7 +798,7 @@ es un programa SUID que crea seguridad mediante la restricción de aplicaciones 
 - [Tixati](https://www.tixati.com/) - Un cliente de torrents gratuito que tiene funciones avanzadas y también tiene una interfaz web.
 - [![Open-Source Software][OSS Icon]](https://trac.transmissionbt.com/browser/trunk) [Transmission](https://www.transmissionbt.com/download/) - un cliente multiplataforma simple y rápido para bittorrent.
 - [![Open-Source Software][OSS Icon]](https://github.com/leonsoft-kras/transmisson-remote-gui) [Transmission Remote GUI](https://sourceforge.net/projects/transgui/) - es un programa para controlar un "Transmission Bittorent Client" a través de una red vía RPC.
-- [![Open-Source Software][OSS Icon]](http://ugetdm.com/contribute/code) [uGet](http://ugetdm.com/) - Un gestor de descargas que puede controlar el portapapeles, y puede descargar varios archivos al mismo tiempo.
+- [![Open-Source Software][OSS Icon]](https://ugetdm.com/downloads/source-code/) [uGet](http://ugetdm.com/) - Un gestor de descargas que puede controlar el portapapeles, y puede descargar varios archivos al mismo tiempo.
 - [Vuze](http://www.vuze.com) - Un cliente bittorrent que tiene muchas características.
 - [![Open-Source Software][OSS Icon]](https://github.com/webtorrent/webtorrent-desktop) [Web Torrent Desktop](https://webtorrent.io/desktop/) - Es un cliente torrent para streaming torrent, y se conectará a bittorrent y webtorrent.
 - [![Open-Source Software][OSS Icon]](https://github.com/warner/magic-wormhole) [Wormhole](https://github.com/warner/magic-wormhole) - Un programa que te permite compartir archivos de cualquier tamaño o incluso texto de una computadora a otra.
