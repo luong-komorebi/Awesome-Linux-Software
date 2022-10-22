@@ -92,7 +92,7 @@
 
 ### Audio
 *para consultar una lista más larga de software de audio oprima [aquí](https://github.com/nodiscc/awesome-linuxaudio)*
-- [![Open-Source Software][OSS Icon]](https://github.com/sourcefabric/Airtime) [Airtime](https://www.sourcefabric.org/en/airtime/download/) - Un programa para radiodifusión y emisoras de radio.
+- [![Open-Source Software][OSS Icon]](https://github.com/sourcefabric/Airtime) [Airtime](https://www.sourcefabric.org/software/airtime) - Un programa para radiodifusión y emisoras de radio.
 - [![Open-Source Software][OSS Icon]](https://ardour.org/development.html) [Ardour](https://ardour.org/) - Un programa para grabar sonido, editarlo y remixar en Linux
 - [![Open-Source Software][OSS Icon]](http://audacious-media-player.org/developers) [Audacious](http://audacious-media-player.org/) - Una programa código abierto, poder reproductor de audio que no requiere muchos recursos.
 - [![Open-Source Software][OSS Icon]](https://github.com/audacity/audacity) [Audacity](http://www.audacityteam.org/download/linux/) - Gratis y código abierto, software Multiplataforma para grabar y editar sonido.

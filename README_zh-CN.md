@@ -74,7 +74,7 @@
 
 ### 音频
 - [Cmus](https://cmus.github.io/) - cmus 是一款类 Unix 系统下小巧，快速且强大的终端音乐播放器。
-- [![Open-Source Software][OSS Icon]](https://github.com/sourcefabric/Airtime) [Airtime](https://www.sourcefabric.org/en/airtime/download/) - Airtime 是一款用于调度和远程站点管理的开放广播软件
+- [![Open-Source Software][OSS Icon]](https://github.com/sourcefabric/Airtime) [Airtime](https://www.sourcefabric.org/software/airtime) - Airtime 是一款用于调度和远程站点管理的开放广播软件
 - [Ardour](https://ardour.org/) - 在 Linux 上录音，编辑，和混音
 - [Audacious](http://audacious-media-player.org/) - 开源音频播放器，按你想要的方式播放你的音乐，不占用你其它任务的电脑资源。[![Open-Source Software][OSS Icon]](http://audacious-media-player.org/developers)
 - [![Open-Source Software][OSS Icon]](https://github.com/audacity/audacity) [Audacity](http://www.audacityteam.org/download/linux/) - 免费，开源，跨平台的声音录制、编辑软件。 
