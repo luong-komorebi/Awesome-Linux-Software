@@ -81,7 +81,7 @@
 - [![Open-Source Software][OSS Icon]](https://bazaar.launchpad.net/~audio-recorder/audio-recorder/trunk/files) [Audio Recorder](https://launchpad.net/~audio-recorder) - 简单的声音录制软件，就在 ubuntu ppa。
 - [![Open-Source Software][OSS Icon]](https://github.com/clementine-player/Clementine) [Clementine](https://www.clementine-player.org/) - 播放无数的有损和无损音频格式。 
 - [![Open-Source Software][OSS Icon]](https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-) [Google Play Music](https://www.googleplaymusicdesktopplayer.com/) - 非官方但很漂亮的跨平台 Google Play Music 桌面客户端。
-- [Hydrogen](http://www.hydrogen-music.org/hcms/node/21) - GNU/Linux 上的高级电子鼓。
+- [Hydrogen](http://hydrogen-music.org/) - GNU/Linux 上的高级电子鼓。
 - [![Open-Source Software][OSS Icon]](https://github.com/trazyn/ieaseMusic) [ieaseMusic](https://github.com/trazyn/ieaseMusic) - 优雅的NeteaseMusic桌面应用程序，Rock with NeteaseMusic。 
 - [![Open-Source Software][OSS Icon]](https://github.com/KDE/k3b) [K3b](http://www.k3b.org/) - K3b - Linux 上的 CD/DVD 创建工具 - 为 KDE 特别优化。
 - [Kid3Qt](https://apps.ubuntu.com/cat/applications/precise/kid3-qt/) - 编辑多媒体文件的标签，如一个专辑所有 mp3 文件的艺术家，专辑，年代，流派。

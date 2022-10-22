@@ -107,7 +107,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/gpodder/gpodder) [Gpodder](https://gpodder.github.io/) - โปรแกรมสำหรับฟัง podcast และรวบรวมไฟล์มีเดียต่างๆ
 - [![Open-Source Software][OSS Icon]](https://github.com/haecker-felix/gradio/releases/) [GRadio](https://github.com/haecker-felix/gradio/releases/) - ซอฟต์แวร์ที่เกียวข้องกับวิทยุสำหรับ Ubuntu Linux
 - [![Open-Source Software][OSS Icon]](https://github.com/mtytel/helm) [Helm](http://tytel.org/helm/) - ซอฟต์แวร์สำหรังสังเคราะห์เสียง สามารถใช้ได้ทั้งแบบ stand alone และเป็นแบบปลั๊กอิน LV2, VST, VST3 และ AU
-- [![Open-Source Software][OSS Icon]](https://github.com/hydrogen-music/hydrogen) [Hydrogen](http://www.hydrogen-music.org/hcms/node/21) - เครื่องมือสำหรับกลองขั้นสูงสำหรับ GNU/Linux
+- [![Open-Source Software][OSS Icon]](https://github.com/hydrogen-music/hydrogen) [Hydrogen](http://hydrogen-music.org/) - เครื่องมือสำหรับกลองขั้นสูงสำหรับ GNU/Linux
 - [![Open-Source Software][OSS Icon]](https://github.com/trazyn/ieaseMusic) [ieaseMusic](https://github.com/trazyn/ieaseMusic) - iEaseMusic is a multiplatform program built in electron for listening to NetEase Music.
 - [![Open-Source Software][OSS Icon]](https://github.com/KDE/k3b) [K3b](http://www.k3b.org/) - โปรแกรมสำหรับสร้างแผ่น CD/DVD สำหรับลินุกซ์ ปรับแต่งให้เข้ากันกับ KDE
 - [![Open-Source Software][OSS Icon]](https://kid3.sourceforge.io/) [Kid3Qt](https://apps.ubuntu.com/cat/applications/precise/kid3-qt/) - แก้ไขข้อมูล tag ได้ทีละหลายๆ ไฟล์ เช่น ศิลปิล, อัลบั้ม, ปีที่ออก และ แนวเพลง สำหรับไฟล์ mp3
