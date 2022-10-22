@@ -87,7 +87,7 @@
 - [Kid3Qt](https://apps.ubuntu.com/cat/applications/precise/kid3-qt/) - 编辑多媒体文件的标签，如一个专辑所有 mp3 文件的艺术家，专辑，年代，流派。
 - [KxStudio](http://kxstudio.linuxaudio.org/) - KXStudio 是专业声音创作应用和插件的集合。
 - [Let's make music](https://lmms.io/download/#linux) - 在你的 PC 上制作音乐，创造旋律和节拍，合成，混音，编曲小样以及更多内容。
-- [![Open-Source Software][OSS Icon]](https://github.com/gnumdk/lollypop) [Lollypop](http://gnumdk.github.io/lollypop-web) - Lollypop 是一款新的 GNOME 音乐播放应用。 
+- [![Open-Source Software][OSS Icon]](https://github.com/gnumdk/lollypop) [Lollypop](https://wildskyf.github.io/lollypop-web/) - Lollypop 是一款新的 GNOME 音乐播放应用。 
 - [![Open-Source Software][OSS Icon]](https://github.com/emilioastarita/lyricfier) [Lyricfier](https://github.com/emilioastarita/lyricfier) - 一个 Spotify Lyrics 的替代选择。 
 - [![Open-Source Software][OSS Icon]](https://github.com/mixxxdj/mixxx) [Mixxx](http://www.mixxx.org/download/) - 免费的 DJ 软件，给你一切现场混音所需要的，名副其实的 Traktor 替代品。 
 - [![Open-Source Software][OSS Icon]](https://github.com/mopidy/mopidy) [Mopidy](https://www.mopidy.com/) - An extensible music server written in Python.

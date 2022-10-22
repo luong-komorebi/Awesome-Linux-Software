@@ -107,7 +107,7 @@ Duas versões chinesas desta lista estão disponíveis [aqui](https://github.com
 - [KxStudio](http://kxstudio.linuxaudio.org/) - O KXStudio é uma coleção de aplicativos e plugins para produção de áudio profissional.
 - [Libretime](http://libretime.org/) - O Libre é o software de transmissão aberta para agendamento e gerenciamento de estação remota, oferecido pelo Airtime [![Open-Source Software][OSS Icon]](https://github.com/LibreTime/libretime)
 - [LMMS](https://lmms.io/download/#linux) - Faça música em seu PC, crie melodias e batidas, sintetize e misture sons, organize amostras e muito mais. [![Open-Source Software][OSS Icon]](https://github.com/LMMS/lmms)
-- [Lollypop](http://gnumdk.github.io/lollypop-web) - Lollypop é uma nova aplicação de reprodução de música GNOME. [![Open-Source Software][OSS Icon]](https://github.com/gnumdk/lollypop)
+- [Lollypop](https://wildskyf.github.io/lollypop-web/) - Lollypop é uma nova aplicação de reprodução de música GNOME. [![Open-Source Software][OSS Icon]](https://github.com/gnumdk/lollypop)
 - [Lyricfier](https://github.com/emilioastarita/lyricfier) - Um aplicativo alternativo de letras do Spotify. [![Open-Source Software][OSS Icon]](https://github.com/emilioastarita/lyricfier)
 - [Mixxx](http://www.mixxx.org/download/) - Software de DJ gratuito que oferece tudo o que você precisa para realizar mixagens ao vivo, verdadeira alternativa ao Traktor. [![Open-Source Software][OSS Icon]](https://github.com/mixxxdj/mixxx)
 - [![Open-Source Software][OSS Icon]](https://github.com/mopidy/mopidy) [Mopidy](https://www.mopidy.com/) - An extensible music server written in Python.
