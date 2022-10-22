@@ -1066,7 +1066,7 @@
 - [C'est quoi Fedora?](https://docs.fedoraproject.org/fedora-project/project/fedora-overview.html)
 - [Ou télécharger Fedora](https://getfedora.org)
 - [Comment j'installe Fedora?](https://docs.fedoraproject.org/f26/install-guide/install/Preparing_for_Installation.html)
-- [Ask Fedora](https://ask.fedoraproject.org/en/questions/)
+- [Ask Fedora](https://ask.fedoraproject.org/c/english/97)
 
 ### openSUSE
 
