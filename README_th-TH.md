@@ -138,7 +138,6 @@
 - [![Open-Source Software][OSS Icon]](https://wiki.gnome.org/Apps/SoundJuicer) [SoundJuicer](http://www.howtogeek.com/howto/20126/rip-audio-cds-with-sound-juicer/) - เครื่องมือแปลง CD เป็นไฟล์เสียงสำหรับ GNOME
 - [![Open-Source Software][OSS Icon]](https://github.com/Soundnode/soundnode-app) [Soundnode](https://soundnode.github.io/soundnode-website/) - โปรแกรมเล่น SoundCloud บนเดสก์ท็อป
 - [![Open-Source Software][OSS Icon]](https://github.com/devinhalladay/spotio) [Spotio](https://github.com/devinhalladay/spotio) - เปลี่ยนหน้าตาของโปรแกรม Spotify ให้เป็นรูปแบบคล้าย Rdio
-- [![Open-Source Software][OSS Icon]](https://github.com/tomahawk-player/tomahawk) [Tomahawk](https://www.tomahawk-player.org/) - A new kind of music player that invites all your streams, downloads, cloud music storage, playlists, radio stations and more.
 - [![Open-Source Software][OSS Icon]](https://github.com/VCVRack/Rack) [VCV Rack](https://vcvrack.com/) - An open-source virtual modular synthesizer.
 - [![Open-Source Software][OSS Icon]](https://github.com/needle-and-thread/vocal) [Vocal](http://vocalproject.net/) - โปรแกรมเล่น Podcast สำหรับเดสก์ท็อปยุคใหม่
 

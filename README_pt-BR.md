@@ -130,7 +130,6 @@ Duas versões chinesas desta lista estão disponíveis [aqui](https://github.com
 - [SoundJuicer](http://www.howtogeek.com/howto/20126/rip-audio-cds-with-sound-juicer/) - Ferramenta de rascunho de CD para GNOME
 - [Soundnode](https://soundnode.github.io/soundnode-website/) - Um aplicativo SoundCloud OpenSouce para Desktop. [![Open-Source Software][OSS Icon]](https://github.com/Soundnode/soundnode-app)
 - [Spotio](https://github.com/devinhalladay/spotio) - Um tema de luz inspirado no Rdio para o aplicativo desktop Spotify. [![Open-Source Software][OSS Icon]](https://github.com/devinhalladay/spotio)
-- [Tomahawk](https://www.tomahawk-player.org/) -A new kind of music player that invites all your streams, downloads, cloud music storage, playlists, radio stations and more. [![Open-Source Software][OSS Icon]](https://github.com/tomahawk-player/tomahawk)
 - [![Open-Source Software][OSS Icon]](https://github.com/VCVRack/Rack) [VCV Rack](https://vcvrack.com/) - An open-source virtual modular synthesizer.
 - [Vocal](http://vocalproject.net/) - Cliente Podcast para Desktops modernos. [![Open-Source Software][OSS Icon]](https://github.com/vocalapp)
 
