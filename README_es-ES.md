@@ -723,7 +723,7 @@ es un creador de imágenes GIF de código abierto.
 - [![Open-Source Software][OSS Icon]](https://github.com/notepadqq/notepadqq) [Notepadqq](http://notepadqq.altervista.org/wp/) - Notepadqq es un Notepad ++ como editor para Linux.
 - [![Open-Source Software][OSS Icon]](https://github.com/nuttyartist/notes) [Notes](http://www.get-notes.com/) - Una simple aplicación de toma de notas para Linux.
 - [![Open-Source Software][OSS Icon]](https://github.com/patrikx3/onenote) [OneNote](https://www.corifeus.com/onenote) - Un programa de toma de notas escrito en Electron para Linux. Es un cliente de escritorio para OneNote.
-- [![Open-Source Software][OSS Icon]](http://orgmode.org/cgit.cgi/org-mode.git/) [Org mode](http://orgmode.org/) - Org mode un programa para mantener notas, mantener listas de trabajo, planear proyectos y crear documentos.
+- [![Open-Source Software][OSS Icon]](https://git.savannah.gnu.org/cgit/emacs/org-mode.git/) [Org mode](http://orgmode.org/) - Org mode un programa para mantener notas, mantener listas de trabajo, planear proyectos y crear documentos.
 - [![Open-Source Software][OSS Icon]](https://github.com/Aseman-Land/Papyrus) [Papyrus](http://aseman.co/en/products/papyrus/) - Papyrus Es un organizador de notas que se centra en la seguridad, y una interfaz fácil de usar.
 - [![Open-Source Software][OSS Icon]](https://github.com/pbek/QOwnNotes) [QOwnNotes](https://github.com/pbek/QOwnNotes) - QOwnNotes es un administrador de listas de archivos, bloc de notas y tareas de texto sin formato que admite el descuento y puede integrarse con Nextcloud / Owncloud.
 - [Simplenote](https://simplenote.com/) - Un organizador de notas multiplataforma, que es un competidor de Evernote.
