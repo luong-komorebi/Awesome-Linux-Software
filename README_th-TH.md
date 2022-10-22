@@ -114,7 +114,7 @@
 - [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/kxstudio/) [KxStudio](http://kxstudio.linuxaudio.org/) - รวบรวมโปรแกรมและส่วนเสริมสำหรับผู้ที่ทำงานด้านเสียงมืออาชีพ
 - [![Open-Source Software][OSS Icon]](https://github.com/LibreTime/libretime) [Libretime](http://libretime.org/) - ซอฟต์แวร์สำหรับทำสถานีกระจายเสียง จัดตารางและควบคุมระยะไกล ซอฟต์แวร์ต้นแบบมาจาก Airtime
 - [![Open-Source Software][OSS Icon]](https://github.com/LMMS/lmms) [LMMS](https://lmms.io/download/#linux) - สร้างดนตรีบนเครื่องคอมพิวเตอร์ของคุณ โดยสร้างเมโลดี้และจังหวะ, สังเคราะห์เสียง ผสมเสียง รวมถึงเรียบเรียงและอีกมากมาย
-- [![Open-Source Software][OSS Icon]](https://github.com/gnumdk/lollypop) [Lollypop](http://gnumdk.github.io/lollypop-web) - โปรแกรมเล่นเพลงของ GNOME
+- [![Open-Source Software][OSS Icon]](https://github.com/gnumdk/lollypop) [Lollypop](https://wildskyf.github.io/lollypop-web/) - โปรแกรมเล่นเพลงของ GNOME
 - [![Open-Source Software][OSS Icon]](https://github.com/emilioastarita/lyricfier) [Lyricfier](https://github.com/emilioastarita/lyricfier) - โปรแกรมแสดงเนื้อเพลงที่เล่นผ่าน Spotify
 - [![Open-Source Software][OSS Icon]](https://github.com/mixxxdj/mixxx) [Mixxx](http://www.mixxx.org/download/) - ซอฟต์แวร์ DJ ฟรี ที่มีทุกสิ่งสำหรับแสดงการมิกซ์สด โดยให้อารมณ์ใกล้เคียงโปรแกรม Traktor
 - [![Open-Source Software][OSS Icon]](https://github.com/ColinDuquesnoy/MellowPlayer) [Mellow Player](https://colinduquesnoy.github.io/MellowPlayer/) - เชื่อมต่อเพลงบนคลาวด์กับเครื่องเดสก์ท็อปของคุณ
