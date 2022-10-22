@@ -783,7 +783,7 @@ es un programa SUID que crea seguridad mediante la restricción de aplicaciones 
 - [Dropbox](https://www.dropbox.com/install?os=lnx) - Dropbox es un servicio gratuito que le permite almacenar archivos en la nube.
 - [![Open-Source Software][OSS Icon]](https://filezilla-project.org/sourcecode.php) [Filezilla](https://filezilla-project.org/) - Un servidor FTP de código abierto y un cliente.
 - [Flareget](https://flareget.com/) - Un gestor de descargas y un acelerador con muchas características.
-- [![Open-Source Software][OSS Icon]](https://cgit.kde.org/ktorrent.git/tree//?) [KTorrent](https://www.kde.org/applications/internet/ktorrent/) - KTorrent una aplicación bittorrent creada por KDE.
+- [![Open-Source Software][OSS Icon]](https://invent.kde.org/network/ktorrent) [KTorrent](https://www.kde.org/applications/internet/ktorrent/) - KTorrent una aplicación bittorrent creada por KDE.
 - [![Open-Source Software][OSS Icon]](https://github.com/meganz/MEGAsync) [Mega](https://mega.nz/#sync) - Un cliente de Mega.co.nz que sincroniza automáticamente los archivos de su computadora con su cuenta MEGA.
 - [![Open-Source Software][OSS Icon]](https://github.com/nitroshare/nitroshare-desktop) [NitroShare](https://nitroshare.net/) - Un programa de transferencia de archivos de red multiplataforma.
 - [ownCloud](https://owncloud.com/products/desktop-clients/) - Un programa que te permite acceder a tus archivos sin importar donde estés.
