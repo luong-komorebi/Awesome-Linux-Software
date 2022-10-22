@@ -108,7 +108,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/gpodder/gpodder) [Gpodder](https://gpodder.github.io/) - Un agregador de podcasts y cliente.
 - [![Open-Source Software][OSS Icon]](https://github.com/haecker-felix/gradio/releases/) [GRadio](https://github.com/haecker-felix/gradio/releases/) - Software de radio para Linux Ubuntu.
 - [![Open-Source Software][OSS Icon]](https://github.com/mtytel/helm) [Helm](http://tytel.org/helm/) - Un Sintetizador en Software, que puede funcionar solo o con muchos complementos como: LV2, VST, VST3 o AU plugin.
-- [![Open-Source Software][OSS Icon]](https://github.com/hydrogen-music/hydrogen) [Hydrogen](http://www.hydrogen-music.org/hcms/node/21) - Uno caja de ritmos avanzado para GNU/Linux.
+- [![Open-Source Software][OSS Icon]](https://github.com/hydrogen-music/hydrogen) [Hydrogen](http://hydrogen-music.org/) - Uno caja de ritmos avanzado para GNU/Linux.
 - [![Open-Source Software][OSS Icon]](https://github.com/trazyn/ieaseMusic) [ieaseMusic](https://github.com/trazyn/ieaseMusic) - es una aplicación multiplataforma para escuchar música en la música de NetEase.
 - [![Open-Source Software][OSS Icon]](https://github.com/KDE/k3b) [K3b](http://www.k3b.org/) - Un creador de CD y DVD para linux, optimizado para KDE.
 - [Kid3Qt](https://apps.ubuntu.com/cat/applications/precise/kid3-qt/) - Para editar etiquetas de archivos, por ejemplo el nombre del artista, el álbum, el género y el año de los archivos de música.
