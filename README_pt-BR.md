@@ -739,7 +739,7 @@ Ele foi projetado principalmente para ajudar a recuperar partições perdidas e/
 - [Dropbox](https://www.dropbox.com/install?os=lnx) - Dropbox is a free service that lets you bring your photos, docs, and videos anywhere and share them easily.
 - [Filezilla](https://filezilla-project.org/) - the free FTP solution [![Open-Source Software][OSS Icon]](https://filezilla-project.org/sourcecode.php)
 - [Flareget](https://flareget.com/) - Full featured, multi-threaded download manager and accelerator
-- [KTorrent](https://www.kde.org/applications/internet/ktorrent/) - KTorrent is a BitTorrent application by KDE which allows you to download files using the BitTorrent protocol. [![Open-Source Software][OSS Icon]](https://cgit.kde.org/ktorrent.git/tree//?)
+- [KTorrent](https://www.kde.org/applications/internet/ktorrent/) - KTorrent is a BitTorrent application by KDE which allows you to download files using the BitTorrent protocol. [![Open-Source Software][OSS Icon]](https://invent.kde.org/network/ktorrent)
 - [Mega](https://mega.nz/#sync) - Easy automated syncing between your computers and your MEGA cloud drive. [![Open-Source Software][OSS Icon]](https://github.com/meganz/MEGAsync)
 - [Meiga](http://meiga.igalia.com/) - a tool that makes possible to share selected local directories via web. [![Open-Source Software][OSS Icon]](http://git.igalia.com/meiga.git)
 -  [NitroShare](https://nitroshare.net/) - Cross-Platform network file transfer application. [![Open-Source Software][OSS Icon]](https://github.com/nitroshare/nitroshare-desktop)

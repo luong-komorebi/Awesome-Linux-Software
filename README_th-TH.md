@@ -791,7 +791,7 @@
 - [Dropbox](https://www.dropbox.com/install?os=lnx) - Dropbox is a free service that lets you bring your photos, docs, and videos anywhere and share them easily.
 - [![Open-Source Software][OSS Icon]](https://filezilla-project.org/sourcecode.php) [Filezilla](https://filezilla-project.org/) - The free FTP solution.
 - [Flareget](https://flareget.com/) - Full featured, multi-threaded download manager and accelerator.
-- [![Open-Source Software][OSS Icon]](https://cgit.kde.org/ktorrent.git/tree//?) [KTorrent](https://www.kde.org/applications/internet/ktorrent/) - KTorrent is a BitTorrent application by KDE which allows you to download files using the BitTorrent protocol.
+- [![Open-Source Software][OSS Icon]](https://invent.kde.org/network/ktorrent) [KTorrent](https://www.kde.org/applications/internet/ktorrent/) - KTorrent is a BitTorrent application by KDE which allows you to download files using the BitTorrent protocol.
 - [![Open-Source Software][OSS Icon]](https://github.com/meganz/MEGAsync) [Mega](https://mega.nz/#sync) - Easy automated syncing between your computers and your MEGA cloud drive.
 - [![Open-Source Software][OSS Icon]](http://git.igalia.com/meiga.git) [Meiga](http://meiga.igalia.com/) - A tool that makes possible to share selected local directories via web.
 - [![Open-Source Software][OSS Icon]](https://github.com/nitroshare/nitroshare-desktop) [NitroShare](https://nitroshare.net/) - Cross-Platform network file transfer application.
