@@ -651,7 +651,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/linuxmint/Cinnamon) [Cinammon](http://cinnamon.linuxmint.com/) - Cinnamon 努力提供一种传统的用户体验。Cinnamon 是一个 GNOME 3 的 fork。
 - [Enlightenment](https://www.enlightenment.org) - Enlightenment 源自1996年的X11桌面管理器项目，整体外观颇具复古风尚，桌面布局可以使用经典（类Windows）和Dock（类Mac）两种，也可以自定义布局和风格，是KDE和Gnome之外，不可多得的优秀桌面环境项目，但项目目前仍在开发阶段，最新版本为0.23.1。
 - [![Open-Source Software][OSS Icon]](https://github.com/GNOME/gnome-flashback) [GNOME Flashback](https://wiki.gnome.org/Projects/GnomeFlashback) - GNOME Flashback 是 GNOME 3 的一个 shell，最初叫 GNOME fallback 模式。桌面的布局和底层技术都与 GNOME 2 相似。
-- [![Open-Source Software][OSS Icon]](https://github.com/GNOME/gnome-desktop) [Gnome](https://www.gnome.org/gnome-3/) - GNOME 桌面环境是一个有吸引力且直观的的桌面，同时有现代（GNOME）和经典（GNOME Classic）会话模式。 
+- [![Open-Source Software][OSS Icon]](https://github.com/GNOME/gnome-desktop) [Gnome](https://www.gnome.org/) - GNOME 桌面环境是一个有吸引力且直观的的桌面，同时有现代（GNOME）和经典（GNOME Classic）会话模式。 
 - [![Open-Source Software][OSS Icon]](https://github.com/KDE/plasma-desktop) [KDE Plasma](https://www.kde.org/workspaces/plasmadesktop/) - KDE Plasma 桌面环境是一个熟悉的工作环境。Plasma Desktop 提供现代桌面环境体验所需的所有工具，所以你可以从开始就充满生产力。
 - [![Open-Source Software][OSS Icon]](https://github.com/lxde) [LXDE](http://lxde.org/) - Lightweight X11 Desktop Environment （轻量化 X11 桌面环境）是一个快速且节能的桌面环境。
 - [![Open-Source Software][OSS Icon]](https://github.com/lxde/lxqt) [LXQt](http://lxqt.org/) - LXQt 是 LXDE 的 Qt 移植和即将到来的版本，轻量化的桌面环境。
