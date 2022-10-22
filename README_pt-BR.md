@@ -145,7 +145,7 @@ Duas versões chinesas desta lista estão disponíveis [aqui](https://github.com
 - [Gitter](https://gitter.im/) - Gitter — Aonde os desenvolvedores conversam. Gitter é projetado para tornar a comunicação, colaboração e descoberta de uma comunidade tão simples quanto possível. [![Open-Source Software][OSS Icon]](https://github.com/gitterHQ/services)
 - [HexChat](https://hexchat.github.io/) - HexChat é um cliente IRC baseado no XChat, mas ao contrário do XChat é completamente gratuito tanto para Windows quanto para Unix.[![Open-Source Software][OSS Icon]](https://github.com/hexchat)
 - [Irssi](https://github.com/irssi/irssi) - Irssi é um cliente de bate-papo que é mais popular por sua interface de usuário do modo texto. [![Open-Source Software][OSS Icon]](https://github.com/irssi/irssi)
-- [Jitsi](https://jitsi.org/) - Jitsi é um aplicativo de voz, videoconferência e mensagens instantâneas, multiplataforma open-source gratuito para Windows, Linux, Mac OS e Android. [![Open-Source Software][OSS Icon]](https://github.com/jitsi)
+- [Jitsi](https://jitsi.org/) - Jitsi é um aplicativo de voz, videoconferência e mensagens  instantâneas, multiplataforma open-source gratuito para Windows, Linux, Mac OS e Android. [![Open-Source Software][OSS Icon]](https://github.com/jitsi)
 - [KVIrc](http://www.kvirc.net/) - KVIrc é um cliente  gratuito IRC client baseado no excelente toolkit Qt GUI. [![Open-Source Software][OSS Icon]](https://github.com/kvirc/KVIrc)
 - [Messenger for Desktop](https://messengerfordesktop.com/#download) - Um aplicativo para o Facebook messenger. [![Open-Source Software][OSS Icon]](https://github.com/Aluxian/Facebook-Messenger-Desktop)
 - [Pidgin](http://askubuntu.com/questions/307622/update-pidgin-using-apt-get) - Um cliente universal de bate-papo.
@@ -1020,7 +1020,7 @@ Ele foi projetado principalmente para ajudar a recuperar partições perdidas e/
 - [What is Fedora?](https://docs.fedoraproject.org/fedora-project/project/fedora-overview.html)
 - [Where to download Fedora](https://getfedora.org)
 - [How do I install Fedora?](https://docs.fedoraproject.org/f26/install-guide/install/Preparing_for_Installation.html)
-- [Ask Fedora](https://ask.fedoraproject.org/en/questions/)
+- [Ask Fedora](https://ask.fedoraproject.org/c/english/97)
 
 ### openSUSE
 

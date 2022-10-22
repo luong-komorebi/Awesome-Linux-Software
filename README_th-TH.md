@@ -1062,7 +1062,7 @@
 - [What is Fedora?](https://docs.fedoraproject.org/fedora-project/project/fedora-overview.html)
 - [Where to download Fedora](https://getfedora.org)
 - [How do I install Fedora?](https://docs.fedoraproject.org/f26/install-guide/install/Preparing_for_Installation.html)
-- [Ask Fedora](https://ask.fedoraproject.org/en/questions/)
+- [Ask Fedora](https://ask.fedoraproject.org/c/english/97)
 
 ### openSUSE
 
