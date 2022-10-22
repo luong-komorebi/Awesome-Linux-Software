@@ -842,7 +842,7 @@ es un programa SUID que crea seguridad mediante la restricción de aplicaciones 
 - [![Open-Source Software][OSS Icon]](https://github.com/keepassxreboot/keepassxc) [KeePassXC](https://keepassxc.org/) - Un administrador de contraseñas multiplataforma, es una comunidad mantenida bifurcacion de: KeePassX([dead](https://github.com/keepassx/keepassx/pull/204))
 - [![Open-Source Software][OSS Icon]](https://github.com/thjaeger/easystroke) [EasyStroke](https://github.com/thjaeger/easystroke/wiki#download) - Easystroke es un programa para reconocer gestos para el entorno X11.
 - [![Open-Source Software][OSS Icon]](https://github.com/OzymandiasTheGreat/emoji-keyboard) [Emoji Keyboard](https://github.com/OzymandiasTheGreat/emoji-keyboard) - Un teclado diseñado para emojis.
-- [![Open-Source Software][OSS Icon]](https://github.com/SpiderOak/Encryptr) [Encryptr](https://spideroak.com/encryptr/) - Encryptr es un fácil de usar e-wallet y administrador de contraseñas.
+- [![Open-Source Software][OSS Icon]](https://github.com/SpiderOak/Encryptr) [Encryptr](https://spideroak.com/personal/encryptr) - Encryptr es un fácil de usar e-wallet y administrador de contraseñas.
 - [Enpass](https://www.enpass.io/) - Enpass es un administrador de contraseñas y también puede almacenar otra información importante.
 - [![Open-Source Software][OSS Icon]](https://github.com/resin-io/etcher) [Etcher](https://etcher.io/) - Flash OS a tarjetas SD y unidades USB de forma segura y sencilla.
 - [![Open-Source Software][OSS Icon]](https://github.com/FreeRDP/FreeRDP) [FreeRDP](http://www.freerdp.com/) - FreeRDP es una implementación de código abierto del "Remote Desktop Protocol (RDP)".

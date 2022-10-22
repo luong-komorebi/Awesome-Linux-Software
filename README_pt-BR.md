@@ -795,7 +795,7 @@ Ele foi projetado principalmente para ajudar a recuperar partições perdidas e/
 - [Curlew](https://github.com/chamfay/Curlew) - GTK Media Converter para o desktop com GNOME [![Open-Source Software][OSS Icon]](https://github.com/chamfay/Curlew)
 - [EasyStroke](https://github.com/thjaeger/easystroke/wiki#download) - Easystroke é uma aplicação de reconhecimento de gestos para X11. [![Open-Source Software][OSS Icon]](https://github.com/thjaeger/easystroke)
 - [Emoji Keyboard](https://github.com/OzymandiasTheGreat/emoji-keyboard) - Virtual keyboard-like emoji picker for Linux. [![Open-Source Software][OSS Icon]](https://github.com/OzymandiasTheGreat/emoji-keyboard)
-- [Encryptr](https://spideroak.com/encryptr/) - Encryptr is a zero-knowledge, cloud-based e-wallet / password manager powered by Crypton. [![Open-Source Software][OSS Icon]](https://github.com/SpiderOak/Encryptr)
+- [Encryptr](https://spideroak.com/personal/encryptr) - Encryptr is a zero-knowledge, cloud-based e-wallet / password manager powered by Crypton. [![Open-Source Software][OSS Icon]](https://github.com/SpiderOak/Encryptr)
 - [Enpass](https://www.enpass.io/) - Enpass makes your life easy by securely managing your passwords and important information.
 - [![Open-Source Software][OSS Icon]](https://github.com/resin-io/etcher) [Etcher](https://etcher.io/) - Flash OS images to SD cards & USB drives, safely and easily.
 - [FreeRDP](http://www.freerdp.com/) - FreeRDP é uma implementação livre do Remote Desktop Protocol (RDP). [![Open-Source Software][OSS Icon]](https://github.com/FreeRDP/FreeRDP)
