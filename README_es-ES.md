@@ -787,7 +787,6 @@ es un programa SUID que crea seguridad mediante la restricción de aplicaciones 
 - [Flareget](https://flareget.com/) - Un gestor de descargas y un acelerador con muchas características.
 - [![Open-Source Software][OSS Icon]](https://cgit.kde.org/ktorrent.git/tree//?) [KTorrent](https://www.kde.org/applications/internet/ktorrent/) - KTorrent una aplicación bittorrent creada por KDE.
 - [![Open-Source Software][OSS Icon]](https://github.com/meganz/MEGAsync) [Mega](https://mega.nz/#sync) - Un cliente de Mega.co.nz que sincroniza automáticamente los archivos de su computadora con su cuenta MEGA.
-- [![Open-Source Software][OSS Icon]](http://git.igalia.com/meiga.git) [Meiga](http://meiga.igalia.com/) - Una herramienta que le permite compartir directorios de archivos locales a través de Internet.
 - [![Open-Source Software][OSS Icon]](https://github.com/nitroshare/nitroshare-desktop) [NitroShare](https://nitroshare.net/) - Un programa de transferencia de archivos de red multiplataforma.
 - [ownCloud](https://owncloud.com/products/desktop-clients/) - Un programa que te permite acceder a tus archivos sin importar donde estés.
 - [PushBullet](https://www.pushbullet.com/) - Pushbullet un servicio que conecta sus dispositivos para que pueda compartir archivos y mensajes y vínculos entre ellos.
