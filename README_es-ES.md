@@ -935,7 +935,7 @@ es un programa SUID que crea seguridad mediante la restricción de aplicaciones 
 - [Las 10 mejores herramientas de línea de comandos.](http://lifehacker.com/399468/top-10-command-line-tools)
 - [![Open-Source Software][OSS Icon]](https://github.com/nojhan/liquidprompt) [Liquidprompt](https://github.com/nojhan/liquidprompt) - Un símbolo de comando multipropósito diseñado para Bash y Zsh.
 - [![Open-Source Software][OSS Icon]](https://github.com/mps-youtube/mps-youtube) [mps-youtube](https://github.com/mps-youtube/mps-youtube) - Un programa diseñado para buscar y reproducir música para la línea de comandos. Encuentra esta música de Youtube.
-- [![Open-Source Software][OSS Icon]](https://dev.mutt.org/hg/mutt/file/tip) [Mutt](http://www.mutt.org/) - Un cliente basado en la línea de comandos para correo electrónico.
+- [![Open-Source Software][OSS Icon]](https://gitlab.com/muttmua/mutt) [Mutt](http://www.mutt.org/) - Un cliente basado en la línea de comandos para correo electrónico.
 - [![Open-Source Software][OSS Icon]](https://github.com/dylanaraps/neofetch) [Neofetch](https://github.com/dylanaraps/neofetch/releases) - Un script del sistema que puede mostrar información sobre su sistema, funciona en muchos sistemas operativos diferentes, tales como: Linux, MacOS, iOS, BSD, Solaris, Android, Haiku, GNU Hurd, MINIX, AIX y Windows.
 - [PathPicker](https://github.com/facebook/PathPicker) - Un programa que le permite seleccionar la salida de un comando y buscarlo por archivos y luego permitirle ejecutar un comando en esos archivos.
 - [pywal](https://github.com/dylanaraps/pywal) - Es un script que cambia los colores de la línea de comandos para que coincida con el fondo de pantalla u otra imagen.
