@@ -488,7 +488,6 @@ La versión de la comunidad es un software de código abierto.
 - [![Open-Source Software][OSS Icon]](https://github.com/dolphin-emu/dolphin) [Dolphin Emulator](https://dolphin-emu.org/) - Dolphin es un emulador de Gamecube / Wii que te permite jugar estos juegos en Linux.
 - [![Open-Source Software][OSS Icon]](https://sourceforge.net/p/fuse-emulator/fuse/ci/master/tree/) [Fuse](http://fuse-emulator.sourceforge.net/) - Fuse es un emulador de espectro ZX para Linux.
 - [![Open-Source Software][OSS Icon]](https://github.com/GNOME/gnome-video-arcade) [GNOME Video Arcade](https://wiki.gnome.org/action/show/Apps/GnomeVideoArcade?action=show&redirect=GnomeVideoArcade) - GNOME Video Arcade is a simple Mame frontend for any freedesktop.org compliant desktop environment.
-- [![Open-Source Software][OSS Icon]](https://gitlab.com/higan/higan) [Higan](https://byuu.org/emulation/higan/) - Higan
 es un emulador multiplataforma para estas consolas: NES, SNES, GameBoy, GameBoy Color, Gameboy Advance, NEC PC Engine, Sega Master System y más. Esta es una guía para instalarlo en inglés. [Instalación de Higan en inglés](https://higan.readthedocs.io/en/stable/install/linux/)
 - [![Open-Source Software][OSS Icon]](https://github.com/mamedev/mame) [MAME](http://mamedev.org/) - MAME es un emulador de arcade que puede jugar muchos juegos antiguos de arcade.
 - [![Open-Source Software][OSS Icon]](https://github.com/0ldsk00l/nestopia) [nestopia](http://0ldsk00l.ca/nestopia/) - nestopia es un emulador de Nintendo.
