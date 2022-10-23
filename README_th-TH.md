@@ -722,7 +722,7 @@
 - ![Nonfree][Money Icon] [Inkdrop](https://www.inkdrop.info/) - The Note-Taking App for Markdown Lovers with simple interface, seemless security and powerful APIs.
 - [![Open-Source Software][OSS Icon]](https://github.com/laurent22/joplin) [Joplin](http://joplin.cozic.net) - a note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS.
 - [![Open-Source Software][OSS Icon]](https://sourceforge.net/p/nevernote/code/ci/master/tree/) [NixNote](https://sourceforge.net/projects/nevernote/) - An open source client for Evernote.
-- [![Open-Source Software][OSS Icon]](https://github.com/notepadqq/notepadqq) [Notepadqq](http://notepadqq.altervista.org/wp/) - Notepadqq is a Notepad++-like editor for the Linux desktop.
+- [![Open-Source Software][OSS Icon]](https://github.com/notepadqq/notepadqq) [Notepadqq](https://notepadqq.com/s/) - Notepadqq is a Notepad++-like editor for the Linux desktop.
 - [![Open-Source Software][OSS Icon]](https://github.com/nuttyartist/notes) [Notes](http://www.get-notes.com/) - A clean simple note taking app for Linux.
 - [![Open-Source Software][OSS Icon]](https://github.com/patrikx3/onenote) [OneNote](https://www.corifeus.com/onenote) - Linux Electron OneNote.
 - [![Open-Source Software][OSS Icon]](https://git.savannah.gnu.org/cgit/emacs/org-mode.git/) [Org mode](http://orgmode.org/) - Org mode is for keeping notes, maintaining TODO lists, planning projects, and authoring documents with a fast and effective plain-text system.
