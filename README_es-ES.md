@@ -533,7 +533,7 @@ es un emulador multiplataforma para estas consolas: NES, SNES, GameBoy, GameBoy 
 - [![Open-Source Software][OSS Icon]](https://github.com/lettier/gifcurry) [Gifcurry](https://lettier.github.io/gifcurry/) -
 es un creador de imágenes GIF de código abierto.
 - [Gravit](https://www.designer.io/) - Gravit Designer es una aplicación de diseño vectorial libre.
-- [Heron Animation](https://www.heronanimation.brick-a-brack.com/#download) - Es un programa de animación "Stop motion" gratuito.
+- [Heron Animation](https://heronanimation.brunolefevre.net/) - Es un programa de animación "Stop motion" gratuito.
 - [![Open-Source Software][OSS Icon]](https://github.com/inkscape/inkscape) [Inkscape](https://inkscape.org/en/) - Es una herramienta de diseño capaz y gratuita para imágenes vectoriales.
 - [![Open-Source Software][OSS Icon]](https://www.kde.org/applications/graphics/karbon/development) [Karbon](https://www.calligra.org/karbon/) - Es un programa de dibujo vectorial de código abierto.
 - [![Open-Source Software][OSS Icon]](https://github.com/mbasaglia/Knotter) [Knotter](https://knotter.mattbas.org/Knotter) - Knotter es un programa que ayuda a diseñar nudos celtas.
