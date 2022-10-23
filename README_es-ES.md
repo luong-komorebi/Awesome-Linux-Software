@@ -641,7 +641,7 @@ es un creador de imágenes GIF de código abierto.
 - [![Open-Source Software][OSS Icon]](https://github.com/jeena/FeedTheMonkey) [FeedTheMonkey](https://github.com/jeena/FeedTheMonkey/releases) - FeedTheMonkey es un cliente de escritorio para TinyTinyRSS.
 - [![Open-Source Software][OSS Icon]](https://github.com/vinszent/gnome-twitch) [GnomeTwitch](http://gnome-twitch.vinszent.com/) - Un cliente Twitch que no requiere Adobe Flash.
 - [![Open-Source Software][OSS Icon]](https://github.com/EragonJ/Kaku) [Kaku](https://github.com/EragonJ/Kaku/releases) - Un reproductor de música de código abierto para youtube.
-- [![Open-Source Software][OSS Icon]](https://https://github.com/popcorn-official/) [Popcorntime](https://popcorntime.sh/) - Una aplicación que te permite transmitir películas, mediante el uso de torrents.
+- [![Open-Source Software][OSS Icon]](https://github.com/popcorn-official/) [Popcorntime](https://popcorntime.sh/) - Una aplicación que te permite transmitir películas, mediante el uso de torrents.
 
 
 ### Oficina
