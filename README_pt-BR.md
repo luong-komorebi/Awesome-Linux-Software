@@ -599,7 +599,7 @@ Ele foi projetado principalmente para ajudar a recuperar partições perdidas e/
 - [FeedTheMonkey](https://github.com/jeena/FeedTheMonkey/releases) - FeedTheMonkey is a desktop client for TinyTinyRSS.  [![Open-Source Software][OSS Icon]](https://github.com/jeena/FeedTheMonkey)
 - [GnomeTwitch](http://gnome-twitch.vinszent.com/) - Enjoy Twitch on your GNU/Linux desktop with this Twitch non-Adobe-flash client.  [![Open-Source Software][OSS Icon]](https://github.com/vinszent/gnome-twitch)
 - [Kaku](https://github.com/EragonJ/Kaku/releases) - An opensource youtube music player for Ubuntu.  [![Open-Source Software][OSS Icon]](https://github.com/EragonJ/Kaku)
-- [Popcorntime](https://popcorntime.sh/) - Watch torrent movies instantly.  [![Open-Source Software][OSS Icon]](https://https://github.com/popcorn-official/)
+- [Popcorntime](https://popcorntime.sh/) - Watch torrent movies instantly.  [![Open-Source Software][OSS Icon]](https://github.com/popcorn-official/)
 
 ### Trabalho
 
