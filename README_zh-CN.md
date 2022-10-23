@@ -633,7 +633,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/jarun/googler) [Googler](https://itsfoss.com/review-googler-linux/) - 从命令行 Google 一切。
 - [![Open-Source Software][OSS Icon]](https://github.com/hishamhm/htop) [htop](http://hisham.hm/htop/) - 带有改进的特性和用户体验的 top。
 - [![Open-Source Software][OSS Icon]](https://github.com/mps-youtube/mps-youtube) [mps-youtube](https://github.com/mps-youtube/mps-youtube) - 基于终端的程序，用于搜索，流媒体以及下载音乐。这个实现使用 Youtue 作为内容源，能够播放和下载视频和音频。 
-- [![Open-Source Software][OSS Icon]](https://dev.mutt.org/hg/mutt/file/tip) [Mutt](http://www.mutt.org/) - 终端邮件客户端，vim 快捷键，强大灵活可定制。 
+- [![Open-Source Software][OSS Icon]](https://gitlab.com/muttmua/mutt) [Mutt](http://www.mutt.org/) - 终端邮件客户端，vim 快捷键，强大灵活可定制。 
 - [![Open-Source Software][OSS Icon]](https://github.com/dylanaraps/neofetch) [Neofetch](https://github.com/dylanaraps/neofetch/releases) -  快速，高度定制化的系统信息获取脚本，支持 Linux，MacOS，iOS，BSD，Solaris，Android，Haiku，GNU Hurd，MINIX，AIX 以及 Windows。 
 - [![Open-Source Software][OSS Icon]](https://github.com/akrennmair/newsbeuter/tree/master) [Newsbeuter](http://newsbeuter.org/) - 带有 vim 快捷键的快速，可定制 RSS 订阅阅读器。 
 - [![Open-Source Software][OSS Icon]](https://github.com/alexdantas/pacman4console.debian) [Pacman4console](https://launchpad.net/ubuntu/+source/pacman4console) - 在控制台玩吃豆人。
