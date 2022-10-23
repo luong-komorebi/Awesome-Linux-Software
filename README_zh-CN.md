@@ -456,7 +456,7 @@
 - [![Open-Source Software][OSS Icon]](http://bazaar.launchpad.net/~joh/alarm-clock/trunk/files) [Alarm Clock](http://alarm-clock.pseudoberries.com/) - Alarm Clock 是一款全功能的 GNOME 或其它面板的闹钟。 
 - [Ambient Noise](https://itsfoss.com/ambient-noise-music-player-ubuntu/) - 在 Linux 上安装环境噪声提高专注。
 - [Autokey](https://github.com/autokey/autokey) - 一款 Linux 桌面自动化工具，让你可以管理你的脚本和短语集合，并给它们分配缩写或者快捷键。
-- [![Open-Source Software][OSS Icon]](http://basket.kde.org/svnaccess.php) [Basket Note Pads](http://basket.kde.org/) - 这个多用途的笔记应用帮助你记下所有类型的笔记。 
+- [![Open-Source Software][OSS Icon]](https://apps.kde.org/basket/svnaccess.php) [Basket Note Pads](https://apps.kde.org/basket/) - 这个多用途的笔记应用帮助你记下所有类型的笔记。 
 - [Brightness](https://launchpad.net/indicator-brightness) - Ubuntu 下的一个亮度指示器。
 - [![Open-Source Software][OSS Icon]](https://github.com/Cairo-Dock) [Cairo-Dock](http://glx-dock.org/) - Cairo-Dock 是一个可自定义 dock，插件，面板等的桌面界面。 
 - [![Open-Source Software][OSS Icon]](http://git.calcurse.org/calcurse.git/) [calcurse](http://calcurse.org/) - A calendar and scheduling application for the command line.
