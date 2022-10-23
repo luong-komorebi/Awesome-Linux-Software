@@ -634,7 +634,6 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/mps-youtube/mps-youtube) [mps-youtube](https://github.com/mps-youtube/mps-youtube) - 基于终端的程序，用于搜索，流媒体以及下载音乐。这个实现使用 Youtue 作为内容源，能够播放和下载视频和音频。 
 - [![Open-Source Software][OSS Icon]](https://dev.mutt.org/hg/mutt/file/tip) [Mutt](http://www.mutt.org/) - 终端邮件客户端，vim 快捷键，强大灵活可定制。 
 - [![Open-Source Software][OSS Icon]](https://github.com/dylanaraps/neofetch) [Neofetch](https://github.com/dylanaraps/neofetch/releases) -  快速，高度定制化的系统信息获取脚本，支持 Linux，MacOS，iOS，BSD，Solaris，Android，Haiku，GNU Hurd，MINIX，AIX 以及 Windows。 
-- [![Open-Source Software][OSS Icon]](https://github.com/akrennmair/newsbeuter/tree/master) [Newsbeuter](http://newsbeuter.org/) - 带有 vim 快捷键的快速，可定制 RSS 订阅阅读器。 
 - [![Open-Source Software][OSS Icon]](https://github.com/alexdantas/pacman4console.debian) [Pacman4console](https://launchpad.net/ubuntu/+source/pacman4console) - 在控制台玩吃豆人。
 - [![Open-Source Software][OSS Icon]](https://github.com/nvbn/thefuck) [TheFuck](https://github.com/nvbn/thefuck) - 杰出的应用，它能纠正你的输入的错误命令。 
 - [![Open-Source Software][OSS Icon]](https://github.com/tmux/tmux) [Tmux](https://tmux.github.io/) - 它让你在一个终端中在多个程序间方便地切换，分离他们（保持在后台运行）并另一个终端中重新连接上去。以及还有好多事情可以做。
