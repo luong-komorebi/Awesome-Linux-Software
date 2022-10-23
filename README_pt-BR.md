@@ -548,7 +548,7 @@ Ele foi projetado principalmente para ajudar a recuperar partições perdidas e/
 - [Peek](https://github.com/phw/peek) - Simple animated GIF screen recorder with an easy to use interface. [![Open-Source Software][OSS Icon]](https://github.com/phw/peek)
 - [Silentcast](https://github.com/colinkeenan/silentcast) - Create silent mkv screencast and animated gif. [![Open-Source Software][OSS Icon]](https://github.com/colinkeenan/silentcast)
 - [![Open-Source Software][OSS Icon]](https://github.com/MaartenBaert/ssr) [SimpleScreenRecorder](http://www.maartenbaert.be/simplescreenrecorder/) - SimpleScreenRecorder is a feature-rich screen recorder that supports X11 and OpenGL. It has a Qt-based graphical user interface.
-- [Vokoscreen](http://www.kohaupt-online.de/hp/) - A free, multilingual and easy to use screencast recorder with audio for Linux. Features: detects webcams, avi and mkv video containers, mpeg4 and h.264 video codecs, adjustable frame rate, ... [![Open-Source Software][OSS Icon]](https://github.com/vkohaupt/vokoscreen)
+- [vokoscreenNG](https://linuxecke.volkoh.de/vokoscreen/vokoscreen.html) - A free, multilingual and easy to use screencast recorder with audio for Linux. Features: detects webcams, avi and mkv video containers, mpeg4 and h.264 video codecs, adjustable frame rate, ... [![Open-Source Software][OSS Icon]](https://github.com/vkohaupt/vokoscreenNG)
 
 #### Screenshot
 - [![Open-Source Software][OSS Icon]](https://github.com/lupoDharkael/flameshot) [Flameshot](https://github.com/lupoDharkael/flameshot) - Powerful yet simple to use screenshot software.

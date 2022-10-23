@@ -591,7 +591,7 @@ es un creador de imágenes GIF de código abierto.
 - [![Open-Source Software][OSS Icon]](https://github.com/phw/peek) [Peek](https://github.com/phw/peek) - Un sencillo y fácil de usar grabador de escritorio GIF.
 - [![Open-Source Software][OSS Icon]](https://github.com/colinkeenan/silentcast) [Silentcast](https://github.com/colinkeenan/silentcast) - Una grabadora de escritorio que crea archivos MKV, y también puede hacer archivos GIF animados.
 - [![Open-Source Software][OSS Icon]](https://github.com/MaartenBaert/ssr) [SimpleScreenRecorder](http://www.maartenbaert.be/simplescreenrecorder/) - SimpleScreenRecorder, es una simple grabadora de escritorio para Linux.
-- [![Open-Source Software][OSS Icon]](https://github.com/vkohaupt/vokoscreen) [Vokoscreen](http://www.kohaupt-online.de/hp/) - Una grabadora de screencast multilingüe de código abierto para Linux.
+- [![Open-Source Software][OSS Icon]](https://github.com/vkohaupt/vokoscreenNG) [vokoscreenNG](https://linuxecke.volkoh.de/vokoscreen/vokoscreen.html) - Una grabadora de screencast multilingüe de código abierto para Linux.
 
 #### Captura de pantalla
 - [![Open-Source Software][OSS Icon]](https://github.com/lupoDharkael/flameshot) [Flameshot](https://github.com/lupoDharkael/flameshot) - Un software de captura de pantalla fácil de usar y capaz.
