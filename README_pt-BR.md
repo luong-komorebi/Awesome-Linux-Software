@@ -617,7 +617,7 @@ Ele foi projetado principalmente para ajudar a recuperar partições perdidas e/
 - [WPS office](http://wps-community.org/) - A popular office suite in China, but is fully translated and functions well in English.
 
 #### LaTeX
-- Gummi [gtk2](https://github.com/alexandervdm/gummi)|[gtk3](https://github.com/aitjcize/Gummi) - Simple latex editor with templates, spell check, and wizards. [![Open-Source Software][OSS Icon]](https://github.com/alexandervdm/gummi)
+- [Gummi](https://gummi.app/) - Simple latex editor with templates, spell check, and wizards. [![Open-Source Software][OSS Icon]](https://github.com/alexandervdm/gummi)
 - [LaTeXila](https://wiki.gnome.org/Apps/LaTeXila) - LaTeXila is a LaTeX editor for the GNOME desktop. [![Open-Source Software][OSS Icon]](https://git.gnome.org/browse/latexila)
 - [LyX](http://www.lyx.org/) - Mature document editor that renders into LaTeX .. [![Open-Source Software][OSS Icon]](https://github.com/yihui/lyx)
 - [TexLive](https://www.tug.org/texlive/) - TeX Live is an easy way to get up and running with the TeX document production system.  [![Open-Source Software][OSS Icon]](https://www.tug.org/texlive/build.html)
