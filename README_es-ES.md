@@ -660,7 +660,7 @@ es un creador de imágenes GIF de código abierto.
 - [WPS office](http://wps-community.org/) - Un conjunto de programas de oficina popular en China. Se traduce y funciona bien en otros idiomas.
 
 #### LaTeX
-- [![Open-Source Software][OSS Icon]](https://github.com/alexandervdm/gummi) Gummi [gtk2](https://github.com/alexandervdm/gummi)|[gtk3](https://github.com/aitjcize/Gummi) -Gummi es un editor sencillo con plantillas, corrector ortográfico y guías.
+- [![Open-Source Software][OSS Icon]](https://github.com/alexandervdm/gummi) [Gummi](https://gummi.app/) -Gummi es un editor sencillo con plantillas, corrector ortográfico y guías.
 - [![Open-Source Software][OSS Icon]](https://git.gnome.org/browse/latexila) [LaTeXila](https://wiki.gnome.org/Apps/LaTeXila) - LaTeXila es un editor LaTex para el entorno de escritorio de GNOME.
 - [![Open-Source Software][OSS Icon]](https://github.com/yihui/lyx) [LyX](http://www.lyx.org/) - Un editor de documentos que puede procesar archivos LaTex.
 - [![Open-Source Software][OSS Icon]](https://www.tug.org/texlive/build.html) [TexLive](https://www.tug.org/texlive/) - TeX Live proporciona una manera fácil de crear un sistema de producción de documentos "Tex".

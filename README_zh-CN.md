@@ -443,7 +443,7 @@
 - [Texmaker](http://www.xm1math.net/texmaker/) - 免费跨平台的 LaTeX 编辑器。
 - [WPS office](http://wps-community.org/) - Linux 上的最佳办公套件之一。
 - [OnlyOffice](https://www.onlyoffice.com/) - 最佳的 Linux 办公套件之一。
-- [![Open-Source Software][OSS Icon]](https://github.com/alexandervdm/gummi) [Gummi gtk2](https://github.com/alexandervdm/gummi)|[Gummi gtk3](https://github.com/aitjcize/Gummi) - 带有模板，拼写检查以及向导的简单 latex 编辑器。 
+- [![Open-Source Software][OSS Icon]](https://github.com/alexandervdm/gummi) [Gummi](https://gummi.app/) - 带有模板，拼写检查以及向导的简单 latex 编辑器。 
 - [![Open-Source Software][OSS Icon]](https://github.com/Gnucash/) [GnuCash](https://www.gnucash.org/) - GnuCash 是一款自由的会计程序，实现了复式记账系统。它最初的目标是开发出与 Intuit, Inc. 的 Quicken 类似的功能，但它还有针对小企业会计的功能。 
 - [![Open-Source Software][OSS Icon]](https://github.com/KDE/kmymoney) [KMyMoney](https://kmymoney.org/) - KMyMoney 是 KDE 的一款个人金融管理器。它的操作类似 Microsoft Money 以及 Quicken。 
 - [![Open-Source Software][OSS Icon]](https://www.libreoffice.org/about-us/source-code/) [LibreOffice](https://www.libreoffice.org/) - Linux 上的最佳办公套件。 
