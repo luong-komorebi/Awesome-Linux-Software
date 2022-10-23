@@ -402,7 +402,7 @@
 - [![Open-Source Software][OSS Icon]](http://git.finalrewind.org/feh) [Feh](https://feh.finalrewind.org/) - 轻量且快速的图片查看器。
 - [![Open-Source Software][OSS Icon]](https://github.com/GNOME/gimp) [GIMP](https://www.gimp.org/downloads/) - GIMP 是一个自由分发的程序，可以进行照片修版，图像合成，图像编辑等操作
 - [![Open-Source Software][OSS Icon]](http://www.graphicsmagick.org/) [GraphicsMagick](http://www.graphicsmagick.org/) - GraphicsMagick is the swiss army knife of image processing.
-- [![Open-Source Software][OSS Icon]](https://git.gnome.org/browse/gthumb/) [Heron Animation](https://www.heronanimation.brick-a-brack.com/#download) - 免费的定格动画制作程序。  
+- [![Open-Source Software][OSS Icon]](https://git.gnome.org/browse/gthumb/) [Heron Animation](https://heronanimation.brunolefevre.net/) - 免费的定格动画制作程序。  
 - [![Open-Source Software][OSS Icon]](https://www.kde.org/applications/graphics/karbon/development) [Karbon](https://www.calligra.org/karbon/) - 一款开源的矢量绘图程序。  
 - [Kdenlive](https://kdenlive.org/) - Kdenlive 是一款非线性视频编辑器，比入门级的（线性）编辑器强大得多。  [![Open-Source Software][OSS Icon]](https://github.com/KDE/kdenlive)
 - [![Open-Source Software][OSS Icon]](https://github.com/LuminanceHDR/LuminanceHDR) [Luminance HDR](http://qtpfsgui.sourceforge.net/) - Luminance HDR 是一款开源的图形化用户界面应用，它的目标是提供一整套的 HDR 图像工作流程。 
