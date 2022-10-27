@@ -245,11 +245,15 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/catppuccin) [Catppuccin](https://github.com/catppuccin) - Catppuccin is a community-driven pastel theme that aims to be the middle ground between low and high contrast themes.
 - [![Open-Source Software][OSS Icon]](https://github.com/dracula/gtk) [Dracula](https://draculatheme.com/gtk) - A dark theme using the awesome Dracula color pallete.
 - [![Open-Source Software][OSS Icon]](https://github.com/daniruiz/Flat-Remix-GTK) [Flat Remix](https://github.com/daniruiz/Flat-Remix-GTK) - Flat Remix is a GTK application theme inspired by material design.
+- [![Open-Source Software][OSS Icon]](https://github.com/vinceliuice/Graphite-gtk-theme) [Graphite](https://github.com/vinceliuice/Graphite-gtk-theme) - Graphite GTK theme.
+- [![Open-Source Software][OSS Icon]](https://github.com/Fausto-Korpsvart/Gruvbox-GTK-Theme) [Gruvbox](https://github.com/Fausto-Korpsvart/Gruvbox-GTK-Theme) - A GTK theme based on the Gruvbox colour palette.
 - [![Open-Source Software][OSS Icon]](https://github.com/EliverLara/Kimi) [Kimi](https://github.com/EliverLara/Kimi) - Kimi is a light Gtk3.20+ theme.
+- [![Open-Source Software][OSS Icon]](https://github.com/vinceliuice/Layan-gtk-theme) [Layan](https://github.com/vinceliuice/Layan-gtk-theme) - Layan is a flat Material Design theme for GTK 3, GTK 2 and Gnome-Shell which supports GTK 3 and GTK 2 based desktop environments like Gnome, Budgie, etc.
 - [![Open-Source Software][OSS Icon]](https://github.com/material-ocean/material-ocean) [Material Ocean Theme](https://github.com/material-ocean/material-ocean) - A material design theme with oceanic colors(GTK, QT).
 - [![Open-Source Software][OSS Icon]](https://github.com/vinceliuice/Mojave-gtk-theme) [Mojave GTK Theme](https://github.com/vinceliuice/Mojave-gtk-theme) - Mojave is a Mac OSX like theme for GTK 3, GTK 2 and GNOME-Shell which supports GTK 3 and GTK 2 based desktop environments like GNOME, Pantheon, XFCE, Mate, etc.
 - [![Open-Source Software][OSS Icon]](https://github.com/EliverLara/Nordic) [Nordic](https://github.com/EliverLara/Nordic) - Dark Gtk3.20+ theme created using the awesome Nord color pallete.
 - [![Open-Source Software][OSS Icon]](https://github.com/vinceliuice/Orchis-theme) [Orchis theme](https://github.com/vinceliuice/Orchis-theme) - Orchis is a Material Design theme for GNOME/GTK based desktop environments.
+- [![Open-Source Software][OSS Icon]](https://github.com/vinceliuice/Qogir-theme) [Qogir](https://github.com/vinceliuice/Qogir-theme) - Qogir is a flat Design theme for GTK.
 - [![Open-Source Software][OSS Icon]](https://github.com/EliverLara/Sweet) [Sweet](https://github.com/EliverLara/Sweet) -  Light and dark colorful Gtk3.20+ theme.
 - [![Open-Source Software][OSS Icon]](https://github.com/vinceliuice/WhiteSur-gtk-theme) [WhiteSur GTK Theme](https://github.com/vinceliuice/WhiteSur-gtk-theme) - MacOS Big Sur like theme for GNOME desktops.
 
@@ -377,6 +381,8 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/WindSoilder/hors) [hors](https://github.com/WindSoilder/hors) - Instant coding answers via the command line.
 - [![Open-Source Software][OSS Icon]](https://github.com/Kong/insomnia) [Insomnia](https://insomnia.rest/) - A simple, beautiful, and free REST API client.
 - [![Open-Source Software][OSS Icon]](https://jupyter.readthedocs.io/en/latest/install.html) [Jupyter Notebook](https://jupyter.org/) - An open source program that provides interactive data and scientific computing information across over 40 programming languages.
+- [![Open-Source Software][OSS Icon]](https://github.com/jesseduffield/lazydocker) [lazydocker](https://github.com/jesseduffield/lazydocker) - A simple terminal UI for both docker and docker-compose, written in Go with the gocui library.
+- [![Open-Source Software][OSS Icon]](https://github.com/jesseduffield/lazygit) [lazygit](https://github.com/jesseduffield/lazygit) - A simple terminal UI for git commands, written in Go with the gocui library.
 - [![Open-Source Software][OSS Icon]](https://gitlab.gnome.org/GNOME/meld/tree/main) [Meld](https://meldmerge.org/) - Meld is a visual diff and merge tool that helps you compare files, directories, and version controlled projects.
 - [![Open-Source Software][OSS Icon]](https://gitlab.com/rmnvgr/metadata-cleaner/) [Metadata Cleaner](https://metadatacleaner.romainvigier.fr/) - This tool allows you to view metadata in your files and to get rid of it, as much as possible.
 - [Mockingbot](https://mockingbot.com) - Mockingbot is an easy-to-use prototyping tool.
@@ -443,7 +449,7 @@
 - [Sublime](https://www.sublimetext.com/) - A very capable text editor with advanced search capabilities, and many powerful plugins to improve its functionality.
 - [![Open-Source Software][OSS Icon]](https://github.com/orbitalquark/textadept) [Textadept](https://orbitalquark.github.io/textadept/) - Minimalist text editor for programmers. Textadept is extensible with Lua programming language.
 - [![Open-Source Software][OSS Icon]](https://github.com/Microsoft/vscode) [VSCode](https://code.visualstudio.com) - Visual Studio Code is a lightweight but powerful source code editor which runs on your desktop and is available for Windows, OS X and Linux. It comes with built-in support for JavaScript, TypeScript and Node.js and has a rich ecosystem of extensions for other languages (C++, C#, Python, PHP, Golang) and runtimes.
-- [![Open-Source Software][OSS Icon]](https://github.com/VSCodium/vscodium) [VSCodium](https://github.com/VSCodium/vscodium) - Binary releases of VS Code without MS branding/telemetry/licensing.
+- [![Open-Source Software][OSS Icon]](https://github.com/VSCodium/vscodium) [VSCodium](https://vscodium.com/) - Binary releases of VS Code without MS branding/telemetry/licensing.
 
 #### Terminal-Based Editors
 - [![Open-Source Software][OSS Icon]](https://github.com/emacs-mirror/emacs) [Emacs](https://www.gnu.org/software/emacs/) - An extensible, customizable, free/libre text editor — and more.
@@ -596,6 +602,7 @@
 - [OhMyGiraffe](https://www.ohmygiraffe.com/) - A delightful game of survival. A game about a giraffe eating fruit while being chased by lions.
 - [![Open-Source Software][OSS Icon]](https://gitlab.com/pingus/pingus) [Pingus](https://pingus.seul.org/) - 2D puzzle game that clones the popular Lemmings. Your goal is to guide a group of penguins safely across the game map.
 - [![Open-Source Software][OSS Icon]](https://github.com/PolyMC/PolyMC) [PolyMC](https://polymc.org/) - An Open Source Minecraft launcher with the ability to manage multiple instances, accounts and mods. Focused on user freedom and free redistributability.
+- [![Open-Source Software][OSS Icon]](https://github.com/PrismLauncher/PrismLauncher) [Prism Launcher](https://prismlauncher.org/) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC and PolyMC).
 - [![Open-Source Software][OSS Icon]](https://github.com/alpcoskun/snake) [Snake Game](https://aprilcoskun.github.io/snake/) - Cross-platform Classic Snake Game based on Node.js.
 - [![Open-Source Software][OSS Icon]](https://github.com/SuperTux/supertux/) [SuperTux](http://www.supertux.org/) - Clone of the popular sidescrolling Super Mario games.
 - [![Open-Source Software][OSS Icon]](https://github.com/supertuxkart/stk-code) [SuperTuxKart](https://supertuxkart.net) - SuperTuxKart is a 3D open-source arcade racer with a variety characters, tracks, and modes to play.
@@ -1267,6 +1274,7 @@ the WebKit rendering engine.
 - [![Open-Source Software][OSS Icon]](https://github.com/yt-dlp/yt-dlp) [yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes.
 
 ### System Info / Monitoring
+- [![Open-Source Software][OSS Icon]](https://github.com/AdnanHodzic/auto-cpufreq) [auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) - Automatic CPU speed & power optimizer for Linux.
 - [![Open-Source Software][OSS Icon]](https://github.com/aristocratos/bpytop) [bpytop](https://github.com/aristocratos/bpytop) - Resource monitor that shows usage and stats for processor, memory, disks, network and processes. Python port and continuation of bashtop.
 - [![Open-Source Software][OSS Icon]](https://github.com/aristocratos/btop) [btop](https://github.com/aristocratos/btop) - Resource monitor that shows usage and stats for processor, memory, disks, network and processes.
 - [![Open-Source Software][OSS Icon]](https://github.com/nicolargo/glances) [Glances](https://nicolargo.github.io/glances/) - Glances is a system monitoring terminal application that shows you your disk usage, ram usage, and cpu usage in a very friendly way using the Ncurses programming library. It is tolerant to windows resizing, and very low on system ram usage.
