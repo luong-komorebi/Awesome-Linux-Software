@@ -1,8 +1,7 @@
 name: Markdown Links Check
-# runs every monday at 9 am
 on:
   schedule:
-    - cron: "0 9 * * 1"
+    - cron: "14 18 * * 6"
 
 jobs:
   check-links:
@@ -15,6 +14,6 @@ jobs:
           use-quiet-mode: 'yes'
           use-verbose-mode: 'yes'
           config-file: '.github/workflows/markdown.links.config.json'
-          max-depth: 0
-          file-path: README.md
+          max-depth: 1
+          file-path: './README.md'
 
