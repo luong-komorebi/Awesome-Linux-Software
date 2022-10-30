@@ -421,7 +421,7 @@ La versión de la comunidad es un software de código abierto.
 - [Mailspring](https://getmailspring.com/) - Mailspring es un cliente de correo electrónico hermoso y rápido.
 - [![Open-Source Software][OSS Icon]](http://sylpheed.sraoss.jp/en/download.html#stable) [Sylpheed](http://sylpheed.sraoss.jp/en/) - Un cliente de correo electrónico rápido y fácil de usar.
 - [![Open-Source Software][OSS Icon]](https://releases.mozilla.org/pub/thunderbird/) [Thunderbird](https://www.mozilla.org/en-US/thunderbird/) - Thunderbird es una aplicación de correo electrónico de código abierto que es fácil de configurar y personalizar.
-- [![Open-Source Software][OSS Icon]](https://github.com/KDE/trojita) [Trojita](http://trojita.flaska.net/download.html) - Es un pequeño y rápido cliente de correo electrónico para Linux.
+- [![Open-Source Software][OSS Icon]](https://github.com/KDE/trojita) [Trojita](https://apps.kde.org/trojita/) - Es un pequeño y rápido cliente de correo electrónico para Linux.
 - [![Open-Source Software][OSS Icon]](https://github.com/danchoi/vmail) [Vmail](http://danielchoi.com/software/vmail.html) - Un cliente de Gmail diseñado para funcionar como el editor de texto de Vim.
 - [![Open-Source Software][OSS Icon]](https://github.com/Thomas101/wmail) [Wmail](https://github.com/Thomas101/wmail) - Un cliente para Gmail y Google Inbox que no es oficial.
 
