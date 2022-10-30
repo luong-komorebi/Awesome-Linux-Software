@@ -781,7 +781,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/virtual-puppet-project/vpuppr) [VPupPr](https://github.com/virtual-puppet-project/vpuppr) - VTuber application made with Godot 3.4.
 
 #### Video Editor
-- [![Open-Source Software][OSS Icon]](https://git.cinelerra-cv.org/gitweb?p=CinelerraCV.git;a=summary) [Cinelerra-cv](https://cinelerra.org/) - Professional video editing and compositing environment.
+- [![Open-Source Software][OSS Icon]](https://github.com/cinelerra-cv-team/cinelerra-cv) [Cinelerra-cv](http://cinelerra-cv.wikidot.com/) - Professional video editing and compositing environment.
 - ![Nonfree][Money Icon] [Davinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) - Revolutionary tools for editing, color correction, audio post and now visual effects, all in a single application.
 - [![Open-Source Software][OSS Icon]](https://github.com/jliljebl/flowblade) [Flowblade](https://github.com/jliljebl/flowblade) - A multitrack non-linear video editor for Linux.
 - [![Open-Source Software][OSS Icon]](https://invent.kde.org/multimedia/kdenlive) [Kdenlive](https://kdenlive.org/) - Kdenlive is a Non-Linear Video Editor, which is much more powerful than beginners’ (linear) editors.
