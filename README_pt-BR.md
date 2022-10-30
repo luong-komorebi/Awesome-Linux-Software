@@ -242,7 +242,7 @@ Ele foi projetado principalmente para ajudar a recuperar partições perdidas e/
 
 
 #### Microcomputer and Embedded Devices
-- [![Open-Source Software][OSS Icon]](https://github.com/arduino/Arduino) [Arduino IDE](https://www.arduino.cc/en/Main/Software) - O software open-source de Arduino (IDE) faz com que seja mais fácil escrever códigos e fazer o upload deles para a placa (board).
+- [![Open-Source Software][OSS Icon]](https://github.com/arduino/arduino-ide) [Arduino IDE](https://www.arduino.cc/en/Main/Software) - O software open-source de Arduino (IDE) faz com que seja mais fácil escrever códigos e fazer o upload deles para a placa (board).
 - [Fritzing](http://fritzing.org/) - Fritzing é uma iniciativa de hardware open-source que torna eletrônicos acessíveis como material criativo para qualquer um. [![Open-Source Software][OSS Icon]](https://github.com/fritzing/fritzing-app)
 - [Sloeber IDE](http://eclipse.baeyens.it/) - Sloeber IDE. A IDE de Arduino para o Eclipse. [![Open-Source Software][OSS Icon]](https://github.com/jantje/arduino-eclipse-plugin)
 
