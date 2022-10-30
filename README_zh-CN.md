@@ -160,7 +160,7 @@
 - [Clion](https://www.jetbrains.com/clion/) - 一款强大的跨平台 C 以及 C++ IDE。
 - [Android studio](https://developer.android.com/studio/index.html) - Android 的官方 IDE：Android Studio 提供在各种类型的安卓设备上构建应用最快的工具。
 - [Aptana](http://www.aptana.com/) - Aptana Studio 利用了 Eclipse 的灵活性并且专注于让它成为强大的 web 开发引擎。
-- [![Open-Source Software][OSS Icon]](https://github.com/arduino/Arduino) [Arduino IDE](https://www.arduino.cc/en/Main/Software) - 开源的 Arduino 软件（IDE）让编写代码和上传代码到开发板变得简单。
+- [![Open-Source Software][OSS Icon]](https://github.com/arduino/arduino-ide) [Arduino IDE](https://www.arduino.cc/en/Main/Software) - 开源的 Arduino 软件（IDE）让编写代码和上传代码到开发板变得简单。
 - [BlueJ](http://bluej.org/) - 一款为新手设计的免费 Java 开发环境，世界范围内数百万人使用。
 - [Code::Blocks](http://www.codeblocks.org/) - Code::Blocks 是一款为满足大部分用户需求构建的免费的 C，C++ 以及 Fortran IDE。它可扩展并且可配置性强。
 - [Codelite](http://codelite.org/) - 一款免费，开源，跨平台的 C，C++，PHP，以及 Node.js IDE。

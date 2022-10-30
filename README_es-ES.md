@@ -280,7 +280,7 @@ La versión de la comunidad es un software de código abierto.
 - [Webstorm](https://www.jetbrains.com/webstorm/) - Un potente Entorno de desarrollo integrado para javascript moderno. Está hecho por la compañía Jetbrains.
 
 #### Microcomputadora y Sistema embebido
-- [![Open-Source Software][OSS Icon]](https://github.com/arduino/Arduino) [Arduino IDE](https://www.arduino.cc/en/Main/Software) - El Arduino Oficial Entorno de desarrollo integrado.
+- [![Open-Source Software][OSS Icon]](https://github.com/arduino/arduino-ide) [Arduino IDE](https://www.arduino.cc/en/Main/Software) - El Arduino Oficial Entorno de desarrollo integrado.
 - [![Open-Source Software][OSS Icon]](https://github.com/fritzing/fritzing-app) [Fritzing](http://fritzing.org/) - Fritzing es un sitio web de hardware de código abierto que hace que la electrónica sea accesible para todos.
 - [![Open-Source Software][OSS Icon]](https://github.com/jantje/arduino-eclipse-plugin) [Sloeber IDE](http://eclipse.baeyens.it/) - Sloeber IDE. Un Arduino Entorno de desarrollo integrado para Eclipse.
 

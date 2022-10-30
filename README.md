@@ -328,7 +328,7 @@
 - [Webstorm](https://www.jetbrains.com/webstorm/) - Powerful IDE for modern JavaScript development, made by JetBrains.
 
 #### Microcomputer and Embedded Devices
-- [![Open-Source Software][OSS Icon]](https://github.com/arduino/Arduino) [Arduino IDE](https://www.arduino.cc/en/Main/Software) - The open-source Arduino Software (IDE) makes it easy to write code and upload it to the board.
+- [![Open-Source Software][OSS Icon]](https://github.com/arduino/arduino-ide) [Arduino IDE](https://www.arduino.cc/en/Main/Software) - The open-source Arduino Software (IDE) makes it easy to write code and upload it to the board.
 - [![Open-Source Software][OSS Icon]](https://github.com/fritzing/fritzing-app) [Fritzing](http://fritzing.org/) - Fritzing is an open-source hardware initiative that makes electronics accessible as a creative material for anyone.
 - [![Open-Source Software][OSS Icon]](https://github.com/Sloeber/arduino-eclipse-plugin) [Sloeber IDE](https://eclipse.baeyens.it/) - Sloeber IDE. The Arduino IDE for Eclipse.
 
