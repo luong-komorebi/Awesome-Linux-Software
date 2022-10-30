@@ -549,7 +549,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/cosmos72/twin) [Twin](https://github.com/cosmos72/twin/) - Fast, lightweight text-mode window environment with mouse support. Enables multiple terminals in a single Linux console, terminal or X11 window. It can be detached (keeps running in background) and reattached to a different console, terminal or X11 server. Works on Linux, Mac OS X and BSD
 - [![Open-Source Software][OSS Icon]](https://github.com/railsware/upterm) [Upterm](https://github.com/railsware/upterm) - Upterm (formerly Black Screen) is an IDE in the world of terminals. Strictly speaking, it's both a terminal emulator and an interactive shell based on [Electron](https://electron.atom.io/).
 - [Xterm](http://invisible-island.net/xterm/) - Xterm 是一个 X 窗口系统的终端模拟器。它给不直接使用窗口系统的程序提供了 DEC VT102 和 Tektronix 4014 兼容终端。
-- [Yakuake](https://yakuake.kde.org/) - 一款基于 KDE Konsole 技术的 Quake 风格的终端模拟器。
+- [Yakuake](https://apps.kde.org/yakuake/) - 一款基于 KDE Konsole 技术的 Quake 风格的终端模拟器。
 
 ### 实用工具
 - [Actionaz](http://actionaz.org/) - Ubuntu/Linux 下的任务自动化工具。

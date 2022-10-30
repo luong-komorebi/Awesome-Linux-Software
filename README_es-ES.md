@@ -826,7 +826,7 @@ es un programa SUID que crea seguridad mediante la restricción de aplicaciones 
 - [![Open-Source Software][OSS Icon]](https://github.com/cosmos72/twin) [Twin](https://github.com/cosmos72/twin/) - Un entorno de ventana de modo de texto rápido y liviano que admite el mouse. Tiene muchas características.
 - [![Open-Source Software][OSS Icon]](https://github.com/railsware/upterm) [Upterm](https://github.com/railsware/upterm) - Upterm es un emulador de terminal que tiene características de Entorno de desarrollo integrado. Está basado en [Electron](https://electron.atom.io/).
 - [Xterm](http://invisible-island.net/xterm/) - Xterm es un programa que es un emulador de terminal para el sistema de ventanas X.
-- [Yakuake](https://yakuake.kde.org/) - Un emulador de terminal en el estilo de "Quake" y basado en KDE Konsole.
+- [Yakuake](https://apps.kde.org/yakuake/) - Un emulador de terminal en el estilo de "Quake" y basado en KDE Konsole.
 
 ### Herramientas
 - [![Open-Source Software][OSS Icon]](https://github.com/angryip/ipscan) [Angry IP Scanner](http://angryip.org/) - Un escáner de red rápido y fácil de usar.
