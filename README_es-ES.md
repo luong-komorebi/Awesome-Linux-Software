@@ -602,7 +602,7 @@ es un creador de imágenes GIF de código abierto.
 - [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/minidlna) [ReadyMedia](http://minidlna.sourceforge.net/) - El programa se llamaba **MiniDLNA** pero es un software de servidor de medios simple y rápido. Está diseñado para trabajar con clientes DLNA / UPnP-AV. Puede servir imágenes, música y video a teléfonos inteligentes, televisores, computadoras y algunas consolas de juegos.
 
 #### Editor de video
-- [![Open-Source Software][OSS Icon]](https://git.cinelerra-cv.org/gitweb?p=CinelerraCV.git;a=summary) [Cinelerra-cv](http://cinelerra.org/) - Un software profesional y de video y edición, que también es un entorno de composición.
+- [![Open-Source Software][OSS Icon]](https://github.com/cinelerra-cv-team/cinelerra-cv) [Cinelerra-cv](http://cinelerra.org/) - Un software profesional y de video y edición, que también es un entorno de composición.
 - [![Open-Source Software][OSS Icon]](https://github.com/jliljebl/flowblade) [Flowblade](https://github.com/jliljebl/flowblade/releases/tag/1.12.2) - Un editor de video multipista no lineal.
 - [![Open-Source Software][OSS Icon]](https://github.com/KDE/kdenlive) [Kdenlive](https://kdenlive.org/) - Kdenlive es un editor de vídeo no lineal, que es potente y muy capaz.
 - [![Nonfree][Money Icon] [Lightworks](https://www.lwks.com/) - Es un software de edición de vídeo profesional no lineal que también tiene una versión gratuita.
