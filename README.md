@@ -373,7 +373,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/git-cola/git-cola) [GitCola](https://git-cola.github.io/) - Git Cola is a sleek and powerful graphical Git client. Written in Python and GPL-licensed.
 - [![Open-Source Software][OSS Icon]](https://github.com/go-gitea/) [Gitea](https://gitea.io/en-us/) - Gitea is a community managed lightweight code hosting solution written in Go. It is published under the MIT license.
 - [![Open-Source Software][OSS Icon]](https://gitlab.gnome.org/GNOME/gitg) [Gitg](https://wiki.gnome.org/Apps/Gitg) - Gitg is the GNOME GUI client to view git repositories.
-- [GitKraken](https://www.gitkraken.com/) - The downright luxurious Git GUI client for Windows, Mac & Linux.
+- ![Nonfree][Freeware Icon]![Nonfree][Money Icon] [GitKraken](https://www.gitkraken.com/) - The downright luxurious Git GUI client for Windows, Mac & Linux.
 - [![Open-Source Software][OSS Icon]](https://github.com/gitlabhq/gitlabhq) [GitLab](https://github.com/gitlabhq/gitlabhq) - GitLab is a web-based Git repository manager with wiki and issue tracking features.
 - [![Open-Source Software][OSS Icon]](https://github.com/sitaramc/gitolite) [Gitolite](http://gitolite.com/gitolite/index.html) - Gitolite allows you to setup git hosting on a central server, with fine-grained access control and many more powerful features.
 - [![Open-Source Software][OSS Icon]](https://github.com/gogs/gogs) [Gogs](https://gogs.io/) - A painless self-hosted Git service.
@@ -446,7 +446,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/LightTable/LightTable) [Lighttable](http://lighttable.com/) - The next generation code editor! Support live coding.
 - [![Open-Source Software][OSS Icon]](https://github.com/dail8859/NotepadNext) [Notepad Next](https://github.com/dail8859/NotepadNext) - A cross-platform, reimplementation of Notepad++.
 - [![Open-Source Software][OSS Icon]](https://github.com/notepadqq/notepadqq) [Notepadqq](https://notepadqq.com/wp/) - Notepadqq is a Notepad++-like editor for the Linux desktop.
-- [Sublime](https://www.sublimetext.com/) - A very capable text editor with advanced search capabilities, and many powerful plugins to improve its functionality.
+- ![Nonfree][Freeware Icon]![Nonfree][Money Icon] [Sublime](https://www.sublimetext.com/) - A very capable text editor with advanced search capabilities, and many powerful plugins to improve its functionality.
 - [![Open-Source Software][OSS Icon]](https://github.com/orbitalquark/textadept) [Textadept](https://orbitalquark.github.io/textadept/) - Minimalist text editor for programmers. Textadept is extensible with Lua programming language.
 - [![Open-Source Software][OSS Icon]](https://github.com/Microsoft/vscode) [VSCode](https://code.visualstudio.com) - Visual Studio Code is a lightweight but powerful source code editor which runs on your desktop and is available for Windows, OS X and Linux. It comes with built-in support for JavaScript, TypeScript and Node.js and has a rich ecosystem of extensions for other languages (C++, C#, Python, PHP, Golang) and runtimes.
 - [![Open-Source Software][OSS Icon]](https://github.com/VSCodium/vscodium) [VSCodium](https://vscodium.com/) - Binary releases of VS Code without MS branding/telemetry/licensing.
@@ -1514,7 +1514,7 @@ Thanks to [**All of Github contributors**](https://github.com/LewisVo/Awesome-Li
 - [What is Markdown?](https://github.com/luong-komorebi/Markdown-Tutorial) - Markdown is the writing method used to create this list, if you want to know how to format properly, it's best that you learn how to use Github Markdown.
 - [Alternative Markdown Guide](https://guides.github.com/features/mastering-markdown/)
 
-*Items marked with ![Open-Source Software][OSS Icon] are open-source software and link to the source code. Items marked with ![Nonfree][Money Icon] are nonfree (as in nonfree beer) and may cost money to use.*
+*Items marked with ![Open-Source Software][OSS Icon] are open-source software and link to the source code. Items marked with ![Nonfree][Freeware Icon] are nonfree (as in nonfree beer). Items marked with ![Nonfree][Money Icon] are nonfree (as in nonfree beer) and will cost money to use.*
 
 <br>
 
@@ -1529,4 +1529,5 @@ Thanks to [**All of Github contributors**](https://github.com/LewisVo/Awesome-Li
 This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
 [OSS Icon]: ./img/oss.svg
+[Freeware Icon]: ./img/freeware.svg
 [Money Icon]: ./img/money.svg
