@@ -936,7 +936,7 @@ the WebKit rendering engine.
 - [![Open-Source Software][OSS Icon]](https://github.com/tomboy-notes/tomboy) [Tomboy](https://wiki.gnome.org/Apps/Tomboy) - Tomboy is a desktop note-taking application which is simple and easy to use.
 - [![Open-Source Software][OSS Icon]](https://github.com/zadam/trilium) [Trilium Notes](https://github.com/zadam/trilium) - Trilium Notes is a hierarchical note taking application with focus on building large personal knowledge bases.
 - [![Open-Source Software][OSS Icon]](https://github.com/turtl) [Turtl](https://turtlapp.com/) - The secure, collaborative notebook.
-- [![Open-Source Software][OSS Icon]](https://github.com/klaussinani/tusk) [Tusk](https://klaussinani.github.io/tusk/) - Refined Evernote desktop app.
+- [![Open-Source Software][OSS Icon]](https://github.com/klaussinani/tusk) [Tusk](https://klaudiosinani.github.io/tusk/) - Refined Evernote desktop app.
 - [![Open-Source Software][OSS Icon]](https://github.com/sbrshk/whatever) [Whatever](https://github.com/sbrshk/whatever) - An unofficial Evernote desktop client for Linux.
 - [![Open-Source Software][OSS Icon]](https://github.com/wizteam/wizqtclient) [WizNote](https://github.com/wizteam/wizqtclient) - A cross-platform cloud based note-taking client.
 
