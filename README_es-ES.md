@@ -712,7 +712,7 @@ es un creador de imágenes GIF de código abierto.
 - [Xmind](http://www.xmind.net/) - Una herramienta para el mapeo de la mente.
 
 #### Tomar nota
-- [![Open-Source Software][OSS Icon]](https://apps.kde.org/basket/svnaccess.php) [Basket Note Pads](https://apps.kde.org/basket/) - Esta es una aplicación multiuso para tomar notas.
+- [![Open-Source Software][OSS Icon]](https://github.com/KDE/basket) [Basket Note Pads](https://apps.kde.org/basket/) - Esta es una aplicación multiuso para tomar notas.
 - [![Open-Source Software][OSS Icon]](https://github.com/BoostIO/Boostnote) [Boostnote](https://boostnote.io/) - Boostnote es una aplicación de notas de código abierto diseñada para programadores.
 - ![Nonfree][Money Icon] [Inkdrop](https://www.inkdrop.info/) - Una aplicación para tomar notas diseñadas para Markdown, tiene una interfaz simple y está orientado a la seguridad.
 - [![Open-Source Software][OSS Icon]](https://github.com/laurent22/joplin) [Joplin](http://joplin.cozic.net) - Una aplicación de toma de notas con una lista de tareas pendientes que se puede sincronizar en varios sistemas operativos.
