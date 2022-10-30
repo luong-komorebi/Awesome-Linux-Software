@@ -316,16 +316,17 @@
 - [Unreal Engine](https://www.unrealengine.com/en-US) - The world’s most open and advanced real-time 3D creation tool.
 
 #### Golang
-- [GoLand](https://www.jetbrains.com/go/) - GoLand is the codename for a new commercial IDE by JetBrains aimed at providing an ergonomic environment for Go development.
+- ![Non Free][Money Icon] [GoLand](https://www.jetbrains.com/go/) - Commercial IDE by JetBrains aimed at providing an ergonomic environment for Go development.
 - [![Open-Source Software][OSS Icon]](https://github.com/visualfc/liteide) [LiteIDE X](http://liteide.org/en/) - LiteIDE is a simple, open source, cross-platform Go IDE.
 
 #### Java
 - [![Open-Source Software][OSS Icon]](https://www.bluej.org/versions.html) [BlueJ](https://bluej.org/) - A free Java Development Environment designed for beginners, used by millions worldwide.
 - [![Open-Source Software][OSS Icon]](https://git.eclipse.org/c/) [Eclipse](https://eclipse.org/ide/) - Eclipse is famous for our Java Integrated Development Environment (IDE), but can also download packages to support C/C++ IDE and PHP IDE.
-- [![Open-Source Software][OSS Icon]](https://github.com/JetBrains/intellij-community) [IntelliJ IDEA](https://www.jetbrains.com/idea/) - Powerful IDE for JAVA. The Community version is open sourced.
+- [![Open-Source Software][OSS Icon]](https://github.com/JetBrains/intellij-community) [IntelliJ IDEA Community](https://www.jetbrains.com/idea/) - Open source IDE by Jetbrains for JVM and Android development.
+- ![Non Free][Money Icon]  [IntelliJ IDEA Ultimate](https://www.jetbrains.com/idea/) - Commercial IDE by Jetbrains for web and enterprise JAVA development.
 
 #### Javascript
-- [Webstorm](https://www.jetbrains.com/webstorm/) - Powerful IDE for modern JavaScript development, made by JetBrains.
+- ![Non Free][Money Icon] [Webstorm](https://www.jetbrains.com/webstorm/) - Powerful IDE for modern JavaScript development, made by JetBrains.
 
 #### Microcomputer and Embedded Devices
 - [![Open-Source Software][OSS Icon]](https://github.com/arduino/Arduino) [Arduino IDE](https://www.arduino.cc/en/Main/Software) - The open-source Arduino Software (IDE) makes it easy to write code and upload it to the board.
@@ -340,10 +341,11 @@
 - [![Open-Source Software][OSS Icon]](https://pantsbuild.org/) [Pants Build](https://www.pantsbuild.org/) - Powerful build system for Python, JVM, Go and more, relies on static analysis instead of boilerplate to make adoption and use easy.
 
 #### PHP
-- [PHPStorm](https://www.jetbrains.com/phpstorm/) - Lightning-smart and powerful PHP IDE from Jetbrain.
+- ![Nonfree][Money Icon] [PHPStorm](https://www.jetbrains.com/phpstorm/) - Lightning-smart and powerful PHP IDE from Jetbrains.
 
 #### Python
-- [![Open-Source Software][OSS Icon]](https://github.com/JetBrains/intellij-community/tree/master/python) [PyCharm](https://www.jetbrains.com/pycharm/) - Powerful IDE for Python.
+- [![Open-Source Software][OSS Icon]](https://github.com/JetBrains/intellij-community/tree/master/python) [PyCharm Community](https://www.jetbrains.com/pycharm/) - Open source IDE by Jetbrains for pure Python development.
+- ![Non Free][Money Icon] [PyCharm Professional](https://www.jetbrains.com/pycharm/) - Commercial IDE by Jetbrains for scientific and web Python development.
 
 #### Shell
 - [![Open-Source Software][OSS Icon]](https://github.com/fish-shell/fish-shell) [Fish](https://fishshell.com/) - A smart and user-friendly command-line shell.
@@ -422,7 +424,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/pdfarranger/pdfarranger) [PDF Arranger](https://github.com/pdfarranger/pdfarranger) - PDF Arranger is a small application, which helps the user to merge or split pdf documents and rotate, crop and rearrange their pages using an interactive and intuitive graphical interface.
 - [![Open-Source Software][OSS Icon]](https://github.com/torakiki/pdfsam) [PDFsam](http://www.pdfsam.org/) - A desktop application to split, extract pages, rotate, mix and merge PDF files.
 - [![Open-Source Software][OSS Icon]](https://github.com/junrrein/pdfslicer) [PDF Slicer](https://junrrein.github.io/pdfslicer/) - PDF Slicer is a simple application to extract, merge, rotate and reorder pages of PDF documents.
-- [PDF Studio](https://www.qoppa.com/pdfstudio/) - An easy to use, full-featured PDF editing software that is a reliable alternative to Adobe Acrobat and provides all PDF functions needed at a fraction of the cost. PDF Studio maintains full compatibility with the PDF Standard.
+- ![Non Free][Money Icon] [PDF Studio](https://www.qoppa.com/pdfstudio/) - An easy to use, full-featured PDF editing software that is a reliable alternative to Adobe Acrobat and provides all PDF functions needed at a fraction of the cost. PDF Studio maintains full compatibility with the PDF Standard.
 - [![Open-Source Software][OSS Icon]](https://github.com/burtonator/polar-bookshelf) [Polar](https://getpolarized.io/) - Polar is a personal knowledge repository for PDF and web content supporting incremental reading and document annotation.
 - [![Open-Source Software][OSS Icon]](https://launchpad.net/qpdfview) [qpdfview](https://launchpad.net/qpdfview) - qpdfview is a tabbed document viewer.
 - [![Open-Source Software][OSS Icon]](https://github.com/Sigil-Ebook/Sigil) [Sigil](https://github.com/Sigil-Ebook/Sigil) - Sigil is a multi-platform EPUB ebook editor.
