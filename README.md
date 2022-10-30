@@ -57,7 +57,7 @@
 - [Linux News, Apps, and more ....](#linux-news-apps-and-more)
 - [Reddit](#reddit)
 - [Contributors](#contributors)
-- [Guideline to Contribute](#guideline-to-contribute)
+- [Guidelines to Contribute](#guidelines-to-contribute)
 - [How to Contribute](#unsure-how-to-contribute)
 
 ***********
