@@ -957,7 +957,6 @@ es un programa SUID que crea seguridad mediante la restricción de aplicaciones 
 - [![Open-Source Software][OSS Icon]](https://github.com/KDE/plasma-desktop) [KDE Plasma](https://www.kde.org/workspaces/plasmadesktop/) - El KDE Plasma escritorio diseñado está diseñado para parecer familiar. Tiene todas las herramientas que necesita para ser productivo.
 - [![Open-Source Software][OSS Icon]](https://github.com/lxde) [LXDE](http://lxde.org/) - El X11 escritorio está diseñado para ser rápido y ahorro de energía.
 - [![Open-Source Software][OSS Icon]](https://github.com/lxde/lxqt) [LXQt](http://lxqt.org/) - LXQt es el portal QT de LXDE, es un entorno de escritorio ligero.
-- [![Open-Source Software][OSS Icon]](https://github.com/BlankOn/manokwari) [Manokwari](http://manokwari.blankonlinux.or.id/) - Manokwari es un shell de escritorio para GNOME 3.
 - [![Open-Source Software][OSS Icon]](https://github.com/mate-desktop/) [Mate](http://mate-desktop.com/) - Mate se nombra después de Yerba Mate argentino, está diseñado para ser intuitivo y atractivo. Es un bifurcacion de GNOME 2.
 - [Pantheon](https://elementary.io/) - Pantheon es el entorno de escritorio predeterminado creado para el sistema operativo "Elementary OS".
 - [Unity](https://unity.ubuntu.com/) - Unity es el entorno de escritorio predeterminado para Ubuntu. Se basa en GNOME 3. [Una guia de la instalación inglés](http://www.omgubuntu.co.uk/2016/04/ubuntu-16-04-unity-8-desktop-progress-video) - Una guía sobre cómo instalar Unity 8 para Ubuntu 16.04

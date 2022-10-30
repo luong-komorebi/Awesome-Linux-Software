@@ -913,7 +913,6 @@ Ele foi projetado principalmente para ajudar a recuperar partições perdidas e/
 - [LXDE](http://lxde.org/) - The Lightweight X11 Desktop Environment is a fast and energy-saving desktop environment. [![Open-Source Software][OSS Icon]](https://github.com/lxde)
 - [LXQt](http://lxqt.org/) - LXQt is the Qt port and the upcoming version of LXDE, the Lightweight Desktop Environment. [![Open-Source Software][OSS Icon]](https://github.com/lxde/lxqt)
 - [Mate](http://mate-desktop.com/) - Mate provides an intuitive and attractive desktop to Linux users using traditional metaphors. MATE is a fork of GNOME 2. [![Open-Source Software][OSS Icon]](https://github.com/mate-desktop/)
-- [Manokwari](http://manokwari.blankonlinux.or.id/) - Desktop shell for GNOME 3 with Gtk+ and HTML5 frontend. [![Open-Source Software][OSS Icon]](https://github.com/BlankOn/manokwari)
 - [Pantheon](https://elementary.io/) - Pantheon is the default desktop environment originally created for the elementary OS distribution.
 - [![Open-Source Software][OSS Icon]](https://github.com/ubports/unity8) [Unity](https://unity8.io/) - Unity is a shell for GNOME designed by Canonical for Ubuntu. A [guide](http://www.omgubuntu.co.uk/2016/04/ubuntu-16-04-unity-8-desktop-progress-video) on how to install unity 8 on Ubuntu 16.04.
 - [Xfce](https://www.xfce.org/) - Xfce embodies the traditional UNIX philosophy of modularity and re-usability. [![Open-Source Software][OSS Icon]](https://github.com/xfce-mirror)
