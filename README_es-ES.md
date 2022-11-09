@@ -1,3 +1,4 @@
+<!-- markdown-link-check-disable -->
 # Increíble Software de Linux
 
 ![Tux](img/tux.png)
@@ -1207,3 +1208,4 @@ Este trabajo está licenciado con [Creative Commons Reconocimiento 4.0 Internaci
 
 [OSS Icon]: https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg
 [Money Icon]: https://rawgit.com/LewisVo/Awesome-Linux-Software/master/img/money.svg
+<!-- markdown-link-check-enable -->

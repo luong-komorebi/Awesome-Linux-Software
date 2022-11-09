@@ -1,3 +1,4 @@
+<!-- markdown-link-check-disable -->
 # 超赞的 Linux 软件
 
 ![Tux](img/tux.png)
@@ -886,3 +887,4 @@
 
 [OSS Icon]: https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg
 [Freeware Icon]: https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/free.svg
+<!-- markdown-link-check-enable -->

@@ -1,3 +1,4 @@
+<!-- markdown-link-check-disable -->
 # Awesome Linux Software
 
 ![Tux](img/tux.png)
@@ -1230,3 +1231,4 @@ Ce travail est sous licence [Licence internationale Creative Commons Attribution
 
 [OSS Icon]: https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg
 [Money Icon]: https://rawgit.com/LewisVo/Awesome-Linux-Software/master/img/money.svg
+<!-- markdown-link-check-enable -->

@@ -1,3 +1,4 @@
+<!-- markdown-link-check-disable -->
 # ซอฟต์แวร์ลินุกซ์ สุดเจ๋ง
 
 ![Tux](img/tux.png)
@@ -1221,3 +1222,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 [OSS Icon]: https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg
 [Money Icon]: https://rawgit.com/LewisVo/Awesome-Linux-Software/master/img/money.svg
+<!-- markdown-link-check-enable -->

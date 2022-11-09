@@ -1,3 +1,4 @@
+<!-- markdown-link-check-disable -->
 # IMPRESSIONANTES aplicativos para Linux
 
 ![Tux](img/tux.png)
@@ -1182,3 +1183,4 @@ Este projeto trabalha sob a licença [Creative Commons Attribution 4.0 Internati
 
 [OSS Icon]: https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg
 [Money Icon]: https://rawgit.com/LewisVo/Awesome-Linux-Software/master/img/money.svg
+<!-- markdown-link-check-enable -->

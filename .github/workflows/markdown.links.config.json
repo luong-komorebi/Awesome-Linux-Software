@@ -6,5 +6,18 @@
     {
       "pattern": "https://github.com/GoogleChrome/lighthouse/workflows/\uD83D\uDCA1\uD83C\uDFE0/badge.svg"
     }
-  ]
+  ],
+  "httpHeaders": [
+    {
+      "urls": ["https://github.com/", "https://guides.github.com/", "https://help.github.com/", "https://docs.github.com/"],
+      "headers": {
+        "Accept-Encoding": "zstd, br, gzip, deflate"
+      }
+    }
+  ],
+  "aliveStatusCodes": [200, 206],
+  "retryOn429": true,
+  "timeout": "10s",
+  "retryCount": 2,
+  "fallbackRetryDelay": "20s"
 }
