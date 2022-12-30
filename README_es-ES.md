@@ -1017,7 +1017,7 @@ es un programa SUID que crea seguridad mediante la restricción de aplicaciones 
 
 ### Arch Linux
 
-- [Descargar e instalar Arch](https://wiki.archlinux.org/index.php/Category:Getting_and_installing_Arch_(Espa%C3%B1ol))
+- [Descargar e instalar Arch](https://wiki.archlinux.org/title/Installation_guide_(Espa%C3%B1ol))
 - [Guía de instalación](https://wiki.archlinux.org/index.php/Installation_guide_(Espa%C3%B1ol))
 - [lista de aplicaciones](https://wiki.archlinux.org/index.php/List_of_applications_(Espa%C3%B1ol))
 - [Recomendaciones generales](https://wiki.archlinux.org/index.php/General_recommendations_(Espa%C3%B1ol))

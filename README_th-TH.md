@@ -1032,7 +1032,7 @@
 
 ### Arch Linux
 
-- [Getting and installing Arch](https://wiki.archlinux.org/index.php/Category:Getting_and_installing_Arch)
+- [Getting and installing Arch](https://wiki.archlinux.org/title/installation_guide)
 - [Installation guide](https://wiki.archlinux.org/index.php/Installation_guide)
 - [General recommendations](https://wiki.archlinux.org/index.php/General_recommendations)
 - [List of applications](https://wiki.archlinux.org/index.php/List_of_applications)

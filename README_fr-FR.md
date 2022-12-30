@@ -1039,7 +1039,7 @@
 
 ### Arch Linux
 
-- [Obtenir et installer Arch](https://wiki.archlinux.org/index.php/Category:Getting_and_installing_Arch)
+- [Obtenir et installer Arch](https://wiki.archlinux.org/title/Installation_guide_(Fran%C3%A7ais))
 - [Guide d'installation](https://wiki.archlinux.org/index.php/Installation_guide)
 - [Recommandations générales](https://wiki.archlinux.org/index.php/General_recommendations)
 - [Liste d'applications](https://wiki.archlinux.org/index.php/List_of_applications)
