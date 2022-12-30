@@ -74,7 +74,7 @@
 - [Advanced Linux](#advanced-linux)
 - [แหล่งรวมของเจ๋งอื่นๆ](#other-awesome-lists)
 - [Contributors](#contributors)
-- [Guideline to Contribute](#guideline-to-contribute)
+- [Guidelines to Contribute](#guidelines-to-contribute)
 - [How to Contribute](#unsure-how-to-contribute)
 
 ***********

@@ -75,7 +75,7 @@
 - [Linux Avancé](#advanced-linux)
 - [D'autres super listes](#other-awesome-lists)
 - [Contributeurs](#contributors)
-- [Guide pour Contribuer](#guideline-to-contribute)
+- [Guide pour Contribuer](#guidelines-to-contribute)
 - [Comment Contibuer](#unsure-how-to-contribute)
 
 ***********

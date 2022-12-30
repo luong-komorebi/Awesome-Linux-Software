@@ -71,7 +71,7 @@ Duas versões chinesas desta lista estão disponíveis [aqui](https://github.com
 - [Advanced Linux](#advanced-linux)
 - [Other Awesome Lists](#Other-Awesome-Lists)
 - [Contributors](#contributors)
-- [Guideline to Contribute](#guideline-to-contribute)
+- [Guidelines to Contribute](#guidelines-to-contribute)
 
 ***********
 
