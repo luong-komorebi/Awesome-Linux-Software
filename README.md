@@ -562,7 +562,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [![Open-Source Software][oss icon]](https://github.com/shundhammer/qdirstat) [QDirStat](https://github.com/shundhammer/qdirstat) - Qt-based directory statistics - KDirStat without any KDE, from the original KDirStat author.
 - [![Open-Source Software][oss icon]](https://github.com/ranger/ranger) [Ranger](https://ranger.github.io/) - Ranger is a console file manager with VI key bindings.
 - [![Open-Source Software][oss icon]](https://github.com/IgnorantGuru/spacefm) [SpaceFM](https://ignorantguru.github.io/spacefm/) - Multi-panel tabbed file and desktop manager with built-in VFS, udev- or HAL-based device manager, customisable menu system and bash-GTK integration.
-- [![Open-Source Software][oss icon]](https://docs.xfce.org/xfce/thunar/start) [Thunar](https://wiki.archlinux.org/title/Thunar) - Thunar is a modern file manager for the Xfce Desktop Environment.
+- [![Open-Source Software][oss icon]](https://gitlab.xfce.org/xfce/thunar) [Thunar](https://docs.xfce.org/xfce/thunar/start) - Thunar is a modern file manager for the Xfce Desktop Environment.
 - [![Open-Source Software][oss icon]](https://github.com/vifm/vifm) [Vifm](https://vifm.info/) - Vifm is an ncurses based file manager with VI like keybindings, which also borrows some useful ideas from mutt.
 
 ### Games
