@@ -1239,6 +1239,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [![Open-Source Software][oss icon]](https://github.com/netdata/netdata) [NetData](https://my-netdata.io) - Next-gen web based real-time performance and health monitoring for physical and virtual servers, containers and IoT devices. It is also a distributed `statsd` server with automatic visualization for APM (applications performance monitoring).
 - [![Open-Source Software][oss icon]](http://git.wpitchoune.net/psensor.git/) [Psensor](https://wpitchoune.net/psensor/) - A graphical hardware temperature monitor for Linux.
 - [![Open-Source Software][oss icon]](https://bazaar.launchpad.net/~indicator-multiload/indicator-multiload/trunk/files) [Systemload](https://launchpad.net/indicator-multiload) - A program that shows current system load in a status bar.
+- [![Open-Source Software][oss icon]](https://github.com/inv2004/ttop) [Ttop](https://github.com/inv2004/ttop) - Top-like system monitoring tool with TUI and historical data service.
 
 #### Other
 
