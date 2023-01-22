@@ -99,6 +99,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [![Open-Source Software][oss icon]](https://invent.kde.org/multimedia/elisa) [Elisa](https://elisa.kde.org/) - Elisa is a music player developed by the KDE community that strives to be simple and nice to use.
 - [![Open-Source Software][oss icon]](https://gitlab.gnome.org/neithern/g4music) [G4Music](https://gitlab.gnome.org/neithern/g4music) - A fast, fluent, light weight music player written in GTK4.
 - [![Open-Source Software][oss icon]](https://github.com/gpodder/gpodder) [Gpodder](https://gpodder.github.io/) - Media aggregator and podcast client.
+- [![Open-Source Software][oss icon]](https://github.com/harmonoid/harmonoid) [Harmonoid](https://harmonoid.com/) - Plays & manages your music library. Looks beautiful & juicy. Playlists, visuals, synced lyrics, pitch shift, volume boost & more. 
 - [![Open-Source Software][oss icon]](https://github.com/trazyn/ieaseMusic) [ieaseMusic](https://github.com/trazyn/ieaseMusic) - iEaseMusic is a multiplatform program built in electron for listening to NetEase Music.
 - [![Open-Source Software][oss icon]](https://github.com/LibreTime/libretime) [Libretime](https://libretime.org/) - The open broadcast software for scheduling and remote station management; forked from Airtime.
 - [![Open-Source Software][oss icon]](https://gitlab.gnome.org/World/lollypop) [Lollypop](https://wiki.gnome.org/Apps/Lollypop) - A GNOME music playing application.
@@ -156,6 +157,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [![Open-Source Software][oss icon]](https://invent.kde.org/network/neochat) [NeoChat](https://apps.kde.org/neochat/) - NeoChat is a Matrix client. It allows you to send text messages, videos and audio files to your family, colleagues and friends using the Matrix protocol.
 - [![Open-Source Software][oss icon]](https://invent.kde.org/network/tokodon) [Tokodon](https://apps.kde.org/tokodon/) - Tokodon is a Mastodon client for Plasma and Plasma Mobile.
 - [![Open-Source Software][oss icon]](https://github.com/SpacingBat3/WebCord) [WebCord](https://github.com/SpacingBat3/WebCord) - A Discord and Fosscord web-based client made with the electron.
+- [![Open-Source Software][oss icon]](https://gitlab.com/zerkc/whatsdesk) [WhatsDesk](https://zerkc.gitlab.io/whatsdesk/) - WhatsDesk is a unofficial client of whatsapp.
 - [![Open-Source Software][oss icon]](https://github.com/yakyak/yakyak) [YakYak](https://github.com/yakyak/yakyak) - Desktop chat client for Google Hangouts.
 
 #### All-in-One Client
@@ -748,6 +750,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [![Open-Source Software][oss icon]](https://invent.kde.org/office/calligra) [Karbon](https://www.calligra.org/karbon/) - An open source vector drawing program.
 - [![Open-Source Software][oss icon]](https://gitlab.com/mattia.basaglia/Knotter) [Knotter](https://knotter.mattbas.org/Knotter) - A Program designed solely to help design and create Celtic Knots.
 - [![Open-Source Software][oss icon]](https://invent.kde.org/graphics/krita) [Krita](https://krita.org/en/) - Open Source Software for Concept Artists, Digital Painters, and Illustrators.
+- ![Nonfree][freeware icon][Lunacy](https://icons8.com/lunacy/) - Free design software that keeps your flow with AI tools and built-in graphics
 - [![Open-Source Software][oss icon]](https://github.com/mypaint/mypaint) [Mypaint](http://mypaint.org/about/) - Mypaint is a paint program for use with graphics tablets.
 - [![Open-Source Software][oss icon]](https://gitlab.com/jonata/opendvdproducer) [Open DVD Producer](https://opendvdproducer.jonata.org/) - A modern, open source cross platform software to produce DVD images.
 - [![Open-Source Software][oss icon]](https://www.pinta-project.com/howto/contribute) [Pinta](https://www.pinta-project.com) - Pinta is a free, open source program for drawing and image editing.
@@ -822,6 +825,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 #### Screenshot
 
 - [![Open-Source Software][oss icon]](https://github.com/lupoDharkael/flameshot) [Flameshot](https://flameshot.org/) - Powerful yet simple to use screenshot software.
+- [![Open-Source Software][oss icon]](https://github.com/ksnip/ksnip) [Ksnip](https://github.com/ksnip/ksnip#ksnip) - Ksnip is a Qt-based cross-platform screenshot tool that provides many annotation features for your screenshots.
 - [![Open-Source Software][oss icon]](https://github.com/olav-st/screencloud) [ScreenCloud](https://screencloud.net/) - ScreenCloud is an easy to use screenshot sharing tool consisting of a cross-platform client and a sharing website.
 - [![Open-Source Software][oss icon]](https://github.com/shutter-project/shutter) [Shutter](https://shutter-project.org/) - Shutter is a feature-rich screenshot program for Linux based operating systems such as Ubuntu.
 - [![Open-Source Software][oss icon]](https://invent.kde.org/graphics/spectacle) [Spectacle](https://apps.kde.org/spectacle/) - Spectacle is a simple application for capturing desktop screenshots.
@@ -875,6 +879,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [![Open-Source Software][oss icon]](https://gitweb.torproject.org/tor.git) [Tor](https://www.torproject.org/) - Tor is free software and an open network that helps you defend against traffic analysis, a form of network surveillance that threatens personal freedom and privacy.
 - [![Open-Source Software][oss icon]](https://github.com/Unrud/video-downloader) [Video Downloader](https://github.com/Unrud/video-downloader) - Download videos from websites like YouTube and many others (based on yt-dlp).
 - [![Open-Source Software][oss icon]](https://github.com/jely2002/youtube-dl-gui) [youtube-dl-gui](https://jely2002.github.io/youtube-dl-gui/) - A cross-platform GUI for youtube-dl made in Electron and node.js
+- [![Open-Source Software][oss icon]](https://github.com/aandrew-me/ytdownloader/) [ytDownloader](https://ytdn.netlify.app/) - A cross-platform GUI for yt-dlp with advanced options and a modern UI.
 - [![Open-Source Software][oss icon]](https://github.com/zerotier/ZeroTierOne) [Zerotier](https://my.zerotier.com) - Zerotier is a program that creates a Virtual Network for only your devices with end to end encryption over the internet. By default Zerotier will manage your virtual network but you can switch to a self-managed network if you prefer.
 
 #### Web Service Client
@@ -1009,6 +1014,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 
 - [![Open-Source Software][oss icon]](http://bazaar.launchpad.net/~joh/alarm-clock/trunk/files) [Alarm Clock](http://alarm-clock.pseudoberries.com/) - Alarm Clock is a fully-featured alarm clock for your GNOME panel or equivalent.
 - [![Open-Source Software][oss icon]](https://gitlab.gnome.org/GNOME/gnome-break-timer/) [Break Timer](https://wiki.gnome.org/Apps/BreakTimer) - A break timer application for GNOME.
+- [![Open-Source Software][oss icon]](https://github.com/tom-james-watson/breaktimer-app/) [BreakTimer](https://breaktimer.app/) - BreakTimer is a cross platform desktop application with nice UI for managing and enforcing periodic breaks.
 - [![Open-Source Software][oss icon]](http://git.calcurse.org/calcurse.git/) [calcurse](https://calcurse.org/) - A calendar and scheduling application for the command line.
 - [![Open-Source Software][oss icon]](https://gitlab.gnome.org/GNOME/california) [California](https://wiki.gnome.org/Apps/California) - Complete Calendar app replacement which uses natural language for creating events.
 - ![Nonfree][money icon] [Everdo](https://everdo.net/) - TODO list and Getting Things Done® app for all platforms. Beautiful, powerful, not SaaS, free version available.
@@ -1025,6 +1031,12 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [![Open-Source Software][oss icon]](https://github.com/GothenburgBitFactory/taskwarrior) [TaskWarrior](https://taskwarrior.org/) - Taskwarrior is Free and Open Source Software that manages your TODO list from the command line.
 - [![Open-Source Software][oss icon]](https://github.com/todotxt/todo.txt-android) [Todo.txt](http://todotxt.com/) - Todo.txt is a set of focused editors which help you manage your tasks with as few keystrokes and taps possible.
 - [![Open-Source Software][oss icon]](https://github.com/kamhix/todoist-linux) [Todoist](https://github.com/kamhix/todoist-linux) - Unofficial client of Todoist, the cross-platform to-do manager with mobile apps, great UI and has some optional premium features.
+
+#### Time and Usage Tracker
+
+- [![Open-Source Software][oss icon]](https://github.com/ActivityWatch/activitywatch) [ActivityWatch](https://activitywatch.net/) - ActivityWatch is an app that automatically tracks how you spend time on your devices.
+- [![Open-Source Software][oss icon]](https://github.com/hamaluik/timecop) [Time Cop](https://timecop.app/en/) - A time tracking app that respects your privacy and gets the job done without getting too fancy.
+- [![Nonfree][freeware icon]](https://toggl.com/track/)[Toggl Track](https://flathub.org/apps/details/com.toggl.TogglDesktop/) - Simple and Intuitive Time Tracking Software with cloud sync.
 
 #### Widget and Indicator
 
@@ -1125,6 +1137,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [Free Download Manager](https://www.freedownloadmanager.org/) - Free Download Manager is a powerful modern cross-platform download accelerator and organizer for Windows, Mac and Linux.
 - [JDownloader](https://jdownloader.org/) - JDownloader is a free download management tool with a huge community of developers that makes downloading as easy and fast as it should be.
 - [![Open-Source Software][oss icon]](https://invent.kde.org/network/kget) [KGet](https://apps.kde.org/kget/) - KGet is a versatile and user-friendly download manager.
+- [![Open-Source Software][oss icon]](https://github.com/agalwood/Motrix/) [Motrix](https://motrix.app/) - Motrix is a full-featured clean and easy to use interface download manager that supports downloading HTTP, FTP, BitTorrent, Magnet, etc.
 - [![Open-Source Software][oss icon]](https://sourceforge.net/p/urlget/uget2/ci/master/tree/) [uGet](https://ugetdm.com/) - A download manager that can monitor the clipboard for downloadable links, and can create a list of downloads, and run them in parallel.
 - [![Open-Source Software][oss icon]](https://github.com/subhra74/xdm) [Xtreme Download Manager](https://xtremedownloadmanager.com/) - A good download manager with fresh UI for Linux.
 
@@ -1236,10 +1249,12 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [![Open-Source Software][oss icon]](https://launchpad.net/ubuntu/+source/indicator-multiload) [indicator-multiload](https://launchpad.net/ubuntu/+source/indicator-multiload) - Graphical system load indicator for CPU, ram, etc.
 - [![Open-Source Software][oss icon]](https://github.com/fossfreedom/indicator-sysmonitor) [Indicator-SysMonitor](https://github.com/fossfreedom/indicator-sysmonitor) - An Application Indicator showing cpu temperature, memory, network speed, cpu usage, public IP address and internet connection status.
 - [![Open-Source Software][oss icon]](https://g.blicky.net/ncdu.git/) [Ncdu](https://dev.yorhel.nl/ncdu) - A disk usage analyzer with an ncurses interface.
+- [![Open-Source Software][oss icon]](https://github.com/KrispyCamel4u/SysMonTask/) [SysMonTask](https://github.com/KrispyCamel4u/SysMonTask/) - Linux system monitor with the compactness and usefulness of windows task manager to allow higher control and monitoring.
 - [![Open-Source Software][oss icon]](https://github.com/netdata/netdata) [NetData](https://my-netdata.io) - Next-gen web based real-time performance and health monitoring for physical and virtual servers, containers and IoT devices. It is also a distributed `statsd` server with automatic visualization for APM (applications performance monitoring).
 - [![Open-Source Software][oss icon]](http://git.wpitchoune.net/psensor.git/) [Psensor](https://wpitchoune.net/psensor/) - A graphical hardware temperature monitor for Linux.
 - [![Open-Source Software][oss icon]](https://bazaar.launchpad.net/~indicator-multiload/indicator-multiload/trunk/files) [Systemload](https://launchpad.net/indicator-multiload) - A program that shows current system load in a status bar.
 - [![Open-Source Software][oss icon]](https://github.com/inv2004/ttop) [Ttop](https://github.com/inv2004/ttop) - Top-like system monitoring tool with TUI and historical data service.
+- [![Open-Source Software][oss icon]](https://github.com/vergoh/vnstat) [vnStat](https://humdi.net/vnstat/) - vnStat is a console-based network traffic monitor that uses the network interface statistics provided by the kernel as information source. This means that vnStat won't actually be sniffing any traffic and also ensures light use of system resources regardless of network traffic rate.
 
 #### Other
 
@@ -1277,12 +1292,14 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [![Open-Source Software][oss icon]](https://github.com/davatorium/rofi) [rofi](https://github.com/davatorium/rofi) - A window switcher, Application launcher and dmenu replacement.
 - [![Open-Source Software][oss icon]](https://github.com/Genymobile/scrcpy) [scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device.
 - [![Open-Source Software][oss icon]](https://gitlab.gnome.org/GNOME/sushi) [Sushi](https://gitlab.gnome.org/GNOME/sushi) - Sushi is a quick previewer for Nautilus, the GNOME desktop file manager.
+- [![Open-Source Software][oss icon]](https://github.com/JoseExposito/touche) [Touche](https://flathub.org/apps/details/com.github.joseexposito.touche) - Easily configure your touchpad and touchscreen multi-touch gestures using Touchégg with this GTK graphical user interface.
 - [![Open-Source Software][oss icon]](https://www.tightvnc.com/download.php) [TightVNC](https://www.tightvnc.com/) - A Free, Lightweight, Fast and Reliable Remote Control / Remote Desktop Software.
 - [TLP](https://linrunner.de/en/tlp/docs/tlp-linux-advanced-power-management.html) - An application that can help optimize battery life on Linux.
 - [![Open-Source Software][oss icon]](https://github.com/oniony/TMSU) [TMSU](https://tmsu.org/) - TMSU lets you tags your files and then access them through a nifty virtual filesystem from any other application.
 - [![Open-Source Software][oss icon]](https://github.com/Kilian/Trimage) [Trimage](https://trimage.org/) - A cross-platform tool for losslessly optimizing PNG and JPG files.
 - [![Open-Source Software][oss icon]](https://github.com/adgellida/ubunsys) [Ubunsys](https://github.com/adgellida/ubunsys) - An application designed to allow you to change in-depth system features without the command line.
 - [![Open-Source Software][oss icon]](https://github.com/popey/unsnap) [unsnap](https://github.com/popey/unsnap) - Quickly migrate from using snap packages to flatpaks.
+- [![Open-Source Software][oss icon]](https://github.com/upscayl/upscayl) [Upscayl](https://upscayl.github.io/) - Free and Open Source AI Image Upscaler.
 - [USB network gate](https://www.eltima.com/products/usb-over-ip-linux/) - Allows you to share USB ports over a Network on Linux.
 - [![Open-Source Software][oss icon]](https://github.com/peterlevi/variety-slideshow) [Variety](https://peterlevi.com/variety/) - Variety is an open-source wallpaper changer for Linux, packed with great features, yet slim and easy to use.
 - [![Open-Source Software][oss icon]](https://gitlab.freedesktop.org/wayland) [Wayland](https://wayland.freedesktop.org/) - Wayland is intended as a simpler replacement for X, easier to develop and maintain.
