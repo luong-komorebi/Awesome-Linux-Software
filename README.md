@@ -679,6 +679,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 
 ##### W.I.N.E.
 
+- [![Open-Source Software][oss icon]](https://usebottles.com) [Bottles](https://github.com/bottlesdevs) - Easily run Windows Software using Bottles. Bottles is free and open source software that uses environments to help you easily manage and run Windows apps on Linux.
 - [![Open-Source Software][oss icon]](https://github.com/GloriousEggroll/proton-ge-custom) [GE-Proton](https://github.com/GloriousEggroll/proton-ge-custom) - Compatibility tool for Steam Play based on Wine and additional components.
 - [![Open-Source Software][oss icon]](https://github.com/Matoking/protontricks) [Protontricks](https://github.com/Matoking/protontricks) - This is a wrapper script that allows you to easily run Winetricks commands for Steam Play/Proton games among other common Wine features, such as launching external Windows executables.
 - [![Open-Source Software][oss icon]](https://github.com/DavidoTek/ProtonUp-Qt) [ProtonUp-Qt](https://davidotek.github.io/protonup-qt/) - Install and manage Proton-GE and Luxtorpeda for Steam and Wine-GE for Lutris with this graphical user interface.
