@@ -1047,6 +1047,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 
 ### Proxy
 
+- [![Open-Source Software][oss icon]](https://github.com/mitmproxy/mitmproxy) [mitmproxy](https://mitmproxy.org/) - mitmproxy is a free and open source interactive HTTPS proxy. 
 - [![Open-Source Software][oss icon]](https://sourceforge.net/projects/ijbswa/) [Privoxy](https://www.privoxy.org/) - Privoxy is a non-caching web proxy with advanced filtering capabilities for enhancing privacy, modifying web page data and HTTP headers, controlling access, and removing ads and other obnoxious Internet junk.
 - [![Open-Source Software][oss icon]](https://github.com/haad/proxychains) [ProxyChains](https://proxychains.sourceforge.net/) - A tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy.
 - [![Open-Source Software][oss icon]](https://github.com/shadowsocks/shadowsocks-qt5) [Shadowsocks](https://shadowsocks.org/) - A secure socks5 proxy, designed to protect your Internet traffic.
@@ -1077,6 +1078,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [![Open-Source Software][oss icon]](https://github.com/firehol/firehol) [FireHOL](https://firehol.org) - Linux firewall (`iptables`) manager for humans.
 - [![Open-Source Software][oss icon]](https://github.com/firewalld/firewalld) [Firewalld](https://github.com/firewalld/firewalld) - Firewalld provides a dynamically managed firewall with support for network or firewall zones to define the trust level of network connections or interfaces.
 - [![Open-Source Software][oss icon]](https://code.launchpad.net/gui-ufw) [GuFW](https://gufw.org/) - One of the easiest firewalls in the world of Linux.
+- [![Open-Source Software][oss icon]](https://github.com/safing/portmaster) [Portmaster](https://safing.io/) - Portmaster is a free and open-source application firewall that does the heavy lifting for you. Restore privacy and take back control over all your computer's network activity. 
 
 #### Password Manager
 
@@ -1245,6 +1247,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [![Open-Source Software][oss icon]](https://bazaar.launchpad.net/~cpug-devs/cpug/main/files) [CPU-G](https://launchpad.net/cpug) - Easy monitoring the battery life of your Ubuntu laptop.
 - [![Open-Source Software][oss icon]](https://github.com/vagnum08/cpupower-gui) [cpupower-gui](https://github.com/vagnum08/cpupower-gui) - Graphical program to easily change the frequency limits and governors of the CPU, similar to cpupower.
 - [![Open-Source Software][oss icon]](https://github.com/TheTumultuousUnicornOfDarkness/CPU-X) [CPU-X](https://thetumultuousunicornofdarkness.github.io/CPU-X/) - CPU-X is a Free software that gathers information on CPU, motherboard and more.
+- [![Open-Source Software][oss icon]](https://invent.kde.org/utilities/filelight) [Filelight](https://apps.kde.org/filelight/) - Filelight is an application to visualize the disk usage on your computer by showing folders using an easy-to-understand view of concentric rings. Filelight makes it simple to free up space!
 - [GD map](http://gdmap.sourceforge.net/) - A tool to visualize disk usage.
 - [![Open-Source Software][oss icon]](https://bazaar.launchpad.net/~artfwo/indicator-cpufreq/trunk/files) [indicator-cpufreq](https://launchpad.net/indicator-cpufreq) - It provides the same functionality as the GNOME CPU frequency applet, but doesn't require GNOME panel and works under Unity.
 - [![Open-Source Software][oss icon]](https://launchpad.net/ubuntu/+source/indicator-multiload) [indicator-multiload](https://launchpad.net/ubuntu/+source/indicator-multiload) - Graphical system load indicator for CPU, ram, etc.
@@ -1280,6 +1283,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [![Open-Source Software][oss icon]](https://github.com/jordansissel/keynav) [Keynav](https://www.semicomplete.com/projects/keynav/) - Keynav is a piece of an on-going experiment to make pointer-driven interfaces easier and faster for users to operate. It lets you move the pointer quickly to most points on the screen with only a few keystrokes.
 - [![Open-Source Software][oss icon]](https://github.com/cheesecakeufo/komorebi) [Komorebi](https://github.com/cheesecakeufo/komorebi) - Komorebi is a background manager for all Linux platforms, provides fully customizable backgrounds that can be tweaked at any time.
 - [![Open-Source Software][oss icon]](https://github.com/mobile-shell/mosh) [Mosh](https://mosh.org) - Mosh is a Remote terminal application that allows roaming, supports intermittent connectivity, and provides intelligent local echo and line editing of user keystrokes.
+- [![Open-Source Software][oss icon]](https://github.com/nmap/nmap) [Nmap](https://nmap.org/) - Nmap is a free, open-source tool for network exploration, management, and security auditing.
 - [![Open-Source Software][oss icon]](https://github.com/jiahaog/nativefier) [Nativefier](https://github.com/jiahaog/nativefier) - Make any web page a desktop application.
 - [![Open-Source Software][oss icon]](https://sourceforge.net/projects/peaextractor/files/) [PeaExtractor](https://sourceforge.net/projects/peaextractor/) A utility designed to unzip files and be as frictionless as possible, and easy to use as possible.
 - [![Open-Source Software][oss icon]](https://sourceforge.net/projects/peazip/files/) [Peazip](https://sourceforge.net/projects/peazip/) - A utility to unzip any of a huge variety of compression formats.
@@ -1409,6 +1413,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [![Open-Source Software][oss icon]](https://github.com/sharkdp/fd) [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'.
 - [![Open-Source Software][oss icon]](https://github.com/LubuntuFu/fishfry) [Fishfry](https://github.com/LubuntuFu/fishfry) - Replaces fish history with a history tailored to pentesters for efficiency and newbie pentesters for learning.
 - [![Open-Source Software][oss icon]](https://github.com/junegunn/fzf) [fzf](https://github.com/junegunn/fzf) - A general-purpose command-line fuzzy finder with interactive filter and preview feature for things like files, command history, git commits, hostnames, etc.
+- [![Open-Source Software][oss icon]](https://github.com/sindresorhus/fkill-cli) [fkill](https://github.com/sindresorhus/fkill-cli) - Fabulously kill processes. Cross-platform.
 - [![Open-Source Software][oss icon]](https://github.com/heppu/gkill) [Gkill](https://github.com/heppu/gkill) - An interactive process killer for Linux.
 - [![Open-Source Software][oss icon]](https://github.com/oguzhaninan/korkut) [korkut](https://github.com/oguzhaninan/korkut) - Quick and simple image processing at the command line.
 - [![Open-Source Software][oss icon]](https://github.com/nojhan/liquidprompt) [Liquidprompt](https://github.com/nojhan/liquidprompt) - A full-featured & carefully designed adaptive prompt for Bash & Zsh.
