@@ -796,6 +796,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [![Open-Source Software][oss icon]](https://github.com/ivandokov/phockup) [Phockup](https://github.com/ivandokov/phockup) - Command line sorting tool to organize photos and videos from your camera in folders by year, month and day.
 - [![Open-Source Software][oss icon]](https://github.com/oferkv/phototonic) [Photonic](https://github.com/oferkv/phototonic) - Phototonic is image viewer and organizer.
 - [![Open-Source Software][oss icon]](https://github.com/kanryu/quickviewer) [quickviewer](https://kanryu.github.io/quickviewer/) - Very fast image/comic viewer by using OpenGL.
+- [![Open-Source Software][oss icon]](https://github.com/yurijmikhalevich/rclip) [rclip](https://github.com/yurijmikhalevich/rclip) - AI-Powered Command-Line Photo Search Tool.
 - [![Open-Source Software][oss icon]](https://gitlab.gnome.org/GNOME/shotwell) [Shotwell](https://wiki.gnome.org/Apps/Shotwell) - Shotwell is a photo manager for GNOME.
 
 #### Miscellaneous
@@ -897,6 +898,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [![Open-Source Software][oss icon]](https://github.com/popcorn-official/popcorn-desktop) [Popcorntime](https://github.com/popcorn-official/popcorn-desktop) - Watch torrent movies instantly.
 - [![Open-Source Software][oss icon]](https://github.com/martinrotter/rssguard) [RSS Guard](https://github.com/martinrotter/rssguard) - Feed reader which supports RSS/ATOM/JSON and many web-based feed services.
 - [![Open-Source Software][oss icon]](https://streamlink.github.io/streamlink-twitch-gui/) [Streamlink Twitch GUI](https://streamlink.github.io/streamlink-twitch-gui/) - A multi platform Twitch.tv browser for [Streamlink](https://streamlink.github.io/).
+- [![Open-Source Software][oss icon]](https://github.com/pystardust/ytfzf) [ytfzf](https://github.com/pystardust/ytfzf) - Terminal youtube/odysee client with thumbnails.
 
 ### Office
 
