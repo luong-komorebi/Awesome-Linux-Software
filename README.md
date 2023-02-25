@@ -1315,7 +1315,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [PlexyDesk](http://www.omgubuntu.co.uk/2016/09/plexydesk-widgets-linux-desktop-ppa) - Plexydesk supports multiple widget workspaces/desktops on Linux.
 - [![Open-Source Software][oss icon]](https://github.com/fenrus75/powertop) [Powertop](https://01.org/powertop/downloads) - A tool that can help diagnose issues with power consumption in Linux.
 - [![Open-Source Software][oss icon]](https://github.com/pulseaudio/pulseaudio) [Pulse Audio](https://wiki.ubuntu.com/PulseAudio) - Improve Linux Audio with customized Profiles.
-- [![Open-Source Software][oss icon]](https://github.com/FreeRDP/Remmina) [Remmina](https://remmina.org/jekyll/) - A feature-rich remote desktop application for Linux and other UNIXes.
+- [![Open-Source Software][oss icon]](https://github.com/FreeRDP/Remmina) [Remmina](https://remmina.org/) - A feature-rich remote desktop application for Linux and other UNIXes.
 - [![Open-Source Software][oss icon]](https://github.com/davatorium/rofi) [rofi](https://github.com/davatorium/rofi) - A window switcher, Application launcher and dmenu replacement.
 - [![Open-Source Software][oss icon]](https://github.com/Genymobile/scrcpy) [scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device.
 - [![Open-Source Software][oss icon]](https://gitlab.gnome.org/GNOME/sushi) [Sushi](https://gitlab.gnome.org/GNOME/sushi) - Sushi is a quick previewer for Nautilus, the GNOME desktop file manager.
