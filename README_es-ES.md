@@ -151,7 +151,7 @@ _para consultar una lista más larga de software de audio oprima [aquí](https:/
 
 #### Mensajería instantánea cliente herramientas
 
-- [![Open-Source Software][oss icon]](https://github.com/Cog-Creators/Red-DiscordBot) [Red Discord Bot](https://cogs.red) - "Red Discord Bot" este una programa servidor auto-alojamiento para Discord. El Programa puede instalar más "Cogs" para funciones adicionales. Puede funcionar en un Raspberri Pi.
+- [![Open-Source Software][oss icon]](https://github.com/Cog-Creators/Red-DiscordBot) [Red Discord Bot](https://index.discord.red/) - "Red Discord Bot" este una programa servidor auto-alojamiento para Discord. El Programa puede instalar más "Cogs" para funciones adicionales. Puede funcionar en un Raspberri Pi.
 
 #### Clientes todo en uno
 
