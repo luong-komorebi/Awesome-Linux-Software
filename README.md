@@ -713,7 +713,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 
 - [![Open-Source Software][oss icon]](https://github.com/ares-emulator/ares) [ares](https://ares-emu.net/) - A multi-system console emulation suite.
 - [![Open-Source Software][oss icon]](https://github.com/dragoonDorise/EmuDeck) [EmuDeck](https://www.emudeck.com/) - Emulator configurator for Steam Deck.
-- [![Open-Source Software][oss icon]](https://github.com/GNOME/gnome-video-arcade) [GNOME Video Arcade](https://wiki.gnome.org/action/show/Apps/GnomeVideoArcade) - GNOME Video Arcade is a simple Mame frontend for any freedesktop.org compliant desktop environment.
+- [![Open-Source Software][oss icon]](https://gitlab.gnome.org/Archive/gnome-video-arcade) [GNOME Video Arcade](https://wiki.gnome.org/action/show/Apps/GnomeVideoArcade) - GNOME Video Arcade is a simple Mame frontend for any freedesktop.org compliant desktop environment.
 - [![Open-Source Software][oss icon]](https://github.com/byuu/higan) [Higan](https://github.com/higan-emu/higan) - Higan is a multi-system emulator that supports emulating a huge number of different systems including: NES, SNES, GameBoy, GameBoy Color, Gameboy Advance, NEC PC Engine, Sega Master System, and more. Here is a guide to install it on Linux [Higan Installation](https://higan.readthedocs.io/en/stable/install/linux/).
 - [![Open-Source Software][oss icon]](https://github.com/mamedev/mame) [MAME](https://mamedev.org/) - MAME is an Arcade Cabinet emulator that strives for accuracy, and can play a huge number of different arcade games.
 - [![Open-Source Software][oss icon]](https://sourceforge.net/projects/qmc2/) [qmc2](https://qmc2.batcom-it.net/) - QMC2 is the successor to QMamecat, it is a gui for MAME and a ROM manager.
