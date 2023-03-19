@@ -1442,6 +1442,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [![Open-Source Software][oss icon]](https://github.com/Canop/broot) [broot](https://dystroy.org/broot/) - A new way to see and navigate directory trees.
 - [![Open-Source Software][oss icon]](https://github.com/jarun/Buku) [Buku](https://github.com/jarun/Buku) - A Command line bookmark manager.
 - [![Open-Source Software][oss icon]](https://github.com/owenthereal/ccat) [ccat](https://github.com/owenthereal/ccat) - Colorizing `cat`.
+- [![Open-Source Software][oss icon]](https://github.com/Slackadays/Clipboard) [Clipboard](https://github.com/Slackadays/Clipboard) - Cut, copy, and paste anything, anywhere, anytime.
 - [![Open-Source Software][oss icon]](https://github.com/AlDanial/cloc) [Cloc](https://github.com/AlDanial/cloc) - Count Lines of Code: cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
 - [![Open-Source Software][oss icon]](https://github.com/athityakumar/colorls) [Color LS](https://github.com/athityakumar/colorls) - Color Ls is a Ruby Gem that spices up the ls command and shows more visually than ls does without additional commands.
 - [![Open-Source Software][oss icon]](https://github.com/muesli/duf) [duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative.
