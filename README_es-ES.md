@@ -950,6 +950,7 @@ _para consultar una lista más larga de software de audio oprima [aquí](https:/
 - [![Open-Source Software][oss icon]](http://www.mplayerhq.hu/design7/dload.html) [MPlayer](http://www.mplayerhq.hu/design7/news.html) - MPlayer es un reproductor de películas que se ejecuta en muchos sistemas operativos, y puede reproducir muchos tipos de videos.
 - [![Open-Source Software][oss icon]](https://github.com/mpv-player/mpv) [MPV](https://www.mpv.io) - Un reproductor multimedia de código abierto y multiplataforma.
 - [![Open-Source Software][oss icon]](https://sourceforge.net/p/smplayer/code/HEAD/tree/) [SMPlayer](http://smplayer.sourceforge.net/) - Un reproductor multimedia gratuito con códecs incorporados.
+- [![Open-Source Software][oss icon]](https://gitlab.com/jonata/subtitld) [Subtitld](https://subtitld.org/) - Subtitld es un software de código abierto para editar, transcribir y crear subtítulos.
 - [SVP](https://www.svp-team.com/w/index.php?title=Main_Page) - un programa que te permite ver videos en tu escritorio usando interpolación de cuadros.
 - [![Open-Source Software][oss icon]](https://www.videolan.org/vlc/download-sources.html) [VLC](http://www.videolan.org/vlc/index.html) - es un reproductor multimedia multiplataforma de código abierto que reproduce casi cualquier tipo de archivo multimedia.
 
