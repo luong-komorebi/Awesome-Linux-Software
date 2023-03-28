@@ -667,6 +667,7 @@ _更新：上发布，中文版阅读地址戳[这里](https://alim0x.gitbooks.i
 - [MPlayer](http://www.mplayerhq.hu/design7/news.html) - MPlayer 是一款支持多种系统和各种视频的视频播放器。
 - [![Open-Source Software][oss icon]](https://github.com/mpv-player/mpv) [MPV](https://www.mpv.io) - 一款免费，开源，跨平台的媒体播放器。
 - [![Open-Source Software][oss icon]](https://sourceforge.net/p/smplayer/code/HEAD/tree/) [SMPlayer](http://smplayer.sourceforge.net/) - 内置解码器的免费媒体播放器。可播放所有的音频和视频格式。
+- [![Open-Source Software][oss icon]](https://gitlab.com/jonata/subtitld) [Subtitld](https://subtitld.org/) - Subtitld 是一款用于编辑、转录和创建字幕的开源软件。
 - [SVP](https://www.svp-team.com/w/index.php?title=Main_Page) - SVP 让你可以使用帧插值在你的桌面电脑上观看任何视频，就像高端电视和投影仪支持的那样。
 - [![Open-Source Software][oss icon]](https://www.videolan.org/vlc/download-sources.html) [VLC](http://www.videolan.org/vlc/index.html) - VLC 是一个免费且开源的跨平台媒体播放器以及框架，可以播放大多数格式的多媒体文件以及 DVS，音频 CD，VCD，以及各种流媒体协议。
 
