@@ -135,6 +135,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [![Open-Source Software][oss icon]](https://github.com/karlstav/cava) [cava](https://github.com/karlstav/cava) - Cava is a Cross-platform Audio Visualizer.
 - [![Open-Source Software][oss icon]](https://github.com/enzo1982/freac) [fre:ac](https://www.freac.org) - fre:ac is a free audio converter and CD ripper with support for various popular formats and encoders. It currently converts between MP3, MP4/M4A, WMA, Ogg Vorbis, FLAC, AAC, WAV and Bonk formats.
 - [![Open-Source Software][oss icon]](https://github.com/KDE/k3b) [K3b](https://userbase.kde.org/K3b) - The CD/DVD Kreator for Linux, optimized for KDE.
+- [![Open-Source Software][oss icon]](https://github.com/JonMagon/KDiskMark) [KDiskMark](https://github.com/JonMagon/KDiskMark) - A simple open-source disk benchmark tool for Linux distros, similar to CrystalDiskmark on Windows.
 - [![Open-Source Software][oss icon]](https://invent.kde.org/multimedia/kid3/) [Kid3](https://kid3.kde.org/) - Edit tags of multiple files, e.g. the artist, album, year and genre of all mp3 files of an album.
 - [![Open-Source Software][oss icon]](https://github.com/SeaDve/Mousai) [Mousai](https://apps.gnome.org/app/io.github.seadve.Mousai/) - Mousai is a simple application that can identify songs similar to Shazam.
 - [MusixMatch](https://snapcraft.io/musixmatch) - A Capable lyrics app with synchronized lyrics function.
