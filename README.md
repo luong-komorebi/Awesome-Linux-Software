@@ -121,6 +121,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [Spotify](https://www.spotify.com/us/) - Spotify is the best way to listen to music and podcasts on pc, mobile or tablet.
 - [![Open-Source Software][oss icon]](https://github.com/krtirtho/spotube) [Spotube](https://spotube.netlify.app/) - Spotube is a Flutter based lightweight spotify client. It utilizes the power of Spotify & Youtube's public API & creates a hazardless, performant & resource friendly User Experience.
 - [![Open-Source Software][oss icon]](https://github.com/Mastermindzh/tidal-hifi) [Tidal-hifi](https://github.com/Mastermindzh/tidal-hifi) - The web version of Tidal running in electron with hifi support thanks to widevine.
+- [![Open-Source Software][oss icon]](https://github.com/th-ch/youtube-music) [Youtube-Music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader) 
 
 #### Radio
 
@@ -134,6 +135,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [![Open-Source Software][oss icon]](https://github.com/karlstav/cava) [cava](https://github.com/karlstav/cava) - Cava is a Cross-platform Audio Visualizer.
 - [![Open-Source Software][oss icon]](https://github.com/enzo1982/freac) [fre:ac](https://www.freac.org) - fre:ac is a free audio converter and CD ripper with support for various popular formats and encoders. It currently converts between MP3, MP4/M4A, WMA, Ogg Vorbis, FLAC, AAC, WAV and Bonk formats.
 - [![Open-Source Software][oss icon]](https://github.com/KDE/k3b) [K3b](https://userbase.kde.org/K3b) - The CD/DVD Kreator for Linux, optimized for KDE.
+- [![Open-Source Software][oss icon]](https://github.com/JonMagon/KDiskMark) [KDiskMark](https://github.com/JonMagon/KDiskMark) - A simple open-source disk benchmark tool for Linux distros, similar to CrystalDiskmark on Windows.
 - [![Open-Source Software][oss icon]](https://invent.kde.org/multimedia/kid3/) [Kid3](https://kid3.kde.org/) - Edit tags of multiple files, e.g. the artist, album, year and genre of all mp3 files of an album.
 - [![Open-Source Software][oss icon]](https://github.com/SeaDve/Mousai) [Mousai](https://apps.gnome.org/app/io.github.seadve.Mousai/) - Mousai is a simple application that can identify songs similar to Shazam.
 - [MusixMatch](https://snapcraft.io/musixmatch) - A Capable lyrics app with synchronized lyrics function.
@@ -1200,6 +1202,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [![Open-Source Software][oss icon]](https://gitlab.gnome.org/World/Fragments) [Fragments](https://apps.gnome.org/app/de.haeckerfelix.Fragments/) - Fragments is an easy to use BitTorrent client for the GNOME desktop environment.
 - [![Open-Source Software][oss icon]](https://invent.kde.org/network/ktorrent) [KTorrent](https://www.kde.org/applications/internet/ktorrent/) - KTorrent is a BitTorrent application by KDE which allows you to download files using the BitTorrent protocol.
 - [![Open-Source Software][oss icon]](https://github.com/qbittorrent/qBittorrent) [qBittorent](https://www.qbittorrent.org/) - The qBittorrent project aims to provide a Free Software alternative to µTorrent.
+- [![Open-Source Software][oss icon]](https://github.com/c0re100/qBittorrent-Enhanced-Edition) [qBittorrent Enhanced Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition) - qBittorrent Enhanced is fork of qBittorrent that features peer whitelist/blacklist, auto update public tracker list and more.
 - [Tixati](https://www.tixati.com/) - Freeware, advanced featured torrent client, a web user interface is included.
 - [![Open-Source Software][oss icon]](https://trac.transmissionbt.com/browser/trunk) [Transmission](https://transmissionbt.com/) - Simple, lightweight, multi-platform torrent client.
 - [![Open-Source Software][oss icon]](https://github.com/transmission-remote-gui/transgui) [Transmission Remote GUI](https://sourceforge.net/projects/transgui/) - Transmission Remote GUI is a feature rich cross platform front-end to remotely control a Transmission Bit-Torrent client daemon via its RPC protocol.
