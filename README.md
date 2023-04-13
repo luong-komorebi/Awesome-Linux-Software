@@ -662,7 +662,6 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - ![Nonfree][money icon] [Minecraft](https://minecraft.net) - Minecraft is a game about placing blocks and going on adventures. Explore randomly generated worlds and build amazing things from the simplest of homes to the grandest of castles.
 - [![Open-Source Software][oss icon]](https://github.com/minetest/minetest/) [Minetest](https://minetest.net) - Open-source Minecraft written in C++ (uses less resources) and includes modding API.
 - [![Open-Source Software][oss icon]](https://github.com/MultiMC/Launcher/) [MultiMC](https://multimc.org/) - MultiMC is an alternative launcher for Minecraft. It allows you to have multiple, cleanly separated instances of Minecraft (each with their own mods, resource packs, saves, etc) and helps you manage them and their associated options with a simple and powerful interface.
-- [![Open-Source Software][oss icon]](https://github.com/PolyMC/PolyMC) [PolyMC](https://polymc.org/) - An Open Source Minecraft launcher with the ability to manage multiple instances, accounts and mods. Focused on user freedom and free redistributability.
 - [![Open-Source Software][oss icon]](https://github.com/PrismLauncher/PrismLauncher) [Prism Launcher](https://prismlauncher.org/) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC and PolyMC).
 
 #### Shooter
