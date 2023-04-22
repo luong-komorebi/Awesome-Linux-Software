@@ -696,6 +696,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [![Open-Source Software][oss icon]](https://github.com/benjamimgois/goverlay) [GOverlay](https://github.com/benjamimgois/goverlay) - GOverlay is an open source project that aims to create a Graphical UI to help manage Linux overlays.
 - [![Open-Source Software][oss icon]](https://github.com/flightlessmango/MangoHud) [MangoHud](https://github.com/flightlessmango/MangoHud) - A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more.
 - [![Open-Source Software][oss icon]](https://github.com/Merrit/nyrna) [Nyrna](https://nyrna.merritt.codes/) - Suspend games and applications.
+- [![Open-Source Software][oss icon]](https://github.com/kozec/sc-controller) [SC Controller](https://github.com/kozec/sc-controller) - User-mode driver, mapper and GTK3 based GUI for Steam Controller, DualShock 4, and similar controllers.
 - [![Open-Source Software][oss icon]](https://github.com/CapitaineJSparrow/steam-repo-manager) [Steam Deck Repo Manager](https://steamdeckrepo.com/) - Install boot videos to your Steam Deck using Steam Deck Repo website API.
 - [![Open-Source Software][oss icon]](https://github.com/SteamGridDB/steam-rom-manager) [Steam ROM Manager](https://steamgriddb.github.io/steam-rom-manager/) - An app for managing ROMs in Steam.
 
