@@ -692,10 +692,15 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 ##### Tools
 
 - [![Open-Source Software][oss icon]](https://github.com/PhilipK/BoilR) [BoilR](https://github.com/PhilipK/BoilR) - Synchronize games from other platforms into your Steam library.
+- [![Open-Source Software][oss icon]](https://github.com/dreamer/boxtron) [Boxtron](https://github.com/dreamer/boxtron) - Steam Play compatibility tool to run DOS games using native Linux DOSBox. It is a sister project of Luxtorpeda and DOSBox Staging.
+- [![Open-Source Software][oss icon]](https://github.com/dosbox-staging/dosbox-staging) [DOSBox Staging](https://dosbox-staging.github.io/) - DOSBox Staging is a modern continuation of DOSBox with advanced features and current development practices.
 - [![Open-Source Software][oss icon]](https://github.com/FeralInteractive/gamemode) [GameMode](https://github.com/FeralInteractive/gamemode) - Optimise Linux system performance on demand.
 - [![Open-Source Software][oss icon]](https://github.com/benjamimgois/goverlay) [GOverlay](https://github.com/benjamimgois/goverlay) - GOverlay is an open source project that aims to create a Graphical UI to help manage Linux overlays.
+- [![Open-Source Software][oss icon]](https://github.com/luxtorpeda-dev/luxtorpeda) [Luxtorpeda](https://luxtorpeda.gitlab.io/) - Suite of Steam Play compatibility tools to run games using native Linux engines.
 - [![Open-Source Software][oss icon]](https://github.com/flightlessmango/MangoHud) [MangoHud](https://github.com/flightlessmango/MangoHud) - A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more.
 - [![Open-Source Software][oss icon]](https://github.com/Merrit/nyrna) [Nyrna](https://nyrna.merritt.codes/) - Suspend games and applications.
+- [![Open-Source Software][oss icon]](https://github.com/dreamer/roberta) [Roberta](https://github.com/dreamer/roberta) - Steam Play compatibility tool to run adventure games using native Linux ScummVM. It is a sister project of Luxtorpeda.
+- [![Open-Source Software][oss icon]](https://github.com/scummvm/scummvm) [ScummVM](https://www.scummvm.org/) - ScummVM allows you to play classic graphic point-and-click adventure games, text adventure games, and RPGs, as long as you already have the game data files. ScummVM replaces the executable files shipped with the games, which means you can now play your favorite games on all your favorite devices.
 - [![Open-Source Software][oss icon]](https://github.com/CapitaineJSparrow/steam-repo-manager) [Steam Deck Repo Manager](https://steamdeckrepo.com/) - Install boot videos to your Steam Deck using Steam Deck Repo website API.
 - [![Open-Source Software][oss icon]](https://github.com/SteamGridDB/steam-rom-manager) [Steam ROM Manager](https://steamgriddb.github.io/steam-rom-manager/) - An app for managing ROMs in Steam.
 
