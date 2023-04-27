@@ -1206,6 +1206,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 #### Torrent Client
 
 - [![Open-Source Software][oss icon]](https://git.deluge-torrent.org/deluge) [Deluge](https://deluge-torrent.org/) - Deluge is a lightweight, Free Software, cross-platform BitTorrent client.
+- [![Open-Source Software][oss icon]](https://github.com/mdevaev/emonoda) [Emonoda](https://github.com/mdevaev/emonoda/) - A set of tools to organize and manage your torrents
 - [![Open-Source Software][oss icon]](https://gitlab.gnome.org/World/Fragments) [Fragments](https://apps.gnome.org/app/de.haeckerfelix.Fragments/) - Fragments is an easy to use BitTorrent client for the GNOME desktop environment.
 - [![Open-Source Software][oss icon]](https://invent.kde.org/network/ktorrent) [KTorrent](https://www.kde.org/applications/internet/ktorrent/) - KTorrent is a BitTorrent application by KDE which allows you to download files using the BitTorrent protocol.
 - [![Open-Source Software][oss icon]](https://github.com/qbittorrent/qBittorrent) [qBittorent](https://www.qbittorrent.org/) - The qBittorrent project aims to provide a Free Software alternative to µTorrent.
