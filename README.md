@@ -127,6 +127,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 #### Radio
 
 - [![Open-Source Software][oss icon]](https://github.com/chronitis/curseradio) [curseradio](https://github.com/chronitis/curseradio) - Command line radio player.
+- [![Open-Source Software][oss icon]](https://invent.kde.org/multimedia/kasts) [Kasts](https://apps.kde.org/kasts/) - Feature-rich, convergent podcast client for Linux Desktop and Mobile.
 - [![Open-Source Software][oss icon]](https://github.com/ebruck/radiotray-ng) [RadioTray-NG](https://github.com/ebruck/radiotray-ng) - An Internet radio player for Linux.
 - [![Open-Source Software][oss icon]](https://gitlab.gnome.org/World/Shortwave) [Shortwave](https://apps.gnome.org/app/de.haeckerfelix.Shortwave/) - Shortwave is an internet radio player that provides access to a station database with over 25,000 stations.
 - [![Open-Source Software][oss icon]](https://github.com/needle-and-thread/vocal) [Vocal](https://vocalproject.net/) - Podcast client for the modern desktop.
