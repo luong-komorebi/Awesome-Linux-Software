@@ -625,6 +625,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [![Open-Source Software][oss icon]](https://github.com/Mudlet/Mudlet) [Mudlet](https://www.mudlet.org/) - A cross-platform, open source, and super fast MUD (text-only MMORPGs) client with scripting in Lua.
 - [![Open-Source Software][oss icon]](https://github.com/Neverball/neverball) [Neverball](https://neverball.org/) - Addictive ball-rolling game with many levels, avatars and an ability to record replays.
 - [OhMyGiraffe](https://www.ohmygiraffe.com/) - A delightful game of survival. A game about a giraffe eating fruit while being chased by lions.
+- [![Open-Source Software][oss icon]](https://github.com/alemart/opensurge) [Open Surge](https://opensurge2d.org/) - A 2D platformer and game creation engine inspired by the 16-bit Sonic the Hedgehog games.
 - [![Open-Source Software][oss icon]](https://github.com/alpcoskun/snake) [Snake Game](https://aprilcoskun.github.io/snake/) - Cross-platform Classic Snake Game based on Node.js.
 - [![Open-Source Software][oss icon]](https://github.com/SuperTux/supertux/) [SuperTux](http://www.supertux.org/) - Clone of the popular sidescrolling Super Mario games.
 
