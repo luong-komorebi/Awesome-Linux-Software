@@ -184,6 +184,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 
 - [![Open-Source Software][oss icon]](https://github.com/hexchat) [HexChat](https://hexchat.github.io/) - HexChat is an IRC client based on XChat, but unlike XChat it’s completely free for both Windows and Unix-like system.
 - [![Open-Source Software][oss icon]](https://github.com/irssi/irssi) [Irssi](https://irssi.org/) - Irssi is a modular chat client that is most commonly known for its text mode user interface.
+- [![Open-Source Software][oss icon]](https://invent.kde.org/network/konversation) [Konversation](https://konversation.kde.org/) - User-friendly and fully-featured IRC client.
 - [![Open-Source Software][oss icon]](https://github.com/kvirc/KVIrc) [KVIrc](http://www.kvirc.net/) - KVIrc is a free portable IRC client based on the excellent Qt GUI toolkit.
 - [![Open-Source Software][oss icon]](https://gitlab.gnome.org/GNOME/polari) [Polari](https://wiki.gnome.org/Apps/Polari) - A simple IRC client that is designed to integrate seamlessly with GNOME.
 
