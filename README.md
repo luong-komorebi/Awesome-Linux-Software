@@ -89,6 +89,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 
 - [![Open-Source Software][oss icon]](https://gitlab.gnome.org/World/amberol) [Amberol](https://apps.gnome.org/app/io.bassi.Amberol/) - A small and simple sound and music player that is well integrated with GNOME.
 - [![Open-Source Software][oss icon]](https://audacious-media-player.org/developers) [Audacious](https://audacious-media-player.org/) - An open source audio player that plays your music how you want it, without stealing away your computer’s resources from other tasks.
+- [![Open-Source Software][oss icon]](https://invent.kde.org/multimedia/audiotube) [AudioTube](https://apps.kde.org/audiotube/) - Feature-rich YouTube Music client for KDE, built with Kirigami.
 - [![Open-Source Software][oss icon]](https://github.com/beetbox/beets) [beets](http://beets.io/) - Beets is the media library management system for obsessive-compulsive music geeks.
 - [![Open-Source Software][oss icon]](https://github.com/CDrummond/cantata) [Cantata](https://github.com/CDrummond/cantata) - Qt5 Graphical MPD (Music Player Daemon) Client for Linux, Windows, MacOS.
 - [![Open-Source Software][oss icon]](https://github.com/ciderapp/cider) [Cider](https://cider.sh/) - A new cross-platform Apple Music experience based on Electron and Vue.js written from scratch with performance in mind.
