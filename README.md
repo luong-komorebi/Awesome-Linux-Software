@@ -1263,6 +1263,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [![Open-Source Software][oss icon]](https://github.com/zevv/duc) [Duc](https://duc.zevv.nl/) - Duc, a library and suite of tools for indexing, and visualizing inspecting disk usage.
 - [![Open-Source Software][oss icon]](https://github.com/balena-io/etcher) [Etcher](https://www.balena.io/etcher/) - Flash OS images to SD cards & USB drives, safely and easily.
 - [![Open-Source Software][oss icon]](https://github.com/GNOME/gparted) [GParted](https://gparted.org/) - Disk Partition utility for Linux.
+- [![Open-Source Software][oss icon]](https://invent.kde.org/utilities/kfloppy) [KFloppy](https://apps.kde.org/kfloppy/) - Graphical utility to format 3.5" and 5.25" floppy disks.
 - [![Open-Source Software][oss icon]](https://github.com/mbusb/multibootusb) [MultiBootUSB](https://github.com/mbusb/multibootusb) - MultiBootUSB allows you to install multiple live linux on a USB disk.
 - [![Open-Source Software][oss icon]](https://github.com/pop-os/popsicle) [Popsicle](https://github.com/pop-os/popsicle) - Popsicle is a Linux utility for flashing multiple USB devices in parallel, written in Rust.
 - [![Open-Source Software][oss icon]](https://github.com/unetbootin/unetbootin) [Unetbootin](https://unetbootin.github.io) - UNetbootin allows you to create bootable Live USB drives for Ubuntu and other Linux distributions. You can either let UNetbootin download one of the many distributions supported out-of-the-box for you, or supply your own Linux .iso file.
