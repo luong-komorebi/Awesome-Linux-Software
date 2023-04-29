@@ -662,6 +662,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 
 #### Sandbox
 
+- ![Nonfree][money icon] [Factorio](https://www.factorio.com/) - A factory building sandbox game.
 - [![Open-Source Software][oss icon]](https://github.com/minecraft-linux/mcpelauncher-manifest) [Mcpelauncher](https://mcpelauncher.readthedocs.io/en/latest/) - Unoffical Open-source launcher for Minecraft: Bedrock edition.
 - ![Nonfree][money icon] [Minecraft](https://minecraft.net) - Minecraft is a game about placing blocks and going on adventures. Explore randomly generated worlds and build amazing things from the simplest of homes to the grandest of castles.
 - [![Open-Source Software][oss icon]](https://github.com/minetest/minetest/) [Minetest](https://minetest.net) - Open-source Minecraft written in C++ (uses less resources) and includes modding API.
