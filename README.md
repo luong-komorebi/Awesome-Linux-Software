@@ -387,6 +387,9 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [![Open-Source Software][oss icon]](https://github.com/JetBrains/intellij-community/tree/master/python) [PyCharm Community](https://www.jetbrains.com/pycharm/) - Open source IDE by Jetbrains for pure Python development.
 - ![Non Free][money icon] [PyCharm Professional](https://www.jetbrains.com/pycharm/) - Commercial IDE by Jetbrains for scientific and web Python development.
 
+#### Ruby
+- ![Non Free][money icon] [RubyMine](https://www.jetbrains.com/ruby/) - Professional Ruby and Rails IDE.
+
 #### Shell
 
 - [![Open-Source Software][oss icon]](https://github.com/fish-shell/fish-shell) [Fish](https://fishshell.com/) - A smart and user-friendly command-line shell.
