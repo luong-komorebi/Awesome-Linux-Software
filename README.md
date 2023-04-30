@@ -1199,6 +1199,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [SpiderOak](https://spideroak.com/) - Real-time collaboration for teams and businesses that care about privacy.
 - [![Open-Source Software][oss icon]](https://github.com/syncthing/syncthing) [Syncthing](https://syncthing.net/) - Syncthing replaces proprietary sync and cloud services with something open, trustworthy and decentralized.
 - [![Open-Source Software][oss icon]](https://gitlab.gnome.org/World/warp) [Warp](https://apps.gnome.org/app/app.drey.Warp/) - Warp allows you to securely send files to each other via the internet or local network by exchanging a word-based code.
+- [![Open-Source Software][oss icon]](https://github.com/linuxmint/warpinator) [Warpinator](https://github.com/linuxmint/warpinator) - Share files across LAN.
 - [![Open-Source Software][oss icon]](https://github.com/warner/magic-wormhole) [Wormhole](https://github.com/warner/magic-wormhole) - Get arbitrary-sized files and directories (or short pieces of text) from one computer to another safely.
 
 #### Remote Desktop
