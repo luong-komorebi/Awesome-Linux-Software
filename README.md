@@ -107,10 +107,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [![Open-Source Software][oss icon]](https://gitlab.gnome.org/World/lollypop) [Lollypop](https://wiki.gnome.org/Apps/Lollypop) - A GNOME music playing application.
 - [![Open-Source Software][oss icon]](https://gitlab.com/ColinDuquesnoy/MellowPlayer) [Mellow Player](https://colinduquesnoy.gitlab.io/MellowPlayer/) - Cloud music integration for your desktop.
 - [![Open-Source Software][oss icon]](https://github.com/mopidy/mopidy) [Mopidy](https://www.mopidy.com/) - An extensible music server written in Python.
-- [![Open-Source Software][oss icon]](https://github.com/staniel359/muffon) [muffon](https://muffon.netlify.app/) - muffon is a cross-platform music streaming browser
-for desktop, which helps you find, listen
-and organize music in a way you've probably
-never experienced before.
+- [![Open-Source Software][oss icon]](https://github.com/staniel359/muffon) [muffon](https://muffon.netlify.app/) - muffon is a cross-platform music streaming browser for desktop, which helps you find, listen and organize music in a way you've probably never experienced before.
 - [![Open-Source Software][oss icon]](https://github.com/martpie/museeks) [Museeks](https://museeks.io/) - A simple, clean and cross-platform music player.
 - [![Open-Source Software][oss icon]](https://github.com/metabrainz/picard) [MusicBrainz Picard](https://picard.musicbrainz.org/) - Picard is a cross-platform music tagger written in Python.
 - [Netease Music](http://music.163.com/#/download) - A music player of Netease - a cloud music service in China.
