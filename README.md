@@ -1644,6 +1644,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [Unixmen](https://www.unixmen.com/)
 - [Webupd8](http://www.webupd8.org/)
 - [WineDB](https://appdb.winehq.org/)
+  [OwlHowTo](https://owlhowto.com/)
 
 ## Reddit
 
