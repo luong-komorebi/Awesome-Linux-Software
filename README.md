@@ -518,7 +518,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [![Open-Source Software][oss icon]](https://apps.ankiweb.net/) [Anki](https://apps.ankiweb.net/) - Powerful, intelligent flash cards which makes remembering things easy.
 - [![Open-Source Software][oss icon]](https://sourceforge.net/projects/artha/) [Artha](http://artha.sourceforge.net/wiki/index.php/Home) - Artha is a free cross-platform English thesaurus that works completely off-line and is based on WordNet.
 - [![Open-Source Software][oss icon]](https://github.com/bibletime/bibletime) [BibleTime](http://bibletime.info/) - BibleTime is a Bible study application based on the Sword library and Qt toolkit.
-- [![Open-Source Software][oss icon]](https://sourceforge.net/projects/celestia/) [Celestia](https://celestia.space) - The free space simulation that lets you explore our universe in three dimensions.
+- [![Open-Source Software][oss icon]](https://github.com/CelestiaProject/Celestia) [Celestia](https://github.com/CelestiaProject/Celestia) - The free space simulation that lets you explore our universe in three dimensions.
 - [![Open-Source Software][oss icon]](https://github.com/opp11/chemtool/) [Chemtool](http://ruby.chemie.uni-freiburg.de/~martin/chemtool/) - Chemtool is a small program for drawing chemical structures on Linux.
 - [![Open-Source Software][oss icon]](http://github.com/colobot) [Colobot](https://colobot.info/) - Colobot: Gold Edition is a real-time strategy game, where you can program your units (bots) in a language called CBOT, which is similar to C++ and Java.
 - [![Open-Source Software][oss icon]](https://code.launchpad.net/epoptes) [Epoptes](https://epoptes.org/) - An open source computer lab management and monitoring tool.
