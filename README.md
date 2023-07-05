@@ -24,6 +24,7 @@
   - [Development](#development)
   - [E-Book Utilities](#e-book-utilities)
   - [Education](#education)
+  - [Electronic](#electronic)
   - [Email Utilities](#email)
   - [File Manager](#file-manager)
   - [Games](#games)
@@ -68,7 +69,7 @@
 ### 3D Printing
 
 - [Cura](https://ultimaker.com/software/ultimaker-cura/) - The worlds most advanced 3D printer software
-- [![Open-Source Software][oss icon]](https://www.freecad.org/) [FreeCAD](https://www.freecad.org/) - An open source parametric 3D CAD modeler
+- [![Open-Source Software][oss icon]](https://github.com/FreeCAD) [FreeCAD](https://www.freecad.org/) - An open source parametric 3D CAD modeler
 
 ### Audio
 
@@ -519,6 +520,12 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [![Open-Source Software][oss icon]](https://sourceforge.net/projects/tuxtype/files/tuxtype-source/) [TuxType](https://www.tux4kids.com/tuxtyping.html) - An educational typing tutorial game starring Tux.
 - [![Open-Source Software][oss icon]](https://github.com/ugeneunipro/ugene) [UGENE](https://ugene.net/) - UGENE is free open-source cross-platform integrated GUI-based bioinformatics software.
 - [![Open-Source Software][oss icon]](https://github.com/veyon/veyon) [Veyon](https://veyon.io/) - Veyon is a computer management software for classrooms, it allows a teacher to control student computers and guide students over a computer network.
+
+
+### Electronic
+
+- [![Open-Source Software][oss icon]](https://github.com/KiCad) [KiCAD](https://www.kicad.org/) - An EDA suite for schematic and circuit board design.
+- [![Open-Source Software][oss icon]](http://www.cburch.com/logisim/) [Logisim](http://www.cburch.com/logisim/) - Graphical tool for designing and simulating logic circuits.
 
 ### Email
 
