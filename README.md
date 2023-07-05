@@ -16,6 +16,7 @@
 ## Table of Contents
 
 - [Applications](#applications)
+  - [3D Printing](#3dprinting)
   - [Audio](#audio)
   - [Chat Clients](#chat-clients)
   - [Data Backup and Recovery](#data-backup-and-recovery)
@@ -63,6 +64,11 @@
 ---
 
 ## Applications
+
+### 3D Printing
+
+- [Cura](https://ultimaker.com/software/ultimaker-cura/) - The worlds most advanced 3D printer software
+- [![Open-Source Software][oss icon]](https://ardour.org/development.html) [FreeCAD]([https://ardour.org/](https://www.freecad.org/)) - An open source parametric 3D CAD modeler
 
 ### Audio
 
