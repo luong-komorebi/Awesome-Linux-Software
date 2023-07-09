@@ -497,7 +497,6 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [![Open-Source Software][oss icon]](https://github.com/KDE/marble) [Marble](https://marble.kde.org/) - Marble is a virtual globe and world atlas — your swiss army knife for maps.
 - ![Nonfree][money icon] [MATLAB](https://www.mathworks.com/products/matlab/) - The MATLAB platform is optimized for solving engineering and scientific problems. MATLAB helps you take your ideas beyond the desktop. You can run your analyses on larger data sets and scale up to clusters and clouds.
 - ![Nonfree][money icon] [Mathematica](https://www.wolfram.com/mathematica/) - The world's definitive system for modern technical computing.
-- [Wolfram Engine](https://www.wolfram.com/engine/) - A locally downloadable Wolfram Engine to put computational intelligence into your applications.
 - [![Open-Source Software][oss icon]](https://sourceforge.net/projects/maxima/) [Maxima](https://maxima.sourceforge.io/) - Maxima is a system for the manipulation of symbolic and numerical expressions, including differentiation, integration, Taylor series, Laplace transforms, ordinary differential equations, systems of linear equations, and much more.
 - [Mendeley](https://www.mendeley.com/) - Mendeley is a program for managing and sharing research papers, finding research data and collaborating online.
 - [![Open-Source Software][oss icon]](https://github.com/moodle/moodle) [Moodle](https://download.moodle.org/) - Course management system for online learning.
@@ -513,6 +512,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [![Open-Source Software][oss icon]](https://sourceforge.net/projects/tuxtype/files/tuxtype-source/) [TuxType](https://www.tux4kids.com/tuxtyping.html) - An educational typing tutorial game starring Tux.
 - [![Open-Source Software][oss icon]](https://github.com/ugeneunipro/ugene) [UGENE](https://ugene.net/) - UGENE is free open-source cross-platform integrated GUI-based bioinformatics software.
 - [![Open-Source Software][oss icon]](https://github.com/veyon/veyon) [Veyon](https://veyon.io/) - Veyon is a computer management software for classrooms, it allows a teacher to control student computers and guide students over a computer network.
+- [Wolfram Engine](https://www.wolfram.com/engine/) - A locally downloadable Wolfram Engine to put computational intelligence into your applications.
 
 ### Email
 
