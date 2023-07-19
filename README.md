@@ -768,7 +768,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [Vectr](https://vectr.com/) - Vectr is a free graphics software used to create vector graphics easily and intuitively. It's a simple yet powerful web and desktop cross-platform tool to bring your designs into reality.
 - [![Open-Source Software][oss icon]](http://www.xaraxtreme.org/Developers/develeopers-source-code-a-building.html) [Xara Extreme](http://www.xaraxtreme.org/) - Xara Xtreme for Linux is a powerful, general purpose graphics program for Unix platforms including Linux, FreeBSD.
 - [yEd Graph Editor](https://www.yworks.com/products/yed) - yEd is a powerful desktop application that can be used to quickly and effectively generate high-quality diagrams. Create diagrams manually, or import your external data for analysis. Our automatic layout algorithms arrange even large data sets with just the press of a button.
-
+- [3DHousePlanner](https://www.3dhouseplanner.com/) - 3D House Planner is a professional home design web application that allows users to design houses and apartments.
 #### Image Editor
 
 - ![Nonfree][money icon] [Aftershot](https://www.aftershotpro.com/en/products/aftershot/pro/) - A powerful alternative to Adobe Photoshop.
