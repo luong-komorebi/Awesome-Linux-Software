@@ -1550,6 +1550,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 
 - [![Open-Source Software][oss icon]](https://github.com/evertiro/cdm) [CDM](https://github.com/evertiro/cdm) - A ultra-minimalistic, yet full-featured login manager written in Bash.
 - [![Open-Source Software][oss icon]](https://github.com/dopsi/console-tdm) [Console TDM](https://github.com/dopsi/console-tdm) - An extension for xinit written in pure Bash.
+- [![Open-Source Software][oss icon]](https://github.com/coastalwhite/lemurs) [Lemurs](https://github.com/coastalwhite/lemurs) - A customizable TUI display/login manager written in Rust.
 - [![Open-Source Software][oss icon]](https://github.com/cylgom/ly) [Ly](https://github.com/cylgom/ly) - Ly is a lightweight, TUI (ncurses-like) display manager for Linux.
 - [![Open-Source Software][oss icon]](https://github.com/spanezz/nodm) [nodm](https://github.com/spanezz/nodm) - A minimalistic display manager for automatic logins.
 
