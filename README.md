@@ -70,7 +70,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 
 #### Edit-Mix-Record
 
-- [![Open-Source Software][oss icon]](https://ardour.org/development.html) [Ardour](https://ardour.org/) - Record, Edit, and Mix on Linux.
+- [![Open-Source Software][oss icon]](https://github.com/Ardour/ardour) [Ardour](https://ardour.org/) - Record, Edit, and Mix on Linux.
 - [![Open-Source Software][oss icon]](https://github.com/audacity/audacity) [Audacity](https://www.audacityteam.org/download/linux/) - Free, open source, cross-platform software for recording and editing sounds.
 - [![Open-Source Software][oss icon]](https://bazaar.launchpad.net/~audio-recorder/audio-recorder/trunk/files) [Audio Recorder](https://launchpad.net/~audio-recorder) - Simple audio recorder available in an Ubuntu PPA.
 - ![Non Free][money icon] [Bitwig](https://www.bitwig.com/en/download.html) - DAW for music production.
@@ -156,17 +156,13 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 #### 3rd Party Client
 
 - [![Open-Source Software][oss icon]](https://github.com/sindresorhus/caprine) [Caprine](https://sindresorhus.com/caprine) - Elegant Facebook Messenger desktop app.
-- [![Open-Source Software][oss icon]](https://github.com/ibboard/cawbird/) [Cawbird](https://ibboard.co.uk/cawbird/) - A fork of the Corebird GTK Twitter client that continues to work with Twitter.
 - [![Open-Source Software][oss icon]](https://github.com/chatterino/chatterino2) [Chatterino](https://chatterino.com/) - Chatterino is a chat client for Twitch chat. It aims to be an improved/extended version of the Twitch web chat.
 - [![Open-Source Software][oss icon]](https://github.com/chatty/chatty) [Chatty](https://chatty.github.io/) - Chatty is a Twitch chat client for everyone who wants to try something new and different from the webchat, but doesn't want the complexity of an IRC client or miss out on the Twitch specific features.
 - [![Open-Source Software][oss icon]](https://gitlab.gnome.org/GNOME/fractal) [Fractal](https://wiki.gnome.org/Apps/Fractal) - Fractal is a Matrix messaging app for GNOME written in Rust. Its interface is optimized for collaboration in large groups, such as free software projects.
-- [![Open-Source Software][oss icon]](https://github.com/stanfieldr/ghetto-skype) [GhettoSkype](https://github.com/stanfieldr/ghetto-skype) - Open source web wrapper for Skype.
-- [![Open-Source Software][oss icon]](https://github.com/dangeredwolf/ModernDeck) [ModernDeck](https://moderndeck.org/) - A beautiful, powerful Twitter client for desktop.
 - [![Open-Source Software][oss icon]](https://invent.kde.org/network/neochat) [NeoChat](https://apps.kde.org/neochat/) - NeoChat is a Matrix client. It allows you to send text messages, videos and audio files to your family, colleagues and friends using the Matrix protocol.
 - [![Open-Source Software][oss icon]](https://invent.kde.org/network/tokodon) [Tokodon](https://apps.kde.org/tokodon/) - Tokodon is a Mastodon client for Plasma and Plasma Mobile.
 - [![Open-Source Software][oss icon]](https://github.com/SpacingBat3/WebCord) [WebCord](https://github.com/SpacingBat3/WebCord) - A Discord and Fosscord web-based client made with the electron.
 - [![Open-Source Software][oss icon]](https://gitlab.com/zerkc/whatsdesk) [WhatsDesk](https://zerkc.gitlab.io/whatsdesk/) - WhatsDesk is a unofficial client of WhatsApp.
-- [![Open-Source Software][oss icon]](https://github.com/yakyak/yakyak) [YakYak](https://github.com/yakyak/yakyak) - Desktop chat client for Google Hangouts.
 
 #### All-in-One Client
 
@@ -232,8 +228,8 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [![Open-Source Software][oss icon]](https://github.com/restic/restic) [restic](https://restic.net/) - restic is a backup program that is fast, efficient and secure. It supports the three major operating systems (Linux, macOS, Windows) and a few smaller ones (FreeBSD, OpenBSD).
 - [![Open-Source Software][oss icon]](https://github.com/rsnapshot/rsnapshot) [rsnapshot](https://rsnapshot.org/) - rsnapshot is a command line utility based on rsync to make periodic snapshots of local/remote machines. The code makes extensive use of hard links whenever possible to greatly reduce the disk space required.
 - [![Open-Source Software][oss icon]](https://sourceforge.net/projects/systemrescuecd/) [System Rescue CD](http://www.system-rescue-cd.org/) - SystemRescueCd is a Linux system rescue disk available as a bootable CD-ROM or USB stick for administrating or repairing your system and data after a crash.
-- [![Open-Source Software][oss icon]](https://github.com/cgsecurity/testdisk) [Test Disk](https://www.cgsecurity.org/wiki/TestDisk) - TestDisk is powerful free data recovery software! It was primarily designed to help recover lost partitions and/or make non-booting disks bootable again when these symptoms are caused by faulty software.
-- [![Open-Source Software][oss icon]](https://github.com/teejee2008/timeshift) [Timeshift](https://launchpad.net/timeshift) - TimeShift is a system restore utility which takes incremental snapshots of the system using rsync and hard-links. These snapshots can be restored at a later date to undo all changes that were made to the system after the snapshot was taken. Snapshots can be taken manually or at regular intervals using scheduled jobs. Nowadays Timeshift is part of the Xapp project which is a collection of cross-DE and cross-distributions applications which are maintained by [Linux-Mint](https://github.com/linuxmint/timeshift).
+- [![Open-Source Software][oss icon]](https://github.com/cgsecurity/testdisk) [TestDisk](https://www.cgsecurity.org/wiki/TestDisk) - TestDisk is powerful free data recovery software! It was primarily designed to help recover lost partitions and/or make non-booting disks bootable again when these symptoms are caused by faulty software.
+- [![Open-Source Software][oss icon]](https://github.com/linuxmint/timeshift) [Timeshift](https://github.com/linuxmint/timeshift) - System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB.
 - [![Open-Source Software][oss icon]](https://github.com/borgbase/vorta) [Vorta](https://vorta.borgbase.com/) - Vorta is a backup client for macOS and Linux desktops. It integrates the mighty BorgBackup with your desktop environment to protect your data from disk failure, ransomware and theft.
 
 ### Desktop Customization
@@ -245,7 +241,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [![Open-Source Software][oss icon]](https://github.com/vinceliuice/Fluent-icon-theme) [Fluent Icon Theme](https://github.com/vinceliuice/Fluent-icon-theme) - Fluent icon theme for linux desktops.
 - [![Open-Source Software][oss icon]](https://github.com/keeferrourke/la-capitaine-icon-theme) [La Capitaine Icon Theme](https://github.com/keeferrourke/la-capitaine-icon-theme) - A macOS and Material design inspired icon theme designed to fit into most desktop environments.
 - [![Open-Source Software][oss icon]](https://github.com/snwh/moka-icon-theme) [Moka Icon Theme](https://snwh.org/moka) - Moka was created with simplicity in mind. With the use simple geometry & bright colours.
-- [![Open-Source Software][oss icon]](https://github.com/numixproject/numix-icon-theme) [Numix Icon Theme](https://github.com/numixproject/numix-icon-theme) - A flat icon theme that comes in two varieties, Numix Main, and Numix circle.
+- [![Open-Source Software][oss icon]](https://github.com/numixproject/numix-icon-theme) [Numix Icon Theme](https://numixproject.github.io/) - A flat icon theme that comes in two varieties, Numix Main, and Numix circle.
 - [![Open-Source Software][oss icon]](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) [Papirus Icon Theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - SVG icon theme for Linux systems, based on Paper with a few extras like (hardcode-tray support, kde-color-scheme support, libreoffice icon theme, filezilla theme, smplayer themes, ...) and other modifications. The theme is available for GTK and KDE.
 - [![Open-Source Software][oss icon]](https://github.com/vinceliuice/Qogir-icon-theme) [Qogir Icon Theme](https://github.com/vinceliuice/Qogir-icon-theme) - A flat colorful design icon theme for linux desktops.
 - [![Open-Source Software][oss icon]](https://github.com/yeyushengfan258/Reversal-icon-theme) [Reversal Icon Theme](https://github.com/yeyushengfan258/Reversal-icon-theme) - A colorful design icon theme for linux desktops.
@@ -1228,7 +1224,6 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 
 #### Integrated Development Environment inspired / Common User Access based
 
-- [![Open-Source Software][oss icon]](https://github.com/atom/atom) [Atom](https://atom.io/) - Hackable text editor for the 21st century. ([Discontinued](https://github.blog/2022-06-08-sunsetting-atom/))
 - [![Open-Source Software][oss icon]](https://sourceforge.net/p/bluefish/code/HEAD/tree/trunk/bluefish/) [Bluefish](http://bluefish.openoffice.nl/index.html) - Bluefish is a powerful editor targeted towards programmers and web developers, with many options to write websites, scripts and programming code.
 - [![Open-Source Software][oss icon]](https://github.com/adobe/brackets) [Brackets](http://brackets.io/) - A modern text editor that understands web design.
 - [![Open-Source Software][oss icon]](https://github.com/Alexey-T/CudaText) [CudaText](https://cudatext.github.io/) - CudaText is a cross-platform text editor, written in Object Pascal.
@@ -1530,8 +1525,8 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 
 ## Desktop Environments
 
-- [![Open-Source Software][oss icon]](https://github.com/BuddiesOfBudgie/budgie-desktop) [Budgie](https://blog.buddiesofbudgie.org/) - Budgie is a desktop environment designed with the modern user in mind, it focuses on simplicity and elegance.
-- [![Open-Source Software][oss icon]](https://github.com/linuxmint/Cinnamon) [Cinnamon](https://linuxmint.com/) - Cinnamon strives to provide a traditional user experience. Cinnamon is a fork of GNOME 3.
+- [![Open-Source Software][oss icon]](https://github.com/BuddiesOfBudgie/budgie-desktop) [Budgie](https://buddiesofbudgie.org/) - Budgie is a desktop environment designed with the modern user in mind, it focuses on simplicity and elegance.
+- [![Open-Source Software][oss icon]](https://github.com/linuxmint/Cinnamon) [Cinnamon](https://projects.linuxmint.com/cinnamon/) - Cinnamon strives to provide a traditional user experience. Cinnamon is a fork of GNOME 3.
 - [![Open-Source Software][oss icon]](https://github.com/linuxdeepin/dde-file-manager/tree/develop2.0) [Deepin DE](https://www.deepin.org/en/dde/) - DDE (Deepin Desktop Environment) is the default desktop environment originally created for the Linux Deepin distribution.
 - [![Open-Source Software][oss icon]](https://git.enlightenment.org/enlightenment/efl) [Enlightenment](https://www.enlightenment.org/about) - A lightweight and pretty desktop environment that is designed to run fast and look good, while retaining a large degree of customization.
 - [![Open-Source Software][oss icon]](https://gitlab.gnome.org/GNOME) [GNOME](https://www.gnome.org/) - The GNOME desktop environment is an attractive and intuitive desktop with both a modern (GNOME) and a classic (GNOME Classic) session.
