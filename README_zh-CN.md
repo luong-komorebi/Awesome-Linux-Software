@@ -453,7 +453,7 @@ _更新：上发布，中文版阅读地址戳[这里](https://alim0x.gitbooks.i
 - [![Open-Source Software][oss icon]](https://git.gnome.org/browse/gthumb/) [Heron Animation](https://heronanimation.brunolefevre.net/) - 免费的定格动画制作程序。
 - [![Open-Source Software][oss icon]](https://www.kde.org/applications/graphics/karbon/development) [Karbon](https://www.calligra.org/karbon/) - 一款开源的矢量绘图程序。
 - [Kdenlive](https://kdenlive.org/) - Kdenlive 是一款非线性视频编辑器，比入门级的（线性）编辑器强大得多。 [![Open-Source Software][oss icon]](https://github.com/KDE/kdenlive)
-- [![Open-Source Software][oss icon]](https://github.com/LuminanceHDR/LuminanceHDR) [Luminance HDR](http://qtpfsgui.sourceforge.net/) - Luminance HDR 是一款开源的图形化用户界面应用，它的目标是提供一整套的 HDR 图像工作流程。
+- [![Open-Source Software][oss icon]](https://github.com/LuminanceHDR/LuminanceHDR) [Luminance HDR](https://sourceforge.net/projects/qtpfsgui/) - Luminance HDR 是一款开源的图形化用户界面应用，它的目标是提供一整套的 HDR 图像工作流程。
 - [![Open-Source Software][oss icon]](https://github.com/mypaint/mypaint/releases) [Mypaint](http://mypaint.org/about/) - Mypaint 是一款配合画板使用的绘画程序。
 - [![Open-Source Software][oss icon]](https://github.com/peterlevi/ojo) [Ojo](https://github.com/peterlevi/ojo) - 一款快速且漂亮的图像查看器。
 - [![Open-Source Software][oss icon]](https://github.com/jonata/opendvdproducer) [Open DVD Producer](http://opendvdproducer.jonata.org/) - 现代，开源，跨平台的 DVD 镜像生产软件。
