@@ -351,7 +351,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 #### Golang
 
 - ![Non Free][money icon] [GoLand](https://www.jetbrains.com/go/) - Commercial IDE by JetBrains aimed at providing an ergonomic environment for Go development.
-- [![Open-Source Software][oss icon]](https://github.com/visualfc/liteide) [LiteIDE X](http://liteide.org/en/) - LiteIDE is a simple, open source, cross-platform Go IDE.
+- [![Open-Source Software][oss icon]](https://github.com/visualfc/liteide) [LiteIDE X](https://github.com/visualfc/liteide) - LiteIDE is a simple, open source, cross-platform Go IDE.
 
 #### Java
 
