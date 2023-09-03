@@ -651,7 +651,7 @@ _para consultar una lista más larga de software de audio oprima [aquí](https:/
 - [![Open-Source Software][oss icon]](https://www.chromium.org/) [Chromium](http://askubuntu.com/questions/250773/how-do-i-install-chromium-from-the-command-line) - Chromium es el proyecto de código abierto en el que se basa Google Chrome.
 - [![Open-Source Software][oss icon]](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide) [Firefox](https://www.mozilla.org/en-US/firefox/new/) - Un popular navegador web que es bien conocido por tener muchos complementos para mejorar la funcionalidad.
 - [![Open-Source Software][oss icon]](https://git.savannah.gnu.org/cgit/gnuzilla.git) [IceCat](https://www.gnu.org/software/gnuzilla/) - Una versión de código abierto del navegador web de Firefox. Sólo utiliza software de código abierto.
-- [![Open-Source Software][oss icon]](https://launchpad.net/~midori/+archive/ubuntu/ppa) [Midori](http://midori-browser.org/) - Un navegador web diseñado para no utilizar mucha potencia del sistema.
+- [![Open-Source Software][oss icon]](https://launchpad.net/~midori/+archive/ubuntu/ppa) [Midori](https://astian.org/midori-browser/download/) - Un navegador web diseñado para no utilizar mucha potencia del sistema.
 - [![Open-Source Software][oss icon]](https://github.com/minbrowser/min) [Min](https://minbrowser.github.io/min) - es un navegador web muy minimalista y elegante.
 - [Opera](http://www.opera.com/) - Es un navegador web capaz, también fue el primero en tener "Smart Dial" funcionalidad.
 - [![Open-Source Software][oss icon]](https://github.com/qutebrowser/qutebrowser) [QuteBrowser](https://www.qutebrowser.org/) - es un navegador diseñado para ser utilizado con el teclado, y tiene muchos VIM como atajos.
