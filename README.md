@@ -106,6 +106,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [![Open-Source Software][oss icon]](https://github.com/LibreTime/libretime) [Libretime](https://libretime.org/) - The open broadcast software for scheduling and remote station management; forked from Airtime.
 - [![Open-Source Software][oss icon]](https://gitlab.gnome.org/World/lollypop) [Lollypop](https://wiki.gnome.org/Apps/Lollypop) - A GNOME music playing application.
 - [![Open-Source Software][oss icon]](https://gitlab.com/ColinDuquesnoy/MellowPlayer) [Mellow Player](https://colinduquesnoy.gitlab.io/MellowPlayer/) - Cloud music integration for your desktop.
+- [![Open-Source Software][oss icon]](https://gitlab.com/zehkira/monophony) [Monophony](https://gitlab.com/zehkira/monophony) - Linux app for streaming music from YouTube.
 - [![Open-Source Software][oss icon]](https://github.com/mopidy/mopidy) [Mopidy](https://www.mopidy.com/) - An extensible music server written in Python.
 - [![Open-Source Software][oss icon]](https://github.com/staniel359/muffon) [muffon](https://muffon.netlify.app/) - muffon is a cross-platform music streaming browser for desktop, which helps you find, listen and organize music in a way you've probably never experienced before.
 - [![Open-Source Software][oss icon]](https://github.com/martpie/museeks) [Museeks](https://museeks.io/) - A simple, clean and cross-platform music player.
@@ -138,6 +139,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 #### Utilities
 
 - [![Open-Source Software][oss icon]](https://github.com/karlstav/cava) [cava](https://github.com/karlstav/cava) - Cava is a Cross-platform Audio Visualizer.
+- [![Open-Source Software][oss icon]](https://gitlab.gnome.org/World/eartag) [Ear Tag](https://gitlab.gnome.org/World/eartag) - Small and simple audio file tag editor.
 - [![Open-Source Software][oss icon]](https://github.com/enzo1982/freac) [fre:ac](https://www.freac.org) - fre:ac is a free audio converter and CD ripper with support for various popular formats and encoders. It currently converts between MP3, MP4/M4A, WMA, Ogg Vorbis, FLAC, AAC, WAV and Bonk formats.
 - [![Open-Source Software][oss icon]](https://github.com/KDE/k3b) [K3b](https://userbase.kde.org/K3b) - The CD/DVD Kreator for Linux, optimized for KDE.
 - [![Open-Source Software][oss icon]](https://github.com/JonMagon/KDiskMark) [KDiskMark](https://github.com/JonMagon/KDiskMark) - A simple open-source disk benchmark tool for Linux distros, similar to CrystalDiskmark on Windows.
@@ -160,6 +162,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [![Open-Source Software][oss icon]](https://github.com/chatty/chatty) [Chatty](https://chatty.github.io/) - Chatty is a Twitch chat client for everyone who wants to try something new and different from the webchat, but doesn't want the complexity of an IRC client or miss out on the Twitch specific features.
 - [![Open-Source Software][oss icon]](https://gitlab.gnome.org/GNOME/fractal) [Fractal](https://wiki.gnome.org/Apps/Fractal) - Fractal is a Matrix messaging app for GNOME written in Rust. Its interface is optimized for collaboration in large groups, such as free software projects.
 - [![Open-Source Software][oss icon]](https://invent.kde.org/network/neochat) [NeoChat](https://apps.kde.org/neochat/) - NeoChat is a Matrix client. It allows you to send text messages, videos and audio files to your family, colleagues and friends using the Matrix protocol.
+- [![Open-Source Software][oss icon]](https://github.com/Nheko-Reborn/nheko) [nheko](https://nheko-reborn.github.io/) - Desktop client for Matrix using Qt and C++20. 
 - [![Open-Source Software][oss icon]](https://invent.kde.org/network/tokodon) [Tokodon](https://apps.kde.org/tokodon/) - Tokodon is a Mastodon client for Plasma and Plasma Mobile.
 - [![Open-Source Software][oss icon]](https://github.com/SpacingBat3/WebCord) [WebCord](https://github.com/SpacingBat3/WebCord) - A Discord and Fosscord web-based client made with the electron.
 - [![Open-Source Software][oss icon]](https://gitlab.com/zerkc/whatsdesk) [WhatsDesk](https://zerkc.gitlab.io/whatsdesk/) - WhatsDesk is a unofficial client of WhatsApp.
@@ -194,6 +197,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [Discord](https://discordapp.com/) - All-in-one voice and text chat for gamers that’s free, secure, and works on both your desktop and phone.
 - [![Open-Source Software][oss icon]](https://github.com/vector-im/element-web) [Element](https://element.io/) - A glossy Matrix collaboration client for the web.
 - [![Open-Source Software][oss icon]](https://gitlab.com/gitlab-org/gitter/services) [Gitter](https://gitter.im/) - Gitter — Where developers come to talk. Gitter is designed to make community messaging, collaboration and discovery as smooth and simple as possible.
+- [Guilded](https://www.guilded.gg/) - Guilded is the best app for gaming chat. Guilded is perfect for gaming with friends, clans, guilds, communities, esports, LFG and teams. And it's free.
 - [![Open-Source Software][oss icon]](https://git.jami.net/savoirfairelinux) [Jami](https://jami.net/) - Chat. Talk. Share. Jami is a free and universal communication platform which preserves the users' privacy and freedoms. Formerly Ring.
 - [![Open-Source Software][oss icon]](https://github.com/jitsi) [Jitsi](https://jitsi.org/) - Jitsi is a free and open source multiplatform voice, videoconferencing and instant messaging application for Windows, Linux, Mac OS X and Android.
 - [![Open-Source Software][oss icon]](https://github.com/mattermost/) [Mattermost](https://mattermost.com/) - Mattermost is a secure collaboration platform that is open, flexible, and deeply integrated with the tools you love.
@@ -344,6 +348,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - ![Nonfree][freeware icon]![Nonfree][money icon] [GitKraken](https://www.gitkraken.com/) - The downright luxurious Git GUI client for Windows, Mac & Linux.
 - [![Open-Source Software][oss icon]](https://github.com/gitlabhq/gitlabhq) [GitLab](https://github.com/gitlabhq/gitlabhq) - GitLab is a web-based Git repository manager with wiki and issue tracking features.
 - [![Open-Source Software][oss icon]](https://github.com/sitaramc/gitolite) [Gitolite](http://gitolite.com/gitolite/index.html) - Gitolite allows you to setup git hosting on a central server, with fine-grained access control and many more powerful features.
+- [![Open-Source Software][oss icon]](https://github.com/Murmele/Gittyup) [Gittyup](https://murmele.github.io/Gittyup/) - Gittyup is a graphical Git client designed to help you understand and manage your source code history.
 - [![Open-Source Software][oss icon]](https://github.com/gogs/gogs) [Gogs](https://gogs.io/) - A painless self-hosted Git service.
 - [![Open-Source Software][oss icon]](https://github.com/jesseduffield/lazygit) [lazygit](https://github.com/jesseduffield/lazygit) - A simple terminal UI for git commands, written in Go with the gocui library.
 - ![Nonfree][money icon] [SmartGit](https://www.syntevo.com/smartgit/) - SmartGit is a Git client with support for GitHub Pull Requests+Comments and SVN.
@@ -400,6 +405,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [![Open-Source Software][oss icon]](https://github.com/robbyrussell/oh-my-zsh) [Oh-my-zsh](https://ohmyz.sh/) - A delightful community-driven framework for managing your zsh configuration.
 - [![Open-Source Software][oss icon]](https://github.com/oilshell/oil) [oilshell](https://github.com/oilshell/oil) - Oil is a new Unix shell for Python and JavaScript users who avoid shell!.
 - [![Open-Source Software][oss icon]](https://github.com/koalaman/shellcheck) [Shellcheck](https://www.shellcheck.net/) - ShellCheck, a static analysis tool for shell scripts.
+- [![Open-Source Software][oss icon]](https://github.com/zimfw/zimfw) [Zim](https://zimfw.sh/) - Modular, customizable, and blazing fast Zsh framework.
 - [![Open-Source Software][oss icon]](http://sourceforge.net/p/zsh/code/ci/master/tree/) [Zsh](https://www.zsh.org/) - A powerful command line shell.
 
 #### Supporting Tools
@@ -599,6 +605,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [![Open-Source Software][oss icon]](https://download.savannah.gnu.org/releases/galois/source/) [Galois](https://www.nongnu.org/galois/) - Galois is a Falling Blocks type game that isn't limited to the standard tetrominoes that most games in it's genre are limited to.
 - [![Open-Source Software][oss icon]](https://gitlab.gnome.org/GNOME/gbrainy/) [GBrainy](https://wiki.gnome.org/action/show/Apps/gbrainy) - Gbrainy is a brain teaser game with logic puzzles and memory trainers.
 - [![Open-Source Software][oss icon]](https://gitlab.com/pingus/pingus) [Pingus](https://pingus.seul.org/) - 2D puzzle game that clones the popular Lemmings. Your goal is to guide a group of penguins safely across the game map.
+- [![Open-Source Software][oss icon]](https://github.com/drwhut/tabletop-club) [Tabletop Club](https://drwhut.itch.io/tabletop-club) - An open-source platform for playing tabletop games in a physics-based 3D environment for Windows, macOS, and Linux! Made with the Godot Engine.
 
 #### Racing
 
@@ -651,6 +658,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 ##### Launchers
 
 - [![Open-Source Software][oss icon]](https://github.com/bottlesdevs/) [Bottles](https://usebottles.com/) - Easily manage wine prefixes in a new way. Run Windows software and games on Linux.
+- [![Open-Source Software][oss icon]](https://github.com/kra-mo/cartridges) [Cartridges](https://github.com/kra-mo/cartridges) -  A GTK4 + Libadwaita game launcher.
 - [![Open-Source Software][oss icon]](https://github.com/tkashkin/GameHub) [GameHub](https://tkashkin.github.io/projects/gamehub/) - GameHub is a unified library for all your games. It allows you to store your games from different platforms into one program to make it easier for you to manage your games.
 - [![Open-Source Software][oss icon]](https://github.com/Heroic-Games-Launcher) [Heroic Games Launcher](https://heroicgameslauncher.com/) - A Native GOG and Epic Games Launcher for Linux, Windows and Mac.
 - [![Open-Source Software][oss icon]](https://github.com/itchio/itch) [itch](https://itch.io/) - The itch.io app. All of your downloads are kept in a single place and are automatically updated. Plenty of free games.
@@ -663,6 +671,8 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 
 - [![Open-Source Software][oss icon]](https://github.com/PhilipK/BoilR) [BoilR](https://github.com/PhilipK/BoilR) - Synchronize games from other platforms into your Steam library.
 - [![Open-Source Software][oss icon]](https://github.com/dreamer/boxtron) [Boxtron](https://github.com/dreamer/boxtron) - Steam Play compatibility tool to run DOS games using native Linux DOSBox. It is a sister project of Luxtorpeda and DOSBox Staging.
+- [![Open-Source Software][oss icon]](https://github.com/CryoByte33/steam-deck-utilities) [CryoUtilities](https://github.com/CryoByte33/steam-deck-utilities) - A utility to improve performance and help manage storage on Steam Deck.
+- [![Open-Source Software][oss icon]](https://github.com/SteamDeckHomebrew/decky-loader) [Decky Loader](https://decky.xyz/) - A plugin loader for the Steam Deck.
 - [![Open-Source Software][oss icon]](https://github.com/dosbox-staging/dosbox-staging) [DOSBox Staging](https://dosbox-staging.github.io/) - DOSBox Staging is a modern continuation of DOSBox with advanced features and current development practices.
 - [![Open-Source Software][oss icon]](https://github.com/FeralInteractive/gamemode) [GameMode](https://github.com/FeralInteractive/gamemode) - Optimise Linux system performance on demand.
 - [![Open-Source Software][oss icon]](https://github.com/benjamimgois/goverlay) [GOverlay](https://github.com/benjamimgois/goverlay) - GOverlay is an open source project that aims to create a Graphical UI to help manage Linux overlays.
@@ -674,6 +684,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [![Open-Source Software][oss icon]](https://github.com/scummvm/scummvm) [ScummVM](https://www.scummvm.org/) - ScummVM allows you to play classic graphic point-and-click adventure games, text adventure games, and RPGs, as long as you already have the game data files. ScummVM replaces the executable files shipped with the games, which means you can now play your favorite games on all your favorite devices.
 - [![Open-Source Software][oss icon]](https://github.com/CapitaineJSparrow/steam-repo-manager) [Steam Deck Repo Manager](https://steamdeckrepo.com/) - Install boot videos to your Steam Deck using Steam Deck Repo website API.
 - [![Open-Source Software][oss icon]](https://github.com/SteamGridDB/steam-rom-manager) [Steam ROM Manager](https://steamgriddb.github.io/steam-rom-manager/) - An app for managing ROMs in Steam.
+- [![Open-Source Software][oss icon]](https://github.com/sonic2kk/steamtinkerlaunch) [SteamTinkerLaunch](https://github.com/sonic2kk/steamtinkerlaunch) - Linux wrapper tool for use with the Steam client for custom launch options and 3rd party programs.
 
 ##### W.I.N.E.
 
@@ -713,6 +724,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 
 ##### Nintendo
 
+- [![Open-Source Software][oss icon]](https://github.com/cemu-project/Cemu) [Cemu](https://cemu.info/) - Software to emulate Wii U games and applications on PC.
 - [![Open-Source Software][oss icon]](https://github.com/citra-emu/citra) [Citra](https://citra-emu.org/) - Citra is an open-source emulator for the Nintendo 3DS capable of playing many of your favorite games.
 - [![Open-Source Software][oss icon]](https://github.com/TASEmulators/desmume) [DeSmuME](https://desmume.org/) - DeSmuME is a Nintendo DS emulator.
 - [![Open-Source Software][oss icon]](https://github.com/dolphin-emu/dolphin) [Dolphin Emulator](https://dolphin-emu.org/) - Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements.
@@ -869,8 +881,10 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [Microsoft Edge](https://www.microsoft.com/en-us/edge) - Microsoft Edge is a cross-platform web browser created and developed by Microsoft.
 - [![Open-Source Software][oss icon]](https://gitlab.com/midori-web/midori-desktop) [Midori](https://astian.org/midori-browser/download/) - A lightweight free browser that runs well on low spec systems.
 - [![Open-Source Software][oss icon]](https://github.com/minbrowser/min) [Min](https://minbrowser.github.io/min) - A smarter, faster web browser.
+- [![Open-Source Software][oss icon]](https://gitlab.torproject.org/tpo/applications/mullvad-browser/) [Mullvad Browser](https://mullvad.net/en/browser) - The Mullvad Browser is a privacy-focused web browser developed in a collaboration between Mullvad VPN and the Tor Project. It’s designed to minimize tracking and fingerprinting.
 - [Opera](https://www.opera.com/) - Opera browser is everything you need to do more on the web.
 - [![Open-Source Software][oss icon]](https://github.com/qutebrowser/qutebrowser) [QuteBrowser](https://www.qutebrowser.org/) - A keyboard-driven, vim-like browser based on PyQt5.
+- [![Open-Source Software][oss icon]](https://gitlab.torproject.org/tpo/core/tor/) [Tor](https://www.torproject.org/) - Tor is free software and an open network that helps you defend against traffic analysis, a form of network surveillance that threatens personal freedom and privacy.
 - [![Open-Source Software][oss icon]](https://github.com/Eloston/ungoogled-chromium) [ungoogled-chromium](https://github.com/Eloston/ungoogled-chromium) - ungoogled-chromium is Google Chromium, sans dependency on Google web services.
 - [Vivaldi](https://vivaldi.com) - A new and rising browser with a lot of customizations.
 - [![Open-Source Software][oss icon]](https://github.com/WaterfoxCo/Waterfox) [Waterfox](https://www.waterfox.net/) - Fork of Firefox. Waterfox gives you a sane way to browse the web. Built with you, the user, in mind.
@@ -880,7 +894,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 #### Supportive Tool
 
 - [Clipgrab](https://clipgrab.org/) - A friendly downloader for YouTube and other sites.
-- [![Open-Source Software][oss icon]](https://gitweb.torproject.org/tor.git) [Tor](https://www.torproject.org/) - Tor is free software and an open network that helps you defend against traffic analysis, a form of network surveillance that threatens personal freedom and privacy.
+- [![Open-Source Software][oss icon]](https://github.com/NickvisionApps/Parabolic) [Parabolic](https://github.com/NickvisionApps/Parabolic) - Download web video and audio.
 - [![Open-Source Software][oss icon]](https://github.com/Unrud/video-downloader) [Video Downloader](https://github.com/Unrud/video-downloader) - Download videos from websites like YouTube and many others (based on yt-dlp).
 - [![Open-Source Software][oss icon]](https://github.com/jely2002/youtube-dl-gui) [youtube-dl-gui](https://jely2002.github.io/youtube-dl-gui/) - A cross-platform GUI for youtube-dl made in Electron and node.js
 - [![Open-Source Software][oss icon]](https://github.com/aandrew-me/ytdownloader/) [ytDownloader](https://ytdn.netlify.app/) - A cross-platform GUI for yt-dlp with advanced options and a modern UI.
@@ -1000,6 +1014,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [![Open-Source Software][oss icon]](https://github.com/dvorka/mindforger) [Mindforger](https://www.mindforger.com/) - Thinking notebook and Markdown editor.
 - [![Open-Source Software][oss icon]](https://sourceforge.net/p/nevernote/code/ci/master/tree/) [NixNote](https://sourceforge.net/projects/nevernote/) - An open source client for Evernote.
 - [![Open-Source Software][oss icon]](https://github.com/nuttyartist/notes) [Notes](https://www.get-notes.com/) - A clean simple note taking app for Linux.
+- [![Open-Source Software][oss icon]](https://github.com/streetwriters/notesnook) [Notesnook](https://notesnook.com/) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [Obsidian](https://obsidian.md/) - Obsidian is a powerful knowledge base on top of a local folder of plain text Markdown files.
 - [![Open-Source Software][oss icon]](https://github.com/patrikx3/onenote) [OneNote](https://www.corifeus.com/onenote) - Linux Electron OneNote.
 - [![Open-Source Software][oss icon]](http://orgmode.org/) [Org mode](https://orgmode.org/) - Org mode is for keeping notes, maintaining TODO lists, planning projects, and authoring documents with a fast and effective plain-text system.
@@ -1216,6 +1231,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [![Open-Source Software][oss icon]](https://github.com/gnunn1/tilix) [Tilix](https://gnunn1.github.io/tilix-web/) - A tiling terminal emulator for Linux using GTK+ 3.
 - [![Open-Source Software][oss icon]](https://github.com/cosmos72/twin) [Twin](https://github.com/cosmos72/twin/) - Fast, lightweight text-mode window environment with mouse support. Enables multiple terminals in a single Linux console, terminal or X11 window. It can be detached (keeps running in background) and reattached to a different console, terminal or X11 server. Works on Linux, Mac OS X and BSD.
 - [![Open-Source Software][oss icon]](https://github.com/saulpw/visidata) [Visidata](http://visidata.org/) - A terminal spreadsheet multitool for discovering and arranging data.
+- [![Open-Source Software][oss icon]](https://github.com/wez/wezterm) [WezTerm](https://wezfurlong.org/wezterm/) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust.
 - [![Open-Source Software][oss icon]](https://invisible-island.net/xterm/) [Xterm](https://invisible-island.net/xterm/) - The Xterm program is a terminal emulator for the X Window System. It provides DEC VT102 and Tektronix 4014 compatible terminals for programs that can't use the window system directly.
 - [![Open-Source Software][oss icon]](https://invent.kde.org/utilities/yakuake) [Yakuake](https://apps.kde.org/yakuake/) - A Quake-style terminal emulator based on KDE Konsole technology.
 - [![Open-Source Software][oss icon]](https://github.com/zellij-org/zellij) [Zellij](https://zellij.dev/) - A terminal workspace and multiplexer. Letting you open several panes and tabs to run different programs, share a terminal session with others and more. Very user friendly and intuitive.
