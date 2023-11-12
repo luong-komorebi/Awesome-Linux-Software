@@ -1033,6 +1033,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [![Open-Source Software][oss icon]](https://github.com/tomboy-notes/tomboy) [Tomboy](https://wiki.gnome.org/Apps/Tomboy) - Tomboy is a desktop note-taking application which is simple and easy to use.
 - [![Open-Source Software][oss icon]](https://github.com/zadam/trilium) [Trilium Notes](https://github.com/zadam/trilium) - Trilium Notes is a hierarchical note taking application with focus on building large personal knowledge bases.
 - [![Open-Source Software][oss icon]](https://github.com/turtl) [Turtl](https://turtlapp.com/) - The secure, collaborative notebook.
+- [Typora](https://typora.io/) - A minimalistic Markdown viewer and editor.
 - [![Open-Source Software][oss icon]](https://github.com/klaussinani/tusk) [Tusk](https://klaudiosinani.github.io/tusk/) - Refined Evernote desktop app.
 - [![Open-Source Software][oss icon]](https://github.com/wizteam/wizqtclient) [WizNote](https://github.com/wizteam/wizqtclient) - A cross-platform cloud based note-taking client.
 
