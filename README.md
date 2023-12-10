@@ -1131,6 +1131,11 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [![Open-Source Software][oss icon]](https://gitlab.gnome.org/World/secrets) [Secrets](https://apps.gnome.org/app/org.gnome.World.Secrets/) - Secrets is a password manager which integrates perfectly with the GNOME desktop and provides an easy and uncluttered interface for the management of password databases.
 - [![Open-Source Software][oss icon]](https://github.com/dani-garcia/vaultwarden) [VaultWarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs.
 
+#### Reverse Engineering
+
+- [![Open-Source Software][oss icon]](https://github.com/NationalSecurityAgency/ghidra/releases) [ghidra](https://ghidra-sre.org/) - A software reverse engineering (SRE) suite of tools developed by NSA's Research Directorate in support of the Cybersecurity mission.
+- [![Open-Source Software][oss icon]](https://github.com/radareorg/radare2/releases) [radare2](https://rada.re/n/radare2.html) - A free/libre toolchain for easing several low level tasks like forensics, software reverse engineering, exploiting, debugging.
+
 #### Other
 
 - [![Open-Source Software][oss icon]](https://gitlab.gnome.org/World/Authenticator) [Authenticator](https://apps.gnome.org/app/com.belmoussaoui.Authenticator/) - Simple application for generating Two-Factor Authentication Codes.
