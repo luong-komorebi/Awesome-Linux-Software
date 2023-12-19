@@ -551,6 +551,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 
 ### E-Book Utilities
 
+- [![Open-Source Software][oss icon]](https://invent.kde.org/graphics/arianna) [Arianna](https://apps.kde.org/arianna/) - An eBook reader and library management applicatiion for `.epub` files from KDE.
 - [![Open-Source Software][oss icon]](https://github.com/babluboy/bookworm) [Bookworm](https://babluboy.github.io/bookworm/) - A simple, focused eBook reader.
 - [![Open-Source Software][oss icon]](https://github.com/oguzhaninan/Buka) [Buka](https://github.com/oguzhaninan/Buka/) - A program for EBook Management.
 - [![Open-Source Software][oss icon]](https://github.com/kovidgoyal/calibre) [Calibre](https://calibre-ebook.com/) - Incredibly ugly but powerful software for ebook management and conversion.
