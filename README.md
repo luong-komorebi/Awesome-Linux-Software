@@ -1733,6 +1733,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 ## Linux News, Apps, and more:
 
 - [9To5Linux](https://9to5linux.com/)
+- [Adventures in Linux and KDE](https://pointieststick.com/)
 - [AllTop](https://linux.alltop.com/)
 - [ArchiveOS](https://archiveos.org/linux/)
 - [Are We Anti-Cheat Yet?](https://areweanticheatyet.com/)
