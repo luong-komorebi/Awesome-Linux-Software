@@ -918,6 +918,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 
 #### Miscellaneous
 
+- [![Open-Source Software][oss icon]](https://github.com/FreeCAD/FreeCAD) [FreeCAD](https://github.com/FreeCAD/FreeCAD) - FreeCAD is a free and opensource multiplatform 3D parametric modeler.
 - [![Open-Source Software][oss icon]](https://github.com/HandBrake/HandBrake) [Handbrake](https://handbrake.fr/) - HandBrake is a tool for converting video from nearly any format to a selection of modern, widely supported codecs.
 - [![Open-Source Software][oss icon]](https://github.com/Diolinux/PhotoGIMP) [PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) - A patch for optimizing GIMP 2.10+ for Adobe Photoshop users.
 - [![Open-Source Software][oss icon]](https://github.com/Gictorbit/photoshopCClinux) [Photoshop CCv19](https://github.com/Gictorbit/photoshopCClinux) - Photoshop CC v19 installer for Gnu/Linux.
