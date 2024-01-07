@@ -1232,7 +1232,8 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 
 #### Reverse Engineering
 
-- [![Open-Source Software][oss icon]](https://github.com/rizinorg/cutter) [cutter](https://cutter.re/) - Cutter's goal is to be an advanced FREE and open-source reverse-engineering platform while keeping the user experience at mind. 
+- [![Open-Source Software][oss icon]](https://github.com/rizinorg/cutter) [cutter](https://cutter.re/) - Cutter's goal is to be an advanced FREE and open-source reverse-engineering platform while keeping the user experience at mind.
+- [![Open-Source Software][oss icon]](https://sourceware.org/git/gitweb.cgi?p=binutils-gdb.git) [GDB](https://www.sourceware.org/gdb/) - GDB, the GNU Project debugger, allows you to see what is going on `inside' another program while it executes.
 - [![Open-Source Software][oss icon]](https://github.com/NationalSecurityAgency/ghidra/releases) [ghidra](https://ghidra-sre.org/) - A software reverse engineering (SRE) suite of tools developed by NSA's Research Directorate in support of the Cybersecurity mission.
 - [![Open-Source Software][oss icon]](https://github.com/radareorg/radare2/releases) [radare2](https://rada.re/n/radare2.html) - A free/libre toolchain for easing several low level tasks like forensics, software reverse engineering, exploiting, debugging.
 
