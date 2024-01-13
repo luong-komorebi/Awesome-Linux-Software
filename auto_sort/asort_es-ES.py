@@ -5,8 +5,8 @@
 # GitHub: https://www.github.com/chrisleegit
 # File: asort.py
 # Date: 2016/08/22 11:12
-# Version: 0.1
-# Description: A very simple python script that can sort items alphabetically.
+# Version: 0.2
+# Description: A python script to sort items alphabetically.
 
 import os
 import shutil
@@ -37,7 +37,7 @@ def main():
     print(f'Cargando archivo: {README_FILE}')
 
     # Read the file: README.md
-    with (open(README_FILE, 'r') as infile, open(TEMP_FILE, 'w') as outfile):
+    with open(README_FILE, 'r') as infile, open(TEMP_FILE, 'w') as outfile:
         # Process each line
         for line in infile:
             if not sort_enable and BEGIN in line:
@@ -65,9 +65,9 @@ def main():
                 print(line, end='', file=outfile)
             else:
                 print(line, end='', file=outfile)
+
     print('Reemplazar el archivo original: README_es-ES.md')
     shutil.move(TEMP_FILE, README_FILE)
-
 
 if __name__ == '__main__':
     main()
