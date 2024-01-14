@@ -4,9 +4,9 @@
 # Blog: http://blog.chriscabin.com
 # GitHub: https://www.github.com/chrisleegit
 # File: asort.py
-# Date: 2016/08/22 11:12
-# Version: 2.0
-# Description: A versatile Python script for sorting items alphabetically.
+# Date: 2024/01/15 15:30
+# Version: 3.0
+# Description: A versatile Python script for sorting items alphabetically in Markdown files.
 
 from __future__ import print_function
 import os
