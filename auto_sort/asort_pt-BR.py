@@ -5,13 +5,12 @@
 # GitHub: https://www.github.com/chrisleegit
 # File: asort.py
 # Date: 2024/01/15 15:30
-# Version: 3.0
+# Version: 3.1
 # Description: A versatile Python script for sorting items alphabetically in Markdown files.
 
 from __future__ import print_function
 import os
 import shutil
-
 
 README_FILE = '../README_en-US.md'
 TEMP_FILE = 'temp_en-US.md'
@@ -19,7 +18,6 @@ TEMP_FILE = 'temp_en-US.md'
 # Only works for items between BEGIN and END.
 BEGIN = '## Applications'
 END = '## Configuration'
-
 
 def main():
     global README_FILE
@@ -68,7 +66,6 @@ def main():
 
     print('Replace the original file: README_en-US.md')
     shutil.move(TEMP_FILE, README_FILE)
-
 
 if __name__ == '__main__':
     main()
