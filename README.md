@@ -112,6 +112,7 @@
       - [Boot Integrity](#boot-integrity)
       - [Compartmentalization](#compartmentalization)
       - [Firewall](#firewall)
+      - [Network Analysis](#network-analysis)
       - [Password Manager](#password-manager)
       - [Reverse Engineering](#reverse-engineering)
       - [Other](#other)
@@ -546,7 +547,6 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [![Open-Source Software][oss icon]](https://sourceware.org/git/?p=valgrind.git) [Valgrind](http://valgrind.org/) - Valgrind is a GPL'd system for debugging and profiling Linux programs.
 - ![Nonfree][money icon] [Vershd](https://vershd.io/) - Vershd is the free for personal use effortless Git GUI for Windows, Mac, & Linux.
 - [![Open-Source Software][oss icon]](https://www.gnu.org/software/wdiff/devguide) [Wdiff](https://www.gnu.org/software/wdiff/) - The GNU wdiff program is a front end to diff for comparing files on a word per word basis. It collects the diff output and uses it to produce a nicer display of word differences between the original files.
-- [![Open-Source Software][oss icon]](https://gitlab.com/wireshark/wireshark/-/tree/master) [Wireshark](https://www.wireshark.org/) - Wireshark is the world's foremost network protocol analyzer. It lets you see what's happening on your network at a microscopic level. It is the de facto (and often de jure) standard across many industries and educational institutions.
 - [![Open-Source Software][oss icon]](https://github.com/sonnyp/Workbench) [Workbench](https://apps.gnome.org/app/re.sonny.Workbench/) - Workbench goal is to let you experiment with GNOME technologies, no matter if tinkering for the first time or building and testing a custom GTK widget.
 - [![Open-Source Software][oss icon]](https://github.com/zealdocs/zeal) [Zeal](https://zealdocs.org/) - Zeal is an offline documentation browser for software developers.
 
@@ -1213,6 +1213,12 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [![Open-Source Software][oss icon]](https://github.com/evilsocket/opensnitch) [OpenSnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux interactive application firewall inspired by Little Snitch.
 - [![Open-Source Software][oss icon]](https://github.com/safing/portmaster) [Portmaster](https://safing.io/) - Portmaster is a free and open-source application firewall that does the heavy lifting for you. Restore privacy and take back control over all your computer's network activity.
 
+#### Network Analysis
+
+- [![Open-Source Software][oss icon]](https://www.tcpdump.org/#source) [Tcpdump](https://www.tcpdump.org/) - TCP Debugging/Capture Tool.
+- [![Open-Source Software][oss icon]](https://github.com/gcla/termshark) [Termshark](https://termshark.io/) - A terminal UI for tshark, inspired by Wireshark.
+- [![Open-Source Software][oss icon]](https://gitlab.com/wireshark/wireshark/-/tree/master) [Wireshark](https://www.wireshark.org/) - Wireshark is the world's foremost network protocol analyzer. It lets you see what's happening on your network at a microscopic level. It is the de facto (and often de jure) standard across many industries and educational institutions.
+
 #### Password Manager
 
 - [1Password](https://1password.com/downloads/linux/) - 1Password is the easiest way to store and use strong passwords. Log in to sites and fill forms securely with a single click.
@@ -1259,7 +1265,6 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [![Open-Source Software][oss icon]](https://github.com/zaproxy/zaproxy/) [OWASP ZAP](https://www.zaproxy.org) - OWASP Zed Attack Proxy (ZAP) web security testing tool.
 - [![Open-Source Software][oss icon]](https://gitlab.gnome.org/GNOME/seahorse) [Seahorse](https://wiki.gnome.org/Apps/Seahorse) - A GNOME frontend for GnuPG.
 - [![Open-Source Software][oss icon]](https://github.com/mhogomchungu/sirikali) [Sirikali](https://mhogomchungu.github.io/sirikali/) - A Qt/C++ GUI front end to cryfs,gocryptfs,securefs,ecryptfs and encfs.
-- [![Open-Source Software][oss icon]](https://www.tcpdump.org/#source) [Tcpdump](https://www.tcpdump.org/) - TCP Debugging/Capture Tool.
 - [![Open-Source Software][oss icon]](https://github.com/usbkey9/uktools) [Uktools](https://github.com/usbkey9/uktools) - Keep your system up-to-date with last kernel available. Possibility to clean old kernel too.
 - [![Open-Source Software][oss icon]](https://github.com/firehol/blocklist-ipsets) [Update-IPsets](https://iplists.firehol.org) - A manager for all cybercrime IP feeds that can download, convert and install netfilter `ipsets`.
 - [![Open-Source Software][oss icon]](https://github.com/veracrypt/VeraCrypt) [VeraCrypt](https://veracrypt.fr/en/Home.html) - VeraCrypt is a free open source disk encryption software for Windows, Mac OSX and Linux.
