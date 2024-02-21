@@ -438,6 +438,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [Unity](https://unity.com/) - The world’s leading platform for real-time content creation.
 - [Unreal Engine](https://www.unrealengine.com/en-US) - The world’s most open and advanced real-time 3D creation tool.
 - [![Open-Source Software][oss icon]](https://github.com/turanszkij/WickedEngine) [Wicked Engine](https://wickedengine.net/) - 3D engine with modern graphics.
+- [![Open-Source Software][oss icon]](https://haxeflixel.com/) [Haxeflixel](https://wickedengine.net/) - 2D game engine written in [Haxe](https://github.com/HaxeFoundation/haxe).
 
 #### Git
 
