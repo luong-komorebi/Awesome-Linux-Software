@@ -432,14 +432,14 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [GameMaker](https://gamemaker.io/en/gamemaker) - The Ultimate 2D Game Development Environment.
 - [![Open-Source Software][oss icon]](https://github.com/4ian/GDevelop) [GDevelop](https://gdevelop.io/) - Open-source, cross-platform game engine designed to be used by everyone.
 - [![Open-Source Software][oss icon]](https://github.com/godotengine) [Godot Engine](https://godotengine.org/) - Godot provides a huge set of common tools, so you can just focus on making your game without reinventing the wheel.
+- [![Open-Source Software][oss icon]](https://github.com/haxeflixel/flixel) [Haxeflixel](https://haxeflixel.com/) - 2D game engine written in [Haxe](https://github.com/HaxeFoundation/haxe).
+
 - [![Open-Source Software][oss icon]](https://github.com/HeapsIO/heaps) [Heaps](https://heaps.io/) - Heaps is a cross platform graphics engine designed for high performance games. It's designed to leverage modern GPUs that are commonly available on desktop, mobile and consoles.
 - [![Open-Source Software][oss icon]](https://github.com/o3de/o3de/) [Open 3D Engine](https://www.o3de.org/) - Open 3D Engine (O3DE) is a modular, open source, cross-platform 3D engine built to power anything from AAA games to cinema-quality 3D worlds to high-fidelity simulations.
 - [![Open-Source Software][oss icon]](https://github.com/stride3d/stride) [Stride](https://www.stride3d.net/) - Stride is an open-source C# game engine for realistic rendering and VR.
 - [Unity](https://unity.com/) - The world’s leading platform for real-time content creation.
 - [Unreal Engine](https://www.unrealengine.com/en-US) - The world’s most open and advanced real-time 3D creation tool.
 - [![Open-Source Software][oss icon]](https://github.com/turanszkij/WickedEngine) [Wicked Engine](https://wickedengine.net/) - 3D engine with modern graphics.
-- [![Open-Source Software][oss icon]](https://haxeflixel.com/) [Haxeflixel](https://wickedengine.net/) - 2D game engine written in [Haxe](https://github.com/HaxeFoundation/haxe).
-
 #### Git
 
 - [![Open-Source Software][oss icon]](https://git.zx2c4.com/cgit/refs/tags) [cgit](https://git.zx2c4.com/cgit/about/) - A hyperfast web frontend for git repositories written in C.
