@@ -422,6 +422,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [![Open-Source Software][oss icon]](https://github.com/postgres/postgres) [PostgreSQL](https://www.postgresql.org/download/) - PostgreSQL is a powerful, open source object-relational database system with more than 15 year development. PostgreSQL is not controlled by any corporation or other private entity and the source code is available free of charge.
 - [![Open-Source Software][oss icon]](https://www.sqlite.org/src/doc/trunk/README.md) [Sqlite](https://sqlite.org/download.html) - SQLite is an in-process library that implements a self-contained, serverless, zero-configuration, transactional SQL database engine.
 - [![Open-Source Software][oss icon]](https://github.com/sqlitebrowser/sqlitebrowser) [Sqlite Browser](https://sqlitebrowser.org/) - Visually create, manage, and view sqlite database files.
+- [![Open-Source Software][oss icon]](https://github.com/WebDB-App/app) [WebDB](https://webdb.app/) - Open Source and Efficient Database IDE. Easy server connection, Modern ERD, Intelligent data generator, IA assistant, NoSQL structure manager, Time machine and Powerful query editor.
 
 #### Game Engines
 
