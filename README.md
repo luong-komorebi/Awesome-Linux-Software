@@ -1759,7 +1759,6 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [Lemmy c/Linux](https://lemmy.ml/c/linux)
 - [Liliputing](https://liliputing.com/)
 - [Linoxide](https://linoxide.com/)
-- [Linux Gaming Central](https://linuxgamingcentral.com/)
 - [LinuxHandbook](https://linuxhandbook.com/)
 - [LinuxLinks](https://www.linuxlinks.com/)
 - [Linux official](https://www.linux.com/)
