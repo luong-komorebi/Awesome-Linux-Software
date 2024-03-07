@@ -584,6 +584,11 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [![Open-Source Software][oss icon]](https://github.com/Sigil-Ebook/Sigil) [Sigil](https://sigil-ebook.com/) - Sigil is a multi-platform EPUB ebook editor.
 - [![Open-Source Software][oss icon]](https://git.pwmt.org/pwmt/zathura.git) [Zathura](https://pwmt.org/projects/zathura/) - Zathura is a highly customizable and functional document viewer.
 
+### Electronic
+
+- [![Open-Source Software][oss icon]](https://github.com/KiCad) [KiCAD](https://www.kicad.org/) - An EDA suite for schematic and circuit board design.
+- [![Open-Source Software][oss icon]](http://www.cburch.com/logisim/) [Logisim](http://www.cburch.com/logisim/) - Graphical tool for designing and simulating logic circuits.
+
 ### Education
 
 - [![Open-Source Software][oss icon]](https://apps.ankiweb.net/) [Anki](https://apps.ankiweb.net/) - Powerful, intelligent flash cards which makes remembering things easy.
