@@ -586,7 +586,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 ### Electronic
 
 - [![Open-Source Software][oss icon]](https://github.com/KiCad) [KiCAD](https://www.kicad.org/) - An EDA suite for schematic and circuit board design.
-- [![Open-Source Software][oss icon]](https://github.com/logisim-evolution/logisim-evolution) [Logisim](https://github.com/logisim-evolution/logisim-evolution) - Graphical tool for designing and simulating digital logic curcuits. Successor of LogiSim.
+- [![Open-Source Software][oss icon]](https://github.com/logisim-evolution/logisim-evolution) [Logisim Evolution](https://github.com/logisim-evolution/logisim-evolution) - Graphical tool for designing and simulating digital logic curcuits. Successor of LogiSim.
 
 ### Education
 
