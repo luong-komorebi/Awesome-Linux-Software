@@ -13,11 +13,9 @@
 - Spanish version : [here](https://github.com/LewisVo/Awesome-Linux-Software/blob/master/README_es-ES.md) or [here](https://github.com/SaintFenix/Awesome-Linux-Software/blob/master/README_es-ES.md).
 - Thai version : [here](https://github.com/LewisVo/Awesome-Linux-Software/blob/master/README_th-TH.md).
 
-## Table of Contents
-
 - [Awesome Linux Software](#awesome-linux-software)
-  - [Table of Contents](#table-of-contents)
   - [Applications](#applications)
+    - [3D Printing](#3d-printing)
     - [Audio](#audio)
       - [Edit-Mix-Record](#edit-mix-record)
       - [Music Player](#music-player)
@@ -157,9 +155,14 @@
   - [Unsure how to contribute?](#unsure-how-to-contribute)
   - [License](#license)
 
----
+
 
 ## Applications
+
+### 3D Printing
+
+- [Cura](https://ultimaker.com/software/ultimaker-cura/) - The worlds most advanced 3D printer software
+- [![Open-Source Software][oss icon]](https://github.com/FreeCAD) [FreeCAD](https://www.freecad.org/) - An open source parametric 3D CAD modeler
 
 ### Audio
 
@@ -238,6 +241,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 
 - [![Open-Source Software][oss icon]](https://github.com/karlstav/cava) [cava](https://github.com/karlstav/cava) - Cava is a Cross-platform Audio Visualizer.
 - [![Open-Source Software][oss icon]](https://gitlab.gnome.org/World/eartag) [Ear Tag](https://apps.gnome.org/EarTag/) - Small and simple audio file tag editor.
+- [![Open-Source Software][oss icon]](https://github.com/GNOME/easytag) [EasyTag](https://github.com/GNOME/easytag) - Edit audio file metadata.
 - [![Open-Source Software][oss icon]](https://github.com/enzo1982/freac) [fre:ac](https://www.freac.org) - fre:ac is a free audio converter and CD ripper with support for various popular formats and encoders. It currently converts between MP3, MP4/M4A, WMA, Ogg Vorbis, FLAC, AAC, WAV and Bonk formats.
 - [![Open-Source Software][oss icon]](https://github.com/KDE/k3b) [K3b](https://userbase.kde.org/K3b) - The CD/DVD Kreator for Linux, optimized for KDE.
 - [![Open-Source Software][oss icon]](https://invent.kde.org/multimedia/kid3/) [Kid3](https://kid3.kde.org/) - Edit tags of multiple files, e.g. the artist, album, year and genre of all mp3 files of an album.
@@ -527,6 +531,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [![Open-Source Software][oss icon]](https://www.fossil-scm.org/index.html/dir?ci=tip) [Fossil](https://www.fossil-scm.org) - Self-contained, distributed software configuration management system with integrated bug-tracking, wiki, technotes and web interface.
 - [![Open-Source Software][oss icon]](https://github.com/gaphor/gaphor) [Gaphor](https://gaphor.org) - A simple and fast software and systems modeling tool.
 - ![Nonfree][money icon] [Genymotion](https://www.genymotion.com/desktop/) - Genymotion is a fast third-party emulator that can be used instead of the default Android emulator.
+- [![Open-Source Software][oss icon]](https://github.com/GNOME/glade) [Glade](https://github.com/GNOME/glade) - GTK+ User Interface Builder.
 - [![Open-Source Software][oss icon]](https://phabricator.kde.org/source/heaptrack/repository/master/) [Heaptrack](https://phabricator.kde.org/source/heaptrack/repository/master/) - A heap memory profiler for Linux.
 - [![Open-Source Software][oss icon]](https://github.com/WindSoilder/hors) [hors](https://github.com/WindSoilder/hors) - Instant coding answers via the command line.
 - [![Open-Source Software][oss icon]](https://github.com/Kong/insomnia) [Insomnia](https://insomnia.rest/) - A simple, beautiful, and free REST API client.
@@ -620,7 +625,6 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [![Open-Source Software][oss icon]](https://sourceforge.net/projects/tuxtype/files/tuxtype-source/) [TuxType](https://www.tux4kids.com/tuxtyping.html) - An educational typing tutorial game starring Tux.
 - [![Open-Source Software][oss icon]](https://github.com/ugeneunipro/ugene) [UGENE](https://ugene.net/) - UGENE is free open-source cross-platform integrated GUI-based bioinformatics software.
 - [![Open-Source Software][oss icon]](https://github.com/veyon/veyon) [Veyon](https://veyon.io/) - Veyon is a computer management software for classrooms, it allows a teacher to control student computers and guide students over a computer network.
-- [Wolfram Engine](https://www.wolfram.com/engine/) - A locally downloadable Wolfram Engine to put computational intelligence into your applications.
 
 ### Email
 
@@ -1430,6 +1434,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [![Open-Source Software][oss icon]](https://github.com/prateekmedia/appimagepool) [AppImage Pool](https://github.com/prateekmedia/appimagepool) - A simple, modern AppImageHub Client.
 - [![Open-Source Software][oss icon]](https://github.com/vinifmor/bauh) [bauh](https://github.com/vinifmor/bauh) - Graphical user interface for managing your Linux applications. Supports AppImage, Arch packages (including AUR), Debian packages, Flatpak, Snap and native Web applications.
 - [![Open-Source Software][oss icon]](https://github.com/bleachbit/bleachbit) [BleachBit](https://www.bleachbit.org/) - BleachBit quickly frees disk space and tirelessly guards your privacy. Free cache, delete cookies, clear Internet history, shred temporary files, delete logs, and more.
+- [![Open-Source Software][oss icon]](https://github.com/GNOME/dconf-editor) [dconf Editor](https://github.com/GNOME/dconf-editor) - Simple configuration storage system - graphical editor.
 - [![Open-Source Software][oss icon]](https://gitlab.com/volian/nala) [Nala](https://gitlab.com/volian/nala) - Nala is a front-end for libapt-pkg. Specifically we interface using the python-apt api.Especially for newer users it can be hard to understand what apt is trying to do when installing or upgrading.
 - [![Open-Source Software][oss icon]](https://github.com/NixOS/nix) [Nix](https://nixos.org/download.html) - Nix is a powerful package manager for Linux and other Unix systems that makes package management reliable and reproducible.
 - [![Open-Source Software][oss icon]](https://github.com/morganamilo/paru) [Paru](https://github.com/morganamilo/paru) - Paru is your standard pacman wrapping AUR helper with lots of features and minimal interaction.
@@ -1497,6 +1502,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [![Open-Source Software][oss icon]](https://github.com/FreeRDP/Remmina) [Remmina](https://remmina.org/) - A feature-rich remote desktop application for Linux and other UNIXes.
 - [![Open-Source Software][oss icon]](https://github.com/davatorium/rofi) [rofi](https://github.com/davatorium/rofi) - A window switcher, Application launcher and dmenu replacement.
 - [![Open-Source Software][oss icon]](https://github.com/Genymobile/scrcpy) [scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device.
+- [![Open-Source Software][oss icon]](https://github.com/pwr-Solaar/Solaar) [Solaar](https://github.com/pwr-Solaar/Solaar) - Logitech Unifying Receiver peripherals manager for Linux.
 - [![Open-Source Software][oss icon]](https://gitlab.gnome.org/GNOME/sushi) [Sushi](https://gitlab.gnome.org/GNOME/sushi) - Sushi is a quick previewer for Nautilus, the GNOME desktop file manager.
 - [![Open-Source Software][oss icon]](https://github.com/JoseExposito/touche) [Touche](https://flathub.org/apps/details/com.github.joseexposito.touche) - Easily configure your touchpad and touchscreen multi-touch gestures using Touchégg with this GTK graphical user interface.
 - [![Open-Source Software][oss icon]](https://www.tightvnc.com/download.php) [TightVNC](https://www.tightvnc.com/) - A Free, Lightweight, Fast and Reliable Remote Control / Remote Desktop Software.
