@@ -30,16 +30,16 @@ def main():
     README_FILE = os.path.abspath(README_FILE)
 
     if not os.path.exists(README_FILE):
-        print('Error: no such file or directory: {}'.format(README_FILE))
+        print(f'Error: no such file or directory: {README_FILE}')
         exit(1)
 
     sort_enable = False
-    items = list()
+    items = []
 
-    print('Loading file: {}'.format(README_FILE))
+    print(f'Loading file: {README_FILE}')
 
     # read file: README.md
-    with open(README_FILE) as infile, open(TEMP_FILE, 'w') as outfile:
+    with (open(README_FILE) as infile, open(TEMP_FILE, 'w') as outfile):
         # process each line
         for line in infile:
             if not sort_enable and BEGIN in line:
@@ -48,29 +48,28 @@ def main():
             # if sort_enable and END in line:
             #     sort_enable = False
 
-            if sort_enable:
-                # each item starts with a character '-'
-                if line.startswith(('-')):
-                    line = line.strip()
-                    items.append(line)
-                # When no more items, blank line or new header
-                elif line == '\n':
-                    # when we meet the next header, we should stop adding new item to the list.
-                    for item in sorted(items, key=lambda x: regex.findall(x.upper())[len(regex.findall(x.upper()))-1]):
-                        # write the ordered list to the temporary file.
-                        print(item, file=outfile)
-                    items.clear()
+            if sort_enable and line.startswith(('-')):
+                line = line.strip()
+                items.append(line)
+            elif sort_enable and not line.startswith(('-')) and line == '\n':
+                # when we meet the next header, we should stop adding new item to the list.
+                for item in sorted(items, key=lambda x: regex.findall(x.upper())[len(regex.findall(x.upper()))-1]):
+                    # write the ordered list to the temporary file.
+                    print(item, file=outfile)
+                items.clear()
 
-                    # remember to put the next header in the temporary file.
-                    print(line, end='', file=outfile)
-                elif line.startswith('#'):
-                    sort_enable = False if END in line else True
-                    print(line, end='', file=outfile)
-                else:
-                    print(line, end='', file=outfile)
+                # remember to put the next header in the temporary file.
+                print(line, end='', file=outfile)
+            elif (
+                sort_enable
+                and not line.startswith(('-'))
+                and line != '\n'
+                and line.startswith('#')
+            ):
+                sort_enable = END not in line
+                print(line, end='', file=outfile)
             else:
                 print(line, end='', file=outfile)
-
     print('Replace the original file: README.md')
     shutil.move(TEMP_FILE, README_FILE)
 

@@ -28,16 +28,16 @@ def main():
     README_FILE = os.path.abspath(README_FILE)
 
     if not os.path.exists(README_FILE):
-        print('Erro: Arquivo ou diretório não existe: {}'.format(README_FILE))
+        print(f'Erro: Arquivo ou diretório não existe: {README_FILE}')
         exit(1)
 
     sort_enable = False
-    items = list()
+    items = []
 
-    print('Carregando arquivo: {}'.format(README_FILE))
+    print(f'Carregando arquivo: {README_FILE}')
 
     # read file: README.md
-    with open(README_FILE) as infile, open(TEMP_FILE, 'w') as outfile:
+    with (open(README_FILE) as infile, open(TEMP_FILE, 'w') as outfile):
         # process each line
         for line in infile:
             if not sort_enable and BEGIN in line:
@@ -53,7 +53,7 @@ def main():
                 if line.startswith(('-', '*', '+')):
                     items.append(line)
                 elif line.startswith('#'):
-                    sort_enable = False if END in line else True
+                    sort_enable = END not in line
 
                     # when we meet the next header, we should stop adding new item to the list.
                     for item in sorted(items, key=lambda x: x.upper()):

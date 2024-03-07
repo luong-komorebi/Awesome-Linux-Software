@@ -453,7 +453,7 @@ _更新：上发布，中文版阅读地址戳[这里](https://alim0x.gitbooks.i
 - [![Open-Source Software][oss icon]](https://git.gnome.org/browse/gthumb/) [Heron Animation](https://heronanimation.brunolefevre.net/) - 免费的定格动画制作程序。
 - [![Open-Source Software][oss icon]](https://www.kde.org/applications/graphics/karbon/development) [Karbon](https://www.calligra.org/karbon/) - 一款开源的矢量绘图程序。
 - [Kdenlive](https://kdenlive.org/) - Kdenlive 是一款非线性视频编辑器，比入门级的（线性）编辑器强大得多。 [![Open-Source Software][oss icon]](https://github.com/KDE/kdenlive)
-- [![Open-Source Software][oss icon]](https://github.com/LuminanceHDR/LuminanceHDR) [Luminance HDR](http://qtpfsgui.sourceforge.net/) - Luminance HDR 是一款开源的图形化用户界面应用，它的目标是提供一整套的 HDR 图像工作流程。
+- [![Open-Source Software][oss icon]](https://github.com/LuminanceHDR/LuminanceHDR) [Luminance HDR](https://sourceforge.net/projects/qtpfsgui/) - Luminance HDR 是一款开源的图形化用户界面应用，它的目标是提供一整套的 HDR 图像工作流程。
 - [![Open-Source Software][oss icon]](https://github.com/mypaint/mypaint/releases) [Mypaint](http://mypaint.org/about/) - Mypaint 是一款配合画板使用的绘画程序。
 - [![Open-Source Software][oss icon]](https://github.com/peterlevi/ojo) [Ojo](https://github.com/peterlevi/ojo) - 一款快速且漂亮的图像查看器。
 - [![Open-Source Software][oss icon]](https://github.com/jonata/opendvdproducer) [Open DVD Producer](http://opendvdproducer.jonata.org/) - 现代，开源，跨平台的 DVD 镜像生产软件。
@@ -481,26 +481,55 @@ _更新：上发布，中文版阅读地址戳[这里](https://alim0x.gitbooks.i
 - [![Open-Source Software][oss icon]](https://github.com/jangernert/FeedReader) [FeedReader](https://github.com/jangernert/FeedReader) - 一款现代的桌面应用，被设计用于补充已有的基于 web 的 RSS 账户，将所有的 web 服务优势集中到一个现代桌面应用中。
 - [![Open-Source Software][oss icon]](https://github.com/vinszent/gnome-twitch) [GnomeTwitch](http://gnome-twitch.vinszent.com/) - 在你的 GNU/Linux 桌面上用这款非 Adobe-flash Twitch 客户端享受 Twitch。
 - [![Open-Source Software][oss icon]](https://github.com/EragonJ/Kaku) [Kaku](https://github.com/EragonJ/Kaku/releases) - Ubuntu 开源 youtube 音乐播放器。
-- [![Open-Source Software][oss icon]](https://launchpad.net/~midori/+archive/ubuntu/ppa). [Midori](http://midori-browser.org/) - 一款轻量级的免费浏览器，在低端机器上可以完美运行。
+- [![Open-Source Software][oss icon]](https://launchpad.net/~midori/+archive/ubuntu/ppa). [Midori](https://astian.org/midori-browser/download/) - 一款轻量级的免费浏览器，在低端机器上可以完美运行。
 - [![Open-Source Software][oss icon]](https://github.com/minbrowser/min) [Min](https://minbrowser.github.io/min) - 智能，快速的 web 浏览器。
 - [![Open-Source Software][oss icon]](https://github.com/rg3/youtube-dl). [youtube-dl](https://github.com/rg3/youtube-dl) - YouTube 视频下载神器，是一个 Python 编写的命令行视频下载器，同时支持其它一些视频网站或平台。注意：国内用户若要下载 YouTube 视频，需要给它添加 --proxy 参数，指定代理下载。
 
 ### 办公
 
-- [Akregator](https://kde.org/applications/internet/org.kde.akregator) - Akregator 是一个 RSS 新闻订阅客户端，能够让用户跟踪新闻或学术网站，而不必手动用浏览器检查内容更新。Akregator 的设计方便实用，可以快速搜索和存档页面内容，内部整合了网页浏览器，可以不调用外部浏览器而阅读内容。
+#### 会计
+
+- [![Open-Source Software][oss icon]](https://github.com/Gnucash/) [GnuCash](https://www.gnucash.org/) - GnuCash 是一款自由的会计程序，实现了复式记账系统。它最初的目标是开发出与 Intuit, Inc. 的 Quicken 类似的功能，但它还有针对小企业会计的功能。
+- [![Open-Source Software][oss icon]](https://github.com/simonmichael/hledger) [hledger](https://hledger.org/) - 简单易用的会计工具。
+- [![Open-Source Software][oss icon]](https://code.launchpad.net/homebank) [HomeBank](http://homebank.free.fr/en/index.php) - 一款免费软件，可以管理个人账目。
+- [![Open-Source Software][oss icon]](https://github.com/KDE/kmymoney) [KMyMoney](https://kmymoney.org/) - KMyMoney 是 KDE 的一款个人金融管理器。它的操作类似 Microsoft Money 以及 Quicken。
+- [![Open-Source Software][oss icon]](https://github.com/KDE/kmymoney) [Skrooge](https://skrooge.org/) - KDE的一款个人金融管理器.
+
+#### 办公套件
+
 - [Caligra Office](https://www.calligra.org/) - 提供满足办公，图形以及管理需要的综合应用套件。
+- [LibreOffice](https://www.libreoffice.org/) - Linux 上的最佳办公套件。
+- [OnlyOffice](https://www.onlyoffice.com/) - 最佳的 Linux 办公套件之一。
+- [WPS office](http://wps-community.org/) - Linux 上的最佳办公套件之一。
+
+#### LaTex
+
+- [![Open-Source Software][oss icon]](https://gitlab.gnome.org/swilmet/gnome-latex) [GNOME LaTeX](https://gitlab.gnome.org/swilmet/gnome-latex) - GNOME LaTeX 是GNOME桌面下的 LaTeX 编辑器。
+- [![Open-Source Software][oss icon]](https://github.com/alexandervdm/gummi) [Gummi](https://gummi.app/) - 带有模板，拼写检查以及向导的简单 latex 编辑器。
 - [![Open-Source Software][oss icon]](https://git.gnome.org/browse/latexila) [LaTeXila](https://wiki.gnome.org/Apps/LaTeXila) - LaTeXila 是一款 GNOME 桌面下的 LaTeX 编辑器。
+- [![Open-Source Software][oss icon]](https://github.com/yihui/lyx) [LyX](http://www.lyx.org/) - 成熟的 LaTeX 渲染文档编辑器。
+- [![Open-Source Software][oss icon]](https://www.tug.org/texlive/build.html) [TexLive](https://www.tug.org/texlive/) - TeX Live 是个轻松获取和运行 TeX 文档生产系统的好方式。
 - [![Open-Source Software][oss icon]](https://savannah.gnu.org/projects/texmacs) [TeXmacs](http://www.texmacs.org/) - 一款所见即所得的科学文本编辑器，并可用作一系列计算机代数系统的前端。
 - [Texmaker](http://www.xm1math.net/texmaker/) - 免费跨平台的 LaTeX 编辑器。
-- [WPS office](http://wps-community.org/) - Linux 上的最佳办公套件之一。
-- [OnlyOffice](https://www.onlyoffice.com/) - 最佳的 Linux 办公套件之一。
-- [![Open-Source Software][oss icon]](https://github.com/alexandervdm/gummi) [Gummi](https://gummi.app/) - 带有模板，拼写检查以及向导的简单 latex 编辑器。
-- [![Open-Source Software][oss icon]](https://github.com/Gnucash/) [GnuCash](https://www.gnucash.org/) - GnuCash 是一款自由的会计程序，实现了复式记账系统。它最初的目标是开发出与 Intuit, Inc. 的 Quicken 类似的功能，但它还有针对小企业会计的功能。
-- [![Open-Source Software][oss icon]](https://github.com/KDE/kmymoney) [KMyMoney](https://kmymoney.org/) - KMyMoney 是 KDE 的一款个人金融管理器。它的操作类似 Microsoft Money 以及 Quicken。
-- [![Open-Source Software][oss icon]](https://www.libreoffice.org/about-us/source-code/) [LibreOffice](https://www.libreoffice.org/) - Linux 上的最佳办公套件。
-- [![Open-Source Software][oss icon]](https://github.com/yihui/lyx) [LyX](http://www.lyx.org/) - 成熟的 LaTeX 渲染文档编辑器。
-- [![Open-Source Software][oss icon]](https://cgit.kde.org/skrooge.git) [Skrooge](https://skrooge.org/) - A personal finances manager, powered by KDE.
-- [![Open-Source Software][oss icon]](https://www.tug.org/texlive/build.html) [TexLive](https://www.tug.org/texlive/) - TeX Live 是个轻松获取和运行 TeX 文档生产系统的好方式。
+- [![Open-Source Software][oss icon]](https://github.com/texstudio-org/texstudio) [TeXstudio](https://www.texstudio.org/) - TeXstudio 的目标是让写 LaTex 更简单更舒服。
+- [![Open-Source Software][oss icon]](https://github.com/TeXworks/texworks) [TeXworks](https://www.tug.org/texworks/) - TeXworks 是一个用于编写 TeX（LaTeX、ConTeXt 等）文档的环境，具有基于统一编码、可识别 TeX 的编辑器、集成 PDF 查看器以及简洁的界面，适合普通用户和非技术用户使用。
+
+#### Markdown
+
+- [![Open-Source Software][oss icon]](http://github.com/wereturtle/ghostwriter) [Ghost Writer](https://ghostwriter.kde.org/) - 适用于 Windows 和 Linux 的专注性 Markdown 编辑器。
+- [![Open-Source Software][oss icon]](https://github.com/fabiocolacio/Marker) [Marker](https://github.com/fabiocolacio/Marker) - Marker 是一款使用 GTK+-3.0 制作的 Linux Markdown 编辑器。
+- [![Open-Source Software][oss icon]](https://github.com/marktext/marktext) [MarkText](https://github.com/marktext/marktext) - 一款简洁的文本编辑器，致力于提高写作效率。
+- [![Open-Source Software][oss icon]](https://github.com/jamiemcg/remarkable) [Remarkable](https://remarkableapp.github.io/) - 一款 GFM 变体的功能强大的 Markdown 编辑器。
+- [![Open-Source Software][oss icon]](https://github.com/retext-project/retext) [Retext](https://github.com/retext-project/retext) - 一款简单但功能强大的 Markdown 和 reStructuredText 编辑器。
+- [Typora](https://typora.io/) - 实时可视化的 Markdown 编辑器。
+
+#### 小说写作
+
+- [![Open-Source Software][oss icon]](https://github.com/andreafeccomandi/bibisco) [Bibisco](http://www.bibisco.com/) - 一款注重思想和人物的小说写作软件。
+- [![Open-Source Software][oss icon]](https://github.com/olivierkes/manuskript) [Manuskript](https://www.theologeek.ch/manuskript/) - 对于喜欢在写作前组织和计划的作家来说，Manuskript 是一个完美的工具。
+- [![Open-Source Software][oss icon]](https://github.com/jacquetc/plume-creator) [Plume Creator](https://plume-creator.eu/) - 一款面向小说家的开源工具，提供大纲、无干扰模式、笔记管理器等等。
+- [![Open-Source Software][oss icon]](https://github.com/scribusproject/scribus) [Scribus](https://www.scribus.net/downloads/) - Scribus 是一款桌面出版应用程序。
+- [![Open-Source Software][oss icon]](https://github.com/trelby/trelby) [Trelby](https://www.trelby.org/) - 简单、快速且布局优雅的工具，使剧本创作变得简单。
 
 ### 生产力
 
