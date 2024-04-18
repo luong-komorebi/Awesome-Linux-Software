@@ -1395,6 +1395,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [![Open-Source Software][oss icon]](https://github.com/Microsoft/vscode) [VSCode](https://code.visualstudio.com) - Visual Studio Code is a lightweight but powerful source code editor which runs on your desktop and is available for Windows, OS X and Linux. It comes with built-in support for JavaScript, TypeScript and Node.js and has a rich ecosystem of extensions for other languages (C++, C#, Python, PHP, Golang) and runtimes.
 - [![Open-Source Software][oss icon]](https://github.com/VSCodium/vscodium) [VSCodium](https://vscodium.com/) - Binary releases of VS Code without MS branding/telemetry/licensing.
 - [![Open-Source Software][oss icon]](https://github.com/pkulchenko/ZeroBraneStudio) [ZeroBrane Studio](http://studio.zerobrane.com/) - A mature, lightweight, cross-platform Lua IDE with modern development features.
+- .![Nonfree][freeware icon]![Nonfree][money icon] [Fleet](https://www.jetbrains.com/fleet) - The Code Editor and IDE for Any Language.
 
 #### Modal editors & derivatives
 
