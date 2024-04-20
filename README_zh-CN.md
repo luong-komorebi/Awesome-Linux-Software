@@ -129,7 +129,7 @@ _更新：上发布，中文版阅读地址戳[这里](https://alim0x.gitbooks.i
 - [![Open-Source Software][oss icon]](https://github.com/PedroHLC/osdlyrics) [OSD Lyrics](https://aur.archlinux.org/packages/osdlyrics-git/) - 与你最爱的媒体播放器显示歌词。
 - [![Open-Source Software][oss icon]](https://github.com/quodlibet/quodlibet) [Quod Libet](https://quodlibet.readthedocs.io) - 一款编写时就考虑了很多库的 GTK+ 音乐播放器。Quod Libet 支持基于搜索的动态播放列表，正则，标签，回放增益，播客以及互联网广播。
 - [![Open-Source Software][oss icon]](https://github.com/GNOME/rhythmbox) [Rhythmbox](https://wiki.gnome.org/Apps/Rhythmbox) - 来自 GNOME 的音乐播放器。
-- [![Open-Source Software][oss icon]](https://sayonara-player.com/downloads.php#Source) [Sayonara Player](https://sayonara-player.com/downloads.php) - Sayonara 是一款小巧干净，快速的音频播放器，使用 C++ 编写，基于 Qt 框架。
+- [![Open-Source Software][oss icon]](https://sayonara-player.com/downloads/#Source) [Sayonara Player](https://sayonara-player.com/downloads/) - Sayonara 是一款小巧干净，快速的音频播放器，使用 C++ 编写，基于 Qt 框架。
 - [SoundJuicer](http://www.howtogeek.com/howto/20126/rip-audio-cds-with-sound-juicer/) - CD 抓取工具，for GNOME
 - [![Open-Source Software][oss icon]](https://github.com/Soundnode/soundnode-app) [Soundnode](https://soundnode.github.io/soundnode-website/) - 一款开源的 SoundCloud 桌面应用。
 - [![Open-Source Software][oss icon]](https://github.com/devinhalladay/spotio) [Spotio](https://github.com/devinhalladay/spotio) - 受 Rdio 启发的 Spotify 桌面应用亮色主题。
