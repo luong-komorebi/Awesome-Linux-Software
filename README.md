@@ -1139,7 +1139,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [Obsidian](https://obsidian.md/) - Obsidian is a powerful knowledge base on top of a local folder of plain text Markdown files.
 - [![Open-Source Software][oss icon]](https://github.com/patrikx3/onenote) [OneNote](https://www.corifeus.com/onenote) - Linux Electron OneNote.
 - [![Open-Source Software][oss icon]](http://orgmode.org/) [Org mode](https://orgmode.org/) - Org mode is for keeping notes, maintaining TODO lists, planning projects, and authoring documents with a fast and effective plain-text system.
-- [![Open-Source Software][oss icon]](https://github.com/alainm23/planner) [Planner](https://github.com/alainm23/planner) - Planner keeps track of all your tasks, projects, and goals in one beautifully simple place.
+- [![Open-Source Software][oss icon]](https://github.com/alainm23/planify) [Planify](https://github.com/alainm23/planify) - Task manager with Todoist and Nextcloud support designed for GNU/Linux 
 - [![Open-Source Software][oss icon]](https://github.com/pbek/QOwnNotes) [QOwnNotes](https://www.qownnotes.org/) - QOwnNotes is a plain-text file notepad and todo-list manager with markdown support and ownCloud / Nextcloud integration.
 - [Simplenote](https://simplenote.com/) - A Cross platform notetaking app and Evernote competitor.
 - [![Open-Source Software][oss icon]](https://github.com/spsdco/notes) [Springseed](https://github.com/spsdco/notes) - Simple and beautiful note taking app for daily user.
