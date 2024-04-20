@@ -850,7 +850,6 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [![Open-Source Software][oss icon]](https://github.com/Ryujinx/Ryujinx) [Ryujinx](https://ryujinx.org/) - Ryujinx is an open-source Nintendo Switch emulator created by gdkchan and written in C#.
 - [![Open-Source Software][oss icon]](https://github.com/snes9xgit/snes9x) [Snes9x](http://www.snes9x.com/) - Is a multiplatform Super Nintendo Entertainment System emulator that has gone through many incarnations, but is still being actively developed.
 - [![Open-Source Software][oss icon]](https://github.com/visualboyadvance-m/visualboyadvance-m) [Visual Boy Advance-M](https://vba-m.com/) - A Gameboy and Gameboy Advance Emulator that is still undergoing active development and can even emulate a system link between two gameboys.
-- [![Open-Source Software][oss icon]](https://github.com/yuzu-emu/yuzu) [yuzu](https://yuzu-emu.org/) - yuzu is an experimental open-source emulator for the Nintendo Switch from the creators of Citra.
 - [![Open-Source Software][oss icon]](https://sourceforge.net/projects/zsnes/) [ZSNES](https://www.zsnes.com/) - A capable and commonly used Super Nintendo Entertainment System/Super Famicom emulator, many consider it the gold standard in SNES/Super Famicom emulation.
 
 ##### Sony
