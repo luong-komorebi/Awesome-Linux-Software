@@ -841,7 +841,6 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 ##### Nintendo
 
 - [![Open-Source Software][oss icon]](https://github.com/cemu-project/Cemu) [Cemu](https://cemu.info/) - Software to emulate Wii U games and applications on PC.
-- [![Open-Source Software][oss icon]](https://github.com/citra-emu/citra) [Citra](https://citra-emu.org/) - Citra is an open-source emulator for the Nintendo 3DS capable of playing many of your favorite games.
 - [![Open-Source Software][oss icon]](https://github.com/TASEmulators/desmume) [DeSmuME](https://desmume.org/) - DeSmuME is a Nintendo DS emulator.
 - [![Open-Source Software][oss icon]](https://github.com/dolphin-emu/dolphin) [Dolphin Emulator](https://dolphin-emu.org/) - Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements.
 - [![Open-Source Software][oss icon]](https://github.com/Arisotura/melonDS) [melonDS](https://melonds.kuribo64.net/) - melonDS aims at providing fast and accurate Nintendo DS emulation.
