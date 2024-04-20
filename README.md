@@ -1111,7 +1111,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 
 #### Note Taking
 
-- [![Open-Source Software][oss icon]](https://github.com/anyproto) [Anytype](https://download.anytype.io/) - A multi-platform, open-source, local-first, personal knowledge base tool.
+- [![Open-Source Software][oss icon]](https://github.com/anyproto/anytype-ts) [Anytype](https://download.anytype.io/) - A multi-platform, open-source, local-first, personal knowledge base tool.
 - [![Open-Source Software][oss icon]](https://basket-notepads.github.io/download.html) [Basket Note Pads](https://basket-notepads.github.io/) - This multi-purpose note-taking application helps you to easily take all sort of notes.
 - [![Open-Source Software][oss icon]](https://github.com/BoostIO/Boostnote) [Boostnote](https://boostnote.io/) - Boostnote is an open source note-taking app made for programmers just like you.
 - [![Open-Source Software][oss icon]](https://github.com/giuspen/cherrytree) [Cherrytree](https://www.giuspen.com/cherrytree/) - A hierarchical note taking application, featuring rich text and syntax highlighting, storing data in a single xml or sqlite file.
