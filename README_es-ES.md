@@ -713,7 +713,7 @@ _para consultar una lista más larga de software de audio oprima [aquí](https:/
 
 - [![Open-Source Software][oss icon]](https://github.com/andreafeccomandi/bibisco) [Bibisco](http://www.bibisco.com/) - Un programa para escribir novelas que se centra en la creación de ideas y personajes.
 - [![Open-Source Software][oss icon]](https://github.com/olivierkes/manuskript) [Manuskript](http://www.theologeek.ch/manuskript/) - Manuskript es una herramienta para ayudar a un escritor a organizar y planificar antes de escribir.
-- [![Open-Source Software][oss icon]](https://github.com/jacquetc/plume-creator) [Plume Creator](http://plume-creator.eu/) - Un programa de código abierto para un autor que tiene un administrador de notas y un modo sin distracción.
+- [![Open-Source Software][oss icon]](https://github.com/jacquetc/skribisto) [Skribisto](www.skribisto.eu) - Software for writers
 - [![Open-Source Software][oss icon]](https://github.com/scribusproject/scribus) [Scribus](https://www.scribus.net/downloads/) - Es un programa para ayudar a publicar libros. Puede gestionar la tipografía y la preparación de archivos para equipos de configuración de imágenes.
 - [![Open-Source Software][oss icon]](https://github.com/trelby/trelby) [Trelby](http://www.trelby.org/) - Trelby es un simple, rápido y elegante diseño de software de guión.
 
