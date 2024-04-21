@@ -527,8 +527,7 @@ _更新：上发布，中文版阅读地址戳[这里](https://alim0x.gitbooks.i
 
 - [![Open-Source Software][oss icon]](https://github.com/andreafeccomandi/bibisco) [Bibisco](http://www.bibisco.com/) - 一款注重思想和人物的小说写作软件。
 - [![Open-Source Software][oss icon]](https://github.com/olivierkes/manuskript) [Manuskript](https://www.theologeek.ch/manuskript/) - 对于喜欢在写作前组织和计划的作家来说，Manuskript 是一个完美的工具。
-- [![Open-Source Software][oss icon]](https://github.com/jacquetc/plume-creator) [Plume Creator](https://plume-creator.eu/) - 一款面向小说家的开源工具，提供大纲、无干扰模式、笔记管理器等等。
-- [![Open-Source Software][oss icon]](https://github.com/scribusproject/scribus) [Scribus](https://www.scribus.net/downloads/) - Scribus 是一款桌面出版应用程序。
+- [![Open-Source Software][oss icon]](https://github.com/jacquetc/skribisto) [Skribisto](www.skribisto.eu) - Software for writers- [![Open-Source Software][oss icon]](https://github.com/scribusproject/scribus) [Scribus](https://www.scribus.net/downloads/) - Scribus 是一款桌面出版应用程序。
 - [![Open-Source Software][oss icon]](https://github.com/trelby/trelby) [Trelby](https://www.trelby.org/) - 简单、快速且布局优雅的工具，使剧本创作变得简单。
 
 ### 生产力

@@ -670,7 +670,7 @@ Duas versões chinesas desta lista estão disponíveis [aqui](https://github.com
 
 - [Bibisco](http://www.bibisco.com/) - A novel writing software with focus on ideas and characters. [![Open-Source Software][oss icon]](https://github.com/andreafeccomandi/bibisco)
 - [Manuskript](http://www.theologeek.ch/manuskript/) - Manuskript is a perfect tool for those writer who like to organize and plan everything before writing. [![Open-Source Software][oss icon]](https://github.com/olivierkes/manuskript)
-- [Plume Creator](http://plume-creator.eu/) - An open-source tool for novelist that gives you an outliner, a distraction-free mode, a note manager and much more. [![Open-Source Software][oss icon]](https://github.com/jacquetc/plume-creator)
+- [![Open-Source Software][oss icon]](https://github.com/jacquetc/skribisto) [Skribisto](www.skribisto.eu) - Software for writers
 - [Scribus](https://www.scribus.net/downloads/) - Scribus is a desktop publishing application designed for layout, typesetting, and preparation of files for professional-quality image-setting equipment. It can also create animated and interactive PDF presentations and forms. [![Open-Source Software][oss icon]](https://github.com/scribusproject/scribus)
 - [Trelby](http://www.trelby.org/) - Trelby is simple, fast and elegantly laid out to make screenwriting simple. [![Open-Source Software][oss icon]](https://github.com/trelby/trelby)
 
