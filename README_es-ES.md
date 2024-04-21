@@ -754,7 +754,7 @@ _para consultar una lista más larga de software de audio oprima [aquí](https:/
 #### Tomar nota
 
 - [![Open-Source Software][oss icon]](https://github.com/KDE/basket) [Basket Note Pads](https://apps.kde.org/basket/) - Esta es una aplicación multiuso para tomar notas.
-- [![Open-Source Software][oss icon]](https://github.com/BoostIO/Boostnote) [Boostnote](https://boostnote.io/) - Boostnote es una aplicación de notas de código abierto diseñada para programadores.
+- [![Open-Source Software][oss icon]](https://github.com/BoostIO/BoostNote-App) [Boostnote](https://boostnote.io/) - Boostnote es una aplicación de notas de código abierto diseñada para programadores.
 - ![Nonfree][money icon] [Inkdrop](https://www.inkdrop.info/) - Una aplicación para tomar notas diseñadas para Markdown, tiene una interfaz simple y está orientado a la seguridad.
 - [![Open-Source Software][oss icon]](https://github.com/laurent22/joplin) [Joplin](http://joplin.cozic.net) - Una aplicación de toma de notas con una lista de tareas pendientes que se puede sincronizar en varios sistemas operativos.
 - [![Open-Source Software][oss icon]](https://sourceforge.net/p/nevernote/code/ci/master/tree/) [NixNote](https://sourceforge.net/projects/nevernote/) - Un cliente de código abierto para Evernote.
