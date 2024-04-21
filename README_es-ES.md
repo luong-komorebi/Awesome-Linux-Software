@@ -1039,7 +1039,7 @@ _para consultar una lista más larga de software de audio oprima [aquí](https:/
 
 ### Gestors de composiciónes
 
-- [![Open-Source Software][oss icon]](https://github.com/yshui/compton) [Compton](https://github.com/yshui/compton) - Compton es un gestor compuesto independiente, que puede trabajar con gestores de ventanas que no tienen composición.
+- [![Open-Source Software][oss icon]](https://github.com/yshui/picom) [Picom](https://github.com/yshui/picom) - Picom es un gestor compuesto independiente, que puede trabajar con gestores de ventanas que no tienen composición.
 - [![Open-Source Software][oss icon]](https://cgit.freedesktop.org/xorg/app/xcompmgr) [Xcompmgr](https://cgit.freedesktop.org/xorg/app/xcompmgr) - Xcompmgr es un gestor compuesto simple que puede renderizar, sombras, y otros efectos.
 
 ### Gestor de apilables

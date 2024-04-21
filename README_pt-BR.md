@@ -1016,7 +1016,7 @@ Duas versões chinesas desta lista estão disponíveis [aqui](https://github.com
 
 ### Compositors
 
-- [Compton](https://github.com/yshui/compton) - Compton is a standalone composite manager, suitable for use with window managers that do not natively provide compositing functionality. [![Open-Source Software][oss icon]](https://github.com/yshui/compton)
+- [Picom](https://github.com/yshui/picom) - Picom is a standalone composite manager, suitable for use with window managers that do not natively provide compositing functionality. [![Open-Source Software][oss icon]](https://github.com/yshui/picom)
 - [Xcompmgr](https://cgit.freedesktop.org/xorg/app/xcompmgr) - Xcompmgr is a simple composite manager capable of rendering drop shadows and, with the use of the transset utility, primitive window transparency. [![Open-Source Software][oss icon]](https://cgit.freedesktop.org/xorg/app/xcompmgr)
 
 ### Stacking window managers

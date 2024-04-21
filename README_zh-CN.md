@@ -767,7 +767,7 @@ _更新：上发布，中文版阅读地址戳[这里](https://alim0x.gitbooks.i
 
 ### 合成器
 
-- ![Open-Source Software][oss icon] [Compton](https://github.com/yshui/compton) - Compton 是一款独立的合成管理器，适合同没有原生提供合成功能的窗口管理器一同使用。
+- ![Open-Source Software][oss icon] [Picom](https://github.com/yshui/picom) - Picom 是一款独立的合成管理器，适合同没有原生提供合成功能的窗口管理器一同使用。
 - [![Open-Source Software][oss icon]](https://cgit.freedesktop.org/xorg/app/xcompmgr)
   [Xcompmgr](https://cgit.freedesktop.org/xorg/app/xcompmgr) - Xcompmgr 是一个简单的合成管理器，能够渲染下拉阴影，使用 transset 工具的话，还可以实现简单的窗口透明。
 
