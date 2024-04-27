@@ -368,8 +368,8 @@ _para consultar una lista más larga de software de audio oprima [aquí](https:/
 ### Editor de texto
 
 - [![Open-Source Software][oss icon]](https://github.com/atom/atom) [Atom](https://atom.io/) - El editor de textos Hackable para el siglo XXI.
-- [![Open-Source Software][oss icon]](https://sourceforge.net/p/bluefish/code/HEAD/tree/trunk/bluefish/) [Bluefish](http://bluefish.openoffice.nl/index.html) - Bluefish es un editor de texto capaz dirigido a programadores y desarrolladores web.
-- [![Open-Source Software][oss icon]](https://github.com/adobe/brackets) [Brackets](http://brackets.io/) - Un editor de texto moderno que entiende el diseño web.
+- [![Open-Source Software][oss icon]](https://sourceforge.net/p/bluefish/code/HEAD/tree/trunk/bluefish/) [Bluefish](https://bluefish.openoffice.nl/index.html) - Bluefish es un editor de texto capaz dirigido a programadores y desarrolladores web.
+- [![Open-Source Software][oss icon]](https://github.com/adobe/brackets) [Brackets](https://brackets.io/) - Un editor de texto moderno que entiende el diseño web.
 - [![Open-Source Software][oss icon]](https://github.com/emacs-mirror/emacs) [Emacs](https://www.gnu.org/software/emacs/) - Un editor de texto extensible, personalizable y de código abierto.
 - [![Open-Source Software][oss icon]](https://www.geany.org/Download/Git) [Geany](https://www.geany.org/) - Es un editor de texto escrito GTK + toolkit, que tiene las características básicas de un Entorno de desarrollo integrado. Fue desarrollado para ser pequeño y rápido.
 - [Gedit](https://wiki.gnome.org/Apps/Gedit) -gedit es el editor de texto oficial de GNOME, está diseñado para ser fácil de usar, y para ser un editor de propósito general.
@@ -773,11 +773,11 @@ _para consultar una lista más larga de software de audio oprima [aquí](https:/
 
 #### Tiempo y tareas orientadas
 
-- [![Open-Source Software][oss icon]](http://bazaar.launchpad.net/~joh/alarm-clock/trunk/files) [Alarm Clock](http://alarm-clock.pseudoberries.com/) - Alarm Clock es un despertador con muchas características.
-- [![Open-Source Software][oss icon]](http://git.calcurse.org/calcurse.git/) [calcurse](http://calcurse.org/) - Un calendario y planificador para la línea de comando.
+- [![Open-Source Software][oss icon]](http://bazaar.launchpad.net/~joh/alarm-clock/trunk/files) [Alarm Clock](https://alarm-clock.pseudoberries.com/) - Alarm Clock es un despertador con muchas características.
+- [![Open-Source Software][oss icon]](https://git.calcurse.org/calcurse.git/) [calcurse](http://calcurse.org/) - Un calendario y planificador para la línea de comando.
 - [California](https://wiki.gnome.org/Apps/California) - Un reemplazo de la aplicación de calendario, que puede aceptar entrada de lenguaje natural.
 - ![Nonfree][money icon] [Everdo](https://everdo.net/linux) - Everdo es una aplicación para el desarrollo y la gestión del trabajo que es multiplataforma y no un Software como servicio.
-- [![Open-Source Software][oss icon]](https://github.com/codito/gnome-pomodoro) [Gnome Pomodoro](http://gnomepomodoro.org/#download) - Un temporizador Pomodoro para GNOME que tiene muchas características.
+- [![Open-Source Software][oss icon]](https://github.com/codito/gnome-pomodoro) [Gnome Pomodoro](https://gnomepomodoro.org/#download) - Un temporizador Pomodoro para GNOME que tiene muchas características.
 - [Go For It](http://manuel-kehl.de/projects/go-for-it/) - Go For It! es una simple lista de tareas, y el programa de temporizador.
 - [![Open-Source Software][oss icon]](https://github.com/mohamed-aziz/mytodo) [My Todo](https://github.com/mohamed-aziz/mytodo) - Mytodo es una lista de tareas pendientes de código abierto que le da un control completo.
 - ![Nonfree][money icon] [Pomodone App](http://pomodoneapp.com/) - PomoDoneApp es una aplicación que gestiona su flujo de trabajo utilizando la técnica Pomodoro.
@@ -823,7 +823,7 @@ _para consultar una lista más larga de software de audio oprima [aquí](https:/
 
 - [![Open-Source Software][oss icon]](https://github.com/aria2/aria2) [aria2](https://aria2.github.io/) - aria2 es un programa de descarga de línea de comandos rápido y multiprotocolo y multi-fuente.
 - [CrossFTP](http://www.crossftp.com/ftp-client.htm) - CrossFTP es un programa que facilita la administración de FTP.
-- [D-lan](http://www.d-lan.net/) - Es un programa que te permite compartir archivos en un Red de área local
+- [D-lan](https://www.d-lan.net/) - Es un programa que te permite compartir archivos en un Red de área local
 - [![Open-Source Software][oss icon]](http://dev.deluge-torrent.org/wiki/Development#SourceCode) [Deluge](http://deluge-torrent.org/) - Deluge es un cliente multiplataforma rápido y de código abierto de bittorrent.
 - [Dropbox](https://www.dropbox.com/install?os=lnx) - Dropbox es un servicio gratuito que le permite almacenar archivos en la nube.
 - [![Open-Source Software][oss icon]](https://filezilla-project.org/sourcecode.php) [Filezilla](https://filezilla-project.org/) - Un servidor FTP de código abierto y un cliente.
@@ -859,7 +859,7 @@ _para consultar una lista más larga de software de audio oprima [aquí](https:/
 - [![Open-Source Software][oss icon]](https://github.com/KeyLo99/k3rmit) [K3rmit](https://github.com/KeyLo99/k3rmit) - A VTE-based terminal emulator that aims to be simple, fast and effective.
 - [![Open-Source Software][oss icon]](https://github.com/kovidgoyal/kitty) [Kitty](https://github.com/kovidgoyal/kitty) - Un emulador de terminal rápido multiplataforma con muchas características.
 - [Konsole](https://konsole.kde.org/) - Un emulador de terminal alternativo para el entorno de escritorio KDE.
-- [![Open-Source Software][oss icon]](https://sourceforge.net/projects/rxvt/) [RXVT](http://rxvt.sourceforge.net/) - Un emulador de terminal diseñado para el entorno X11. Es un reemplazo popular para "xterm".
+- [![Open-Source Software][oss icon]](https://sourceforge.net/projects/rxvt/) [RXVT](https://rxvt.sourceforge.net/) - Un emulador de terminal diseñado para el entorno X11. Es un reemplazo popular para "xterm".
 - [![Open-Source Software][oss icon]](rxvt.http://cvs.schmorp.de/rxvt-unicode/) [RXVT-Unicode](http://software.schmorp.de/pkg/rxvt-unicode.html) - rxvt-unicode es una bifurcación de un emulador de terminal bien conocido.
 - [![Open-Source Software][oss icon]](https://launchpad.net/sakura) [Sakura](https://launchpad.net/sakura) - Un emulador de terminal potente compra sencillo basado en libvte.
 - [![Open-Source Software][oss icon]](https://launchpad.net/terminator) [Terminator](http://gnometerminator.blogspot.com/p/introduction.html) - Terminator es un muy capaz, y poderoso emulador de terminal con un montón de características. Es muy popular.
@@ -882,7 +882,7 @@ _para consultar una lista más larga de software de audio oprima [aquí](https:/
 - [![Open-Source Software][oss icon]](https://github.com/bleachbit/bleachbit) [Bleach bit](https://www.bleachbit.org/) - Este programa limpia los archivos adicionales e innecesarios. también puede eliminar las cookies del sitio web, borrar el historial de Internet y eliminar los registros.
 - [![Open-Source Software][oss icon]](https://github.com/GNOME/brasero) [Brasero](https://wiki.gnome.org/Apps/Brasero) - Una grabadora de DVD fácil de usar y efectiva.
 - [![Open-Source Software][oss icon]](https://github.com/chrisallenlane/cheat) [Cheat](https://github.com/chrisallenlane/cheat) - es un programa que le permite ver una guía para comandos en la línea de comandos.
-- [![Open-Source Software][oss icon]](http://clonezilla.org/related-links/) [Clonezilla](http://clonezilla.org/) - Clonezilla es un programa de clonación de particiones y discos similar al Norton Ghost.
+- [![Open-Source Software][oss icon]](https://clonezilla.org/related-links/) [Clonezilla](http://clonezilla.org/) - Clonezilla es un programa de clonación de particiones y discos similar al Norton Ghost.
 - [Convertall](https://sourceforge.net/projects/convertall/) - Un programa para convertir unidades de una medida en otra unidad.
 - [![Open-Source Software][oss icon]](https://launchpad.net/cpug) [CPU-G](http://www.omgubuntu.co.uk/2016/09/monitor-battery-life-ubuntu-cpu-g) - Un programa que hace que sea fácil de monitorear cuánta batería ha dejado una computadora.
 - [![Open-Source Software][oss icon]](https://github.com/chamfay/Curlew) [Curlew](https://github.com/chamfay/Curlew) - Un convertidor de medios diseñado para el entorno de escritorio GNOME.
@@ -893,7 +893,7 @@ _para consultar una lista más larga de software de audio oprima [aquí](https:/
 - [Enpass](https://www.enpass.io/) - Enpass es un administrador de contraseñas y también puede almacenar otra información importante.
 - [![Open-Source Software][oss icon]](https://github.com/resin-io/etcher) [Etcher](https://www.balena.io/etcher/) - Flash OS a tarjetas SD y unidades USB de forma segura y sencilla.
 - [![Open-Source Software][oss icon]](https://github.com/FreeRDP/FreeRDP) [FreeRDP](http://www.freerdp.com/) - FreeRDP es una implementación de código abierto del "Remote Desktop Protocol (RDP)".
-- [GD map](http://gdmap.sourceforge.net/) - Un programa que ayuda a visualizar el uso del disco.
+- [GD map](https://gdmap.sourceforge.net/) - Un programa que ayuda a visualizar el uso del disco.
 - [![Open-Source Software][oss icon]](http://simmesimme.github.io/news/2016/08/24/gnome-pie-069) [GnomePie](http://simmesimme.github.io/news/2016/08/24/gnome-pie-069) - Un lanzador de aplicaciones que es un círculo.
 - [GParted](http://gparted.org/) - Una herramienta de partición de disco para linux.
 - [![Open-Source Software][oss icon]](https://github.com/gramps-project/gramps) [Gramps](https://github.com/gramps-project/gramps) - Un programa para ayudar a investigar y construir un árbol genealógico.
@@ -915,7 +915,7 @@ _para consultar una lista más larga de software de audio oprima [aquí](https:/
 - [![Open-Source Software][oss icon]](https://sourceforge.net/projects/peautils/) [PeaUtilities](http://www.peazip.org/peautils-hash-secure-delete.html) PeaUtils es un conjunto de utilidades de administración de archivos, que puede hacer hash checksum, borrar de forma segura y comparar archivos.
 - [![Open-Source Software][oss icon]](https://sourceforge.net/projects/peazip/files/Resources/) [Peazip](http://www.peazip.org/) - Una herramienta que puede descomprimir una gran variedad de formatos de compresión.
 - [![Open-Source Software][oss icon]](https://github.com/pi-hole/pi-hole) [Pi-Hole](https://pi-hole.net) - Un programa que utiliza el filtrado DNS y puede bloquear anuncios en toda una red LAN.
-- [PlexyDesk](http://www.omgubuntu.co.uk/2016/09/plexydesk-widgets-linux-desktop-ppa) - Plexydesk es un programa que crea múltiples escritorios y puede crear widgets en el escritorio.
+- [PlexyDesk](https://www.omgubuntu.co.uk/2016/09/plexydesk-widgets-linux-desktop-ppa) - Plexydesk es un programa que crea múltiples escritorios y puede crear widgets en el escritorio.
 - [Powertop](https://01.org/powertop/downloads) - Una herramienta que puede ayudar a diagnosticar problemas con el consumo de energía en Linux.
 - [![Open-Source Software][oss icon]](http://git.wpitchoune.net/psensor.git/) [Psensor](http://wpitchoune.net/psensor/) - Un monitor gráfico de temperatura para Linux.
 - [Pulse Audio](https://wiki.ubuntu.com/PulseAudio) - Un programa que mejora el sonido de Linux con perfiles de audio.
@@ -937,7 +937,7 @@ _para consultar una lista más larga de software de audio oprima [aquí](https:/
 - [![Open-Source Software][oss icon]](https://github.com/peterlevi/variety-slideshow) [Variety](http://peterlevi.com/variety/) - Variety es un programa que es de código abierto que cambia su papel tapiz automáticamente y puede aplicar efectos usando Imagemagick.
 - [![Open-Source Software][oss icon]](https://www.virtualbox.org/wiki/Contributor_information) [Virtualbox](https://www.virtualbox.org/wiki/Downloads) - VirtualBox es un programa de virtualización de uso general que es de código abierto.
 - [WallpaperChange](https://apps.ubuntu.com/cat/applications/raring/wallch/) - Un programa que cambia automáticamente el fondo de pantalla de tu escritorio.
-- [![Open-Source Software][oss icon]](https://github.com/rcaelers/workrave) [Workrave](http://www.workrave.org/) - Un programa que ayuda a prevenir trastornos musculoesquéleticos (TME).
+- [![Open-Source Software][oss icon]](https://github.com/rcaelers/workrave) [Workrave](https://www.workrave.org/) - Un programa que ayuda a prevenir trastornos musculoesquéleticos (TME).
 - [![Open-Source Software][oss icon]](https://github.com/KaOS-Community-Packages/xdm) [Xtreme Download Manager](http://xdman.sourceforge.net/) - Un gestor de descargas capaz con una interfaz fácil de usar para Linux.
 
 ### Vídeo
@@ -958,7 +958,7 @@ _para consultar una lista más larga de software de audio oprima [aquí](https:/
 
 - [![Open-Source Software][oss icon]](https://git.joeyh.name/git/ikiwiki.git/) [ikiwiki](https://ikiwiki.info/) - es un compilador para wiki. Convierte las páginas wiki en HTML para su publicación en un sitio web.
 - [![Open-Source Software][oss icon]](https://github.com/Jermolene/TiddlyDesktop) [TiddlyDesktop on GitHub](https://github.com/TiddlyDesktop) - [TiddlyDesktop on TiddlyWiki.com](https://github.com/TiddlyDesktop) -un software de escritorio para TiddlyWiki, una aplicación de código abierto para escribir en JavaScript.
-- [![Open-Source Software][oss icon]](https://launchpad.net/zim) [Zim](http://zim-wiki.org/) - Un editor de texto gráfico que se puede utilizar para mantener páginas wiki, notas y documentos. Está diseñado para hacer páginas wiki fácil.
+- [![Open-Source Software][oss icon]](https://launchpad.net/zim) [Zim](https://zim-wiki.org/) - Un editor de texto gráfico que se puede utilizar para mantener páginas wiki, notas y documentos. Está diseñado para hacer páginas wiki fácil.
 
 ### Diverso
 
@@ -1028,12 +1028,12 @@ _para consultar una lista más larga de software de audio oprima [aquí](https:/
 - [![Open-Source Software][oss icon]](https://github.com/tomas/entrance) [Entrance](http://enlightenment.org) - Un gestor de visualización basado en EFL, que es experimental.
 - [![Open-Source Software][oss icon]](https://github.com/GNOME/gdm) [GDM](https://wiki.gnome.org/Projects/GDM) - El gestor oficial de GNOME.
 - [KDM](http://www.kde.org) - El gestor de visualización de KDE4 actualmente descontinuado.
-- [![Open-Source Software][oss icon]](https://github.com/davvid/lightdm) [LightDM](http://www.freedesktop.org/wiki/Software/LightDM) - Un gestor de pantallas multiplataforma que puede utilizar Front-end de otros toolkits.
-- [LXDM](http://sourceforge.net/projects/lxdm/) - El gestor des pantallas LXDE, puede ser utilizado independientemente de LXDE.
+- [![Open-Source Software][oss icon]](https://github.com/davvid/lightdm) [LightDM](https://www.freedesktop.org/wiki/Software/LightDM) - Un gestor de pantallas multiplataforma que puede utilizar Front-end de otros toolkits.
+- [LXDM](https://sourceforge.net/projects/lxdm/) - El gestor des pantallas LXDE, puede ser utilizado independientemente de LXDE.
 - [![Open-Source Software][oss icon]](https://github.com/linuxmint/mdm) [MDM](https://github.com/linuxmint/mdm) - El gestor des pantallas de MDM, uso en Linux Mint.
 - [![Open-Source Software][oss icon]](https://github.com/sddm/sddm) [SDDM](https://github.com/sddm/sddm) - El gestor des pantallas basado en QML y sucesor de KDM.
-- [![Open-Source Software][oss icon]](https://github.com/gsingh93/slim-display-manager) [SLiM](http://sourceforge.net/projects/slim.berlios/) - Un gestor des pantallas ligero y sencillo. Se suspende.
-- [![Open-Source Software][oss icon]](https://github.com/bbidulock/xdm) [XDM](http://www.x.org/archive/X11R7.5/doc/man/man1/xdm.1.html) - El gestor des pantallas X que apoya XDMCP.
+- [![Open-Source Software][oss icon]](https://github.com/gsingh93/slim-display-manager) [SLiM](https://sourceforge.net/projects/slim.berlios/) - Un gestor des pantallas ligero y sencillo. Se suspende.
+- [![Open-Source Software][oss icon]](https://github.com/bbidulock/xdm) [XDM](https://www.x.org/archive/X11R7.5/doc/man/man1/xdm.1.html) - El gestor des pantallas X que apoya XDMCP.
 
 ## Gestor de ventanas
 
@@ -1054,7 +1054,7 @@ _para consultar una lista más larga de software de audio oprima [aquí](https:/
 - [![Open-Source Software][oss icon]](https://github.com/baskerville/bspwm) [Bspwm](https://github.com/baskerville/bspwm/wiki) - bspwm es un gestor de embaldosado que representa las ventanas como partes de un árbol.
 - [![Open-Source Software][oss icon]](https://github.com/herbstluftwm/herbstluftwm) [Herbstluftwm](https://herbstluftwm.org) - Es un manual gestor de embaldosado para X11.
 - [![Open-Source Software][oss icon]](https://github.com/i3/i3) [i3 WM](https://i3wm.org/) - i3 WM es un gestor de ambaldosado y dinámico que es administrador de ventanas capaz escrito desde cero.
-- [![Open-Source Software][oss icon]](https://github.com/qtile/qtile) [Qtile](http://www.qtile.org/) - qtile es un gestor de embaldosado hackable completo en python.
+- [![Open-Source Software][oss icon]](https://github.com/qtile/qtile) [Qtile](https://www.qtile.org/) - qtile es un gestor de embaldosado hackable completo en python.
 - [![Open-Source Software][oss icon]](https://github.com/swaywm/sway) [Sway](http://swaywm.org) - Sway está embaldosando el compositor Wayland y reemplazando al administrador de ventanas i3 para X11.
 
 ### Gestor de dinámico
