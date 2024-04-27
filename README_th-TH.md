@@ -505,7 +505,7 @@ _สำหรับแหล่งทรัพยากรในหมวดห�
 #### Machine emulators
 
 - [![Open-Source Software][oss icon]](https://github.com/dolphin-emu/dolphin) [Dolphin Emulator](https://dolphin-emu.org/) - Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements.
-- [![Open-Source Software][oss icon]](https://sourceforge.net/p/fuse-emulator/fuse/ci/master/tree/) [Fuse](http://fuse-emulator.sourceforge.net/) - Fuse (the Free Unix Spectrum Emulator) is a ZX Spectrum emulator for Unix.
+- [![Open-Source Software][oss icon]](https://sourceforge.net/p/fuse-emulator/fuse/ci/master/tree/) [Fuse](https://fuse-emulator.sourceforge.net/) - Fuse (the Free Unix Spectrum Emulator) is a ZX Spectrum emulator for Unix.
 - [![Open-Source Software][oss icon]](https://github.com/GNOME/gnome-video-arcade) [GNOME Video Arcade](https://wiki.gnome.org/action/show/Apps/GnomeVideoArcade?action=show&redirect=GnomeVideoArcade) - GNOME Video Arcade is a simple Mame frontend for any freedesktop.org compliant desktop environment.
 - [![Open-Source Software][oss icon]](https://github.com/mamedev/mame) [MAME](http://mamedev.org/) - MAME is an Arcade Cabinet emulator that strives for accuracy, and can play a huge number of different arcade games.
 - [![Open-Source Software][oss icon]](https://github.com/0ldsk00l/nestopia) [nestopia](http://0ldsk00l.ca/nestopia/) - nestopia is a Nintendo Entertainment System/Famicon emulator.
@@ -531,7 +531,7 @@ _สำหรับแหล่งทรัพยากรในหมวดห�
 
 - ![Open-Source Software][oss icon] [Tales of Maj'Eyal](https://te4.org/) - Tales of Maj’Eyal (ToME) is a free, open source roguelike RPG, featuring tactical turn-based combat and advanced character building.
 - ![Open-Source Software][oss icon] [Zelda Classic](http://www.zeldaclassic.com/) - A tribute to Nintendo's The Legend of Zelda with additional quests, items and challenges.
-- ![Open-Source Software][oss icon] [Zelda: Mystery of Solarus DX](http://www.solarus-games.org) - A direct sequel to The Legend of Zelda: A Link to the Past on the SNES, using the same graphics and game mechanisms.
+- ![Open-Source Software][oss icon] [Zelda: Mystery of Solarus DX](https://www.solarus-games.org) - A direct sequel to The Legend of Zelda: A Link to the Past on the SNES, using the same graphics and game mechanisms.
 
 #### RTS
 
@@ -575,19 +575,19 @@ _สำหรับแหล่งทรัพยากรในหมวดห�
 - [![Open-Source Software][oss icon]](https://github.com/darktable-org/darktable) [Darktable](http://www.darktable.org/) - Darktable is an open source photography workflow application and RAW developer.
 - [![Open-Source Software][oss icon]](https://github.com/GNOME/gimp) [GIMP](https://www.gimp.org/downloads/) - GIMP is a freely distributed program for such tasks as photo retouching, image composition and image authoring.
 - [![Open-Source Software][oss icon]](http://www.graphicsmagick.org/) [GraphicsMagick](http://www.graphicsmagick.org/) - GraphicsMagick is the swiss army knife of image processing.
-- [![Open-Source Software][oss icon]](http://hugin.sourceforge.net/) [Hugin](http://hugin.sourceforge.net/) - an easy to use cross-platform panoramic imaging toolchain based on Panorama Tools.
+- [![Open-Source Software][oss icon]](https://hugin.sourceforge.net/) [Hugin](https://hugin.sourceforge.net/) - an easy to use cross-platform panoramic imaging toolchain based on Panorama Tools.
 - [![Open-Source Software][oss icon]](https://github.com/ImageMagick/ImageMagick) [ImageMagik](http://www.imagemagick.org/script/index.php) - ImageMagick is a suite of command-line utilities for modifying and working with images.
 - [![Open-Source Software][oss icon]](https://github.com/jarun/imgp) [imgp](https://github.com/jarun/imgp) - Blazing fast terminal image resizer and rotator.
 - [![Open-Source Software][oss icon]](https://github.com/LuminanceHDR/LuminanceHDR) [Luminance HDR](https://sourceforge.net/projects/qtpfsgui/) - Luminance HDR is an open source graphical user interface application that aims to provide a workflow for HDR imaging.
-- [![Open-Source Software][oss icon]](https://github.com/google-code-export/photivo) [Photivo](http://photivo.org/) - Photivo is a free and open source (GPL3) photo processor, handles your RAW and bitmap files (TIFF, JPEG, BMP, PNG and many more) in a non-destructive 16 bit processing pipe with gimp workflow integration and batch mode. It is intended to be used in a workflow together with digiKam/F-Spot/Shotwell and Gimp.
+- [![Open-Source Software][oss icon]](https://github.com/google-code-export/photivo) [Photivo](https://photivo.org/) - Photivo is a free and open source (GPL3) photo processor, handles your RAW and bitmap files (TIFF, JPEG, BMP, PNG and many more) in a non-destructive 16 bit processing pipe with gimp workflow integration and batch mode. It is intended to be used in a workflow together with digiKam/F-Spot/Shotwell and Gimp.
 - [![Open-Source Software][oss icon]](https://github.com/piskelapp/piskel) [Piskel](https://www.piskelapp.com/) - Browser-based editor for animated sprites and pixel art. Available as offline application.
-- [![Open-Source Software][oss icon]](https://github.com/lbalazscs/Pixelitor) [Pixelitor](http://pixelitor.sourceforge.net/) - Pixelitor is a free and open source image editing software that supports layers, layer masks, text layers, filters, multiple undo etc.
+- [![Open-Source Software][oss icon]](https://github.com/lbalazscs/Pixelitor) [Pixelitor](https://pixelitor.sourceforge.net/) - Pixelitor is a free and open source image editing software that supports layers, layer masks, text layers, filters, multiple undo etc.
 - [![Open-Source Software][oss icon]](https://github.com/Beep6581/RawTherapee) [RawTherapee](http://rawtherapee.com/) - A good looking but lesser known photo editing app.
 
 #### Image Management
 
 - [![Open-Source Software][oss icon]](https://github.com/KDE/digikam) [Digikam](http://www.digikam.org/) - DigiKam คือซอฟต์แวร์สำหรับจัดการรูปถ่ายขั้นสูงในลินุกซ์
-- [![Open-Source Software][oss icon]](http://git.finalrewind.org/feh) [Feh](https://feh.finalrewind.org/) - lightweight and fast image viewer.
+- [![Open-Source Software][oss icon]](https://git.finalrewind.org/feh) [Feh](https://feh.finalrewind.org/) - lightweight and fast image viewer.
 - [![Open-Source Software][oss icon]](http://www.kornelix.net/downloads/downloads.html) [Fotoxx](http://www.kornelix.net/fotoxx/fotoxx.html) - Fotoxx is a free open source Linux program for image editing and collection management.
 - [![Open-Source Software][oss icon]](https://git.gnome.org/browse/gthumb/) [gThumb](https://wiki.gnome.org/Apps/gthumb) - gThumb is an image viewer and browser (it also includes an importer tool for transferring photos from cameras).
 - [![Open-Source Software][oss icon]](https://cgit.kde.org/gwenview.git/tree//?) [gwenview](https://userbase.kde.org/Gwenview) - Simple yet powerful image viewer and management for KDE desktops.
@@ -601,7 +601,7 @@ _สำหรับแหล่งทรัพยากรในหมวดห�
 #### Miscellaneous
 
 - [![Open-Source Software][oss icon]](https://github.com/HandBrake/HandBrake) [Handbrake](https://handbrake.fr/) - HandBrake is a tool for converting video from nearly any format to a selection of modern, widely supported codecs.
-- [![Open-Source Software][oss icon]](http://potrace.sourceforge.net/#downloading) [Potrace](http://potrace.sourceforge.net/) - Potrace is a tool for tracing a bitmap, which means, transforming a bitmap into a smooth, scalable image.
+- [![Open-Source Software][oss icon]](https://potrace.sourceforge.net/#downloading) [Potrace](https://potrace.sourceforge.net/) - Potrace is a tool for tracing a bitmap, which means, transforming a bitmap into a smooth, scalable image.
 - [![Open-Source Software][oss icon]](https://www.radiance-online.org/download-install/radiance-source-code) [Radiance](http://www.radiance-online.org/) - Radiance - A Validated Lighting Simulation Tool.
 - [![Open-Source Software][oss icon]](https://github.com/terkelg/ramme) [Ramme](https://github.com/terkelg/ramme) - Unofficial Instagram desktop application.
 - [![Open-Source Software][oss icon]](https://launchpad.net/rapid/pyqt/0.9.0b2) [Rapid Photo Downloader](http://damonlynch.net/rapid/download.html) - Rapid Photo Downloader makes it easy to import photos from a camera or smartphone.
@@ -630,7 +630,7 @@ _สำหรับแหล่งทรัพยากรในหมวดห�
 
 #### Streaming
 
-- [![Open-Source Software][oss icon]](https://sourceforge.net/projects/minidlna) [ReadyMedia](http://minidlna.sourceforge.net/) - Formerly known as **MiniDLNA**, ReadyMedia is a is a simple, lightweight media server software, with the aim of being fully compliant with DLNA/UPnP-AV clients. The MiniDNLA daemon serves media files (music, pictures, and video) to clients on a network such as smartphones, portable media players, televisions, other computers and some gaming systems.
+- [![Open-Source Software][oss icon]](https://sourceforge.net/projects/minidlna) [ReadyMedia](https://minidlna.sourceforge.net/) - Formerly known as **MiniDLNA**, ReadyMedia is a is a simple, lightweight media server software, with the aim of being fully compliant with DLNA/UPnP-AV clients. The MiniDNLA daemon serves media files (music, pictures, and video) to clients on a network such as smartphones, portable media players, televisions, other computers and some gaming systems.
 
 #### Video editor
 
@@ -640,7 +640,7 @@ _สำหรับแหล่งทรัพยากรในหมวดห�
 - ![Nonfree][money icon] [Lightworks](https://www.lwks.com/) - Professional non-linear video editing program with a free version available.
 - [![Open-Source Software][oss icon]](https://github.com/OpenShot/openshot-qt) [OpenShot](http://www.openshot.org/) - OpenShot is a free, simple-to-use, feature-rich video editor for Linux.
 - [![Open-Source Software][oss icon]](https://github.com/mltframework/shotcut) [Shotcut](https://www.shotcut.org/) - Shotcut is a free, open source, cross-platform video editor with support for hundreds of audio and video formats and codecs and a sleek, intuitive interface.
-- [![Open-Source Software][oss icon]](https://gitlab.gnome.org/GNOME/pitivi) [Pitivi](http://www.pitivi.org/) - A free video editor with a beautiful and intuitive user interface, a clean codebase and a fantastic community.
+- [![Open-Source Software][oss icon]](https://gitlab.gnome.org/GNOME/pitivi) [Pitivi](https://www.pitivi.org/) - A free video editor with a beautiful and intuitive user interface, a clean codebase and a fantastic community.
 - [![Open-Source Software][oss icon]](https://github.com/ozmartian/vidcutter) [Vidcutter](http://vidcutter.ozmartians.com/) - Cross-platform Qt5 based app for quick and easy video trimming/splitting and merging/joining for simple quick edits.
 
 ### Internet
@@ -683,7 +683,7 @@ _สำหรับแหล่งทรัพยากรในหมวดห�
 #### Accounting
 
 - [![Open-Source Software][oss icon]](https://github.com/Gnucash/) [GnuCash](https://www.gnucash.org/) - GnuCash is a free software accounting program that implements a double-entry bookkeeping system. It was initially aimed at developing capabilities similar to Intuit, Inc.'s Quicken application, but also has features for small business accounting.
-- [![Open-Source Software][oss icon]](https://code.launchpad.net/homebank) [HomeBank](http://homebank.free.fr/en/index.php) - HomeBank is a free software that will assist you to manage your personal accounting.
+- [![Open-Source Software][oss icon]](https://code.launchpad.net/homebank) [HomeBank](https://homebank.free.fr/en/index.php) - HomeBank is a free software that will assist you to manage your personal accounting.
 - [![Open-Source Software][oss icon]](https://github.com/KDE/kmymoney) [KMyMoney](https://kmymoney.org/) - KMyMoney is the personal finance manager by KDE. Its operation is similar to Microsoft Money and Quicken.
 - [![Open-Source Software][oss icon]](https://cgit.kde.org/skrooge.git) [Skrooge](https://skrooge.org/) - A personal finances manager, powered by KDE.
 
@@ -701,18 +701,18 @@ _สำหรับแหล่งทรัพยากรในหมวดห�
 - [![Open-Source Software][oss icon]](https://github.com/yihui/lyx) [LyX](http://www.lyx.org/) - Mature document editor that renders into LaTeX.
 - [![Open-Source Software][oss icon]](https://www.tug.org/texlive/build.html) [TexLive](https://www.tug.org/texlive/) - TeX Live is an easy way to get up and running with the TeX document production system.
 - [![Open-Source Software][oss icon]](https://savannah.gnu.org/projects/texmacs) [TeXmacs](http://www.texmacs.org/) - Free scientific text editor, inspired by TeX and GNU Emacs. WYSIWYG editor and CAS-interface.
-- [![Open-Source Software][oss icon]](http://www.xm1math.net/texmaker/download.html) [Texmaker](http://www.xm1math.net/texmaker/) - Free cross-platform LaTeX editor.
+- [![Open-Source Software][oss icon]](https://www.xm1math.net/texmaker/download.html) [Texmaker](https://www.xm1math.net/texmaker/) - Free cross-platform LaTeX editor.
 - [![Open-Source Software][oss icon]](https://github.com/TeXworks/texworks) [TeXworks](https://www.tug.org/texworks/) - TeXworks is an environment for authoring TeX (LaTeX, ConTeXt, etc) documents, with a Unicode-based, TeX-aware editor, integrated PDF viewer, and a clean, simple interface accessible to casual and non-technical users.
 
 #### Markdown
 
-- [![Open-Source Software][oss icon]](http://github.com/wereturtle/ghostwriter) [Ghost Writer](https://ghostwriter.kde.org/) - A distraction-free Markdown editor for Windows and Linux.
+- [![Open-Source Software][oss icon]](https://github.com/wereturtle/ghostwriter) [Ghost Writer](https://ghostwriter.kde.org/) - A distraction-free Markdown editor for Windows and Linux.
 - [![Open-Source Software][oss icon]](https://github.com/jamiemcg/remarkable) [Remarkable](https://remarkableapp.github.io/) - A capable markdown editor that uses a variant of GitHub Flavored Markdown (GFM)
 - [Typora](https://typora.io/) - A Minimal markdown editor.
 
 #### Novel Writing
 
-- [![Open-Source Software][oss icon]](https://github.com/andreafeccomandi/bibisco) [Bibisco](http://www.bibisco.com/) - A novel writing software with focus on ideas and characters.
+- [![Open-Source Software][oss icon]](https://github.com/andreafeccomandi/bibisco) [Bibisco](https://www.bibisco.com/) - A novel writing software with focus on ideas and characters.
 - [![Open-Source Software][oss icon]](https://github.com/olivierkes/manuskript) [Manuskript](http://www.theologeek.ch/manuskript/) - Manuskript is a perfect tool for those writer who like to organize and plan everything before writing.
 - [![Open-Source Software][oss icon]](https://github.com/jacquetc/skribisto) [Skribisto](www.skribisto.eu) - Software for writers
 - [![Open-Source Software][oss icon]](https://github.com/scribusproject/scribus) [Scribus](https://www.scribus.net/downloads/) - Scribus is a desktop publishing application designed for layout, typesetting, and preparation of files for professional-quality image-setting equipment. It can also create animated and interactive PDF presentations and forms.
@@ -747,10 +747,10 @@ _สำหรับแหล่งทรัพยากรในหมวดห�
 - [![Open-Source Software][oss icon]](https://github.com/jarun/bcal) [bcal](https://github.com/jarun/bcal) - Perform storage conversions and calculations.
 - [![Open-Source Software][oss icon]](https://github.com/hluk/CopyQ) [CopyQ](http://hluk.github.io/CopyQ/) -CopyQ is advanced clipboard manager with editing and scripting features.
 - [f.lux](https://justgetflux.com/linux.html) - A program that reddens your display to help you sleep better.
-- [![Open-Source Software][oss icon]](https://github.com/thezbyg/gpick) [Gpick](http://www.gpick.org/) - Gpick allows you to sample any color from anywhere on your desktop, and it also provides some other advanced features!
+- [![Open-Source Software][oss icon]](https://github.com/thezbyg/gpick) [Gpick](https://www.gpick.org/) - Gpick allows you to sample any color from anywhere on your desktop, and it also provides some other advanced features!
 - [![Open-Source Software][oss icon]](https://github.com/jarun/pdd) [pdd](https://github.com/jarun/pdd) - Tiny date, time diff calculator.
 - [![Open-Source Software][oss icon]](https://github.com/jonls/redshift) [Redshift](http://jonls.dk/redshift/) - Redshift adjusts the color temperature of your screen according to your surroundings. This may help your eyes hurt less if you are working in front of the screen at night.
-- [![Open-Source Software][oss icon]](http://www.speedcrunch.org/) [SpeedCrunch](http://www.speedcrunch.org/) - A nice, open source, high-precision scientific calculator.
+- [![Open-Source Software][oss icon]](https://www.speedcrunch.org/) [SpeedCrunch](https://www.speedcrunch.org/) - A nice, open source, high-precision scientific calculator.
 - [![Open-Source Software][oss icon]](https://github.com/jml/undistract-me) [Undistract me](https://github.com/jml/undistract-me) - Notifies you when long-running terminal commands complete.
 - [Xmind](http://www.xmind.net/) - A mind mapping tool.
 
@@ -764,7 +764,7 @@ _สำหรับแหล่งทรัพยากรในหมวดห�
 - [![Open-Source Software][oss icon]](https://github.com/notepadqq/notepadqq) [Notepadqq](https://notepadqq.com/s/) - Notepadqq is a Notepad++-like editor for the Linux desktop.
 - [![Open-Source Software][oss icon]](https://github.com/nuttyartist/notes) [Notes](http://www.get-notes.com/) - A clean simple note taking app for Linux.
 - [![Open-Source Software][oss icon]](https://github.com/patrikx3/onenote) [OneNote](https://www.corifeus.com/onenote) - Linux Electron OneNote.
-- [![Open-Source Software][oss icon]](https://git.savannah.gnu.org/cgit/emacs/org-mode.git/) [Org mode](http://orgmode.org/) - Org mode is for keeping notes, maintaining TODO lists, planning projects, and authoring documents with a fast and effective plain-text system.
+- [![Open-Source Software][oss icon]](https://git.savannah.gnu.org/cgit/emacs/org-mode.git/) [Org mode](https://orgmode.org/) - Org mode is for keeping notes, maintaining TODO lists, planning projects, and authoring documents with a fast and effective plain-text system.
 - [![Open-Source Software][oss icon]](https://github.com/Aseman-Land/Papyrus) [Papyrus](http://aseman.co/en/products/papyrus/) - Papyrus is a different note manager which is focusing on Security, Better user interface. Papyrus are trying to provide an easy to use and smart user interface for users.
 - [![Open-Source Software][oss icon]](https://github.com/pbek/QOwnNotes) [QOwnNotes](https://github.com/pbek/QOwnNotes) - QOwnNotes is a plain-text file notepad and todo-list manager with markdown support and ownCloud / Nextcloud integration.
 - [Simplenote](https://simplenote.com/) - A Cross platform notetaking app and Evernote competitor.
