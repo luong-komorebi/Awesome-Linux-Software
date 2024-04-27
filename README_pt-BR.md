@@ -327,8 +327,8 @@ Duas versões chinesas desta lista estão disponíveis [aqui](https://github.com
 ### Editores
 
 - [Atom](https://atom.io/) - Hackable text editor for the 21st century. [![Open-Source Software][oss icon]](https://github.com/atom/atom)
-- [Bluefish](http://bluefish.openoffice.nl/index.html) - Bluefish is a powerful editor targeted towards programmers and webdevelopers, with many options to write websites, scripts and programming code. [![Open-Source Software][oss icon]](https://sourceforge.net/p/bluefish/code/HEAD/tree/trunk/bluefish/)
-- [Brackets](http://brackets.io/) - A modern text editor that understands web design. [![Open-Source Software][oss icon]](https://github.com/adobe/brackets)
+- [Bluefish](https://bluefish.openoffice.nl/index.html) - Bluefish is a powerful editor targeted towards programmers and webdevelopers, with many options to write websites, scripts and programming code. [![Open-Source Software][oss icon]](https://sourceforge.net/p/bluefish/code/HEAD/tree/trunk/bluefish/)
+- [Brackets](https://brackets.io/) - A modern text editor that understands web design. [![Open-Source Software][oss icon]](https://github.com/adobe/brackets)
 - [Emacs](https://www.gnu.org/software/emacs/) - An extensible, customizable, free/libre text editor â€” and more. [![Open-Source Software][oss icon]](https://github.com/emacs-mirror/emacs)
 - [Geany](https://www.geany.org/) - Geany is a text editor using the GTK+ toolkit with basic features of an integrated development environment. It was developed to provide a small and fast IDE, which has only a few dependencies from other packages. [![Open-Source Software][oss icon]](https://www.geany.org/Download/Git)
 - [Gedit](https://wiki.gnome.org/Apps/Gedit) -gedit is the GNOME text editor. While aiming at simplicity and ease of use, gedit is a powerful general purpose text editor.
@@ -730,11 +730,11 @@ Duas versões chinesas desta lista estão disponíveis [aqui](https://github.com
 
 #### Time and Task
 
-- [Alarm Clock](http://alarm-clock.pseudoberries.com/) - Alarm Clock is a fully-featured alarm clock for your GNOME panel or equivalent. [![Open-Source Software][oss icon]](http://bazaar.launchpad.net/~joh/alarm-clock/trunk/files)
-- [![Open-Source Software][oss icon]](http://git.calcurse.org/calcurse.git/) [calcurse](http://calcurse.org/) - A calendar and scheduling application for the command line.
+- [Alarm Clock](https://alarm-clock.pseudoberries.com/) - Alarm Clock is a fully-featured alarm clock for your GNOME panel or equivalent. [![Open-Source Software][oss icon]](http://bazaar.launchpad.net/~joh/alarm-clock/trunk/files)
+- [![Open-Source Software][oss icon]](https://git.calcurse.org/calcurse.git/) [calcurse](http://calcurse.org/) - A calendar and scheduling application for the command line.
 - [California](https://wiki.gnome.org/Apps/California) - Complete Calendar app replacement which uses natural language for creating events.
 - ![Nonfree][money icon] [Everdo](https://everdo.net/linux) - TODO list and Getting Things Done® app for all platforms. Beautiful, powerful, not SaaS, free version available.
-- [Gnome Pomodoro](http://gnomepomodoro.org/#download) - A full-featured pomodoro timer for GNOME. [![Open-Source Software][oss icon]](https://github.com/codito/gnome-pomodoro)
+- [Gnome Pomodoro](https://gnomepomodoro.org/#download) - A full-featured pomodoro timer for GNOME. [![Open-Source Software][oss icon]](https://github.com/codito/gnome-pomodoro)
 - [Go For It](http://manuel-kehl.de/projects/go-for-it/) - Go For It! is a simple and stylish productivity app, featuring a to-do list, merged with a timer that keeps your focus on the current task.
 - [My Todo](https://github.com/mohamed-aziz/mytodo) - Mytodo is an open source to-do list program that puts you, the user, in command of everything. [![Open-Source Software][oss icon]](https://github.com/mohamed-aziz/mytodo)
 - [Pomodone App](http://pomodoneapp.com/) - PomoDoneApp is the easiest way to track your workflow using Pomodoro techniqueÂ®, on top of your current task management service.![Nonfree][money icon]
@@ -780,7 +780,7 @@ Duas versões chinesas desta lista estão disponíveis [aqui](https://github.com
 
 - [aria2](https://aria2.github.io/) - aria2 is a lightweight multi-protocol & multi-source command-line download utility. [![Open-Source Software][oss icon]](https://github.com/aria2/aria2)
 - [CrossFTP](http://www.crossftp.com/ftp-client.htm) - CrossFTP makes it extremely simple to manage the FTP related tasks.
-- [D-lan](http://www.d-lan.net/) - A free LAN file sharing software.
+- [D-lan](https://www.d-lan.net/) - A free LAN file sharing software.
 - [Deluge](http://deluge-torrent.org/) - Deluge is a lightweight, Free Software, cross-platform BitTorrent client. [![Open-Source Software][oss icon]](http://dev.deluge-torrent.org/wiki/Development#SourceCode)
 - [Dropbox](https://www.dropbox.com/install?os=lnx) - Dropbox is a free service that lets you bring your photos, docs, and videos anywhere and share them easily.
 - [Filezilla](https://filezilla-project.org/) - the free FTP solution [![Open-Source Software][oss icon]](https://filezilla-project.org/sourcecode.php)
@@ -817,7 +817,7 @@ Duas versões chinesas desta lista estão disponíveis [aqui](https://github.com
 - [![Open-Source Software][oss icon]](https://github.com/kovidgoyal/kitty) [Kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature full, OpenGL based terminal emulator.
 - [Konsole](https://konsole.kde.org/) - An alternative terminal emulator for KDE desktop environment.
 - [RXVT-Unicode](http://software.schmorp.de/pkg/rxvt-unicode.html) - rxvt-unicode is a fork of the well known terminal emulator. [![Open-Source Software][oss icon]](rxvt.http://cvs.schmorp.de/rxvt-unicode/)
-- [RXVT](http://rxvt.sourceforge.net/) - A terminal emulator for X11, a popular replacement for the standard â€˜xtermâ€™. [![Open-Source Software][oss icon]](https://sourceforge.net/projects/rxvt/)
+- [RXVT](https://rxvt.sourceforge.net/) - A terminal emulator for X11, a popular replacement for the standard â€˜xtermâ€™. [![Open-Source Software][oss icon]](https://sourceforge.net/projects/rxvt/)
 - [Sakura](https://launchpad.net/sakura) - Simple but powerful libvte based terminal emulator, supporting utf-8 and input methods as provided by gtk+ and pango libraries. [![Open-Source Software][oss icon]](https://launchpad.net/sakura)
 - [![Open-Source Software][oss icon]](https://launchpad.net/terminator) [Terminator](http://gnometerminator.blogspot.com/p/introduction.html) - itâ€™s quite clear that the most powerful terminal emulator on Linux is the feature-filled Terminator.
 - [Terminology](https://www.enlightenment.org/about-terminology) - The Pretty and lightweight Terminal from the Enlightenment Desktop, it's highly configurable, it works in X11, under a Wayland compositor and even directly in the framebuffer on Linux. Replace your boring text-mode VT with a graphical one that requires no display system. [![Open-Source Software][oss icon]](https://github.com/billiob/terminology)
@@ -839,7 +839,7 @@ Duas versões chinesas desta lista estão disponíveis [aqui](https://github.com
 - [![Open-Source Software][oss icon]](https://github.com/bleachbit/bleachbit) [Bleach bit](https://www.bleachbit.org/) - BleachBit libera rapidamente espaço em disco e protege incansavelmente sua privacidade. Free cache, delete cookies, clear Internet history, shred temporary files, delete logs, and more ...
 - [Brasero](https://wiki.gnome.org/Apps/Brasero) - Gravador de CD/DVD.
 - [Cheat](https://github.com/chrisallenlane/cheat) - Cheat permite você criar e visualizar interativamente comandos na linha de comando.`Simplify man tool`[![Open-Source Software][oss icon]](https://github.com/chrisallenlane/cheat)
-- [Clonezilla](http://clonezilla.org/) - Clonezilla é um programa de particionamento e montagem/clonagem de disco similar ao True ImageÂ® ou Norton GhostÂ®. [![Open-Source Software][oss icon]](http://clonezilla.org/related-links/)
+- [Clonezilla](http://clonezilla.org/) - Clonezilla é um programa de particionamento e montagem/clonagem de disco similar ao True ImageÂ® ou Norton GhostÂ®. [![Open-Source Software][oss icon]](https://clonezilla.org/related-links/)
 - [Convertall](https://sourceforge.net/projects/convertall/) - Converte todas as unidades.
 - [CPU-G](http://www.omgubuntu.co.uk/2016/09/monitor-battery-life-ubuntu-cpu-g) - Fácil monitoramento da vida útil da bateria do seu laptop Ubuntu. [![Open-Source Software][oss icon]](https://launchpad.net/cpug)
 - [Curlew](https://github.com/chamfay/Curlew) - GTK Media Converter para o desktop com GNOME [![Open-Source Software][oss icon]](https://github.com/chamfay/Curlew)
@@ -849,7 +849,7 @@ Duas versões chinesas desta lista estão disponíveis [aqui](https://github.com
 - [Enpass](https://www.enpass.io/) - Enpass makes your life easy by securely managing your passwords and important information.
 - [![Open-Source Software][oss icon]](https://github.com/resin-io/etcher) [Etcher](https://www.balena.io/etcher/) - Flash OS images to SD cards & USB drives, safely and easily.
 - [FreeRDP](http://www.freerdp.com/) - FreeRDP é uma implementação livre do Remote Desktop Protocol (RDP). [![Open-Source Software][oss icon]](https://github.com/FreeRDP/FreeRDP)
-- [GD map](http://gdmap.sourceforge.net/) - Uma ferramenta para visualizar o uso de disco.
+- [GD map](https://gdmap.sourceforge.net/) - Uma ferramenta para visualizar o uso de disco.
 - [Gloobus-Preview](https://github.com/antonio-malcolm/gloobus-preview) - It gives you a quick preview of your files. It's similar to [Sushi](https://github.com/GNOME/sushi) [![Open-Source Software][oss icon]](https://github.com/antonio-malcolm/gloobus-preview) .
 - [GnomePie](http://simmesimme.github.io/news/2016/08/24/gnome-pie-069) - the circular app launcher for Linux desktops. [![Open-Source Software][oss icon]](http://simmesimme.github.io/news/2016/08/24/gnome-pie-069)
 - [GParted](http://gparted.org/) - Disk Partition utility for Linux.
@@ -873,7 +873,7 @@ Duas versões chinesas desta lista estão disponíveis [aqui](https://github.com
 - [PeaUtilities](http://www.peazip.org/peautils-hash-secure-delete.html) PeaUtils is a suite of file management utilities, including hash checksums, secure delete, and file comparisons. [![Open-Source Software][oss icon]](https://sourceforge.net/projects/peautils/)
 - [Peazip](http://www.peazip.org/) - Utility to unzip any of a huge variety of compression formats. [![Open-Source Software][oss icon]](https://sourceforge.net/projects/peazip/files/Resources/)
 - [Pi-Hole](https://pi-hole.net) - Network-wide ad blocking via your own Linux hardware, using DNS filtering and re-direction Pi-Hole can block ads on a whole network, so Smartphones and Game Consoles can benefit from it in addition to computers. [![Open-Source Software][oss icon]](https://github.com/pi-hole/pi-hole)
-- [PlexyDesk](http://www.omgubuntu.co.uk/2016/09/plexydesk-widgets-linux-desktop-ppa) - Plexydesk supports multiple widget workspaces/desktops on Linux.
+- [PlexyDesk](https://www.omgubuntu.co.uk/2016/09/plexydesk-widgets-linux-desktop-ppa) - Plexydesk supports multiple widget workspaces/desktops on Linux.
 - [Powertop](https://01.org/powertop/downloads) - Diagnose issue with powerconsumption.
 - [Psensor](http://wpitchoune.net/psensor/) - Graphical hardware temperature monitor for Linux. [![Open-Source Software][oss icon]](http://git.wpitchoune.net/psensor.git/)
 - [Pulse Audio](https://wiki.ubuntu.com/PulseAudio) - Improve Linux Audio with customized Profiles.
@@ -894,7 +894,7 @@ Duas versões chinesas desta lista estão disponíveis [aqui](https://github.com
 - [Variety](http://peterlevi.com/variety/) - Variety is an open-source wallpaper changer for Linux, packed with great features, yet slim and easy to use. [![Open-Source Software][oss icon]](https://github.com/peterlevi/variety-slideshow)
 - [Virtualbox](https://www.virtualbox.org/wiki/Downloads) - VirtualBox is a general-purpose full virtualizer for x86 hardware, targeted at server, desktop and embedded use. [![Open-Source Software][oss icon]](https://www.virtualbox.org/wiki/Contributor_information)
 - [WallpaperChange](https://apps.ubuntu.com/cat/applications/raring/wallch/) - Automatically change your wallpaper.
-- [Workrave](http://www.workrave.org/) - A program that assists in the recovery and prevention of Repetitive Strain Injury (RSI). [![Open-Source Software][oss icon]](https://github.com/rcaelers/workrave)
+- [Workrave](https://www.workrave.org/) - A program that assists in the recovery and prevention of Repetitive Strain Injury (RSI). [![Open-Source Software][oss icon]](https://github.com/rcaelers/workrave)
 - [Xtreme Download Manager](http://xdman.sourceforge.net/) - A good download manager with fresh UI for Linux. [![Open-Source Software][oss icon]](https://github.com/KaOS-Community-Packages/xdm)
 
 ### VÃ­deo
@@ -915,7 +915,7 @@ Duas versões chinesas desta lista estão disponíveis [aqui](https://github.com
 
 - [ikiwiki](https://ikiwiki.info/) - ikiwiki é um compilador wiki. Ele converte páginas wiki em HTML pronto para publicação em websites. Ikiwiki armazena páginas e histrias em um sistema de controle de versão como Subversion ou Git. [![Open-Source Software][oss icon]](https://git.joeyh.name/git/ikiwiki.git/)
 - [![Open-Source Software][oss icon]](https://github.com/Jermolene/TiddlyDesktop) [TiddlyDesktop on GitHub](https://github.com/TiddlyDesktop) - [TiddlyDesktop on TiddlyWiki.com](https://github.com/TiddlyDesktop) - A desktop app for TiddlyWiki, an open-source personal wiki written in javascript, great if you're still searching for a good note-taking (and more) app.
-- [Zim](http://zim-wiki.org/) - Um editor de texto gráfico usado para manter uma coleção de páginas wiki, ótimo para documentos e anotações. Armazenado em texto plano para facilitar o controle de versão. [![Open-Source Software][oss icon]](https://launchpad.net/zim)
+- [Zim](https://zim-wiki.org/) - Um editor de texto gráfico usado para manter uma coleção de páginas wiki, ótimo para documentos e anotações. Armazenado em texto plano para facilitar o controle de versão. [![Open-Source Software][oss icon]](https://launchpad.net/zim)
 
 ### Outros
 
@@ -985,12 +985,12 @@ Duas versões chinesas desta lista estão disponíveis [aqui](https://github.com
 - [Entrance](http://enlightenment.org) - An EFL based display manager, highly experimental. [![Open-Source Software][oss icon]](https://github.com/tomas/entrance) [
 - [GDM](https://wiki.gnome.org/Projects/GDM) - GNOME display manager. [![Open-Source Software][oss icon]](https://github.com/GNOME/gdm) [
 - [KDM](http://www.kde.org) - KDE4 display manager (discontinued). [
-- [LightDM](http://www.freedesktop.org/wiki/Software/LightDM) - Cross-desktop display manager, can use various front-ends written in any toolkit. [![Open-Source Software][oss icon]](https://github.com/davvid/lightdm) [
-- [LXDM](http://sourceforge.net/projects/lxdm/) - LXDE display manager. Can be used independent of the LXDE desktop environment. [
+- [LightDM](https://www.freedesktop.org/wiki/Software/LightDM) - Cross-desktop display manager, can use various front-ends written in any toolkit. [![Open-Source Software][oss icon]](https://github.com/davvid/lightdm) [
+- [LXDM](https://sourceforge.net/projects/lxdm/) - LXDE display manager. Can be used independent of the LXDE desktop environment. [
 - [MDM](https://github.com/linuxmint/mdm) - MDM display manager, used in Linux Mint, a fork of GDM 2. [![Open-Source Software][oss icon]](https://github.com/linuxmint/mdm) [
 - [SDDM](https://github.com/sddm/sddm) - QML-based display manager and successor to KDE4's kdm; recommended for Plasma 5 and LXQt. [![Open-Source Software][oss icon]](https://github.com/sddm/sddm) [
-- [SLiM](http://sourceforge.net/projects/slim.berlios/) - Lightweight and elegant graphical login solution. (discontinued) [![Open-Source Software][oss icon]](https://github.com/gsingh93/slim-display-manager) [
-- [XDM](http://www.x.org/archive/X11R7.5/doc/man/man1/xdm.1.html) - X display manager with support for XDMCP, host chooser. [![Open-Source Software][oss icon]](https://github.com/bbidulock/xdm) [
+- [SLiM](https://sourceforge.net/projects/slim.berlios/) - Lightweight and elegant graphical login solution. (discontinued) [![Open-Source Software][oss icon]](https://github.com/gsingh93/slim-display-manager) [
+- [XDM](https://www.x.org/archive/X11R7.5/doc/man/man1/xdm.1.html) - X display manager with support for XDMCP, host chooser. [![Open-Source Software][oss icon]](https://github.com/bbidulock/xdm) [
 
 ## Display manager
 
@@ -1005,12 +1005,12 @@ Duas versões chinesas desta lista estão disponíveis [aqui](https://github.com
 - [Entrance](http://enlightenment.org) - An EFL based display manager, highly experimental. [![Open-Source Software][oss icon]](https://github.com/tomas/entrance)
 - [GDM](https://wiki.gnome.org/Projects/GDM) - GNOME display manager. [![Open-Source Software][oss icon]](https://github.com/GNOME/gdm)
 - [KDM](http://www.kde.org) - KDE4 display manager (discontinued).
-- [LightDM](http://www.freedesktop.org/wiki/Software/LightDM) - Cross-desktop display manager, can use various front-ends written in any toolkit. [![Open-Source Software][oss icon]](https://github.com/davvid/lightdm)
-- [LXDM](http://sourceforge.net/projects/lxdm/) - LXDE display manager. Can be used independent of the LXDE desktop environment.
+- [LightDM](https://www.freedesktop.org/wiki/Software/LightDM) - Cross-desktop display manager, can use various front-ends written in any toolkit. [![Open-Source Software][oss icon]](https://github.com/davvid/lightdm)
+- [LXDM](https://sourceforge.net/projects/lxdm/) - LXDE display manager. Can be used independent of the LXDE desktop environment.
 - [MDM](https://github.com/linuxmint/mdm) - MDM display manager, used in Linux Mint, a fork of GDM 2. [![Open-Source Software][oss icon]](https://github.com/linuxmint/mdm)
 - [SDDM](https://github.com/sddm/sddm) - QML-based display manager and successor to KDE4's kdm; recommended for Plasma 5 and LXQt. [![Open-Source Software][oss icon]](https://github.com/sddm/sddm)
-- [SLiM](http://sourceforge.net/projects/slim.berlios/) - Lightweight and elegant graphical login solution. (discontinued) [![Open-Source Software][oss icon]](https://github.com/gsingh93/slim-display-manager)
-- [XDM](http://www.x.org/archive/X11R7.5/doc/man/man1/xdm.1.html) - X display manager with support for XDMCP, host chooser. [![Open-Source Software][oss icon]](https://github.com/bbidulock/xdm)
+- [SLiM](https://sourceforge.net/projects/slim.berlios/) - Lightweight and elegant graphical login solution. (discontinued) [![Open-Source Software][oss icon]](https://github.com/gsingh93/slim-display-manager)
+- [XDM](https://www.x.org/archive/X11R7.5/doc/man/man1/xdm.1.html) - X display manager with support for XDMCP, host chooser. [![Open-Source Software][oss icon]](https://github.com/bbidulock/xdm)
 
 ## Window Managers
 
@@ -1031,7 +1031,7 @@ Duas versões chinesas desta lista estão disponíveis [aqui](https://github.com
 - [Bspwm](https://github.com/baskerville/bspwm/wiki) - bspwm is a tiling window manager that represents windows as the leaves of a full binary tree. [![Open-Source Software][oss icon]](https://github.com/baskerville/bspwm)
 - [Herbstluftwm](https://herbstluftwm.org) - Manual tiling window manager for X11 using Xlib and Glib. [![Open-Source Software][oss icon]](https://github.com/herbstluftwm/herbstluftwm)
 - [i3 WM](https://i3wm.org/) - A better tiling and dynamic window manager. It's completely written from scratch. The target platforms are GNU/Linux and BSD operating systems. [![Open-Source Software][oss icon]](https://github.com/i3/i3)
-- [Qtile](http://www.qtile.org/) - qtile is a full-featured, hackable tiling window manager written and configured in Python [![Open-Source Software][oss icon]](https://github.com/qtile/qtile)
+- [Qtile](https://www.qtile.org/) - qtile is a full-featured, hackable tiling window manager written and configured in Python [![Open-Source Software][oss icon]](https://github.com/qtile/qtile)
 - [![Open-Source Software][oss icon]](https://github.com/swaywm/sway) [Sway](http://swaywm.org) - Sway is tiling Wayland compositor and a drop-in replacement for the i3 window manager for X11.
 
 ### Dynamic window managers
