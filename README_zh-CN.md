@@ -258,8 +258,8 @@ _更新：上发布，中文版阅读地址戳[这里](https://alim0x.gitbooks.i
 ### 编辑器
 
 - [![Open-Source Software][oss icon]](https://github.com/atom/atom) [Atom](https://atom.io/) - 21 世纪的可 hack 文本编辑器。
-- [Bluefish](http://bluefish.openoffice.nl/index.html) - Bluefish 是一款面向程序员和 web 开发者的强大编辑器，带有很多编写网站，脚本和代码的选项。
-- [![Open-Source Software][oss icon]](https://github.com/adobe/brackets) [Brackets](http://brackets.io/) - 懂 web 设计的现代文本编辑器。
+- [Bluefish](https://bluefish.openoffice.nl/index.html) - Bluefish 是一款面向程序员和 web 开发者的强大编辑器，带有很多编写网站，脚本和代码的选项。
+- [![Open-Source Software][oss icon]](https://github.com/adobe/brackets) [Brackets](https://brackets.io/) - 懂 web 设计的现代文本编辑器。
 - [![Open-Source Software][oss icon]](https://github.com/emacs-mirror/emacs) [Emacs](https://www.gnu.org/software/emacs/) - 可扩展，可个性化，免费/自由的文本编辑器——还有更多。
 - [![Open-Source Software][oss icon]](https://www.geany.org/Download/Git) [Geany](https://www.geany.org/) - Geany 是一款使用了 GTK+ 工具集的文本编辑器，带有基本的集成开发环境功能。它的开发是为了成为一个小型又快速的 IDE，对其它包仅有不多的依赖。
 - [Gedit](https://wiki.gnome.org/Apps/Gedit) - gedit 是 GNOME 文本编辑器。尽管以简单易用为目标，gedit 仍然是个强大的多功能编辑器。
@@ -532,13 +532,13 @@ _更新：上发布，中文版阅读地址戳[这里](https://alim0x.gitbooks.i
 
 ### 生产力
 
-- [![Open-Source Software][oss icon]](http://bazaar.launchpad.net/~joh/alarm-clock/trunk/files) [Alarm Clock](http://alarm-clock.pseudoberries.com/) - Alarm Clock 是一款全功能的 GNOME 或其它面板的闹钟。
+- [![Open-Source Software][oss icon]](http://bazaar.launchpad.net/~joh/alarm-clock/trunk/files) [Alarm Clock](https://alarm-clock.pseudoberries.com/) - Alarm Clock 是一款全功能的 GNOME 或其它面板的闹钟。
 - [Ambient Noise](https://itsfoss.com/ambient-noise-music-player-ubuntu/) - 在 Linux 上安装环境噪声提高专注。
 - [Autokey](https://github.com/autokey/autokey) - 一款 Linux 桌面自动化工具，让你可以管理你的脚本和短语集合，并给它们分配缩写或者快捷键。
 - [![Open-Source Software][oss icon]](https://github.com/KDE/basket) [Basket Note Pads](https://apps.kde.org/basket/) - 这个多用途的笔记应用帮助你记下所有类型的笔记。
 - [Brightness](https://launchpad.net/indicator-brightness) - Ubuntu 下的一个亮度指示器。
 - [![Open-Source Software][oss icon]](https://github.com/Cairo-Dock) [Cairo-Dock](http://glx-dock.org/) - Cairo-Dock 是一个可自定义 dock，插件，面板等的桌面界面。
-- [![Open-Source Software][oss icon]](http://git.calcurse.org/calcurse.git/) [calcurse](http://calcurse.org/) - A calendar and scheduling application for the command line.
+- [![Open-Source Software][oss icon]](https://git.calcurse.org/calcurse.git/) [calcurse](http://calcurse.org/) - A calendar and scheduling application for the command line.
 - [California](https://wiki.gnome.org/Apps/California) - Calendar 应用的完整替代方案，可使用自然语言创建事件。
 - [![Open-Source Software][oss icon]](https://github.com/KELiON/cerebro) [Cerebro](https://cerebroapp.com/) - 开源生产力提升工具/MacOS Spotlight 替代工具。
 - [CopyQ](http://hluk.github.io/CopyQ/) -CopyQ 是一款高级剪贴板管理器，带有编辑和脚本功能。
@@ -569,7 +569,7 @@ _更新：上发布，中文版阅读地址戳[这里](https://alim0x.gitbooks.i
 - [![Open-Source Software][oss icon]](https://github.com/jml/undistract-me) [Undistract me](https://github.com/jml/undistract-me) - 在长时间执行的终端命令结束的时候提醒你。
 - [![Open-Source Software][oss icon]](https://github.com/CellarD0-0r/whatever) [Whatever](https://github.com/CellarD0-0r/whatever) - 非官方 Evernote Linux 桌面客户端。
 - [![Open-Source Software][oss icon]](https://github.com/wizteam/wizqtclient) [WizNote](https://github.com/wizteam/wizqtclient) - 一个跨平台云笔记客户端。
-- [![Open-Source Software][oss icon]](https://launchpad.net/zim) [Zim](http://zim-wiki.org/) - 一款图形化的文本编辑器，用来维护一系列的维基页面，对笔记和文档而言也很棒。资料以纯文本的形式保存，更便于版本管理。
+- [![Open-Source Software][oss icon]](https://launchpad.net/zim) [Zim](https://zim-wiki.org/) - 一款图形化的文本编辑器，用来维护一系列的维基页面，对笔记和文档而言也很棒。资料以纯文本的形式保存，更便于版本管理。
 - [Gnome-dictionary](https://wiki.gnome.org/Apps/Dictionary) - GNOME 下的一款强大的字典。
 - [Plank](https://launchpad.net/plank) - Plank 注定要成为这个星球上最简洁的应用 dock。
 - [Xmind](http://www.xmind.net/) - 脑图工具。
@@ -596,7 +596,7 @@ _更新：上发布，中文版阅读地址戳[这里](https://alim0x.gitbooks.i
 
 - [![Open-Source Software][oss icon]](https://github.com/aria2/aria2) [Aria2](https://aria2.github.io/) - aria2 是一个轻量级的多协议以及多来源命令行下载工具。
 - [CrossFTP](http://www.crossftp.com/ftp-client.htm) - CrossFTP 让 FTP 相关的任务管理变得无比简单。
-- [D-lan](http://www.d-lan.net/) - 一个免费的局域网文件分享软件。
+- [D-lan](https://www.d-lan.net/) - 一个免费的局域网文件分享软件。
 - [![Open-Source Software][oss icon]](http://dev.deluge-torrent.org/wiki/Development#SourceCode)[Deluge](http://deluge-torrent.org/) - Deluge 是一款轻量级，免费的跨平台 BT 客户端。
 - [Dropbox](https://www.dropbox.com/install?os=lnx) - Dropbox 是一个免费的云存储服务，让你可以将照片，文档和视频带到任何地方并轻松分享。
 - [![Open-Source Software][oss icon]](https://filezilla-project.org/sourcecode.php)[Filezilla](https://filezilla-project.org/) - 免费的 FTP 解决方案
@@ -622,7 +622,7 @@ _更新：上发布，中文版阅读地址戳[这里](https://alim0x.gitbooks.i
 - [![Open-Source Software][oss icon]](https://github.com/zeit/hyper) [Hyper](https://hyper.is/) - 基于 web 技术打造的终端。
 - [Konsole](https://konsole.kde.org/) - KDE 桌面环境的最佳终端。
 - [![Open-Source Software][oss icon]](rxvt.http://cvs.schmorp.de/rxvt-unicode/) [RXVT-Unicode](http://software.schmorp.de/pkg/rxvt-unicode.html) - rxvt-unicode 是著名的终端模拟器的一个分支。
-- [![Open-Source Software][oss icon]](https://sourceforge.net/projects/rxvt/) [RXVT](http://rxvt.sourceforge.net/) - 一款 X11 终端模拟器，流行的‘xterm’替代品。
+- [![Open-Source Software][oss icon]](https://sourceforge.net/projects/rxvt/) [RXVT](https://rxvt.sourceforge.net/) - 一款 X11 终端模拟器，流行的‘xterm’替代品。
 - [![Open-Source Software][oss icon]](https://launchpad.net/sakura) [Sakura](https://launchpad.net/sakura) - 简单但是强大，基于 libvte 的终端模拟器，支持 utf-8 并且通过 gtk+ 和 pango 库提供输入法。
 - [![Open-Source Software][oss icon]](https://launchpad.net/terminator) [Terminator](http://gnometerminator.blogspot.com/p/introduction.html) - 很明显 Linux 上最强大的终端模拟器是功能丰富的 Terminator（终结者）。
 - [![Open-Source Software][oss icon]](https://github.com/gnunn1/terminix) [Terminix](https://gnunn1.github.io/terminix-web/#packages) - 使用 GTK+3 的 Linux 平铺终端模拟器。
@@ -643,9 +643,9 @@ _更新：上发布，中文版阅读地址戳[这里](https://alim0x.gitbooks.i
 - [Convertall](https://sourceforge.net/projects/convertall/) - 全能单位换算。
 - [![Open-Source Software][oss icon]](https://github.com/thjaeger/easystroke) [EasyStroke](https://github.com/thjaeger/easystroke/wiki#download) - Easystroke 是一个 X11 手势识别应用。
 - [Enpass](https://www.enpass.io/) - Enpass 安全地管理你的密码和重要信息，让你的生活更轻松。
-- [GD map](http://gdmap.sourceforge.net/) - 可视化磁盘使用量的工具。
+- [GD map](https://gdmap.sourceforge.net/) - 可视化磁盘使用量的工具。
 - [![Open-Source Software][oss icon]](https://github.com/antonio-malcolm/gloobus-preview) [Gloobus-Preview](https://github.com/antonio-malcolm/gloobus-preview) - 它能给你提供文件的快速预览，类似 [Sushi](https://github.com/GNOME/sushi)。
-- [![Open-Source Software][oss icon]](https://github.com/codito/gnome-pomodoro) [Gnome Pomodoro](http://gnomepomodoro.org/#download) - 全功能 GNOME 番茄钟。
+- [![Open-Source Software][oss icon]](https://github.com/codito/gnome-pomodoro) [Gnome Pomodoro](https://gnomepomodoro.org/#download) - 全功能 GNOME 番茄钟。
 - [GnomePie](http://simmesimme.github.io/news/2016/08/24/gnome-pie-069) - Linux 桌面的一个圆形启动器。[![Open-Source Software][oss icon]](http://simmesimme.github.io/news/2016/08/24/gnome-pie-069)
 - [Gnormalize](http://gnormalize.sourceforge.net/) - 音频转换工具。
 - [GParted](http://gparted.org/) - Ubuntu/Linux 磁盘分区工具。
@@ -677,13 +677,13 @@ _更新：上发布，中文版阅读地址戳[这里](https://alim0x.gitbooks.i
 - [![Open-Source Software][oss icon]](https://github.com/peterlevi/variety-slideshow) [Variety](http://peterlevi.com/variety/) - Variety 是一款开源的 Linux 壁纸更换软件，拥有众多功能，轻巧又易用。
 - [![Open-Source Software][oss icon]](https://www.virtualbox.org/wiki/Contributor_information) [Virtualbox](https://www.virtualbox.org/wiki/Downloads) - VirtualBox 是一款通用的 x86 硬件虚拟机软件，面向服务器，桌面以及嵌入式。
 - [WallpaperChange](https://apps.ubuntu.com/cat/applications/raring/wallch/) - 自动更换你的壁纸。
-- [![Open-Source Software][oss icon]](https://github.com/rcaelers/workrave) [Workrave](http://www.workrave.org/) - 一款帮助恢复以及防止重复性劳损的程序（RSI）。
+- [![Open-Source Software][oss icon]](https://github.com/rcaelers/workrave) [Workrave](https://www.workrave.org/) - 一款帮助恢复以及防止重复性劳损的程序（RSI）。
 - [![Open-Source Software][oss icon]](https://github.com/KaOS-Community-Packages/xdm) [Xtreme Download Manager](http://xdman.sourceforge.net/) - 一款有着新鲜用户界面的下载管理器。
 - [LastPass](https://lastpass.com/misc_download2.php) - 跨平台密码管理器。
-- [![Open-Source Software][oss icon]](http://clonezilla.org/related-links/) [Clonezilla](http://clonezilla.org/) - Clonezilla 是一款分区以及磁盘镜像/克隆程序，类似 True Image® 或 Norton Ghost®。
+- [![Open-Source Software][oss icon]](https://clonezilla.org/related-links/) [Clonezilla](http://clonezilla.org/) - Clonezilla 是一款分区以及磁盘镜像/克隆程序，类似 True Image® 或 Norton Ghost®。
 - [![Open-Source Software][oss icon]](https://launchpad.net/cpug) [CPU-G](http://www.omgubuntu.co.uk/2016/09/monitor-battery-life-ubuntu-cpu-g) - 轻松监控你的 Ubuntu 笔记本的电池寿命。
 - [![Open-Source Software][oss icon]](http://github.com/wereturtle/ghostwriter) [Ghost Writer](https://ghostwriter.kde.org/) - 一款专注的 Windows 及 Linux Markdown 编辑器。
-- [PlexyDesk](http://www.omgubuntu.co.uk/2016/09/plexydesk-widgets-linux-desktop-ppa) - Plexydesk 支持 Linux 多插件工作空间/桌面。
+- [PlexyDesk](https://www.omgubuntu.co.uk/2016/09/plexydesk-widgets-linux-desktop-ppa) - Plexydesk 支持 Linux 多插件工作空间/桌面。
 
 ### 视频
 
@@ -756,12 +756,12 @@ _更新：上发布，中文版阅读地址戳[这里](https://alim0x.gitbooks.i
 - [![Open-Source Software][oss icon]](https://github.com/tomas/entrance) [Entrance](http://enlightenment.org) - 基于 EFL 的显示管理器，高度实验性质。
 - [![Open-Source Software][oss icon]](https://github.com/GNOME/gdm) [GDM](https://wiki.gnome.org/Projects/GDM) - GNOME 显示管理器。
 - [KDM](http://www.kde.org) - KDE4 显示管理器（不再继续开发）。
-- [![Open-Source Software][oss icon]](https://github.com/davvid/lightdm) [LightDM](http://www.freedesktop.org/wiki/Software/LightDM) - 跨桌面显示管理器，可以使用任何工具集写就的各种前端。
-- [LXDM](http://sourceforge.net/projects/lxdm/) - LXDE 显示管理器，可以独立于 LXDE 桌面环境使用。
+- [![Open-Source Software][oss icon]](https://github.com/davvid/lightdm) [LightDM](https://www.freedesktop.org/wiki/Software/LightDM) - 跨桌面显示管理器，可以使用任何工具集写就的各种前端。
+- [LXDM](https://sourceforge.net/projects/lxdm/) - LXDE 显示管理器，可以独立于 LXDE 桌面环境使用。
 - [![Open-Source Software][oss icon]](https://github.com/linuxmint/mdm) [MDM](https://github.com/linuxmint/mdm) - MDM 显示管理器，在 Linux Mint 中使用， GDM 2 的一个 fork。
 - [![Open-Source Software][oss icon]](https://github.com/sddm/sddm) [SDDM](https://github.com/sddm/sddm) - 基于 QML 的显示管理器，KDE 4 的 kdm 的继任者；Plasma 5 以及 LXQt 推荐。
-- [![Open-Source Software][oss icon]](https://github.com/gsingh93/slim-display-manager) [SLiM](http://sourceforge.net/projects/slim.berlios/) - 轻量且优雅的图形化登录解决方案（不再继续开发）。
-- [![Open-Source Software][oss icon]](https://github.com/bbidulock/xdm) [XDM](http://www.x.org/archive/X11R7.5/doc/man/man1/xdm.1.html) - 带有 XDMCP，主机选择支持的 X 显示管理器。
+- [![Open-Source Software][oss icon]](https://github.com/gsingh93/slim-display-manager) [SLiM](https://sourceforge.net/projects/slim.berlios/) - 轻量且优雅的图形化登录解决方案（不再继续开发）。
+- [![Open-Source Software][oss icon]](https://github.com/bbidulock/xdm) [XDM](https://www.x.org/archive/X11R7.5/doc/man/man1/xdm.1.html) - 带有 XDMCP，主机选择支持的 X 显示管理器。
 
 ## 窗口管理
 
