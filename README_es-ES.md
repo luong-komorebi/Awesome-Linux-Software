@@ -119,7 +119,7 @@ _para consultar una lista más larga de software de audio oprima [aquí](https:/
 - [![Open-Source Software][oss icon]](https://github.com/musescore/MuseScore) [MuseScore](https://musescore.org) - una aplicación para la creación, reproducción e impresión de partituras.
 - [![Open-Source Software][oss icon]](https://github.com/metabrainz/picard) [MusicBrainz Picard](https://picard.musicbrainz.org/) - Picard es una aplicación multiplataforma para edición de multidatos de música.
 - [![Open-Source Software][oss icon]](https://about.musixmatch.com/apps/) [MusixMatch](https://about.musixmatch.com/apps/) - Una programa para búsqueda de las letras de canciones. Se puede sincronizar con la música.
-- [Netease Music](http://music.163.com/#/download) - Un reproductor de música para netease - un servicio de música en China.
+- [Netease Music](https://music.163.com/#/download) - Un reproductor de música para netease - un servicio de música en China.
 - [![Open-Source Software][oss icon]](https://github.com/nukeop/nuclear) [Nuclear](http://nuclear.gumblert.tech/) - Basado en Electron, Nuclear es una programa multiplatforma para el reproductor de medios puede utilizar múltiples fuentes para la reproducción.
 - [Ocenaudio](http://www.ocenaudio.com/whatis) - Una programa multiplataforma fácil, es rápido e funcional editor de música. Es un buen programa para editar y analizar archivos de música.
 - [![Open-Source Software][oss icon]](https://github.com/PedroHLC/osdlyrics) [OSD Lyrics](https://aur.archlinux.org/packages/osdlyrics-git/) - El programa muestra letras para otros reproductores des medios.
@@ -131,7 +131,7 @@ _para consultar una lista más larga de software de audio oprima [aquí](https:/
 - [![Open-Source Software][oss icon]](https://github.com/GNOME/rhythmbox) [Rhythmbox](https://wiki.gnome.org/Apps/Rhythmbox) - Un reproductor de medios de GNOME.
 - [![Open-Source Software][oss icon]](https://sayonara-player.com/downloads/#Source) [Sayonara Player](https://sayonara-player.com/downloads/) - Un pequeño y rápido reproductor de medios para Linux. Fue escrito en C ++, y es apoyado por el marco QT.
 - [![Open-Source Software][oss icon]](https://github.com/multani/sonata/) [Sonata](http://www.nongnu.org/sonata/) - Sonata es un reproductor de música con una interfaz fácil de usar, para reproducir su colección de música del "Music Player Daemon" (MPD).
-- [![Open-Source Software][oss icon]](https://launchpad.net/soundconverter/trunk/2.1.6) [Soundconverter](http://soundconverter.org/) - un popular convertidor de archivos de audio. Es fácil de usar, y muy rápido.
+- [![Open-Source Software][oss icon]](https://launchpad.net/soundconverter/trunk/2.1.6) [Soundconverter](https://soundconverter.org/) - un popular convertidor de archivos de audio. Es fácil de usar, y muy rápido.
 - [![Open-Source Software][oss icon]](https://wiki.gnome.org/Apps/SoundJuicer) [SoundJuicer](http://www.howtogeek.com/howto/20126/rip-audio-cds-with-sound-juicer/) - una programa para Ripear uno CD para GNOME.
 - [![Open-Source Software][oss icon]](https://github.com/Soundnode/soundnode-app) [Soundnode](https://soundnode.github.io/soundnode-website/) - Una aplicacion de código abierto para SoundCloud.
 - [![Open-Source Software][oss icon]](https://github.com/devinhalladay/spotio) [Spotio](https://github.com/devinhalladay/spotio) - Un tema inspirado en Rdio para la aplicación del applicacion Spotify oficial.
@@ -163,7 +163,7 @@ _para consultar una lista más larga de software de audio oprima [aquí](https:/
 
 - [![Open-Source Software][oss icon]](https://github.com/hexchat) [HexChat](https://hexchat.github.io/) - Hexchat es una cliente para IRC que está diseñada desde XChat, sin embargo en comparación con Xchat es gratis y de código abierto.
 - [![Open-Source Software][oss icon]](https://github.com/irssi/irssi) [Irssi](https://github.com/irssi/irssi) - Irssi es una cliente para mensajería instantánea de IRC. Es un cliente modular que es conocido por el modo de texto.
-- [![Open-Source Software][oss icon]](https://github.com/kvirc/KVIrc) [KVIrc](http://www.kvirc.net/) - KVIrc es un cliente IRC gratuito diseñado a partir de QT.
+- [![Open-Source Software][oss icon]](https://github.com/kvirc/KVIrc) [KVIrc](https://www.kvirc.net/) - KVIrc es un cliente IRC gratuito diseñado a partir de QT.
 
 #### Clientes oficiales
 
@@ -192,7 +192,7 @@ _para consultar una lista más larga de software de audio oprima [aquí](https:/
 - [![Open-Source Software][oss icon]](https://borgbackup.readthedocs.io/en/stable/) [Qt4-fsarchiver](https://sourceforge.net/projects/qt4-fsarchiver/) - Una GUI del programa de archivado para fsarchiver, está diseñada para guardar y restaurar particiones de disco, carpetas y tablas MBR / GPT. Funciona en Ubuntu, Opensuse y Fedora.
 - [![Open-Source Software][oss icon]](https://github.com/ncw/rclone) [rclone](http://rclone.org/) - Rclone es un programa de línea de comandos para sincronizar archivos y directorios de la nube. También permite copia de seguridad cifrada.
 - [![Open-Source Software][oss icon]](https://github.com/rsnapshot/rsnapshot.git) [rsnapshot](http://rsnapshot.org/) - La programa rsnapshot es una utilidad de línea de comandos basada en rsync para realizar instantáneas temporizadas de equipos locales y remotos.
-- [![Open-Source Software][oss icon]](https://sourceforge.net/projects/systemrescuecd/files/sysresccd-x86/) [System Rescue CD](http://www.system-rescue-cd.org/SystemRescueCd_Homepage) - SystemRescueCD es un disco de rescate del sistema linux diseñado para ser ejecutado desde un CD-ROM o memoria USB para reparar un sistema después de un problema.
+- [![Open-Source Software][oss icon]](https://sourceforge.net/projects/systemrescuecd/files/sysresccd-x86/) [System Rescue CD](https://www.system-rescue-cd.org/SystemRescueCd_Homepage) - SystemRescueCD es un disco de rescate del sistema linux diseñado para ser ejecutado desde un CD-ROM o memoria USB para reparar un sistema después de un problema.
 - [![Open-Source Software][oss icon]](https://github.com/cgsecurity/testdisk) [Test Disk](http://www.cgsecurity.org/wiki/TestDisk) - TestDisk es un programa de recuperación gratuito que fue diseñado para recuperar particiones rotas o hacer que los discos que no se pueden arrancar funcionen de nuevo.
 - [![Open-Source Software][oss icon]](https://code.launchpad.net/timeshift) [Timeshift](https://launchpad.net/timeshift) - TimeShift es una utilidad de restauración del sistema que toma copias de seguridad incrementales de un sistema informático utilizando rsync y enlaces duros.
 
@@ -241,7 +241,7 @@ _para consultar una lista más larga de software de audio oprima [aquí](https:/
 #### C\+\+
 
 - ![Nonfree][money icon] [Clion](https://www.jetbrains.com/clion/) - Una plataforma multi-plataforma y capaz Entorno de desarrollo integrado para C y C++.
-- [Code::Blocks](http://www.codeblocks.org/) - Code::Blocks es un Entorno de desarrollo integrado gratuito para C, C++ y Fortran. Está diseñado para ser extensible y muy personalizable.
+- [Code::Blocks](https://www.codeblocks.org/) - Code::Blocks es un Entorno de desarrollo integrado gratuito para C, C++ y Fortran. Está diseñado para ser extensible y muy personalizable.
 - [Codelite](http://codelite.org/) - Un IDE de plataforma multiplataforma código abierto para C,C++,PHP and Node.js.
 - [![Open-Source Software][oss icon]](https://github.com/qt-creator/qt-creator) [QT Creator](https://www.qt.io/ide/) - Una multiplataforma Entorno de desarrollo integrado para la fácil creación de dispositivos conectados en varias plataformas, Interfaz de usuario y aplicaciones.
 
@@ -286,14 +286,14 @@ _para consultar una lista más larga de software de audio oprima [aquí](https:/
 #### Microcomputadora y Sistema embebido
 
 - [![Open-Source Software][oss icon]](https://github.com/arduino/arduino-ide) [Arduino IDE](https://www.arduino.cc/en/Main/Software) - El Arduino Oficial Entorno de desarrollo integrado.
-- [![Open-Source Software][oss icon]](https://github.com/fritzing/fritzing-app) [Fritzing](http://fritzing.org/) - Fritzing es un sitio web de hardware de código abierto que hace que la electrónica sea accesible para todos.
+- [![Open-Source Software][oss icon]](https://github.com/fritzing/fritzing-app) [Fritzing](https://fritzing.org/) - Fritzing es un sitio web de hardware de código abierto que hace que la electrónica sea accesible para todos.
 - [![Open-Source Software][oss icon]](https://github.com/jantje/arduino-eclipse-plugin) [Sloeber IDE](http://eclipse.baeyens.it/) - Sloeber IDE. Un Arduino Entorno de desarrollo integrado para Eclipse.
 
 #### Puede soportar otros idiomas
 
-- [Aptana](http://www.aptana.com/) - Aptana Studio es similar a eclipse, pero está diseñado principalmente para el desarrollo web.
+- [Aptana](https://www.aptana.com/) - Aptana Studio es similar a eclipse, pero está diseñado principalmente para el desarrollo web.
 - [![Open-Source Software][oss icon]](https://phabricator.kde.org/dashboard/view/8/) [KDevelop](https://www.kdevelop.org/) - La programa es un Entorno de desarrollo integrado libre con complementos para C y C ++ y más.
-- [![Open-Source Software][oss icon]](http://www.monodevelop.com/developers/) [MonoDevelop](http://www.monodevelop.com/) - Un Entorno multiplataforma de desarrollo integrado para C #, F # y más..
+- [![Open-Source Software][oss icon]](https://www.monodevelop.com/developers/) [MonoDevelop](http://www.monodevelop.com/) - Un Entorno multiplataforma de desarrollo integrado para C #, F # y más..
 - [Netbeans](https://netbeans.org/downloads/) - NetBeans IDE es un programa para ayudar a desarrollar Java para computadoras, teléfonos móviles y aplicaciones web. También funciona con HTML5, Javascript y CSS.
 
 #### PHP
@@ -311,11 +311,11 @@ _para consultar una lista más larga de software de audio oprima [aquí](https:/
 - [![Open-Source Software][oss icon]](https://github.com/ipython/ipython) [Ipython](https://ipython.org/) - Un shell de python capaz.
 - [![Open-Source Software][oss icon]](https://github.com/oh-my-fish/oh-my-fish) [Oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - Un marco que le permite instalar complementos para el Fish Shell.
 - [![Open-Source Software][oss icon]](https://github.com/robbyrussell/oh-my-zsh) [Oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - Un marco para el ZSH que es dirigido por la comunidad.
-- [![Open-Source Software][oss icon]](http://sourceforge.net/p/zsh/code/ci/master/tree/) [Zsh](http://www.zsh.org/) - Un popular y poderoso shell de línea de comandos.
+- [![Open-Source Software][oss icon]](https://sourceforge.net/p/zsh/code/ci/master/tree/) [Zsh](http://www.zsh.org/) - Un popular y poderoso shell de línea de comandos.
 
 #### Herramientas de apoyo
 
-- [![Open-Source Software][oss icon]](https://sourceforge.net/projects/cscope/) [Cscope](http://cscope.sourceforge.net/) - Cscope es una herramienta para desarrolladores que están inspeccionando el código fuente del navegador. Es para la línea de comandos, pero funciona con el editor VIM.
+- [![Open-Source Software][oss icon]](https://sourceforge.net/projects/cscope/) [Cscope](https://cscope.sourceforge.net/) - Cscope es una herramienta para desarrolladores que están inspeccionando el código fuente del navegador. Es para la línea de comandos, pero funciona con el editor VIM.
 - [![Open-Source Software][oss icon]](https://sourceforge.net/projects/diffuse/files/?source=navbar) [Diffuse](https://sourceforge.net/projects/diffuse/) - Diffuse es una herramienta gráfica para comparar y fusionar el texto dentro de archivos. Puede recuperar archivos de muchos tipos diferentes de repositorios, en ejemplo: Bazaar, CVS, Darcs, Git, Mercurial, Monotone, RCS, Subversion, y SVK.
 - [![Open-Source Software][oss icon]](https://www.fossil-scm.org/index.html/dir?ci=tip) [Fossil](https://www.fossil-scm.org) - un programa que le permite administrar el desarrollo de software a través de Internet, tiene muchas características como el seguimiento de errores, una wiki y una interfaz web.
 - [Genymotion](https://www.genymotion.com/features/) - Genymotion es un emulador rápido que reemplaza al emulador predeterminado de Android.
@@ -326,7 +326,7 @@ _para consultar una lista más larga de software de audio oprima [aquí](https:/
 - [![Open-Source Software][oss icon]](https://wiki.gnome.org/Apps/Gitg#Development_Resources) [Gitg](https://wiki.gnome.org/Apps/Gitg) - Gitg es un cliente de la GUI de GNOME para ver los Repositorios de Git.
 - [GitKraken](https://www.gitkraken.com/) - Un lujoso cliente Git que opera en Weendows, MacOS y Linux.
 - [![Open-Source Software][oss icon]](https://github.com/gitlabhq/gitlabhq) [GitLab](https://github.com/gitlabhq/gitlabhq) - GitLab es un gestor de repositorio Git basado en la web. Puede crear y administrar un wiki y realizar un seguimiento de los problemas.
-- [![Open-Source Software][oss icon]](https://github.com/sitaramc/gitolite) [Gitolite](http://gitolite.com/gitolite/index.html) - Gitolite le permite configurar git hosting en un servidor central, con controles de acceso seguros y muchas más características de gran alcance.
+- [![Open-Source Software][oss icon]](https://github.com/sitaramc/gitolite) [Gitolite](https://gitolite.com/gitolite/index.html) - Gitolite le permite configurar git hosting en un servidor central, con controles de acceso seguros y muchas más características de gran alcance.
 - [Insomnia](https://insomnia.rest/) - Un simple y hermoso, cliente del REST API.
 - [![Open-Source Software][oss icon]](https://jupyter.readthedocs.io/en/latest/install.html) [Jupyter Notebook](https://jupyter.org/) - Un programa de código abierto que proporciona información interactiva de datos e información científica sobre más de 40 lenguajes de programación.
 - [![Open-Source Software][oss icon]](http://meldmerge.org/development.html) [Meld](http://meldmerge.org/) - Meld es una herramienta de modelado de diferencias visuales diseñada para ayudar a comparar archivos, directorios y proyectos controlados por versiones.
@@ -336,9 +336,9 @@ _para consultar una lista más larga de software de audio oprima [aquí](https:/
 - [Postman](https://www.getpostman.com) - Postman, permite a un usuario desarrollar y probar API rápidamente.
 - [![Open-Source Software][oss icon]](https://github.com/rabbitvcs/rabbitvcs) [Rabbit VCS](http://rabbitvcs.org/) - RabbitVCS es un conjunto de herramientas gráficas creadas para ser fáciles de usar con sistemas de control de versiones.
 - ![Nonfree][money icon] [SmartGit](http://www.syntevo.com/smartgit/) - SmartGit es un cliente git con soporte para peticiones de Github y comentarios. También es compatible con SVN.
-- [StarUML](http://staruml.io/) - Un sofisticado modelador de software.
-- [![Open-Source Software][oss icon]](http://uncrustify.sourceforge.net) [Uncrustify](http://uncrustify.sourceforge.net/) - Un programa que hace que el código fuente se vea mejor. El programa funciona con C, C ++, Objetivo C, D, Java, Peón y VALA.
-- [![Open-Source Software][oss icon]](https://sourceforge.net/projects/universalindent/files/uigui/) [UniversalIndentGUI](http://universalindent.sourceforge.net/) - UniversalIndentGUI muestra una vista previa de la configuración de los indentadores.
+- [StarUML](https://staruml.io/) - Un sofisticado modelador de software.
+- [![Open-Source Software][oss icon]](http://uncrustify.sourceforge.net) [Uncrustify](https://uncrustify.sourceforge.net/) - Un programa que hace que el código fuente se vea mejor. El programa funciona con C, C ++, Objetivo C, D, Java, Peón y VALA.
+- [![Open-Source Software][oss icon]](https://sourceforge.net/projects/universalindent/files/uigui/) [UniversalIndentGUI](https://universalindent.sourceforge.net/) - UniversalIndentGUI muestra una vista previa de la configuración de los indentadores.
 - [![Open-Source Software][oss icon]](https://www.gnu.org/software/wdiff/devguide) [Wdiff](https://www.gnu.org/software/wdiff/) - Es un programa GNU GUI para diff para comparar palabras entre archivos.
 - [![Open-Source Software][oss icon]](https://gitlab.com/wireshark/wireshark/-/tree/master) [Wireshark](https://www.wireshark.org/) - Wireshark es un analizador de protocolo de red muy popular.
 - [![Open-Source Software][oss icon]](https://github.com/zealdocs/zeal) [Zeal](https://zealdocs.org/) - Zeal es un navegador de documentación para desarrolladores de software.
@@ -357,9 +357,9 @@ _para consultar una lista más larga de software de audio oprima [aquí](https:/
 - [Lucidor](http://www.lucidor.org/lucidor/) - Lucidor es un programa informático para leer y gestionar libros electrónicos. Lucidor soporta los libros electrónicos en formato EPUB y los cataloga en formato OPDS.
 - [MasterPDF editor](https://code-industry.net/free-pdf-editor/) - Master PDF Editor Es un práctico y elegante editor de PDF para Linux.
 - [![Open-Source Software][oss icon]](https://sourceforge.net/p/mcomix/git/ci/master/tree/) [Mcomix](https://sourceforge.net/projects/mcomix/) - GTK+ es un espectador de historietas.
-- [![Open-Source Software][oss icon]](http://git.ghostscript.com/?p=mupdf.git;a=summary) [MuPDF](http://mupdf.com/) - un visor rápido de PDF y XPS.
+- [![Open-Source Software][oss icon]](https://git.ghostscript.com/?p=mupdf.git;a=summary) [MuPDF](http://mupdf.com/) - un visor rápido de PDF y XPS.
 - [![Open-Source Software][oss icon]](https://github.com/KDE/okular) [Okular](https://okular.kde.org/) - Okular es un visor universal de documentos, diseñado para el proyecto KDE. Okular Es multiplataforma y se ejecutará en Linux, Windows, MacOS y BSD.
-- [![Open-Source Software][oss icon]](https://github.com/torakiki/pdfsam) [PDFsam](http://www.pdfsam.org/) - Una aplicación para el escritorio que puede dividir, rotar, mezclar, combinar y extraer páginas de archivos PDF.
+- [![Open-Source Software][oss icon]](https://github.com/torakiki/pdfsam) [PDFsam](https://www.pdfsam.org/) - Una aplicación para el escritorio que puede dividir, rotar, mezclar, combinar y extraer páginas de archivos PDF.
 - [![Open-Source Software][oss icon]](https://download.kde.org/stable/peruse/peruse-1.2.tar.xz.mirrorlist) [Peruse](https://peruse.kde.org/) - Una manera relajante de leer cómics.
 - [![Open-Source Software][oss icon]](https://launchpad.net/qpdfview) [qpdf](https://launchpad.net/qpdfview) - qpdfview es un visor de documentos con pestañas.
 - [![Open-Source Software][oss icon]](https://github.com/Sigil-Ebook/Sigil) [Sigil](https://github.com/Sigil-Ebook/Sigil) - Sigil es un lector de libros electrónicos EPUB multiplataforma.
@@ -395,10 +395,10 @@ _para consultar una lista más larga de software de audio oprima [aquí](https:/
 - [![Open-Source Software][oss icon]](https://github.com/opp11/chemtool/blob/master/README.md) [Chemtool](http://ruby.chemie.uni-freiburg.de/~martin/chemtool/) - Chemtool es un pequeño programa para dibujar estructuras químicas en linux.
 - [![Open-Source Software][oss icon]](https://code.launchpad.net/epoptes) [Epoptes](http://www.epoptes.org/) - Es una herramienta de gestión y supervisión de laboratorio de código abierto.
 - [![Open-Source Software][oss icon]](https://github.com/gap-system/gap) [GAP](http://www.gap-system.org/) - un programa que le permite hacer álgebra, que se centra en la teoría de grupos computacionales.
-- [![Open-Source Software][oss icon]](http://gcompris.net/wiki/Developer%27s_corner) [Gcompris](http://gcompris.net/index-en.html) - GCompris es un grupo de software con muchas actividades para niños de 2 a 10 años.
+- [![Open-Source Software][oss icon]](https://gcompris.net/wiki/Developer%27s_corner) [Gcompris](http://gcompris.net/index-en.html) - GCompris es un grupo de software con muchas actividades para niños de 2 a 10 años.
 - [![Open-Source Software][oss icon]](https://github.com/geogebra/geogebra) [Geogebra](https://www.geogebra.org/download) - Una calculadora gráfica para funciones, geometría, álgebra, cálculo y estadística. También puede hacer matemáticas en 3D.
 - [![Open-Source Software][oss icon]](https://wiki.gnome.org/Apps/Dictionary) [Gnome-dictionary](https://wiki.gnome.org/Apps/Dictionary) - Un diccionario capaz para GNOME.
-- [![Open-Source Software][oss icon]](http://opensis.sourceforge.net/) [GNU Octave](http://www.gnu.org/software/octave/) - GNU Octave es un lenguaje de programación matemático, diseñado para cálculos numéricos, que es principalmente compatible con MATLAB.
+- [![Open-Source Software][oss icon]](https://opensis.sourceforge.net/) [GNU Octave](http://www.gnu.org/software/octave/) - GNU Octave es un lenguaje de programación matemático, diseñado para cálculos numéricos, que es principalmente compatible con MATLAB.
 - [![Open-Source Software][oss icon]](http://ftp.gnu.org/gnu/gtypist/) [GNU Typist](https://www.gnu.org/software/gtypist/index.html) - Una instrucción de escritura de código abierto basada en ncurses.
 - [![Open-Source Software][oss icon]](https://gitlab.com/gnukhata) [GNUKhata](http://www.gnukhata.in/) - Software de cuenta que es de código abierto.
 - [Google Earth](https://itsfoss.com/install-google-earth-ubunu/) - Google Earth es un programa que te permite ver un globo virtual con mapas y características geográficas.
@@ -432,10 +432,10 @@ _para consultar una lista más larga de software de audio oprima [aquí](https:/
 - [![Open-Source Software][oss icon]](https://cgit.kde.org/kmail.git/) [KMail](https://apps.kde.org/de/kmail2/) - KMail es la parte de correo electrónico de Kontact, los gestores de información personal integrados en KDE.
 - [![Open-Source Software][oss icon]](https://github.com/pulb/mailnag) [Mailnag](https://launchpad.net/~pulb/+archive/ubuntu/mailnag) - Mailnag es un daemon que descarga correos electrónicos desde servidores POP3 e IMAP.
 - [Mailspring](https://getmailspring.com/) - Mailspring es un cliente de correo electrónico hermoso y rápido.
-- [![Open-Source Software][oss icon]](http://sylpheed.sraoss.jp/en/download.html#stable) [Sylpheed](http://sylpheed.sraoss.jp/en/) - Un cliente de correo electrónico rápido y fácil de usar.
+- [![Open-Source Software][oss icon]](https://sylpheed.sraoss.jp/en/download.html#stable) [Sylpheed](http://sylpheed.sraoss.jp/en/) - Un cliente de correo electrónico rápido y fácil de usar.
 - [![Open-Source Software][oss icon]](https://releases.mozilla.org/pub/thunderbird/) [Thunderbird](https://www.mozilla.org/en-US/thunderbird/) - Thunderbird es una aplicación de correo electrónico de código abierto que es fácil de configurar y personalizar.
 - [![Open-Source Software][oss icon]](https://github.com/KDE/trojita) [Trojita](https://apps.kde.org/trojita/) - Es un pequeño y rápido cliente de correo electrónico para Linux.
-- [![Open-Source Software][oss icon]](https://github.com/danchoi/vmail) [Vmail](http://danielchoi.com/software/vmail.html) - Un cliente de Gmail diseñado para funcionar como el editor de texto de Vim.
+- [![Open-Source Software][oss icon]](https://github.com/danchoi/vmail) [Vmail](https://danielchoi.com/software/vmail.html) - Un cliente de Gmail diseñado para funcionar como el editor de texto de Vim.
 - [![Open-Source Software][oss icon]](https://github.com/Thomas101/wmail) [Wmail](https://github.com/Thomas101/wmail) - Un cliente para Gmail y Google Inbox que no es oficial.
 
 ### Administrador de archivos
@@ -462,7 +462,7 @@ _para consultar una lista más larga de software de audio oprima [aquí](https:/
 - [Dwarf Fortress](http://www.bay12games.com/dwarves/) - Una famosa simulación compleja de una Fortaleza Enana de Alta Fantasía, lucha contra los duendes y mata bestias legendarias masivas. ¡Golpea la tierra!
 - [![Open-Source Software][oss icon]](https://github.com/OpenTTD/OpenTTD) [OpenTTD](hptts://www.openttd.org) - Un clon de código abierto de "Transport Tycoon Plus" con muchas mejoras que el original.
 - [![Open-Source Software][oss icon]](https://github.com/aburch/simutrans) [Simutrans](https://www.simutrans.com) - Simutrans es un simulador de transporte de código abierto.
-- [![Open-Source Software][oss icon]](https://github.com/unknown-horizons/unknown-horizons) [Unknown Horizons](http://unknown-horizons.org/) - Es un juego 2D estrategia en tiempo real, donde se construye una ciudad y economía.
+- [![Open-Source Software][oss icon]](https://github.com/unknown-horizons/unknown-horizons) [Unknown Horizons](https://unknown-horizons.org/) - Es un juego 2D estrategia en tiempo real, donde se construye una ciudad y economía.
 
 #### Juegos de Línea De Comando
 
