@@ -380,7 +380,7 @@ _更新：上发布，中文版阅读地址戳[这里](https://alim0x.gitbooks.i
 #### Machine emulators
 
 - [![Open-Source Software][oss icon]](https://github.com/dolphin-emu/dolphin) [Dolphin Emulator](https://dolphin-emu.org/) - Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements.
-- [![Open-Source Software][oss icon]](https://sourceforge.net/p/fuse-emulator/fuse/ci/master/tree/) [Fuse](http://fuse-emulator.sourceforge.net/) - Fuse (the Free Unix Spectrum Emulator) is a ZX Spectrum emulator for Unix.
+- [![Open-Source Software][oss icon]](https://sourceforge.net/p/fuse-emulator/fuse/ci/master/tree/) [Fuse](https://fuse-emulator.sourceforge.net/) - Fuse (the Free Unix Spectrum Emulator) is a ZX Spectrum emulator for Unix.
 - [![Open-Source Software][oss icon]](https://github.com/GNOME/gnome-video-arcade) [GNOME Video Arcade](https://wiki.gnome.org/action/show/Apps/GnomeVideoArcade?action=show&redirect=GnomeVideoArcade) - GNOME Video Arcade is a simple Mame frontend for any freedesktop.org compliant desktop environment.
 - [![Open-Source Software][oss icon]](https://github.com/mamedev/mame) [MAME](http://mamedev.org/) - MAME is an Arcade Cabinet emulator that strives for accuracy, and can play a huge number of different arcade games.
 - [![Open-Source Software][oss icon]](https://github.com/0ldsk00l/nestopia) [nestopia](http://0ldsk00l.ca/nestopia/) - nestopia is a Nintendo Entertainment System/Famicon emulator.
@@ -406,7 +406,7 @@ _更新：上发布，中文版阅读地址戳[这里](https://alim0x.gitbooks.i
 
 - ![Open-Source Software][oss icon] [Tales of Maj'Eyal](https://te4.org/) - Tales of Maj’Eyal (ToME) is a free, open source roguelike RPG, featuring tactical turn-based combat and advanced character building.
 - ![Open-Source Software][oss icon] [Zelda Classic](http://www.zeldaclassic.com/) - A tribute to Nintendo's The Legend of Zelda with additional quests, items and challenges.
-- ![Open-Source Software][oss icon] [Zelda: Mystery of Solarus DX](http://www.solarus-games.org) - A direct sequel to The Legend of Zelda: A Link to the Past on the SNES, using the same graphics and game mechanisms.
+- ![Open-Source Software][oss icon] [Zelda: Mystery of Solarus DX](https://www.solarus-games.org) - A direct sequel to The Legend of Zelda: A Link to the Past on the SNES, using the same graphics and game mechanisms.
 
 #### RTS
 
@@ -435,19 +435,19 @@ _更新：上发布，中文版阅读地址戳[这里](https://alim0x.gitbooks.i
 - [![Open-Source Software][oss icon]](https://github.com/lettier/gifcurry) [Gifcurry](https://lettier.github.io/gifcurry/) - Your open source video to GIF maker built with Haskell.
 - [gThumb](https://wiki.gnome.org/Apps/gthumb) - gThumb 是一款图片查看和浏览器（它还包含一个导入工具，用于从相机导入照片）。
 - [![Open-Source Software][oss icon]](https://cgit.kde.org/gwenview.git/tree//?) [gwenview](https://userbase.kde.org/Gwenview) - KDE 桌面简单但强大的图片查看器和管理工具。
-- [Hugin](http://hugin.sourceforge.net/) - 基于 Panorama Tools 的一款易用的跨平台全景图像工具链。
+- [Hugin](https://hugin.sourceforge.net/) - 基于 Panorama Tools 的一款易用的跨平台全景图像工具链。
 - [![Open-Source Software][oss icon]](https://github.com/inkscape/inkscape) [Inkscape](https://inkscape.org/en/) - 不管你是插画家，设计师，web 设计师还是仅仅是需要创建一些矢量图像，它都是一款强大，免费的设计工具
 - [Krita](https://krita.org/en/) - 面向概念艺术家，数字画家以及插画艺术家的开源软件。
 - [KColorChooser](https://kde.org/applications/graphics/org.kde.kcolorchooser) - KColorChooser 是 KDE Plasma 桌面套件中的取色器工具。
 - [![Open-Source Software][oss icon]](https://github.com/OpenShot/openshot-qt) [OpenShot](http://www.openshot.org/) - OpenShot 是一款免费，易用，功能丰富的 Linxu 视频编辑器。
-- [![Open-Source Software][oss icon]](https://gitlab.gnome.org/GNOME/pitivi) [Pitivi](http://www.pitivi.org/) - 一款带有漂亮直观的用户界面的免费视频编辑器，有干净的代码库和出色的社区。
+- [![Open-Source Software][oss icon]](https://gitlab.gnome.org/GNOME/pitivi) [Pitivi](https://www.pitivi.org/) - 一款带有漂亮直观的用户界面的免费视频编辑器，有干净的代码库和出色的社区。
 - [Radiance](http://www.radiance-online.org/) - Radiance - 一款经过验证的光照模拟工具
 - [![Open-Source Software][oss icon]](https://github.com/mltframework/shotcut) [Shotcut](https://www.shotcut.org/) - Shotcut 是一款免费，开源，跨平台的视频编辑器。
 - [Shotwell](https://wiki.gnome.org/Apps/Shotwell) - Shotwell 是 GNOME 3 的图片管理器。
 - [StopMotion](http://linuxstopmotion.org/) - Linux Stopmotion 是一款免费，开源的定格动画创作应用。它可以帮你捕捉和编辑你动画的帧，并导出为一个单独的文件。
 - [Xara Extreme](http://www.xaraxtreme.org/) - Xara Xtreme for Linux 是一款强大，通用，适用于 Unix 平台（包括 Linux， FreeBSD）的图形处理程序。
 - [Lightworks](https://www.lwks.com/) - 专业的非线性视频编辑程序，有免费版本可用
-- [![Open-Source Software][oss icon]](http://git.finalrewind.org/feh) [Feh](https://feh.finalrewind.org/) - 轻量且快速的图片查看器。
+- [![Open-Source Software][oss icon]](https://git.finalrewind.org/feh) [Feh](https://feh.finalrewind.org/) - 轻量且快速的图片查看器。
 - [![Open-Source Software][oss icon]](https://github.com/GNOME/gimp) [GIMP](https://www.gimp.org/downloads/) - GIMP 是一个自由分发的程序，可以进行照片修版，图像合成，图像编辑等操作
 - [![Open-Source Software][oss icon]](http://www.graphicsmagick.org/) [GraphicsMagick](http://www.graphicsmagick.org/) - GraphicsMagick is the swiss army knife of image processing.
 - [![Open-Source Software][oss icon]](https://git.gnome.org/browse/gthumb/) [Heron Animation](https://heronanimation.brunolefevre.net/) - 免费的定格动画制作程序。
@@ -491,7 +491,7 @@ _更新：上发布，中文版阅读地址戳[这里](https://alim0x.gitbooks.i
 
 - [![Open-Source Software][oss icon]](https://github.com/Gnucash/) [GnuCash](https://www.gnucash.org/) - GnuCash 是一款自由的会计程序，实现了复式记账系统。它最初的目标是开发出与 Intuit, Inc. 的 Quicken 类似的功能，但它还有针对小企业会计的功能。
 - [![Open-Source Software][oss icon]](https://github.com/simonmichael/hledger) [hledger](https://hledger.org/) - 简单易用的会计工具。
-- [![Open-Source Software][oss icon]](https://code.launchpad.net/homebank) [HomeBank](http://homebank.free.fr/en/index.php) - 一款免费软件，可以管理个人账目。
+- [![Open-Source Software][oss icon]](https://code.launchpad.net/homebank) [HomeBank](https://homebank.free.fr/en/index.php) - 一款免费软件，可以管理个人账目。
 - [![Open-Source Software][oss icon]](https://github.com/KDE/kmymoney) [KMyMoney](https://kmymoney.org/) - KMyMoney 是 KDE 的一款个人金融管理器。它的操作类似 Microsoft Money 以及 Quicken。
 - [![Open-Source Software][oss icon]](https://github.com/KDE/kmymoney) [Skrooge](https://skrooge.org/) - KDE的一款个人金融管理器.
 
@@ -510,13 +510,13 @@ _更新：上发布，中文版阅读地址戳[这里](https://alim0x.gitbooks.i
 - [![Open-Source Software][oss icon]](https://github.com/yihui/lyx) [LyX](http://www.lyx.org/) - 成熟的 LaTeX 渲染文档编辑器。
 - [![Open-Source Software][oss icon]](https://www.tug.org/texlive/build.html) [TexLive](https://www.tug.org/texlive/) - TeX Live 是个轻松获取和运行 TeX 文档生产系统的好方式。
 - [![Open-Source Software][oss icon]](https://savannah.gnu.org/projects/texmacs) [TeXmacs](http://www.texmacs.org/) - 一款所见即所得的科学文本编辑器，并可用作一系列计算机代数系统的前端。
-- [Texmaker](http://www.xm1math.net/texmaker/) - 免费跨平台的 LaTeX 编辑器。
+- [Texmaker](https://www.xm1math.net/texmaker/) - 免费跨平台的 LaTeX 编辑器。
 - [![Open-Source Software][oss icon]](https://github.com/texstudio-org/texstudio) [TeXstudio](https://www.texstudio.org/) - TeXstudio 的目标是让写 LaTex 更简单更舒服。
 - [![Open-Source Software][oss icon]](https://github.com/TeXworks/texworks) [TeXworks](https://www.tug.org/texworks/) - TeXworks 是一个用于编写 TeX（LaTeX、ConTeXt 等）文档的环境，具有基于统一编码、可识别 TeX 的编辑器、集成 PDF 查看器以及简洁的界面，适合普通用户和非技术用户使用。
 
 #### Markdown
 
-- [![Open-Source Software][oss icon]](http://github.com/wereturtle/ghostwriter) [Ghost Writer](https://ghostwriter.kde.org/) - 适用于 Windows 和 Linux 的专注性 Markdown 编辑器。
+- [![Open-Source Software][oss icon]](https://github.com/wereturtle/ghostwriter) [Ghost Writer](https://ghostwriter.kde.org/) - 适用于 Windows 和 Linux 的专注性 Markdown 编辑器。
 - [![Open-Source Software][oss icon]](https://github.com/fabiocolacio/Marker) [Marker](https://github.com/fabiocolacio/Marker) - Marker 是一款使用 GTK+-3.0 制作的 Linux Markdown 编辑器。
 - [![Open-Source Software][oss icon]](https://github.com/marktext/marktext) [MarkText](https://github.com/marktext/marktext) - 一款简洁的文本编辑器，致力于提高写作效率。
 - [![Open-Source Software][oss icon]](https://github.com/jamiemcg/remarkable) [Remarkable](https://remarkableapp.github.io/) - 一款 GFM 变体的功能强大的 Markdown 编辑器。
@@ -525,7 +525,7 @@ _更新：上发布，中文版阅读地址戳[这里](https://alim0x.gitbooks.i
 
 #### 小说写作
 
-- [![Open-Source Software][oss icon]](https://github.com/andreafeccomandi/bibisco) [Bibisco](http://www.bibisco.com/) - 一款注重思想和人物的小说写作软件。
+- [![Open-Source Software][oss icon]](https://github.com/andreafeccomandi/bibisco) [Bibisco](https://www.bibisco.com/) - 一款注重思想和人物的小说写作软件。
 - [![Open-Source Software][oss icon]](https://github.com/olivierkes/manuskript) [Manuskript](https://www.theologeek.ch/manuskript/) - 对于喜欢在写作前组织和计划的作家来说，Manuskript 是一个完美的工具。
 - [![Open-Source Software][oss icon]](https://github.com/jacquetc/skribisto) [Skribisto](www.skribisto.eu) - Software for writers- [![Open-Source Software][oss icon]](https://github.com/scribusproject/scribus) [Scribus](https://www.scribus.net/downloads/) - Scribus 是一款桌面出版应用程序。
 - [![Open-Source Software][oss icon]](https://github.com/trelby/trelby) [Trelby](https://www.trelby.org/) - 简单、快速且布局优雅的工具，使剧本创作变得简单。
@@ -545,7 +545,7 @@ _更新：上发布，中文版阅读地址戳[这里](https://alim0x.gitbooks.i
 - [![Open-Source Software][oss icon]](https://launchpad.net/docky/+download) [Docky](www.go-docky.com/) -Docky 是一款成熟的 dock 应用，让打开常用应用和管理窗口变得更加简单和快速。
 - [f.lux](https://justgetflux.com/linux.html) - 根据光线自动调节你的电脑屏屏幕显示。
 - [Go For It](http://manuel-kehl.de/projects/go-for-it/) - Go For It! 是一款简单又时尚的生产力工具，主打待办清单，结合定时器让你专注于当前的任务。
-- [![Open-Source Software][oss icon]](https://github.com/thezbyg/gpick) [Gpick](http://www.gpick.org/) - Gpick 让你可以从桌面任何地方取色，并且它还提供一些其它的高级特性！
+- [![Open-Source Software][oss icon]](https://github.com/thezbyg/gpick) [Gpick](https://www.gpick.org/) - Gpick 让你可以从桌面任何地方取色，并且它还提供一些其它的高级特性！
 - [![Open-Source Software][oss icon]](https://github.com/mohamed-aziz/mytodo) [My Todo](https://github.com/mohamed-aziz/mytodo) - Mytodo 是一款开源的待办事项程序，让你能够掌控一切。
 - [My Weather Indicator](http://ubuntuhandbook.org/index.php/2016/04/weather-indicator-desktop-widget-ubuntu-16-04/) - Ubuntu 下的天气指示器和插件。
 - [![Open-Source Software][oss icon]](https://sourceforge.net/p/nevernote/code/ci/master/tree/) [NixNote](https://sourceforge.net/projects/nevernote/) - EverNote 开源客户端。
@@ -558,7 +558,7 @@ _更新：上发布，中文版阅读地址戳[这里](https://alim0x.gitbooks.i
 - [![Open-Source Software][oss icon]](https://github.com/jonls/redshift) [Redshift](http://jonls.dk/redshift/) - Redshift 根据你的周边调整你屏幕的色温。当你夜晚在屏幕前工作时，它也许能帮助你减少对眼睛的伤害。
 - [![Open-Source Software][oss icon]](https://launchpad.net/shutter/) [Shutter](http://shutter-project.org/) - Shutter 基于 Linux 的系统上（比如 Ubuntu）的一款功能丰富的截屏软件。
 - [Simplenote](https://simplenote.com/) - 跨平台笔记软件。Evernote 的竞争者。
-- [![Open-Source Software][oss icon]](http://www.speedcrunch.org/) [SpeedCrunch](http://www.speedcrunch.org/) - 一个漂亮，开源，高精度的科学计算器。
+- [![Open-Source Software][oss icon]](https://www.speedcrunch.org/) [SpeedCrunch](https://www.speedcrunch.org/) - 一个漂亮，开源，高精度的科学计算器。
 - [![Open-Source Software][oss icon]](https://github.com/spsdco/notes) [Springseed](https://github.com/spsdco/notes) - 面向日常用户简单又漂亮的一款笔记软件。
 - [Stickynote](https://itsfoss.com/indicator-stickynotes-windows-like-sticky-note-app-for-ubuntu/) - Linux 桌面的便利贴。
 - [![Open-Source Software][oss icon]](https://git.tasktools.org/projects) [TaskWarrior](https://taskwarrior.org/) - Taskwarrior 是一款免费，开源的的软件，它可以从命令行管理你的待办事项列表。
@@ -682,7 +682,7 @@ _更新：上发布，中文版阅读地址戳[这里](https://alim0x.gitbooks.i
 - [LastPass](https://lastpass.com/misc_download2.php) - 跨平台密码管理器。
 - [![Open-Source Software][oss icon]](http://clonezilla.org/related-links/) [Clonezilla](http://clonezilla.org/) - Clonezilla 是一款分区以及磁盘镜像/克隆程序，类似 True Image® 或 Norton Ghost®。
 - [![Open-Source Software][oss icon]](https://launchpad.net/cpug) [CPU-G](http://www.omgubuntu.co.uk/2016/09/monitor-battery-life-ubuntu-cpu-g) - 轻松监控你的 Ubuntu 笔记本的电池寿命。
-- [![Open-Source Software][oss icon]](http://github.com/wereturtle/ghostwriter) [Ghost Writer](https://ghostwriter.kde.org/) - 一款专注的 Windows 及 Linux Markdown 编辑器。
+- [![Open-Source Software][oss icon]](https://github.com/wereturtle/ghostwriter) [Ghost Writer](https://ghostwriter.kde.org/) - 一款专注的 Windows 及 Linux Markdown 编辑器。
 - [PlexyDesk](http://www.omgubuntu.co.uk/2016/09/plexydesk-widgets-linux-desktop-ppa) - Plexydesk 支持 Linux 多插件工作空间/桌面。
 
 ### 视频

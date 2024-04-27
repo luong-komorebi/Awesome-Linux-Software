@@ -505,7 +505,7 @@ _para consultar una lista más larga de software de audio oprima [aquí](https:/
 #### Emulador de videoconsola e plataformas
 
 - [![Open-Source Software][oss icon]](https://github.com/dolphin-emu/dolphin) [Dolphin Emulator](https://dolphin-emu.org/) - Dolphin es un emulador de Gamecube / Wii que te permite jugar estos juegos en Linux.
-- [![Open-Source Software][oss icon]](https://sourceforge.net/p/fuse-emulator/fuse/ci/master/tree/) [Fuse](http://fuse-emulator.sourceforge.net/) - Fuse es un emulador de espectro ZX para Linux.
+- [![Open-Source Software][oss icon]](https://sourceforge.net/p/fuse-emulator/fuse/ci/master/tree/) [Fuse](https://fuse-emulator.sourceforge.net/) - Fuse es un emulador de espectro ZX para Linux.
 - [![Open-Source Software][oss icon]](https://github.com/GNOME/gnome-video-arcade) [GNOME Video Arcade](https://wiki.gnome.org/action/show/Apps/GnomeVideoArcade?action=show&redirect=GnomeVideoArcade) - GNOME Video Arcade is a simple Mame frontend for any freedesktop.org compliant desktop environment.
   es un emulador multiplataforma para estas consolas: NES, SNES, GameBoy, GameBoy Color, Gameboy Advance, NEC PC Engine, Sega Master System y más. Esta es una guía para instalarlo en inglés. [Instalación de Higan en inglés](https://higan.readthedocs.io/en/stable/install/linux/)
 - [![Open-Source Software][oss icon]](https://github.com/mamedev/mame) [MAME](http://mamedev.org/) - MAME es un emulador de arcade que puede jugar muchos juegos antiguos de arcade.
@@ -532,7 +532,7 @@ _para consultar una lista más larga de software de audio oprima [aquí](https:/
 
 - [![Open-Source Software][oss icon]] [Tales of Maj'Eyal](https://te4.org/) - Tales of Maj’Eyal (ToME) es una exploración de mazmorras de código abierto JDR, que tiene un combate basado en turnos, y la construcción de personajes.
 - [![Open-Source Software][oss icon]] [Zelda Classic](http://www.zeldaclassic.com/) - Un homenaje al juego de Nintendo "The Legend of Zelda".
-- [![Open-Source Software][oss icon]] [Zelda: Mystery of Solarus DX](http://www.solarus-games.org) - Una secuela de "La leyenda de Zelda: un vínculo con el pasado" tiene los mismos gráficos, y utiliza la misma mecánica de juego.
+- [![Open-Source Software][oss icon]] [Zelda: Mystery of Solarus DX](https://www.solarus-games.org) - Una secuela de "La leyenda de Zelda: un vínculo con el pasado" tiene los mismos gráficos, y utiliza la misma mecánica de juego.
 
 #### Videojuego de estrategia en tiempo real
 
@@ -577,17 +577,17 @@ _para consultar una lista más larga de software de audio oprima [aquí](https:/
 - [![Open-Source Software][oss icon]](https://github.com/darktable-org/darktable) [Darktable](http://www.darktable.org/) - Darktable es una aplicación de flujo de trabajo de código abierto para fotografía y imágenes en formato RAW.
 - [![Open-Source Software][oss icon]](https://github.com/GNOME/gimp) [GIMP](https://www.gimp.org/downloads/) - Es un programa Open Source para edición de fotos, composición de imágenes y creación de imágenes.
 - [![Open-Source Software][oss icon]](http://www.graphicsmagick.org/) [GraphicsMagick](http://www.graphicsmagick.org/) - GraphicsMagick es un programa de sistema de procesamiento de imágenes que permite transformaciones y cambios en las imágenes.
-- [Hugin](http://hugin.sourceforge.net/) - Es un programa multiplataforma fácil de usar para editar y trabajar con panoramas.
+- [Hugin](https://hugin.sourceforge.net/) - Es un programa multiplataforma fácil de usar para editar y trabajar con panoramas.
 - [ImageMagik](http://www.imagemagick.org/script/index.php) - ImageMagick es un grupo de programas para la línea de comandos para modificar imágenes.
 - [![Open-Source Software][oss icon]](https://github.com/LuminanceHDR/LuminanceHDR) [Luminance HDR](https://sourceforge.net/projects/qtpfsgui/) - Luminance HDR es un programa de código abierto que proporciona un flujo de trabajo para imágenes HDR.
-- [![Open-Source Software][oss icon]](https://github.com/google-code-export/photivo) [Photivo](http://photivo.org/) - Photivo es un procesador de foto de código abierto, que puede trabajar con RAW, BMP, TIFF, JPEG, PNG, y muchos más formatos de archivo. Se puede integrar con GIMP y está diseñado para ser utilizado también con Digikam / F-Spot / Shotwell.
-- [![Open-Source Software][oss icon]](https://github.com/lbalazscs/Pixelitor) [Pixelitor](http://pixelitor.sourceforge.net/) - Pixelitor es un software de edición de imágenes de código abierto que admite capas, puede deshacer varias veces y mucho más.
+- [![Open-Source Software][oss icon]](https://github.com/google-code-export/photivo) [Photivo](https://photivo.org/) - Photivo es un procesador de foto de código abierto, que puede trabajar con RAW, BMP, TIFF, JPEG, PNG, y muchos más formatos de archivo. Se puede integrar con GIMP y está diseñado para ser utilizado también con Digikam / F-Spot / Shotwell.
+- [![Open-Source Software][oss icon]](https://github.com/lbalazscs/Pixelitor) [Pixelitor](https://pixelitor.sourceforge.net/) - Pixelitor es un software de edición de imágenes de código abierto que admite capas, puede deshacer varias veces y mucho más.
 - [![Open-Source Software][oss icon]](https://github.com/Beep6581/RawTherapee) [RawTherapee](http://rawtherapee.com/) - Es un muy buen aspecto, la aplicación de edición de fotos.
 
 #### Organizador de imágenes
 
 - [Digikam](http://www.digikam.org/) - DigiKam es una avanzada aplicación de gestión de fotos digitales.
-- [![Open-Source Software][oss icon]](http://git.finalrewind.org/feh) [Feh](https://feh.finalrewind.org/) - Un pequeño y muy rápido visor de imágenes..
+- [![Open-Source Software][oss icon]](https://git.finalrewind.org/feh) [Feh](https://feh.finalrewind.org/) - Un pequeño y muy rápido visor de imágenes..
 - [Fotoxx](http://www.kornelix.net/fotoxx/fotoxx.html) - Fotoxx es un programa de código abierto para la edición y organización de imágenes.
 - [![Open-Source Software][oss icon]](https://git.gnome.org/browse/gthumb/) [gThumb](https://wiki.gnome.org/Apps/gthumb) - gThumb es un visor de imágenes y navegador.
 - [![Open-Source Software][oss icon]](https://cgit.kde.org/gwenview.git/tree//?) [gwenview](https://userbase.kde.org/Gwenview) - Es un sencillo y potente visualizador de imágenes y organizador para el entorno de escritorio de KDE.
@@ -601,7 +601,7 @@ _para consultar una lista más larga de software de audio oprima [aquí](https:/
 #### Vario
 
 - [![Open-Source Software][oss icon]](https://github.com/HandBrake/HandBrake) [Handbrake](https://handbrake.fr/) - HandBrake es una herramienta para convertir casi cualquier tipo de formato de vídeo a otro, y puede utilizar una variedad de codecs para hacerlo.
-- [![Open-Source Software][oss icon]](http://potrace.sourceforge.net/#downloading) [Potrace](http://potrace.sourceforge.net/) - Potrace es una herramienta para rastrear y transformar un mapa de bits en una imagen escalable.
+- [![Open-Source Software][oss icon]](https://potrace.sourceforge.net/#downloading) [Potrace](https://potrace.sourceforge.net/) - Potrace es una herramienta para rastrear y transformar un mapa de bits en una imagen escalable.
 - [![Open-Source Software][oss icon]](https://www.radiance-online.org/download-install/radiance-source-code) [Radiance](http://www.radiance-online.org/) - Radiance Una herramienta de simulación de iluminación que es de código abierto.
 - [![Open-Source Software][oss icon]](https://github.com/terkelg/ramme) [Ramme](https://github.com/terkelg/ramme) - Una aplicación no oficial de Instagram.
 - [![Open-Source Software][oss icon]](https://launchpad.net/rapid/pyqt/0.9.0b2) [Rapid Photo Downloader](http://damonlynch.net/rapid/download.html) - Rapid Photo Downloader es un programa que facilita la importación de fotos desde una cámara o Smartphone.
@@ -629,7 +629,7 @@ _para consultar una lista más larga de software de audio oprima [aquí](https:/
 
 #### Transmisión
 
-- [![Open-Source Software][oss icon]](https://sourceforge.net/projects/minidlna) [ReadyMedia](http://minidlna.sourceforge.net/) - El programa se llamaba **MiniDLNA** pero es un software de servidor de medios simple y rápido. Está diseñado para trabajar con clientes DLNA / UPnP-AV. Puede servir imágenes, música y video a teléfonos inteligentes, televisores, computadoras y algunas consolas de juegos.
+- [![Open-Source Software][oss icon]](https://sourceforge.net/projects/minidlna) [ReadyMedia](https://minidlna.sourceforge.net/) - El programa se llamaba **MiniDLNA** pero es un software de servidor de medios simple y rápido. Está diseñado para trabajar con clientes DLNA / UPnP-AV. Puede servir imágenes, música y video a teléfonos inteligentes, televisores, computadoras y algunas consolas de juegos.
 
 #### Editor de video
 
@@ -638,7 +638,7 @@ _para consultar una lista más larga de software de audio oprima [aquí](https:/
 - [![Open-Source Software][oss icon]](https://github.com/KDE/kdenlive) [Kdenlive](https://kdenlive.org/) - Kdenlive es un editor de vídeo no lineal, que es potente y muy capaz.
 - [![Nonfree][money icon] [Lightworks](https://www.lwks.com/) - Es un software de edición de vídeo profesional no lineal que también tiene una versión gratuita.
 - [![Open-Source Software][oss icon]](https://github.com/OpenShot/openshot-qt) [OpenShot](http://www.openshot.org/) - OpenShot es un editor de video gratuito y fácil de usar para Linux.
-- [![Open-Source Software][oss icon]](https://gitlab.gnome.org/GNOME/pitivi) [Pitivi](http://www.pitivi.org/) - es un editor de video gratuito que tiene una interfaz de usuario hermosa y fácil de usar. Tiene una comunidad muy amigable.
+- [![Open-Source Software][oss icon]](https://gitlab.gnome.org/GNOME/pitivi) [Pitivi](https://www.pitivi.org/) - es un editor de video gratuito que tiene una interfaz de usuario hermosa y fácil de usar. Tiene una comunidad muy amigable.
 - [![Open-Source Software][oss icon]](https://github.com/mltframework/shotcut) [Shotcut](https://www.shotcut.org/) - Shotcut es un editor de video multiplataforma de código abierto que soporta cientos de formatos de archivo de video y audio.
 - [![Open-Source Software][oss icon]](https://github.com/ozmartian/vidcutter) [Vidcutter](http://vidcutter.ozmartians.com/) - Una plataforma multiplataforma basada en QT5 diseña para la edición de vídeo pequeña y fácil.
 
@@ -682,7 +682,7 @@ _para consultar una lista más larga de software de audio oprima [aquí](https:/
 #### Contabilidad
 
 - [![Open-Source Software][oss icon]](https://github.com/Gnucash/) [GnuCash](https://www.gnucash.org/) - GnuCash es un software de código abierto que es un sistema de contabilidad. Está diseñado para ser similar a Intuit Quicken.
-- [![Open-Source Software][oss icon]](https://code.launchpad.net/homebank) [HomeBank](http://homebank.free.fr/en/index.php) - HomeBank es un software gratuito que lo ayudará a administrar su contabilidad personal.
+- [![Open-Source Software][oss icon]](https://code.launchpad.net/homebank) [HomeBank](https://homebank.free.fr/en/index.php) - HomeBank es un software gratuito que lo ayudará a administrar su contabilidad personal.
 - [![Open-Source Software][oss icon]](https://github.com/KDE/kmymoney) [KMyMoney](https://kmymoney.org/) - KMyMoney es un administrador de finanzas personales creado por el proyecto KDE.
 - [![Open-Source Software][oss icon]](https://cgit.kde.org/skrooge.git) [Skrooge](https://skrooge.org/) - Un gerente de finanzas personales para el escritorio de KDE.
 
@@ -700,18 +700,18 @@ _para consultar una lista más larga de software de audio oprima [aquí](https:/
 - [![Open-Source Software][oss icon]](https://github.com/yihui/lyx) [LyX](http://www.lyx.org/) - Un editor de documentos que puede procesar archivos LaTex.
 - [![Open-Source Software][oss icon]](https://www.tug.org/texlive/build.html) [TexLive](https://www.tug.org/texlive/) - TeX Live proporciona una manera fácil de crear un sistema de producción de documentos "Tex".
 - [![Open-Source Software][oss icon]](https://savannah.gnu.org/projects/texmacs) [TeXmacs](http://www.texmacs.org/) - Un editor de texto científico gratuito, está inspirado en GNU Emacs y TeX.
-- [![Open-Source Software][oss icon]](http://www.xm1math.net/texmaker/download.html) [Texmaker](http://www.xm1math.net/texmaker/) - Un editor código abierto multiplataforma LaTeX.
+- [![Open-Source Software][oss icon]](https://www.xm1math.net/texmaker/download.html) [Texmaker](https://www.xm1math.net/texmaker/) - Un editor código abierto multiplataforma LaTeX.
 - [![Open-Source Software][oss icon]](https://github.com/TeXworks/texworks) [TeXworks](https://www.tug.org/texworks/) - TeXworks es un entorno para la creación de archivos de documentos TeX. Incluye un visor de PDF, y tiene una interfaz fácil de usar.
 
 #### Markdown
 
-- [![Open-Source Software][oss icon]](http://github.com/wereturtle/ghostwriter). [Ghost Writer](https://ghostwriter.kde.org/) - Un editor de Markdown que no tiene distracciones. Funciona en Windows y Linux.
+- [![Open-Source Software][oss icon]](https://github.com/wereturtle/ghostwriter). [Ghost Writer](https://ghostwriter.kde.org/) - Un editor de Markdown que no tiene distracciones. Funciona en Windows y Linux.
 - [![Open-Source Software][oss icon]](https://github.com/jamiemcg/remarkable) [Remarkable](https://remarkableapp.github.io/) - Un editor de Markdown capaz de usar una versión diferente de GitHub Markdown.
 - [Typora](https://typora.io/) - Un editor de Markdown mínimo y fácil de usar.
 
 #### Escribiendo una Novela
 
-- [![Open-Source Software][oss icon]](https://github.com/andreafeccomandi/bibisco) [Bibisco](http://www.bibisco.com/) - Un programa para escribir novelas que se centra en la creación de ideas y personajes.
+- [![Open-Source Software][oss icon]](https://github.com/andreafeccomandi/bibisco) [Bibisco](https://www.bibisco.com/) - Un programa para escribir novelas que se centra en la creación de ideas y personajes.
 - [![Open-Source Software][oss icon]](https://github.com/olivierkes/manuskript) [Manuskript](http://www.theologeek.ch/manuskript/) - Manuskript es una herramienta para ayudar a un escritor a organizar y planificar antes de escribir.
 - [![Open-Source Software][oss icon]](https://github.com/jacquetc/skribisto) [Skribisto](www.skribisto.eu) - Software for writers
 - [![Open-Source Software][oss icon]](https://github.com/scribusproject/scribus) [Scribus](https://www.scribus.net/downloads/) - Es un programa para ayudar a publicar libros. Puede gestionar la tipografía y la preparación de archivos para equipos de configuración de imágenes.
@@ -745,9 +745,9 @@ _para consultar una lista más larga de software de audio oprima [aquí](https:/
 - [Ambient Noise](https://itsfoss.com/ambient-noise-music-player-ubuntu/) - Un generador de ruido ambiental para linux.
 - [![Open-Source Software][oss icon]](https://github.com/hluk/CopyQ) [CopyQ](http://hluk.github.io/CopyQ/) -CopyQ es un gestor de portapapeles que es muy avanzado y le permite editar y script elementos en él.
 - [f.lux](https://justgetflux.com/linux.html) - Un programa que enrojezca su pantalla para permitirle dormir mejor.
-- [![Open-Source Software][oss icon]](https://github.com/thezbyg/gpick) [Gpick](http://www.gpick.org/) - Gpick es un sampler de color que le permite elegir un color de cualquier cosa abierta en su escritorio.
+- [![Open-Source Software][oss icon]](https://github.com/thezbyg/gpick) [Gpick](https://www.gpick.org/) - Gpick es un sampler de color que le permite elegir un color de cualquier cosa abierta en su escritorio.
 - [![Open-Source Software][oss icon]](https://github.com/jonls/redshift) [Redshift](http://jonls.dk/redshift/) - Redshift Ajuste la temperatura de color de su pantalla para que coincida con su entorno. Esto ayuda a proteger los ojos por la noche.
-- [![Open-Source Software][oss icon]](http://www.speedcrunch.org/) [SpeedCrunch](http://www.speedcrunch.org/) - Una calculadora de código abierto de alta precisión.
+- [![Open-Source Software][oss icon]](https://www.speedcrunch.org/) [SpeedCrunch](https://www.speedcrunch.org/) - Una calculadora de código abierto de alta precisión.
 - [![Open-Source Software][oss icon]](https://github.com/jml/undistract-me) [Undistract me](https://github.com/jml/undistract-me) - Notifica al usuario cuando se ha completado un comando de línea de comandos muy largo.
 - [Xmind](http://www.xmind.net/) - Una herramienta para el mapeo de la mente.
 
@@ -761,7 +761,7 @@ _para consultar una lista más larga de software de audio oprima [aquí](https:/
 - [![Open-Source Software][oss icon]](https://github.com/notepadqq/notepadqq) [Notepadqq](https://notepadqq.com/s/) - Notepadqq es un Notepad ++ como editor para Linux.
 - [![Open-Source Software][oss icon]](https://github.com/nuttyartist/notes) [Notes](http://www.get-notes.com/) - Una simple aplicación de toma de notas para Linux.
 - [![Open-Source Software][oss icon]](https://github.com/patrikx3/onenote) [OneNote](https://www.corifeus.com/onenote) - Un programa de toma de notas escrito en Electron para Linux. Es un cliente de escritorio para OneNote.
-- [![Open-Source Software][oss icon]](https://git.savannah.gnu.org/cgit/emacs/org-mode.git/) [Org mode](http://orgmode.org/) - Org mode un programa para mantener notas, mantener listas de trabajo, planear proyectos y crear documentos.
+- [![Open-Source Software][oss icon]](https://git.savannah.gnu.org/cgit/emacs/org-mode.git/) [Org mode](https://orgmode.org/) - Org mode un programa para mantener notas, mantener listas de trabajo, planear proyectos y crear documentos.
 - [![Open-Source Software][oss icon]](https://github.com/Aseman-Land/Papyrus) [Papyrus](http://aseman.co/en/products/papyrus/) - Papyrus Es un organizador de notas que se centra en la seguridad, y una interfaz fácil de usar.
 - [![Open-Source Software][oss icon]](https://github.com/pbek/QOwnNotes) [QOwnNotes](https://github.com/pbek/QOwnNotes) - QOwnNotes es un administrador de listas de archivos, bloc de notas y tareas de texto sin formato que admite el descuento y puede integrarse con Nextcloud / Owncloud.
 - [Simplenote](https://simplenote.com/) - Un organizador de notas multiplataforma, que es un competidor de Evernote.
