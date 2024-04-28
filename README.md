@@ -802,6 +802,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [![Open-Source Software][oss icon]](https://github.com/CapitaineJSparrow/steam-repo-manager) [Steam Deck Repo Manager](https://steamdeckrepo.com/) - Install boot videos to your Steam Deck using Steam Deck Repo website API.
 - [![Open-Source Software][oss icon]](https://github.com/SteamGridDB/steam-rom-manager) [Steam ROM Manager](https://steamgriddb.github.io/steam-rom-manager/) - An app for managing ROMs in Steam.
 - [![Open-Source Software][oss icon]](https://github.com/sonic2kk/steamtinkerlaunch) [SteamTinkerLaunch](https://github.com/sonic2kk/steamtinkerlaunch) - Linux wrapper tool for use with the Steam client for custom launch options and 3rd party programs.
+- [![Open-Source Software][oss icon]](https://github.com/fastrizwaan/WineZGUI/) [WineZGUI](https://github.com/fastrizwaan/WineZGUI/) - GUI Frontend using Zenity for running Windows games with Wine that allows you to create, manage, and share game prefixes.
 
 ##### W.I.N.E.
 
