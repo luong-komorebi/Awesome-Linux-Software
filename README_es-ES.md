@@ -330,7 +330,7 @@ _para consultar una lista más larga de software de audio oprima [aquí](https:/
 - [Insomnia](https://insomnia.rest/) - Un simple y hermoso, cliente del REST API.
 - [![Open-Source Software][oss icon]](https://jupyter.readthedocs.io/en/latest/install.html) [Jupyter Notebook](https://jupyter.org/) - Un programa de código abierto que proporciona información interactiva de datos e información científica sobre más de 40 lenguajes de programación.
 - [![Open-Source Software][oss icon]](http://meldmerge.org/development.html) [Meld](http://meldmerge.org/) - Meld es una herramienta de modelado de diferencias visuales diseñada para ayudar a comparar archivos, directorios y proyectos controlados por versiones.
-- [Mockingbot](https://mockingbot.in/?) - Mockingbot es una herramienta de prototipado simple de utilizar.
+- [Mockitt](https://mockitt.wondershare.com/home.html) - Mockitt es una herramienta de prototipado simple de utilizar.
 - [![Open-Source Software][oss icon]](https://github.com/evolus/pencil) [Pencil](http://pencil.evolus.vn/) - Una herramienta de creación de prototipos GUI de código abierto, que funciona en diferentes plataformas.
 - [![Open-Source Software][oss icon]](https://github.com/stuartlangridge/ColourPicker) [Pick](http://kryogenix.org/code/pick/) - Un selector de color.
 - [Postman](https://www.getpostman.com) - Postman, permite a un usuario desarrollar y probar API rápidamente.
