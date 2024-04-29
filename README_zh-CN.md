@@ -288,7 +288,7 @@ _更新：上发布，中文版阅读地址戳[这里](https://alim0x.gitbooks.i
 - [Google Earth](https://itsfoss.com/install-google-earth-ubunu/) - Google Earth 是一款虚拟地球，地图以及地理信息程序。
 - [GPeriodic](http://gperiodic.seul.org/) - GPeriodic 是一个 Linux 上的元素周期表应用。
 
-- [KDE Edu Suite](https://edu.kde.org/) - 基于 KDE 技术的免费教育软件。
+- [KDE Edu Suite](https://apps.kde.org/education/) - 基于 KDE 技术的免费教育软件。
 - [![Open-Source Software][oss icon]](https://github.com/KDE/ktouch) [Ktouch](https://github.com/KDE/ktouch) - KTouch 是一款学习和练习触摸输入的程序。
 - [MAPLE](http://www.maplesoft.com/products/maple/) - Maple 是一款数学软件，它结合了世界上最强大的数学引擎以及一个让它十分易于分析，探索，可视化以及解决数学问题的界面。
 - [MATLAB](http://www.mathworks.com/products/matlab/?requestedDomain=www.mathworks.com) - MATLAB 平台专为剞劂工程和科学问题优化。MATLAB 让你的想法不仅仅停留在桌面。你可以在巨大的数据集上进行你的分析并按比例增加你的集群和云。

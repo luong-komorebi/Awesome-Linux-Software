@@ -403,7 +403,7 @@ _para consultar una lista más larga de software de audio oprima [aquí](https:/
 - [![Open-Source Software][oss icon]](https://gitlab.com/gnukhata) [GNUKhata](http://www.gnukhata.in/) - Software de cuenta que es de código abierto.
 - [Google Earth](https://itsfoss.com/install-google-earth-ubunu/) - Google Earth es un programa que te permite ver un globo virtual con mapas y características geográficas.
 - [![Open-Source Software][oss icon]](http://gperiodic.seul.org/cvs/) [GPeriodic](http://gperiodic.seul.org/) - GPeriodic es un programa que muestra una tabla periódica, para Linux.
-- [KDE Edu Suite](https://edu.kde.org/) - Un software libre diseñado para la educación. Está diseñado con KDE.
+- [KDE Edu Suite](https://apps.kde.org/education/) - Un software libre diseñado para la educación. Está diseñado con KDE.
 - [![Open-Source Software][oss icon]](https://sourceforge.net/projects/klavaro) [Klavaro](http://klavaro.sourceforge.net/en/index.html) - Un programa que te enseña cómo escribir sin mirar el teclado. También le puede enseñar cómo escribir en las nuevas disposiciones de teclado.
 - [![Open-Source Software][oss icon]](https://github.com/KDE/ktouch) [Ktouch](https://github.com/KDE/ktouch) - KTouch es un programa que te enseña a escribir sin mirar el teclado.
 - ![Nonfree][money icon] [MAPLE](http://www.maplesoft.com/products/maple/) - Maple es un software de matemáticas que es muy capaz, y tiene una interfaz fácil de usar para ayudar a explicar los problemas de matemáticas.
@@ -581,7 +581,7 @@ _para consultar una lista más larga de software de audio oprima [aquí](https:/
 - [ImageMagik](http://www.imagemagick.org/script/index.php) - ImageMagick es un grupo de programas para la línea de comandos para modificar imágenes.
 - [![Open-Source Software][oss icon]](https://github.com/LuminanceHDR/LuminanceHDR) [Luminance HDR](https://sourceforge.net/projects/qtpfsgui/) - Luminance HDR es un programa de código abierto que proporciona un flujo de trabajo para imágenes HDR.
 - [![Open-Source Software][oss icon]](https://github.com/google-code-export/photivo) [Photivo](https://photivo.org/) - Photivo es un procesador de foto de código abierto, que puede trabajar con RAW, BMP, TIFF, JPEG, PNG, y muchos más formatos de archivo. Se puede integrar con GIMP y está diseñado para ser utilizado también con Digikam / F-Spot / Shotwell.
-- [![Open-Source Software][oss icon]](https://github.com/lbalazscs/Pixelitor) [Pixelitor](https://pixelitor.sourceforge.net/) - Pixelitor es un software de edición de imágenes de código abierto que admite capas, puede deshacer varias veces y mucho más.
+- [![Open-Source Software][oss icon]](https://github.com/lbalazscs/Pixelitor) [Pixelitor](https://pixelitor.sourceforge.io/) - Pixelitor es un software de edición de imágenes de código abierto que admite capas, puede deshacer varias veces y mucho más.
 - [![Open-Source Software][oss icon]](https://github.com/Beep6581/RawTherapee) [RawTherapee](http://rawtherapee.com/) - Es un muy buen aspecto, la aplicación de edición de fotos.
 
 #### Organizador de imágenes
@@ -891,7 +891,7 @@ _para consultar una lista más larga de software de audio oprima [aquí](https:/
 - [![Open-Source Software][oss icon]](https://github.com/OzymandiasTheGreat/emoji-keyboard) [Emoji Keyboard](https://github.com/OzymandiasTheGreat/emoji-keyboard) - Un teclado diseñado para emojis.
 - [![Open-Source Software][oss icon]](https://github.com/SpiderOak/Encryptr) [Encryptr](https://spideroak.com/personal/encryptr) - Encryptr es un fácil de usar e-wallet y administrador de contraseñas.
 - [Enpass](https://www.enpass.io/) - Enpass es un administrador de contraseñas y también puede almacenar otra información importante.
-- [![Open-Source Software][oss icon]](https://github.com/resin-io/etcher) [Etcher](https://www.balena.io/etcher/) - Flash OS a tarjetas SD y unidades USB de forma segura y sencilla.
+- [![Open-Source Software][oss icon]](https://github.com/resin-io/etcher) [Etcher](https://etcher.balena.io/) - Flash OS a tarjetas SD y unidades USB de forma segura y sencilla.
 - [![Open-Source Software][oss icon]](https://github.com/FreeRDP/FreeRDP) [FreeRDP](http://www.freerdp.com/) - FreeRDP es una implementación de código abierto del "Remote Desktop Protocol (RDP)".
 - [GD map](https://gdmap.sourceforge.net/) - Un programa que ayuda a visualizar el uso del disco.
 - [![Open-Source Software][oss icon]](http://simmesimme.github.io/news/2016/08/24/gnome-pie-069) [GnomePie](http://simmesimme.github.io/news/2016/08/24/gnome-pie-069) - Un lanzador de aplicaciones que es un círculo.
@@ -910,7 +910,7 @@ _para consultar una lista más larga de software de audio oprima [aquí](https:/
 - [![Open-Source Software][oss icon]](https://github.com/mobile-shell/mosh) [Mosh](https://mosh.org/#getting) - Mosh es una aplicación de terminal remoto que puede trabajar con conectividad intermitente.
 - [![Open-Source Software][oss icon]](https://github.com/jiahaog/nativefier) [Nativefier](https://github.com/jiahaog/nativefier) - Un programa que puede convertir cualquier sitio web en una aplicación de escritorio.
 - [![Open-Source Software][oss icon]](https://g.blicky.net/ncdu.git/) [Ncdu](https://dev.yorhel.nl/ncdu) - Un analizador de uso de disco que utiliza Ncurses.
-- [![Open-Source Software][oss icon]](https://github.com/firehol/netdata) [NetData](https://my-netdata.io) - Un monitor de rendimiento y salud basado en web de próxima generación para servidores físicos y virtuales.
+- [![Open-Source Software][oss icon]](https://github.com/firehol/netdata) [NetData](https://www.netdata.cloud/) - Un monitor de rendimiento y salud basado en web de próxima generación para servidores físicos y virtuales.
 - [![Open-Source Software][oss icon]](https://sourceforge.net/projects/peaextractor/) [PeaExtractor](http://www.peazip.org/peaextractor-unace-unrar-unzip.html) Una herramienta diseñada para descomprimir archivos que es muy fácil de usar.
 - [![Open-Source Software][oss icon]](https://sourceforge.net/projects/peautils/) [PeaUtilities](http://www.peazip.org/peautils-hash-secure-delete.html) PeaUtils es un conjunto de utilidades de administración de archivos, que puede hacer hash checksum, borrar de forma segura y comparar archivos.
 - [![Open-Source Software][oss icon]](https://sourceforge.net/projects/peazip/files/Resources/) [Peazip](http://www.peazip.org/) - Una herramienta que puede descomprimir una gran variedad de formatos de compresión.

@@ -363,7 +363,7 @@ Duas versões chinesas desta lista estão disponíveis [aqui](https://github.com
 - [GNUKhata](http://www.gnukhata.in/) - Open source accounting software. [![Open-Source Software][oss icon]](https://gitlab.com/gnukhata)
 - [Google Earth](https://itsfoss.com/install-google-earth-ubunu/) - Google Earth is a virtual globe, map and geographical information program.
 - [GPeriodic](http://gperiodic.seul.org/) - GPeriodic is a periodic table application for Linux. [![Open-Source Software][oss icon]](http://gperiodic.seul.org/cvs/)
-- [KDE Edu Suite](https://edu.kde.org/) - Free Educational Software based on the KDE technologies.
+- [KDE Edu Suite](https://apps.kde.org/education/) - Free Educational Software based on the KDE technologies.
 - [Klavaro](http://klavaro.sourceforge.net/en/index.html) - A touch typing tutor very flexible, supporting customizable keyboard layouts. You can edit and save new or unknown keyboard layouts, as the basic course was designed to not depend on specific ones. Also, there are some charts about the learning process. [![Open-Source Software][oss icon]](https://sourceforge.net/projects/klavaro)
 - [Ktouch](https://github.com/KDE/ktouch) - KTouch is a program to learn and practice touch typing. [![Open-Source Software][oss icon]](https://github.com/KDE/ktouch)
 - [MAPLE](http://www.maplesoft.com/products/maple/) - Maple is math software that combines the world's most powerful math engine with an interface that makes it extremely easy to analyze, explore, visualize, and solve mathematical problems. ![Nonfree][money icon]
@@ -537,7 +537,7 @@ Duas versões chinesas desta lista estão disponíveis [aqui](https://github.com
 - [ImageMagik](http://www.imagemagick.org/script/index.php) - ImageMagick is a suite of command-line utilities for modifying and working with images.
 - [Luminance HDR](https://sourceforge.net/projects/qtpfsgui/) - Luminance HDR is an open source graphical user interface application that aims to provide a workflow for HDR imaging. [![Open-Source Software][oss icon]](https://github.com/LuminanceHDR/LuminanceHDR)
 - [Photivo](https://photivo.org/) - Photivo is a free and open source (GPL3) photo processor, handles your RAW and bitmap files (TIFF, JPEG, BMP, PNG and many more) in a non-destructive 16 bit processing pipe with gimp workflow integration and batch mode. It is intended to be used in a workflow together with digiKam/F-Spot/Shotwell and Gimp. [![Open-Source Software][oss icon]](https://github.com/google-code-export/photivo)
-- [Pixelitor](https://pixelitor.sourceforge.net/) - Pixelitor is a free and open source image editing software that supports layers, layer masks, text layers, filters, multiple undo etc. [![Open-Source Software][oss icon]](https://github.com/lbalazscs/Pixelitor)
+- [Pixelitor](https://pixelitor.sourceforge.io/) - Pixelitor is a free and open source image editing software that supports layers, layer masks, text layers, filters, multiple undo etc. [![Open-Source Software][oss icon]](https://github.com/lbalazscs/Pixelitor)
 - [RawTherapee](http://rawtherapee.com/) - A good looking but lesser known photo editing app. [![Open-Source Software][oss icon]](https://github.com/Beep6581/RawTherapee)
 
 #### Image Management
@@ -847,7 +847,7 @@ Duas versões chinesas desta lista estão disponíveis [aqui](https://github.com
 - [Emoji Keyboard](https://github.com/OzymandiasTheGreat/emoji-keyboard) - Virtual keyboard-like emoji picker for Linux. [![Open-Source Software][oss icon]](https://github.com/OzymandiasTheGreat/emoji-keyboard)
 - [Encryptr](https://spideroak.com/personal/encryptr) - Encryptr is a zero-knowledge, cloud-based e-wallet / password manager powered by Crypton. [![Open-Source Software][oss icon]](https://github.com/SpiderOak/Encryptr)
 - [Enpass](https://www.enpass.io/) - Enpass makes your life easy by securely managing your passwords and important information.
-- [![Open-Source Software][oss icon]](https://github.com/resin-io/etcher) [Etcher](https://www.balena.io/etcher/) - Flash OS images to SD cards & USB drives, safely and easily.
+- [![Open-Source Software][oss icon]](https://github.com/resin-io/etcher) [Etcher](https://etcher.balena.io/) - Flash OS images to SD cards & USB drives, safely and easily.
 - [FreeRDP](http://www.freerdp.com/) - FreeRDP é uma implementação livre do Remote Desktop Protocol (RDP). [![Open-Source Software][oss icon]](https://github.com/FreeRDP/FreeRDP)
 - [GD map](https://gdmap.sourceforge.net/) - Uma ferramenta para visualizar o uso de disco.
 - [Gloobus-Preview](https://github.com/antonio-malcolm/gloobus-preview) - It gives you a quick preview of your files. It's similar to [Sushi](https://github.com/GNOME/sushi) [![Open-Source Software][oss icon]](https://github.com/antonio-malcolm/gloobus-preview) .
@@ -867,7 +867,7 @@ Duas versões chinesas desta lista estão disponíveis [aqui](https://github.com
 - [LastPass](https://lastpass.com/misc_download2.php) - LastPass is a crossplatform freemium password management service that stores encrypted passwords in private accounts.
 - [Mosh](https://mosh.org/#getting) - Mosh is a Remote terminal application that allows roaming, supports intermittent connectivity, and provides intelligent local echo and line editing of user keystrokes. [![Open-Source Software][oss icon]](https://github.com/mobile-shell/mosh)
 - [Nativefier](https://github.com/jiahaog/nativefier) - Make any web page a desktop application [![Open-Source Software][oss icon]](https://github.com/jiahaog/nativefier)
-- [NetData](https://my-netdata.io) - Next-gen web based real-time performance and health monitoring for physical and virtual servers, containers and IoT devices. It is also a distributed `statsd` server with automatic visualization for APM (applications performance monitoring). [![Open-Source Software][oss icon]](https://github.com/firehol/netdata)
+- [NetData](https://www.netdata.cloud/) - Next-gen web based real-time performance and health monitoring for physical and virtual servers, containers and IoT devices. It is also a distributed `statsd` server with automatic visualization for APM (applications performance monitoring). [![Open-Source Software][oss icon]](https://github.com/firehol/netdata)
 - [Ncdu](https://dev.yorhel.nl/ncdu) - Disk usage analyzer with an ncurses interface. [![Open-Source Software][oss icon]](https://g.blicky.net/ncdu.git/)
 - [PeaExtractor](http://www.peazip.org/peaextractor-unace-unrar-unzip.html) A utility designed to unzip files and be as frictionless as possible, and easy to use as possible. [![Open-Source Software][oss icon]](https://sourceforge.net/projects/peaextractor/)
 - [PeaUtilities](http://www.peazip.org/peautils-hash-secure-delete.html) PeaUtils is a suite of file management utilities, including hash checksums, secure delete, and file comparisons. [![Open-Source Software][oss icon]](https://sourceforge.net/projects/peautils/)
