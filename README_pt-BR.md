@@ -775,6 +775,7 @@ Duas versões chinesas desta lista estão disponíveis [aqui](https://github.com
 - [Tcpdump](http://www.tcpdump.org/) - TCP Debugging/Capture Tool[![Open-Source Software][oss icon]](http://www.tcpdump.org/#source)
 - [![Open-Source Software][oss icon]](https://github.com/usbkey9/uktools) [Uktools](https://github.com/usbkey9/uktools) - Mantenha seu sistema atualizado com o último kernel disponível. Possibilidade de limpar o kernel antigo também.
 - [Update-IPsets](https://iplists.firehol.org) - A manager for all cybercrime IP feeds that can download, convert and install netfilter `ipsets`. [![Open-Source Software][oss icon]](https://github.com/firehol/blocklist-ipsets)
+- [LinuxPatch](https://linuxpatch.com) - LinuxPatch é uma solução gratuita de gerenciamento de patches para Linux.
 
 ### Compartilhamento de arquivos
 

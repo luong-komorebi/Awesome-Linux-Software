@@ -584,6 +584,7 @@ _更新：上发布，中文版阅读地址戳[这里](https://alim0x.gitbooks.i
 - [Tcpdump](http://www.tcpdump.org/) - TCP 调试/抓包工具。
 - [![Open-Source Software][oss icon]](https://github.com/usbkey9/uktools) [Uktools](https://github.com/usbkey9/uktools) - 保持您的系统与最新的内核可用。 也可以清理旧内核。
 - [![Open-Source Software][oss icon]](https://code.launchpad.net/gui-ufw) [GuFW](http://gufw.org/) - Linux 世界中最简单的防火墙之一。
+- [LinuxPatch](https://linuxpatch.com) - LinuxPatch 是一款免费的 Linux 补丁管理解决方案。
 
 ### 代理
 

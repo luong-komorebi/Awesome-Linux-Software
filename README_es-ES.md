@@ -818,6 +818,7 @@ _para consultar una lista más larga de software de audio oprima [aquí](https:/
 - [![Open-Source Software][oss icon]](http://www.tcpdump.org/#source) [Tcpdump](http://www.tcpdump.org/) - Una herramienta de captura y depuración de TCP.
 - [![Open-Source Software][oss icon]](https://github.com/usbkey9/uktools) [Uktools](https://github.com/usbkey9/uktools) - Mantenga su sistema actualizado con el último núcleo disponible. Posibilidad de limpiar kernel viejo también.
 - [![Open-Source Software][oss icon]](https://github.com/firehol/blocklist-ipsets) [Update-IPsets](https://iplists.firehol.org) - Un gestor de los ataques de ciberdelincuencia que puede descargar e instalar el netfilter `ipsets`.
+- [LinuxPatch](https://linuxpatch.com) - LinuxPatch es una solución gratuita de gestión de parches para Linux.
 
 ### Intercambio de archivos
 
