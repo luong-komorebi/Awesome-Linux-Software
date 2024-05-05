@@ -139,7 +139,7 @@ _更新：上发布，中文版阅读地址戳[这里](https://alim0x.gitbooks.i
 ### 聊天客户端
 
 - [![Open-Source Software][oss icon]](https://github.com/chatty/chatty) [Chatty](http://chatty.github.io/) - Chatty 是一款 Twitch 聊天客户端，它是为那些想尝试不同于 web 聊天的新事物，又不想像 IRC 客户端那样复杂或错过 Twitch 特色功能的用户准备的。
-- [Discord](https://discordapp.com/) - 为玩家准备的多合一语音文本聊天工具，免费，安全，同时支持桌面和手机。
+- [Discord](https://discord.com/) - 为玩家准备的多合一语音文本聊天工具，免费，安全，同时支持桌面和手机。
 - [Franz](http://meetfranz.com/) - Franz 是一个免费的消息应用，结合了许多聊天及消息服务到单独的一个客户端中。[![Open-Source-Software][oss icon]](https://github.com/meetfranz/franz)
 - [![Open-Source Software][oss icon]](https://github.com/stanfieldr/ghetto-skype) [GhettoSkype](https://github.com/stanfieldr/ghetto-skype) - Skype 的开源 web 封装。
 - [![Open-Source Software][oss icon]](https://github.com/gitterHQ/services) [Gitter](https://gitter.im/) - Gitter — 开发者交流的地方。Gitter 的设计目标是让社区消息，协作和发现尽可能地简单。
@@ -414,7 +414,7 @@ _更新：上发布，中文版阅读地址戳[这里](https://alim0x.gitbooks.i
 - [![Open-Source Software][oss icon]](https://sourceforge.net/p/nethack/NetHack/ci/NetHack-3.6.0/tree/) [Nethack](https://www.nethack.org/) - Open-source rogue-like with ASCII graphics.
 - [![Open-Source Software][oss icon]](https://github.com/triplea-game/triplea/) [TripleA](http://www.triplea-game.org/) - 世界著名的开源策略游戏。
 - [![Open-Source Software][oss icon]](https://github.com/Warzone2100/warzone2100) [Warzone2100](https://wz2100.net/) - 开源即时策略/即时战术游戏。
-- [![Open-Source Software][oss icon]](https://bazaar.launchpad.net/~widelands-dev/widelands/trunk/changes) [Widelands](https://wl.widelands.org/) - Widelands is a open source RTS game with singleplayer campaigns and a multiplayer mode inspired by Settlers II.
+- [![Open-Source Software][oss icon]](https://bazaar.launchpad.net/~widelands-dev/widelands/trunk/changes) [Widelands](https://www.widelands.org/) - Widelands is a open source RTS game with singleplayer campaigns and a multiplayer mode inspired by Settlers II.
 
 #### Turn Based Strategy
 
@@ -704,7 +704,7 @@ _更新：上发布，中文版阅读地址戳[这里](https://alim0x.gitbooks.i
 ### 其它
 
 - [![Open-Source Software][oss icon]](https://displaycal.net/#download) [DisplayCAL](https://displaycal.net/) - Open Source Display Calibration and Characterization powered by ArgyllCMS.
-- [![Open-Source Software][oss icon]](https://github.com/fontforge/fontforge) [FontForge](https://fontforge.github.io) - Free (libre) font editor for Windows, Mac OS X and GNU+Linux.
+- [![Open-Source Software][oss icon]](https://github.com/fontforge/fontforge) [FontForge](https://fontforge.org/) - Free (libre) font editor for Windows, Mac OS X and GNU+Linux.
 - [GrubCustomizer](https://launchpad.net/grub-customizer) - Grub Customizer 是一个让你可以配置 GRUB2/BURG 设置和启动项的图形化界面。 [![Open-Source Software][oss icon]](https://code.launchpad.net/grub-customizer)
 - [Infinality bundle & fonts](https://bohoomil.com/) - _注：Infinality 目前开发者不再维护，如果在滚动发行版上，可能不可用_。Infinality bundle & fonts 是一个开源项目，致力于让 Linux 管理员和个人用户有个轻松的方式改善字体渲染质量。
 - [![Open-Source Software][oss icon]](https://github.com/MycroftAI/mycroft-core) [Mycroft](https://github.com/MycroftAI/mycroft-core) - 给所有人的 A.I.

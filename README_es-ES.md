@@ -169,7 +169,7 @@ _para consultar una lista más larga de software de audio oprima [aquí](https:/
 
 - [![Open-Source-Software][oss icon]](hhttps://sourceforge.net/p/beebeep/code/HEAD/tree/) [BeeBEEP](http://beebeep.sourceforge.net) - BeeBEEP es un mensajero instantáneo LAN de fuente abierta. Puede hablar y compartir archivos con cualquier persona dentro de su red de área local. No necesita un servidor, simplemente descárguelo, descomprímalo e inícielo. Simple, rápido y seguro.
 - [![Open-Source Software][oss icon]](https://github.com/dino/dino) [Dino](https://dino.im) - Un cliente de mensajería instantánea jabber / XMPP que es moderno.
-- [Discord](https://discordapp.com/) - y todo en una sola voz y servicio de mensajería instantánea de texto, diseñado para los jugadores, y funciona en computadoras y teléfonos celulares.
+- [Discord](https://discord.com/) - y todo en una sola voz y servicio de mensajería instantánea de texto, diseñado para los jugadores, y funciona en computadoras y teléfonos celulares.
 - [![Open-Source Software][oss icon]](https://github.com/gitterHQ/services) [Gitter](https://gitter.im/) - Gitter, es un servicio para mensajería comunitaria, colaboración y descubrimiento de comunidades que es muy fácil de usar. Se centra en los desarrolladores.
 - [![Open-Source Software][oss icon]](https://github.com/jitsi) [Jitsi](https://jitsi.org/) - Jitsi es una aplicación de mensajería instantánea multiplataforma gratuita y de código abierto. Funciona en Windows, Linux, Mac OS X y droid.
 - [![Open-Source Software][oss icon]](https://github.com/qTox/qTox) [qTox](https://qtox.github.io/) - Un mensajero instantáneo que es seguro y puede hacer video. El programa utiliza Computación Distribuida.
@@ -540,7 +540,7 @@ _para consultar una lista más larga de software de audio oprima [aquí](https:/
 - [![Open-Source Software][oss icon]](https://sourceforge.net/p/nethack/NetHack/ci/NetHack-3.6.0/tree/) [Nethack](https://www.nethack.org/) - Un videojuego roguelike que es de código abierto y usa gráficos ASCII.
 - [![Open-Source Software][oss icon]](https://github.com/triplea-game/triplea/) [TripleA](http://www.triplea-game.org/) - Un juego de estrategia de código abierto que es como "Axis and Allies".
 - [![Open-Source Software][oss icon]](https://github.com/Warzone2100/warzone2100) [Warzone 2100](https://www.wz2100.net/) - Un juego que es de código abierto, es una estrategia en tiempo real que sucede después de una guerra nuclear.
-- [![Open-Source Software][oss icon]](https://bazaar.launchpad.net/~widelands-dev/widelands/trunk/changes) [Widelands](https://wl.widelands.org/) - Widelands es un juego de estrategia en tiempo real que tiene juego para un solo jugador y multijugador. Está inspirado en el juego: Settlers II.
+- [![Open-Source Software][oss icon]](https://bazaar.launchpad.net/~widelands-dev/widelands/trunk/changes) [Widelands](https://www.widelands.org/) - Widelands es un juego de estrategia en tiempo real que tiene juego para un solo jugador y multijugador. Está inspirado en el juego: Settlers II.
 
 #### Videojuego de estrategia por turnos
 
@@ -963,7 +963,7 @@ _para consultar una lista más larga de software de audio oprima [aquí](https:/
 ### Diverso
 
 - [![Open-Source Software][oss icon]](https://displaycal.net/#download) [DisplayCAL](https://displaycal.net/) - Una aplicación de código abierto para la calibración de monitores, con la tecnología de argyllCMS.
-- [![Open-Source Software][oss icon]](https://github.com/fontforge/fontforge) [FontForge](https://fontforge.github.io) - Una aplicación multiplataforma libre de la creación de fuentes.
+- [![Open-Source Software][oss icon]](https://github.com/fontforge/fontforge) [FontForge](https://fontforge.org/) - Una aplicación multiplataforma libre de la creación de fuentes.
 - [![Open-Source Software][oss icon]](https://code.launchpad.net/grub-customizer) [GrubCustomizer](https://launchpad.net/grub-customizer) - Grub Customizer es una interfaz gráfica para configurar los parámetros de GRUB2 / BURG.
 - [![Open-Source Software][oss icon]](https://github.com/bohoomil/fontconfig-ultimate) [Infinality bundle & fonts](https://github.com/bohoomil/fontconfig-ultimate) - _Preámbulo: Infinality no es mantenido por un desarrollador, puede que no funcione en un futuro próximo._. Infinality bundle & fonts es un proyecto de código abierto creado para administradores y usuarios de linux que desean mejorar la calidad de renderizado de fuentes en Linux.
 - [![Open-Source Software][oss icon]](https://github.com/MycroftAI/mycroft-core) [Mycroft](https://github.com/MycroftAI/mycroft-core) - Mycroft es un asistente de voz de código abierto.
