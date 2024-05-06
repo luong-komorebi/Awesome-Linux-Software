@@ -1776,7 +1776,6 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [LinuxHandbook](https://linuxhandbook.com/)
 - [LinuxLinks](https://www.linuxlinks.com/)
 - [Linux official](https://www.linux.com/)
-- [LinuxSmartphones](https://liliputing.com/)
 - [LinuxStans](https://linuxstans.com/)
 - [Linux Timeline](https://github.com/FabioLolix/LinuxTimeline/releases)
 - [LWN](https://lwn.net/)
