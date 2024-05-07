@@ -132,7 +132,7 @@ Duas versões chinesas desta lista estão disponíveis [aqui](https://github.com
 - [Caprine](https://sindresorhus.com/caprine) - Elegante aplicativo desktop do Facebook Messenger. [![Open-Source Software][oss icon]](https://github.com/sindresorhus/caprine)
 - [Chatty](http://chatty.github.io/) - Chatty é um cliente de bate-papo Twitch para todos que querem experimentar algo novo e diferente de um webchat, e que também não desejam a complexidade de um cliente IRC ou perder os recursos especifícos do Twitch.[![Open-Source Software][oss icon]](https://github.com/chatty/chatty)
 - [Dino](https://dino.im) - Cliente de chat Jabber/XMPP limpo e moderno. [![Open-Source Software][oss icon]](https://github.com/dino/dino)
-- [Discord](https://discordapp.com/) - Conversa de voz e texto para gamers de forma gratuita, segura, e funciona tanto em desktop quanto no celular.
+- [Discord](https://discord.com/) - Conversa de voz e texto para gamers de forma gratuita, segura, e funciona tanto em desktop quanto no celular.
 - [Franz](http://meetfranz.com/) - Franz é um aplicativo de messagem que combina vários serviços de bate-papo e messagem em um único aplicativo. [![Open-Source-Software][oss icon]](https://github.com/meetfranz/franz)
 - [GhettoSkype](https://github.com/stanfieldr/ghetto-skype) - wrapper web open source para o Skype. [![Open-Source Software][oss icon]](https://github.com/stanfieldr/ghetto-skype)
 - [Gitter](https://gitter.im/) - Gitter — Aonde os desenvolvedores conversam. Gitter é projetado para tornar a comunicação, colaboração e descoberta de uma comunidade tão simples quanto possível. [![Open-Source Software][oss icon]](https://github.com/gitterHQ/services)
@@ -497,7 +497,7 @@ Duas versões chinesas desta lista estão disponíveis [aqui](https://github.com
 - [![Open-Source Software][oss icon]](https://sourceforge.net/p/nethack/NetHack/ci/NetHack-3.6.0/tree/) [Nethack](https://www.nethack.org/) - Open-source rogue-like with ASCII graphics.
 - [![Open-Source Software][oss icon]](https://github.com/triplea-game/triplea/) [TripleA](http://www.triplea-game.org/) - Open source grand strategy game with "Axis and Allies" game rules.
 - [![Open-Source Software][oss icon]](https://github.com/Warzone2100/warzone2100) [Warzone 2100](https://www.wz2100.net/) - Open-source real-time strategy game that takes place after a nuclear war.
-- [![Open-Source Software][oss icon]](https://bazaar.launchpad.net/~widelands-dev/widelands/trunk/changes) [Widelands](https://wl.widelands.org/) - Widelands is a open source RTS game with singleplayer campaigns and a multiplayer mode inspired by Settlers II.
+- [![Open-Source Software][oss icon]](https://bazaar.launchpad.net/~widelands-dev/widelands/trunk/changes) [Widelands](https://www.widelands.org/) - Widelands is a open source RTS game with singleplayer campaigns and a multiplayer mode inspired by Settlers II.
 
 #### Estratégia Baseada em Turnos
 
@@ -737,7 +737,7 @@ Duas versões chinesas desta lista estão disponíveis [aqui](https://github.com
 - [Gnome Pomodoro](https://gnomepomodoro.org/#download) - A full-featured pomodoro timer for GNOME. [![Open-Source Software][oss icon]](https://github.com/codito/gnome-pomodoro)
 - [Go For It](http://manuel-kehl.de/projects/go-for-it/) - Go For It! is a simple and stylish productivity app, featuring a to-do list, merged with a timer that keeps your focus on the current task.
 - [My Todo](https://github.com/mohamed-aziz/mytodo) - Mytodo is an open source to-do list program that puts you, the user, in command of everything. [![Open-Source Software][oss icon]](https://github.com/mohamed-aziz/mytodo)
-- [Pomodone App](http://pomodoneapp.com/) - PomoDoneApp is the easiest way to track your workflow using Pomodoro techniqueÂ®, on top of your current task management service.![Nonfree][money icon]
+- [RoundPie App](https://theroundpie.com/) - RoundPie App is the easiest way to track your workflow using Pomodoro techniqueÂ®, on top of your current task management service.![Nonfree][money icon]
 - [![Open-Source Software][oss icon]](https://userbase.kde.org/RSIBreak) [RSIBreak](https://userbase.kde.org/RSIBreak) - RSIBreak takes care of your health and regularly breaks your work to avoid repetitive strain injury.
 - [TaskWarrior](https://taskwarrior.org/) - Taskwarrior is Free and Open Source Software that manages your TODO list from the command line. [![Open-Source Software][oss icon]](https://git.tasktools.org/projects)
 - [Todo.txt](http://todotxt.com/) - todo.txt-focused editors which help you manage your tasks with as few keystrokes and taps possible.
@@ -920,7 +920,7 @@ Duas versões chinesas desta lista estão disponíveis [aqui](https://github.com
 ### Outros
 
 - [![Open-Source Software][oss icon]](https://displaycal.net/#download) [DisplayCAL](https://displaycal.net/) - Open Source Display Calibration and Characterization powered by ArgyllCMS.
-- [![Open-Source Software][oss icon]](https://github.com/fontforge/fontforge) [FontForge](https://fontforge.github.io) - Free (libre) font editor for Windows, Mac OS X and GNU+Linux.
+- [![Open-Source Software][oss icon]](https://github.com/fontforge/fontforge) [FontForge](https://fontforge.org/) - Free (libre) font editor for Windows, Mac OS X and GNU+Linux.
 - [GrubCustomizer](https://launchpad.net/grub-customizer) - Grub Customizer is a graphical interface to configure the GRUB2/BURG settings and menuentries. [![Open-Source Software][oss icon]](https://code.launchpad.net/grub-customizer)
 - [Infinality bundle & fonts](https://bohoomil.com/) - _Pre-note: Infinality is currently not maintained anymore by the creator, if on rolling release operating systems, expect breakage_. Infinality bundle & fonts is an Open Source project aimed at Linux administrators and individual users who are looking for a hassle-free way of improving the quality of font rendering. [![Open-Source Software][oss icon]](https://github.com/bohoomil/fontconfig-ultimate)
 - [Mycroft](https://github.com/MycroftAI/mycroft-core) - A.I. for everyone. [![Open-Source Software][oss icon]](https://github.com/MycroftAI/mycroft-core)
