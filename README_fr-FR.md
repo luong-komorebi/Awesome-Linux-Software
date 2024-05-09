@@ -295,7 +295,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 
 #### Multiple Languages Support
 
-- [![Open-Source Software][oss icon]](https://github.com/aptana) [Aptana](https://www.axway.com/en/aptana) - Aptana Studio harnesses the flexibility of Eclipse and focuses it into a powerful web development engine.
+- [![Open-Source Software][oss icon]](https://github.com/aptana/studio3) [Aptana](https://www.axway.com/en/aptana) - Aptana Studio harnesses the flexibility of Eclipse and focuses it into a powerful web development engine.
 - [![Open-Source Software][oss icon]](https://phabricator.kde.org/dashboard/view/8/) [KDevelop](https://www.kdevelop.org/) - It is a free, open source IDE, feature-full, plugin extensible IDE for C/C++ and other programming languages.
 - [![Open-Source Software][oss icon]](https://www.monodevelop.com/developers/) [MonoDevelop](http://www.monodevelop.com/) - Cross platform IDE for C#, F# and more.
 - [![Open-Source Software][oss icon]](https://github.com/apache/netbeans) [Netbeans](https://netbeans.org/downloads/) - NetBeans IDE lets you quickly and easily develop Java desktop, mobile, and web applications, as well as HTML5 applications with HTML, JavaScript, and CSS.
