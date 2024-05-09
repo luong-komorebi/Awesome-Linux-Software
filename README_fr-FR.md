@@ -195,7 +195,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [![Open-Source Software][oss icon]](https://borgbackup.readthedocs.io/en/stable/) [Qt4-fsarchiver](https://sourceforge.net/projects/qt4-fsarchiver/) - qt4-fsarchiver is a GUI for the fsarchiver program to save/restore partitions, folders and even the MBR/GPT table. The program is for systems based on Debian, OpenSuse or Fedora.
 - [![Open-Source Software][oss icon]](https://github.com/ncw/rclone) [rclone](http://rclone.org/) - Rclone is a command line program to sync files and directories to and from various cloud storage solutions. It also allows encrypted backups.
 - [![Open-Source Software][oss icon]](https://github.com/rsnapshot/rsnapshot.git) [rsnapshot](http://rsnapshot.org/) - rsnapshot is a command line utility based on rsync to make periodic snapshots of local/remote machines. The code makes extensive use of hard links whenever possible to greatly reduce the disk space required.)
-- [![Open-Source Software][oss icon]](https://sourceforge.net/projects/systemrescuecd/files/sysresccd-x86/) [System Rescue CD](https://www.system-rescue-cd.org/SystemRescueCd_Homepage) - SystemRescueCd is a Linux system rescue disk available as a bootable CD-ROM or USB stick for administrating or repairing your system and data after a crash.
+- [![Open-Source Software][oss icon]](https://sourceforge.net/projects/systemrescuecd/files/sysresccd-x86/) [System Rescue CD](https://www.system-rescue.org/SystemRescueCd_Homepage) - SystemRescueCd is a Linux system rescue disk available as a bootable CD-ROM or USB stick for administrating or repairing your system and data after a crash.
 - [![Open-Source Software][oss icon]](https://github.com/cgsecurity/testdisk) [Test Disk](http://www.cgsecurity.org/wiki/TestDisk) - TestDisk is powerful free data recovery software! It was primarily designed to help recover lost partitions and/or make non-booting disks bootable again when these symptoms are caused by faulty software.
 - [![Open-Source Software][oss icon]](https://code.launchpad.net/timeshift) [Timeshift](https://launchpad.net/timeshift) - TimeShift is a system restore utility which takes incremental snapshots of the system using rsync and hard-links. These snapshots can be restored at a later date to undo all changes that were made to the system after the snapshot was taken. Snapshots can be taken manually or at regular intervals using scheduled jobs.
 
@@ -295,7 +295,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 
 #### Multiple Languages Support
 
-- [![Open-Source Software][oss icon]](https://github.com/aptana) [Aptana](https://www.aptana.com/) - Aptana Studio harnesses the flexibility of Eclipse and focuses it into a powerful web development engine.
+- [![Open-Source Software][oss icon]](https://github.com/aptana/studio3) [Aptana](https://www.axway.com/en/aptana) - Aptana Studio harnesses the flexibility of Eclipse and focuses it into a powerful web development engine.
 - [![Open-Source Software][oss icon]](https://phabricator.kde.org/dashboard/view/8/) [KDevelop](https://www.kdevelop.org/) - It is a free, open source IDE, feature-full, plugin extensible IDE for C/C++ and other programming languages.
 - [![Open-Source Software][oss icon]](https://www.monodevelop.com/developers/) [MonoDevelop](http://www.monodevelop.com/) - Cross platform IDE for C#, F# and more.
 - [![Open-Source Software][oss icon]](https://github.com/apache/netbeans) [Netbeans](https://netbeans.org/downloads/) - NetBeans IDE lets you quickly and easily develop Java desktop, mobile, and web applications, as well as HTML5 applications with HTML, JavaScript, and CSS.
@@ -333,12 +333,12 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [![Open-Source Software][oss icon]](https://github.com/gitlabhq/gitlabhq) [GitLab](https://github.com/gitlabhq/gitlabhq) - GitLab is a web-based Git repository manager with wiki and issue tracking features.
 - [![Open-Source Software][oss icon]](https://github.com/sitaramc/gitolite) [Gitolite](https://gitolite.com/gitolite/index.html) - Gitolite allows you to setup git hosting on a central server, with fine-grained access control and many more powerful features.
 - [Insomnia](https://insomnia.rest/) - A simple, beautiful, and free REST API client.
-- [![Open-Source Software][oss icon]](https://jupyter.readthedocs.io/en/latest/install.html) [Jupyter Notebook](https://jupyter.org/) - An open source program that provides interactive data and scientific computing information across over 40 programming languages.
+- [![Open-Source Software][oss icon]](https://docs.jupyter.org/en/latest/install.html) [Jupyter Notebook](https://jupyter.org/) - An open source program that provides interactive data and scientific computing information across over 40 programming languages.
 - [![Open-Source Software][oss icon]](http://meldmerge.org/development.html) [Meld](http://meldmerge.org/) - Meld is a visual diff and merge tool that helps you compare files, directories, and version controlled projects.
 - [Mockitt](https://mockitt.wondershare.com/home.html) - Mockitt is an easy-to-use prototyping tool.
 - [![Open-Source Software][oss icon]](https://github.com/evolus/pencil) [Pencil](http://pencil.evolus.vn/) - An open-source GUI prototyping tool that's available for ALL platforms.
 - [![Open-Source Software][oss icon]](https://github.com/stuartlangridge/ColourPicker) [Pick](http://kryogenix.org/code/pick/) - Simple color picker.
-- [Postman](https://www.getpostman.com) - Postman, allows a user to develop and test APIs quickly.
+- [Postman](https://www.postman.com/) - Postman, allows a user to develop and test APIs quickly.
 - [![Open-Source Software][oss icon]](https://github.com/rabbitvcs/rabbitvcs) [Rabbit VCS](http://rabbitvcs.org/) - RabbitVCS is a set of graphical tools written to provide simple and straightforward access to the version control systems you use.
 - ![Nonfree][money icon] [SmartGit](http://www.syntevo.com/smartgit/) - SmartGit is a Git client with support for GitHub Pull Requests+Comments and SVN.
 - ![Non Free][money icon] [StarUML](https://staruml.io/) - A sophisticated software modeler.
@@ -796,7 +796,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - ![Nonfree][money icon] [RoundPie App](https://theroundpie.com/) - RoundPie App is the easiest way to track your workflow using Pomodoro technique®, on top of your current task management service.
 - [![Open-Source Software][oss icon]](https://userbase.kde.org/RSIBreak) [RSIBreak](https://userbase.kde.org/RSIBreak) - RSIBreak takes care of your health and regularly breaks your work to avoid repetitive strain injury.
 - [![Open-Source Software][oss icon]](https://git.tasktools.org/projects) [TaskWarrior](https://taskwarrior.org/) - Taskwarrior is Free and Open Source Software that manages your TODO list from the command line.
-- [![Open-Source Software][oss icon]](https://github.com/todotxt/todo.txt-android) [Todo.txt](http://todotxt.com/) - todo.txt is a set of focused editors which help you manage your tasks with as few keystrokes and taps possible.
+- [![Open-Source Software][oss icon]](https://github.com/todotxt/todo.txt-android) [Todo.txt](http://todotxt.org/) - todo.txt is a set of focused editors which help you manage your tasks with as few keystrokes and taps possible.
 - [![Open-Source Software][oss icon]](https://github.com/kamhix/todoist-linux) [Todoist](https://github.com/kamhix/todoist-linux) - Unofficial client of Todoist, the cross-platform to-do manager with mobile apps, great UI and has some optional premium features.
 
 #### Widget and Indicator
@@ -842,7 +842,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [Dropbox](https://www.dropbox.com/install?os=lnx) - Dropbox is a free service that lets you bring your photos, docs, and videos anywhere and share them easily.
 - [![Open-Source Software][oss icon]](https://filezilla-project.org/sourcecode.php) [Filezilla](https://filezilla-project.org/) - The free FTP solution.
 - [Flareget](https://flareget.com/) - Full featured, multi-threaded download manager and accelerator.
-- [![Open-Source Software][oss icon]](https://invent.kde.org/network/ktorrent) [KTorrent](https://www.kde.org/applications/internet/ktorrent/) - KTorrent is a BitTorrent application by KDE which allows you to download files using the BitTorrent protocol.
+- [![Open-Source Software][oss icon]](https://invent.kde.org/network/ktorrent) [KTorrent](https://apps.kde.org/ktorrent/) - KTorrent is a BitTorrent application by KDE which allows you to download files using the BitTorrent protocol.
 - [![Open-Source Software][oss icon]](https://github.com/meganz/MEGAsync) [Mega](https://mega.nz/#sync) - Easy automated syncing between your computers and your MEGA cloud drive.
 - [![Open-Source Software][oss icon]](https://github.com/nextcloud) [nextCloud](https://nextcloud.com/) - an actively maintained fork of ownCloud, a suite of client-server software for creating and using file hosting services
 - [![Open-Source Software][oss icon]](https://github.com/nitroshare/nitroshare-desktop) [NitroShare](https://nitroshare.net/) - Cross-Platform network file transfer application.
@@ -1266,7 +1266,7 @@ _Tout le monde sur @ reddit.com/r/linux & reddit.com/r/ubuntu & vozforums.com & 
 - [Comment utiliser Github](https://guides.github.com/activities/forking/)
 - [Comment utiliser Git en Ligne de Commande](https://rogerdudler.github.io/git-guide/)
 - [Qu'est-ce que Markdown?](https://github.com/LewisVo/Markdown-Tutorial) - Markdown est le style d'écriture pour la création de cette liste, si vous voulez savoir comment bien le formater, il est préférable d'apprendre comment utiliser Github Markdown.
-- [Guide Alternatif pour Markdown:](https://guides.github.com/features/mastering-markdown/)
+- [Guide Alternatif pour Markdown:](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 _Les éléments marqués avec ![Open-Source Software][oss icon] sont des logiciels open-source et un lien vers le code source. Les éléments marqués avec [![Nonfree][money icon] sont payant(comme avec une biére qui n'est pas gratuite)._
 

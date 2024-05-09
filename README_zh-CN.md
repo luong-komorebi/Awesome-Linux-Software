@@ -164,7 +164,7 @@ _更新：上发布，中文版阅读地址戳[这里](https://alim0x.gitbooks.i
 - [Photorec](http://www.cgsecurity.org/wiki/PhotoRec) - PhotoRec 一款数据恢复应用，为恢复硬盘，CD-ROM 上包括视频，文档以及归档等文件而设计，以及数码相机存储中丢失的相片（Photorec 的由来）。
 - [![Open-Source Software][oss icon]](https://borgbackup.readthedocs.io/en/stable/) [Qt4-fsarchiver](https://sourceforge.net/projects/qt4-fsarchiver/) - qt4-fsarchiver 是 fsarchiver 的图形化界面，能够保存/恢复分区，文件夹和 MBR/GPT 分区。这个程序是基于 Debian 的系统，Suse 以及 Fedora 适用的。
 - [![Open-Source Software][oss icon]](https://github.com/ncw/rclone) [rclone](http://rclone.org/) - Rclone 是一款命令行工具，用于同步文件和目录到不同的云存储方案。它还允许备份加密。
-- [System Rescue CD](https://www.system-rescue-cd.org/SystemRescueCd_Homepage) - SystemRescueCd 是一款 Linux 系统急救盘，提供可启动的 CD-ROM 或 U 盘，用于管理系统在崩溃后修复系统和数据。
+- [System Rescue CD](https://www.system-rescue.org/SystemRescueCd_Homepage) - SystemRescueCd 是一款 Linux 系统急救盘，提供可启动的 CD-ROM 或 U 盘，用于管理系统在崩溃后修复系统和数据。
 - [Test Disk](http://www.cgsecurity.org/wiki/TestDisk) - TestDisk 是一款强大的免费数据恢复软件！它主要设计用于帮助回去丢失的分区和/或修复由软件错误导致的硬盘无法启动引导。
 - [Timeshift](https://launchpad.net/timeshift) - TimeShift 是一款系统还原工具，它用 rsync 和硬链接创建系统的增量快照。快照可以在一段时间后用于恢复，撤销快照生成以来所做的所有更改。快照可以手动生成或用定时任务自动生成。
 
@@ -193,7 +193,7 @@ _更新：上发布，中文版阅读地址戳[这里](https://alim0x.gitbooks.i
 
 - [Clion](https://www.jetbrains.com/clion/) - 一款强大的跨平台 C 以及 C++ IDE。
 - [Android studio](https://developer.android.com/studio/index.html) - Android 的官方 IDE：Android Studio 提供在各种类型的安卓设备上构建应用最快的工具。
-- [Aptana](https://www.aptana.com/) - Aptana Studio 利用了 Eclipse 的灵活性并且专注于让它成为强大的 web 开发引擎。
+- [Aptana](https://www.axway.com/en/aptana) - Aptana Studio 利用了 Eclipse 的灵活性并且专注于让它成为强大的 web 开发引擎。
 - [![Open-Source Software][oss icon]](https://github.com/arduino/arduino-ide) [Arduino IDE](https://www.arduino.cc/en/Main/Software) - 开源的 Arduino 软件（IDE）让编写代码和上传代码到开发板变得简单。
 - [BlueJ](http://bluej.org/) - 一款为新手设计的免费 Java 开发环境，世界范围内数百万人使用。
 - [Code::Blocks](https://www.codeblocks.org/) - Code::Blocks 是一款为满足大部分用户需求构建的免费的 C，C++ 以及 Fortran IDE。它可扩展并且可配置性强。
@@ -216,14 +216,14 @@ _更新：上发布，中文版阅读地址戳[这里](https://alim0x.gitbooks.i
 - [Insomnia](https://insomnia.rest/) - 一款简单，漂亮且免费的 REST API 客户端。
 - [![Open-Source Software][oss icon]](https://github.com/JetBrains/intellij-community) [IntelliJ IDEA](https://www.jetbrains.com/idea/) - 强大的 Java IDE。
 - [![Open-Source Software][oss icon]](https://github.com/ipython/ipython) [Ipython](https://ipython.org/) - 强大的 Python shell。
-- [![Open-Source Software][oss icon]](https://jupyter.readthedocs.io/en/latest/install.html) [Jupyter Notebook](https://jupyter.org/) - 开源，交互式数据科学和科学计算，支持超过 40 种编程语言。
+- [![Open-Source Software][oss icon]](https://docs.jupyter.org/en/latest/install.html) [Jupyter Notebook](https://jupyter.org/) - 开源，交互式数据科学和科学计算，支持超过 40 种编程语言。
 - [KDevelop](https://www.kdevelop.org/) - 免费，开源 IDE，全功能，支持插件扩展的 C/C++ 以及其它编程语言 IDE。
 - [Komodo Edit](http://komodoide.com/komodo-edit/) - 免费，开源的多语言开发环境。
 - [Netbeans](https://netbeans.org/downloads/) - NetBeans IDE 让你快速而且容易地开发 Java 桌面，移动以及 web 应用，还有基于 HTML，JavaScript 以及 CSS 的 HTML5 应用。
 - [NodeJS](https://nodejs.org/en/) - Node.js® 是一个基于 Chrome V8 JavaScript 引擎的 JavaScript 运行时环境。
 - [![Open-Source Software][oss icon]](https://github.com/oh-my-fish/oh-my-fish) [Oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - 提供各种插件和主题以扩展你的 fish shell 功能。
 - [Postgresql](https://www.postgresql.org/download/) - PostgreSQL 是一款强大，开源的对象-关系型数据库系统。
-- [Postman](https://www.getpostman.com) - Postman，帮助我们快速测试 API。
+- [Postman](https://www.postman.com/) - Postman，帮助我们快速测试 API。
 - [PyCharm](https://www.jetbrains.com/pycharm/) - 强大的 Python IDE。
 - [QT Creator](https://www.qt.io/ide/) - 全功能跨平台集成开发环境，轻松创建互联设备，用户界面以及应用程序。
 - [![Open-Source Software][oss icon]](https://github.com/rabbitvcs/rabbitvcs) [Rabbit VCS](http://rabbitvcs.org/) - RabbitVCS 是一个图形工具的集合，提供一个与你使用的版本控制系统简单而直接的访问方式。
@@ -563,7 +563,7 @@ _更新：上发布，中文版阅读地址戳[这里](https://alim0x.gitbooks.i
 - [Stickynote](https://itsfoss.com/indicator-stickynotes-windows-like-sticky-note-app-for-ubuntu/) - Linux 桌面的便利贴。
 - [![Open-Source Software][oss icon]](https://git.tasktools.org/projects) [TaskWarrior](https://taskwarrior.org/) - Taskwarrior 是一款免费，开源的的软件，它可以从命令行管理你的待办事项列表。
 - [![Open-Source Software][oss icon]](https://github.com/Jermolene/TiddlyDesktop) [TiddlyDesktop on GitHub](https://github.com/TiddlyDesktop) - [TiddlyDesktop on TiddlyWiki.com](https://github.com/TiddlyDesktop) - A desktop app for TiddlyWiki, an open-source personal wiki written in javascript, great if you're still searching for a good note-taking (and more) app.
-- [Todo.txt](http://todotxt.com/) - todo.txt-专注的编辑器，用最少的组合键和点击帮助你管理你的任务。
+- [Todo.txt](http://todotxt.org/) - todo.txt-专注的编辑器，用最少的组合键和点击帮助你管理你的任务。
 - [![Open-Source Software][oss icon]](https://github.com/kamhix/todoist-linux) [Todoist](https://github.com/kamhix/todoist-linux) - Todoist 的非官方客户端。Todoist 是带有移动客户端的跨平台待办事项管理器，有着优秀的用户界面以及一些可选的高级特性。
 - [![Open-Source Software][oss icon]](https://wiki.gnome.org/Apps/Tomboy) [Tomboy](https://wiki.gnome.org/Apps/Tomboy) - Tomboy 是一款简单易用的桌面笔记应用。
 - [![Open-Source Software][oss icon]](https://github.com/jml/undistract-me) [Undistract me](https://github.com/jml/undistract-me) - 在长时间执行的终端命令结束的时候提醒你。

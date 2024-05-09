@@ -192,7 +192,7 @@ _para consultar una lista más larga de software de audio oprima [aquí](https:/
 - [![Open-Source Software][oss icon]](https://borgbackup.readthedocs.io/en/stable/) [Qt4-fsarchiver](https://sourceforge.net/projects/qt4-fsarchiver/) - Una GUI del programa de archivado para fsarchiver, está diseñada para guardar y restaurar particiones de disco, carpetas y tablas MBR / GPT. Funciona en Ubuntu, Opensuse y Fedora.
 - [![Open-Source Software][oss icon]](https://github.com/ncw/rclone) [rclone](http://rclone.org/) - Rclone es un programa de línea de comandos para sincronizar archivos y directorios de la nube. También permite copia de seguridad cifrada.
 - [![Open-Source Software][oss icon]](https://github.com/rsnapshot/rsnapshot.git) [rsnapshot](http://rsnapshot.org/) - La programa rsnapshot es una utilidad de línea de comandos basada en rsync para realizar instantáneas temporizadas de equipos locales y remotos.
-- [![Open-Source Software][oss icon]](https://sourceforge.net/projects/systemrescuecd/files/sysresccd-x86/) [System Rescue CD](https://www.system-rescue-cd.org/SystemRescueCd_Homepage) - SystemRescueCD es un disco de rescate del sistema linux diseñado para ser ejecutado desde un CD-ROM o memoria USB para reparar un sistema después de un problema.
+- [![Open-Source Software][oss icon]](https://sourceforge.net/projects/systemrescuecd/files/sysresccd-x86/) [System Rescue CD](https://www.system-rescue.org/SystemRescueCd_Homepage) - SystemRescueCD es un disco de rescate del sistema linux diseñado para ser ejecutado desde un CD-ROM o memoria USB para reparar un sistema después de un problema.
 - [![Open-Source Software][oss icon]](https://github.com/cgsecurity/testdisk) [Test Disk](http://www.cgsecurity.org/wiki/TestDisk) - TestDisk es un programa de recuperación gratuito que fue diseñado para recuperar particiones rotas o hacer que los discos que no se pueden arrancar funcionen de nuevo.
 - [![Open-Source Software][oss icon]](https://code.launchpad.net/timeshift) [Timeshift](https://launchpad.net/timeshift) - TimeShift es una utilidad de restauración del sistema que toma copias de seguridad incrementales de un sistema informático utilizando rsync y enlaces duros.
 
@@ -291,7 +291,7 @@ _para consultar una lista más larga de software de audio oprima [aquí](https:/
 
 #### Puede soportar otros idiomas
 
-- [Aptana](https://www.aptana.com/) - Aptana Studio es similar a eclipse, pero está diseñado principalmente para el desarrollo web.
+- [Aptana](https://www.axway.com/en/aptana) - Aptana Studio es similar a eclipse, pero está diseñado principalmente para el desarrollo web.
 - [![Open-Source Software][oss icon]](https://phabricator.kde.org/dashboard/view/8/) [KDevelop](https://www.kdevelop.org/) - La programa es un Entorno de desarrollo integrado libre con complementos para C y C ++ y más.
 - [![Open-Source Software][oss icon]](https://www.monodevelop.com/developers/) [MonoDevelop](http://www.monodevelop.com/) - Un Entorno multiplataforma de desarrollo integrado para C #, F # y más..
 - [Netbeans](https://netbeans.org/downloads/) - NetBeans IDE es un programa para ayudar a desarrollar Java para computadoras, teléfonos móviles y aplicaciones web. También funciona con HTML5, Javascript y CSS.
@@ -328,12 +328,12 @@ _para consultar una lista más larga de software de audio oprima [aquí](https:/
 - [![Open-Source Software][oss icon]](https://github.com/gitlabhq/gitlabhq) [GitLab](https://github.com/gitlabhq/gitlabhq) - GitLab es un gestor de repositorio Git basado en la web. Puede crear y administrar un wiki y realizar un seguimiento de los problemas.
 - [![Open-Source Software][oss icon]](https://github.com/sitaramc/gitolite) [Gitolite](https://gitolite.com/gitolite/index.html) - Gitolite le permite configurar git hosting en un servidor central, con controles de acceso seguros y muchas más características de gran alcance.
 - [Insomnia](https://insomnia.rest/) - Un simple y hermoso, cliente del REST API.
-- [![Open-Source Software][oss icon]](https://jupyter.readthedocs.io/en/latest/install.html) [Jupyter Notebook](https://jupyter.org/) - Un programa de código abierto que proporciona información interactiva de datos e información científica sobre más de 40 lenguajes de programación.
+- [![Open-Source Software][oss icon]](https://docs.jupyter.org/en/latest/install.html) [Jupyter Notebook](https://jupyter.org/) - Un programa de código abierto que proporciona información interactiva de datos e información científica sobre más de 40 lenguajes de programación.
 - [![Open-Source Software][oss icon]](http://meldmerge.org/development.html) [Meld](http://meldmerge.org/) - Meld es una herramienta de modelado de diferencias visuales diseñada para ayudar a comparar archivos, directorios y proyectos controlados por versiones.
 - [Mockitt](https://mockitt.wondershare.com/home.html) - Mockitt es una herramienta de prototipado simple de utilizar.
 - [![Open-Source Software][oss icon]](https://github.com/evolus/pencil) [Pencil](http://pencil.evolus.vn/) - Una herramienta de creación de prototipos GUI de código abierto, que funciona en diferentes plataformas.
 - [![Open-Source Software][oss icon]](https://github.com/stuartlangridge/ColourPicker) [Pick](http://kryogenix.org/code/pick/) - Un selector de color.
-- [Postman](https://www.getpostman.com) - Postman, permite a un usuario desarrollar y probar API rápidamente.
+- [Postman](https://www.postman.com/) - Postman, permite a un usuario desarrollar y probar API rápidamente.
 - [![Open-Source Software][oss icon]](https://github.com/rabbitvcs/rabbitvcs) [Rabbit VCS](http://rabbitvcs.org/) - RabbitVCS es un conjunto de herramientas gráficas creadas para ser fáciles de usar con sistemas de control de versiones.
 - ![Nonfree][money icon] [SmartGit](http://www.syntevo.com/smartgit/) - SmartGit es un cliente git con soporte para peticiones de Github y comentarios. También es compatible con SVN.
 - [StarUML](https://staruml.io/) - Un sofisticado modelador de software.
@@ -783,7 +783,7 @@ _para consultar una lista más larga de software de audio oprima [aquí](https:/
 - ![Nonfree][money icon] [RoundPie App](https://theroundpie.com/) - RoundPie App es una aplicación que gestiona su flujo de trabajo utilizando la técnica Pomodoro.
 - [![Open-Source Software][oss icon]](https://userbase.kde.org/RSIBreak) [RSIBreak](https://userbase.kde.org/RSIBreak) - RSIBreak es una aplicación para la salud a las muñecas, para prevenir Lesiones por esfuerzo repetitivo.
 - [![Open-Source Software][oss icon]](https://git.tasktools.org/projects) [TaskWarrior](https://taskwarrior.org/) - Taskwarrior es un software de código abierto que gestiona una lista de tareas desde la línea de comandos.
-- [Todo.txt](http://todotxt.com/) - todo.txt- editores de texto que le ayudan a administrar sus tareas con el menor número de pulsaciones de teclas posible.
+- [Todo.txt](http://todotxt.org/) - todo.txt- editores de texto que le ayudan a administrar sus tareas con el menor número de pulsaciones de teclas posible.
 - [![Open-Source Software][oss icon]](https://github.com/kamhix/todoist-linux) [Todoist](https://github.com/kamhix/todoist-linux) - Un cliente no oficial de Todoist, es una lista de tareas y organizador multiplataforma.
 
 #### Widget e indicador
@@ -828,7 +828,7 @@ _para consultar una lista más larga de software de audio oprima [aquí](https:/
 - [Dropbox](https://www.dropbox.com/install?os=lnx) - Dropbox es un servicio gratuito que le permite almacenar archivos en la nube.
 - [![Open-Source Software][oss icon]](https://filezilla-project.org/sourcecode.php) [Filezilla](https://filezilla-project.org/) - Un servidor FTP de código abierto y un cliente.
 - [Flareget](https://flareget.com/) - Un gestor de descargas y un acelerador con muchas características.
-- [![Open-Source Software][oss icon]](https://invent.kde.org/network/ktorrent) [KTorrent](https://www.kde.org/applications/internet/ktorrent/) - KTorrent una aplicación bittorrent creada por KDE.
+- [![Open-Source Software][oss icon]](https://invent.kde.org/network/ktorrent) [KTorrent](https://apps.kde.org/ktorrent/) - KTorrent una aplicación bittorrent creada por KDE.
 - [![Open-Source Software][oss icon]](https://github.com/meganz/MEGAsync) [Mega](https://mega.nz/#sync) - Un cliente de Mega.co.nz que sincroniza automáticamente los archivos de su computadora con su cuenta MEGA.
 - [![Open-Source Software][oss icon]](https://github.com/nitroshare/nitroshare-desktop) [NitroShare](https://nitroshare.net/) - Un programa de transferencia de archivos de red multiplataforma.
 - [ownCloud](https://owncloud.com/products/desktop-clients/) - Un programa que te permite acceder a tus archivos sin importar donde estés.
@@ -1246,7 +1246,7 @@ _todos en reddit.com/r/linux y reddit.com/r/ubuntu y vozforums.com y otros foros
 - [Cómo usar github (Inglés)](https://guides.github.com/activities/forking/)
 - [Cómo utilizar Git desde la línea de comandos.](https://rogerdudler.github.io/git-guide/index.es.html)
 - [¿Qué es Markdown?](https://github.com/LewisVo/Markdown-Tutorial/blob/master/Translation:Spanish.md) - Markdown es el método de escritura usado para crear esta lista, si quieres aprender el formato apropiado, lo mejor es que aprendas cómo usar Github Markdown.
-- [Guía alternativa para Markdown (Inglés)](https://guides.github.com/features/mastering-markdown/)
+- [Guía alternativa para Markdown (Inglés)](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 _Los artículos marcados ![Open-Source Software][oss icon] son software de código abierto y tienen un enlace al código fuente. Los artículos marcados [![Nonfree][money icon] cuesta dinero (como en cerveza que cuesta dinero)._
 

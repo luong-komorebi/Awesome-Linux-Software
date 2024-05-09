@@ -164,7 +164,7 @@ Duas versões chinesas desta lista estão disponíveis [aqui](https://github.com
 - [Qt4-fsarchiver](https://sourceforge.net/projects/qt4-fsarchiver/) - qt4-fsarchiver é uma GUI para o programa fsarchiver para salvar/restaurar partições, arquivos e MBR/GPT. O programa é para sistemas baseados em Debian, Suse e Fedora. [![Open-Source Software][oss icon]](https://borgbackup.readthedocs.io/en/stable/)
 - [rclone](http://rclone.org/) - O Rclone é um programa de linha de comando para sincronizar arquivos e diretórios e para várias soluções de armazenamento em nuvem. Também permite backups criptografados. [![Open-Source Software][oss icon]](https://github.com/ncw/rclone)
 - [rsnapshot](http://rsnapshot.org/) - rsnapshot é um utilitário de linha de comando baseado no rsync para fazer periódicos snapshots de máquinas locais ou remotas. O código faz uso extensivo de links rígidos sempre que possível para reduzir o espaço em dísco necessário. [![Open-Source Software][oss icon]](https://github.com/rsnapshot/rsnapshot.git)
-- [System Rescue CD](https://www.system-rescue-cd.org/SystemRescueCd_Homepage) - SystemRescueCd é um disco de recuperação do sistema Linux disponível como um CD-ROM ou usb bootável para administração ou reparo do seu sistema após uma falha.
+- [System Rescue CD](https://www.system-rescue.org/SystemRescueCd_Homepage) - SystemRescueCd é um disco de recuperação do sistema Linux disponível como um CD-ROM ou usb bootável para administração ou reparo do seu sistema após uma falha.
 - [Test Disk](http://www.cgsecurity.org/wiki/TestDisk) - TestDisk é um software poderoso e gratuito recuperador de dados!
   Ele foi projetado principalmente para ajudar a recuperar partições perdidas e/ou tornar os discos não inicializados bootáveis novamente quando esse sintoma é causado por uma falha de software.
 - [Timeshift](https://launchpad.net/timeshift) - TimeShift é um utilitário de restauração do sistema que leva snapshots incrementais do sistema usando rsync e hard-links. Esses snapshots podem ser restaurados em uma data posterior para desfazer todas alterações que foram feitas no sistema após o snapshot ser tirado. Os snapshots podem ser tomados manualmente ou em intervalos regulares usando trabalhos agendados.
@@ -250,7 +250,7 @@ Duas versões chinesas desta lista estão disponíveis [aqui](https://github.com
 
 #### Suporte multilinguagem
 
-- [Aptana](https://www.aptana.com/) - Aptana Studio aproveita a flexibilidade do Eclipse e foca isto em uma poderoso mecanismo de desenvolvimento web.
+- [Aptana](https://www.axway.com/en/aptana) - Aptana Studio aproveita a flexibilidade do Eclipse e foca isto em uma poderoso mecanismo de desenvolvimento web.
 - [KDevelop](https://www.kdevelop.org/) - Uma IDE de códio aberto livre, feature-full com plugin extensível da IDE para C/C++ e dentre outras linguagens de programação. [![Open-Source Software][oss icon]](https://phabricator.kde.org/dashboard/view/8/)
 - [MonoDevelop](http://www.monodevelop.com/) - IDE para as plataformas C#, F# e outras. [![Open-Source Software][oss icon]](https://www.monodevelop.com/developers/)
 - [Netbeans](https://netbeans.org/downloads/) - NetBeans IDE o permite rapidamente e facilmente desenvolver aplicações Java para desktop, mobile e aplicações web, também como aplicaçes HTML5 com HTML, Javascript e CSS.
@@ -288,12 +288,12 @@ Duas versões chinesas desta lista estão disponíveis [aqui](https://github.com
 - [GitLab](https://github.com/gitlabhq/gitlabhq) - GitLab is a web-based Git repository manager with wiki and issue tracking features. [![Open-Source Software][oss icon]](https://github.com/gitlabhq/gitlabhq)
 - [Gitolite](https://gitolite.com/gitolite/index.html) - Gitolite allows you to setup git hosting on a central server, with fine-grained access control and many more powerful features. [![Open-Source Software][oss icon]](https://github.com/sitaramc/gitolite)
 - [Insomnia](https://insomnia.rest/) - A simple, beautiful, and free REST API client.
-- [Jupyter Notebook](https://jupyter.org/) - An open source program that provides interactive data and scientific computing information across over 40 programming languages. [![Open-Source Software][oss icon]](https://jupyter.readthedocs.io/en/latest/install.html)
+- [Jupyter Notebook](https://jupyter.org/) - An open source program that provides interactive data and scientific computing information across over 40 programming languages. [![Open-Source Software][oss icon]](https://docs.jupyter.org/en/latest/install.html)
 - [Meld](http://meldmerge.org/) - Meld is a visual diff and merge tool that helps you compare files, directories, and version controlled projects. [![Open-Source Software][oss icon]](http://meldmerge.org/development.html)
 - [Mockitt](https://mockitt.wondershare.com/home.html) - Mockitt is an easy-to-use prototyping tool.
 - [Pencil](http://pencil.evolus.vn/) - An open-source GUI prototyping tool that's available for ALL platforms. [![Open-Source Software][oss icon]](https://github.com/evolus/pencil)
 - [Pick](http://kryogenix.org/code/pick/) - Simple color picker. [![Open-Source Software][oss icon]](https://github.com/stuartlangridge/ColourPicker)
-- [Postman](https://www.getpostman.com) - Postman, allows a user to develop and test APIs quickly.
+- [Postman](https://www.postman.com/) - Postman, allows a user to develop and test APIs quickly.
 - [Rabbit VCS](http://rabbitvcs.org/) - RabbitVCS is a set of graphical tools written to provide simple and straightforward access to the version control systems you use. [![Open-Source Software][oss icon]](https://github.com/rabbitvcs/rabbitvcs)
 - [SmartGit](http://www.syntevo.com/smartgit/) - SmartGit is a Git client with support for GitHub Pull Requests+Comments and SVN. ![Nonfree][money icon]
 - [StarUML](https://staruml.io/) - A sophisticated software modeler.
@@ -740,7 +740,7 @@ Duas versões chinesas desta lista estão disponíveis [aqui](https://github.com
 - [RoundPie App](https://theroundpie.com/) - RoundPie App is the easiest way to track your workflow using Pomodoro techniqueÂ®, on top of your current task management service.![Nonfree][money icon]
 - [![Open-Source Software][oss icon]](https://userbase.kde.org/RSIBreak) [RSIBreak](https://userbase.kde.org/RSIBreak) - RSIBreak takes care of your health and regularly breaks your work to avoid repetitive strain injury.
 - [TaskWarrior](https://taskwarrior.org/) - Taskwarrior is Free and Open Source Software that manages your TODO list from the command line. [![Open-Source Software][oss icon]](https://git.tasktools.org/projects)
-- [Todo.txt](http://todotxt.com/) - todo.txt-focused editors which help you manage your tasks with as few keystrokes and taps possible.
+- [Todo.txt](http://todotxt.org/) - todo.txt-focused editors which help you manage your tasks with as few keystrokes and taps possible.
 - [Todoist](https://github.com/kamhix/todoist-linux) - Unofficial client of Todoist, the cross-platform to-do manager with mobile apps, great UI and has some optional premium features. [![Open-Source Software][oss icon]](https://github.com/kamhix/todoist-linux)
 
 #### Widget and Indicator
@@ -785,7 +785,7 @@ Duas versões chinesas desta lista estão disponíveis [aqui](https://github.com
 - [Dropbox](https://www.dropbox.com/install?os=lnx) - Dropbox is a free service that lets you bring your photos, docs, and videos anywhere and share them easily.
 - [Filezilla](https://filezilla-project.org/) - the free FTP solution [![Open-Source Software][oss icon]](https://filezilla-project.org/sourcecode.php)
 - [Flareget](https://flareget.com/) - Full featured, multi-threaded download manager and accelerator
-- [KTorrent](https://www.kde.org/applications/internet/ktorrent/) - KTorrent is a BitTorrent application by KDE which allows you to download files using the BitTorrent protocol. [![Open-Source Software][oss icon]](https://invent.kde.org/network/ktorrent)
+- [KTorrent](https://apps.kde.org/ktorrent/) - KTorrent is a BitTorrent application by KDE which allows you to download files using the BitTorrent protocol. [![Open-Source Software][oss icon]](https://invent.kde.org/network/ktorrent)
 - [Mega](https://mega.nz/#sync) - Easy automated syncing between your computers and your MEGA cloud drive. [![Open-Source Software][oss icon]](https://github.com/meganz/MEGAsync)
 - [NitroShare](https://nitroshare.net/) - Cross-Platform network file transfer application. [![Open-Source Software][oss icon]](https://github.com/nitroshare/nitroshare-desktop)
 - [ownCloud](https://owncloud.com/products/desktop-clients/) - The goal of ownCloud is to give you access to your files wherever you are
@@ -1223,7 +1223,7 @@ _Todos do @ reddit.com/r/linux, reddit.com/r/ubuntu, vozforums.com e outros fÃ�
 - [How to Use Github](https://guides.github.com/activities/forking/)
 - [How to Git from the Command Line](https://rogerdudler.github.io/git-guide/)
 - [What is Markdown?](https://github.com/LewisVo/Markdown-Tutorial) - Markdown is the writing method used to create this list, if you want to know how to format properly, it's best that you learn how to use Github Markdown.
-- [Alternative Markdown Guide:](https://guides.github.com/features/mastering-markdown/)
+- [Alternative Markdown Guide:](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 _Itens marcados com ![open-Source Software][oss icon] são software de código aberto e link para o código-fonte. Os itens marcados com ![Nonfree][money icon] são não livres (as in nonfree beer) e pode custar dinheiro para poder utilizá-lo._
 
