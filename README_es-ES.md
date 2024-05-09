@@ -291,7 +291,7 @@ _para consultar una lista más larga de software de audio oprima [aquí](https:/
 
 #### Puede soportar otros idiomas
 
-- [Aptana](https://www.aptana.com/) - Aptana Studio es similar a eclipse, pero está diseñado principalmente para el desarrollo web.
+- [Aptana](https://www.axway.com/en/aptana) - Aptana Studio es similar a eclipse, pero está diseñado principalmente para el desarrollo web.
 - [![Open-Source Software][oss icon]](https://phabricator.kde.org/dashboard/view/8/) [KDevelop](https://www.kdevelop.org/) - La programa es un Entorno de desarrollo integrado libre con complementos para C y C ++ y más.
 - [![Open-Source Software][oss icon]](https://www.monodevelop.com/developers/) [MonoDevelop](http://www.monodevelop.com/) - Un Entorno multiplataforma de desarrollo integrado para C #, F # y más..
 - [Netbeans](https://netbeans.org/downloads/) - NetBeans IDE es un programa para ayudar a desarrollar Java para computadoras, teléfonos móviles y aplicaciones web. También funciona con HTML5, Javascript y CSS.
@@ -333,7 +333,7 @@ _para consultar una lista más larga de software de audio oprima [aquí](https:/
 - [Mockitt](https://mockitt.wondershare.com/home.html) - Mockitt es una herramienta de prototipado simple de utilizar.
 - [![Open-Source Software][oss icon]](https://github.com/evolus/pencil) [Pencil](http://pencil.evolus.vn/) - Una herramienta de creación de prototipos GUI de código abierto, que funciona en diferentes plataformas.
 - [![Open-Source Software][oss icon]](https://github.com/stuartlangridge/ColourPicker) [Pick](http://kryogenix.org/code/pick/) - Un selector de color.
-- [Postman](https://www.getpostman.com) - Postman, permite a un usuario desarrollar y probar API rápidamente.
+- [Postman](https://www.postman.com/) - Postman, permite a un usuario desarrollar y probar API rápidamente.
 - [![Open-Source Software][oss icon]](https://github.com/rabbitvcs/rabbitvcs) [Rabbit VCS](http://rabbitvcs.org/) - RabbitVCS es un conjunto de herramientas gráficas creadas para ser fáciles de usar con sistemas de control de versiones.
 - ![Nonfree][money icon] [SmartGit](http://www.syntevo.com/smartgit/) - SmartGit es un cliente git con soporte para peticiones de Github y comentarios. También es compatible con SVN.
 - [StarUML](https://staruml.io/) - Un sofisticado modelador de software.
@@ -783,7 +783,7 @@ _para consultar una lista más larga de software de audio oprima [aquí](https:/
 - ![Nonfree][money icon] [RoundPie App](https://theroundpie.com/) - RoundPie App es una aplicación que gestiona su flujo de trabajo utilizando la técnica Pomodoro.
 - [![Open-Source Software][oss icon]](https://userbase.kde.org/RSIBreak) [RSIBreak](https://userbase.kde.org/RSIBreak) - RSIBreak es una aplicación para la salud a las muñecas, para prevenir Lesiones por esfuerzo repetitivo.
 - [![Open-Source Software][oss icon]](https://git.tasktools.org/projects) [TaskWarrior](https://taskwarrior.org/) - Taskwarrior es un software de código abierto que gestiona una lista de tareas desde la línea de comandos.
-- [Todo.txt](http://todotxt.com/) - todo.txt- editores de texto que le ayudan a administrar sus tareas con el menor número de pulsaciones de teclas posible.
+- [Todo.txt](http://todotxt.org/) - todo.txt- editores de texto que le ayudan a administrar sus tareas con el menor número de pulsaciones de teclas posible.
 - [![Open-Source Software][oss icon]](https://github.com/kamhix/todoist-linux) [Todoist](https://github.com/kamhix/todoist-linux) - Un cliente no oficial de Todoist, es una lista de tareas y organizador multiplataforma.
 
 #### Widget e indicador
@@ -828,7 +828,7 @@ _para consultar una lista más larga de software de audio oprima [aquí](https:/
 - [Dropbox](https://www.dropbox.com/install?os=lnx) - Dropbox es un servicio gratuito que le permite almacenar archivos en la nube.
 - [![Open-Source Software][oss icon]](https://filezilla-project.org/sourcecode.php) [Filezilla](https://filezilla-project.org/) - Un servidor FTP de código abierto y un cliente.
 - [Flareget](https://flareget.com/) - Un gestor de descargas y un acelerador con muchas características.
-- [![Open-Source Software][oss icon]](https://invent.kde.org/network/ktorrent) [KTorrent](https://www.kde.org/applications/internet/ktorrent/) - KTorrent una aplicación bittorrent creada por KDE.
+- [![Open-Source Software][oss icon]](https://invent.kde.org/network/ktorrent) [KTorrent](https://apps.kde.org/ktorrent/) - KTorrent una aplicación bittorrent creada por KDE.
 - [![Open-Source Software][oss icon]](https://github.com/meganz/MEGAsync) [Mega](https://mega.nz/#sync) - Un cliente de Mega.co.nz que sincroniza automáticamente los archivos de su computadora con su cuenta MEGA.
 - [![Open-Source Software][oss icon]](https://github.com/nitroshare/nitroshare-desktop) [NitroShare](https://nitroshare.net/) - Un programa de transferencia de archivos de red multiplataforma.
 - [ownCloud](https://owncloud.com/products/desktop-clients/) - Un programa que te permite acceder a tus archivos sin importar donde estés.

@@ -250,7 +250,7 @@ Duas versões chinesas desta lista estão disponíveis [aqui](https://github.com
 
 #### Suporte multilinguagem
 
-- [Aptana](https://www.aptana.com/) - Aptana Studio aproveita a flexibilidade do Eclipse e foca isto em uma poderoso mecanismo de desenvolvimento web.
+- [Aptana](https://www.axway.com/en/aptana) - Aptana Studio aproveita a flexibilidade do Eclipse e foca isto em uma poderoso mecanismo de desenvolvimento web.
 - [KDevelop](https://www.kdevelop.org/) - Uma IDE de códio aberto livre, feature-full com plugin extensível da IDE para C/C++ e dentre outras linguagens de programação. [![Open-Source Software][oss icon]](https://phabricator.kde.org/dashboard/view/8/)
 - [MonoDevelop](http://www.monodevelop.com/) - IDE para as plataformas C#, F# e outras. [![Open-Source Software][oss icon]](https://www.monodevelop.com/developers/)
 - [Netbeans](https://netbeans.org/downloads/) - NetBeans IDE o permite rapidamente e facilmente desenvolver aplicações Java para desktop, mobile e aplicações web, também como aplicaçes HTML5 com HTML, Javascript e CSS.
@@ -293,7 +293,7 @@ Duas versões chinesas desta lista estão disponíveis [aqui](https://github.com
 - [Mockitt](https://mockitt.wondershare.com/home.html) - Mockitt is an easy-to-use prototyping tool.
 - [Pencil](http://pencil.evolus.vn/) - An open-source GUI prototyping tool that's available for ALL platforms. [![Open-Source Software][oss icon]](https://github.com/evolus/pencil)
 - [Pick](http://kryogenix.org/code/pick/) - Simple color picker. [![Open-Source Software][oss icon]](https://github.com/stuartlangridge/ColourPicker)
-- [Postman](https://www.getpostman.com) - Postman, allows a user to develop and test APIs quickly.
+- [Postman](https://www.postman.com/) - Postman, allows a user to develop and test APIs quickly.
 - [Rabbit VCS](http://rabbitvcs.org/) - RabbitVCS is a set of graphical tools written to provide simple and straightforward access to the version control systems you use. [![Open-Source Software][oss icon]](https://github.com/rabbitvcs/rabbitvcs)
 - [SmartGit](http://www.syntevo.com/smartgit/) - SmartGit is a Git client with support for GitHub Pull Requests+Comments and SVN. ![Nonfree][money icon]
 - [StarUML](https://staruml.io/) - A sophisticated software modeler.
@@ -740,7 +740,7 @@ Duas versões chinesas desta lista estão disponíveis [aqui](https://github.com
 - [RoundPie App](https://theroundpie.com/) - RoundPie App is the easiest way to track your workflow using Pomodoro techniqueÂ®, on top of your current task management service.![Nonfree][money icon]
 - [![Open-Source Software][oss icon]](https://userbase.kde.org/RSIBreak) [RSIBreak](https://userbase.kde.org/RSIBreak) - RSIBreak takes care of your health and regularly breaks your work to avoid repetitive strain injury.
 - [TaskWarrior](https://taskwarrior.org/) - Taskwarrior is Free and Open Source Software that manages your TODO list from the command line. [![Open-Source Software][oss icon]](https://git.tasktools.org/projects)
-- [Todo.txt](http://todotxt.com/) - todo.txt-focused editors which help you manage your tasks with as few keystrokes and taps possible.
+- [Todo.txt](http://todotxt.org/) - todo.txt-focused editors which help you manage your tasks with as few keystrokes and taps possible.
 - [Todoist](https://github.com/kamhix/todoist-linux) - Unofficial client of Todoist, the cross-platform to-do manager with mobile apps, great UI and has some optional premium features. [![Open-Source Software][oss icon]](https://github.com/kamhix/todoist-linux)
 
 #### Widget and Indicator
@@ -785,7 +785,7 @@ Duas versões chinesas desta lista estão disponíveis [aqui](https://github.com
 - [Dropbox](https://www.dropbox.com/install?os=lnx) - Dropbox is a free service that lets you bring your photos, docs, and videos anywhere and share them easily.
 - [Filezilla](https://filezilla-project.org/) - the free FTP solution [![Open-Source Software][oss icon]](https://filezilla-project.org/sourcecode.php)
 - [Flareget](https://flareget.com/) - Full featured, multi-threaded download manager and accelerator
-- [KTorrent](https://www.kde.org/applications/internet/ktorrent/) - KTorrent is a BitTorrent application by KDE which allows you to download files using the BitTorrent protocol. [![Open-Source Software][oss icon]](https://invent.kde.org/network/ktorrent)
+- [KTorrent](https://apps.kde.org/ktorrent/) - KTorrent is a BitTorrent application by KDE which allows you to download files using the BitTorrent protocol. [![Open-Source Software][oss icon]](https://invent.kde.org/network/ktorrent)
 - [Mega](https://mega.nz/#sync) - Easy automated syncing between your computers and your MEGA cloud drive. [![Open-Source Software][oss icon]](https://github.com/meganz/MEGAsync)
 - [NitroShare](https://nitroshare.net/) - Cross-Platform network file transfer application. [![Open-Source Software][oss icon]](https://github.com/nitroshare/nitroshare-desktop)
 - [ownCloud](https://owncloud.com/products/desktop-clients/) - The goal of ownCloud is to give you access to your files wherever you are
