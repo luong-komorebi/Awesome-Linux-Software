@@ -192,7 +192,7 @@ _para consultar una lista más larga de software de audio oprima [aquí](https:/
 - [![Open-Source Software][oss icon]](https://borgbackup.readthedocs.io/en/stable/) [Qt4-fsarchiver](https://sourceforge.net/projects/qt4-fsarchiver/) - Una GUI del programa de archivado para fsarchiver, está diseñada para guardar y restaurar particiones de disco, carpetas y tablas MBR / GPT. Funciona en Ubuntu, Opensuse y Fedora.
 - [![Open-Source Software][oss icon]](https://github.com/ncw/rclone) [rclone](http://rclone.org/) - Rclone es un programa de línea de comandos para sincronizar archivos y directorios de la nube. También permite copia de seguridad cifrada.
 - [![Open-Source Software][oss icon]](https://github.com/rsnapshot/rsnapshot.git) [rsnapshot](http://rsnapshot.org/) - La programa rsnapshot es una utilidad de línea de comandos basada en rsync para realizar instantáneas temporizadas de equipos locales y remotos.
-- [![Open-Source Software][oss icon]](https://sourceforge.net/projects/systemrescuecd/files/sysresccd-x86/) [System Rescue CD](https://www.system-rescue-cd.org/SystemRescueCd_Homepage) - SystemRescueCD es un disco de rescate del sistema linux diseñado para ser ejecutado desde un CD-ROM o memoria USB para reparar un sistema después de un problema.
+- [![Open-Source Software][oss icon]](https://sourceforge.net/projects/systemrescuecd/files/sysresccd-x86/) [System Rescue CD](https://www.system-rescue.org/SystemRescueCd_Homepage) - SystemRescueCD es un disco de rescate del sistema linux diseñado para ser ejecutado desde un CD-ROM o memoria USB para reparar un sistema después de un problema.
 - [![Open-Source Software][oss icon]](https://github.com/cgsecurity/testdisk) [Test Disk](http://www.cgsecurity.org/wiki/TestDisk) - TestDisk es un programa de recuperación gratuito que fue diseñado para recuperar particiones rotas o hacer que los discos que no se pueden arrancar funcionen de nuevo.
 - [![Open-Source Software][oss icon]](https://code.launchpad.net/timeshift) [Timeshift](https://launchpad.net/timeshift) - TimeShift es una utilidad de restauración del sistema que toma copias de seguridad incrementales de un sistema informático utilizando rsync y enlaces duros.
 
@@ -328,7 +328,7 @@ _para consultar una lista más larga de software de audio oprima [aquí](https:/
 - [![Open-Source Software][oss icon]](https://github.com/gitlabhq/gitlabhq) [GitLab](https://github.com/gitlabhq/gitlabhq) - GitLab es un gestor de repositorio Git basado en la web. Puede crear y administrar un wiki y realizar un seguimiento de los problemas.
 - [![Open-Source Software][oss icon]](https://github.com/sitaramc/gitolite) [Gitolite](https://gitolite.com/gitolite/index.html) - Gitolite le permite configurar git hosting en un servidor central, con controles de acceso seguros y muchas más características de gran alcance.
 - [Insomnia](https://insomnia.rest/) - Un simple y hermoso, cliente del REST API.
-- [![Open-Source Software][oss icon]](https://jupyter.readthedocs.io/en/latest/install.html) [Jupyter Notebook](https://jupyter.org/) - Un programa de código abierto que proporciona información interactiva de datos e información científica sobre más de 40 lenguajes de programación.
+- [![Open-Source Software][oss icon]](https://docs.jupyter.org/en/latest/install.html) [Jupyter Notebook](https://jupyter.org/) - Un programa de código abierto que proporciona información interactiva de datos e información científica sobre más de 40 lenguajes de programación.
 - [![Open-Source Software][oss icon]](http://meldmerge.org/development.html) [Meld](http://meldmerge.org/) - Meld es una herramienta de modelado de diferencias visuales diseñada para ayudar a comparar archivos, directorios y proyectos controlados por versiones.
 - [Mockitt](https://mockitt.wondershare.com/home.html) - Mockitt es una herramienta de prototipado simple de utilizar.
 - [![Open-Source Software][oss icon]](https://github.com/evolus/pencil) [Pencil](http://pencil.evolus.vn/) - Una herramienta de creación de prototipos GUI de código abierto, que funciona en diferentes plataformas.
@@ -1246,7 +1246,7 @@ _todos en reddit.com/r/linux y reddit.com/r/ubuntu y vozforums.com y otros foros
 - [Cómo usar github (Inglés)](https://guides.github.com/activities/forking/)
 - [Cómo utilizar Git desde la línea de comandos.](https://rogerdudler.github.io/git-guide/index.es.html)
 - [¿Qué es Markdown?](https://github.com/LewisVo/Markdown-Tutorial/blob/master/Translation:Spanish.md) - Markdown es el método de escritura usado para crear esta lista, si quieres aprender el formato apropiado, lo mejor es que aprendas cómo usar Github Markdown.
-- [Guía alternativa para Markdown (Inglés)](https://guides.github.com/features/mastering-markdown/)
+- [Guía alternativa para Markdown (Inglés)](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 _Los artículos marcados ![Open-Source Software][oss icon] son software de código abierto y tienen un enlace al código fuente. Los artículos marcados [![Nonfree][money icon] cuesta dinero (como en cerveza que cuesta dinero)._
 

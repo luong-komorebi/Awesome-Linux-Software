@@ -164,7 +164,7 @@ _更新：上发布，中文版阅读地址戳[这里](https://alim0x.gitbooks.i
 - [Photorec](http://www.cgsecurity.org/wiki/PhotoRec) - PhotoRec 一款数据恢复应用，为恢复硬盘，CD-ROM 上包括视频，文档以及归档等文件而设计，以及数码相机存储中丢失的相片（Photorec 的由来）。
 - [![Open-Source Software][oss icon]](https://borgbackup.readthedocs.io/en/stable/) [Qt4-fsarchiver](https://sourceforge.net/projects/qt4-fsarchiver/) - qt4-fsarchiver 是 fsarchiver 的图形化界面，能够保存/恢复分区，文件夹和 MBR/GPT 分区。这个程序是基于 Debian 的系统，Suse 以及 Fedora 适用的。
 - [![Open-Source Software][oss icon]](https://github.com/ncw/rclone) [rclone](http://rclone.org/) - Rclone 是一款命令行工具，用于同步文件和目录到不同的云存储方案。它还允许备份加密。
-- [System Rescue CD](https://www.system-rescue-cd.org/SystemRescueCd_Homepage) - SystemRescueCd 是一款 Linux 系统急救盘，提供可启动的 CD-ROM 或 U 盘，用于管理系统在崩溃后修复系统和数据。
+- [System Rescue CD](https://www.system-rescue.org/SystemRescueCd_Homepage) - SystemRescueCd 是一款 Linux 系统急救盘，提供可启动的 CD-ROM 或 U 盘，用于管理系统在崩溃后修复系统和数据。
 - [Test Disk](http://www.cgsecurity.org/wiki/TestDisk) - TestDisk 是一款强大的免费数据恢复软件！它主要设计用于帮助回去丢失的分区和/或修复由软件错误导致的硬盘无法启动引导。
 - [Timeshift](https://launchpad.net/timeshift) - TimeShift 是一款系统还原工具，它用 rsync 和硬链接创建系统的增量快照。快照可以在一段时间后用于恢复，撤销快照生成以来所做的所有更改。快照可以手动生成或用定时任务自动生成。
 
@@ -216,7 +216,7 @@ _更新：上发布，中文版阅读地址戳[这里](https://alim0x.gitbooks.i
 - [Insomnia](https://insomnia.rest/) - 一款简单，漂亮且免费的 REST API 客户端。
 - [![Open-Source Software][oss icon]](https://github.com/JetBrains/intellij-community) [IntelliJ IDEA](https://www.jetbrains.com/idea/) - 强大的 Java IDE。
 - [![Open-Source Software][oss icon]](https://github.com/ipython/ipython) [Ipython](https://ipython.org/) - 强大的 Python shell。
-- [![Open-Source Software][oss icon]](https://jupyter.readthedocs.io/en/latest/install.html) [Jupyter Notebook](https://jupyter.org/) - 开源，交互式数据科学和科学计算，支持超过 40 种编程语言。
+- [![Open-Source Software][oss icon]](https://docs.jupyter.org/en/latest/install.html) [Jupyter Notebook](https://jupyter.org/) - 开源，交互式数据科学和科学计算，支持超过 40 种编程语言。
 - [KDevelop](https://www.kdevelop.org/) - 免费，开源 IDE，全功能，支持插件扩展的 C/C++ 以及其它编程语言 IDE。
 - [Komodo Edit](http://komodoide.com/komodo-edit/) - 免费，开源的多语言开发环境。
 - [Netbeans](https://netbeans.org/downloads/) - NetBeans IDE 让你快速而且容易地开发 Java 桌面，移动以及 web 应用，还有基于 HTML，JavaScript 以及 CSS 的 HTML5 应用。
