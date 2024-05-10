@@ -435,7 +435,7 @@ _更新：上发布，中文版阅读地址戳[这里](https://alim0x.gitbooks.i
 - [![Open-Source Software][oss icon]](https://github.com/lettier/gifcurry) [Gifcurry](https://lettier.github.io/gifcurry/) - Your open source video to GIF maker built with Haskell.
 - [gThumb](https://wiki.gnome.org/Apps/gthumb) - gThumb 是一款图片查看和浏览器（它还包含一个导入工具，用于从相机导入照片）。
 - [![Open-Source Software][oss icon]](https://cgit.kde.org/gwenview.git/tree//?) [gwenview](https://userbase.kde.org/Gwenview) - KDE 桌面简单但强大的图片查看器和管理工具。
-- [Hugin](https://hugin.sourceforge.net/) - 基于 Panorama Tools 的一款易用的跨平台全景图像工具链。
+- [Hugin](https://hugin.sourceforge.io/) - 基于 Panorama Tools 的一款易用的跨平台全景图像工具链。
 - [![Open-Source Software][oss icon]](https://github.com/inkscape/inkscape) [Inkscape](https://inkscape.org/en/) - 不管你是插画家，设计师，web 设计师还是仅仅是需要创建一些矢量图像，它都是一款强大，免费的设计工具
 - [Krita](https://krita.org/en/) - 面向概念艺术家，数字画家以及插画艺术家的开源软件。
 - [KColorChooser](https://kde.org/applications/graphics/org.kde.kcolorchooser) - KColorChooser 是 KDE Plasma 桌面套件中的取色器工具。
@@ -482,7 +482,7 @@ _更新：上发布，中文版阅读地址戳[这里](https://alim0x.gitbooks.i
 - [![Open-Source Software][oss icon]](https://github.com/vinszent/gnome-twitch) [GnomeTwitch](http://gnome-twitch.vinszent.com/) - 在你的 GNU/Linux 桌面上用这款非 Adobe-flash Twitch 客户端享受 Twitch。
 - [![Open-Source Software][oss icon]](https://github.com/EragonJ/Kaku) [Kaku](https://github.com/EragonJ/Kaku/releases) - Ubuntu 开源 youtube 音乐播放器。
 - [![Open-Source Software][oss icon]](https://launchpad.net/~midori/+archive/ubuntu/ppa). [Midori](https://astian.org/midori-browser/download/) - 一款轻量级的免费浏览器，在低端机器上可以完美运行。
-- [![Open-Source Software][oss icon]](https://github.com/minbrowser/min) [Min](https://minbrowser.github.io/min) - 智能，快速的 web 浏览器。
+- [![Open-Source Software][oss icon]](https://github.com/minbrowser/min) [Min](https://minbrowser.org/min/) - 智能，快速的 web 浏览器。
 - [![Open-Source Software][oss icon]](https://github.com/rg3/youtube-dl). [youtube-dl](https://github.com/rg3/youtube-dl) - YouTube 视频下载神器，是一个 Python 编写的命令行视频下载器，同时支持其它一些视频网站或平台。注意：国内用户若要下载 YouTube 视频，需要给它添加 --proxy 参数，指定代理下载。
 
 ### 办公
