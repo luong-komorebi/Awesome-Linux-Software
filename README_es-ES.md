@@ -556,7 +556,6 @@ _para consultar una lista más larga de software de audio oprima [aquí](https:/
 - [![Open-Source Software][oss icon]](https://sourceforge.net/projects/cinepaint/) [Cinepaint](http://cinepaint.org/) - Un software de pintura capaz y de código abierto.
 - [![Open-Source Software][oss icon]](https://github.com/lettier/gifcurry) [Gifcurry](https://lettier.github.io/gifcurry/) -
   es un creador de imágenes GIF de código abierto.
-- [Gravit](https://www.coreldraw.com/en/product/vector/) - Gravit Designer es una aplicación de diseño vectorial libre.
 - [Heron Animation](https://heronanimation.brunolefevre.net/) - Es un programa de animación "Stop motion" gratuito.
 - [![Open-Source Software][oss icon]](https://github.com/inkscape/inkscape) [Inkscape](https://inkscape.org/en/) - Es una herramienta de diseño capaz y gratuita para imágenes vectoriales.
 - [![Open-Source Software][oss icon]](https://www.kde.org/applications/graphics/karbon/development) [Karbon](https://www.calligra.org/karbon/) - Es un programa de dibujo vectorial de código abierto.

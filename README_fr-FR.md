@@ -562,7 +562,6 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [![Open-Source Software][oss icon]](http://archive.blender.org/download/source-code/index.html) [Blender](https://www.blender.org/) - a free and open source complete 3D creation pipeline for artists and small teams.
 - [![Open-Source Software][oss icon]](https://sourceforge.net/projects/cinepaint/) [Cinepaint](http://cinepaint.org/) - Open source deep paint software.
 - [![Open-Source Software][oss icon]](https://github.com/lettier/gifcurry) [Gifcurry](https://lettier.github.io/gifcurry/) - Your open source video to GIF maker built with Haskell.
-- [Gravit](https://www.coreldraw.com/en/product/vector/) - Gravit Designer is a full featured free vector design app right at your fingertip.
 - [Heron Animation](https://heronanimation.brunolefevre.net/) - A free stop animation making program.
 - [![Open-Source Software][oss icon]](https://github.com/inkscape/inkscape) [Inkscape](https://inkscape.org/en/) - A powerful, free design tool for you , whether you are an illustrator, designer, web designer or just someone who needs to create some vector imagery.
 - [![Open-Source Software][oss icon]](https://www.kde.org/applications/graphics/karbon/development) [Karbon](https://www.calligra.org/karbon/) - An open source vector drawing program.
