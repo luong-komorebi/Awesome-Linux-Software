@@ -1553,6 +1553,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 
 - ![Nonfree][money icon][CyberGhost](https://www.cyberghostvpn.com/en_US/) - CyberGhost VPN allows you to surf the Internet freely, as if in disguise, regardless of the type of application you use and from where you log in.
 - ![Nonfree][money icon][ExpressVPN](https://www.expressvpn.com/) - ExpressVPN is the worlds fastest VPN service. It is both safe and reliable to watch and stream movies abroad, or simply access your favourite sites.
+- ![Nonfree][money icon][![Open-Source Software][oss icon]](https://ipv6.rs/) [IPv6rs](https://ipv6.rs) - IPv6 endpoints with IPv4 reverse proxies as well as IPv4 and IPv6 privacy tunnels. Also checkout [Cloud Seeder](https://ipv6.rs/cloudseeder).
 - ![Nonfree][money icon][IVPN](https://www.ivpn.net/) - IVPN offers a secure VPN service to privacy minded individuals including multi-hop technology and fast bandwidth.
 - ![Nonfree][money icon][![Open-Source Software][oss icon]](https://github.com/mozilla-mobile/mozilla-vpn-client) [Mozilla VPN](https://www.mozilla.org/en-US/products/vpn/) - Protect your web history, feel safer on public Wi-Fi, and limit ad tracking by increasing the security of your network connection.
 - ![Nonfree][money icon][![Open-Source Software][oss icon]](https://github.com/mullvad/mullvadvpn-app) [Mullvad](https://mullvad.net/en/) - Mullvad is a VPN service that helps keep your online activity, identity, and location private.
