@@ -556,7 +556,6 @@ _para consultar una lista más larga de software de audio oprima [aquí](https:/
 - [![Open-Source Software][oss icon]](https://sourceforge.net/projects/cinepaint/) [Cinepaint](http://cinepaint.org/) - Un software de pintura capaz y de código abierto.
 - [![Open-Source Software][oss icon]](https://github.com/lettier/gifcurry) [Gifcurry](https://lettier.github.io/gifcurry/) -
   es un creador de imágenes GIF de código abierto.
-- [Gravit](https://www.designer.io/) - Gravit Designer es una aplicación de diseño vectorial libre.
 - [Heron Animation](https://heronanimation.brunolefevre.net/) - Es un programa de animación "Stop motion" gratuito.
 - [![Open-Source Software][oss icon]](https://github.com/inkscape/inkscape) [Inkscape](https://inkscape.org/en/) - Es una herramienta de diseño capaz y gratuita para imágenes vectoriales.
 - [![Open-Source Software][oss icon]](https://www.kde.org/applications/graphics/karbon/development) [Karbon](https://www.calligra.org/karbon/) - Es un programa de dibujo vectorial de código abierto.
@@ -577,7 +576,7 @@ _para consultar una lista más larga de software de audio oprima [aquí](https:/
 - [![Open-Source Software][oss icon]](https://github.com/darktable-org/darktable) [Darktable](http://www.darktable.org/) - Darktable es una aplicación de flujo de trabajo de código abierto para fotografía y imágenes en formato RAW.
 - [![Open-Source Software][oss icon]](https://github.com/GNOME/gimp) [GIMP](https://www.gimp.org/downloads/) - Es un programa Open Source para edición de fotos, composición de imágenes y creación de imágenes.
 - [![Open-Source Software][oss icon]](http://www.graphicsmagick.org/) [GraphicsMagick](http://www.graphicsmagick.org/) - GraphicsMagick es un programa de sistema de procesamiento de imágenes que permite transformaciones y cambios en las imágenes.
-- [Hugin](https://hugin.sourceforge.net/) - Es un programa multiplataforma fácil de usar para editar y trabajar con panoramas.
+- [Hugin](https://hugin.sourceforge.io/) - Es un programa multiplataforma fácil de usar para editar y trabajar con panoramas.
 - [ImageMagik](http://www.imagemagick.org/script/index.php) - ImageMagick es un grupo de programas para la línea de comandos para modificar imágenes.
 - [![Open-Source Software][oss icon]](https://github.com/LuminanceHDR/LuminanceHDR) [Luminance HDR](https://sourceforge.net/projects/qtpfsgui/) - Luminance HDR es un programa de código abierto que proporciona un flujo de trabajo para imágenes HDR.
 - [![Open-Source Software][oss icon]](https://github.com/google-code-export/photivo) [Photivo](https://photivo.org/) - Photivo es un procesador de foto de código abierto, que puede trabajar con RAW, BMP, TIFF, JPEG, PNG, y muchos más formatos de archivo. Se puede integrar con GIMP y está diseñado para ser utilizado también con Digikam / F-Spot / Shotwell.
@@ -652,7 +651,7 @@ _para consultar una lista más larga de software de audio oprima [aquí](https:/
 - [![Open-Source Software][oss icon]](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide) [Firefox](https://www.mozilla.org/en-US/firefox/new/) - Un popular navegador web que es bien conocido por tener muchos complementos para mejorar la funcionalidad.
 - [![Open-Source Software][oss icon]](https://git.savannah.gnu.org/cgit/gnuzilla.git) [IceCat](https://www.gnu.org/software/gnuzilla/) - Una versión de código abierto del navegador web de Firefox. Sólo utiliza software de código abierto.
 - [![Open-Source Software][oss icon]](https://launchpad.net/~midori/+archive/ubuntu/ppa) [Midori](https://astian.org/midori-browser/download/) - Un navegador web diseñado para no utilizar mucha potencia del sistema.
-- [![Open-Source Software][oss icon]](https://github.com/minbrowser/min) [Min](https://minbrowser.github.io/min) - es un navegador web muy minimalista y elegante.
+- [![Open-Source Software][oss icon]](https://github.com/minbrowser/min) [Min](https://minbrowser.org/min/) - es un navegador web muy minimalista y elegante.
 - [Opera](http://www.opera.com/) - Es un navegador web capaz, también fue el primero en tener "Smart Dial" funcionalidad.
 - [![Open-Source Software][oss icon]](https://github.com/qutebrowser/qutebrowser) [QuteBrowser](https://www.qutebrowser.org/) - es un navegador diseñado para ser utilizado con el teclado, y tiene muchos VIM como atajos.
 - [Vivaldi](https://vivaldi.com/?lang=en) - Un navegador que está creciendo en popularidad, es el navegador más personalizable que puedes descargar.
@@ -1243,7 +1242,7 @@ _todos en reddit.com/r/linux y reddit.com/r/ubuntu y vozforums.com y otros foros
 
 ## Cómo contribuir
 
-- [Cómo usar github (Inglés)](https://guides.github.com/activities/forking/)
+- [Cómo usar github (Inglés)](https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project)
 - [Cómo utilizar Git desde la línea de comandos.](https://rogerdudler.github.io/git-guide/index.es.html)
 - [¿Qué es Markdown?](https://github.com/LewisVo/Markdown-Tutorial/blob/master/Translation:Spanish.md) - Markdown es el método de escritura usado para crear esta lista, si quieres aprender el formato apropiado, lo mejor es que aprendas cómo usar Github Markdown.
 - [Guía alternativa para Markdown (Inglés)](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
