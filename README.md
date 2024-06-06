@@ -588,6 +588,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 
 - [![Open-Source Software][oss icon]](https://github.com/KiCad) [KiCAD](https://www.kicad.org/) - An EDA suite for schematic and circuit board design.
 - [![Open-Source Software][oss icon]](https://github.com/logisim-evolution/logisim-evolution) [Logisim Evolution](https://github.com/logisim-evolution/logisim-evolution) - Graphical tool for designing and simulating digital logic curcuits. Successor of LogiSim.
+- [![Open-Source Software][oss icon]](https://github.com/Arcachofo/SimulIDE-dev) [SimulIDE Circuit Simulator](https://simulide.com) - SimulIDE is a simple real time electronic circuit simulator, intended for hobbyist or students to learn and experiment with analog and digital electronic circuits and microcontrollers. It supports PIC, AVR , Arduino and other MCUs and MPUs.
 
 ### Education
 
