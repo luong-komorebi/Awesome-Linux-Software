@@ -1524,6 +1524,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [![Open-Source Software][oss icon]](https://github.com/peterlevi/variety-slideshow) [Variety](https://peterlevi.com/variety/) - Variety is an open-source wallpaper changer for Linux, packed with great features, yet slim and easy to use.
 - [![Open-Source Software][oss icon]](https://gitlab.freedesktop.org/wayland) [Wayland](https://wayland.freedesktop.org/) - Wayland is intended as a simpler replacement for X, easier to develop and maintain.
 - [![Open-Source Software][oss icon]](https://github.com/rcaelers/workrave) [Workrave](https://www.workrave.org/) - A program that assists in the recovery and prevention of Repetitive Strain Injury (RSI).
+- [![Open-Source Software][oss icon]](https://github.com/FengZhongShaoNian/sticky-rs)[sticky-rs](https://github.com/FengZhongShaoNian/sticky-rs) - A Tauri-powered image sticky-note app（Support Linux）, enabling users to  affix pictures to their desktop and keep them always on display. It  comes equipped with various annotation capabilities. 
 
 ### Video
 
