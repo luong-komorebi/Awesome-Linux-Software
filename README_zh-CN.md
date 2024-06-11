@@ -463,6 +463,7 @@ _更新：上发布，中文版阅读地址戳[这里](https://alim0x.gitbooks.i
 - [![Open-Source Software][oss icon]](https://github.com/Beep6581/RawTherapee) [RawTherapee](http://rawtherapee.com/) - 一款漂亮的但不那么著名的照片编辑应用。
 - [![Open-Source Software][oss icon]](https://github.com/synfig/synfig) [Synfig Studio](http://www.synfig.org/) - 开源 2D 动画软件。
 - [![Open-Source Software][oss icon]](https://github.com/ozmartian/vidcutter) [Vidcutter](http://vidcutter.ozmartians.com/) - 跨平台 Qt5 应用，用于快速简单的视频剪辑分段和合并编辑。
+- [![Open-Source Software][oss icon]](https://github.com/FengZhongShaoNian/sticky-rs) [sticky-rs](https://github.com/FengZhongShaoNian/sticky-rs) - 一款使用Tauri开发的开源的贴图软件（支持Linux系统），可以将图片钉在桌面上并置顶，还可以对图片进行标注。 
 
 ### 互联网
 
@@ -573,6 +574,7 @@ _更新：上发布，中文版阅读地址戳[这里](https://alim0x.gitbooks.i
 - [Gnome-dictionary](https://wiki.gnome.org/Apps/Dictionary) - GNOME 下的一款强大的字典。
 - [Plank](https://launchpad.net/plank) - Plank 注定要成为这个星球上最简洁的应用 dock。
 - [Xmind](http://www.xmind.net/) - 脑图工具。
+- [![Open-Source Software][oss icon]](https://github.com/FengZhongShaoNian/sticky-rs) [sticky-rs](https://github.com/FengZhongShaoNian/sticky-rs) - 一款使用Tauri开发的开源的贴图软件（支持Linux系统），可以将图片钉在桌面上并置顶，还可以对图片进行标注。 
 
 ### 安全
 
@@ -686,6 +688,7 @@ _更新：上发布，中文版阅读地址戳[这里](https://alim0x.gitbooks.i
 - [PlexyDesk](http://www.omgubuntu.co.uk/2016/09/plexydesk-widgets-linux-desktop-ppa) - Plexydesk 支持 Linux 多插件工作空间/桌面。
 - [![Open-Source Software][oss icon]](http://github.com/wereturtle/ghostwriter) [Ghost Writer](https://ghostwriter.kde.org/) - 一款专注的 Windows 及 Linux Markdown 编辑器。
 - [PlexyDesk](https://www.omgubuntu.co.uk/2016/09/plexydesk-widgets-linux-desktop-ppa) - Plexydesk 支持 Linux 多插件工作空间/桌面。
+- [![Open-Source Software][oss icon]](https://github.com/FengZhongShaoNian/sticky-rs) [sticky-rs](https://github.com/FengZhongShaoNian/sticky-rs)  - 一款使用Tauri开发的开源的贴图软件（支持Linux系统），可以将图片钉在桌面上并置顶，还可以对图片进行标注。 
 
 ### 视频
 
