@@ -1405,6 +1405,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [![Open-Source Software][oss icon]](https://github.com/emacs-mirror/emacs) [Emacs](https://www.gnu.org/software/emacs/) - An extensible, customizable, free/libre text editor — and more.
 - [![Open-Source Software][oss icon]](https://github.com/mawww/kakoune) [Kakoune](https://kakoune.org/) - Kakoune code editor - Vim inspired. Faster as in less keystrokes. Multiple selections. Orthogonal design. Has a strong focus on interactivity.
 - [![Open-Source Software][oss icon]](https://github.com/LunarVim/LunarVim) [LunarVim](https://www.lunarvim.org/#opinionated) - LunarVim is an opinionated, extensible, and fast IDE layer for Neovim.
+- [![Open-Source Software][oss icon]](https://github.com/neovide/neovide/) [Neovide](https://neovide.dev/) - Neovide is a cross-platform GUI for Neovim written in Rust with graphical improvements and more visual flair.
 - [![Open-Source Software][oss icon]](https://github.com/neovim/neovim) [Neovim](https://neovim.io/) - Neovim is a fork of Vim aiming to improve user experience, plugins, and GUIs.
 - [![Open-Source Software][oss icon]](https://github.com/NvChad/NvChad) [NvChad](https://nvchad.com/) - An attempt to make neovim cli functional like an IDE while being very beautiful and blazing fast.
 - [![Open-Source Software][oss icon]](https://github.com/syl20bnr/spacemacs) [Spacemacs](https://www.spacemacs.org/) - A community-driven Emacs distribution.
