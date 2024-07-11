@@ -29,6 +29,7 @@
   - [Games](#games)
   - [Graphics](#graphics)
   - [Internet](#internet)
+  - [Network](#network)
   - [Office](#office)
   - [Productivity](#productivity)
   - [Proxy](#proxy)
@@ -440,7 +441,6 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [![Open-Source Software][oss icon]](https://sourceware.org/git/?p=valgrind.git) [Valgrind](http://valgrind.org/) - Valgrind is a GPL'd system for debugging and profiling Linux programs.
 - ![Nonfree][money icon] [Vershd](https://vershd.io/) - Vershd is the free for personal use effortless Git GUI for Windows, Mac, & Linux.
 - [![Open-Source Software][oss icon]](https://www.gnu.org/software/wdiff/devguide) [Wdiff](https://www.gnu.org/software/wdiff/) - The GNU wdiff program is a front end to diff for comparing files on a word per word basis. It collects the diff output and uses it to produce a nicer display of word differences between the original files.
-- [![Open-Source Software][oss icon]](https://gitlab.com/wireshark/wireshark/-/tree/master) [Wireshark](https://www.wireshark.org/) - Wireshark is the world's foremost network protocol analyzer. It lets you see what's happening on your network at a microscopic level. It is the de facto (and often de jure) standard across many industries and educational institutions.
 - [![Open-Source Software][oss icon]](https://github.com/sonnyp/Workbench) [Workbench](https://apps.gnome.org/app/re.sonny.Workbench/) - Workbench goal is to let you experiment with GNOME technologies, no matter if tinkering for the first time or building and testing a custom GTK widget.
 - [![Open-Source Software][oss icon]](https://github.com/zealdocs/zeal) [Zeal](https://zealdocs.org/) - Zeal is an offline documentation browser for software developers.
 
@@ -946,6 +946,36 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [![Open-Source Software][oss icon]](https://streamlink.github.io/streamlink-twitch-gui/) [Streamlink Twitch GUI](https://streamlink.github.io/streamlink-twitch-gui/) - A multi platform Twitch.tv browser for [Streamlink](https://streamlink.github.io/).
 - [![Open-Source Software][oss icon]](https://github.com/pystardust/ytfzf) [ytfzf](https://github.com/pystardust/ytfzf) - Terminal Youtube/Odysee client with thumbnails.
 
+### Network
+
+#### Network Simulators / Emulators
+
+- [Cisco Packet Tracer](https://www.netacad.com/courses/packet-tracer) - Cisco Packet Tracer is a cross-platform visual simulation tool designed by Cisco Systems that allows users to create network topologies and imitate modern computer networks. The software allows users to simulate the configuration of Cisco routers and switches using a simulated command line interface. 
+- [![Open-Source Software][oss icon]](https://github.com/GNS3) [GNS3 (Graphical Network Simulator 3)](https://gns3.com) - GNS3 is a network software emulator first released in 2008. It allows the combination of virtual and real devices, used to simulate complex networks. It uses Dynamips emulation software to simulate Cisco IOS.
+- [EVE-NG (Emulated Virtual Environment – Next Generation)](https://www.eve-ng.net) - EVE-NG’s versatility is noteworthy, supporting various virtualization platforms. It is particularly useful for emulating complex network environments.
+- [Cisco VIRL (Virtual Internet Routing Lab)](https://learningnetwork.cisco.com/s/virl) - VIRL is Cisco's powerful network simulation platform. VIRL is shipped with Cisco OS virtual machines included in the software package. This is your flexible, all-in-one virtual networking lab. No more bulky network equipment and hours of wiring! Easy to deploy, easy to build and easy to collaborate. Easily create connections to actual networking equipment by extending your lab to physical and virtual networking devices.
+- [![Open-Source Software][oss icon]](https://github.com/omnetpp/omnetpp) [OMNeT++](https://omnetpp.org) - OMNeT++ (Objective Modular Network Testbed in C++) is a modular, component-based C++ simulation library and framework, primarily for building network simulators. Various network technologies are supported by OMNeT++ which include wired networks, wireless networks, sensor networks, optical networks, etc.
+- [NS-3 (Network Simulator 3)](https://www.nsnam.org) - NS-3 is a discrete-event network simulator for Internet systems, targeted primarily for research and educational use. It supports various network technologies, some of which include wireless networks, mobile networks, internet protocols, etc. Apart from all this, it also offers various network debugging and tracing functions.
+
+
+#### Network Monitoring
+
+- [![Open-Source Software][oss icon]](https://github.com/NagiosEnterprises/nagioscore) [Nagios](https://www.nagios.org) - Nagios is a powerful monitoring system that provides comprehensive monitoring of network services, hosts, and infrastructure components, helping businesses ensure high availability and reliability.
+- [![Open-Source Software][oss icon]](https://github.com/zabbix/zabbix) [Zabbix](https://www.zabbix.com) - Zabbix is an enterprise-grade open-source monitoring solution that offers real-time monitoring, alerting, and visualization of your network infrastructure, enabling proactive management and troubleshooting.
+- [![Open-Source Software][oss icon]](https://github.com/Cacti/cacti) [Cacti](https://www.cacti.net) - Cacti is a web-based network monitoring and graphing tool that allows users to monitor the performance of their network in real-time, making it easier to identify trends and potential issues.
+- [![Open-Source Software][oss icon]](https://github.com/munin-monitoring/munin) [Munin](https://munin-monitoring.org) - Munin is a network monitoring tool that focuses on resource usage and trends, offering a simple and intuitive interface for monitoring various aspects of your network, such as CPU, memory, and disk usage.
+
+#### Other Tools
+- [![Open-Source Software][oss icon]](https://gitlab.com/wireshark/wireshark/-/tree/master) [Wireshark](https://www.wireshark.org/) - Wireshark is the world's foremost network protocol analyzer. It lets you see what's happening on your network at a microscopic level. It is the de facto (and often de jure) standard across many industries and educational institutions.
+- [![Open-Source Software][oss icon]](https://github.com/nmap/nmap) [Nmap](https://nmap.org/) - Nmap is a free, open-source tool for network exploration, management, and security auditing.
+- [![Open-Source Software][oss icon]](https://github.com/mRemoteNG/mRemoteNG) [mRemoteNG](https://mremoteng.org/) - mRemoteNG enables SysAdmins to manage systems remotely by using protocols such as VNC, RDP, ICA, Telnet, or SSH. Other useful features include saving credentials and the connection database.
+- [![Open-Source Software][oss icon]](https://github.com/cyberkathosting/ispconfig3) [ISPConfig3](http://ispconfig.org/) - Using the dashboard, administrators have the ability to manage websites, email addresses, MySQL and MariaDB databases, FTP accounts, Shell accounts and DNS records through a web-based interface. The software has 4 login levels: administrator, reseller, client, and email-user, each with a different set of permissions.
+- [FileZilla](https://filezilla-project.org/) - Filezilla is an GPL licensed FTP client and Server. It’s ability to connect to SSH secured hosts makes it a great choice if you need to give access to client more comfortable with GUI than CLI interfaces.
+- [PuTTy](https://www.putty.org/) - PuTTy is an open-source SSH, Telnet client, and terminal emulator, allowing you to connect to your servers via a text-based interface.
+- [![Open-Source Software][oss icon]](https://github.com/the-tcpdump-group/tcpdump) [TCPdump](https://www.tcpdump.org/) - tcpdump is a data-network packet analyzer computer program that runs under a command line interface. It allows the user to display TCP/IP and other packets being transmitted or received over a network to which the computer is attached.
+- [Fiddler](http://www.telerik.com/fiddler) - Fiddler is a proxy server that is meant to run locally to allow for developers to debug web applications. If you have multiple different applications or processes that can modify the values in a form it’s great to be able to see the actual output as transmitted. If you’re working with a remote API, you can also compose and replay requests as needed.
+- [Dnsmasq](https://thekelleys.org.uk/dnsmasq/doc.html) - dnsmasq is free software providing Domain Name System (DNS) caching, a Dynamic Host Configuration Protocol (DHCP) server, router advertisement and network boot features, intended for small computer networks.
+
 ### Office
 
 #### Accounting
@@ -1345,7 +1375,6 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [![Open-Source Software][oss icon]](https://github.com/cheesecakeufo/komorebi) [Komorebi](https://github.com/cheesecakeufo/komorebi) - Komorebi is a background manager for all Linux platforms, provides fully customizable backgrounds that can be tweaked at any time.
 - [![Open-Source Software][oss icon]](https://github.com/rastapasta/mapscii) [mapscii](https://github.com/rastapasta/mapscii) - MapSCII is a Braille & ASCII world map renderer for your console.
 - [![Open-Source Software][oss icon]](https://github.com/mobile-shell/mosh) [Mosh](https://mosh.org) - Mosh is a Remote terminal application that allows roaming, supports intermittent connectivity, and provides intelligent local echo and line editing of user keystrokes.
-- [![Open-Source Software][oss icon]](https://github.com/nmap/nmap) [Nmap](https://nmap.org/) - Nmap is a free, open-source tool for network exploration, management, and security auditing.
 - [![Open-Source Software][oss icon]](https://github.com/jiahaog/nativefier) [Nativefier](https://github.com/jiahaog/nativefier) - Make any web page a desktop application.
 - [![Open-Source Software][oss icon]](https://sourceforge.net/projects/peaextractor/files/) [PeaExtractor](https://sourceforge.net/projects/peaextractor/) A utility designed to unzip files and be as frictionless as possible, and easy to use as possible.
 - [![Open-Source Software][oss icon]](https://sourceforge.net/projects/peazip/files/) [Peazip](https://sourceforge.net/projects/peazip/) - A utility to unzip any of a huge variety of compression formats.
