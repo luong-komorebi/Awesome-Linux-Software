@@ -1314,6 +1314,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [CrossFTP](https://www.crossftp.com/ftp-client.htm) - CrossFTP makes it extremely simple to manage the FTP related tasks.
 - [D-lan](https://www.d-lan.net/) - A free LAN file sharing software.
 - [![Open-Source Software][oss icon]](https://svn.filezilla-project.org/filezilla/FileZilla3/) [Filezilla](https://filezilla-project.org/) - The free FTP solution.
+- [![Open-Source Software][oss icon]](https://github.com/localsend/localsend) [LocalSend](https://localsend.org/) - An open-source cross-platform alternative to AirDrop.
 - [![Open-Source Software][oss icon]](https://github.com/nitroshare/nitroshare-desktop) [NitroShare](https://nitroshare.net/) - Cross-Platform network file transfer application.
 - [![Open-Source Software][oss icon]](https://github.com/micahflee/onionshare) [OnionShare](https://onionshare.org/) - Securely and anonymously share a file of any size.
 - [![Open-Source Software][oss icon]](https://github.com/sidneys/pb-for-desktop) [PushBullet for desktop](https://sidneys.github.io/pb-for-desktop/) - The missing Desktop application for Pushbullet.
