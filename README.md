@@ -160,7 +160,7 @@
 
 ### 3D Printing
 
-- [![Open-Source Software][oss icon]](https://github.com/Ultimaker/Cura) [Cura](https://ultimaker.com/software/ultimaker-cura/) - The worlds most advanced 3D printer software.
+- [![Open-Source Software][oss icon]](https://github.com/Ultimaker/Cura) [Cura](https://ultimaker.com/software/ultimaker-cura/) - The world's most advanced 3D printer software.
 - [![Open-Source Software][oss icon]](https://github.com/FreeCAD) [FreeCAD](https://www.freecad.org/) - An open source parametric 3D CAD modeler.
 - [![Open-Source Software][oss icon]](https://github.com/prusa3d/PrusaSlicer) [PrusaSlicer](https://www.prusa3d.com/page/prusaslicer_424/) - A slicer based on Slic3r by Alessandro Ranellucci and the RepRap community.
 
