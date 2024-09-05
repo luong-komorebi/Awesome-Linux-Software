@@ -1122,6 +1122,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [![Open-Source Software][oss icon]](https://github.com/jarun/bcal) [bcal](https://github.com/jarun/bcal) - Perform storage conversions and calculations.
 - [![Open-Source Software][oss icon]](https://github.com/hluk/CopyQ) [CopyQ](https://hluk.github.io/CopyQ/) -CopyQ is advanced clipboard manager with editing and scripting features.
 - [f.lux](https://justgetflux.com/linux.html) - A program that reddens your display to help you sleep better.
+- [![Open-Source Software][oss icon]](https://github.com/FreeterApp/Freeter) [Freeter](https://freeter.io/) - Gather everything you need for work in one place, organized by projects and workflows,  and stay focused on what matters at any given moment.
 - [![Open-Source Software][oss icon]](https://github.com/thezbyg/gpick) [Gpick](https://www.gpick.org/) - Gpick allows you to sample any color from anywhere on your desktop, and it also provides some other advanced features!
 - [![Open-Source Software][oss icon]](https://github.com/jarun/pdd) [pdd](https://github.com/jarun/pdd) - Tiny date, time diff calculator.
 - [![Open-Source Software][oss icon]](https://github.com/jonls/redshift) [Redshift](http://jonls.dk/redshift/) - Redshift adjusts the color temperature of your screen according to your surroundings. This may help your eyes hurt less if you are working in front of the screen at night.
