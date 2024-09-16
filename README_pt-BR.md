@@ -1030,7 +1030,7 @@ Duas versões chinesas desta lista estão disponíveis [aqui](https://github.com
 - [Bspwm](https://github.com/baskerville/bspwm/wiki) - bspwm is a tiling window manager that represents windows as the leaves of a full binary tree. [![Open-Source Software][oss icon]](https://github.com/baskerville/bspwm)
 - [Herbstluftwm](https://herbstluftwm.org) - Manual tiling window manager for X11 using Xlib and Glib. [![Open-Source Software][oss icon]](https://github.com/herbstluftwm/herbstluftwm)
 - [i3 WM](https://i3wm.org/) - A better tiling and dynamic window manager. It's completely written from scratch. The target platforms are GNU/Linux and BSD operating systems. [![Open-Source Software][oss icon]](https://github.com/i3/i3)
-- [Qtile](https://www.qtile.org/) - qtile is a full-featured, hackable tiling window manager written and configured in Python [![Open-Source Software][oss icon]](https://github.com/qtile/qtile)
+- [Qtile](https://qtile.org/) - qtile is a full-featured, hackable tiling window manager written and configured in Python [![Open-Source Software][oss icon]](https://github.com/qtile/qtile)
 - [![Open-Source Software][oss icon]](https://github.com/swaywm/sway) [Sway](http://swaywm.org) - Sway is tiling Wayland compositor and a drop-in replacement for the i3 window manager for X11.
 
 ### Dynamic window managers

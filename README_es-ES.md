@@ -1053,7 +1053,7 @@ _para consultar una lista más larga de software de audio oprima [aquí](https:/
 - [![Open-Source Software][oss icon]](https://github.com/baskerville/bspwm) [Bspwm](https://github.com/baskerville/bspwm/wiki) - bspwm es un gestor de embaldosado que representa las ventanas como partes de un árbol.
 - [![Open-Source Software][oss icon]](https://github.com/herbstluftwm/herbstluftwm) [Herbstluftwm](https://herbstluftwm.org) - Es un manual gestor de embaldosado para X11.
 - [![Open-Source Software][oss icon]](https://github.com/i3/i3) [i3 WM](https://i3wm.org/) - i3 WM es un gestor de ambaldosado y dinámico que es administrador de ventanas capaz escrito desde cero.
-- [![Open-Source Software][oss icon]](https://github.com/qtile/qtile) [Qtile](https://www.qtile.org/) - qtile es un gestor de embaldosado hackable completo en python.
+- [![Open-Source Software][oss icon]](https://github.com/qtile/qtile) [Qtile](https://qtile.org/) - qtile es un gestor de embaldosado hackable completo en python.
 - [![Open-Source Software][oss icon]](https://github.com/swaywm/sway) [Sway](http://swaywm.org) - Sway está embaldosando el compositor Wayland y reemplazando al administrador de ventanas i3 para X11.
 
 ### Gestor de dinámico
