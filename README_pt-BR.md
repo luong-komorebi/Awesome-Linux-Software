@@ -322,7 +322,7 @@ Duas versões chinesas desta lista estão disponíveis [aqui](https://github.com
 - [Peruse](https://peruse.kde.org/) - Uma maneira agradável de ler quadrinhos..[![Open-Source Software][oss icon]](https://download.kde.org/stable/peruse/peruse-1.2.tar.xz.mirrorlist) ![Freeware][freeware icon]
 - [qpdf](https://launchpad.net/qpdfview) - qpdfview é um visualizador de documentos com guias. [![Open-Source Software][oss icon]](https://launchpad.net/qpdfview) ![Freeware][freeware icon]
 - [Sigil](https://github.com/Sigil-Ebook/Sigil) - Sigil é um editor de eBook multi-plataforma EPUB.[![Open-Source Software][oss icon]](https://github.com/Sigil-Ebook/Sigil) ![Freeware][freeware icon]
-- [Zathura](https://pwmt.org/projects/zathura/) - Zathura é um visualizador de documentos altamente personalizável e funcional. [![Open-Source Software][oss icon]](https://git.pwmt.org/pwmt/zathura.git) ![Freeware][freeware icon]
+- [Zathura](https://pwmt.org/projects/zathura/) - Zathura é um visualizador de documentos altamente personalizável e funcional. [![Open-Source Software][oss icon]](https://github.com/pwmt/zathura) ![Freeware][freeware icon]
 
 ### Editores
 
