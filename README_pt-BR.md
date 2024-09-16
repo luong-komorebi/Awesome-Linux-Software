@@ -729,7 +729,7 @@ Duas versões chinesas desta lista estão disponíveis [aqui](https://github.com
 
 #### Time and Task
 
-- [Alarm Clock](https://alarm-clock-applet.github.io/) - Alarm Clock is a fully-featured alarm clock for your GNOME panel or equivalent. [![Open-Source Software][oss icon]](http://bazaar.launchpad.net/~joh/alarm-clock/trunk/files)
+- [Alarm Clock](https://alarm-clock-applet.github.io/) - Alarm Clock is a fully-featured alarm clock for your GNOME panel or equivalent. [![Open-Source Software][oss icon]](https://github.com/alarm-clock-applet/alarm-clock)
 - [![Open-Source Software][oss icon]](https://git.calcurse.org/calcurse.git/) [calcurse](http://calcurse.org/) - A calendar and scheduling application for the command line.
 - [California](https://wiki.gnome.org/Apps/California) - Complete Calendar app replacement which uses natural language for creating events.
 - ![Nonfree][money icon] [Everdo](https://everdo.net/linux) - TODO list and Getting Things Done® app for all platforms. Beautiful, powerful, not SaaS, free version available.
