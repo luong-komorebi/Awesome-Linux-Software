@@ -182,6 +182,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [![Open-Source Software][oss icon]](https://github.com/LMMS/lmms) [LMMS](https://lmms.io/download/#linux) - Making music on your PC by creating melodies and beats, synthesizing and mixing sounds, arranging samples and much more.
 - [![Open-Source Software][oss icon]](https://github.com/mixxxdj/mixxx) [Mixxx](https://www.mixxx.org/download/) - Free DJ software that gives you everything you need to perform live mixes; veritable alternative to Traktor.
 - [![Open-Source Software][oss icon]](https://github.com/musescore/MuseScore) [MuseScore](https://musescore.org) - Create, play and print beautiful sheet music.
+- [![Open-Source Software][oss icon]](https://github.com/greynewell/musegpt) [musegpt](https://musegpt.org) - Run local language models in your digital audio workstation in VST, AU, or AAX format.
 - ![Non Free][money icon] [Reaper](https://www.reaper.fm/) - Audio Production without Limits.
 - [![Open-Source Software][oss icon]](https://github.com/VCVRack/Rack) [VCV Rack](https://vcvrack.com/) - An open-source virtual modular synthesizer.
 - [![Open-Source Software][oss icon]](https://github.com/Audio4Linux/Viper4Linux-GUI) [Viper4Linux](https://github.com/Audio4Linux/Viper4Linux-GUI) - An audio effect processor based on Viper4Android.
