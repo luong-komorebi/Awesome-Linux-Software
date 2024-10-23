@@ -8,6 +8,7 @@
 
 **شكر وتقدير:** _كل اللي مكتوب تحت ده من تجربتي الشخصية في الجامعة وبعد ما قريت مواد مختلفة. أنا مش محترف ولا خبير، لكن مستخدم شغوف. أي حد يقدر يفتح نقاش في قسم القضايا، أو يطلب سحب لو في حاجة محتاجة تعديل أو إضافة._
 
+- النسخة الإنجليزية: [هنا](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/README.md).
 - النسخة البرتغالية البرازيلية: [هنا](https://github.com/LewisVo/Awesome-Linux-Software/blob/master/README_pt-BR.md).
 - النسخة الصينية: [هنا](https://github.com/LewisVo/Awesome-Linux-Software/blob/master/README_zh-CN.md) أو [هنا](https://github.com/eniqiz/Awesome-Linux-Software-zh_CN).
 - النسخة الإسبانية: [هنا](https://github.com/LewisVo/Awesome-Linux-Software/blob/master/README_es-ES.md) أو [هنا](https://github.com/SaintFenix/Awesome-Linux-Software/blob/master/README_es-ES.md).
