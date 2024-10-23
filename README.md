@@ -12,6 +12,7 @@
 - Chinese version : [here](https://github.com/LewisVo/Awesome-Linux-Software/blob/master/README_zh-CN.md) or [here](https://github.com/eniqiz/Awesome-Linux-Software-zh_CN).
 - Spanish version : [here](https://github.com/LewisVo/Awesome-Linux-Software/blob/master/README_es-ES.md) or [here](https://github.com/SaintFenix/Awesome-Linux-Software/blob/master/README_es-ES.md).
 - Thai version : [here](https://github.com/LewisVo/Awesome-Linux-Software/blob/master/README_th-TH.md).
+- Arabic version : [here](https://github.com/LewisVo/Awesome-Linux-Software/blob/master/README_ar-AR.md).
 
 
 - [Applications](#applications)
