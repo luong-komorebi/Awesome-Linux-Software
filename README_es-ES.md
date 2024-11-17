@@ -142,7 +142,7 @@ _para consultar una lista más larga de software de audio oprima [aquí](https:/
 
 #### Clientes no oficiales
 
-- [![Open-Source Software][oss icon]](https://github.com/sindresorhus/caprine) [Caprine](https://sindresorhus.com/caprine) - Un programa que está muy bien diseñado para Facebook.
+- [![Open-Source Software][oss icon]](https://github.com/sindresorhus/caprine) [Caprine](https://github.com/sindresorhus/caprine) - Un programa que está muy bien diseñado para Facebook.
 - [![Open-Source Software][oss icon]](https://github.com/chatty/chatty) [Chatty](http://chatty.github.io/) - Chatty es una a cliente twitch para mensajes.
 - [![Open-Source Software][oss icon]](https://github.com/stanfieldr/ghetto-skype) [GhettoSkype](https://github.com/stanfieldr/ghetto-skype) - Un Software código abierto envoltura el programma web para Skype.
 - [![Open-Source Software][oss icon]](https://github.com/Aluxian/Facebook-Messenger-Desktop) [Messenger for Desktop](https://messengerfordesktop.com/#download) - Una Programa para mensajería instantánea de Facebook.
@@ -1172,7 +1172,7 @@ _para consultar una lista más larga de software de audio oprima [aquí](https:/
 - [DistroWatch](http://distrowatch.com/)
 - [Phoronix](http://www.phoronix.com/)
 - [Dedoimedo](http://www.dedoimedo.com/)
-- [How-To Geek](http://www.howtogeek.com/t/linux/)
+- [How-To Geek](https://www.howtogeek.com/category/linux/)
 - [Liliputing](http://liliputing.com/)
 - [FAMILUG](http://www.familug.org/)
 - [Ubuntu Geek](http://www.ubuntugeek.com/)

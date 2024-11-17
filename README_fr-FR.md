@@ -144,7 +144,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 
 #### 3rd party Client
 
-- [![Open-Source Software][oss icon]](https://github.com/sindresorhus/caprine) [Caprine](https://sindresorhus.com/caprine) - Elegant Facebook Messenger desktop app.
+- [![Open-Source Software][oss icon]](https://github.com/sindresorhus/caprine) [Caprine](https://github.com/sindresorhus/caprine) - Elegant Facebook Messenger desktop app.
 - [![Open-Source Software][oss icon]](https://github.com/chatty/chatty) [Chatty](http://chatty.github.io/) - Chatty is a Twitch chat client for everyone who wants to try something new and different from the webchat, but doesn't want the complexity of an IRC client or miss out on the Twitch specific features.
 - [![Open-Source Software][oss icon]](https://github.com/stanfieldr/ghetto-skype) [GhettoSkype](https://github.com/stanfieldr/ghetto-skype) - open source web wrapper for Skype.
 - [![Open-Source Software][oss icon]](https://github.com/Aluxian/Facebook-Messenger-Desktop) [Messenger for Desktop](https://messengerfordesktop.com/#download) - An app for Facebook messenger.
@@ -1191,7 +1191,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [DistroWatch](http://distrowatch.com/)
 - [Phoronix](http://www.phoronix.com/)
 - [Dedoimedo](http://www.dedoimedo.com/)
-- [How-To Geek](http://www.howtogeek.com/t/linux/)
+- [How-To Geek](https://www.howtogeek.com/category/linux/)
 - [Liliputing](http://liliputing.com/)
 - [FAMILUG](http://www.familug.org/)
 - [Ubuntu Geek](http://www.ubuntugeek.com/)
