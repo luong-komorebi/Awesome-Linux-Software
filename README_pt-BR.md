@@ -129,7 +129,7 @@ Duas versões chinesas desta lista estão disponíveis [aqui](https://github.com
 ### Clientes para bate papo
 
 - [![Open-Source-Software][oss icon]](hhttps://sourceforge.net/p/beebeep/code/HEAD/tree/) [BeeBEEP](http://beebeep.sourceforge.net) - BeeBEEP is an open source, peer to peer, lan messenger. You can talk and share files with anyone inside your local area network. You don't need a server, just download, unzip and start it. Simple, fast and secure.
-- [Caprine](https://sindresorhus.com/caprine) - Elegante aplicativo desktop do Facebook Messenger. [![Open-Source Software][oss icon]](https://github.com/sindresorhus/caprine)
+- [Caprine](https://github.com/sindresorhus/caprine) - Elegante aplicativo desktop do Facebook Messenger. [![Open-Source Software][oss icon]](https://github.com/sindresorhus/caprine)
 - [Chatty](http://chatty.github.io/) - Chatty é um cliente de bate-papo Twitch para todos que querem experimentar algo novo e diferente de um webchat, e que também não desejam a complexidade de um cliente IRC ou perder os recursos especifícos do Twitch.[![Open-Source Software][oss icon]](https://github.com/chatty/chatty)
 - [Dino](https://dino.im) - Cliente de chat Jabber/XMPP limpo e moderno. [![Open-Source Software][oss icon]](https://github.com/dino/dino)
 - [Discord](https://discord.com/) - Conversa de voz e texto para gamers de forma gratuita, segura, e funciona tanto em desktop quanto no celular.
@@ -1149,7 +1149,7 @@ Duas versões chinesas desta lista estão disponíveis [aqui](https://github.com
 - [DistroWatch](http://distrowatch.com/)
 - [Phoronix](http://www.phoronix.com/)
 - [Dedoimedo](http://www.dedoimedo.com/)
-- [How-To Geek](http://www.howtogeek.com/t/linux/)
+- [How-To Geek](https://www.howtogeek.com/category/linux/)
 - [Liliputing](http://liliputing.com/)
 - [FAMILUG](http://www.familug.org/)
 - [Ubuntu Geek](http://www.ubuntugeek.com/)

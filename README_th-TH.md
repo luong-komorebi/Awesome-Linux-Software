@@ -139,7 +139,7 @@ _สำหรับแหล่งทรัพยากรในหมวดห�
 
 #### 3rd party Client
 
-- [![Open-Source Software][oss icon]](https://github.com/sindresorhus/caprine) [Caprine](https://sindresorhus.com/caprine) - โปรแกรมแชท Facebook Messenger บนเดสก์ท็อป หน้าตาสวยงาม
+- [![Open-Source Software][oss icon]](https://github.com/sindresorhus/caprine) [Caprine](https://github.com/sindresorhus/caprine) - โปรแกรมแชท Facebook Messenger บนเดสก์ท็อป หน้าตาสวยงาม
 - [![Open-Source Software][oss icon]](https://github.com/chatty/chatty) [Chatty](http://chatty.github.io/) - Chatty คือโปรแกรมสำหรับสนทนาบน Twitch ซึ่งเป็นได้มากกว่าการสนทนาผ่านเว็บแบบปกติ แต่ไม่ถึงกับต้องมีฟีเจอร์เท่าโปรแกรม IRC ทั่วไป
 - [![Open-Source Software][oss icon]](https://github.com/stanfieldr/ghetto-skype) [GhettoSkype](https://github.com/stanfieldr/ghetto-skype) - เป็นเว็บสำหรับใช้ Skype
 - [![Open-Source Software][oss icon]](https://github.com/Aluxian/Facebook-Messenger-Desktop) [Messenger for Desktop](https://messengerfordesktop.com/#download) - แอปสำหรับใช้ Facebook messenger
@@ -1181,7 +1181,7 @@ _สำหรับแหล่งทรัพยากรในหมวดห�
 - [DistroWatch](http://distrowatch.com/)
 - [Phoronix](http://www.phoronix.com/)
 - [Dedoimedo](http://www.dedoimedo.com/)
-- [How-To Geek](http://www.howtogeek.com/t/linux/)
+- [How-To Geek](https://www.howtogeek.com/category/linux/)
 - [Liliputing](http://liliputing.com/)
 - [FAMILUG](http://www.familug.org/)
 - [Ubuntu Geek](http://www.ubuntugeek.com/)
