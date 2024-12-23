@@ -1131,6 +1131,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 
 #### Note Taking
 
+- [![Open-Source Software][oss icon]](https://github.com/toeverything/AFFiNE) [AFFiNE](https://affine.pro/download) - Open source Alternative to Notion and Miro, A multi-platform, open-source, local-first, personal knowledge management(pkm) tool.
 - [![Open-Source Software][oss icon]](https://github.com/anyproto/anytype-ts) [Anytype](https://download.anytype.io/) - A multi-platform, open-source, local-first, personal knowledge base tool.
 - [![Open-Source Software][oss icon]](https://basket-notepads.github.io/download.html) [Basket Note Pads](https://basket-notepads.github.io/) - This multi-purpose note-taking application helps you to easily take all sort of notes.
 - [![Open-Source Software][oss icon]](https://github.com/Daniele-rolli/Beaver-Notes) [Beaver Notes](https://beavernotes.com) - A multi-platform, open-source, privacy-first, community-driven, note-taking app and personal knowledge manager.
