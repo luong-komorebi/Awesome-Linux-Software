@@ -762,7 +762,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 
 - ![Nonfree][money icon] [Factorio](https://www.factorio.com/) - A factory building sandbox game.
 - [![Open-Source Software][oss icon]](https://github.com/minetest/minetest/) [Luanti](https://www.luanti.org/) - Luanti (formerly Minetest) is an open source voxel game-creation platform with easy modding and game creation.
-- [![Open-Source Software][oss icon]](https://github.com/minecraft-linux/mcpelauncher-manifest) [Mcpelauncher](https://mcpelauncher.readthedocs.io/en/latest/) - Unoffical Open-source launcher for Minecraft: Bedrock edition.
+- [![Open-Source Software][oss icon]](https://github.com/minecraft-linux/mcpelauncher-manifest) [Mcpelauncher](https://mcpelauncher.readthedocs.io/en/latest/) - Unofficial Open-source launcher for Minecraft: Bedrock edition.
 - ![Nonfree][money icon] [Minecraft](https://minecraft.net) - Minecraft is a game about placing blocks and going on adventures. Explore randomly generated worlds and build amazing things from the simplest of homes to the grandest of castles.
 - [![Open-Source Software][oss icon]](https://github.com/modrinth/code) [Modrinth App](https://modrinth.com/app) - The Modrinth App is a unique, open source launcher that allows you to play your favorite mods, and keep them up to date, all in one neat little package.
 - [![Open-Source Software][oss icon]](https://github.com/MultiMC/Launcher/) [MultiMC](https://multimc.org/) - MultiMC is an alternative launcher for Minecraft. It allows you to have multiple, cleanly separated instances of Minecraft (each with their own mods, resource packs, saves, etc) and helps you manage them and their associated options with a simple and powerful interface.
