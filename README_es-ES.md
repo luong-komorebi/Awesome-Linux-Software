@@ -10,11 +10,11 @@
 
 **Reconocimiento:** _Todo lo escrito a continuación es desde mi propia experiencia en la escuela y después leyendo varios materiales. No soy ni un profesional ni un experto, pero un estudiante apasionado. Cualquiera puede abrir una discusión en la sección "Issues", o hacer un "pull request" si considera que algo debe ser modificado o agregado._
 
-- versión china : [aquí](https://github.com/LewisVo/Awesome-Linux-Software/blob/master/README_zh-CN.md) o [aquí](https://github.com/alim0x/Awesome-Linux-Software-zh_CN) o [aquí](https://github.com/0xE8551CCB/awesome-linux-software-cn).
+- versión china : [aquí](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/README_zh-CN.md) o [aquí](https://github.com/alim0x/Awesome-Linux-Software-zh_CN) o [aquí](https://github.com/0xE8551CCB/awesome-linux-software-cn).
 - versión alternativa en español : [aqui](https://github.com/SaintFenix/Awesome-Linux-Software/blob/master/README_es-ES.md).
-- versión Portugués Brasileño : [aquí](https://github.com/LewisVo/Awesome-Linux-Software/blob/master/README_pt-BR.md).
-- versión inglesa : [aquí](https://github.com/LewisVo/Awesome-Linux-Software/blob/master/README.md).
-- versión tailandés : [aquí](https://github.com/LewisVo/Awesome-Linux-Software/blob/master/README_th-TH.md).
+- versión Portugués Brasileño : [aquí](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/README_pt-BR.md).
+- versión inglesa : [aquí](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/README.md).
+- versión tailandés : [aquí](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/README_th-TH.md).
 
 ## Índice de Contenidos
 
@@ -1223,7 +1223,7 @@ _Estas son otras listas recomendadas:_
 
 ## Contribuidores
 
-Muchas gracias a [**Todos los colaboradores de Github**](https://github.com/LewisVo/Awesome-Linux-Software/graphs/contributors) por hacer esta lista posible y
+Muchas gracias a [**Todos los colaboradores de Github**](https://github.com/luong-komorebi/Awesome-Linux-Software/graphs/contributors) por hacer esta lista posible y
 _todos en reddit.com/r/linux y reddit.com/r/ubuntu y vozforums.com y otros foros por todas las sugerencias y elogios._
 ...
 
@@ -1244,7 +1244,7 @@ _todos en reddit.com/r/linux y reddit.com/r/ubuntu y vozforums.com y otros foros
 
 - [Cómo usar github (Inglés)](https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project)
 - [Cómo utilizar Git desde la línea de comandos.](https://rogerdudler.github.io/git-guide/index.es.html)
-- [¿Qué es Markdown?](https://github.com/LewisVo/Markdown-Tutorial/blob/master/Translation:Spanish.md) - Markdown es el método de escritura usado para crear esta lista, si quieres aprender el formato apropiado, lo mejor es que aprendas cómo usar Github Markdown.
+- [¿Qué es Markdown?](https://github.com/luong-komorebi/Markdown-Tutorial/blob/master/Translation:Spanish.md) - Markdown es el método de escritura usado para crear esta lista, si quieres aprender el formato apropiado, lo mejor es que aprendas cómo usar Github Markdown.
 - [Guía alternativa para Markdown (Inglés)](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 _Los artículos marcados ![Open-Source Software][oss icon] son software de código abierto y tienen un enlace al código fuente. Los artículos marcados [![Nonfree][money icon] cuesta dinero (como en cerveza que cuesta dinero)._
@@ -1262,6 +1262,6 @@ _Nota del autor: Recientemente, recibí comentarios de ustedes sobre la calidad 
 Este trabajo está licenciado con [Creative Commons Reconocimiento 4.0 Internacional](https://creativecommons.org/licenses/by/4.0/deed.es_ES).
 
 [oss icon]: https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg
-[money icon]: https://rawgit.com/LewisVo/Awesome-Linux-Software/master/img/money.svg
+[money icon]: https://rawgit.com/luong-komorebi/Awesome-Linux-Software/master/img/money.svg
 
 <!-- markdown-link-check-enable -->

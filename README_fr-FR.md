@@ -10,11 +10,11 @@
 
 **Reconnaissance:** _Tout ce qui est écrit ci dessous viens de ma propre expérience à la fac et aprés diverses lectures . Je ne suis ni un professionel ni un expert, mais un passioné. Tout le monde peut ouvrir une discussion dans la partie issue, faire une pull request si quelque chose doit être modifié ou ajouté._
 
-- Verion Brésilienne Portugaise : [ici](https://github.com/LewisVo/Awesome-Linux-Software/blob/master/README_pt-BR.md).
-- Version Chinoise: [ici](https://github.com/LewisVo/Awesome-Linux-Software/blob/master/README_zh-CN.md) or [ici](https://github.com/alim0x/Awesome-Linux-Software-zh_CN) or [here](https://github.com/0xE8551CCB/awesome-linux-software-cn).
-- Version Espagnole: [ici](https://github.com/LewisVo/Awesome-Linux-Software/blob/master/README_es-ES.md) or [ici](https://github.com/SaintFenix/Awesome-Linux-Software/blob/master/README_es-ES.md)
-- Version Thai : [ici](https://github.com/LewisVo/Awesome-Linux-Software/blob/master/README_th-TH.md).
-- Version Française: [ici](https://github.com/LewisVo/Awesome-Linux-Software/blob/master/README_fr-FR.md).
+- Verion Brésilienne Portugaise : [ici](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/README_pt-BR.md).
+- Version Chinoise: [ici](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/README_zh-CN.md) or [ici](https://github.com/alim0x/Awesome-Linux-Software-zh_CN) or [here](https://github.com/0xE8551CCB/awesome-linux-software-cn).
+- Version Espagnole: [ici](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/README_es-ES.md) or [ici](https://github.com/SaintFenix/Awesome-Linux-Software/blob/master/README_es-ES.md)
+- Version Thai : [ici](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/README_th-TH.md).
+- Version Française: [ici](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/README_fr-FR.md).
 
 ## Table des Matiéres
 
@@ -1243,7 +1243,7 @@ _These are the list that I highly recommended:_
 
 ## Contributeurs
 
-Merci à [**Tous les Contributeurs Github**](https://github.com/LewisVo/Awesome-Linux-Software/graphs/contributors) pour avoir rendu cette liste possible et
+Merci à [**Tous les Contributeurs Github**](https://github.com/luong-komorebi/Awesome-Linux-Software/graphs/contributors) pour avoir rendu cette liste possible et
 _Tout le monde sur @ reddit.com/r/linux & reddit.com/r/ubuntu & vozforums.com & et autres forums pour leurs mutltiples suggestions et compliments_
 ...
 
@@ -1264,7 +1264,7 @@ _Tout le monde sur @ reddit.com/r/linux & reddit.com/r/ubuntu & vozforums.com & 
 
 - [Comment utiliser Github](https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project)
 - [Comment utiliser Git en Ligne de Commande](https://rogerdudler.github.io/git-guide/)
-- [Qu'est-ce que Markdown?](https://github.com/LewisVo/Markdown-Tutorial) - Markdown est le style d'écriture pour la création de cette liste, si vous voulez savoir comment bien le formater, il est préférable d'apprendre comment utiliser Github Markdown.
+- [Qu'est-ce que Markdown?](https://github.com/luong-komorebi/Markdown-Tutorial) - Markdown est le style d'écriture pour la création de cette liste, si vous voulez savoir comment bien le formater, il est préférable d'apprendre comment utiliser Github Markdown.
 - [Guide Alternatif pour Markdown:](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 _Les éléments marqués avec ![Open-Source Software][oss icon] sont des logiciels open-source et un lien vers le code source. Les éléments marqués avec [![Nonfree][money icon] sont payant(comme avec une biére qui n'est pas gratuite)._
@@ -1282,6 +1282,6 @@ _Note de l'auteur: Récemment, J'ai de reçu de votre part des retours sur la qu
 Ce travail est sous licence [Licence internationale Creative Commons Attribution 4.0](http://creativecommons.org/licenses/by/4.0/).
 
 [oss icon]: https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg
-[money icon]: https://rawgit.com/LewisVo/Awesome-Linux-Software/master/img/money.svg
+[money icon]: https://rawgit.com/luong-komorebi/Awesome-Linux-Software/master/img/money.svg
 
 <!-- markdown-link-check-enable -->

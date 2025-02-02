@@ -8,12 +8,12 @@
 
 **Acknowledgement:** _Everything written below is from my own experience in college and after reading various materials. I am neither a professional nor an expert, but a passionate user. Anyone can open a discussion in the issue section, or a pull request if something should be modified or added._
 
-- Arabic version : [here](https://github.com/LewisVo/Awesome-Linux-Software/blob/master/README_ar-AR.md).
-- Brazilian Portuguese version : [here](https://github.com/LewisVo/Awesome-Linux-Software/blob/master/README_pt-BR.md).
-- Chinese version : [here](https://github.com/LewisVo/Awesome-Linux-Software/blob/master/README_zh-CN.md) or [here](https://github.com/eniqiz/Awesome-Linux-Software-zh_CN).
-- French version : [here](https://github.com/LewisVo/Awesome-Linux-Software/blob/master/README_fr-FR.md).
-- Spanish version : [here](https://github.com/LewisVo/Awesome-Linux-Software/blob/master/README_es-ES.md) or [here](https://github.com/SaintFenix/Awesome-Linux-Software/blob/master/README_es-ES.md).
-- Thai version : [here](https://github.com/LewisVo/Awesome-Linux-Software/blob/master/README_th-TH.md).
+- Arabic version : [here](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/README_ar-AR.md).
+- Brazilian Portuguese version : [here](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/README_pt-BR.md).
+- Chinese version : [here](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/README_zh-CN.md) or [here](https://github.com/eniqiz/Awesome-Linux-Software-zh_CN).
+- French version : [here](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/README_fr-FR.md).
+- Spanish version : [here](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/README_es-ES.md) or [here](https://github.com/SaintFenix/Awesome-Linux-Software/blob/master/README_es-ES.md).
+- Thai version : [here](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/README_th-TH.md).
 
 - [Applications](#applications)
   - [3D Printing](#3d-printing)
@@ -1868,7 +1868,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 
 ## Contributors
 
-Thanks to [**All of Github contributors**](https://github.com/LewisVo/Awesome-Linux-Software/graphs/contributors) for making this list possible and
+Thanks to [**All of Github contributors**](https://github.com/luong-komorebi/Awesome-Linux-Software/graphs/contributors) for making this list possible and
 _Everyone @ reddit.com/r/linux & reddit.com/r/ubuntu & vozforums.com & other forums for many suggestions and compliments_
 ...
 

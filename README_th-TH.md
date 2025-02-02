@@ -10,9 +10,9 @@
 
 **Acknowledgement:** _Everything written below is from my own experience in college and after reading various materials. I am neither a professional nor an expert, but a passionate student. Anyone can open a discussion in the issue section, or a pull request if something should be modified or added._
 
-- ภาษาโปรตุเกส บราซิล : [ที่นี่](https://github.com/LewisVo/Awesome-Linux-Software/blob/master/README_pt-BR.md).
-- ภาษาจีน : [ที่นี่](https://github.com/LewisVo/Awesome-Linux-Software/blob/master/README_zh-CN.md) หรือ [ที่นี่](https://github.com/alim0x/Awesome-Linux-Software-zh_CN) or [here](https://github.com/0xE8551CCB/awesome-linux-software-cn).
-- ภาษาสเปน : [ที่นี่](https://github.com/LewisVo/Awesome-Linux-Software/blob/master/README_es-ES.md) หรือ [ที่นี่](https://github.com/SaintFenix/Awesome-Linux-Software/blob/master/README_es-ES.md)
+- ภาษาโปรตุเกส บราซิล : [ที่นี่](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/README_pt-BR.md).
+- ภาษาจีน : [ที่นี่](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/README_zh-CN.md) หรือ [ที่นี่](https://github.com/alim0x/Awesome-Linux-Software-zh_CN) or [here](https://github.com/0xE8551CCB/awesome-linux-software-cn).
+- ภาษาสเปน : [ที่นี่](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/README_es-ES.md) หรือ [ที่นี่](https://github.com/SaintFenix/Awesome-Linux-Software/blob/master/README_es-ES.md)
 
 ## สารบัญ
 
@@ -1232,7 +1232,7 @@ _These are the list that I highly recommended:_
 
 ## Contributors
 
-Thanks to [**All of Github contributors**](https://github.com/LewisVo/Awesome-Linux-Software/graphs/contributors) for making this list possible and
+Thanks to [**All of Github contributors**](https://github.com/luong-komorebi/Awesome-Linux-Software/graphs/contributors) for making this list possible and
 _Everyone @ reddit.com/r/linux & reddit.com/r/ubuntu & vozforums.com & other forums for many suggestions and compliments_
 ...
 
@@ -1253,7 +1253,7 @@ _Everyone @ reddit.com/r/linux & reddit.com/r/ubuntu & vozforums.com & other for
 
 - [How to Use Github](https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project)
 - [How to Git from the Command Line](https://rogerdudler.github.io/git-guide/)
-- [What is Markdown?](https://github.com/LewisVo/Markdown-Tutorial) - Markdown is the writing method used to create this list, if you want to know how to format properly, it's best that you learn how to use Github Markdown.
+- [What is Markdown?](https://github.com/luong-komorebi/Markdown-Tutorial) - Markdown is the writing method used to create this list, if you want to know how to format properly, it's best that you learn how to use Github Markdown.
 - [Alternative Markdown Guide:](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 _Items marked with ![Open-Source Software][oss icon] are open-source software and link to the source code. Items marked with [![Nonfree][money icon] are nonfree (as in nonfree beer) and may cost money to use._
@@ -1271,6 +1271,6 @@ _Author's note: Recently, I received feedbacks from you about the quality of som
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
 [oss icon]: https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg
-[money icon]: https://rawgit.com/LewisVo/Awesome-Linux-Software/master/img/money.svg
+[money icon]: https://rawgit.com/luong-komorebi/Awesome-Linux-Software/master/img/money.svg
 
 <!-- markdown-link-check-enable -->
