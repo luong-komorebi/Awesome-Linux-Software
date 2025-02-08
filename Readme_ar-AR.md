@@ -1780,7 +1780,6 @@
 - [ITSFOSS](https://itsfoss.com/)
 - [ليمي سي/لينكس](https://lemmy.ml/c/linux)
 - [ليليبوتينغ](https://liliputing.com/)
-- [لينوكسيد](https://linoxide.com/)
 - [LinuxHandbook](https://linuxhandbook.com/)
 - [لينكس لينك](https://www.linuxlinks.com/)
 - [الرسمي لينكس](https://www.linux.com/)
