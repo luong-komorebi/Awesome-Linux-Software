@@ -1678,7 +1678,6 @@
 - [![برمجيات مفتوحة المصدر][أيقونة oss]](https://github.com/BurntSushi/xsv) [xsv](https://github.com/BurntSushi/xsv) - مجموعة أدوات سطر أوامر CSV سريعة مكتوبة بلغة Rust.
 - [![برمجيات مفتوحة المصدر][أيقونة oss]](https://github.com/skywind3000/z.lua) [z.lua](https://github.com/skywind3000/z.lua) - أمر cd جديد يساعدك على التنقل بشكل أسرع من خلال تعلم عاداتك.
 - [![برمجيات مفتوحة المصدر][أيقونة oss]](https://github.com/ajeetdsouza/zoxide) [zoxide](https://github.com/ajeetdsouza/zoxide) - طريقة أفضل للتنقل في نظام الملفات الخاص بك المكتوب بلغة Rust.
-- [![برمجيات مفتوحة المصدر][أيقونة oss]](https://github.com/maximumadmin/zramd) [zramd](https://github.com/maximumadmin/zramd) - إعداد المبادلة تلقائيًا على zram sparkles مع دعم systemd الاختياري، وهو بديل أبسط لـ zram-generator وsystemd-swap
 
 ## نوى لينكس مخصصة
 
