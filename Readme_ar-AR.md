@@ -534,7 +534,7 @@
 - [![برمجيات مفتوحة المصدر][أيقونة oss]](https://www.fossil-scm.org/index.html/dir?ci=tip) [Fossil](https://www.fossil-scm.org) - نظام إدارة تكوين برمجيات موزع ومستقل مع تتبع الأخطاء المتكامل، وويكي، وملاحظات تقنية، وواجهة ويب.
 - [![برمجيات مفتوحة المصدر][أيقونة oss]](https://github.com/gaphor/gaphor) [Gaphor](https://gaphor.org) - أداة نمذجة برمجيات وأنظمة بسيطة وسريعة.
 - ![غير مجاني][أيقونة المال] [Genymotion](https://www.genymotion.com/desktop/) - Genymotion هو محاكي سريع تابع لجهة خارجية يمكن استخدامه بدلاً من محاكي Android الافتراضي.
-- [![برمجيات مفتوحة المصدر][أيقونة oss]](https://github.com/GNOME/glade) [Glade](https://github.com/GNOME/glade) - منشئ واجهة المستخدم GTK+.
+- [![برمجيات مفتوحة المصدر][أيقونة oss]](https://gitlab.gnome.org/Archive/glade) [Glade](https://gitlab.gnome.org/Archive/glade) - منشئ واجهة المستخدم GTK+.
 - [![برمجيات مفتوحة المصدر][أيقونة oss]](https://phabricator.kde.org/source/heaptrack/repository/master/) [Heaptrack](https://phabricator.kde.org/source/heaptrack/repository/master/) - أداة تحليل ذاكرة الكومة لنظام Linux.
 - [![برمجيات مفتوحة المصدر][أيقونة oss]](https://github.com/WindSoilder/hors) [hors](https://github.com/WindSoilder/hors) - إجابات ترميز فورية عبر سطر الأوامر.
 - [![برمجيات مفتوحة المصدر][أيقونة oss]](https://github.com/Kong/insomnia) [Insomnia](https://insomnia.rest/) - عميل API REST بسيط وجميل ومجاني.
