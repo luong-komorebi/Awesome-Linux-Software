@@ -1027,7 +1027,7 @@ _para consultar una lista más larga de software de audio oprima [aquí](https:/
 - [![Open-Source Software][oss icon]](https://github.com/tomas/entrance) [Entrance](http://enlightenment.org) - Un gestor de visualización basado en EFL, que es experimental.
 - [![Open-Source Software][oss icon]](https://github.com/GNOME/gdm) [GDM](https://wiki.gnome.org/Projects/GDM) - El gestor oficial de GNOME.
 - [KDM](http://www.kde.org) - El gestor de visualización de KDE4 actualmente descontinuado.
-- [![Open-Source Software][oss icon]](https://github.com/davvid/lightdm) [LightDM](https://www.freedesktop.org/wiki/Software/LightDM) - Un gestor de pantallas multiplataforma que puede utilizar Front-end de otros toolkits.
+- [![Open-Source Software][oss icon]](https://github.com/canonical/lightdm) [LightDM](https://www.freedesktop.org/wiki/Software/LightDM) - Un gestor de pantallas multiplataforma que puede utilizar Front-end de otros toolkits.
 - [LXDM](https://sourceforge.net/projects/lxdm/) - El gestor des pantallas LXDE, puede ser utilizado independientemente de LXDE.
 - [![Open-Source Software][oss icon]](https://github.com/linuxmint/mdm) [MDM](https://github.com/linuxmint/mdm) - El gestor des pantallas de MDM, uso en Linux Mint.
 - [![Open-Source Software][oss icon]](https://github.com/sddm/sddm) [SDDM](https://github.com/sddm/sddm) - El gestor des pantallas basado en QML y sucesor de KDM.
