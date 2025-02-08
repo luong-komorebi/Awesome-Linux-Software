@@ -758,7 +758,7 @@ _更新：上发布，中文版阅读地址戳[这里](https://alim0x.gitbooks.i
 - [![Open-Source Software][oss icon]](https://github.com/tomas/entrance) [Entrance](http://enlightenment.org) - 基于 EFL 的显示管理器，高度实验性质。
 - [![Open-Source Software][oss icon]](https://github.com/GNOME/gdm) [GDM](https://wiki.gnome.org/Projects/GDM) - GNOME 显示管理器。
 - [KDM](http://www.kde.org) - KDE4 显示管理器（不再继续开发）。
-- [![Open-Source Software][oss icon]](https://github.com/davvid/lightdm) [LightDM](https://www.freedesktop.org/wiki/Software/LightDM) - 跨桌面显示管理器，可以使用任何工具集写就的各种前端。
+- [![Open-Source Software][oss icon]](https://github.com/canonical/lightdm) [LightDM](https://www.freedesktop.org/wiki/Software/LightDM) - 跨桌面显示管理器，可以使用任何工具集写就的各种前端。
 - [LXDM](https://sourceforge.net/projects/lxdm/) - LXDE 显示管理器，可以独立于 LXDE 桌面环境使用。
 - [![Open-Source Software][oss icon]](https://github.com/linuxmint/mdm) [MDM](https://github.com/linuxmint/mdm) - MDM 显示管理器，在 Linux Mint 中使用， GDM 2 的一个 fork。
 - [![Open-Source Software][oss icon]](https://github.com/sddm/sddm) [SDDM](https://github.com/sddm/sddm) - 基于 QML 的显示管理器，KDE 4 的 kdm 的继任者；Plasma 5 以及 LXQt 推荐。

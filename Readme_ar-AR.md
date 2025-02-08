@@ -1719,7 +1719,7 @@
 
 - [![برمجيات مفتوحة المصدر][أيقونة oss]](https://github.com/tomas/entrance) [المدخل](https://enlightenment.org) - مدير عرض يعتمد على اللغة الإنجليزية كلغة أجنبية، تجريبي للغاية.
 - [![برمجيات مفتوحة المصدر][أيقونة oss]](https://github.com/GNOME/gdm) [GDM](https://wiki.gnome.org/Projects/GDM) - مدير عرض GNOME.
-- [![برمجيات مفتوحة المصدر][أيقونة oss]](https://github.com/davvid/lightdm) [LightDM](https://www.freedesktop.org/wiki/Software/LightDM) - مدير عرض متعدد أجهزة سطح المكتب، يمكنه استخدام واجهات أمامية مختلفة مكتوبة في أي مجموعة أدوات.
+- [![برمجيات مفتوحة المصدر][أيقونة oss]](https://github.com/canonical/lightdm) [LightDM](https://www.freedesktop.org/wiki/Software/LightDM) - مدير عرض متعدد أجهزة سطح المكتب، يمكنه استخدام واجهات أمامية مختلفة مكتوبة في أي مجموعة أدوات.
 - [![برمجيات مفتوحة المصدر][أيقونة oss]](https://sourceforge.net/p/lxdm/code/ci/master/tree/) [LXDM](https://sourceforge.net/projects/lxdm/) - مدير عرض LXDE. يمكن استخدامه بشكل مستقل عن بيئة سطح مكتب LXDE.
 - [![برمجيات مفتوحة المصدر][أيقونة oss]](https://github.com/linuxmint/mdm) [MDM](https://github.com/linuxmint/mdm) - مدير عرض MDM، المستخدم في Linux Mint، وهو شوكة من GDM 2.
 - [![برمجيات مفتوحة المصدر][أيقونة oss]](https://github.com/sddm/sddm) [SDDM](https://github.com/sddm/sddm) - مدير العرض المستند إلى QML وخليفة kdm الخاص بـ KDE4؛ يوصى به لـ Plasma 5 وLXQt.

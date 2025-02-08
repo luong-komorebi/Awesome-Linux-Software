@@ -1728,7 +1728,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 
 - [![Open-Source Software][oss icon]](https://github.com/tomas/entrance) [Entrance](https://enlightenment.org) - An EFL based display manager, highly experimental.
 - [![Open-Source Software][oss icon]](https://github.com/GNOME/gdm) [GDM](https://wiki.gnome.org/Projects/GDM) - The GNOME display manager.
-- [![Open-Source Software][oss icon]](https://github.com/davvid/lightdm) [LightDM](https://www.freedesktop.org/wiki/Software/LightDM) - A cross-desktop display manager, can use various front-ends written in any toolkit.
+- [![Open-Source Software][oss icon]](https://github.com/canonical/lightdm) [LightDM](https://www.freedesktop.org/wiki/Software/LightDM) - A cross-desktop display manager, can use various front-ends written in any toolkit.
 - [![Open-Source Software][oss icon]](https://sourceforge.net/p/lxdm/code/ci/master/tree/) [LXDM](https://sourceforge.net/projects/lxdm/) - The LXDE display manager. Can be used independent of the LXDE desktop environment.
 - [![Open-Source Software][oss icon]](https://github.com/linuxmint/mdm) [MDM](https://github.com/linuxmint/mdm) - The MDM display manager, used in Linux Mint, a fork of GDM 2.
 - [![Open-Source Software][oss icon]](https://github.com/sddm/sddm) [SDDM](https://github.com/sddm/sddm) - The QML-based display manager and successor to KDE4's kdm; recommended for Plasma 5 and LXQt.
