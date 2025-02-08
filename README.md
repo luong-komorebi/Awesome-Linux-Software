@@ -1505,7 +1505,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [![Open-Source Software][oss icon]](https://github.com/FreeRDP/FreeRDP) [FreeRDP](https://www.freerdp.com/) - FreeRDP is a free implementation of the Remote Desktop Protocol (RDP).
 - [![Open-Source Software][oss icon]](https://charm.sh/apps/) [Glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [![Open-Source Software][oss icon]](https://github.com/Simmesimme/Gnome-Pie) [GNOME-Pie](https://schneegans.github.io/gnome-pie.html) - The circular app launcher for Linux desktops.
-- [![Open-Source Software][oss icon]](https://github.com/nomic-ai/gpt4all) [GPT4All](https://www.nomic.ai/gpt4all) - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue
+- [![Open-Source Software][oss icon]](https://github.com/nomic-ai/gpt4all) [GPT4All](https://www.nomic.ai/gpt4all) - gpt4all: an ecosystem of open-source chatbots trained on a massive collection of clean assistant data including code, stories and dialogue
 - [![Open-Source Software][oss icon]](https://github.com/gramps-project/gramps) [Gramps](https://gramps-project.org/blog/) - Research, organize and share your family tree with Gramps.
 - [![Open-Source Software][oss icon]](https://github.com/GSConnect/gnome-shell-extension-gsconnect) [GSConnect](https://extensions.gnome.org/extension/1319/gsconnect/) - KDE Connect implementation for GNOME.
 - [![Open-Source Software][oss icon]](https://gitlab.gnome.org/GabMus/HydraPaper) [HydraPaper](https://hydrapaper.gabmus.org/) - Wallpaper manager with multi monitor support.
