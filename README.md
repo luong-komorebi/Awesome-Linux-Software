@@ -1806,7 +1806,6 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [Repology](https://repology.org/)
 - [Slashdot](https://linux.slashdot.org/)
 - [TecMint](https://www.tecmint.com/)
-- [Ubuntu Geek](https://www.ubuntugeek.com/)
 - [UbuntuHandbook](https://ubuntuhandbook.org/)
 - [Unixmen](https://www.unixmen.com/)
 - [Webupd8](http://www.webupd8.org/)
