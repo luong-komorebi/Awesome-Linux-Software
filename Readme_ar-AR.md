@@ -1799,7 +1799,6 @@
 - [ريبولوجي](https://repology.org/)
 - [سلاش دوت](https://linux.slashdot.org/)
 - [تكمنت](https://www.tecmint.com/)
-- [أوبونتو جيك](https://www.ubuntugeek.com/)
 - [UbuntuHandbook](https://ubuntuhandbook.org/)
 - [يونيكسمن](https://www.unixmen.com/)
 - [تحديث الويب](http://www.webupd8.org/)
