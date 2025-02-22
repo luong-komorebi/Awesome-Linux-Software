@@ -139,7 +139,7 @@ _Para uma lista mais abrangente/avançada/melhor categorizada/... de software de
 - [![Software de Código Aberto][oss icon]](https://github.com/martpie/museeks) [Museeks](https://museeks.io/) - Um player de música simples, limpo e multiplataforma.
 - [![Software de Código Aberto][oss icon]](https://github.com/metabrainz/picard) [MusicBrainz Picard](https://picard.musicbrainz.org/) - Picard é um etiquetador de música multiplataforma escrito em Python.
 - [Netease Music](https://music.163.com/#/download) - Um player de música da Netease - um serviço de música na nuvem na China.
-- [![Software de Código Aberto][oss icon]](https://github.com/nukeop/nuclear) [Nuclear](https://nuclear.js.org/) - Um aplicativo de player de música multiplataforma baseado em Electron que transmite de várias fontes.
+- [![Software de Código Aberto][oss icon]](https://github.com/nukeop/nuclear) [Nuclear](https://nuclearplayer.com/) - Um aplicativo de player de música multiplataforma baseado em Electron que transmite de várias fontes.
 - [Ocenaudio](https://www.ocenaudio.com/whatis) - Um editor de áudio multiplataforma, fácil de usar, rápido e funcional. É o software ideal para pessoas que precisam editar e analisar arquivos de áudio.
 - [![Software de Código Aberto][oss icon]](https://github.com/gkarsay/parlatype) [Parlatype](https://www.parlatype.xyz/) - Player de áudio GNOME para transcrição.
 - [![Software de Código Aberto][oss icon]](https://github.com/pithos/pithos) [Pithos](https://pithos.github.io/) - Um cliente Pandora nativo para Linux.
