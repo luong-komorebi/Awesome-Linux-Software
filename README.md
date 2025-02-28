@@ -18,6 +18,7 @@
 - [Applications](#applications)
   - [3D Printing](#3d-printing)
   - [Audio](#audio)
+    - [Audiobooks](#audiobooks)
     - [Edit-Mix-Record](#edit-mix-record)
     - [Music Player](#music-player)
     - [Radio](#radio)
@@ -169,6 +170,10 @@
 ### Audio
 
 _For a more comprehensive/advanced/better categorized/... list of Linux audio software, you may want to click [here](https://github.com/nodiscc/awesome-linuxaudio)_
+
+#### Audiobooks
+
+[![Open-Source Software][oss icon]](https://github.com/AlbanDAVID/Toutui) [Toutui](https://github.com/AlbanDAVID/Toutui) - Toutui is a TUI Audiobookshelf Client for Linux.
 
 #### Edit-Mix-Record
 
