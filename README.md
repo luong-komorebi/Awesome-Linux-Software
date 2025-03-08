@@ -864,6 +864,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 
 ##### Sony
 
+- [![Open-Source Software][oss icon]](https://github.com/stenzek/duckstation) [DuckStation](https://www.duckstation.org/) - DuckStation is a multiplatform PSX emulator for Windows, macOS, Linux and Android.
 - [![Open-Source Software][oss icon]](https://github.com/PCSX2) [PCSX2](https://pcsx2.net/) - PCSX2 is a free and open-source PlayStation 2 (PS2) emulator.
 - [![Open-Source Software][oss icon]](https://github.com/jpd002/Play-) [Play!](https://purei.org/) - Play! is a PlayStation2 emulator for Windows, macOS, UNIX, Android, iOS and web browser platforms.
 - [![Open-Source Software][oss icon]](https://github.com/hrydgard/ppsspp) [PPSSPP](https://www.ppsspp.org/) - PPSSPP is a PSP emulator that can run games full HD resolution. It can even upscale textures that would otherwise be too blurry as they were made for the small screen of the original PSP.
