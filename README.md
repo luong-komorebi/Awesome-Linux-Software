@@ -877,6 +877,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [![Open-Source Software][oss icon]](https://github.com/jpd002/Play-) [Play!](https://purei.org/) - Play! is a PlayStation2 emulator for Windows, macOS, UNIX, Android, iOS and web browser platforms.
 - [![Open-Source Software][oss icon]](https://github.com/hrydgard/ppsspp) [PPSSPP](https://www.ppsspp.org/) - PPSSPP is a PSP emulator that can run games full HD resolution. It can even upscale textures that would otherwise be too blurry as they were made for the small screen of the original PSP.
 - [![Open-Source Software][oss icon]](https://github.com/rpcs3) [RPCS3](https://rpcs3.net/) - RPCS3 is a multi-platform open-source Sony PlayStation 3 emulator and debugger written in C++ for Windows, Linux, macOS and FreeBSD.
+- [![Open-Source Software][oss icon]](https://github.com/shadps4-emu/shadps4) [ShadPS4](https://github.com/shadps4-emu/shadps4) -  A PS4 emulator in active development. Available on Windows, macOS and Linux.
 - [![Open-Source Software][oss icon]](https://github.com/Vita3K/Vita3K) [Vita3K](https://vita3k.org/) - Vita3K is an experimental PlayStation Vita emulator for Windows and Linux.
 
 ##### ZX Spectrum
