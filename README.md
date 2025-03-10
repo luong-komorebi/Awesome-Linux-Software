@@ -1667,7 +1667,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [![Open-Source Software][oss icon]](https://github.com/athityakumar/colorls) [Color LS](https://github.com/athityakumar/colorls) - Color Ls is a Ruby Gem that spices up the ls command and shows more visually than ls does without additional commands.
 - [![Open-Source Software][oss icon]](https://github.com/maaslalani/draw) [draw](https://github.com/maaslalani/draw) - Draw in your terminal.
 - [![Open-Source Software][oss icon]](https://github.com/muesli/duf) [duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative.
-- [![Open-Source Software][oss icon]](https://github.com/ogham/exa) [exa](https://the.exa.website/) - exa is a modern replacement for ls.
+- [![Open-Source Software][oss icon]](https://github.com/eza-community/eza) [eza](https://eza.rocks/) - eza is a modern replacement for ls, written in rust.
 - [![Open-Source Software][oss icon]](https://github.com/sharkdp/fd) [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'.
 - [![Open-Source Software][oss icon]](https://github.com/LubuntuFu/fishfry) [Fishfry](https://github.com/LubuntuFu/fishfry) - Replaces fish history with a history tailored to pentesters for efficiency and newbie pentesters for learning.
 - [![Open-Source Software][oss icon]](https://github.com/junegunn/fzf) [fzf](https://github.com/junegunn/fzf) - A general-purpose command-line fuzzy finder with interactive filter and preview feature for things like files, command history, git commits, hostnames, etc.
