@@ -1366,7 +1366,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [![Open-Source Software][oss icon]](https://github.com/contour-terminal/contour/) [Contour](https://github.com/contour-terminal/contour/) - Contour is a modern and actually fast, modal, virtual terminal emulator, for everyday use. It is aiming for power users with a modern feature mindset.
 - [![Open-Source Software][oss icon]](https://github.com/Swordfish90/cool-retro-term) [Cool Retro Term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal that mimicks the old cathode display.
 - [![Open-Source Software][oss icon]](https://github.com/GitSquared/edex-ui) [eDEX-UI](https://github.com/GitSquared/edex-ui) - eDEX-UI is a fullscreen, cross-platform terminal emulator and system monitor that looks and feels like a sci-fi computer interface.
-- [![Open-Source Software][oss icon]](https://github.com/ghostty-org/ghostty)[Ghostty](https://ghostty.org/) - Cross-playform, GPU-accelerated terminal emulator. Available for macOS and Linux. Written in Zig.
+- [![Open-Source Software][oss icon]](https://github.com/ghostty-org/ghostty)[Ghostty](https://ghostty.org/) - Cross-platform, GPU-accelerated terminal emulator. Available for macOS and Linux. Written in Zig.
 - [![Open-Source Software][oss icon]](https://github.com/GNOME) [GNOME Terminal](https://help.gnome.org/users/gnome-terminal/stable/) - A widely preinstalled terminal emulator in Linux world.
 - [![Open-Source Software][oss icon]](https://github.com/Guake/guake) [Guake](http://guake.org/) - Guake is a top-down terminal for GNOME.
 - [![Open-Source Software][oss icon]](https://github.com/zeit/hyper) [Hyper](https://hyper.is/) - A terminal built on web technologies.
