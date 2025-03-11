@@ -214,7 +214,7 @@
 - [![برمجيات مفتوحة المصدر][أيقونة oss]](https://github.com/martpie/museeks) [Museeks](https://museeks.io/) - مشغل موسيقى بسيط ونظيف ومتعدد الأنظمة الأساسية.
 - [![برمجيات مفتوحة المصدر][أيقونة oss]](https://github.com/metabrainz/picard) [MusicBrainz Picard](https://picard.musicbrainz.org/) - Picard هو برنامج وسم موسيقى متعدد الأنظمة مكتوب بلغة بايثون.
 - [Netease Music](https://music.163.com/#/download) - مشغل موسيقى من Netease - خدمة موسيقى سحابية في الصين.
-- [![برمجيات مفتوحة المصدر][أيقونة oss]](https://github.com/nukeop/nuclear) [Nuclear](https://nuclear.js.org/) - تطبيق مشغل موسيقى متعدد المنصات يعتمد على Electron ويقوم بالبث من مصادر متعددة.
+- [![برمجيات مفتوحة المصدر][أيقونة oss]](https://github.com/nukeop/nuclear) [Nuclear](https://nuclearplayer.com/) - تطبيق مشغل موسيقى متعدد المنصات يعتمد على Electron ويقوم بالبث من مصادر متعددة.
 - [Ocenaudio](https://www.ocenaudio.com/whatis) - محرر صوتي متعدد المنصات وسهل الاستخدام وسريع وعملي. إنه البرنامج المثالي للأشخاص الذين يحتاجون إلى تحرير وتحليل ملفات الصوت.
 - [![برمجيات مفتوحة المصدر][أيقونة oss]](https://github.com/gkarsay/parlatype) [Parlatype](https://www.parlatype.xyz/) - مشغل صوت GNOME للنسخ.
 - [![برمجيات مفتوحة المصدر][أيقونة oss]](https://github.com/pithos/pithos) [Pithos](https://pithos.github.io/) - عميل Pandora أصلي لنظام Linux.
@@ -543,7 +543,7 @@
 - [![برمجيات مفتوحة المصدر][أيقونة oss]](https://github.com/jesseduffield/lazydocker) [lazydocker](https://github.com/jesseduffield/lazydocker) - واجهة مستخدم طرفية بسيطة لكل من docker وdocker-compose، مكتوبة بلغة Go مع مكتبة gocui.
 - [![برمجيات مفتوحة المصدر][أيقونة oss]](https://gitlab.gnome.org/GNOME/meld/tree/main) [Meld](https://meldmerge.org/) - Meld هي أداة مقارنة ودمج مرئية تساعدك على مقارنة الملفات والدلائل والمشاريع التي يتم التحكم في إصداراتها.
 - [![برمجيات مفتوحة المصدر][أيقونة oss]](https://gitlab.com/rmnvgr/metadata-cleaner/) [منظف البيانات الوصفية](https://metadatacleaner.romainvigier.fr/) - تتيح لك هذه الأداة عرض البيانات الوصفية في ملفاتك والتخلص منها قدر الإمكان.
-- [Mockitt](https://mockitt.wondershare.com/home.html) - Mockitt هي أداة إنشاء نماذج أولية سهلة الاستخدام.
+- [Mockitt](https://mockitt.com/home.html) - Mockitt هي أداة إنشاء نماذج أولية سهلة الاستخدام.
 - [![برمجيات مفتوحة المصدر][أيقونة oss]](https://invent.kde.org/utilities/okteta) [Okteta](https://apps.kde.org/okteta/) - محرر سداسي عشري لعرض وتحرير البيانات الخام للملفات.
 - [![برمجيات مفتوحة المصدر][أيقونة oss]](https://github.com/evolus/pencil) [قلم رصاص](https://pencil.evolus.vn/) - أداة إنشاء نماذج أولية لواجهة المستخدم الرسومية مفتوحة المصدر متاحة لجميع المنصات.
 - [![برمجيات مفتوحة المصدر][أيقونة oss]](https://github.com/stuartlangridge/ColourPicker) [اختيار](https://kryogenix.org/code/pick/) - أداة اختيار ألوان بسيطة.
@@ -1306,7 +1306,7 @@
 - [JDownloader](https://jdownloader.org/) - JDownloader هي أداة مجانية لإدارة التنزيل مع مجتمع ضخم من المطورين مما يجعل التنزيل سهلاً وسريعًا كما ينبغي أن يكون.
 - [![برمجيات مفتوحة المصدر][أيقونة oss]](https://invent.kde.org/network/kget) [KGet](https://apps.kde.org/kget/) - KGet هو مدير تنزيل متعدد الاستخدامات وسهل الاستخدام.
 - [![برمجيات مفتوحة المصدر][أيقونة oss]](https://github.com/agalwood/Motrix/) [Motrix](https://motrix.app/) - Motrix هو مدير تنزيل كامل الميزات بواجهة نظيفة وسهلة الاستخدام ويدعم تنزيل HTTP وFTP وBitTorrent وMagnet وما إلى ذلك.
-- [![برمجيات مفتوحة المصدر][أيقونة oss]](https://sourceforge.net/p/urlget/uget2/ci/master/tree/) [uGet](https://ugetdm.com/) - مدير تنزيل يمكنه مراقبة الحافظة بحثًا عن روابط قابلة للتنزيل، ويمكنه إنشاء قائمة بالتنزيلات وتشغيلها بالتوازي.
+- [![برمجيات مفتوحة المصدر][أيقونة oss]](https://sourceforge.net/p/urlget/uget2/ci/master/tree/) [uGet](https://sourceforge.net/projects/urlget/) - مدير تنزيل يمكنه مراقبة الحافظة بحثًا عن روابط قابلة للتنزيل، ويمكنه إنشاء قائمة بالتنزيلات وتشغيلها بالتوازي.
 - [![برمجيات مفتوحة المصدر][أيقونة oss]](https://github.com/subhra74/xdm) [Xtreme Download Manager](https://xtremedownloadmanager.com/) - مدير تنزيل جيد مع واجهة مستخدم جديدة لنظام Linux.
 
 #### مشاركة الملفات
@@ -1396,7 +1396,7 @@
 - [![برمجيات مفتوحة المصدر][أيقونة oss]](https://github.com/helix-editor/helix) [Helix](https://helix-editor.com/) - محرر نصوص نموذجي حديث.
 - [![برمجيات مفتوحة المصدر][أيقونة oss]](https://kate-editor.org/build-it/) [Kate](https://kate-editor.org/get-it/) - Kate هو محرر متعدد المستندات وهو جزء من KDE منذ الإصدار 2.2.
 - [![برمجيات مفتوحة المصدر][أيقونة oss]](https://github.com/Komodo/KomodoEdit) [تحرير كومودو](https://www.activestate.com/products/komodo-edit/) - بيئة تطوير متعددة اللغات مجانية ومفتوحة المصدر.
-- [![برمجيات مفتوحة المصدر][أيقونة oss]](https://github.com/lapce/lapce) [Lapce](https://lapce.dev/) - محرر أكواد سريع وقوي مكتوب بلغة Rust.
+- [![برمجيات مفتوحة المصدر][أيقونة oss]](https://github.com/lapce/lapce) [Lapce](https://lap.dev/lapce/) - محرر أكواد سريع وقوي مكتوب بلغة Rust.
 - [![برمجيات مفتوحة المصدر][أيقونة oss]](https://github.com/LightTable/LightTable) [Lighttable](http://lighttable.com/) - محرر أكواد الجيل القادم! يدعم الترميز المباشر.
 - [![برمجيات مفتوحة المصدر][أيقونة oss]](https://github.com/pulsar-edit/pulsar) [Pulsar](https://pulsar-edit.dev/) - محرر نصوص قابل للاختراق بشكل كبير بقيادة المجتمع، متفرع من Atom، مبني على Electron.
 - ![غير مجاني][أيقونة برنامج مجاني]![غير مجاني][أيقونة المال] [Sublime](https://www.sublimetext.com/) - محرر نصوص قوي للغاية مع إمكانيات بحث متقدمة، والعديد من المكونات الإضافية القوية لتحسين وظائفه.
@@ -1529,7 +1529,7 @@
 - [![برمجيات مفتوحة المصدر][أيقونة oss]](https://github.com/popey/unsnap) [unsnap](https://github.com/popey/unsnap) - الانتقال بسرعة من استخدام حزم snap إلى حزم flatpaks.
 - [![برمجيات مفتوحة المصدر][أيقونة oss]](https://github.com/upscayl/upscayl) [Upscayl](https://www.upscayl.org/) - أداة تحسين جودة الصور بالذكاء الاصطناعي مجانية ومفتوحة المصدر.
 - [بوابة شبكة USB](https://www.eltima.com/products/usb-over-ip-linux/) - تتيح لك مشاركة منافذ USB عبر شبكة على Linux.
-- [![برمجيات مفتوحة المصدر][أيقونة oss]](https://github.com/peterlevi/variety-slideshow) [Variety](https://peterlevi.com/variety/) - Variety هو برنامج مفتوح المصدر لتغيير الخلفيات لنظام Linux، مليء بالميزات الرائعة، ولكنه في نفس الوقت نحيف وسهل الاستخدام.
+- [![برمجيات مفتوحة المصدر][أيقونة oss]](https://github.com/varietywalls/variety) [Variety](https://github.com/varietywalls/variety/) - Variety هو برنامج مفتوح المصدر لتغيير الخلفيات لنظام Linux، مليء بالميزات الرائعة، ولكنه في نفس الوقت نحيف وسهل الاستخدام.
 - [![برمجيات مفتوحة المصدر][أيقونة oss]](https://gitlab.freedesktop.org/wayland) [Wayland](https://wayland.freedesktop.org/) - Wayland هو برنامج يهدف إلى أن يكون بديلاً أبسط لـ X، وأسهل في التطوير والصيانة.
 - [![برنامج مفتوح المصدر][أيقونة oss]](https://github.com/rcaelers/workrave) [Workrave](https://www.workrave.org/) - برنامج يساعد في التعافي والوقاية من إصابات الإجهاد المتكررة (RSI).
 
@@ -1586,7 +1586,7 @@
 - [![برمجيات مفتوحة المصدر][أيقونة oss]](https://displaycal.net/#download) [DisplayCAL](https://displaycal.net/) - معايرة العرض وتوصيفه مفتوح المصدر مدعوم من ArgyllCMS.
 - [![برمجيات مفتوحة المصدر][أيقونة oss]](https://github.com/fontforge/fontforge) [FontForge](https://fontforge.org/) - محرر خطوط مجاني (حر) لنظامي التشغيل Windows وMac OS X وGNU+Linux.
 - [![برمجيات مفتوحة المصدر][أيقونة oss]](https://git.launchpad.net/grub-customizer) [GrubCustomizer](https://launchpad.net/grub-customizer) - Grub Customizer عبارة عن واجهة رسومية لتكوين إعدادات GRUB2/BURG وإدخالات القائمة.
-- [![برمجيات مفتوحة المصدر][أيقونة oss]](https://invent.kde.org/education/labplot) [Labplot](https://labplot.kde.org/) - LabPlot هو تطبيق KDE للرسم البياني التفاعلي وتحليل البيانات العلمية.
+- [![برمجيات مفتوحة المصدر][أيقونة oss]](https://invent.kde.org/education/labplot) [Labplot](https://labplot.org/) - LabPlot هو تطبيق KDE للرسم البياني التفاعلي وتحليل البيانات العلمية.
 - [![برمجيات مفتوحة المصدر][أيقونة oss]](https://github.com/MycroftAI/mycroft-core) [Mycroft](https://community.openconversational.ai/c/mycroft-project) - Mycroft هو مساعد صوتي مفتوح المصدر وقابل للاختراق.
 - [![برنامج مفتوح المصدر][أيقونة oss]](https://gitlab.com/CalcProgrammer1/OpenRGB) [OpenRGB](https://openrgb.org/) - برنامج مفتوح المصدر للتحكم في إضاءة RGB لا يعتمد على برنامج الشركة المصنعة. لأنظمة Windows وLinux وMacOS.
 - [![برمجيات مفتوحة المصدر][أيقونة oss]](https://github.com/libratbag/piper) [Piper](https://github.com/libratbag/piper) - Piper هو تطبيق GTK+ لتكوين فئران الألعاب.
@@ -1702,7 +1702,7 @@
 - [![برمجيات مفتوحة المصدر][أيقونة oss]](https://github.com/mate-desktop/) [Mate](https://mate-desktop.com/) - يوفر Mate سطح مكتب بديهيًا وجذابًا لمستخدمي Linux باستخدام الاستعارات التقليدية. MATE هو شوكة من GNOME 2.
 - [![برمجيات مفتوحة المصدر][أيقونة oss]](https://elementary.io/) [Pantheon](https://elementary.io/) - Pantheon هي بيئة سطح المكتب الافتراضية التي تم إنشاؤها في الأصل لتوزيع نظام التشغيل elementary.
 - [![برمجيات مفتوحة المصدر][أيقونة oss]](https://github.com/ukui/ukui-desktop-environment) [UKUI](https://www.ukui.org/) - UKUI هي بيئة سطح مكتب لتوزيعات Linux وأنظمة التشغيل الأخرى المشابهة لـ UNIX، تم تطويرها في الأصل لـ Ubuntu Kylin، وتم كتابتها باستخدام إطار عمل Qt.
-- [![برمجيات مفتوحة المصدر][أيقونة oss]](https://github.com/ubports/unity8) [Unity](https://unity8.io/) - Unity عبارة عن غلاف لـ GNOME صممه Canonical لـ Ubuntu.
+- [![برمجيات مفتوحة المصدر][أيقونة oss]](https://gitlab.com/ubports/development/core/lomiri) [Lomiri](https://lomiri.com/) - Unity عبارة عن غلاف لـ GNOME صممه Canonical لـ Ubuntu.
 - [![برمجيات مفتوحة المصدر][أيقونة oss]](https://github.com/xfce-mirror) [Xfce](https://www.xfce.org/) - يجسد Xfce فلسفة UNIX التقليدية في الوحدات النمطية وإمكانية إعادة الاستخدام.
 
 ## مدير العرض

@@ -330,7 +330,7 @@ _para consultar una lista más larga de software de audio oprima [aquí](https:/
 - [Insomnia](https://insomnia.rest/) - Un simple y hermoso, cliente del REST API.
 - [![Open-Source Software][oss icon]](https://docs.jupyter.org/en/latest/install.html) [Jupyter Notebook](https://jupyter.org/) - Un programa de código abierto que proporciona información interactiva de datos e información científica sobre más de 40 lenguajes de programación.
 - [![Open-Source Software][oss icon]](http://meldmerge.org/development.html) [Meld](http://meldmerge.org/) - Meld es una herramienta de modelado de diferencias visuales diseñada para ayudar a comparar archivos, directorios y proyectos controlados por versiones.
-- [Mockitt](https://mockitt.wondershare.com/home.html) - Mockitt es una herramienta de prototipado simple de utilizar.
+- [Mockitt](https://mockitt.com/home.html) - Mockitt es una herramienta de prototipado simple de utilizar.
 - [![Open-Source Software][oss icon]](https://github.com/evolus/pencil) [Pencil](http://pencil.evolus.vn/) - Una herramienta de creación de prototipos GUI de código abierto, que funciona en diferentes plataformas.
 - [![Open-Source Software][oss icon]](https://github.com/stuartlangridge/ColourPicker) [Pick](http://kryogenix.org/code/pick/) - Un selector de color.
 - [Postman](https://www.postman.com/) - Postman, permite a un usuario desarrollar y probar API rápidamente.
@@ -842,7 +842,7 @@ _para consultar una lista más larga de software de audio oprima [aquí](https:/
 - [Tixati](https://www.tixati.com/) - Un cliente de torrents gratuito que tiene funciones avanzadas y también tiene una interfaz web.
 - [![Open-Source Software][oss icon]](https://trac.transmissionbt.com/browser/trunk) [Transmission](https://www.transmissionbt.com/download/) - un cliente multiplataforma simple y rápido para bittorrent.
 - [![Open-Source Software][oss icon]](https://github.com/leonsoft-kras/transmisson-remote-gui) [Transmission Remote GUI](https://sourceforge.net/projects/transgui/) - es un programa para controlar un "Transmission Bittorent Client" a través de una red vía RPC.
-- [![Open-Source Software][oss icon]](https://ugetdm.com/downloads/source-code/) [uGet](http://ugetdm.com/) - Un gestor de descargas que puede controlar el portapapeles, y puede descargar varios archivos al mismo tiempo.
+- [![Open-Source Software][oss icon]](https://sourceforge.net/projects/urlget/downloads/source-code/) [uGet](http://ugetdm.com/) - Un gestor de descargas que puede controlar el portapapeles, y puede descargar varios archivos al mismo tiempo.
 - [Vuze](http://www.vuze.com) - Un cliente bittorrent que tiene muchas características.
 - [![Open-Source Software][oss icon]](https://github.com/webtorrent/webtorrent-desktop) [Web Torrent Desktop](https://webtorrent.io/desktop/) - Es un cliente torrent para streaming torrent, y se conectará a bittorrent y webtorrent.
 - [![Open-Source Software][oss icon]](https://github.com/warner/magic-wormhole) [Wormhole](https://github.com/warner/magic-wormhole) - Un programa que te permite compartir archivos de cualquier tamaño o incluso texto de una computadora a otra.
@@ -933,7 +933,7 @@ _para consultar una lista más larga de software de audio oprima [aquí](https:/
 - [![Open-Source Software][oss icon]](https://github.com/Ulauncher/Ulauncher/) [ULauncher](http://ulauncher.io/) - Un lanzador de aplicaciones para Linux.
 - [![Open-Source Software][oss icon]](https://github.com/unetbootin/unetbootin) [Unetbootin](https://unetbootin.github.io) - UNetbootin le permite crear unidades USB activas de arranque para Ubuntu y otras distribuciones de Linux. Puede dejar que UNetbootin descargue una de las muchas distribuciones admitidas de fábrica o suministrar su propio archivo .iso de Linux.
 - [USB network gate](https://www.eltima.com/products/usb-over-ip-linux/) - Un programa que le permite compartir un puerto USB a través de una red.
-- [![Open-Source Software][oss icon]](https://github.com/peterlevi/variety-slideshow) [Variety](http://peterlevi.com/variety/) - Variety es un programa que es de código abierto que cambia su papel tapiz automáticamente y puede aplicar efectos usando Imagemagick.
+- [![Open-Source Software][oss icon]](https://github.com/varietywalls/variety) [Variety](http://peterlevi.com/variety/) - Variety es un programa que es de código abierto que cambia su papel tapiz automáticamente y puede aplicar efectos usando Imagemagick.
 - [![Open-Source Software][oss icon]](https://www.virtualbox.org/wiki/Contributor_information) [Virtualbox](https://www.virtualbox.org/wiki/Downloads) - VirtualBox es un programa de virtualización de uso general que es de código abierto.
 - [WallpaperChange](https://apps.ubuntu.com/cat/applications/raring/wallch/) - Un programa que cambia automáticamente el fondo de pantalla de tu escritorio.
 - [![Open-Source Software][oss icon]](https://github.com/rcaelers/workrave) [Workrave](https://www.workrave.org/) - Un programa que ayuda a prevenir trastornos musculoesquéleticos (TME).

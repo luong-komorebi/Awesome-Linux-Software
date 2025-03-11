@@ -609,7 +609,7 @@ _更新：上发布，中文版阅读地址戳[这里](https://alim0x.gitbooks.i
 - [![Open-Source Software][oss icon]](https://github.com/syncthing/syncthing)[Syncthing](https://syncthing.net/) - Syncthing 用开放，值得信赖，去中心化的方案取代专有的同步和云服务。
 - [Teamviewer](https://www.teamviewer.com/) - PC 远程控制/远程访问软件，对个人使用免费。
 - [![Open-Source Software][oss icon]](https://trac.transmissionbt.com/browser/trunk) [Transmission](https://www.transmissionbt.com/download/) - 简单，轻量级，多平台的 torrent 客户端。
-- [![Open-Source Software][oss icon]](https://ugetdm.com/downloads/source-code/) [uGet](http://ugetdm.com/) - Linux 下最好的下载管理器。
+- [![Open-Source Software][oss icon]](https://sourceforge.net/projects/urlget/downloads/source-code/) [uGet](http://ugetdm.com/) - Linux 下最好的下载管理器。
 - [uTorrent](http://www.utorrent.com) - 优雅，高效的 torrent 下载。
 - [Vuze](http://www.vuze.com) - Bittorrent 点对点下载客户端，满足你的所有 torrent 下载需要。
 - [![Open-Source Software][oss icon]](https://github.com/meganz/MEGAsync) [Mega](https://mega.nz/#sync) - 在你的电脑和 MEGA 云存储间轻松自动同步。
@@ -674,7 +674,7 @@ _更新：上发布，中文版阅读地址戳[这里](https://alim0x.gitbooks.i
 - [![Open-Source Software][oss icon]](https://github.com/Kilian/Trimage) [Trimage](https://trimage.org/) - 跨平台无损 PNG 及 JPG 文件调整工具。
 - [![Open-Source Software][oss icon]](https://github.com/gerardpuig/ubuntu-cleaner) [UbuntuCleaner](https://github.com/gerardpuig/ubuntu-cleaner) - 使用 Ubuntu Cleaner 轻松清理你的 ubuntu 系统。
 - [![Open-Source Software][oss icon]](https://github.com/Ulauncher/Ulauncher/) [ULauncher](http://ulauncher.io/) - Linux 应用启动器。
-- [![Open-Source Software][oss icon]](https://github.com/peterlevi/variety-slideshow) [Variety](http://peterlevi.com/variety/) - Variety 是一款开源的 Linux 壁纸更换软件，拥有众多功能，轻巧又易用。
+- [![Open-Source Software][oss icon]](https://github.com/varietywalls/variety) [Variety](http://peterlevi.com/variety/) - Variety 是一款开源的 Linux 壁纸更换软件，拥有众多功能，轻巧又易用。
 - [![Open-Source Software][oss icon]](https://www.virtualbox.org/wiki/Contributor_information) [Virtualbox](https://www.virtualbox.org/wiki/Downloads) - VirtualBox 是一款通用的 x86 硬件虚拟机软件，面向服务器，桌面以及嵌入式。
 - [WallpaperChange](https://apps.ubuntu.com/cat/applications/raring/wallch/) - 自动更换你的壁纸。
 - [![Open-Source Software][oss icon]](https://github.com/rcaelers/workrave) [Workrave](https://www.workrave.org/) - 一款帮助恢复以及防止重复性劳损的程序（RSI）。
