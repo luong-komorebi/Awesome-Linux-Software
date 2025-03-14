@@ -47,6 +47,7 @@
     - [PHP](#php)
     - [Python](#python)
     - [Ruby](#ruby)
+    - [Rust](#rust)
     - [Shell](#shell)
     - [Supporting Tools](#supporting-tools)
   - [E-Book Utilities](#e-book-utilities)
@@ -511,6 +512,10 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 #### Ruby
 
 - ![Non Free][money icon] [RubyMine](https://www.jetbrains.com/ruby/) - Professional Ruby and Rails IDE.
+
+#### Rust
+
+- ![Non Free][money icon] [RustRover](https://www.jetbrains.com/rust/) - Professional Rust IDE by Jetbrains, free for non-commercial use.
 
 #### Shell
 
