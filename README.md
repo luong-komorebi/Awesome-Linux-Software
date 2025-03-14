@@ -468,7 +468,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [![Open-Source Software][oss icon]](https://github.com/gogs/gogs) [Gogs](https://gogs.io/) - A painless self-hosted Git service.
 - [![Open-Source Software][oss icon]](https://github.com/jesseduffield/lazygit) [lazygit](https://github.com/jesseduffield/lazygit) - A simple terminal UI for git commands, written in Go with the gocui library.
 - ![Nonfree][money icon] [SmartGit](https://www.syntevo.com/smartgit/) - SmartGit is a Git client with support for GitHub Pull Requests+Comments and SVN.
-- [![Open-Source Software][oss icon]](https://github.com/sourcegit-scm/sourcegit) [SourceGit](https://sourcegit-scm.github.io/) - SourceGit is a simple grapical git client available for Windows, macOS and Linux. 
+- [![Open-Source Software][oss icon]](https://github.com/sourcegit-scm/sourcegit) [SourceGit](https://sourcegit-scm.github.io/) - SourceGit is a simple graphical git client available for Windows, macOS and Linux. 
 
 #### Golang
 
