@@ -1698,6 +1698,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [![Open-Source Software][oss icon]](https://github.com/BurntSushi/xsv) [xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
 - [![Open-Source Software][oss icon]](https://github.com/skywind3000/z.lua) [z.lua](https://github.com/skywind3000/z.lua) - A new cd command that helps you navigate faster by learning your habits.
 - [![Open-Source Software][oss icon]](https://github.com/ajeetdsouza/zoxide) [zoxide](https://github.com/ajeetdsouza/zoxide) - A better way to navigate your filesystem written in Rust.
+- [![Open-Source Software][oss icon]](https://github.com/beeyev/telegram-owl) [telegram-owl](https://github.com/beeyev/telegram-owl) - CLI tool to send messages and files to Telegram. Useful for scripts, cron jobs, CI/CD pipelines, and monitoring.
 
 ## Custom Linux Kernels
 
