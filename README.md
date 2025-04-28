@@ -1506,6 +1506,8 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 
 #### Other
 
+
+- [![Open-Source Software][oss icon]](https://github.com/quantumvoid0/better-control) [Better Control](https://github.com/quantumvoid0/better-control) - Better Control is a Cross-platform system settings control center.
 - [![Open-Source Software][oss icon]](https://sourceforge.net/projects/alien-pkg-convert/files/) [Alien Package Converter](https://sourceforge.net/projects/alien-pkg-convert/) - Package converter. Converts between RPM, DPKG, SLP, and TGZ package formats.
 - [![Open-Source Software][oss icon]](https://github.com/angryip/ipscan) [Angry IP Scanner](https://angryip.org/) - Fast and friendly network scanner.
 - [![Open-Source Software][oss icon]](https://github.com/AntiMicroX/antimicrox/) [AntiMicroX](https://github.com/AntiMicroX/antimicrox/) - Graphical program used to map keyboard buttons and mouse controls to a gamepad. Useful for playing games with no gamepad support.
