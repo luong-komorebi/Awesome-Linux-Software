@@ -2,6 +2,10 @@
 
 ![Tux](img/tux.png)
 
+## News
+
+- **May 2025:** A new web app for browsing Awesome Linux Software has been released! Check it out at [luong-komorebi.github.io slash Awesome Linux Software](https://luong-komorebi.github.io/Awesome-Linux-Software/).
+
 🐧 This repo is a collection of **AWESOME** Linux applications and tools for **any users/developers**.
 
 🐧 Feel free to **contribute** / **star** / **fork** / **pull request** . Any **recommendations** and **suggestions** are welcome.
@@ -157,6 +161,7 @@
 - [Reddit](#reddit)
 - [Contributors](#contributors)
 - [Guidelines to contribute](#guidelines-to-contribute)
+- [Unsure how to contribute?](#unsure-how-to-contribute)
 - [Unsure how to contribute?](#unsure-how-to-contribute)
 - [License](#license)
 
@@ -1882,6 +1887,12 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [Zorin OS](https://www.reddit.com/r/zorinos/)
 
 ## Contributors
+
+<a href="https://github.com/luong-komorebi/Awesome-Linux-Software/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=luong-komorebi/Awesome-Linux-Software" />
+</a>
+
+Feito com [contrib.rocks](https://contrib.rocks).
 
 Thanks to [**All of Github contributors**](https://github.com/luong-komorebi/Awesome-Linux-Software/graphs/contributors) for making this list possible and
 _Everyone @ reddit.com/r/linux & reddit.com/r/ubuntu & vozforums.com & other forums for many suggestions and compliments_
