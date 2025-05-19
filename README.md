@@ -667,6 +667,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [![Open-Source Software][oss icon]](https://releases.mozilla.org/pub/thunderbird/) [Thunderbird](https://www.thunderbird.net/en-US/) - Thunderbird is a free email application that’s easy to set up and customize and it’s loaded with great features.
 - [![Open-Source Software][oss icon]](https://github.com/KDE/trojita) [Trojita](https://apps.kde.org/trojita/) - A super fast desktop email client for Linux.
 - [![Open-Source Software][oss icon]](https://github.com/danchoi/vmail) [Vmail](https://danielchoi.com/software/vmail.html) - Vim-like Gmail client.
+- [![Open-Source Software][oss icon]](https://salsa.debian.org/dskoll/mailmunge) [Mailmunge](https://mailmunge.org/) - A powerful server-side email-filtering framework that works with Postfix or Sendmail.
 
 ### File Manager
 
@@ -1192,6 +1193,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [![Open-Source Software][oss icon]](https://gitlab.gnome.org/GNOME/gnome-break-timer/) [Break Timer](https://wiki.gnome.org/Apps/BreakTimer) - A break timer application for GNOME.
 - [![Open-Source Software][oss icon]](https://github.com/tom-james-watson/breaktimer-app/) [BreakTimer](https://breaktimer.app/) - BreakTimer is a cross platform desktop application with nice UI for managing and enforcing periodic breaks.
 - [![Open-Source Software][oss icon]](https://git.calcurse.org/calcurse.git/) [calcurse](https://calcurse.org/) - A calendar and scheduling application for the command line.
+- [![Open-Source Software][oss icon]](https://salsa.debian.org/dskoll/remind/) [Remind](https://dianne.skoll.ca/projects/remind/) - A very sophisticated scriptable calendar application with a graphical front-end and intelligent handling of holidays.
 - [![Open-Source Software][oss icon]](https://gitlab.gnome.org/GNOME/california) [California](https://wiki.gnome.org/Apps/California) - Complete Calendar app replacement which uses natural language for creating events.
 - ![Nonfree][money icon] [Everdo](https://everdo.net/) - TODO list and Getting Things Done® app for all platforms. Beautiful, powerful, not SaaS, free version available.
 - [![Open-Source Software][oss icon]](https://github.com/codito/gnome-pomodoro) [GNOME Pomodoro](https://gnomepomodoro.org/#download) - A full-featured pomodoro timer for GNOME.
