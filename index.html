@@ -1,0 +1,1508 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Awesome Linux Software</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script
+      crossorigin
+      src="https://unpkg.com/react@18/umd/react.production.min.js"
+    ></script>
+    <script
+      crossorigin
+      src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"
+    ></script>
+    <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+    <style>
+      .line-clamp-2 {
+        display: -webkit-box;
+        -webkit-line-clamp: 2;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+      }
+      .search-icon {
+        width: 20px;
+        height: 20px;
+        display: inline-block;
+        position: relative;
+      }
+      .search-icon:before {
+        content: "";
+        position: absolute;
+        top: 2px;
+        left: 2px;
+        width: 10px;
+        height: 10px;
+        border: 2px solid currentColor;
+        border-radius: 50%;
+      }
+      .search-icon:after {
+        content: "";
+        position: absolute;
+        top: 11px;
+        left: 14px;
+        width: 2px;
+        height: 7px;
+        background: currentColor;
+        transform: rotate(45deg);
+      }
+      .ai-assistant {
+        transition: all 0.3s ease;
+      }
+      .spinner {
+        border: 3px solid rgba(255, 255, 255, 0.3);
+        border-radius: 50%;
+        border-top: 3px solid #fff;
+        width: 24px;
+        height: 24px;
+        animation: spin 1s linear infinite;
+      }
+      @keyframes spin {
+        0% {
+          transform: rotate(0deg);
+        }
+        100% {
+          transform: rotate(360deg);
+        }
+      }
+      .modal {
+        transition: opacity 0.3s ease;
+      }
+      .modal-content {
+        transition: transform 0.3s ease;
+      }
+      .modal.active .modal-content {
+        transform: translateY(0);
+      }
+      .modal:not(.active) .modal-content {
+        transform: translateY(20px);
+      }
+    </style>
+  </head>
+  <body>
+    <div id="root"></div>
+
+    <script type="text/babel">
+      const { useState, useEffect, useRef } = React;
+
+      const App = () => {
+        const [categories, setCategories] = useState([]);
+        const [applications, setApplications] = useState([]);
+        const [filteredApps, setFilteredApps] = useState([]);
+        const [selectedCategory, setSelectedCategory] = useState("all");
+        const [searchTerm, setSearchTerm] = useState("");
+        const [isLoading, setIsLoading] = useState(true);
+        const [activeApp, setActiveApp] = useState(null);
+        const [fetchError, setFetchError] = useState(null);
+        const [isDarkMode, setIsDarkMode] = useState(
+          window.matchMedia &&
+            window.matchMedia("(prefers-color-scheme: dark)").matches
+        );
+
+        const [isAiOpen, setIsAiOpen] = useState(false);
+        const [userQuery, setUserQuery] = useState("");
+        const [aiResponse, setAiResponse] = useState("");
+        const [aiRecommendations, setAiRecommendations] = useState([]);
+        const [isAiLoading, setIsAiLoading] = useState(false);
+        const [openAiKey, setOpenAiKey] = useState(
+          localStorage.getItem("openAiKey") || ""
+        );
+        const [showKeyInput, setShowKeyInput] = useState(false);
+        const [aiError, setAiError] = useState(null);
+
+        const [showAboutModal, setShowAboutModal] = useState(false);
+        const [authorInfo, setAuthorInfo] = useState(null);
+        const [isAuthorLoading, setIsAuthorLoading] = useState(false);
+
+        const aiInputRef = useRef(null);
+        const messagesEndRef = useRef(null);
+
+        useEffect(() => {
+          const fetchData = async () => {
+            setIsLoading(true);
+            setFetchError(null);
+
+            try {
+              const response = await fetch(
+                "https://raw.githubusercontent.com/luong-komorebi/Awesome-Linux-Software/master/README.md"
+              );
+
+              if (!response.ok) {
+                throw new Error(
+                  `Failed to fetch data: ${response.status} ${response.statusText}`
+                );
+              }
+
+              const markdownContent = await response.text();
+              const { parsedCategories, parsedApplications } =
+                parseMarkdown(markdownContent);
+
+              const allCategoriesData = [
+                { id: "all", name: "All Applications" },
+                ...parsedCategories,
+              ];
+
+              setCategories(allCategoriesData);
+              setApplications(parsedApplications);
+              setFilteredApps(parsedApplications);
+            } catch (error) {
+              console.error("Error fetching or parsing data:", error);
+              setFetchError(error.message);
+              setCategories([{ id: "all", name: "All Applications" }]);
+              setApplications([]);
+              setFilteredApps([]);
+            } finally {
+              setIsLoading(false);
+            }
+          };
+
+          fetchData();
+        }, []);
+
+        useEffect(() => {
+          if (showAboutModal && !authorInfo && !isAuthorLoading) {
+            fetchAuthorInfo();
+          }
+        }, [showAboutModal]);
+
+        useEffect(() => {
+          if (messagesEndRef.current) {
+            messagesEndRef.current.scrollIntoView({ behavior: "smooth" });
+          }
+        }, [aiResponse]);
+
+        useEffect(() => {
+          filterApplications();
+        }, [selectedCategory, searchTerm, applications]);
+
+        const fetchAuthorInfo = async () => {
+          setIsAuthorLoading(true);
+          try {
+            const response = await fetch(
+              "https://api.github.com/users/luong-komorebi"
+            );
+            if (!response.ok) {
+              throw new Error("Failed to fetch author info");
+            }
+            const data = await response.json();
+            setAuthorInfo(data);
+          } catch (error) {
+            console.error("Error fetching author info:", error);
+          } finally {
+            setIsAuthorLoading(false);
+          }
+        };
+
+        const scrollToBottom = () => {
+          if (messagesEndRef.current) {
+            messagesEndRef.current.scrollIntoView({ behavior: "smooth" });
+          }
+        };
+
+        const addReferral = (url) => {
+          if (!url) return url;
+
+          try {
+            const originalUrl = new URL(url);
+
+            // Don't add referral to GitHub links about this project
+            if (
+              originalUrl.hostname === "github.com" &&
+              originalUrl.pathname.includes(
+                "luong-komorebi/Awesome-Linux-Software"
+              )
+            ) {
+              return url;
+            }
+
+            // Add referrer parameter
+            originalUrl.searchParams.append("ref", "awesome-linux-software");
+
+            return originalUrl.toString();
+          } catch (e) {
+            // If URL parsing fails, return the original URL
+            return url;
+          }
+        };
+
+        const parseMarkdown = (content) => {
+          const parsedCategories = [];
+          const parsedApplications = [];
+          let appId = 1;
+
+          const lines = content.split("\n");
+          let currentCategory = null;
+          let currentCategoryId = null;
+          let currentCategoryName = null;
+
+          const categoryRegex = /^#+\s+(.+)$/;
+          const appRegex = /\[([^\]]+)\]\(([^)]+)\)\s*-\s*(.+)$/;
+
+          const mainSections = [
+            "Applications",
+            "3D Printing",
+            "Audio",
+            "Chat Clients",
+            "Data Backup and Recovery",
+            "Desktop Customization",
+            "Development",
+            "E-Book Utilities",
+            "Electronic",
+            "Education",
+            "Email",
+            "File Manager",
+            "Games",
+            "Graphics",
+            "Internet",
+            "Office",
+            "Productivity",
+            "Proxy",
+            "Security",
+            "Sharing Files",
+            "Terminal",
+            "Text Editors",
+            "Utilities",
+            "Video",
+            "VPN",
+            "Wiki Software",
+            "Others",
+          ];
+
+          const cleanCategoryId = (name) => {
+            return name
+              .toLowerCase()
+              .replace(/[^\w\s-]/g, "")
+              .replace(/\s+/g, "")
+              .trim();
+          };
+
+          for (let i = 0; i < lines.length; i++) {
+            const line = lines[i].trim();
+
+            const categoryMatch = line.match(categoryRegex);
+            if (categoryMatch) {
+              const potentialCategory = categoryMatch[1];
+
+              if (mainSections.includes(potentialCategory)) {
+                currentCategoryName = potentialCategory;
+                currentCategoryId = cleanCategoryId(potentialCategory);
+
+                if (potentialCategory !== "Applications") {
+                  parsedCategories.push({
+                    id: currentCategoryId,
+                    name: currentCategoryName,
+                  });
+                }
+              } else if (
+                currentCategoryName &&
+                mainSections.includes(currentCategoryName)
+              ) {
+                currentCategory = potentialCategory;
+              }
+            }
+
+            const appMatch = line.match(appRegex);
+            if (
+              appMatch &&
+              currentCategoryId &&
+              currentCategoryId !== "applications"
+            ) {
+              const name = appMatch[1];
+              const website = appMatch[2];
+              const description = appMatch[3];
+
+              const isOpenSource = !line.includes("nonfree");
+
+              const generateTags = (name, desc, category) => {
+                const tags = new Set();
+
+                tags.add(category.toLowerCase());
+
+                if (currentCategory) {
+                  tags.add(currentCategory.toLowerCase());
+                }
+
+                const commonWords = [
+                  "a",
+                  "an",
+                  "the",
+                  "is",
+                  "and",
+                  "or",
+                  "for",
+                  "to",
+                  "with",
+                  "that",
+                  "this",
+                ];
+
+                const addWordsFromText = (text) => {
+                  const words = text
+                    .toLowerCase()
+                    .replace(/[^\w\s]/g, "")
+                    .split(" ")
+                    .filter(
+                      (word) => word.length > 3 && !commonWords.includes(word)
+                    );
+
+                  words.forEach((word) => tags.add(word));
+                };
+
+                addWordsFromText(name);
+
+                const shortDesc = desc.split(" ").slice(0, 8).join(" ");
+                addWordsFromText(shortDesc);
+
+                return Array.from(tags).slice(0, 6);
+              };
+
+              const app = {
+                id: appId++,
+                name: name,
+                category: currentCategoryId,
+                subcategory: currentCategory || null,
+                description: description,
+                website: website,
+                isOpenSource: isOpenSource,
+                tags: generateTags(name, description, currentCategoryName),
+              };
+
+              parsedApplications.push(app);
+            }
+          }
+
+          return { parsedCategories, parsedApplications };
+        };
+
+        const filterApplications = () => {
+          let filtered = [...applications];
+
+          if (selectedCategory !== "all") {
+            filtered = filtered.filter(
+              (app) => app.category === selectedCategory
+            );
+          }
+
+          if (searchTerm.trim() !== "") {
+            const search = searchTerm.toLowerCase();
+            filtered = filtered.filter(
+              (app) =>
+                app.name.toLowerCase().includes(search) ||
+                app.description.toLowerCase().includes(search) ||
+                (app.tags && app.tags.some((tag) => tag.includes(search)))
+            );
+          }
+
+          setFilteredApps(filtered);
+        };
+
+        const handleKeyDown = (e) => {
+          if (e.key === "Enter" && !e.shiftKey) {
+            e.preventDefault();
+            handleAiQuery();
+          }
+        };
+
+        const handleAiQuery = async () => {
+          if (!userQuery.trim()) return;
+
+          setIsAiLoading(true);
+          setAiError(null);
+
+          const previousQuery = userQuery;
+          setUserQuery("");
+
+          try {
+            if (!openAiKey) {
+              await fallbackRecommendation(previousQuery);
+              return;
+            }
+
+            const response = await fetch(
+              "https://api.openai.com/v1/chat/completions",
+              {
+                method: "POST",
+                headers: {
+                  "Content-Type": "application/json",
+                  Authorization: `Bearer ${openAiKey}`,
+                },
+                body: JSON.stringify({
+                  model: "gpt-3.5-turbo",
+                  messages: [
+                    {
+                      role: "system",
+                      content: `You are a Linux software recommendation assistant. Provide helpful, specific recommendations based on user queries.
+                  
+Instructions:
+1. Recommend 3-5 Linux applications that best match the user's needs
+2. Format MUST be consistent:
+   - Start with a brief introduction
+   - List each recommendation with "• [App Name] - " prefix followed by a brief description
+   - Separate introduction from list with a line break
+
+Example format:
+"Based on your needs, here are some great Linux applications:
+
+• GIMP - Professional image editor with extensive feature set
+• Inkscape - Vector graphics editor perfect for illustrations  
+• Krita - Digital painting program with natural media simulation"
+
+Important: Only recommend software that actually exists for Linux. Keep descriptions brief and focused.`,
+                    },
+                    {
+                      role: "user",
+                      content: `Recommend Linux software for: "${previousQuery}"`,
+                    },
+                  ],
+                  max_tokens: 500,
+                }),
+              }
+            );
+
+            if (!response.ok) {
+              throw new Error(`API Error: ${response.status}`);
+            }
+
+            const data = await response.json();
+            let aiContent = data.choices[0].message.content;
+
+            // Extract recommendations from the AI response
+            const recommendationInfo =
+              extractRecommendationsFromAiResponse(aiContent);
+            const matchedApps = recommendationInfo.matchedApps;
+
+            // If we have matched apps, ensure the text response only includes apps we can actually show
+            if (matchedApps.length > 0) {
+              // Split response into introduction and list parts
+              const responseLines = aiContent.split("\n");
+              const introLines = [];
+              let reachedList = false;
+
+              for (const line of responseLines) {
+                if (
+                  !reachedList &&
+                  (line.trim() === "" || line.trim().match(/^[•*\-→▸►]/))
+                ) {
+                  reachedList = true;
+                }
+
+                if (!reachedList) {
+                  introLines.push(line);
+                }
+              }
+
+              // Create new response with matched apps only
+              let newResponse = introLines.join("\n");
+              if (introLines.length > 0 && !newResponse.endsWith("\n")) {
+                newResponse += "\n";
+              }
+              newResponse += "\n";
+
+              // Add our actual matched apps to the response
+              matchedApps.forEach((app) => {
+                // Get first sentence of description or truncate if too long
+                let shortDesc = app.description.split(".")[0];
+                if (shortDesc.length > 100) {
+                  shortDesc = shortDesc.substring(0, 97) + "...";
+                }
+                newResponse += `• ${app.name} - ${shortDesc}.\n`;
+              });
+
+              aiContent = newResponse;
+            }
+
+            setAiResponse(aiContent);
+            setAiRecommendations(matchedApps);
+          } catch (error) {
+            console.error("AI error:", error);
+            setAiError(
+              `Error: ${error.message}. ${
+                !openAiKey ? " Please add your OpenAI API key." : ""
+              }`
+            );
+            await fallbackRecommendation(previousQuery);
+          } finally {
+            setIsAiLoading(false);
+            setTimeout(scrollToBottom, 100);
+          }
+        };
+
+        const fallbackRecommendation = async (query) => {
+          const queryTerms = query
+            .toLowerCase()
+            .split(" ")
+            .filter((word) => word.length > 3);
+
+          let matchedApps = applications.filter((app) => {
+            return queryTerms.some(
+              (term) =>
+                app.name.toLowerCase().includes(term) ||
+                app.description.toLowerCase().includes(term) ||
+                app.tags.some((tag) => tag.includes(term))
+            );
+          });
+
+          if (matchedApps.length === 0) {
+            const categoryMatches = categories
+              .filter((cat) => cat.id !== "all")
+              .filter((cat) =>
+                queryTerms.some((term) => cat.name.toLowerCase().includes(term))
+              );
+
+            if (categoryMatches.length > 0) {
+              const categoryIds = categoryMatches.map((cat) => cat.id);
+              matchedApps = applications.filter((app) =>
+                categoryIds.includes(app.category)
+              );
+            }
+          }
+
+          // Sort by relevance (number of matching terms)
+          matchedApps = matchedApps
+            .sort((a, b) => {
+              const aMatches = queryTerms.filter(
+                (term) =>
+                  a.name.toLowerCase().includes(term) ||
+                  a.description.toLowerCase().includes(term) ||
+                  a.tags.some((tag) => tag.includes(term))
+              ).length;
+
+              const bMatches = queryTerms.filter(
+                (term) =>
+                  b.name.toLowerCase().includes(term) ||
+                  b.description.toLowerCase().includes(term) ||
+                  b.tags.some((tag) => tag.includes(term))
+              ).length;
+
+              return bMatches - aMatches;
+            })
+            .slice(0, 5);
+
+          if (matchedApps.length > 0) {
+            // Create a more structured response similar to the AI output
+            let response = `Based on your search for "${query}", here are some Linux applications that might help:\n\n`;
+
+            matchedApps.forEach((app) => {
+              let shortDesc = app.description.split(".")[0];
+              if (shortDesc.length > 100) {
+                shortDesc = shortDesc.substring(0, 97) + "...";
+              }
+              response += `• ${app.name} - ${shortDesc}.\n`;
+            });
+
+            setAiResponse(response);
+            setAiRecommendations(matchedApps);
+          } else {
+            setAiResponse(
+              `I couldn't find specific applications matching "${query}". Try browsing by category or using more specific terms.`
+            );
+            setAiRecommendations([]);
+          }
+        };
+
+        const extractRecommendationsFromAiResponse = (response) => {
+          const appNames = [];
+          const appDescriptions = {};
+          // Split by lines and look for the bullet point format
+          const lines = response.split("\n");
+
+          for (const line of lines) {
+            // Match lines that start with a bullet point followed by app name
+            // This accommodates various bullet styles: •, *, -, etc.
+            const bulletMatch = line.match(
+              /^[•*\-→▸►]\s+([^-\–\—]+)[\-\–\—](.+)/
+            );
+            if (bulletMatch) {
+              const namePart = bulletMatch[1].trim();
+              const description = bulletMatch[2].trim();
+              // If name contains description after a colon, just take the part before the colon
+              const name = namePart.includes(":")
+                ? namePart.split(":")[0].trim()
+                : namePart;
+              appNames.push(name);
+              appDescriptions[name] = description;
+            }
+          }
+
+          // If no bullet points found, try the older format with names followed by colons
+          if (appNames.length === 0) {
+            for (const line of lines) {
+              const nameMatch = line.match(/\*\*([^*:]+)\*\*|^([^:]+):/);
+              if (nameMatch) {
+                const name = (nameMatch[1] || nameMatch[2]).trim();
+                appNames.push(name);
+              }
+            }
+          }
+
+          // Map names to actual applications with fuzzy matching
+          const matchedApps = appNames
+            .map((name) => {
+              // First try exact match
+              let matchedApps = applications.filter(
+                (app) => app.name.toLowerCase() === name.toLowerCase()
+              );
+
+              // If no exact matches, try partial matches
+              if (matchedApps.length === 0) {
+                matchedApps = applications.filter(
+                  (app) =>
+                    app.name.toLowerCase().includes(name.toLowerCase()) ||
+                    name.toLowerCase().includes(app.name.toLowerCase())
+                );
+              }
+
+              // If still no matches, try matching words
+              if (matchedApps.length === 0) {
+                const nameWords = name.toLowerCase().split(/\s+/);
+                matchedApps = applications.filter((app) =>
+                  nameWords.some(
+                    (word) =>
+                      word.length > 3 && app.name.toLowerCase().includes(word)
+                  )
+                );
+              }
+
+              return matchedApps[0] || null;
+            })
+            .filter((app) => app !== null);
+
+          return { matchedApps, appNames, appDescriptions };
+        };
+
+        const handleCategoryChange = (categoryId) => {
+          setSelectedCategory(categoryId);
+          setActiveApp(null);
+        };
+
+        const handleSearchChange = (e) => {
+          setSearchTerm(e.target.value);
+          setActiveApp(null);
+        };
+
+        const toggleDarkMode = () => {
+          setIsDarkMode(!isDarkMode);
+        };
+
+        const openAppDetail = (app) => {
+          setActiveApp(app);
+        };
+
+        const closeAppDetail = () => {
+          setActiveApp(null);
+        };
+
+        const toggleAiAssistant = () => {
+          setIsAiOpen(!isAiOpen);
+          if (!isAiOpen) {
+            setTimeout(() => {
+              if (aiInputRef.current) {
+                aiInputRef.current.focus();
+              }
+            }, 300);
+          }
+        };
+
+        const saveApiKey = () => {
+          localStorage.setItem("openAiKey", openAiKey);
+          setShowKeyInput(false);
+        };
+
+        const toggleAboutModal = () => {
+          setShowAboutModal(!showAboutModal);
+        };
+
+        return (
+          <div
+            className={`min-h-screen flex flex-col ${
+              isDarkMode
+                ? "bg-gray-900 text-gray-200"
+                : "bg-gray-100 text-gray-800"
+            }`}
+          >
+            <header
+              className={`py-4 ${isDarkMode ? "bg-gray-800" : "bg-blue-600"}`}
+            >
+              {/* Privacy Notice Banner */}
+              <div
+                className={`w-full mb-2 py-1 px-4 text-center text-sm ${
+                  isDarkMode ? "bg-gray-700" : "bg-blue-700"
+                }`}
+              >
+                <p className="text-white">
+                  🔒 This site runs entirely on your browser - no server, no
+                  tracking, no data storage. Your privacy is respected.
+                </p>
+              </div>
+
+              <div className="container mx-auto px-4 flex justify-between items-center">
+                <div className="flex items-center">
+                  <span className="text-2xl font-bold text-white mr-2">🐧</span>
+                  <h1 className="text-2xl font-bold text-white">
+                    Awesome Linux Software
+                  </h1>
+                </div>
+                <div className="flex space-x-2">
+                  <button
+                    onClick={toggleAboutModal}
+                    className={`px-3 py-1 rounded-md ${
+                      isDarkMode
+                        ? "bg-gray-700 hover:bg-gray-600"
+                        : "bg-blue-500 hover:bg-blue-400"
+                    } text-white`}
+                  >
+                    About
+                  </button>
+                  <button
+                    onClick={toggleAiAssistant}
+                    className={`px-3 py-1 rounded-md ${
+                      isDarkMode
+                        ? "bg-gray-700 hover:bg-gray-600"
+                        : "bg-blue-500 hover:bg-blue-400"
+                    } text-white flex items-center`}
+                  >
+                    <span className="mr-1">🤖</span> AI Software Finder
+                  </button>
+                  <button
+                    onClick={toggleDarkMode}
+                    className={`px-3 py-1 rounded-md ${
+                      isDarkMode
+                        ? "bg-gray-700 text-yellow-300"
+                        : "bg-blue-500 text-white"
+                    }`}
+                  >
+                    {isDarkMode ? "☀️ Light" : "🌙 Dark"}
+                  </button>
+                </div>
+              </div>
+            </header>
+
+            <div className="container mx-auto px-4 py-6 flex-grow">
+              <div className="mb-6">
+                <div
+                  className={`flex items-center p-2 rounded-lg ${
+                    isDarkMode ? "bg-gray-800" : "bg-white"
+                  } shadow`}
+                >
+                  <span
+                    className={`search-icon mr-2 ${
+                      isDarkMode ? "text-gray-400" : "text-gray-500"
+                    }`}
+                  ></span>
+                  <input
+                    type="text"
+                    placeholder="Search applications, categories, or tags..."
+                    className={`w-full p-2 outline-none ${
+                      isDarkMode
+                        ? "bg-gray-800 text-white"
+                        : "bg-white text-gray-800"
+                    }`}
+                    value={searchTerm}
+                    onChange={handleSearchChange}
+                  />
+                </div>
+              </div>
+
+              <div className="mb-6 overflow-x-auto">
+                <div className="flex space-x-2 pb-2">
+                  {categories.map((category) => (
+                    <button
+                      key={category.id}
+                      onClick={() => handleCategoryChange(category.id)}
+                      className={`px-4 py-2 rounded-full whitespace-nowrap ${
+                        selectedCategory === category.id
+                          ? isDarkMode
+                            ? "bg-blue-600 text-white"
+                            : "bg-blue-600 text-white"
+                          : isDarkMode
+                          ? "bg-gray-800 text-gray-300 hover:bg-gray-700"
+                          : "bg-gray-200 text-gray-700 hover:bg-gray-300"
+                      }`}
+                    >
+                      {category.name}
+                    </button>
+                  ))}
+                </div>
+              </div>
+
+              {isLoading ? (
+                <div className="flex flex-col justify-center items-center h-64">
+                  <div
+                    className={`animate-spin rounded-full h-12 w-12 border-t-2 border-b-2 ${
+                      isDarkMode ? "border-blue-500" : "border-blue-600"
+                    } mb-4`}
+                  ></div>
+                  <p>Loading applications from GitHub...</p>
+                </div>
+              ) : fetchError ? (
+                <div
+                  className={`rounded-lg shadow p-6 ${
+                    isDarkMode ? "bg-red-900" : "bg-red-100"
+                  } mb-6`}
+                >
+                  <h2 className="text-xl font-bold mb-2">Error Loading Data</h2>
+                  <p>{fetchError}</p>
+                  <p className="mt-2">
+                    Please try again later or check your connection.
+                  </p>
+                </div>
+              ) : (
+                <>
+                  {activeApp ? (
+                    <div
+                      className={`rounded-lg shadow-lg p-6 ${
+                        isDarkMode ? "bg-gray-800" : "bg-white"
+                      }`}
+                    >
+                      <div className="flex justify-between items-center mb-4">
+                        <h2 className="text-2xl font-bold">{activeApp.name}</h2>
+                        <button
+                          onClick={closeAppDetail}
+                          className={`px-3 py-1 rounded-md ${
+                            isDarkMode
+                              ? "bg-gray-700 hover:bg-gray-600"
+                              : "bg-gray-200 hover:bg-gray-300"
+                          }`}
+                        >
+                          Back
+                        </button>
+                      </div>
+
+                      <div className="mb-4">
+                        <span
+                          className={`inline-block px-3 py-1 rounded-full text-sm mr-2 ${
+                            isDarkMode
+                              ? "bg-blue-900 text-blue-300"
+                              : "bg-blue-100 text-blue-800"
+                          }`}
+                        >
+                          {categories.find((c) => c.id === activeApp.category)
+                            ?.name || activeApp.category}
+                        </span>
+
+                        {activeApp.subcategory && (
+                          <span
+                            className={`inline-block px-3 py-1 rounded-full text-sm mr-2 ${
+                              isDarkMode
+                                ? "bg-purple-900 text-purple-300"
+                                : "bg-purple-100 text-purple-800"
+                            }`}
+                          >
+                            {activeApp.subcategory}
+                          </span>
+                        )}
+
+                        {activeApp.isOpenSource && (
+                          <span
+                            className={`inline-block px-3 py-1 rounded-full text-sm ${
+                              isDarkMode
+                                ? "bg-green-900 text-green-300"
+                                : "bg-green-100 text-green-800"
+                            }`}
+                          >
+                            Open Source
+                          </span>
+                        )}
+                      </div>
+
+                      <p className="text-lg mb-4">{activeApp.description}</p>
+
+                      {activeApp.tags && activeApp.tags.length > 0 && (
+                        <div className="mb-6">
+                          <h3 className="font-semibold mb-2">Tags:</h3>
+                          <div className="flex flex-wrap gap-2">
+                            {activeApp.tags.map((tag, index) => (
+                              <span
+                                key={index}
+                                className={`px-2 py-1 rounded-md text-sm ${
+                                  isDarkMode ? "bg-gray-700" : "bg-gray-200"
+                                }`}
+                              >
+                                {tag}
+                              </span>
+                            ))}
+                          </div>
+                        </div>
+                      )}
+
+                      <a
+                        href={addReferral(activeApp.website)}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className={`inline-block px-4 py-2 rounded-md ${
+                          isDarkMode
+                            ? "bg-blue-600 hover:bg-blue-700"
+                            : "bg-blue-600 hover:bg-blue-700"
+                        } text-white`}
+                      >
+                        Visit Website
+                      </a>
+                    </div>
+                  ) : (
+                    <>
+                      <div className="mb-4">
+                        <p
+                          className={`${
+                            isDarkMode ? "text-gray-400" : "text-gray-600"
+                          }`}
+                        >
+                          Showing {filteredApps.length} applications
+                          {selectedCategory !== "all" &&
+                            ` in ${
+                              categories.find((c) => c.id === selectedCategory)
+                                ?.name || selectedCategory
+                            }`}
+                          {searchTerm && ` matching "${searchTerm}"`}
+                        </p>
+                      </div>
+
+                      {filteredApps.length === 0 && (
+                        <div
+                          className={`text-center py-12 ${
+                            isDarkMode ? "bg-gray-800" : "bg-white"
+                          } rounded-lg shadow`}
+                        >
+                          <p className="text-xl">
+                            No applications found matching your criteria
+                          </p>
+                          <p className="mt-2 text-gray-500">
+                            Try adjusting your search or category filter
+                          </p>
+                        </div>
+                      )}
+
+                      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+                        {filteredApps.map((app) => (
+                          <div
+                            key={app.id}
+                            className={`rounded-lg shadow-md overflow-hidden cursor-pointer transition-transform hover:scale-105 ${
+                              isDarkMode ? "bg-gray-800" : "bg-white"
+                            }`}
+                            onClick={() => openAppDetail(app)}
+                          >
+                            <div className="p-5">
+                              <div className="flex justify-between items-start">
+                                <h2 className="text-xl font-semibold mb-2">
+                                  {app.name}
+                                </h2>
+                                {app.isOpenSource && (
+                                  <span
+                                    className={`inline-block px-2 py-1 rounded-full text-xs ${
+                                      isDarkMode
+                                        ? "bg-green-900 text-green-300"
+                                        : "bg-green-100 text-green-800"
+                                    }`}
+                                  >
+                                    Open Source
+                                  </span>
+                                )}
+                              </div>
+                              <p
+                                className={`mb-4 text-sm ${
+                                  isDarkMode ? "text-gray-400" : "text-gray-600"
+                                } line-clamp-2`}
+                              >
+                                {app.description}
+                              </p>
+                              <div className="flex items-center justify-between">
+                                <span
+                                  className={`inline-block px-3 py-1 rounded-full text-xs ${
+                                    isDarkMode
+                                      ? "bg-blue-900 text-blue-300"
+                                      : "bg-blue-100 text-blue-800"
+                                  }`}
+                                >
+                                  {categories.find((c) => c.id === app.category)
+                                    ?.name || app.category}
+                                </span>
+                                <span
+                                  className={`text-sm ${
+                                    isDarkMode
+                                      ? "text-blue-400"
+                                      : "text-blue-600"
+                                  }`}
+                                >
+                                  View details →
+                                </span>
+                              </div>
+                            </div>
+                          </div>
+                        ))}
+                      </div>
+                    </>
+                  )}
+                </>
+              )}
+            </div>
+
+            {/* About Modal */}
+            <div
+              className={`modal fixed inset-0 bg-black bg-opacity-50 z-50 flex justify-center items-center ${
+                showAboutModal
+                  ? "active opacity-100"
+                  : "opacity-0 pointer-events-none"
+              }`}
+            >
+              <div
+                className={`modal-content relative bg-white dark:bg-gray-800 w-full max-w-3xl rounded-lg shadow-lg max-h-[90vh] overflow-auto ${
+                  isDarkMode ? "text-white" : "text-gray-800"
+                }`}
+              >
+                <div className="sticky top-0 bg-blue-600 dark:bg-gray-700 text-white p-4 flex justify-between items-center">
+                  <h2 className="text-xl font-bold">
+                    About Awesome Linux Software
+                  </h2>
+                  <button
+                    onClick={toggleAboutModal}
+                    className="text-white hover:bg-blue-700 dark:hover:bg-gray-600 p-1 rounded"
+                  >
+                    ✕
+                  </button>
+                </div>
+
+                <div className="p-6">
+                  <div className="mb-8">
+                    <h3 className="text-lg font-semibold mb-4">
+                      About This Project
+                    </h3>
+                    <p className="mb-4">
+                      Awesome Linux Software is a web application that helps you
+                      discover and explore Linux applications from the{" "}
+                      <a
+                        href="https://github.com/luong-komorebi/Awesome-Linux-Software"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className={`${
+                          isDarkMode ? "text-blue-400" : "text-blue-600"
+                        } hover:underline`}
+                      >
+                        Awesome-Linux-Software
+                      </a>{" "}
+                      GitHub repository.
+                    </p>
+                    <p>
+                      This tool parses the markdown content directly from the
+                      repository and presents it in a searchable, filterable
+                      interface with detailed information about each
+                      application.
+                    </p>
+                  </div>
+
+                  <div className="mb-8">
+                    <h3 className="text-lg font-semibold mb-4">Author</h3>
+
+                    {isAuthorLoading ? (
+                      <div className="flex justify-center py-8">
+                        <div className="animate-spin rounded-full h-12 w-12 border-t-2 border-b-2 border-blue-500"></div>
+                      </div>
+                    ) : authorInfo ? (
+                      <div className="flex flex-col md:flex-row items-center md:items-start gap-6">
+                        <div className="w-32 h-32 rounded-full overflow-hidden">
+                          <img
+                            src={authorInfo.avatar_url}
+                            alt={authorInfo.name || authorInfo.login}
+                            className="w-full h-full object-cover"
+                          />
+                        </div>
+                        <div>
+                          <h4 className="text-xl font-semibold">
+                            {authorInfo.name || authorInfo.login}
+                          </h4>
+                          {authorInfo.bio && (
+                            <p
+                              className={`${
+                                isDarkMode ? "text-gray-300" : "text-gray-600"
+                              } mt-2`}
+                            >
+                              {authorInfo.bio}
+                            </p>
+                          )}
+
+                          <div className="mt-4 space-y-2">
+                            {authorInfo.location && (
+                              <div className="flex items-center">
+                                <span className="mr-2">📍</span>
+                                <span>{authorInfo.location}</span>
+                              </div>
+                            )}
+
+                            {authorInfo.blog && (
+                              <div className="flex items-center">
+                                <span className="mr-2">🔗</span>
+                                <a
+                                  href={
+                                    authorInfo.blog.startsWith("http")
+                                      ? authorInfo.blog
+                                      : `https://${authorInfo.blog}`
+                                  }
+                                  target="_blank"
+                                  rel="noopener noreferrer"
+                                  className={`${
+                                    isDarkMode
+                                      ? "text-blue-400"
+                                      : "text-blue-600"
+                                  } hover:underline`}
+                                >
+                                  {authorInfo.blog}
+                                </a>
+                              </div>
+                            )}
+
+                            <div className="flex items-center">
+                              <span className="mr-2">🐙</span>
+                              <a
+                                href={authorInfo.html_url}
+                                target="_blank"
+                                rel="noopener noreferrer"
+                                className={`${
+                                  isDarkMode ? "text-blue-400" : "text-blue-600"
+                                } hover:underline`}
+                              >
+                                GitHub Profile
+                              </a>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    ) : (
+                      <p>
+                        Could not load author information. Please visit the{" "}
+                        <a
+                          href="https://github.com/luong-komorebi"
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          className={`${
+                            isDarkMode ? "text-blue-400" : "text-blue-600"
+                          } hover:underline`}
+                        >
+                          GitHub profile
+                        </a>{" "}
+                        for more information.
+                      </p>
+                    )}
+                  </div>
+
+                  <div className="mb-8">
+                    <h3 className="text-lg font-semibold mb-4">Contributors</h3>
+                    <div className="flex flex-col items-center text-center">
+                      <a
+                        href="https://github.com/luong-komorebi/Awesome-Linux-Software/graphs/contributors"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                      >
+                        <img
+                          src="https://contrib.rocks/image?repo=luong-komorebi/Awesome-Linux-Software"
+                          alt="Contributors"
+                          className="max-w-full rounded-lg"
+                        />
+                      </a>
+                      <p className="mt-3">
+                        Made with{" "}
+                        <a
+                          href="https://contrib.rocks"
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          className={`${
+                            isDarkMode ? "text-blue-400" : "text-blue-600"
+                          } hover:underline`}
+                        >
+                          contrib.rocks
+                        </a>
+                      </p>
+                    </div>
+                  </div>
+
+                  <div>
+                    <h3 className="text-lg font-semibold mb-4">Contribute</h3>
+                    <p className="mb-4">
+                      The Awesome Linux Software project is open source and
+                      welcomes contributions. If you know a great Linux
+                      application that isn't included, or want to help improve
+                      the list, please consider contributing to the repository.
+                    </p>
+                    <div className="flex justify-center mt-6">
+                      <a
+                        href="https://github.com/luong-komorebi/Awesome-Linux-Software"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="px-4 py-2 bg-blue-600 hover:bg-blue-700 text-white rounded-md"
+                      >
+                        View on GitHub
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            {/* AI Assistant */}
+            <div
+              className={`ai-assistant fixed bottom-0 right-0 z-40 ${
+                isAiOpen ? "w-96 h-[450px]" : "w-0 h-0"
+              } overflow-hidden transition-all duration-300 ease-in-out ${
+                isDarkMode ? "bg-gray-800" : "bg-white"
+              } shadow-lg rounded-tl-lg`}
+            >
+              <div className="flex flex-col h-full">
+                <div
+                  className={`flex justify-between items-center p-3 ${
+                    isDarkMode ? "bg-gray-700" : "bg-blue-600"
+                  } text-white`}
+                >
+                  <div className="flex items-center">
+                    <span className="mr-2">🤖</span>
+                    <h3 className="font-semibold">AI Software Finder</h3>
+                  </div>
+                  <div className="flex items-center">
+                    {!openAiKey && (
+                      <button
+                        onClick={() => setShowKeyInput(!showKeyInput)}
+                        className="text-sm mr-2 hover:underline"
+                      >
+                        API Key
+                      </button>
+                    )}
+                    <button
+                      onClick={toggleAiAssistant}
+                      className="hover:bg-opacity-50 p-1 rounded"
+                    >
+                      ✕
+                    </button>
+                  </div>
+                </div>
+
+                {showKeyInput && (
+                  <div
+                    className={`p-3 ${
+                      isDarkMode ? "bg-gray-700" : "bg-blue-100"
+                    }`}
+                  >
+                    <p className="text-sm mb-2">
+                      Enter your OpenAI API key to enable intelligent software
+                      recommendations:
+                    </p>
+                    <input
+                      type="password"
+                      value={openAiKey}
+                      onChange={(e) => setOpenAiKey(e.target.value)}
+                      placeholder="Enter OpenAI API Key"
+                      className={`w-full p-2 rounded mb-2 ${
+                        isDarkMode ? "bg-gray-800 text-white" : "bg-white"
+                      } outline-none`}
+                    />
+                    <div className="flex justify-between items-center">
+                      <button
+                        onClick={saveApiKey}
+                        className={`text-sm px-3 py-1 rounded ${
+                          isDarkMode
+                            ? "bg-blue-600 hover:bg-blue-500"
+                            : "bg-blue-500 hover:bg-blue-400"
+                        } text-white`}
+                      >
+                        Save Key
+                      </button>
+                      <a
+                        href="https://platform.openai.com/api-keys"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="text-xs underline"
+                      >
+                        Get an API key
+                      </a>
+                    </div>
+                  </div>
+                )}
+
+                <div className="flex-grow overflow-y-auto p-4">
+                  <div className="text-sm mb-4">
+                    Ask me about Linux software, or describe your needs for app
+                    recommendations.
+                    {!openAiKey && (
+                      <div
+                        className={`mt-2 p-2 border ${
+                          isDarkMode
+                            ? "border-yellow-600 bg-yellow-900 bg-opacity-30"
+                            : "border-yellow-500 bg-yellow-100"
+                        } rounded-md`}
+                      >
+                        <p className="font-semibold">⚠️ Limited Mode</p>
+                        <p className="mt-1">
+                          Without an OpenAI API key, I can only provide basic
+                          recommendations based on keyword matching.
+                        </p>
+                        <button
+                          onClick={() => setShowKeyInput(true)}
+                          className={`mt-2 text-xs px-2 py-1 rounded ${
+                            isDarkMode
+                              ? "bg-yellow-700 hover:bg-yellow-600"
+                              : "bg-yellow-200 hover:bg-yellow-300"
+                          }`}
+                        >
+                          Add OpenAI API Key
+                        </button>
+                      </div>
+                    )}
+                  </div>
+
+                  {aiResponse && (
+                    <div
+                      className={`p-3 rounded-lg mb-3 ${
+                        isDarkMode ? "bg-gray-700" : "bg-blue-100"
+                      }`}
+                    >
+                      <div className="whitespace-pre-line">{aiResponse}</div>
+
+                      {aiRecommendations.length > 0 && (
+                        <div className="mt-3">
+                          <div className="font-semibold mb-2">
+                            {openAiKey
+                              ? "AI Recommendations:"
+                              : "Keyword Matches:"}
+                          </div>
+                          <div className="space-y-2">
+                            {aiRecommendations.map((app) => (
+                              <div
+                                key={app.id}
+                                onClick={() => openAppDetail(app)}
+                                className={`p-2 rounded cursor-pointer ${
+                                  isDarkMode
+                                    ? "bg-gray-600 hover:bg-gray-500"
+                                    : "bg-white hover:bg-gray-100"
+                                }`}
+                              >
+                                <div className="font-medium flex items-center">
+                                  {app.name}
+                                  {app.isOpenSource && (
+                                    <span
+                                      className={`ml-2 px-1.5 py-0.5 text-xs rounded ${
+                                        isDarkMode
+                                          ? "bg-green-900 text-green-300"
+                                          : "bg-green-100 text-green-800"
+                                      }`}
+                                    >
+                                      Open Source
+                                    </span>
+                                  )}
+                                </div>
+                                <div className="text-xs line-clamp-2">
+                                  {app.description}
+                                </div>
+                                <div className="mt-1 flex justify-between items-center">
+                                  <span
+                                    className={`inline-block px-2 py-0.5 rounded-full text-xs ${
+                                      isDarkMode
+                                        ? "bg-blue-900 text-blue-300"
+                                        : "bg-blue-100 text-blue-800"
+                                    }`}
+                                  >
+                                    {categories.find(
+                                      (c) => c.id === app.category
+                                    )?.name || app.category}
+                                  </span>
+                                  <span className="text-xs underline">
+                                    View details
+                                  </span>
+                                </div>
+                              </div>
+                            ))}
+                          </div>
+                        </div>
+                      )}
+                    </div>
+                  )}
+
+                  {aiError && (
+                    <div
+                      className={`p-3 rounded-lg mb-3 ${
+                        isDarkMode ? "bg-red-900" : "bg-red-100"
+                      }`}
+                    >
+                      {aiError}
+                    </div>
+                  )}
+
+                  <div ref={messagesEndRef} />
+                </div>
+
+                <div
+                  className={`p-3 ${
+                    isDarkMode ? "bg-gray-700" : "bg-gray-100"
+                  }`}
+                >
+                  <div className="relative">
+                    <textarea
+                      ref={aiInputRef}
+                      value={userQuery}
+                      onChange={(e) => setUserQuery(e.target.value)}
+                      onKeyDown={handleKeyDown}
+                      placeholder="Ask about Linux software..."
+                      className={`w-full p-2 pr-12 rounded resize-none ${
+                        isDarkMode ? "bg-gray-800 text-white" : "bg-white"
+                      } outline-none`}
+                      rows="2"
+                      disabled={isAiLoading}
+                    ></textarea>
+                    <button
+                      onClick={handleAiQuery}
+                      disabled={isAiLoading || !userQuery.trim()}
+                      className={`absolute right-2 bottom-2 p-2 rounded-full ${
+                        isDarkMode
+                          ? "bg-blue-600 hover:bg-blue-500"
+                          : "bg-blue-500 hover:bg-blue-400"
+                      } text-white ${
+                        isAiLoading || !userQuery.trim()
+                          ? "opacity-50 cursor-not-allowed"
+                          : ""
+                      }`}
+                    >
+                      {isAiLoading ? (
+                        <div className="spinner"></div>
+                      ) : (
+                        <span>➤</span>
+                      )}
+                    </button>
+                  </div>
+                  {!openAiKey && (
+                    <div className="text-xs text-center mt-1 opacity-80">
+                      Running in limited mode. Add an OpenAI API key for
+                      intelligent recommendations.
+                    </div>
+                  )}
+                </div>
+              </div>
+            </div>
+
+            <footer
+              className={`py-4 ${
+                isDarkMode ? "bg-gray-800" : "bg-gray-200"
+              } mt-auto`}
+            >
+              <div className="container mx-auto px-4 text-center">
+                <p>
+                  Based on{" "}
+                  <a
+                    href="https://github.com/luong-komorebi/Awesome-Linux-Software"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className={`${
+                      isDarkMode ? "text-blue-400" : "text-blue-600"
+                    } hover:underline`}
+                  >
+                    Awesome Linux Software
+                  </a>{" "}
+                  repository
+                </p>
+                <p className="mt-1 text-sm">
+                  Client-side application with AI-powered recommendations
+                </p>
+              </div>
+            </footer>
+          </div>
+        );
+      };
+
+      ReactDOM.createRoot(document.getElementById("root")).render(<App />);
+    </script>
+  </body>
+</html>
