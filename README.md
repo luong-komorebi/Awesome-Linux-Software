@@ -688,6 +688,8 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [![Open-Source Software][oss icon]](https://github.com/IgnorantGuru/spacefm) [SpaceFM](https://ignorantguru.github.io/spacefm/) - Multi-panel tabbed file and desktop manager with built-in VFS, udev- or HAL-based device manager, customisable menu system and bash-GTK integration.
 - [![Open-Source Software][oss icon]](https://gitlab.xfce.org/xfce/thunar) [Thunar](https://docs.xfce.org/xfce/thunar/start) - Thunar is a modern file manager for the Xfce Desktop Environment.
 - [![Open-Source Software][oss icon]](https://github.com/vifm/vifm) [Vifm](https://vifm.info/) - Vifm is an ncurses based file manager with VI like keybindings, which also borrows some useful ideas from mutt.
+- [![Open-Source Software][oss icon]](https://github.com/sxyazi/yazi) [Yazi](https://yazi-rs.github.io/) - Blazing fast terminal file manager written in Rust, based on async I/O.
+
 
 ### Games
 
