@@ -1511,7 +1511,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [![Open-Source Software][oss icon]](https://github.com/netdata/netdata) [NetData](https://www.netdata.cloud/) - Next-gen web based real-time performance and health monitoring for physical and virtual servers, containers and IoT devices. It is also a distributed `statsd` server with automatic visualization for APM (applications performance monitoring).
 - [![Open-Source Software][oss icon]](https://bazaar.launchpad.net/~indicator-multiload/indicator-multiload/trunk/files) [Systemload](https://launchpad.net/indicator-multiload) - A program that shows current system load in a status bar.
 - [![Open-Source Software][oss icon]](https://github.com/vergoh/vnstat) [vnStat](https://humdi.net/vnstat/) - vnStat is a console-based network traffic monitor that uses the network interface statistics provided by the kernel as information source. This means that vnStat won't actually be sniffing any traffic and also ensures light use of system resources regardless of network traffic rate.
-
+- [![Open-Source Software][oss icon]](https://github.com/reza-ygb/dns-interceptor) [DNS Interceptor](https://github.com/reza-ygb/dns-interceptor) - DNS interception and MITM framework for network security with ARP spoofing, DNS manipulation, and PCAP packet capture (Scapy).
 #### Other
 
 - [![Open-Source Software][oss icon]](https://sourceforge.net/projects/alien-pkg-convert/files/) [Alien Package Converter](https://sourceforge.net/projects/alien-pkg-convert/) - Package converter. Converts between RPM, DPKG, SLP, and TGZ package formats.
