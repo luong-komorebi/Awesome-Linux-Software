@@ -1137,7 +1137,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 
 - [![Open-Source Software][oss icon]](https://github.com/albertlauncher/albert) [Albert](https://albertlauncher.github.io/) - An awesome keyboard launcher for the Linux desktop.
 - [![Open-Source Software][oss icon]](https://github.com/DoTheEvo/ANGRYsearch) [ANGRYsearch](https://github.com/DoTheEvo/ANGRYsearch) - Linux file search, instant results as you type.
-- [![Open-Source Software][oss icon]](https://github.com/reza-ygb/apex-launcher) [APEX Launcher](https://github.com/reza-ygb/apex-launcher) — Lightweight Linux application launcher (GUI and CLI) that auto-detects installed apps; packages available for .deb, .rpm, AppImage, AUR, and Docker. (by reza-ygb)
+- [![Open-Source Software][oss icon]](https://github.com/reza-ygb/apex-launcher) [APEX Launcher](https://github.com/reza-ygb/apex-launcher) — Lightweight Linux application launcher (GUI and CLI) that auto-detects installed apps; packages available for .deb, .rpm, AppImage, AUR, and Docker. (by reza-ygb).
 
 - [![Open-Source Software][oss icon]](https://code.launchpad.net/catfish-search) [Catfish](https://launchpad.net/catfish-search) - Catfish is a versatile file searching tool.
 - [![Open-Source Software][oss icon]](https://github.com/KELiON/cerebro) [Cerebro](https://cerebroapp.com/) - Open-source productivity booster with a brain / MacOS-Spotlight alternative.
