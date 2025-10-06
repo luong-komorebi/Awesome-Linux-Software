@@ -711,10 +711,8 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 
 #### Engine Re-creations (require the actual game)
 
-- [![Open-Source Software][oss icon]](https://github.com/wheybags/freeablo) [Freeablo](https://freeablo.org/) - A free recreation of the original Diablo game engine that runs natively on Linux. Requires the original game assets.
 - [![Open-Source Software][oss icon]](https://nxengine.sourceforge.io/) [NXEngine](https://nxengine.sourceforge.io/) - A source port of Cave Story that runs natively on Linux, source needs to be built.
 - [![Open-Source Software][oss icon]](https://github.com/nxengine/nxengine-evo) [NXEngine-evo](https://github.com/nxengine/nxengine-evo) - A somewhat upgraded/refactored version of NXEngine by Caitlin Shaw.
-- [![Open-Source Software][oss icon]](https://github.com/SFTtech/openage) [openage](https://openage.sft.lol/) - Free (as in freedom) open source clone of the Age of Empires II engine, source needs to be built.
 - [![Open-Source Software][oss icon]](https://github.com/OpenMW/openmw) [OpenMW](https://openmw.org) - A recreation of the Morrowind engine, expanding upon the original. It can be used to play legitimate copies of original game.
 - [![Open-Source Software][oss icon]](https://github.com/OpenRA/OpenRA) [OpenRA](https://www.openra.net/) - Classic strategy games, rebuilt for the modern era. Open source.
 - [![Open-Source Software][oss icon]](https://github.com/OpenRCT2/OpenRCT2) [OpenRCT2](https://openrct2.io/) - A recreation of the Rollercoaster Tycoon 2 engine. Requires the original games assests.
