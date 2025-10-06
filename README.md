@@ -802,7 +802,6 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 
 - [![Open-Source Software][oss icon]](https://github.com/bottlesdevs/) [Bottles](https://usebottles.com/) - Easily manage wine prefixes in a new way. Run Windows software and games on Linux.
 - [![Open-Source Software][oss icon]](https://github.com/kra-mo/cartridges) [Cartridges](https://apps.gnome.org/Cartridges/) - A GTK4 + Libadwaita game launcher.
-- [![Open-Source Software][oss icon]](https://github.com/tkashkin/GameHub) [GameHub](https://tkashkin.github.io/projects/gamehub/) - GameHub is a unified library for all your games. It allows you to store your games from different platforms into one program to make it easier for you to manage your games.
 - [![Open-Source Software][oss icon]](https://github.com/Heroic-Games-Launcher) [Heroic Games Launcher](https://heroicgameslauncher.com/) - A Native GOG and Epic Games Launcher for Linux, Windows and Mac.
 - [![Open-Source Software][oss icon]](https://github.com/itchio/itch) [itch](https://itch.io/) - The itch.io app. All of your downloads are kept in a single place and are automatically updated. Plenty of free games.
 - [![Open-Source Software][oss icon]](https://github.com/lutris/lutris) [Lutris](https://lutris.net/) - Lutris is an open gaming platform for Linux. It helps you install and manage your games in a unified interface.
