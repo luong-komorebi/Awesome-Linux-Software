@@ -191,18 +191,20 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [![Open-Source Software][oss icon]](https://github.com/LMMS/lmms) [LMMS](https://lmms.io/download/#linux) - Making music on your PC by creating melodies and beats, synthesizing and mixing sounds, arranging samples and much more.
 - [![Open-Source Software][oss icon]](https://github.com/mixxxdj/mixxx) [Mixxx](https://www.mixxx.org/download/) - Free DJ software that gives you everything you need to perform live mixes; veritable alternative to Traktor.
 - [![Open-Source Software][oss icon]](https://github.com/musescore/MuseScore) [MuseScore](https://musescore.org) - Create, play and print beautiful sheet music.
+- ![Nonfree][freeware icon] [Ocenaudio](https://www.ocenaudio.com/whatis) - A cross-platform, easy to use, fast and functional audio editor. It is the ideal software for people who need to edit and analyze audio files.
 - ![Non Free][money icon] [Reaper](https://www.reaper.fm/) - Audio Production without Limits.
 - [![Open-Source Software][oss icon]](https://github.com/VCVRack/Rack) [VCV Rack](https://vcvrack.com/) - An open-source virtual modular synthesizer.
 - [![Open-Source Software][oss icon]](https://github.com/Audio4Linux/Viper4Linux-GUI) [Viper4Linux](https://github.com/Audio4Linux/Viper4Linux-GUI) - An audio effect processor based on Viper4Android.
 
 #### Music Player
 
+- [![Open-Source Software][oss icon]](https://invent.kde.org/multimedia/amarok) [Amarok](https://apps.kde.org/amarok/) - Amarok is a free, cross-platform, versatile, powerful and feature-rich music player and collection manager.
 - [![Open-Source Software][oss icon]](https://gitlab.gnome.org/World/amberol) [Amberol](https://apps.gnome.org/app/io.bassi.Amberol/) - A small and simple sound and music player that is well integrated with GNOME.
 - [![Open-Source Software][oss icon]](https://audacious-media-player.org/developers) [Audacious](https://audacious-media-player.org/) - An open source audio player that plays your music how you want it, without stealing away your computer’s resources from other tasks.
 - [![Open-Source Software][oss icon]](https://invent.kde.org/multimedia/audiotube) [AudioTube](https://apps.kde.org/audiotube/) - Feature-rich YouTube Music client for KDE, built with Kirigami.
 - [![Open-Source Software][oss icon]](https://github.com/beetbox/beets) [beets](https://beets.io/) - Beets is the media library management system for obsessive-compulsive music geeks.
-- [![Open-Source Software][oss icon]](https://github.com/CDrummond/cantata) [Cantata](https://github.com/CDrummond/cantata) - Qt5 Graphical MPD (Music Player Daemon) Client for Linux, Windows, MacOS.
-- [![Open-Source Software][oss icon]](https://github.com/ciderapp/cider) [Cider](https://cider.sh/) - A new cross-platform Apple Music experience based on Electron and Vue.js written from scratch with performance in mind.
+- [![Open-Source Software][oss icon]](https://github.com/nullobsi/cantata) [Cantata](https://github.com/nullobsi/cantata) - Qt6 Graphical MPD (Music Player Daemon) Client for Linux, Windows, MacOS.
+- ![Non Free][money icon] [Cider](https://cider.sh/) - A cross-platform proprietary commercial Apple Music client based on Electron and Vue.js written from scratch with performance in mind.
 - [![Open-Source Software][oss icon]](https://github.com/clementine-player/Clementine) [Clementine](https://www.clementine-player.org/) - Play numerous lossy and lossless audio formats.
 - [![Open-Source Software][oss icon]](https://github.com/cmus/cmus) [Cmus](https://cmus.github.io/#download) - A small, fast and powerful console music player for Unix-like operating systems.
 - [![Open-Source Software][oss icon]](https://github.com/DeaDBeeF-Player/deadbeef) [DeaDBeeF](https://deadbeef.sourceforge.io/) - DeaDBeeF is a modular audio player for GNU/Linux, BSD, OpenSolaris, macOS, and other UNIX-like systems.
@@ -211,33 +213,28 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [![Open-Source Software][oss icon]](https://gitlab.gnome.org/neithern/g4music) [G4Music](https://gitlab.gnome.org/neithern/g4music) - A fast, fluent, light weight music player written in GTK4.
 - [![Open-Source Software][oss icon]](https://github.com/gpodder/gpodder) [Gpodder](https://gpodder.github.io/) - Media aggregator and podcast client.
 - [![Open-Source Software][oss icon]](https://github.com/harmonoid/harmonoid) [Harmonoid](https://harmonoid.com/) - Plays & manages your music library. Looks beautiful & juicy. Playlists, visuals, synced lyrics, pitch shift, volume boost & more.
-- [![Open-Source Software][oss icon]](https://github.com/trazyn/ieaseMusic) [ieaseMusic](https://github.com/trazyn/ieaseMusic) - iEaseMusic is a multiplatform program built in electron for listening to NetEase Music.
 - [![Open-Source Software][oss icon]](https://invent.kde.org/multimedia/juk) [JuK](https://juk.kde.org/) - Jukebox music player for managing audio and editing metadata.
 - [![Open-Source Software][oss icon]](https://github.com/LibreTime/libretime) [Libretime](https://libretime.org/) - The open broadcast software for scheduling and remote station management; forked from Airtime.
 - [![Open-Source Software][oss icon]](https://gitlab.gnome.org/World/lollypop) [Lollypop](https://wiki.gnome.org/Apps/Lollypop) - A GNOME music playing application.
-- [![Open-Source Software][oss icon]](https://gitlab.com/ColinDuquesnoy/MellowPlayer) [Mellow Player](https://colinduquesnoy.gitlab.io/MellowPlayer/) - Cloud music integration for your desktop.
 - [![Open-Source Software][oss icon]](https://gitlab.com/zehkira/monophony) [Monophony](https://gitlab.com/zehkira/monophony) - Linux app for streaming music from YouTube.
 - [![Open-Source Software][oss icon]](https://github.com/Moosync/Moosync) [Moosync](https://moosync.app/) - Customizable Desktop Music Player with a clean interface for streaming local music as well as music from online sources such as YouTube and Spotify,.
 - [![Open-Source Software][oss icon]](https://github.com/mopidy/mopidy) [Mopidy](https://www.mopidy.com/) - An extensible music server written in Python.
 - [![Open-Source Software][oss icon]](https://github.com/staniel359/muffon) [muffon](https://muffon.netlify.app/) - muffon is a cross-platform music streaming browser for desktop, which helps you find, listen and organize music in a way you've probably never experienced before.
 - [![Open-Source Software][oss icon]](https://github.com/martpie/museeks) [Museeks](https://museeks.io/) - A simple, clean and cross-platform music player.
-- [![Open-Source Software][oss icon]](https://github.com/metabrainz/picard) [MusicBrainz Picard](https://picard.musicbrainz.org/) - Picard is a cross-platform music tagger written in Python.
-- [Netease Music](https://music.163.com/#/download) - A music player of Netease - a cloud music service in China.
+- ![Nonfree][freeware icon] [Netease Music](https://music.163.com/#/download) - A music player of Netease - a cloud music service in China.
 - [![Open-Source Software][oss icon]](https://github.com/nukeop/nuclear) [Nuclear](https://nuclearplayer.com/) - An Electron-based, multiplatform music player app that streams from multiple sources.
-- [Ocenaudio](https://www.ocenaudio.com/whatis) - A cross-platform, easy to use, fast and functional audio editor. It is the ideal software for people who need to edit and analyze audio files.
 - [![Open-Source Software][oss icon]](https://github.com/gkarsay/parlatype) [Parlatype](https://www.parlatype.xyz/) - GNOME audio player for transcription.
 - [![Open-Source Software][oss icon]](https://github.com/pithos/pithos) [Pithos](https://pithos.github.io/) - A native Pandora client for Linux.
 - [![Open-Source Software][oss icon]](https://github.com/quodlibet/quodlibet) [Quod Libet](https://quodlibet.readthedocs.io) - GTK+ music player written with huge libraries in mind. Supports search-based dynamic playlists, regular expressions, tagging, Replay Gain, podcasts & Internet radio.
 - [![Open-Source Software][oss icon]](https://github.com/GNOME/rhythmbox) [Rhythmbox](https://wiki.gnome.org/Apps/Rhythmbox) - Music player from GNOME.
 - [![Open-Source Software][oss icon]](https://gitlab.com/luciocarreras/sayonara-player) [Sayonara Player](https://sayonara-player.com/downloads/) - A small, clear and fast audio player for Linux written in C++, supported by the Qt framework.
 - [![Open-Source Software][oss icon]](https://github.com/multani/sonata/) [Sonata](https://www.nongnu.org/sonata/) - A Music player that is designed to be an elegant and intuitive interface for your music collection via the Music Player Daemon (MPD).
-- [![Open-Source Software][oss icon]](https://github.com/Soundnode/soundnode-app) [Soundnode](https://soundnode.github.io/soundnode-website/) - An open source SoundCloud app for desktop.
 - [![Open-Source Software][oss icon]](https://github.com/xou816/spot) [Spot](https://github.com/xou816/spot) - Native Spotify client for the GNOME desktop.
-- [Spotify](https://www.spotify.com/us/) - Spotify is the best way to listen to music and podcasts on pc, mobile or tablet.
+- ![Nonfree][freeware icon] [Spotify](https://www.spotify.com/us/) - Spotify is the best way to listen to music and podcasts on pc, mobile or tablet.
 - [![Open-Source Software][oss icon]](https://github.com/krtirtho/spotube) [Spotube](https://spotube.krtirtho.dev/) - Spotube is a Flutter based lightweight spotify client. It utilizes the power of Spotify & Youtube's public API & creates a hazardless, performant & resource friendly User Experience.
 - [![Open-Source Software][oss icon]](https://github.com/strawberrymusicplayer/strawberry) [Strawberry](https://www.strawberrymusicplayer.org/) - Strawberry is a fork of Clementine aimed at music collectors and audiophiles. It's written in C++ using the Qt toolkit.
 - [![Open-Source Software][oss icon]](https://github.com/Mastermindzh/tidal-hifi) [Tidal-hifi](https://github.com/Mastermindzh/tidal-hifi) - The web version of Tidal running in electron with hifi support thanks to widevine.
-- [![Open-Source Software][oss icon]](https://github.com/th-ch/youtube-music) [Youtube-Music](https://th-ch.github.io/youtube-music/) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
+- [![Open-Source Software][oss icon]](https://github.com/th-ch/youtube-music) [Youtube-Music](https://github.com/th-ch/youtube-music/) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
 
 #### Radio
 
@@ -257,7 +254,8 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [![Open-Source Software][oss icon]](https://invent.kde.org/multimedia/kid3/) [Kid3](https://kid3.kde.org/) - Edit tags of multiple files, e.g. the artist, album, year and genre of all mp3 files of an album.
 - [![Open-Source Software][oss icon]](https://github.com/orhun/linuxwave) [linuxwave](https://orhun.dev/linuxwave/) - Generate music from the entropy of Linux
 - [![Open-Source Software][oss icon]](https://github.com/SeaDve/Mousai) [Mousai](https://apps.gnome.org/app/io.github.seadve.Mousai/) - Mousai is a simple application that can identify songs similar to Shazam.
-- [MusixMatch](https://snapcraft.io/musixmatch) - A Capable lyrics app with synchronized lyrics function.
+- [![Open-Source Software][oss icon]](https://github.com/metabrainz/picard) [MusicBrainz Picard](https://picard.musicbrainz.org/) - Picard is a cross-platform music tagger written in Python.
+- ![Nonfree][freeware icon] [MusixMatch](https://snapcraft.io/musixmatch) - A Capable lyrics app with synchronized lyrics function.
 - [![Open-Source Software][oss icon]](https://github.com/osdlyrics/osdlyrics) [OSD Lyrics](https://github.com/osdlyrics/osdlyrics) - Show lyrics with your favorite media player.
 - [![Open-Source Software][oss icon]](https://launchpad.net/soundconverter) [Soundconverter](https://soundconverter.org/) - Leading audio file converter. Aims to be simple to use, and very fast.
 - [![Open-Source Software][oss icon]](https://gitlab.gnome.org/GNOME/sound-juicer) [SoundJuicer](https://wiki.gnome.org/Apps/SoundJuicer/Documentation#Installing) - CD Ripping tool for GNOME.
