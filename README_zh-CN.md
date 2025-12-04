@@ -573,6 +573,7 @@ _更新：上发布，中文版阅读地址戳[这里](https://alim0x.gitbooks.i
 - [Gnome-dictionary](https://wiki.gnome.org/Apps/Dictionary) - GNOME 下的一款强大的字典。
 - [Plank](https://launchpad.net/plank) - Plank 注定要成为这个星球上最简洁的应用 dock。
 - [Xmind](http://www.xmind.net/) - 脑图工具。
+- [![Open-Source Software][oss icon]](https://github.com/FriesI23/mhabit) [Table Habit](https://github.com/FriesI23/mhabit) - 一款简洁、跨平台的开源习惯追踪器。
 
 ### 安全
 

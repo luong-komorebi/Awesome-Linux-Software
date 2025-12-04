@@ -729,6 +729,8 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 
 ### Productivity
 
+- [![Open-Source Software][oss icon]](https://github.com/FriesI23/mhabit) [Table Habit](https://github.com/FriesI23/mhabit) - Un traqueur d’habitudes open-source, propre et multiplateforme.
+
 #### Automation
 
 - [![Open-Source Software][oss icon]](https://github.com/Jmgr/actiona) [Actionaz](http://actionaz.org/) - An utility for task automation Ubuntu/Linux.
