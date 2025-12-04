@@ -152,3 +152,7 @@ _Para uma lista mais abrangente/avançada/melhor categorizada/... de software de
 - [Spotify](https://www.spotify.com/us/) - O Spotify é a melhor maneira de ouvir música e podcasts no PC, celular ou tablet.
 - [![Software de Código Aberto][oss icon]](https://github.com/krtirtho/spotube) [Spotube](https://spotube.krtirtho.dev/) - Spotube é um cliente leve do Spotify baseado em Flutter. Ele utiliza o poder das APIs públicas do Spotify e do YouTube e cria uma experiência de usuário sem complicações, performática e amigável aos recursos.
 - [![Software de Código Aberto][oss
+
+### Produtividade
+
+- [![Open-Source Software][oss icon]](https://github.com/FriesI23/mhabit) [Table Habit](https://github.com/FriesI23/mhabit) - Um rastreador de hábitos de código aberto, limpo e multiplataforma.
