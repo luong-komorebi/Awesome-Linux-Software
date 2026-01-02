@@ -898,7 +898,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 
 #### Graphic Creation
 
-- ![Nonfree][money icon][![Open-Source Software][oss icon]](https://github.com/aseprite/aseprite/) [Aseprite](https://www.aseprite.org/) - Animated sprite editor & pixel art tool.
+- ![Nonfree][money icon](https://github.com/aseprite/aseprite/) [Aseprite](https://www.aseprite.org/) - Animated sprite editor & pixel art tool.
 - [![Open-Source Software][oss icon]](https://download.blender.org/source/) [Blender](https://www.blender.org/) - A free and open source complete 3D creation pipeline for artists and small teams.
 - [![Open-Source Software][oss icon]](https://sourceforge.net/projects/cinepaint/) [Cinepaint](http://cinepaint.org/) - Open source deep paint software.
 - [![Open-Source Software][oss icon]](https://github.com/maoschanz/drawing) [Drawing](https://maoschanz.github.io/drawing/) - This free basic raster image editor is similar to Microsoft Paint, but aiming at the GNOME desktop.
