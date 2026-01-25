@@ -1257,7 +1257,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 
 #### Network Analysis
 
-- [![Open-Source Software][oss icon]](https://github.com/bad-antics/nullsec-linux) [NullSec Linux](https://github.com/bad-antics/nullsec-linux) - Security-focused Linux distribution with 135+ pre-installed penetration testing, forensics, and network analysis tools. Based on Debian 13 with 9 specialized editions.
+- [![Open-Source Software][oss icon]](https://github.com/bad-antics/nullsec-linux) [NullSec Linux](https://bad-antics.github.io) - Security-focused distro with 135+ tools for penetration testing and forensics.
 
 - [![Open-Source Software][oss icon]](https://www.tcpdump.org/#source) [Tcpdump](https://www.tcpdump.org/) - TCP Debugging/Capture Tool.
 - [![Open-Source Software][oss icon]](https://github.com/gcla/termshark) [Termshark](https://termshark.io/) - A terminal UI for tshark, inspired by Wireshark.
