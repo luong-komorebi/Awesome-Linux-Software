@@ -1398,6 +1398,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [![Open-Source Software][oss icon]](https://github.com/Eugeny/tabby) [Tabby](https://tabby.sh) - Modern, highly configurable terminal app based on web technologies.
 - [![Open-Source Software][oss icon]](https://github.com/billiob/terminology) [Terminology](https://www.enlightenment.org/about-terminology) - The pretty and lightweight terminal from the Enlightenment Desktop, it's highly configurable, it works in X11, under a Wayland compositor and even directly in the framebuffer on Linux. Replace your boring text-mode VT with a graphical one that requires no display system.
 - [![Open-Source Software][oss icon]](https://github.com/nonstop/termit) [Termit](https://github.com/nonstop/termit) - Simple terminal emulator based on vte library, extensible via Lua.
+- [![Open-Source Software][oss icon]](https://github.com/shareefsakk2/shellleap) [ShellLeap](https://shareefsakk2.github.io/shellleap/) - Secure cross-platform SSH & SFTP client with AES-256-GCM vault.
 - [Termius](https://www.termius.com/) - Cross-platform terminal with built-in SSH and Telnet.
 - [![Open-Source Software][oss icon]](https://github.com/lanoxx/tilda) [Tilda](https://github.com/lanoxx/tilda) - A Gtk based drop down terminal for Linux and Unix.
 - [![Open-Source Software][oss icon]](https://github.com/gnunn1/tilix) [Tilix](https://gnunn1.github.io/tilix-web/) - A tiling terminal emulator for Linux using GTK+ 3.
