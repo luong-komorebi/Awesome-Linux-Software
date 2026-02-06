@@ -1249,6 +1249,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 
 #### Firewall
 
+- [![Open-Source Software][oss icon]](https://github.com/bunkerity/bunkerweb) [BunkerWeb](https://www.bunkerweb.io) - BunkerWeb is a next-generation Web Application Firewall (WAF).
 - [![Open-Source Software][oss icon]](https://github.com/firehol/firehol) [FireHOL](https://firehol.org) - Linux firewall (`iptables`) manager for humans.
 - [![Open-Source Software][oss icon]](https://github.com/firewalld/firewalld) [Firewalld](https://github.com/firewalld/firewalld) - Firewalld provides a dynamically managed firewall with support for network or firewall zones to define the trust level of network connections or interfaces.
 - [![Open-Source Software][oss icon]](https://github.com/costales/gufw) [GuFW](https://github.com/costales/gufw) - One of the easiest firewalls in the world of Linux.
