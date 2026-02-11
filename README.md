@@ -234,6 +234,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [![Open-Source Software][oss icon]](https://github.com/krtirtho/spotube) [Spotube](https://spotube.krtirtho.dev/) - Spotube is a Flutter based lightweight spotify client. It utilizes the power of Spotify & Youtube's public API & creates a hazardless, performant & resource friendly User Experience.
 - [![Open-Source Software][oss icon]](https://github.com/strawberrymusicplayer/strawberry) [Strawberry](https://www.strawberrymusicplayer.org/) - Strawberry is a fork of Clementine aimed at music collectors and audiophiles. It's written in C++ using the Qt toolkit.
 - [![Open-Source Software][oss icon]](https://github.com/Mastermindzh/tidal-hifi) [Tidal-hifi](https://github.com/Mastermindzh/tidal-hifi) - The web version of Tidal running in electron with hifi support thanks to widevine.
+- [![Open-Source Software][oss icon]](https://github.com/llehouerou/waves) [Waves](https://github.com/llehouerou/waves) - A keyboard-driven terminal music player with Soulseek downloads, Last.fm scrobbling, and radio mode.
 - [![Open-Source Software][oss icon]](https://github.com/th-ch/youtube-music) [Youtube-Music](https://github.com/th-ch/youtube-music/) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
 
 #### Radio
