@@ -1629,7 +1629,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 
 ### Internet
 
-- [![Open-Source Software][oss icon]](https://github.com/junevm/cdns) [cdns](https://github.com/junevm/cdns) - change DNS servers effortlessly via terminal 🗽
+- [![Open-Source Software][oss icon]](https://github.com/junevm/cdns) [cdns](https://github.com/junevm/cdns) - Change DNS servers effortlessly via terminal.
 - [![Open-Source Software][oss icon]](https://github.com/federicotorrielli/Daily-Reddit-Wallpaper) [Daily Reddit Wallpaper](https://federicotorrielli.github.io/Daily-Reddit-Wallpaper/) - Change your wallpaper to the most upvoted image of the day from /r/wallpapers or any other subreddit on system startup.
 - [![Open-Source Software][oss icon]](https://github.com/jarun/ddgr) [ddgr](https://github.com/jarun/ddgr) - DuckDuckGo from the command line.
 - [![Open-Source Software][oss icon]](https://dnscrypt.info/) [dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - DNS proxy with support for encrypted DNS protocols,cross platform.
