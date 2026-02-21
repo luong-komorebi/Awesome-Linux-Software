@@ -1121,6 +1121,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [![Open-Source Software][oss icon]](https://github.com/federico-terzi/espanso) [espanso](https://espanso.org/) - Cross-platform Text Expander written in Rust.
 - [![Open-Source Software][oss icon]](https://github.com/mautosoft/maxautoclicker/) [Max Auto Clicker](https://maxautoclicker.blogspot.com/) - Automate your mouse clicks easily with this awesome cross-platform application (for Windows and Linux Desktops).
 - [![Open-Source Software][oss icon]](https://github.com/robiot/xclicker) [XClicker](https://xclicker.xyz/) - A blazing fast gui autoclicker for linux.
+- [![Open-Source Software][oss icon]](https://github.com/VladislavTsytrikov/frostbyte) [FrostByte](https://github.com/VladislavTsytrikov/frostbyte) - Auto-freeze idle applications to reclaim physical RAM on GNOME/Wayland.
 
 #### Dock
 
