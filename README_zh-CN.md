@@ -638,6 +638,7 @@ _更新：上发布，中文版阅读地址戳[这里](https://alim0x.gitbooks.i
 - [Actionaz](http://actionaz.org/) - Ubuntu/Linux 下的任务自动化工具。
 - [![Open-Source Software][oss icon]](https://github.com/albertlauncher/albert) [Albert](https://github.com/albertlauncher/albert) - Linux 桌面超赞的应用启动器。
 - [![Open-Source Software][oss icon]](https://github.com/bleachbit/bleachbit) [Bleach bit](https://www.bleachbit.org/) - BleachBit 快速释放磁盘空间并不知疲倦地守卫你的隐私。释放缓存，删除 cookie，清除互联网浏览历史，清理临时文件，删除日志，以及更多功能...
+- [![Open-Source Software][oss icon]](https://github.com/TickLabVN/biopass) [BioPass](https://github.com/TickLabVN/biopass) - BioPass 是一款开源密码管理器。
 - [Brasero](https://wiki.gnome.org/Apps/Brasero) - CD/DVD 烧录软件。
 - [Caffeine](https://launchpad.net/caffeine) - 防止 ubuntu 自动睡眠。
 - [Convertall](https://sourceforge.net/projects/convertall/) - 全能单位换算。

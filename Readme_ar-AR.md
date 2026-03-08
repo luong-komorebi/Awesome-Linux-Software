@@ -1241,6 +1241,7 @@
 
 - [1Password](https://1password.com/downloads/linux/) - 1Password هي أسهل طريقة لتخزين كلمات مرور قوية واستخدامها. يمكنك تسجيل الدخول إلى المواقع وملء النماذج بأمان بنقرة واحدة.
 - [![برمجيات مفتوحة المصدر][أيقونة oss]](https://github.com/authpass/authpass) [AuthPass](https://authpass.app/) - مدير كلمات المرور يعتمد على Flutter لجميع المنصات.
+- [![برمجيات مفتوحة المصدر][أيقونة oss]](https://github.com/TickLabVN/biopass) [BioPass](https://github.com/TickLabVN/biopass) - BioPass هو مدير كلمات مرور مفتوح المصدر.
 - [![برمجيات مفتوحة المصدر][أيقونة oss]](https://github.com/bitwarden) [Bitwarden](https://bitwarden.com/) - خدمة إدارة كلمات المرور عبر الأنظمة الأساسية والتي تدعم أيضًا الاستضافة الذاتية.
 - [![برمجيات مفتوحة المصدر][أيقونة oss]](https://github.com/buttercup/buttercup-desktop) [Buttercup](https://buttercup.pw/) - Buttercup هو مدير كلمات مرور مجاني ومفتوح المصدر ومتعدد الأنظمة الأساسية، تم بناؤه على NodeJS مع Typescript.
 - [Enpass](https://www.enpass.io/) - يجعل Enpass حياتك أسهل من خلال إدارة كلمات المرور والمعلومات المهمة الخاصة بك بشكل آمن.

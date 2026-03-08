@@ -151,4 +151,9 @@ _Para uma lista mais abrangente/avançada/melhor categorizada/... de software de
 - [![Software de Código Aberto][oss icon]](https://github.com/xou816/spot) [Spot](https://github.com/xou816/spot) - Cliente nativo do Spotify para o desktop GNOME.
 - [Spotify](https://www.spotify.com/us/) - O Spotify é a melhor maneira de ouvir música e podcasts no PC, celular ou tablet.
 - [![Software de Código Aberto][oss icon]](https://github.com/krtirtho/spotube) [Spotube](https://spotube.krtirtho.dev/) - Spotube é um cliente leve do Spotify baseado em Flutter. Ele utiliza o poder das APIs públicas do Spotify e do YouTube e cria uma experiência de usuário sem complicações, performática e amigável aos recursos.
-- [![Software de Código Aberto][oss
+
+### Segurança
+
+#### Gerenciador de Senhas
+
+- [![Software de Código Aberto][oss icon]](https://github.com/TickLabVN/biopass) [BioPass](https://github.com/TickLabVN/biopass) - BioPass é um gerenciador de senhas de código aberto.

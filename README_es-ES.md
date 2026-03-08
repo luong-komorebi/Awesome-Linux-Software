@@ -879,6 +879,7 @@ _para consultar una lista más larga de software de audio oprima [aquí](https:/
 - [![Open-Source Software][oss icon]](https://github.com/angryip/ipscan) [Angry IP Scanner](http://angryip.org/) - Un escáner de red rápido y fácil de usar.
 - [![Open-Source Software][oss icon]](https://code.launchpad.net/~teejee2008/apt-toolkit/trunk) [Aptik](https://teejeetech.com/2019/07/14/aptik-v19-07/) - Una herramienta que le permite organizar su PPA y paquetes favoritos fácilmente.
 - [![Open-Source Software][oss icon]](https://github.com/bleachbit/bleachbit) [Bleach bit](https://www.bleachbit.org/) - Este programa limpia los archivos adicionales e innecesarios. también puede eliminar las cookies del sitio web, borrar el historial de Internet y eliminar los registros.
+- [![Open-Source Software][oss icon]](https://github.com/TickLabVN/biopass) [BioPass](https://github.com/TickLabVN/biopass) - BioPass es un gestor de contraseñas de código abierto.
 - [![Open-Source Software][oss icon]](https://github.com/GNOME/brasero) [Brasero](https://wiki.gnome.org/Apps/Brasero) - Una grabadora de DVD fácil de usar y efectiva.
 - [![Open-Source Software][oss icon]](https://github.com/chrisallenlane/cheat) [Cheat](https://github.com/chrisallenlane/cheat) - es un programa que le permite ver una guía para comandos en la línea de comandos.
 - [![Open-Source Software][oss icon]](https://clonezilla.org/related-links/) [Clonezilla](http://clonezilla.org/) - Clonezilla es un programa de clonación de particiones y discos similar al Norton Ghost.
