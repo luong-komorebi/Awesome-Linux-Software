@@ -154,6 +154,4 @@ _Para uma lista mais abrangente/avançada/melhor categorizada/... de software de
 
 ### Segurança
 
-#### Outros
-
 - [![Software de Código Aberto][oss icon]](https://github.com/TickLabVN/biopass) [BioPass](https://github.com/TickLabVN/biopass) - Alternativa ao Windows Hello/Howdy para autenticação biométrica no Linux.
