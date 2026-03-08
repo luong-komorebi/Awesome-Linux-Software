@@ -1241,7 +1241,6 @@
 
 - [1Password](https://1password.com/downloads/linux/) - 1Password هي أسهل طريقة لتخزين كلمات مرور قوية واستخدامها. يمكنك تسجيل الدخول إلى المواقع وملء النماذج بأمان بنقرة واحدة.
 - [![برمجيات مفتوحة المصدر][أيقونة oss]](https://github.com/authpass/authpass) [AuthPass](https://authpass.app/) - مدير كلمات المرور يعتمد على Flutter لجميع المنصات.
-- [![برمجيات مفتوحة المصدر][أيقونة oss]](https://github.com/TickLabVN/biopass) [BioPass](https://github.com/TickLabVN/biopass) - BioPass هو مدير كلمات مرور مفتوح المصدر.
 - [![برمجيات مفتوحة المصدر][أيقونة oss]](https://github.com/bitwarden) [Bitwarden](https://bitwarden.com/) - خدمة إدارة كلمات المرور عبر الأنظمة الأساسية والتي تدعم أيضًا الاستضافة الذاتية.
 - [![برمجيات مفتوحة المصدر][أيقونة oss]](https://github.com/buttercup/buttercup-desktop) [Buttercup](https://buttercup.pw/) - Buttercup هو مدير كلمات مرور مجاني ومفتوح المصدر ومتعدد الأنظمة الأساسية، تم بناؤه على NodeJS مع Typescript.
 - [Enpass](https://www.enpass.io/) - يجعل Enpass حياتك أسهل من خلال إدارة كلمات المرور والمعلومات المهمة الخاصة بك بشكل آمن.
@@ -1270,6 +1269,7 @@
 #### آخر
 
 - [![برمجيات مفتوحة المصدر][أيقونة oss]](https://gitlab.gnome.org/World/Authenticator) [Authenticator](https://apps.gnome.org/app/com.belmoussaoui.Authenticator/) - تطبيق بسيط لتوليد رموز المصادقة الثنائية.
+- [![برمجيات مفتوحة المصدر][أيقونة oss]](https://github.com/TickLabVN/biopass) [BioPass](https://github.com/TickLabVN/biopass) - بديل لـ Windows Hello/Howdy للمصادقة البيومترية على Linux.
 - [![برمجيات مفتوحة المصدر][أيقونة oss]](https://github.com/Cisco-Talos/clamav-devel) [ClamAV](https://www.clamav.net/) - ClamAV هو محرك مكافحة فيروسات مفتوح المصدر للكشف عن أحصنة طروادة والفيروسات والبرامج الضارة والتهديدات الضارة الأخرى.
 - [![برمجيات مفتوحة المصدر][أيقونة oss]](https://github.com/cryptomator/cryptomator) [Cryptomator](https://cryptomator.org/) - تشفير شفاف متعدد المنصات من جانب العميل للملفات الخاصة بك في السحابة.
 - [![برمجيات مفتوحة المصدر][أيقونة oss]](https://gitlab.gnome.org/World/decoder/) [فك التشفير](https://apps.gnome.org/app/com.belmoussaoui.Decoder/) - ماسح ضوئي ومولد رموز QR بسيط وأنيق.

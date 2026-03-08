@@ -154,6 +154,6 @@ _Para uma lista mais abrangente/avançada/melhor categorizada/... de software de
 
 ### Segurança
 
-#### Gerenciador de Senhas
+#### Outros
 
-- [![Software de Código Aberto][oss icon]](https://github.com/TickLabVN/biopass) [BioPass](https://github.com/TickLabVN/biopass) - BioPass é um gerenciador de senhas de código aberto.
+- [![Software de Código Aberto][oss icon]](https://github.com/TickLabVN/biopass) [BioPass](https://github.com/TickLabVN/biopass) - Alternativa ao Windows Hello/Howdy para autenticação biométrica no Linux.
