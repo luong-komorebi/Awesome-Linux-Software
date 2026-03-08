@@ -244,6 +244,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [![Open-Source Software][oss icon]](https://github.com/needle-and-thread/vocal) [Vocal](https://vocalproject.net/) - Podcast client for the modern desktop.
 
 #### Utilities
+- [![Open-Source Software][oss icon]](https://github.com/rcspam/dictee) [dictee](https://github.com/rcspam/dictee) - Push-to-talk voice dictation for Linux. 100% local, multilingual (25+ languages), with speaker diarization. GTK3/Bash frontend, Rust/ONNX backend.
 
 - [![Open-Source Software][oss icon]](https://github.com/karlstav/cava) [cava](https://github.com/karlstav/cava) - Cava is a Cross-platform Audio Visualizer.
 - [![Open-Source Software][oss icon]](https://gitlab.gnome.org/World/eartag) [Ear Tag](https://apps.gnome.org/EarTag/) - Small and simple audio file tag editor.
