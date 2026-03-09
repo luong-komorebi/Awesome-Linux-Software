@@ -1120,6 +1120,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [![Open-Source Software][oss icon]](https://code.launchpad.net/caffeine) [Caffeine](https://launchpad.net/caffeine) - Prevents Ubuntu from automatically going to sleep.
 - [![Open-Source Software][oss icon]](https://github.com/federico-terzi/espanso) [espanso](https://espanso.org/) - Cross-platform Text Expander written in Rust.
 - [![Open-Source Software][oss icon]](https://github.com/mautosoft/maxautoclicker/) [Max Auto Clicker](https://maxautoclicker.blogspot.com/) - Automate your mouse clicks easily with this awesome cross-platform application (for Windows and Linux Desktops).
+- [![Open-Source Software][oss icon]](https://github.com/Muminur/MuttonText) [MuttonText](https://github.com/Muminur/MuttonText) - Free, privacy-focused text expansion tool with sub-50ms latency, dynamic variables, and Beeftext compatibility.
 - [![Open-Source Software][oss icon]](https://github.com/robiot/xclicker) [XClicker](https://xclicker.xyz/) - A blazing fast gui autoclicker for linux.
 
 #### Dock
