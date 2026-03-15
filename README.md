@@ -1663,7 +1663,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [![Open-Source Software][oss icon]](https://github.com/sharkdp/hyperfine) [hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool.
 - [![Open-Source Software][oss icon]](https://github.com/orhun/kmon) [kmon](https://kmon.cli.rs/) - Linux Kernel Manager and Activity Monitor.
 - [![Open-Source Software][oss icon]](https://github.com/Syllo/nvtop) [NVTOP](https://github.com/Syllo/nvtop) - GPUs process monitoring for AMD, Intel and NVIDIA.
-- [![Open-Source Software][oss icon]](https://github.com/onllm-dev/onwatch) [onWatch](https://github.com/onllm-dev/onwatch) - CLI tool that monitors AI API quota usage across 7 providers (Anthropic, OpenAI Codex, GitHub Copilot, and more) with a web dashboard. Background daemon, <50MB RAM, zero telemetry.
+- [![Open-Source Software][oss icon]](https://github.com/onllm-dev/onwatch) [onWatch](https://github.com/onllm-dev/onwatch) - Monitor AI API quota usage across multiple providers with a web dashboard.
 - [![Open-Source Software][oss icon]](https://github.com/dylanaraps/pfetch) [pfetch](https://github.com/dylanaraps/pfetch) - A pretty system information tool written in POSIX sh.
 - [![Open-Source Software][oss icon]](https://github.com/KittyKatt/screenFetch) [screenFetch](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal for Linux desktop screenshots.
 - [![Open-Source Software][oss icon]](https://github.com/amanusk/s-tui) [s-tui](https://amanusk.github.io/s-tui/) - s-tui is an UI for monitoring your computer's CPU temperature, frequency and utilization in a graphical way from the terminal.
