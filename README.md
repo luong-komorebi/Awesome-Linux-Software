@@ -321,6 +321,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [Slack](https://slack.com/downloads/linux) - Real-time messaging, archiving and search for modern teams.
 - [![Open-Source Software][oss icon]](https://github.com/telegramdesktop/tdesktop) [Telegram](https://desktop.telegram.org/) - A messaging app with a focus on speed and security, it’s super fast, simple and free.
 - [![Open-Source Software][oss icon]](https://github.com/linagora/Twake) [Twake](https://twake.app/) - Open-source alternative to Microsoft Teams.
+- [Vector](https://vectorapp.io) - No KYC, E2EE, Decentralized, Censorship-Resistant, No Metadata. Free, Open-Source.
 - [Viber](https://www.viber.com/download/) - Viber for Linux lets you send free messages and make free calls to other Viber users on any device and network, in any country.
 - [![Open-Source Software][oss icon]](https://github.com/wireapp) [Wire](https://wire.com/en/) - Secure communication. Full privacy.
 - [![Open-Source Software][oss icon]](https://github.com/zulip/zulip) [Zulip](https://zulip.com/) - Zulip is a powerful, open source group chat application that combines the immediacy of real-time chat with the productivity benefits of threaded conversations.
