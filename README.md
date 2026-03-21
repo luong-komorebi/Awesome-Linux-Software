@@ -1151,6 +1151,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [![Open-Source Software][oss icon]](https://github.com/jonls/redshift) [Redshift](http://jonls.dk/redshift/) - Redshift adjusts the color temperature of your screen according to your surroundings. This may help your eyes hurt less if you are working in front of the screen at night.
 - [![Open-Source Software][oss icon]](https://www.speedcrunch.org/) [SpeedCrunch](https://www.speedcrunch.org/) - A nice, open source, high-precision scientific calculator.
 - [![Open-Source Software][oss icon]](https://github.com/jml/undistract-me) [Undistract me](https://github.com/jml/undistract-me) - Notifies you when long-running terminal commands complete.
+- [![Open-Source Software][oss icon]](https://github.com/y0sif/whisrs) [whisrs](https://github.com/y0sif/whisrs) - Linux-first voice-to-text dictation tool with cloud and local transcription backends, written in Rust.
 - [Xmind](https://xmind.app/) - A mind mapping tool.
 
 #### Note Taking
