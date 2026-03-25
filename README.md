@@ -1409,6 +1409,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [![Open-Source Software][oss icon]](https://github.com/wez/wezterm) [WezTerm](https://wezfurlong.org/wezterm/) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust.
 - [![Open-Source Software][oss icon]](https://invisible-island.net/xterm/) [Xterm](https://invisible-island.net/xterm/) - The Xterm program is a terminal emulator for the X Window System. It provides DEC VT102 and Tektronix 4014 compatible terminals for programs that can't use the window system directly.
 - [![Open-Source Software][oss icon]](https://invent.kde.org/utilities/yakuake) [Yakuake](https://apps.kde.org/yakuake/) - A Quake-style terminal emulator based on KDE Konsole technology.
+- [Yaw](https://yaw.sh) - A cross-platform terminal with built-in file editor, SSH client, connection manager, and AI assistant.
 - [![Open-Source Software][oss icon]](https://github.com/zellij-org/zellij) [Zellij](https://zellij.dev/) - A terminal workspace and multiplexer. Letting you open several panes and tabs to run different programs, share a terminal session with others and more. Very user friendly and intuitive.
 
 ### Text Editors
