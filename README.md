@@ -244,9 +244,8 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [![Open-Source Software][oss icon]](https://github.com/needle-and-thread/vocal) [Vocal](https://vocalproject.net/) - Podcast client for the modern desktop.
 
 #### Utilities
-- [![Open-Source Software][oss icon]](https://github.com/rcspam/dictee) [dictee](https://github.com/rcspam/dictee) - Push-to-talk voice dictation for Linux. 100% local, multilingual (25+ languages), with speaker diarization. GTK3/Bash frontend, Rust/ONNX backend.
-
 - [![Open-Source Software][oss icon]](https://github.com/karlstav/cava) [cava](https://github.com/karlstav/cava) - Cava is a Cross-platform Audio Visualizer.
+- [![Open-Source Software][oss icon]](https://github.com/rcspam/dictee) [dictee](https://github.com/rcspam/dictee) - Push-to-talk voice dictation for Linux with KDE Plasma 6 plasmoid, 4 offline ASR backends, post-processing and translation. 100% local, 25+ languages.
 - [![Open-Source Software][oss icon]](https://gitlab.gnome.org/World/eartag) [Ear Tag](https://apps.gnome.org/EarTag/) - Small and simple audio file tag editor.
 - [![Open-Source Software][oss icon]](https://github.com/GNOME/easytag) [EasyTag](https://github.com/GNOME/easytag) - Edit audio file metadata.
 - [![Open-Source Software][oss icon]](https://github.com/enzo1982/freac) [fre:ac](https://www.freac.org) - fre:ac is a free audio converter and CD ripper with support for various popular formats and encoders. It currently converts between MP3, MP4/M4A, WMA, Ogg Vorbis, FLAC, AAC, WAV and Bonk formats.
