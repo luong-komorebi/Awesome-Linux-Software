@@ -2,6 +2,7 @@
 
 ![Tux](img/tux.png)
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for Linux-based multi-agent orchestration, automated system management, and infrastructure monitoring. MIT licensed.
 ## News
 
 - **May 2025:** A new web app for browsing Awesome Linux Software has been released! Check it out at [luong-komorebi.github.io slash Awesome Linux Software](https://luong-komorebi.github.io/Awesome-Linux-Software/).
